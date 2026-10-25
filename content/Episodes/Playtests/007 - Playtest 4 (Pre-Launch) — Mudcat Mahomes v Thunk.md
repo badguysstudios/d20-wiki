@@ -43,31 +43,31 @@ tags: [episode, playtests]
 29. **2:16:15 — The Grandmaster spares both.** She freezes time: "My champions, this budding romance… I am pleased with this performance. And as my heart grows a little less cold… I have chosen… to spare you both… on one condition. That I be invited to the after party." She'll bring the beer. **"Arbiter… I wish to keep them both in the ledger. Note them both as today's winners."** The Arbiter: "We'll just pretend that those other Thunks never existed and had no families." Octothunk will be returned to his octopus world (with his eight arms eventually): "I've never just had two arms before."
 
 ## Who and what appears
-**Mudcat Mahomes.** Catfish-man (gills, scales, webbed feet, slime, "tiny balls"); trench coat with nothing underneath, m'lady fedora; folds his clothes "like daddy told me." Archer (fighter, arcane archer: banishing, enfeebling and curving shots; sharpshooter; druidcraft). From/heading to **Kansas City** for "subpar barbecue." Air guitar; an "Aaron Lewis fish hook" piercing. Lives in a three-level townhome with a two-car garage. Loves Top Gun and *The Program* on VHS. Ate a giant rat. **Shot the Grandmaster with a curving arrow.** Killed Thunk and young Thunk; banished his past self and Hamster. **Declared a winner; spared.** (Not the same as "Mudcat Malone," "a whole different guy.")
+**[[Characters/Mudcat Mahomes|Mudcat Mahomes.]]** Catfish-man (gills, scales, webbed feet, slime, "tiny balls"); trench coat with nothing underneath, m'lady fedora; folds his clothes "like daddy told me." Archer (fighter, arcane archer: banishing, enfeebling and curving shots; sharpshooter; druidcraft). From/heading to **Kansas City** for "subpar barbecue." Air guitar; an "Aaron Lewis fish hook" piercing. Lives in a three-level townhome with a two-car garage. Loves Top Gun and *The Program* on VHS. Ate a giant rat. **Shot the Grandmaster with a curving arrow.** Killed Thunk and young Thunk; banished his past self and Hamster. **Declared a winner; spared.** (Not the same as "Mudcat Malone," "a whole different guy.")
 
-**Thunk** (the original). Goliath monk (the Grandmaster calls him a Goliath) from a mountain, where he picked berries and hung out with goats; necklace of fingers from everyone he's killed; can't count; "Thunk never miss leg day"; protective of "lady." **Killed by Mudcat.**
+**[[Characters/Thunk|Thunk]]** (the original). Goliath monk (the Grandmaster calls him a Goliath) from a mountain, where he picked berries and hung out with goats; necklace of fingers from everyone he's killed; can't count; "Thunk never miss leg day"; protective of "lady." **Killed by Mudcat.**
 
-**Young Thunk.** A younger visage of Thunk from the time portal, "young and supple and buff," 40 HP; killed by Mudcat. The Grandmaster calls him a small child.
+**[[Characters/Young Thunk|Young Thunk.]]** A younger visage of Thunk from the time portal, "young and supple and buff," 40 HP; killed by Mudcat. The Grandmaster calls him a small child.
 
-**Octothunk.** Thunk from an octopus world/timeline: eight arms, then two after the Grandmaster takes six for dabbing. Threw the stone table; damaged the wall (billed); betrayed the truce; agreed to the after-party. **Declared a winner; to be returned to his octopus world.**
+**[[Characters/Octothunk|Octothunk.]]** Thunk from an octopus world/timeline: eight arms, then two after the Grandmaster takes six for dabbing. Threw the stone table; damaged the wall (billed); betrayed the truce; agreed to the after-party. **Declared a winner; to be returned to his octopus world.**
 
-**Past Mudcat Mahomes.** A younger visage; banished, then broke his own bow and fled into the time portal.
+**[[Characters/Past Mudcat Mahomes|Past Mudcat Mahomes.]]** A younger visage; banished, then broke his own bow and fled into the time portal.
 
-**Helena.** The Grandmaster's pet dinosaur, kept in the past and summoned through the time portal.
+**[[Characters/Helena|Helena.]]** The Grandmaster's pet dinosaur, kept in the past and summoned through the time portal.
 
-**Hamster ("Stir"), the blood elemental.** Named by the Grandmaster; drained the dryad; took the shape of a blood hamster with tiny black eyes; banished by Mudcat.
+**[[Characters/Hamster|Hamster ("Stir"), the blood elemental.]]** Named by the Grandmaster; drained the dryad; took the shape of a blood hamster with tiny black eyes; banished by Mudcat.
 
-**The dryad and the fire snake.** Portal creatures; the dryad was drained by Hamster, the snake shot back into its portal.
+**[[Characters/The dryad and the fire snake|The dryad and the fire snake.]]** Portal creatures; the dryad was drained by Hamster, the snake shot back into its portal.
 
-**The Grandmaster.** Rewinds time "like a Time Lord"; **resistant to necrotic damage**; bejeweled rings; wings; employs the Arbiter (performance and quarterly reviews, a Christmas bonus); keeps a ledger of winners; has a pet dinosaur; put up a new wall in the keep last month; goblins clean up after her. Followed no precedents: "my rules."
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster.]]** Rewinds time "like a Time Lord"; **resistant to necrotic damage**; bejeweled rings; wings; employs the Arbiter (performance and quarterly reviews, a Christmas bonus); keeps a ledger of winners; has a pet dinosaur; put up a new wall in the keep last month; goblins clean up after her. Followed no precedents: "my rules."
 
-**The Arbiter.** Stripy referee shirt; anthem arranger; speaks every language; writing memoirs; claims to be her best friend; summons creatures and visages; builds the portals ("so simple a child could solve it"). Doesn't like the tech goblins ("They don't like you").
+**[[Characters/The Arbiter|The Arbiter.]]** Stripy referee shirt; anthem arranger; speaks every language; writing memoirs; claims to be her best friend; summons creatures and visages; builds the portals ("so simple a child could solve it"). Doesn't like the tech goblins ("They don't like you").
 
-**Goblins / tech goblins.** Clean up and run the sound.
+**[[Characters/Goblins|Goblins / tech goblins.]]** Clean up and run the sound.
 
 ### Places
-- **The Isolated Keep**: the Grandmaster's "little secret," stowed away from time and space; circular platform, walls, a giant stone table ("a table for giants"), slick wet floor, four portals (time, fire, blood, nature). Jumping out throws you back through the time portal. Ring of bleachers.
-- **Kansas City** and **Mudcat's townhome** (his home world). **Thunk's mountain.** **The octopus world** (Octothunk's plane).
+- **[[Places/The Isolated Keep|The Isolated Keep]]**: the Grandmaster's "little secret," stowed away from time and space; circular platform, walls, a giant stone table ("a table for giants"), slick wet floor, four portals (time, fire, blood, nature). Jumping out throws you back through the time portal. Ring of bleachers.
+- **[[Places/Kansas City|Kansas City]]** and **Mudcat's townhome** (his home world). **Thunk's mountain.** **The octopus world** (Octothunk's plane).
 
 ### Unresolved references
 - **"A pig, a spider, and a small little boy"**: the Arbiter's previous entertainment, a roleplay riff (Drew): canon as stated, never shown on screen.

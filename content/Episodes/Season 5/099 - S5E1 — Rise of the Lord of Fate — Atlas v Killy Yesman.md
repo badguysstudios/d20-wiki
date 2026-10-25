@@ -223,7 +223,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**The Lord of Fate** (Drew). The ruler of the Dread Fortress, sitting on its throne; he is the former Arbiter (he is called "the Arbiter" by slip at 0:31:59 and 1:12:51, and Atlas says "I'll ask the Arbiter next time").
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). The ruler of the Dread Fortress, sitting on its throne; he is the former Arbiter (he is called "the Arbiter" by slip at 0:31:59 and 1:12:51, and Atlas says "I'll ask the Arbiter next time").
 - **In this episode:**
   - He made Thea from a worm and named her the Arbiter.
   - He had the Grandmaster "fired… laid off" and made a beheading joke about her "severance package."
@@ -248,7 +248,7 @@ tags: [episode, season-5]
   - She is bad at counting and math. She is bloodthirsty ("blood cannons").
   - She takes over the closing speech.
 
-**Atlas** (Dag). A large robot.
+**[[Characters/Atlas|Atlas]]** (Dag). A large robot.
 - **Body:**
   - Heavy iron boots, gyros and an ejecting chassis.
   - **Floating fists the size of goblins**, which work gyroscopically, by magnetic repulsion and with rocket turbines.
@@ -261,7 +261,7 @@ tags: [episode, season-5]
 - **Gained Kenny's missing arm** (a small green goblin arm out of his sternum).
 - Died after ripping out his own brain. He was carted off by goblins to be rebuilt; in Dried Blood he is being rebuilt in the locker room.
 
-**Killy Yesman** (Yang). A **Double Sun Cola** salesman found on his billboard.
+**[[Characters/Killy Yesman|Killy Yesman]]** (Yang). A **Double Sun Cola** salesman found on his billboard.
 - **Look:** twig legs; **enormous undulating balloon pecs**; the logo on his chest and shirt; **a hat with soda cans and two straws**; long blonde hair with a shiny bald spot; "the world's most punchable face" with an immovable chin.
 - **Powers:** heals by sipping soda; exploding and corrosive bottles; cola as wound sealant; butt cushion.
 - **Sponsor breaks:** the giant logo in the sky, and logos painted on Atlas's chest and head.
@@ -271,46 +271,46 @@ tags: [episode, season-5]
   - Gave his hat to the Box of Chaos and got smelling salts.
 - **In this episode:** he drank Atlas's core and swore they would sell more soda together. He is the winner.
 
-**The shadow in the Box of Chaos** (Drew). A soul newly formed from the Lord of Fate's own shadow, with yellow eyes and hands that creep over the lid.
+**[[Characters/The shadow in the Box of Chaos|The shadow in the Box of Chaos]]** (Drew). A soul newly formed from the Lord of Fate's own shadow, with yellow eyes and hands that creep over the lid.
 - It took Atlas's Void battery for its dead Game Boy.
 - It took Killy's hat, put it on and sipped the sun cola.
 - It was "all out of mouths."
 - Its touch is soft and warm; Bec suggests it has wanted human contact.
 
-**Kenny**: the owner of the missing arm. He is small and green (a goblin arm) and "pretty useless"; "He's not gonna be needing it anyway."
+**[[Characters/Kenny|Kenny]]**: the owner of the missing arm. He is small and green (a goblin arm) and "pretty useless"; "He's not gonna be needing it anyway."
 
 **Acolytes named:**
 - Lady Magdala, McBloft, Julia and Lox (dice taken by Thea).
 - Acolytes in ponchos.
 - Acolytes summoned from their homes and toilets.
 
-**Chinchillas:**
+**[[Lore/Chinchillas|Chinchillas:]]**
 - One that inserts an AA battery.
 - Towel-bearers.
 - Chef chinchillas who run a hibachi grill.
 - One that provided "a battery from the Void."
 
-**Goblins**, "showing up for the first time": they carry Atlas off on a canvas and rebuild him in the locker room.
+**[[Characters/Goblins|Goblins]]**, "showing up for the first time": they carry Atlas off on a canvas and rebuild him in the locker room.
 
-**The Grandmaster**: mentioned only. "Fired / laid off"; "She's going to get [a severance package] soon enough. It's a little beheading joke." (Bec's OOC note: in prison and potentially about to lose her head.)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**: mentioned only. "Fired / laid off"; "She's going to get [a severance package] soon enough. It's a little beheading joke." (Bec's OOC note: in prison and potentially about to lose her head.)
 
 ### Places
-- **The Dread Fortress**: entered through a skull's open mouth in the lava field. It is subterranean, with dew-wet walls, pictures of "what used to be the Arbiter," and **blue tabards everywhere**. It is now silent and "straight-laced."
-- **Throne Room (Dread Fortress)**: the Lord of Fate's seat.
-- **The front lawn / garden of the Dread Fortress**: this episode's arena, with fresh-cut grass, a garden shed with a pitchfork, and a skull lawnmower.
-- **The storage below the fortress full of tuna cans.**
-- **The locker room backstage behind the Dread Fortress** (Dried Blood).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: entered through a skull's open mouth in the lava field. It is subterranean, with dew-wet walls, pictures of "what used to be the Arbiter," and **blue tabards everywhere**. It is now silent and "straight-laced."
+- **[[Places/Throne Room (Dread Fortress)|Throne Room (Dread Fortress)]]**: the Lord of Fate's seat.
+- **[[Places/The front lawn|The front lawn / garden of the Dread Fortress]]**: this episode's arena, with fresh-cut grass, a garden shed with a pitchfork, and a skull lawnmower.
+- **[[Places/The storage below the fortress full of tuna cans|The storage below the fortress full of tuna cans.]]**
+- **[[Places/The locker room backstage behind the Dread Fortress|The locker room backstage behind the Dread Fortress]]** (Dried Blood).
 - "The temple," which Thea has visited, where "holy macaroni" exists.
 
 ### Items
-- **Double Sun Cola**:
+- **[[Items/Double Sun Cola|Double Sun Cola]]**:
   - Glass bottles with two sun-like balls at the bottom. It tastes "like science." It is sticky, an adhesive and a paint stripper, and corrosive in its red variety.
   - Banned in at least three countries. It "reminds you of food."
 - The skull lawnmower (Harley pipes, buzzsaw jaw).
 - Killy's soda-can hat with straws, given to the shadow in the box.
-- **The Box of Chaos**: pink and yellow heatless fire. It had no soul ("leftover essences" only) until the Lord of Fate's shadow was put in.
-- **Kenny's missing arm**: +Instinct; it goes dead on a defense roll of 1.
-- **Smelling salts**: "enough to wake your ancestors up from the dead"; they clear a status effect.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: pink and yellow heatless fire. It had no soul ("leftover essences" only) until the Lord of Fate's shadow was put in.
+- **[[Items/Kenny's missing arm|Kenny's missing arm]]**: +Instinct; it goes dead on a defense roll of 1.
+- **[[Items/Smelling salts|Smelling salts]]**: "enough to wake your ancestors up from the dead"; they clear a status effect.
 - The battery from the Void ("Raw Power").
 - Thea's clipboard, whistle and hatchet.
 - The shadow's Game Boy (dead three weeks).

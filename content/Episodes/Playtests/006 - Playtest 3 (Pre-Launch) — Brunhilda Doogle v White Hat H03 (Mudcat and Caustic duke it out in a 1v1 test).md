@@ -33,13 +33,13 @@ tags: [episode, playtests]
 19. **3:13:44 — White Hat dies too.** "It seems that this was my day to shine in the sun." Rain pours into the open circuits in his crushed throat; he short-circuits, sparking in all directions, staring at the sky, and "ceases to function. It's rusted and stopped." **"Mutually assured destruction." "On D20 Deathmatch. It's a tie."**
 
 ## Who and what appears
-**Brunhilda Doogle** (Bec). Yuan-ti (Bec calls it "yaunty"), Gloom Stalker ranger, level 13. Coral-snake colors: red and black with gold instead of yellow, and silver ("Red touch yellow, kills a fellow"). Speaks with a hiss. Longbow that was **"a gift"**; two short swords; can use her tail to strike, throw and strangle. Animal friendship works on snakes. Spells: thorn whip, poison spray, fear, greater invisibility, frostbite; hide in plain sight. Immune to poison (she says). Ate the purple "dog berries" many times. Befriended a constrictor snake, which White Hat killed. **Died, tied.**
+**[[Characters/Brunhilda Doogle|Brunhilda Doogle]]** (Bec). Yuan-ti (Bec calls it "yaunty"), Gloom Stalker ranger, level 13. Coral-snake colors: red and black with gold instead of yellow, and silver ("Red touch yellow, kills a fellow"). Speaks with a hiss. Longbow that was **"a gift"**; two short swords; can use her tail to strike, throw and strangle. Animal friendship works on snakes. Spells: thorn whip, poison spray, fear, greater invisibility, frostbite; hide in plain sight. Immune to poison (she says). Ate the purple "dog berries" many times. Befriended a constrictor snake, which White Hat killed. **Died, tied.**
 
-**White Hat H03** (Drew). Warforged gunslinger with pistols that can form a metal shield; white hat and pocket square. Speaks Loxodon and Leonin, "so he can speak to the animal races." "Southern, sort of." "Special robot eyes." Bane makes his eyes glow red. Resistant to poison, shrugs off cold. Spits oil. "Founded on the principles of fair economics in the oil trade." Rusts in rain. Chat nicknamed him **White Hat Ho** after he lost his hat: "Nobody calls me a hoe but me." **Died, tied.**
+**[[Characters/White Hat H03|White Hat H03]]** (Drew). Warforged gunslinger with pistols that can form a metal shield; white hat and pocket square. Speaks Loxodon and Leonin, "so he can speak to the animal races." "Southern, sort of." "Special robot eyes." Bane makes his eyes glow red. Resistant to poison, shrugs off cold. Spits oil. "Founded on the principles of fair economics in the oil trade." Rusts in rain. Chat nicknamed him **White Hat Ho** after he lost his hat: "Nobody calls me a hoe but me." **Died, tied.**
 
-**The constrictor snake.** Chaos-event creature; bit White Hat and chipped a tooth; charmed by Brunhilda; shot to pieces by White Hat.
+**[[Characters/The constrictor snake|The constrictor snake.]]** Chaos-event creature; bit White Hat and chipped a tooth; charmed by Brunhilda; shot to pieces by White Hat.
 
-**The purple berries ("dog berries").** Grow all over the forest; heal, but make you see funny colors the first time.
+**[[Characters/The purple berries (dog berries)|The purple berries ("dog berries").]]** Grow all over the forest; heal, but make you see funny colors the first time.
 
 ### Places
 - An unnamed forest arena: rocks and a cliff (made rockier by Bec), a ravine, a mushroom pedestal, berry bushes; flooded by rain.

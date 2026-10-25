@@ -150,7 +150,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Iris** (speaker 00). A dead bride. She wears her own torn wedding gown, has reddish hair and stitches all over, carries a weathered bouquet, and her limbs and eyes come loose.
+**[[Characters/Iris|Iris]]** (speaker 00). A dead bride. She wears her own torn wedding gown, has reddish hair and stitches all over, carries a weathered bouquet, and her limbs and eyes come loose.
 - Recently dead. Wine leaks from **stab holes in her stomach** ("I was sad").
 - **Both eyes are now wine-stained red.**
 - She stitches herself with flesh and odd strands, including black thread.
@@ -158,7 +158,7 @@ tags: [episode, season-6]
 - **She murdered Thea with a knife at the banquet to get vengeance**, then **blew up her resurrected husband Tony with a rocket launcher**. "I've never felt more alive." The Grandmaster praised her energy.
 - She says she's there "to eventually compete."
 
-**Richard S. Skelman** (speaker 05). "Richard Skeleton Skelman," "Dungeon Designer and Keeper of the Year," from a long line of Skelmans.
+**[[Characters/Richard S. Skelman|Richard S. Skelman]]** (speaker 05). "Richard Skeleton Skelman," "Dungeon Designer and Keeper of the Year," from a long line of Skelmans.
 - A skeleton, "one quarter of a guy." He was resurrected without his clothes. He doesn't remember his own murder but knows he was murdered.
 - **His voice and thought come from his magical bone, his big toe.**
 - His dungeon application was rejected for an overblown bone budget, with an insulting imp messenger.
@@ -166,7 +166,7 @@ tags: [episode, season-6]
 - He noticed Thea's body first.
 - **Fired a rocket at the Arbiter, which was thrown back as a homing missile. He is reduced to a skull and his toe**, which Dr. Octo stuck to a femur.
 
-**Cornelius Antonio "C.A." Bunga** (speaker 03). A hip-high slice of buttered sourdough toast.
+**[[Characters/Cornelius Antonio C.A. Bunga|Cornelius Antonio "C.A." Bunga]]** (speaker 03). A hip-high slice of buttered sourdough toast.
 - Syrup eyes, syrup mustache and syrup-elemental limbs that leave sticky residue. A leaf top hat and a breadstick cane.
 - **Married to Lady Tortiliana**, Lady Elizabeth's rival. They can't have children.
 - His ex was Pop-Tart ("that jelly was toxic").
@@ -178,45 +178,45 @@ tags: [episode, season-6]
 - Murdered face down in gravy, yet kept talking as a "corpse." **Revived at the end** and perched on Iris's shoulder.
 - Claims to have **trademarked "time eyes"** and to earn money whenever the Arbiter uses the spell.
 
-**The Arbiter** (Drew). Opens the "new era" (build champions up, then watch them kill each other).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). Opens the "new era" (build champions up, then watch them kill each other).
 - Created Thea; rejects Stuart twice. Wants a new "goo guy." Negotiates with the Chinchilla Union.
 - **Uses temporal transmogrification ("time eyes") to replay the night in reverse**, with multicolored chaos lightning in his eyes.
 - **Killed Iris and her husband at their wedding feast over a double-booked Deathmatch venue.** He apologized, saying he's "working on being a little bit better."
 - Stopped a rocket in time and resurrected Tony from pieces.
 
-**Grandmaster Elusia Skypiercer** (Bec). Back on the Dread Fortress throne; hosts the feast.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). Back on the Dread Fortress throne; hosts the feast.
 - Wanted to bite Bunga. Invites all employees for morale.
 - Promised a negotiable prize for finding the murderer. Served weapons for dessert.
 - Sided with the chinchillas on pizza. Celebrates rebirth through the Deathmatch.
 
-**Stuart the Gray** (Bec). The Dread Fortress IT guy, in khaki shorts and a blue polo, with over-gelled spiky hair.
+**[[Characters/Stuart|Stuart the Gray]]** (Bec). The Dread Fortress IT guy, in khaki shorts and a blue polo, with over-gelled spiky hair.
 - A fan of the Arbiter. Keeps applying to the magic department ("doesn't have a magic bone in his body").
 - Brought a fake truth amulet ("made in China," remote button).
 
-**Lady Elizabeth Barry Ann Poopshoe** (Bec). A wealthy Loxodon in a red velvet cloak and jewels, with her drink taped to her foot.
+**[[Characters/Lady Elizabeth Barry Ann Poopshoe|Lady Elizabeth Barry Ann Poopshoe]]** (Bec). A wealthy Loxodon in a red velvet cloak and jewels, with her drink taped to her foot.
 - **Her family runs sewage and waste disposal across the Void ("the Poop Chute… It's French")**.
 - Rival of Lady Tortiliana. Calls everyone trash.
 
-**Jercasso** (Bec). The trench coat. **It was three chinchillas, Jervia, Kevin and Sora**, of **the Chinchilla Union, on strike for a pizza party**. They are "Boston chinchillas" who smoke cigarettes. Sora carried the other two.
+**[[Characters/Jercasso|Jercasso]]** (Bec). The trench coat. **It was three chinchillas, Jervia, Kevin and Sora**, of **the Chinchilla Union, on strike for a pizza party**. They are "Boston chinchillas" who smoke cigarettes. Sora carried the other two.
 
-**Dr. Octo / "Dr. Octor"** (Bec). A weak old "doctor" in a white coat from "medical school."
+**[[Characters/Dr. Octo|Dr. Octo / "Dr. Octor"]]** (Bec). A weak old "doctor" in a white coat from "medical school."
 - Uses a stethoscope plugged into their arm. Pronounced Thea dead.
 - Ate evidence thread. Licks toes; has sticky saliva. Probably not a real doctor.
 
-**Tim (the Wicked)**. A gelatinous cube living downstairs/in the kitchen.
+**[[Characters/Tim|Tim (the Wicked)]]**. A gelatinous cube living downstairs/in the kitchen.
 - Acidic goo that leaves bones alone, about 1 sp an ounce. "Needs no rest."
 - Has caught three adventurers at once and has devoured cows. Used as Skelman's decoy.
 
-**Tony**. Iris's husband, killed by the Arbiter. He married into "a lot of families for the money" and stole from Iris. Resurrected by the Arbiter, then rocketed to pieces by Iris.
+**[[Characters/Tony|Tony]]**. Iris's husband, killed by the Arbiter. He married into "a lot of families for the money" and stole from Iris. Resurrected by the Arbiter, then rocketed to pieces by Iris.
 
-**Lady Tortiliana**. Bunga's wife, mentioned only.
+**[[Characters/Lady Tortiliana|Lady Tortiliana]]**. Bunga's wife, mentioned only.
 
-**Pop-Tart**. Bunga's ex, mentioned only.
+**[[Characters/Pop-Tart|Pop-Tart]]**. Bunga's ex, mentioned only.
 
-**Unnamed:** the insulting imp who rejected Skelman; the invited journalist; goblin staff.
+**[[Characters/Unnamed|Unnamed:]]** the insulting imp who rejected Skelman; the invited journalist; goblin staff.
 
 ### Places
-- **The Dread Fortress**: lava terrain, a hot and humid "sulking mouth" with cold stone floors.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: lava terrain, a hot and humid "sulking mouth" with cold stone floors.
   - The bloody carpet.
   - The reception hall, with a diamond mosaic floor and a stage.
   - The banquet hall, with long tables and a chandelier.

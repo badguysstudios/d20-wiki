@@ -125,54 +125,54 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**King Bofus / King Man-Frog Bofus** (Dr. Bees). Pronouns they/it.
+**[[Characters/King Bofus|King Bofus / King Man-Frog Bofus]]** (Dr. Bees). Pronouns they/it.
 - **Look:** a frog mask topped by a crown. Under the mask is **a tiny, sad frog head on a large man's body**; the crown is held on by a tiny finger.
 - **Nature:** claims to be "50% man, 50% frog, 50% idiot, 50% not good at percentages." Leader of a frog nation, "the one with the frogs."
 - **History:** previously fought Richard Knottley, who threw a Peloton bike at him, and died in that tie. He is haunted by Knottley's ghost, which now lives "deep within my soul", and has a **fresh Peloton tattoo** on his chest.
-- **Craig:** once a frog prince, made king by his ex-lover Craig, Bone Daddy's father ("I got a promotion").
+- **[[Characters/Craig|Craig:]]** once a frog prince, made king by his ex-lover Craig, Bone Daddy's father ("I got a promotion").
 - **Habits:** cannot read. Owns a sad-frog mug. Thinks milk is a "big milk" myth. Has strong views on Kraft Singles. Safe word "amphibian." Into feet.
 - **Powers:** fires frogs from under the mask, summons frogs from the ground, the Tongue Sword (and later three tongues), signature move the Frog Splash (swaps the opponent's stats).
-- **Box of Chaos:** got Morir's Cataclysm (glowing skin markings) for his pom-pom hat, and the Arbiter's ring (master of time and space for a round) for his crown.
+- **[[Lore/The Box of Chaos|Box of Chaos:]]** got Morir's Cataclysm (glowing skin markings) for his pom-pom hat, and the Arbiter's ring (master of time and space for a round) for his crown.
 - **Fate:** died in the tie, unmasked, kissing Craig. Revived in the locker room (Dried Blood).
 
-**Bone Daddy / Bonald Daddison** (Johnny Stanton). A returning champion from a previous season.
+**[[Characters/Bone Daddy|Bone Daddy / Bonald Daddison]]** (Johnny Stanton). A returning champion from a previous season.
 - **Look:** pale, spindly limbs, sleeveless coat, very reflective sunglasses (and spares), a whip.
 - **Family:** a "mommy's boy." Only his mother may call him Bonald. His parents separated when he was four, and he learned "everything I know" from his father.
 - **Love life:** his ex is **Tina the Tooth Fairy**, who stitched his tooth pom-pom hat. "Can never truly die in any way that matters" as long as Darcy nurses him back.
 - **Tastes:** favorite food Totino's. Drinks only whole milk.
 - **Powers:** raises the dead (zombies, "Darcy's brothers and sisters"); signature move **Death Armor Reborn in the Combat Yard (D-A-R-C-Y)**, the bone mech, with the attack "Daddy's Girl"; heroic surge as a tidal wave of bone.
-- **Box of Chaos:** traded his sunglasses for doubled nat-20 effects (his "inner monster").
+- **[[Lore/The Box of Chaos|Box of Chaos:]]** traded his sunglasses for doubled nat-20 effects (his "inner monster").
 - **Fate:** died in the tie, forgetting the safe word. Revived in the locker room.
 
-**Darcy**. Bone Daddy's skeleton partner, "my true love." The relationship is unlabeled: not familiar, minion or mother, sometimes "mommy." She has long-fingered bone claws and two thumbs, and wears a three-pom-pom hat from Thea. Her bones can scatter and reassemble. She becomes the bone mech and nods "it's okay" at the end.
+**[[Characters/Darcy|Darcy]]**. Bone Daddy's skeleton partner, "my true love." The relationship is unlabeled: not familiar, minion or mother, sometimes "mommy." She has long-fingered bone claws and two thumbs, and wears a three-pom-pom hat from Thea. Her bones can scatter and reassemble. She becomes the bone mech and nods "it's okay" at the end.
 
-**Bone Mother / Bone Mummy**. Bone Daddy's mother, in the stands beside the goblins and Thea, wearing a tooth pom-pom hat. She pucks Totino's 50 yards and rides his shoulder in the surge. She no longer speaks to Craig.
+**[[Characters/Bone Mother|Bone Mother / Bone Mummy]]**. Bone Daddy's mother, in the stands beside the goblins and Thea, wearing a tooth pom-pom hat. She pucks Totino's 50 yards and rides his shoulder in the surge. She no longer speaks to Craig.
 
-**Craig ("Bone Daddy Daddy")**. Bone Daddy's father and Bofus's ex. He appears in the stands through Bofus's failed portal, endorses Bofus punching his son, rides the surge, delivers the safe-word warning, and shares the final kiss with Bofus. Drew said "Craig Dennison?"; his surname is uncertain.
+**[[Characters/Craig|Craig ("Bone Daddy Daddy")]]**. Bone Daddy's father and Bofus's ex. He appears in the stands through Bofus's failed portal, endorses Bofus punching his son, rides the surge, delivers the safe-word warning, and shares the final kiss with Bofus. Drew said "Craig Dennison?"; his surname is uncertain.
 
-**Tina the Tooth Fairy**. Bone Daddy's ex. Bofus tried twice to summon her; the only result was a single tooth.
+**[[Characters/Tina the Tooth Fairy|Tina the Tooth Fairy]]**. Bone Daddy's ex. Bofus tried twice to summon her; the only result was a single tooth.
 
-**Richard Knottley** (ghost). Bofus's previous opponent: the Peloton thrower, a conspiracy theorist about the chinchilla government, wearing a tin hat and a tiny mustache. He left a "Kill Switch video." His ghost appears through Bofus.
+**[[Characters/Richard Knottley|Richard Knottley]]** (ghost). Bofus's previous opponent: the Peloton thrower, a conspiracy theorist about the chinchilla government, wearing a tin hat and a tiny mustache. He left a "Kill Switch video." His ghost appears through Bofus.
 
-**Thea**. Has impish pink wings and a glitter trail, long pointy ears, a ridged spine and an arrow-tipped tail. She runs the goblins' winter wardrobe, cries literal crocodiles, brings 2% milk and toasted bread, gets thrown as a basketball, and throws a tantrum after her nat 1.
+**[[Characters/Thea (Plintos)|Thea]]**. Has impish pink wings and a glitter trail, long pointy ears, a ridged spine and an arrow-tipped tail. She runs the goblins' winter wardrobe, cries literal crocodiles, brings 2% milk and toasted bread, gets thrown as a basketball, and throws a tantrum after her nat 1.
 
-**The Lord of Fate**. Refuses gloves and resizes Thea's head with a snap. Remembers Bone Daddy's gyrations from last time. He has "a lot of issues" with Thea and puts them "on her record."
+**[[Characters/The Arbiter|The Lord of Fate]]**. Refuses gloves and resizes Thea's head with a snap. Remembers Bone Daddy's gyrations from last time. He has "a lot of issues" with Thea and puts them "on her record."
 
-**The Box of Chaos's shadowy figure**. Has yellow eyes and claws. "Not picky," but prefers real cheese products. It now wears Bone Daddy's sunglasses and tried on Bofus's pom-pom hat.
+**[[Characters/The Box of Chaos's shadowy figure|The Box of Chaos's shadowy figure]]**. Has yellow eyes and claws. "Not picky," but prefers real cheese products. It now wears Bone Daddy's sunglasses and tried on Bofus's pom-pom hat.
 
-**The goblins**. Bundled up for the cold. Each gets a pet chinchilla with pet insurance.
+**[[Characters/Goblins|The goblins]]**. Bundled up for the cold. Each gets a pet chinchilla with pet insurance.
 
 ### Places
-- **The Dread Fortress**: the kitchen, brewery, the Grandmaster's old bedroom, the Lord of Fate's bedroom, **Thea's old bedroom (now an office)**, a large keep, and **the attic** (boxes of goblin winter clothes, a horse, photo albums, a box of crowns).
-- **The "very large chinchilla place"** for the goblins' chinchillas.
-- **The snow-capped mountaintop arena**, with jagged rocks. It is now the site of **a mountain of bones, a monument and graveyard to Bofus and Bone Daddy**.
-- **The arena locker room** (Dried Blood).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: the kitchen, brewery, the Grandmaster's old bedroom, the Lord of Fate's bedroom, **Thea's old bedroom (now an office)**, a large keep, and **the attic** (boxes of goblin winter clothes, a horse, photo albums, a box of crowns).
+- **[[Places/The very large chinchilla place|The "very large chinchilla place"]]** for the goblins' chinchillas.
+- **[[Places/The snow-capped mountaintop arena|The snow-capped mountaintop arena]]**, with jagged rocks. It is now the site of **a mountain of bones, a monument and graveyard to Bofus and Bone Daddy**.
+- **[[Places/The arena locker room|The arena locker room]]** (Dried Blood).
 - Bofus's frog kingdom (unnamed).
 
 ### Items
-- **The pom-pom hats**, which become each wearer's dream hat: Bone Daddy's teeth pom-pom, Bofus's Bone Mother hat, Darcy's three pom-poms.
-- **Morir's Cataclysm**: a leather-bound tome whose words wrap the skin in glowing markings.
-- **The Arbiter's ring**: grants mastery of time and space for one round.
+- **[[Items/The pom-pom hats|The pom-pom hats]]**, which become each wearer's dream hat: Bone Daddy's teeth pom-pom, Bofus's Bone Mother hat, Darcy's three pom-poms.
+- **[[Items/Morir's Cataclysm|Morir's Cataclysm]]**: a leather-bound tome whose words wrap the skin in glowing markings.
+- **[[Items/The Arbiter's ring|The Arbiter's ring]]**: grants mastery of time and space for one round.
 - Bofus's crown (sacrificed to the box) and frog mask (removed). Bone Daddy's whip and sunglasses (sacrificed to the box).
 - Totino's, 2% milk, toasted bread.
 

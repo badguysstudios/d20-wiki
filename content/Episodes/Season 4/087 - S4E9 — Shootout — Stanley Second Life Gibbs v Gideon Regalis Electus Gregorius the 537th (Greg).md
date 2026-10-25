@@ -148,7 +148,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Stanley "Second Life" Gibbs** (BDTeej). Introduced as "Stanley Second Life McGibbs" and called Gibbs elsewhere. "**The fastest gun in the West.**"
+**[[Characters/Stanley Second Life Gibbs|Stanley "Second Life" Gibbs]]** (BDTeej). Introduced as "Stanley Second Life McGibbs" and called Gibbs elsewhere. "**The fastest gun in the West.**"
 - Wears a hood, not a hat. Speaks with a cowboy drawl.
 - Calls himself "judge, jury, and executioner." Has no dog. An old pal "Jack" is behind the bar (whiskey joke). An expert tequila drinker.
 - **Dies and is revived by a small floating mechanical drone** with a single eye and holographic healing hands. The Grandmaster says such individuals "made a deal of some sort" to keep coming back, and "their secrets are theirs to keep."
@@ -168,7 +168,7 @@ tags: [episode, season-4]
 - Weapons: an old pistol with shadow-magic rounds, and **Daffodil**, a greater silver pistol from the Box of Chaos.
 - Last wish: that Greg bring his big sister next time. Calls Greg "Timmy 10 guns."
 
-**Gideon Regalis Electus Gregorius the 537th ("Greg", "Gregory")** (MyNameIsByf). A green-skinned lizard person ("lizard hands," a "real green" toe; "some lizards are colorblind").
+**[[Characters/Gideon Regalis Electus Gregorius the 537th (Greg|Gideon Regalis Electus Gregorius the 537th ("Greg", "Gregory")]]** (MyNameIsByf). A green-skinned lizard person ("lizard hands," a "real green" toe; "some lizards are colorblind").
 - Family and background:
   - Has many brothers and sisters. One teased him as "Gregor" (a sore spot). His "mom and pa" are mentioned.
   - **His big sister fights with a polearm and has disemboweled people.**
@@ -181,45 +181,45 @@ tags: [episode, season-4]
 - Seems smitten with the Shadow King: salutes him, "Was I also easy go?"
 - Killed by his own pistol, then slipped on his blood.
 
-**Greg's pistols.** Sentient "shit posters" (Byf).
+**[[Characters/Greg's pistols|Greg's pistols.]]** Sentient "shit posters" (Byf).
 - One broke deflecting Stanley's shot, and Stanley shot it out of the arena: "Greg, you're a bitch!"
 - The other ("you got my sibling killed") pistol-whipped Greg, shot the drone and Stanley, killed Greg, then **killed Acolyte JustJules22** while celebrating.
 - **Destroyed by the Grandmaster's longbow.** In Dried Blood it is embarrassed to have died to a longbow.
 
-**Stanley's drone.** A little floating mechanical figure with a single eye; it seems to be "growing sentience." Shattered by Greg's pistol. In Dried Blood it complains about Stanley and says it will miss him.
+**[[Characters/Stanley's drone|Stanley's drone.]]** A little floating mechanical figure with a single eye; it seems to be "growing sentience." Shattered by Greg's pistol. In Dried Blood it complains about Stanley and says it will miss him.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - Now holds the throne room. He "recently learned of video games," plays PlayStation with "Danny," who is 12.
 - Bought the console at Best Buy because the **Radio Shack in Prexmarin** was closed. Says "**I've been in the box for 700 years.**"
 - Has killed a Gregor (slit his throat).
 - **Keeps Vythorn's prismatic spray rings "as mementos."**
 - Primed the Box of Chaos by pulping an Acolyte on the pool table. Gave away the drone's weakness. Zipped an 8-ball past Greg's head. Was annoyed that he didn't get to kill anyone.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Walks "very empty hallways." Says "We are clearly an Xbox household."
 - **Her dog is missing.** She believes "he's alive somewhere," keeps a small empty throne beside her seat, and clutches an amulet that she crushes to open the arena portal.
 - Rolls a plushy d20. Gave Stanley an extra d12 of healing. Killed the sentient pistol with her bow.
 
-**The Box of Chaos soul.** A "monstrosity of a soul now trapped in the box." Voiced by Drew. Didn't want the toe, took it anyway, and gave it back as a pendant.
+**[[Characters/The Box of Chaos soul|The Box of Chaos soul.]]** A "monstrosity of a soul now trapped in the box." Voiced by Drew. Didn't want the toe, took it anyway, and gave it back as a pendant.
 
-**Acolytes.**
+**[[Lore/The Acolytes|Acolytes.]]**
 - "Elendari" had their cowboy hat shot through (name uncertain).
 - An Acolyte was sacrificed to the box (name garbled).
 - **JustJules22** was killed by a stray bullet.
 - Tequila vendors; one heckler shouts "your enemies can't kill you if they're already dead!"
 
-**Danny.** The Shadow King's 12-year-old online gaming "friend."
+**[[Characters/Danny|Danny.]]** The Shadow King's 12-year-old online gaming "friend."
 
 ### Places
-- **The Shadow King's throne room** (the Dread Fortress, inferred from the S4 context; not named): drab, dark, damp, lit by a screen.
-- **The ghost-town saloon arena:** two stories with five chandeliers, a self-playing piano, billiards/pool table, card tables, bar shelves and windows onto posts outside. Half the bar was destroyed.
-- **Prexmarin**: has (had) a Radio Shack, closed 38 years ago.
+- **[[Places/The Shadow King's throne room|The Shadow King's throne room]]** (the Dread Fortress, inferred from the S4 context; not named): drab, dark, damp, lit by a screen.
+- **[[Places/The ghost-town saloon arena|The ghost-town saloon arena:]]** two stories with five chandeliers, a self-playing piano, billiards/pool table, card tables, bar shelves and windows onto posts outside. Half the bar was destroyed.
+- **[[Places/Prexmarin|Prexmarin]]**: has (had) a Radio Shack, closed 38 years ago.
 
 ### Items
-- **Daffodil**: a greater silver pistol (+3 attack, advantage on Int/Wis/Cha saves, immune to charm). It blooms into a lava flower and burned through Stanley's holster.
-- **Greg's toe pendant**: a silver chain; as an action, fly 20 ft, and fall if not landing.
-- **Vythorn's prismatic spray rings.**
-- **The Grandmaster's amulet** (crushed, opened a portal) and her plushy d20.
+- **[[Items/Daffodil|Daffodil]]**: a greater silver pistol (+3 attack, advantage on Int/Wis/Cha saves, immune to charm). It blooms into a lava flower and burned through Stanley's holster.
+- **[[Items/Greg's toe pendant|Greg's toe pendant]]**: a silver chain; as an action, fly 20 ft, and fall if not landing.
+- **[[Items/Vythorn's prismatic spray rings|Vythorn's prismatic spray rings.]]**
+- **[[Items/The Grandmaster's amulet|The Grandmaster's amulet]]** (crushed, opened a portal) and her plushy d20.
 - The Shadow King's PlayStation (destroyed); the controller became a portal.
 - The toe beer; the one shared mug inside the Box of Chaos.
 - Stanley's melted hero-point golden bullet.

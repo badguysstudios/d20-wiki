@@ -127,7 +127,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Toocher the Toxic** (twooftheyangs).
+**[[Characters/Toocher the Toxic|Toocher the Toxic]]** (twooftheyangs).
 - **Who he is:**
   - A grung (frog person) whose parents were both frogs; hatched from an egg. He has a tragic, long backstory "requiring several flashbacks."
   - A professional wrestler. Level 6 Battle Master fighter / level 4 Inquisitive rogue.
@@ -138,7 +138,7 @@ tags: [episode, season-4]
 - **His act:** trash talk, and "partners… putting on a good show."
 - **Result:** won the match and inspired red-scarf merch ($29.99).
 
-**Sho Nin** (Forgeling).
+**[[Characters/Sho Nin|Sho Nin]]** (Forgeling).
 - **Who he is:**
   - **15 years old.** Level 6 Kensei monk / level 4 wizard. Toocher calls him "Sho Nin Protagonist/Pootagonist."
   - Confident outside, full of self-doubt and unworthiness within. Overwhelmed by the arena's grandeur.
@@ -149,7 +149,7 @@ tags: [episode, season-4]
   - Rolled five natural 1s.
   - Was disarmed and killed with his own sickle; the wind carried his body away.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - **Running the Fortress:**
   - Back in power; doing the taxes (1099s) for the first time and sorting receipts by size. His tower always had an intern for the taxes.
   - Wants "a full accounting" of what Elusia did while he was gone.
@@ -157,7 +157,7 @@ tags: [episode, season-4]
 - **Cruelty:** murdered the Acolyte Blissful Dwarf to prime the Box of Chaos, and turned the arena water to acid.
 - **With the champions:** offered Toocher the "sign guy" job. Gave Toocher a victory lap that included an acid dip.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Her captivity:** opens portals by clenching an amulet around her neck. It draws her blood, and her palms are now scarred from it.
 - **At the Fortress:** her hair widens with stress, and she directs the goblin employees.
 - **In the arena:**
@@ -165,28 +165,28 @@ tags: [episode, season-4]
   - Shot Toocher for a pun, then secretly healed him; the Shadow King caught her.
   - Voiced the wind spirit (inferred) and "the old man."
 
-**The old man in the top hat** (Bec): worn, patched top hat, large ears, white hair, teacup. He rises from the water and swaps the champions ("Change places!"). The Grandmaster says he's "mad," holds tea parties at random times, "sometimes a bunny shows up." Toocher calls him "Uncle Pennybags."
+**[[Characters/The old man in the top hat|The old man in the top hat]]** (Bec): worn, patched top hat, large ears, white hair, teacup. He rises from the water and swaps the champions ("Change places!"). The Grandmaster says he's "mad," holds tea parties at random times, "sometimes a bunny shows up." Toocher calls him "Uncle Pennybags."
 
-**Blissful Dwarf**: an Acolyte in the crowd, dismembered by the Shadow King. His black soul primed the Box of Chaos, and it crawled out confused ("Where am I?! What am I?!") to trade with Sho Nin.
+**[[Characters/Blissful Dwarf|Blissful Dwarf]]**: an Acolyte in the crowd, dismembered by the Shadow King. His black soul primed the Box of Chaos, and it crawled out confused ("Where am I?! What am I?!") to trade with Sho Nin.
 
-**The wind voice**: unidentified. It says "Look to the stars," "Look to the north," "I've got you, my child." Bec is improvising its lore ("no idea what lore I'm building").
+**[[Characters/The wind voice|The wind voice]]**: unidentified. It says "Look to the stars," "Look to the north," "I've got you, my child." Bec is improvising its lore ("no idea what lore I'm building").
 
-**Heather and Tophne**: goblin employees at the Fortress who take the tax papers.
+**[[Characters/Heather and Tophne|Heather and Tophne]]**: goblin employees at the Fortress who take the tax papers.
 
-**Vythorn**: did the Fortress taxes for years, in symbols; dead (killed by the Shadow King).
+**[[Characters/The Arbiter|Vythorn]]**: did the Fortress taxes for years, in symbols; dead (killed by the Shadow King).
 
 ### Places
-- **The Shadow King's throne room**: dank, musty, cobwebbed, drab. Location not stated (presumably the Dread Fortress).
-- **The Shadow King's tower** (mentioned; interns did taxes there).
-- **The arena**: an abandoned tiny steampunk city, "one of my favorite little playgrounds." It has docks, water (turned to acid), a rusty crane, crates (one of potatoes), boats and a turret above the docks.
+- **[[Places/The Shadow King's throne room|The Shadow King's throne room]]**: dank, musty, cobwebbed, drab. Location not stated (presumably the Dread Fortress).
+- **[[Places/The Shadow King's tower|The Shadow King's tower]]** (mentioned; interns did taxes there).
+- **[[Places/The arena|The arena]]**: an abandoned tiny steampunk city, "one of my favorite little playgrounds." It has docks, water (turned to acid), a rusty crane, crates (one of potatoes), boats and a turret above the docks.
 
 ### Items
-- **The Grandmaster's amulet** (a blood-drawing portal key).
-- **The Box of Chaos**: a chest of yellow-and-pink heatless flame, fed by a soul. Sacrifices to it give magic items.
-- **Moon Sickle +3**: Sho Nin's, then taken by Toocher as "the sickle of victory."
-- **Sho Nin's scabbard** (sacrificed) and his sword (left by the chest).
-- **Bracers of Defense**: red arm scarves; came from Sho Nin's bloody dart.
-- **Red scarf merch**, $29.99, tonight only.
+- **[[Items/The Grandmaster's amulet|The Grandmaster's amulet]]** (a blood-drawing portal key).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: a chest of yellow-and-pink heatless flame, fed by a soul. Sacrifices to it give magic items.
+- **[[Items/Moon Sickle +3|Moon Sickle +3]]**: Sho Nin's, then taken by Toocher as "the sickle of victory."
+- **[[Items/Sho Nin's scabbard|Sho Nin's scabbard]]** (sacrificed) and his sword (left by the chest).
+- **[[Items/Bracers of Defense|Bracers of Defense]]**: red arm scarves; came from Sho Nin's bloody dart.
+- **[[Items/Red scarf merch|Red scarf merch]]**, $29.99, tonight only.
 
 ### Lore statements
 - The Shadow King killed the Arbiter/Vythorn, who had done the Fortress's taxes for years.

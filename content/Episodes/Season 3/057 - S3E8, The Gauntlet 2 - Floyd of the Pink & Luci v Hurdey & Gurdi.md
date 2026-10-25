@@ -129,7 +129,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Floyd of the Pink / "of the Pinketh"** (carefulcantrip)
+**[[Characters/Floyd of the Pink|Floyd of the Pink / "of the Pinketh"]]** (carefulcantrip)
 - Luci's devoted servant; calls her "my lady," "mistress," "Great Mistress Luci."
 - She found him on street corners for fifty pence. He's about 5'9½", has a beard and goes shirtless.
 - A "m'ladyer." He now wears the Grandmaster's glued-on pink satin cape and a triple-stacked glittery fedora that grows two pounds per "m'lady" (10 lb, then 12; he claims 16).
@@ -139,14 +139,14 @@ tags: [episode, season-3]
 - Spells used: Frostbite, Hold Person, Water Walk, Plant Growth, Hidden Paths, Control Winds, Inflict Wounds, Giant Insect.
 - Survived. Claims the golden body pillow.
 
-**Luci** (mendarii)
+**[[Characters/Luci|Luci]]** (mendarii)
 - A satyr: pink-to-red hair, grayish-reddish skin, jet-black antlers, chain mail shirt, a big maul. "Hella infernal looking."
 - Mostly silent and haughty. A paladin ("technically a religious person"), with a tinderbox, candles and incense.
 - Has mirthful leaps and goat feet ("I'm not moving, bitch").
 - Her pillow is a demonic goat-lamb Pillow Pet with glowing red eyes.
 - Burned Floyd's waifu pillow. Killed Gurdi with two smites. Survived.
 
-**Hurdey** (roberthartleygm)
+**[[Characters/Hurdey|Hurdey]]** (roberthartleygm)
 - A bipedal humanoid bear who carries Gurdi in his backpack. At first he spoke an unintelligible language, until the candy gave him "the gift of speech."
 - Proficient in the hurdy-gurdy and in animal handling (taken because he handles a bird).
 - Uses golden feathers (invulnerability flashes, a ward) and red feathers (Haste).
@@ -154,48 +154,48 @@ tags: [episode, season-3]
 - Dex lowered by the Flippy Cup loss. "Not playing a sorcerer. I'm playing Hurdey."
 - Killed by Gurdi's egg and burning hands, a heart burned to fulfil the riddle. "Not going to be in the sequel."
 
-**Gurdi** (deadaussiegamer)
+**[[Characters/Gurdi|Gurdi]]** (deadaussiegamer)
 - A red bird who lives in Hurdey's backpack. A monk: walks on water, has evasion, fires flaming eggs from his cloaca, does Beak Buster.
 - Can sprout chicken-like legs and carry the bear (Strength 18). Has Mounted Combatant and takes hits for Hurdey.
 - Dabs, backflips, "I am the captain now."
 - Killed by Luci. Swallowed by the mimic, but his wing touched the gold first, so he "technically" won.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Built the gauntlet map herself as a giant craft project in the Dread Fortress basement, with goblin helpers.
 - Made the tavern's papier-mâché patrons, who all have names, ages and personalities.
 - Gave Floyd the cape and fedora. Refused to remove the Arbiter's chains.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - **Wears chains** in this episode; he asked to have them taken off to drink and was refused.
 - Raised the skeletal minotaur with a nat 20.
 
-**Doug**: a pug who laughs at the Arbiter's bad roll with "a little pug chuckle" (0:56:21). Whether he is in-world is unclear.
+**[[Characters/Doug the Pug|Doug]]**: a pug who laughs at the Arbiter's bad roll with "a little pug chuckle" (0:56:21). Whether he is in-world is unclear.
 
-**The bartender** (Bec): runs the island tavern with his **little apprentice kitty cat**. Works with the Grandmaster, calls Flippy Cup "my old college game," and scores Gurdi's landing 10/10.
+**[[Characters/The bartender|The bartender]]** (Bec): runs the island tavern with his **little apprentice kitty cat**. Works with the Grandmaster, calls Flippy Cup "my old college game," and scores Gurdi's landing 10/10.
 
-**The one-eyed pirate captain** (Drew): already at the wheel of the ship Hurdey steals. A second captain sails Floyd and Luci's ship (unnamed).
+**[[Characters/The one-eyed pirate captain|The one-eyed pirate captain]]** (Drew): already at the wheel of the ship Hurdey steals. A second captain sails Floyd and Luci's ship (unnamed).
 
-**Clanky**: a medium metal construct shark with a golden tooth and a blowhole, summoned by Hurdey.
+**[[Characters/Clanky|Clanky]]**: a medium metal construct shark with a golden tooth and a blowhole, summoned by Hurdey.
 
-**The knife seagulls**: a "horde" in tiny helmets with knives and switchblades in their talons. They respected Floyd and fought for him.
+**[[Characters/The knife seagulls|The knife seagulls]]**: a "horde" in tiny helmets with knives and switchblades in their talons. They respected Floyd and fought for him.
 
-**The golden butterfly**: massive, glittering and fragile. Gives butterfly kisses (temporary HP) and crop-dusts anyone who ignored it.
+**[[Characters/The golden butterfly|The golden butterfly]]**: massive, glittering and fragile. Gives butterfly kisses (temporary HP) and crop-dusts anyone who ignored it.
 
-**The Kraken**: called "she" and "ruler of the ocean," with ten tentacles. Blocked the way to the island.
+**[[Characters/The Kraken|The Kraken]]**: called "she" and "ruler of the ocean," with ten tentacles. Blocked the way to the island.
 
-**The skeletal minotaur**: raised by the Arbiter from the graveyard sand. It bleeds from its bones.
+**[[Characters/The skeletal minotaur|The skeletal minotaur]]**: raised by the Arbiter from the graveyard sand. It bleeds from its bones.
 
-**The sandworms**: hundred-legged, centipede-like island creatures; two were made giant by Floyd.
+**[[Characters/The sandworms|The sandworms]]**: hundred-legged, centipede-like island creatures; two were made giant by Floyd.
 
-**The mimic and the baby mimic** (the baby has a pacifier). They ate Hurdey's foot, Floyd's nipple and Gurdi.
+**[[Characters/The mimic and the baby mimic|The mimic and the baby mimic]]** (the baby has a pacifier). They ate Hurdey's foot, Floyd's nipple and Gurdi.
 
-**The witch** (backwards name, uncertain): heard laughing at Floyd.
+**[[Characters/The witch|The witch]]** (backwards name, uncertain): heard laughing at Floyd.
 
 ### Places
-- **The Dread Fortress basement**, below the dungeon: the Grandmaster's craft workshop.
-- **The quaint tavern on a small island**, with an orange tree, wooden stairs and storm-broken docks.
-- **The sea and the Kraken's waters.**
-- **The treasure island**: sand, wildlife, an old graveyard, and a temple with two low pillars and scale platforms.
+- **[[Places/The Dread Fortress basement|The Dread Fortress basement]]**, below the dungeon: the Grandmaster's craft workshop.
+- **[[Places/The quaint tavern on a small island|The quaint tavern on a small island]]**, with an orange tree, wooden stairs and storm-broken docks.
+- **[[Places/The sea and the Kraken's waters|The sea and the Kraken's waters.]]**
+- **[[Places/The treasure island|The treasure island]]**: sand, wildlife, an old graveyard, and a temple with two low pillars and scale platforms.
 
 ### Items
 - Floyd's pink satin cape and stacked glitter fedora.

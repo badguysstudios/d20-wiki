@@ -170,7 +170,7 @@ Mixed. In-character lines are marked **(Dried Blood, in character)**. The rest a
 
 ## Who and what appears
 ### Characters
-**Broose Scorchtail** (swoleinitiativenetwork). A **6'3" rabbitfolk ("Herongorn," likely Harengon) with an Australian accent** ("mate," "crikey," "ripper," "how you going").
+**[[Characters/Broose Scorchtail|Broose Scorchtail]]** (swoleinitiativenetwork). A **6'3" rabbitfolk ("Herongorn," likely Harengon) with an Australian accent** ("mate," "crikey," "ripper," "how you going").
 - **Look and personality:**
   - Wears a **pink "PARTY ON" poncho with purple ghost flames**, made of wool. Says it makes him "lithe."
   - White fur. **Likes fire.** On holiday for "R&R."
@@ -185,7 +185,7 @@ Mixed. In-character lines are marked **(Dried Blood, in character)**. The rest a
   - Lost count of his age "after three."
 - **Won by bracing attack** while being drowned. He was given a cold brew by the GM and toasted by the Acolytes.
 
-**Dewdrop Grizzlebee** (TheShortNord). A **fairy scholar**: "an old, red-haired, out-of-shape man with a monk haircut… retired Boston cop look."
+**[[Characters/Dewdrop Grizzlebee|Dewdrop Grizzlebee]]** (TheShortNord). A **fairy scholar**: "an old, red-haired, out-of-shape man with a monk haircut… retired Boston cop look."
 - **Body:**
   - A receding horseshoe of red hair that recedes further each time he uses psionics, down to "five hairs."
   - Very hairy "Robin Williams" forearms.
@@ -203,7 +203,7 @@ Mixed. In-character lines are marked **(Dried Blood, in character)**. The rest a
   - Was blessed by the Grandmaster. Wore Broose's fur as a toupee.
   - Rolled a record number of nat 1s. **Drowned in beer.**
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Her businesses:**
   - Serial hobbyist. Started **a brewery below the Dread Fortress kitchen "last fall,"** lost interest within days and forgot it, then bought a knockoff brew kit to start another.
   - Calls the arena her first successful hobby and business.
@@ -213,7 +213,7 @@ Mixed. In-character lines are marked **(Dried Blood, in character)**. The rest a
   - Blessed Dewdrop with "tough love." Poured her drink on the Acolytes.
 - **Dried Blood:** **"No one actually ever dies at the death match,"** kept secret so champions try harder. Says the Arbiter "doesn't always agree with my policies."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **The brewery:** reminded the GM of her forgotten brewery, which he says has been "fully operational the entire time." Says "I don't water my beer down."
 - **His interventions:**
   - **Turned back time when he ran out of round cards.**
@@ -221,31 +221,31 @@ Mixed. In-character lines are marked **(Dried Blood, in character)**. The rest a
   - **Axed open the brewery tanks to flood the arena with beer**, then restored the tanks and drained the beer at the end.
 - **Small moments:** stuck his tongue out at Doug. Puppeted Dewdrop's corpse (Dried Blood).
 
-**Gerald, the Box of Chaos.** Summoned by the Acolytes. A pink-purple pillar of fire and **a dark shadowy figure with claws peering over the lid**. Rude ("Don't bullshit me, just give me shit"; "What's in it for me?"). Called "Jerry" by Broose.
+**[[Items/Gerald, the Box of Chaos|Gerald, the Box of Chaos.]]** Summoned by the Acolytes. A pink-purple pillar of fire and **a dark shadowy figure with claws peering over the lid**. Rude ("Don't bullshit me, just give me shit"; "What's in it for me?"). Called "Jerry" by Broose.
 - Hands out free ruler and pencil "for the school year."
 - **Trades:** flaming carrot → alchemy jug; Dewdrop's notebook → potion of speed; salt water → potion of mind control.
 
-**Doug the Pug.** Sits beside the Grandmaster. Growls at the Arbiter and sticks out his dry-tipped tongue.
+**[[Characters/Doug the Pug|Doug the Pug.]]** Sits beside the Grandmaster. Growls at the Arbiter and sticks out his dry-tipped tongue.
 
-**The Acolytes.** Watch from the open sky above the brewery. They summon Gerald and a thunderstorm, and toast Broose.
+**[[Lore/The Acolytes|The Acolytes.]]** Watch from the open sky above the brewery. They summon Gerald and a thunderstorm, and toast Broose.
 
-**Richard Stabbs.** In-world author of Melee for Dummies (per Dewdrop, Dried Blood). Later retconned to John J. Kilcullen.
+**[[Characters/Richard Stabbs|Richard Stabbs.]]** In-world author of Melee for Dummies (per Dewdrop, Dried Blood). Later retconned to John J. Kilcullen.
 
 ### Places
-- **The Dread Fortress brewery (the old one).** Built "last fall" **downstairs below the kitchen**; unnamed. Giant 30-ft tanks with walkways, barrel stacks and ladders, and an open transparent sky with the Acolytes' stands above. It became the arena.
-- **The new brewing room.** A former storage space off a corridor in the Dread Fortress, now filled with the GM's knockoff steel tanks and wheat.
-- **The GM's bee farm.** Mentioned only.
+- **[[Places/The Dread Fortress brewery (the old one)|The Dread Fortress brewery (the old one).]]** Built "last fall" **downstairs below the kitchen**; unnamed. Giant 30-ft tanks with walkways, barrel stacks and ladders, and an open transparent sky with the Acolytes' stands above. It became the arena.
+- **[[Places/The new brewing room|The new brewing room.]]** A former storage space off a corridor in the Dread Fortress, now filled with the GM's knockoff steel tanks and wheat.
+- **[[Places/The GM's bee farm|The GM's bee farm.]]** Mentioned only.
 - **"A magic half-priced books."** Where Dewdrop found his book.
 
 ### Items
-- **Alchemy jug** (from Gerald). Its contents changed through the fight: honey, then basic poison, then 12 gallons of salt water (given to Gerald), then oil.
-- **Free ruler and pencil** from Gerald, thrown by Broose.
-- **Potion of speed** (Dewdrop) and **potion of mind control** (Broose).
-- **Dewdrop's notebook/diary**, given to Gerald.
-- **Mushrooms on the tanks.** One gave haste (Broose), one slowed (Dewdrop).
-- **Broose's fur toupee**: honey-covered fur from the short sword.
-- **Melee for Dummies.**
-- **Broose's party poncho.**
+- **[[Items/Alchemy jug|Alchemy jug]]** (from Gerald). Its contents changed through the fight: honey, then basic poison, then 12 gallons of salt water (given to Gerald), then oil.
+- **[[Items/Free ruler and pencil|Free ruler and pencil]]** from Gerald, thrown by Broose.
+- **[[Items/Potion of speed|Potion of speed]]** (Dewdrop) and **potion of mind control** (Broose).
+- **[[Items/Dewdrop's notebookdiary|Dewdrop's notebook/diary]]**, given to Gerald.
+- **[[Items/Mushrooms on the tanks|Mushrooms on the tanks.]]** One gave haste (Broose), one slowed (Dewdrop).
+- **[[Items/Broose's fur toupee|Broose's fur toupee]]**: honey-covered fur from the short sword.
+- **[[Items/Melee for Dummies|Melee for Dummies.]]**
+- **[[Items/Broose's party poncho|Broose's party poncho.]]**
 
 ### Lore statements
 - The Grandmaster keeps a brewery and a bee farm, and makes honey mead.

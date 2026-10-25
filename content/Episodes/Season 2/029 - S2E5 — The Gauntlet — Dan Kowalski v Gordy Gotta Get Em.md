@@ -157,7 +157,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Dan Kowalski** (endlesschad). A **satyr**: "Danimal on the weekends, Daniel to my mother." He has horns and cloven hooves.
+**[[Characters/Dan Kowalski|Dan Kowalski]]** (endlesschad). A **satyr**: "Danimal on the weekends, Daniel to my mother." He has horns and cloven hooves.
 - **Background:**
   - Says his mom and dad "fell in love" and that he's "part mountain goat."
   - **Hates being called Daniel.**
@@ -175,7 +175,7 @@ tags: [episode, season-2]
   - Charmed the snakes and the Babau.
   - **First winner of the Gauntlet.**
 
-**Gordy Gotta Get Em** (theshortnord). Small ("the same size as" middle-schoolers; "short legs").
+**[[Characters/Gordy Gotta Get Em|Gordy Gotta Get Em]]** (theshortnord). Small ("the same size as" middle-schoolers; "short legs").
 - **Lore:**
   - The first thing he "got" was a circumcision.
   - Does daily affirmations. Met Dan and the Arbiter at bowling.
@@ -187,22 +187,22 @@ tags: [episode, season-2]
   - Killed the manticore and the Babau.
   - **Killed by Dan while asleep.** His remains were bagged by the Arbiter.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Gave the GM the time-and-space crystal.
 - Recruited both champions at a bowling alley.
 - Opens portals with a thunderous clap.
 - Carried off Gordy's remains in a sack, whistling.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Her birthday; she claims to be **284**.
 - This jungle is her oldest training ground; she ran it in lanes "when I had no one to go up against" and survived it.
 - Drinks from a pineapple cup.
 - Blessed Gordy so he wouldn't quit.
 - Caught Dan out of the air. Shed a tear, then smiled.
 
-**Doug the Pug**. Sits beside the GM and had a dog-friendly cupcake. He fetched Gordy's emerald in his mouth.
+**[[Characters/Doug the Pug|Doug the Pug]]**. Sits beside the GM and had a dog-friendly cupcake. He fetched Gordy's emerald in his mouth.
 
-**Monsters and NPCs:**
+**[[Characters/Monsters and NPCs|Monsters and NPCs:]]**
 - Angry squirrels (they follow you and insult back).
 - The heckling middle-school gang.
 - Flying snakes (one killed itself on the rock).
@@ -216,15 +216,15 @@ tags: [episode, season-2]
 - **The Babau**, infatuated with Dan.
 
 ### Places
-- **The Dread Fortress throne room** (opening; "a gong solo in the Dread Fortress").
-- **The Jungle Gauntlet**: the GM's "oldest of training grounds," with two lanes. Its stages are the log and squirrel trees, the 45-ft cliff, the lily-pad river with a waterfall, the blue-and-yellow pollen forest, the Box of Chaos clearing, and a narrow cave with ghosts, skeletons, webs, chests and a portal rune circle.
-- **The Babau dungeon**: swords, books, clay pots, a balcony, tall pillars, and no visible exit.
+- **[[Places/Throne Room (Dread Fortress)|The Dread Fortress throne room]]** (opening; "a gong solo in the Dread Fortress").
+- **[[Places/The Jungle Gauntlet|The Jungle Gauntlet]]**: the GM's "oldest of training grounds," with two lanes. Its stages are the log and squirrel trees, the 45-ft cliff, the lily-pad river with a waterfall, the blue-and-yellow pollen forest, the Box of Chaos clearing, and a narrow cave with ghosts, skeletons, webs, chests and a portal rune circle.
+- **[[Places/The Babau dungeon|The Babau dungeon]]**: swords, books, clay pots, a balcony, tall pillars, and no visible exit.
 - The bowling alley where the Arbiter met them.
 
 ### Items
-- **The Arbiter's crystal**: swirling black-purple, cosmos-like. It changes two opponents' health and AC. It was not used this episode.
-- **Wand of Secrets** (Gordy, from the Box; foreskin-wrapped hilt; bursts into salt).
-- **Sphere of Annihilation** (Dan, from the Box; destroyed).
+- **[[Items/The Arbiter's crystal|The Arbiter's crystal]]**: swirling black-purple, cosmos-like. It changes two opponents' health and AC. It was not used this episode.
+- **[[Items/Wand of Secrets|Wand of Secrets]]** (Gordy, from the Box; foreskin-wrapped hilt; bursts into salt).
+- **[[Items/Sphere of Annihilation|Sphere of Annihilation]]** (Dan, from the Box; destroyed).
 - The ceremonial goblin circumcision dagger and a piece of Dan's horn, both sacrificed to the Box.
 - The emeralds that melt into the skin and heal; the GM now has one.
 - Dan's wargong.

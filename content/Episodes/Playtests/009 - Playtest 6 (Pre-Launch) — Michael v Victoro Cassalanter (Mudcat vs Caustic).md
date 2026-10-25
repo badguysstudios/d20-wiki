@@ -32,18 +32,18 @@ tags: [episode, playtests]
 18. **1:19:17 — The dog.** After one minute Michael returns to an empty battlefield. **The barking dog finds him and licks his metal body. "Puppy? Puppy!" Michael licks the dog back with his hand-mouths and pets it. Michael now has a dog.**
 
 ## Who and what appears
-**Michael, the Headless Iron Golem** (Bec). No head; blind and deaf (but somehow has darkvision and passive perception); speaks and tastes through **mouths with tongues in his palms**; a rocky iron shell; big sword with 10-foot reach; iron fists. Immune to fire (and healed by it), bludgeoning, piercing, charm and much more; advantage on saves against spells. Loves dancing (hula, cha-cha) and **hugs**; wants friends; "a hollow shell" trying "to fill it with friendship and dancing." Named himself Michael ("It's a strong name"). Befriended Barbara (briefly) and **adopted the barking dog**. Banished for a minute to a plane of flowers and daisies.
+**[[Characters/Michael|Michael, the Headless Iron Golem]]** (Bec). No head; blind and deaf (but somehow has darkvision and passive perception); speaks and tastes through **mouths with tongues in his palms**; a rocky iron shell; big sword with 10-foot reach; iron fists. Immune to fire (and healed by it), bludgeoning, piercing, charm and much more; advantage on saves against spells. Loves dancing (hula, cha-cha) and **hugs**; wants friends; "a hollow shell" trying "to fill it with friendship and dancing." Named himself Michael ("It's a strong name"). Befriended Barbara (briefly) and **adopted the barking dog**. Banished for a minute to a plane of flowers and daisies.
 
-**Victoro Cassalanter** (Drew). "A devilishly handsome half-elf who likes coin and power." Huge wide "butterfly" pants, wide hips. Rod of Rulership; ring of protection; glamoured studded leather. Spells: flame strike, blink, spiritual weapon (a floating rapier), polymorph (T. rex), dimension door, banishment; summons a barbed devil. Offers jobs with benefits. Left to buy bigger pants. (An official D&D character used here as a champion.)
+**[[Characters/Victoro Cassalanter|Victoro Cassalanter]]** (Drew). "A devilishly handsome half-elf who likes coin and power." Huge wide "butterfly" pants, wide hips. Rod of Rulership; ring of protection; glamoured studded leather. Spells: flame strike, blink, spiritual weapon (a floating rapier), polymorph (T. rex), dimension door, banishment; summons a barbed devil. Offers jobs with benefits. Left to buy bigger pants. (An official D&D character used here as a champion.)
 
-**Barbara ("Barb") the barbed devil.** Summoned by Victoro from soaking her feet; sciatica; hugged by Michael; abandoned on the field, needing an Uber home.
+**[[Characters/Barbara (Barb) the barbed devil|Barbara ("Barb") the barbed devil.]]** Summoned by Victoro from soaking her feet; sciatica; hugged by Michael; abandoned on the field, needing an Uber home.
 
-**The barking dog.** Chaos-event creature hidden on the map; deafens everyone until found; ends up as Michael's dog.
+**[[Characters/The barking dog|The barking dog.]]** Chaos-event creature hidden on the map; deafens everyone until found; ends up as Michael's dog.
 
 ### Places
 - The forest arena (cliff partly brought down, several trees uprooted and thrown).
-- **The plane of flowers and daisies**, where Michael chose to be banished.
-- **JCPenney** (where Victoro shops for pants afterward).
+- **[[Places/The plane of flowers and daisies|The plane of flowers and daisies]]**, where Michael chose to be banished.
+- **[[Places/JCPenney|JCPenney]]** (where Victoro shops for pants afterward).
 
 ## Quotes by character
 **Michael**

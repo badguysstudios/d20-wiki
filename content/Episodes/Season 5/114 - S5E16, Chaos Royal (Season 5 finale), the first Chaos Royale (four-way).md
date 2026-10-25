@@ -257,7 +257,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**The Lord of Fate** (Drew; the Arbiter/Vythorn ruling in the Season of Fate).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew; the Arbiter/Vythorn ruling in the Season of Fate).
 - Brooding in a stripped, unlit throne room with a conjured window and rain.
 - Says ruling is hard: riots, the ransacked **Eastern Outpost**, and anger that **the Grandmaster is still imprisoned**. "Things are not going the way that I had planned for them to go this season."
 - Insists his shoes are real Italian leather.
@@ -265,12 +265,12 @@ tags: [episode, season-5]
 - Can loop doors back into the room and call down lightning.
 - Leaves the finale early, unhappy, for "somewhere else to be."
 
-**Thea** (Bec). A tiny **pink imp** who serves the Lord of Fate.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A tiny **pink imp** who serves the Lord of Fate.
 - Organized the Chaos Royale to cheer him up. Teleports people by clapping and commands the goblins.
 - Unsure whether she has a brain. Her household is "a Miracle Whip household." She hates people (speaker uncertain). She loves ice cream.
 - Held Dylan the chinchilla. Gave the season's closing address.
 
-**Tormiir** (guest). "The great minotaur," a muscle-bound warlock-type.
+**[[Characters/Tormiir|Tormiir]]** (guest). "The great minotaur," a muscle-bound warlock-type.
 - **Powers and gear:**
   - Purple crackling magic channelled through his horns; it is "magical electricity," so lightning grounds through him harmlessly.
   - A two-handed greatsword that returns to his hand. He lit it by licking it with his tongue.
@@ -282,26 +282,26 @@ tags: [episode, season-5]
   - The Acolytes wear Tormiir t-shirts.
 - **In this episode:** wanted the mug for his mama "so she could drink out of it. Water." Allied with Richard late. Fell to the Hunger's bite on his mother. His ghost watched from a bench and became part of the felted friend.
 
-**Tormiir's mother**. A minotaur, phoned twice (by Copycat, then by Richard).
+**[[Characters/Tormiir's mother|Tormiir's mother]]**. A minotaur, phoned twice (by Copycat, then by Richard).
 - Copycat claimed she has an OnlyFans account.
 
-**Bobby Clark** (guest). "Boy adventurer and herald of the ancient unifying flesh."
+**[[Characters/Bobby Clark|Bobby Clark]]** (guest). "Boy adventurer and herald of the ancient unifying flesh."
 - Remembers only the last couple of weeks. The Hunger says he's eight.
 - Doesn't know his mother; Copycat says he has a father.
 - **His predecessor Robbie Clark "is free now," growing up in Florida.**
 - **Discarded by the Hunger**: he had no skin under his clothes and a half-grown translucent spine, and collapsed like a puppet.
 
-**The Hunger** (guest). An eldritch horror in a backpack of tentacles, eyes and teeth that seeks to unify all flesh into one mind.
+**[[Characters/The Hunger|The Hunger]]** (guest). An eldritch horror in a backpack of tentacles, eyes and teeth that seeks to unify all flesh into one mind.
 - Overrides Bobby's will. Its sayings include "if you can't get them with honey, get them with mayonnaise" and "Join the new flesh."
 - Effectively immune to electricity. Can draw energy from the ground and form phones and tablets from tendrils.
 - **Fused with Copycat as her backpack and won.** Swallowed Richard Knottley into its chorus.
 
-**Copycat** (guest). A shapeshifter ("foul flesh sculptor") who takes others' forms: the Lord of Fate, Thea, Tormiir ("Thornir"), Dick Twist.
+**[[Characters/Copycat|Copycat]]** (guest). A shapeshifter ("foul flesh sculptor") who takes others' forms: the Lord of Fate, Thea, Tormiir ("Thornir"), Dick Twist.
 - Was reincarnated after losing her last fight. Has attended group therapy ("before I stole all their identities").
 - Her phone powers can reach the FDA, the IRS, a mug manufacturer and Tormiir's mother.
 - **Winner, fused with the Hunger.** Calls the Lord of Fate "my other half."
 
-**Richard Knottley / "Dick Twist" / "Dick Okio"** (guest).
+**[[Characters/Richard Knottley|Richard Knottley / "Dick Twist" / "Dick Okio"]]** (guest).
 - **Body and gear:**
   - Revived so many times his body is now held together by **Peloton parts, with a Peloton core as his heart**.
   - A tattoo of his new name.
@@ -315,21 +315,21 @@ tags: [episode, season-5]
   - Claims this was his third time in the arena and third consecutive death.
 - Consumed by the Hunger.
 
-**Dylan**. A talking chinchilla living in Richard's chest (Richard is "its nest"). Badly hurt powering him; held by Thea at the end. His fate is unstated.
+**[[Characters/Dylan|Dylan]]**. A talking chinchilla living in Richard's chest (Richard is "its nest"). Badly hurt powering him; held by Thea at the end. His fate is unstated.
 
-**Gator**. An Acolyte ("great to be a Gator") who gave the red mug.
+**[[Characters/Gator|Gator]]**. An Acolyte ("great to be a Gator") who gave the red mug.
 
-**The goblins** of the Dread Fortress (servants), **the FDA tactical division**, **the IRS**.
+**[[Characters/Goblins|The goblins]]** of the Dread Fortress (servants), **the FDA tactical division**, **the IRS**.
 
 ### Places
-- **Throne room (Dread Fortress)**: normally candles and fur rugs; drab this episode.
-- **The front door of the Dread Fortress**: a skull with an open mouth, in the lava fields. This was the arena.
-- **The Eastern Outpost**: ransacked during the riots.
+- **[[Places/Throne Room (Dread Fortress)|Throne room (Dread Fortress)]]**: normally candles and fur rugs; drab this episode.
+- **[[Places/The front door of the Dread Fortress|The front door of the Dread Fortress]]**: a skull with an open mouth, in the lava fields. This was the arena.
+- **[[Places/The Eastern Outpost|The Eastern Outpost]]**: ransacked during the riots.
 - The Dread Fortress kitchen.
 - Florida (where Robbie now lives).
 
 ### Items
-- **The red victory mug** (from Gator), hidden in Thea's "secret pocket." A **second mug** was ordered by Copycat.
+- **[[Items/The red victory mug|The red victory mug]]** (from Gator), hidden in Thea's "secret pocket." A **second mug** was ordered by Copycat.
 - The Lord of Fate's Kansas City barbecue; 500 hot dogs (claimed tofu, really 100% ground beef).
 - Frozen cubed wombat poop (souvenirs).
 - Copycat's (rental) phone. The Hunger's tendril Android phone and tablet.

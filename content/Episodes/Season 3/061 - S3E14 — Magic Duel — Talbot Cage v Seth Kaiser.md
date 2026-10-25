@@ -216,7 +216,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Talbot Cage** (Michael / pthofficial). A wild-magic caster, wizard and sorcerer spells both.
+**[[Characters/Talbot Cage|Talbot Cage]]** (Michael / pthofficial). A wild-magic caster, wizard and sorcerer spells both.
 - **Pulled into the Void while heating his coffee with magic.**
 - **Appearance:**
   - Age 28, aged to **48 mid-fight by wild magic**.
@@ -230,9 +230,9 @@ tags: [episode, season-3]
 - **Gear and spells:** a blade and a whip. Dancing Lights, Fire Bolt, Infestation (twinned), Fireball, Expeditious Retreat, Booming Blade. Three luck points, all used.
 - **Death:** burned to death by Seth's white dragon after choosing to fail the save.
 
-**Mr. Nutters**. Talbot's squirrel. He wears **a vest and a fez**, wanted his coffee heated, and is calmed by Talbot's mask. He fled into the maze early. At the end he watched from the railing and took off his hat over his chest as Talbot died.
+**[[Characters/Mr. Nutters|Mr. Nutters]]**. Talbot's squirrel. He wears **a vest and a fez**, wanted his coffee heated, and is calmed by Talbot's mask. He fled into the maze early. At the end he watched from the railing and took off his hat over his chest as Talbot died.
 
-**Seth Kaiser** (Rogue / rogueexmachina). A self-described **duelist** who traveled "across dimensions" seeking a challenge.
+**[[Characters/Seth Kaiser|Seth Kaiser]]** (Rogue / rogueexmachina). A self-described **duelist** who traveled "across dimensions" seeking a challenge.
 - White studded coat with a big **K** logo; mossy mullet/K-pop hair; perfect posture.
 - **His rune buckler holds his card deck**, from which he "plays" spells:
   - Pot of Greed
@@ -246,14 +246,14 @@ tags: [episode, season-3]
 - Athletics −1 ("I play children's card games"). "I don't need friends. I have card games."
 - **Used a wish (from Gerald's ring-of-three-wishes card) to learn the riddle's answer.** He won, and the GM then blew him up with the ticking pumpkin (if he was the recipient).
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Threw the masquerade pre-party party. Invited the Acolytes, "buttheads" and Kristen, but not the Arbiter.
 - Sits on a skeleton throne with Doug.
 - **Used time magic to give Talbot advantage ("I picked up a trick or two").**
 - Lands "like an asteroid," which scares Dolly off.
 - Gave the winner the exploding pumpkin.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Wore a mask for an unexplained reason of his own.
 - Calls his job "being a prisoner."
 - Threatened Thomas's family and Doug.
@@ -261,11 +261,11 @@ tags: [episode, season-3]
 - Has giant white wings. Slammed the Box of Chaos down in a rage. Summoned Dolly.
 - "Time magic's my thing."
 
-**Doug the Pug**. The GM's pug. He flies on green fart gas, nests in bones and rolls a D20 plush, beating the Arbiter (19). His fart cloud made both champions one-handed for a round.
+**[[Characters/Doug the Pug|Doug the Pug]]**. The GM's pug. He flies on green fart gas, nests in bones and rolls a D20 plush, beating the Arbiter (19). His fart cloud made both champions one-handed for a round.
 
-**Thomas the Goblin**. The GM's goblin, apparently handling invitations. He threw away the Arbiter's invite; he "loves everyone" except the Arbiter.
+**[[Characters/Thomas the Goblin|Thomas the Goblin]]**. The GM's goblin, apparently handling invitations. He threw away the Arbiter's invite; he "loves everyone" except the Arbiter.
 
-**Gerald** (voiced by Drew). Lives in the Box of Chaos; he has shadowy hands and yellow eyes.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (voiced by Drew). Lives in the Box of Chaos; he has shadowy hands and yellow eyes.
 - **Squeamish about blood.**
 - **Collects trading cards**: a box of Yu-Gi-Oh, Digimon, Magic and Pokémon.
 - "Oh, I love making deals."
@@ -273,36 +273,36 @@ tags: [episode, season-3]
 - **Saved Seth from the Fireball by pulling him into the box** because "you seem like a good guy."
 - Says he got a leg last week ("three quarters of a full body").
 
-**The riddle creature / "slender man grinning riddle creature"** (Bec). Chaos event: a lipless, toothy, hollow-eyed figure with 12-ft handless arms.
+**[[Characters/The riddle creature|The riddle creature / "slender man grinning riddle creature"]]** (Bec). Chaos event: a lipless, toothy, hollow-eyed figure with 12-ft handless arms.
 - **Its word was "two."**
 - It smashes wrong guessers and crushed the loser after Seth answered correctly. It vanished afterward.
 
-**Dolly** (Drew). A giant necrotic doll that rises from the ground like a corpse and emits a putrid green cloud. She has porcelain eyes and asks "Do you wanna be my friend?"
+**[[Characters/Dolly|Dolly]]** (Drew). A giant necrotic doll that rises from the ground like a corpse and emits a putrid green cloud. She has porcelain eyes and asks "Do you wanna be my friend?"
 - "**Dolly returns to the arena**," so she has appeared before.
 - She calls out "One candy!" and fled from the Grandmaster into her hole.
 
-**The giant eyeballs**. Chaos event: "My eyes!" They fire laser damage and are **drawn to magic**.
+**[[Characters/The giant eyeballs|The giant eyeballs]]**. Chaos event: "My eyes!" They fire laser damage and are **drawn to magic**.
 
-**Kristen**: "one person named Kristen," an invited guest who is also addressed in the Dried Blood sign-off alongside the Acolytes and the buttheads.
+**[[Characters/Kristen|Kristen]]**: "one person named Kristen," an invited guest who is also addressed in the Dried Blood sign-off alongside the Acolytes and the buttheads.
 
-**Turtle Man**: a crowd member (likely a chat viewer) screaming for blood; Seth's dragon got its turtle shell from him.
+**[[Characters/Turtle Man|Turtle Man]]**: a crowd member (likely a chat viewer) screaming for blood; Seth's dragon got its turtle shell from him.
 
-**The knife maniac**: Seth's planned opponent, who "died earlier this summer."
+**[[Characters/The knife maniac|The knife maniac]]**: Seth's planned opponent, who "died earlier this summer."
 
 ### Places
-- **The Dread Fortress**: entered through the open mouth of the orc skull with fiery eyes, with cool stone halls.
-- **The Dread Fortress ballroom**: the masquerade pre-party.
-- **The Halloween maze arena**:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: entered through the open mouth of the orc skull with fiery eyes, with cool stone halls.
+- **[[Places/The Dread Fortress ballroom|The Dread Fortress ballroom]]**: the masquerade pre-party.
+- **[[Places/The Halloween maze arena|The Halloween maze arena]]**:
   - Pumpkin stalls, one with a metal ticking pumpkin.
   - Coffins, dolls, tombstones, gems, and floors covered in spiders, centipedes, fleas and cockroaches.
   - A large gargoyle statue.
   - Dolly's hole.
   - **Portals**, all of which damage you. Orange: fire; singes hair. Purple: tongue-twister "Purple Portal"; purple damage. Green: say hello in five languages or be suffocated by words.
-- **The grandstands**, with the GM's grand skeleton throne and Doug's bone nest.
+- **[[Places/The grandstands|The grandstands]]**, with the GM's grand skeleton throne and Doug's bone nest.
 
 ### Items
-- **The Vorpal Pinkie**: a strapped prosthetic finger with an obsidian, purple-glowing vorpal blade.
-- **Gerald's PSA 10 card on a golden chain, picturing a ring of three wishes.** It held one remaining wish, used and burned to ash.
+- **[[Items/The Vorpal Pinkie|The Vorpal Pinkie]]**: a strapped prosthetic finger with an obsidian, purple-glowing vorpal blade.
+- **[[Items/Gerald's PSA 10 card on a golden chain, picturing a ring of three wishes|Gerald's PSA 10 card on a golden chain, picturing a ring of three wishes.]]** It held one remaining wish, used and burned to ash.
 - Seth's rune buckler/deck and trade binder (Holographic Charizard), now with Gerald.
 - The Arbiter's portal pumpkins; the ticking pumpkin bomb; the dunce cap; the D20 plush.
 - Talbot's mask and Mr. Nutters' vest and fez.

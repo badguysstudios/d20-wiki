@@ -125,7 +125,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BdTeej)
+**[[Characters/Flynry|Flynry]]** (BdTeej)
 - Former monk who reverts to monk technique: Flurry of Blows, ki points, Stunning Strike, magical fists, Opportunist. He also casts Inflict Wounds.
 - **Carries a sword whose reflection shows a person's true nature or urges** (the "Sword of Truth" in his player's words). He used it on a guard before and on Sky this episode. Uses a greatsword in the fight.
 - Knows from "the large book" about **the Golden Lady statue** and **an eye-shaped pendant with a red gem**.
@@ -134,68 +134,68 @@ tags: [episode, into-the-mirror]
 - Never been to a party; "not the leader of anything besides maybe lunch."
 - Took the giant's rock for Toddleheim.
 
-**Elianna** (ParallaxStella)
+**[[Characters/Elianna|Elianna]]** (ParallaxStella)
 - Tiefling cleric: Hellish Rebuke (once per long rest), spiritual weapon, Create Water, Command, Banishment, Cure Wounds, Sanctuary. Speaks Common, Infernal, Abyssal, Celestial.
 - **Carries the orrery hidden in her shirt** (the "third boob" running gag). It vibrates and glows blue near the Oasis.
 - Treats Flynry as the leader. Empathetic; **asks every NPC if they're happy**.
 - **Traded her amulet (rose-gold chain, emerald) for a Periapt of Health.**
 
-**Toddleheim** (Ahnubyss)
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss)
 - Wizard: Mold Earth, Comprehend Languages, Sleep, Cause Fear, Acid Splash, Enlarge/Reduce, Magic Missile.
 - Gave up an old book to Sky; received a **+2 warhammer**.
 - **Unknowingly fed Vythorn the line saying the key works for only one.**
 
-**Cerys** (also heard Cerys; player uncertain)
+**[[Characters/Cerys|Cerys]]** (also heard Cerys; player uncertain)
 - Aasimar: Channel Divinity Abjure Enemy, radiant consumption ("supernova"), Haste.
 - **Has been in the sands longer than the others and brought them to the city (Mortorios).** "That's all I knew."
 - Gave a torch, rations and a shield to Sky; received a **+2 longsword with holy damage**.
 
-**Vythorn / the Arbiter** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
 - Travels with the party.
 - **Surrendered to Sky by throwing down a ceremonial dagger, then urged Sky to kill the party.** Sky: "There's something wrong with you."
 - Noticed the library's dampening fade and stayed silent.
 - **Deciphered and worked the Oasis mechanism with Toddleheim's help** while hasted.
 - **Used the orrery as a one-person portal and abandoned the party: "Nothing personal, the Grandmaster has to be saved."** Sky's reflection showed Sky picking Vythorn's pocket.
 
-**Sky** (Drew; also spelled Skye)
+**[[Characters/Sky|Sky]]** (Drew; also spelled Skye)
 - Young-looking leader of the outlanders, who call themselves "free thinkers." Wields a glaive. Commands an army that includes an Orc Raider, a wizard, dragonborn and mages.
 - Black-market dealer in artifacts and soul gems. Lives in the hollow soul-gem cavern; has been there a few decades.
 - **Distrusts the queen; calls sand sickness a lie and the city's walls a prison.** "Not really the book learning type."
 - **Doesn't like leading**, and refuses calls to invade Mortorios.
 - **The Sword's reflection shows him as a pickpocket**, always thinking about finding things.
 
-**The kobold shopkeeper** (Drew; possibly named Cyrus)
+**[[Characters/The kobold shopkeeper|The kobold shopkeeper]]** (Drew; possibly named Cyrus)
 - Disorganized junk-pile shop near Sky's hall.
 - Bites gems to test them. Flush with soul gems; wants unique items to resell.
 - Has heard of the Golden Lady but never seen it.
 
-**Locket** (mentioned only): made of a soul gem similar to, but not the same as, the cavern crystal.
+**[[Characters/Locket|Locket]]** (mentioned only): made of a soul gem similar to, but not the same as, the cavern crystal.
 
-**The queen and the king** of the city (mentioned): the queen has ruled "several centuries at least." The king is unwell, with "a fair bit of fuckery" around it.
+**[[Characters/The queen and the king|The queen and the king]]** of the city (mentioned): the queen has ruled "several centuries at least." The king is unwell, with "a fair bit of fuckery" around it.
 
-**Oasis guardians**: fire elementals, two Rakshasa (cat-like, large swords), lava-dwelling humanoids, and fiery snake/cat/dog creatures. **A huge giant** (fire giant, per table talk) with a greatsword and thrown flaming rocks, +5 Cha and +10 Con. **Its top half was ripped off by the portal's explosion.**
+**[[Characters/Oasis guardians|Oasis guardians]]**: fire elementals, two Rakshasa (cat-like, large swords), lava-dwelling humanoids, and fiery snake/cat/dog creatures. **A huge giant** (fire giant, per table talk) with a greatsword and thrown flaming rocks, +5 Cha and +10 Con. **Its top half was ripped off by the portal's explosion.**
 
 ### Places
-- **The library** (outside the city): its area **dampens magic, teleportation and pathways**. Sky says other such zones exist and are the natural state of the shifting sands.
-- **The heart / the outlander cavern**:
+- **[[Places/The library (Sands of Eternity)|The library]]** (outside the city): its area **dampens magic, teleportation and pathways**. Sky says other such zones exist and are the natural state of the shifting sands.
+- **[[Places/The heart|The heart / the outlander cavern]]**:
   - Entered by whispering "take me to the heart"; the sand forms stairs.
   - **A colossal hollowed soul gem, "the remnants of a vast soul" with "a lot of unspent time."**
   - Hundreds of thousands live there in stilt houses with pulley elevators, mining crystal. Mining is finite before collapse.
   - Sky's carved hall; Cyrus's shop; a polished soul-gem reflective surface in a small cave.
-- **Mortorios** (the city; spellings vary): walled and ruled by the queen. Sky "know[s] the way in."
-- **Other hidden strongholds/cities**, including **a very cold snowy mountainside**.
-- **The Oasis**:
+- **[[Places/Moratorios|Mortorios]]** (the city; spellings vary): walled and ruled by the queen. Sky "know[s] the way in."
+- **[[Places/Other hidden strongholdscities|Other hidden strongholds/cities]]**, including **a very cold snowy mountainside**.
+- **[[Places/The Oasis|The Oasis]]**:
   - A lava field smelling of sulfur, said once to be "an adjoining of worlds" connected to the land of the living.
   - The ringed structure sits on a cross of four bridges over a lava opening, with a round runic central platform.
   - Its writing matches the orrery's. **It works with the orrery as a one-use key.** The bridges are now partly smashed.
 
 ### Items
-- **The orrery** (heard "Ori"): the key to the Oasis. **Ripped apart by Vythorn and used as a one-person portal.**
-- **Atlas of Endless Horizons**: traded to the kobold, who threw it in a pile.
-- **Periapt of Wound Closure** (Flynry) and **Periapt of Health** (Elianna). The kobold first offered the Health necklace to Flynry as "immune to disease" plus "belt-line ailments."
-- **+2 longsword (holy damage)** for Cerys; **+2 warhammer** for Toddleheim.
+- **[[Items/The orrery|The orrery]]** (heard "Ori"): the key to the Oasis. **Ripped apart by Vythorn and used as a one-person portal.**
+- **[[Items/Atlas of Endless Horizons|Atlas of Endless Horizons]]**: traded to the kobold, who threw it in a pile.
+- **[[Items/Periapt of Wound Closure|Periapt of Wound Closure]]** (Flynry) and **Periapt of Health** (Elianna). The kobold first offered the Health necklace to Flynry as "immune to disease" plus "belt-line ailments."
+- **[[Items/+2 longsword (holy damage)|+2 longsword (holy damage)]]** for Cerys; **+2 warhammer** for Toddleheim.
 - Elianna's rose-gold emerald amulet, now the kobold's.
-- **The Golden Lady**: a rumoured gold/bronze inscribed statue, "said to be powerful."
+- **[[Items/The Golden Lady|The Golden Lady]]**: a rumoured gold/bronze inscribed statue, "said to be powerful."
 - The red eye-shaped inscribed pendant from the book; not found.
 - Flynry's truth-revealing sword.
 - Soul gems: dead people, used as currency.

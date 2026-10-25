@@ -128,7 +128,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Kyle Stoddard** (Bonsai/Banzai). A returning champion who has been "summoned again" to defend Princess Sakura.
+**[[Characters/Kyle Stoddard|Kyle Stoddard]]** (Bonsai/Banzai). A returning champion who has been "summoned again" to defend Princess Sakura.
 - **Looks and gear:** a "noble, muscular beard," fedora, trench coat and shorts, sandals with socks, and a Sakura-chan special-edition shirt. His sword is drawn and resheathed on every attack ("shing").
 - **Habits:** pushes up nonexistent glasses, holds the Mountain Dew ceremony before battle, uses crystals instead of showering, carries Axe spray, pocket glitter, and dimensional pockets full of Sakura merch.
 - **Lore:** he comes from **Isekai-dom**. Since his last appearance he has filled a house with Sakura images. He waited 12 hours for his collector's shirt.
@@ -138,7 +138,7 @@ tags: [episode, season-5]
 - **Values:** consent ("Nothing sexier than yes").
 - **In this episode:** won. He wears Bofus's fedora-topped head as an accessory and initiated Thea.
 
-**King "MAN FROG" Bofus** (Dr. B's/Dr. Bees). King of "the frog and people people."
+**[[Characters/King Man Frog Bofus|King "MAN FROG" Bofus]]** (Dr. B's/Dr. Bees). King of "the frog and people people."
 - **Body:** a tiny frog head under a big, now-tattered mask with bags stitched underneath. He has a man's body with human hands, a Peloton tattoo across his chest, and a cloaca. He wears lycra wrestler pants.
 - **Rebuilt and revived:** he has been rebuilt "time and time again"; the Lord of Fate says he now has an adamantium skeleton, and the goblins added "special features."
 - **His dead:** mourns **Dick Twist** (best friend/enemy) and his true love **Bone Daddy Daddy**, both lost in earlier fights.
@@ -146,37 +146,37 @@ tags: [episode, season-5]
 - **Weapons:** "12 Gauge Shotgun," which fires frogs, his "loyal citizens." Also his tongue, vomit, and the frog tidal wave.
 - **In this episode:** used the Box of Chaos twice, getting the Lord of Fate's ring and the Grandmaster's bow (as a second shotgun). He was briefly tempted by the Simperi, and refused because he has a crown. He died by his own misfire at five fatigues. Last thought: "at least I didn't die a nerd."
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Ignores emails ("I checked them") and runs a one-flavor policy.
 - Mentions riots across the Void, "taxpayers' money," and that he can "barely afford to feed" Thea.
 - Says they keep reviving everybody.
 - Borrowed the shotgun, then gave Bofus a power-up out of his own disgust at Sakura-Kyle.
 
-**Thea** (Bec). A "pink sparkly imp" by the end.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A "pink sparkly imp" by the end.
 - Found the 10,000-email backlog on a 1995 Windows computer, pushes for slushie flavors, cushions and Pelotons, and has been neglecting tax collection.
 - Brought both champions and talked to the goblins.
 - Rolls the chaos d20s, duct-taped Bofus's cheeks, and kicked both champions in the shins.
 - Launched "Thea answers emails."
 - Joined the Simperi.
 
-**Princess Sakura-chan.** Leading princess of Isekai-dom; pink hair; concerts with light shows. Kyle insists she is real.
+**[[Characters/Princess Sakura-chan|Princess Sakura-chan.]]** Leading princess of Isekai-dom; pink hair; concerts with light shows. Kyle insists she is real.
 
-**Dick Twist / Richard Knottley.** Bofus's late friend/enemy, already resurrected again per the Lord of Fate. His name triggers the tattoo's heart-attack sound. That Dick Twist and Richard Knottley are the same person is inferred, from 0:56:18 "Is Richard Knottley having a coronary?" right after the Dick Twist heart-attack gag.
+**[[Characters/Richard Knottley|Dick Twist / Richard Knottley.]]** Bofus's late friend/enemy, already resurrected again per the Lord of Fate. His name triggers the tattoo's heart-attack sound. That Dick Twist and Richard Knottley are the same person is inferred, from 0:56:18 "Is Richard Knottley having a coronary?" right after the Dick Twist heart-attack gag.
 
-**Bone Daddy Daddy.** Bofus's lost true love.
+**[[Characters/Bone Daddy Daddy|Bone Daddy Daddy.]]** Bofus's lost true love.
 
-**Greg.** Bofus's name for the tiny black skeleton / shadowy figure in the Box of Chaos. It wore a lab coat to extract DNA from the pillow.
+**[[Characters/Greg|Greg.]]** Bofus's name for the tiny black skeleton / shadowy figure in the Box of Chaos. It wore a lab coat to extract DNA from the pillow.
 
-**The goblins.** They worked on Bofus's body.
+**[[Characters/Goblins|The goblins.]]** They worked on Bofus's body.
 
-**The nun** in the Duck Village.
+**[[Characters/The nun|The nun]]** in the Duck Village.
 
-**The aliens** of the silver saucer.
+**[[Characters/The aliens|The aliens]]** of the silver saucer.
 
 ### Places
-- **The Dread Fortress**: its hallways and Thea's computer room. The Acolytes sit on hard metal chairs.
-- **The Duck Village**: a quaint town with produce stands and a fountain in the square. It was the arena.
-- **Isekai-dom**: Kyle's homeland.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its hallways and Thea's computer room. The Acolytes sit on hard metal chairs.
+- **[[Places/The Duck Village|The Duck Village]]**: a quaint town with produce stands and a fountain in the square. It was the arena.
+- **[[Places/Isekai-dom|Isekai-dom]]**: Kyle's homeland.
 - The floating ethereal grandstand.
 
 ### Items
@@ -188,7 +188,7 @@ tags: [episode, season-5]
 - The Sakura body pillow, the chibi figure, the plushie and the magic wand.
 - Thea's duct/gaffer tape.
 - The **ring that once belonged to the Lord of Fate**, which made its wearer master of time and space for one round.
-- **Elusia Skypiercer's bow**, which came out of the Box of Chaos and turned into whatever weapon its holder wanted.
+- **[[Items/Elusia Skypiercer's bow|Elusia Skypiercer's bow]]**, which came out of the Box of Chaos and turned into whatever weapon its holder wanted.
 - The new pillow dropped from the UFO.
 
 ### Lore statements

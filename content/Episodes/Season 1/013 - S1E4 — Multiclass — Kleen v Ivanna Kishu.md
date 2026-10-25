@@ -99,7 +99,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Kleen** ("Master Kleen"; Chris). **A warlock, Pact of the Genie.**
+**[[Characters/Kleen|Kleen]]** ("Master Kleen"; Chris). **A warlock, Pact of the Genie.**
 - **His patron is Mr. Kleen** ("Mr. Kleen is my patron. I'm just Kleen"). Not short for anything.
 - **Built by a DM** (per Sylvie), with Cha-heavy stats and AC 12. **"A glass cannon," "literally a camper."**
 - **Gear and spells:**
@@ -109,7 +109,7 @@ tags: [episode, season-1]
 - Twisted an ankle. Found and threw an ice snowball.
 - **Won.** Promised chocolate ice cream (no eyeballs). He made it rain toilet filth on the crowd.
 
-**Ivanna Kishu** (Sylvie). "**A protector, an aasimar, and druid**" (Circle of the Moon). **She is clearly multiclassed** (the episode title): she has sorcery points and metamagic, and healing hands.
+**[[Characters/Ivanna Kishu|Ivanna Kishu]]** (Sylvie). "**A protector, an aasimar, and druid**" (Circle of the Moon). **She is clearly multiclassed** (the episode title): she has sorcery points and metamagic, and healing hands.
 - Catchphrases: "Me too," "I'm gonna kiss you," and blown kisses. "There is Ivanna Kishu ways."
 - **Wild shapes into a chat-chosen hippogriff** (white wings, lipstick on its beak, nail polish), then a striped dire wolf.
 - **Heals by brushing her hair (70 HP) and by licking her own blood back in.**
@@ -118,9 +118,9 @@ tags: [episode, season-1]
 - **Killed by Kleen's action-surged Eldritch Blasts. Last words: "You stinky balls. I don't want to kiss you."**
 - **Then carried by her wings to the Arbiter's laboratory and revived: "I'm not done with you yet. You will kiss again."**
 
-**Kleen's imp**: a familiar, sent up to scout.
+**[[Characters/Kleen's imp|Kleen's imp]]**: a familiar, sent up to scout.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Coached the GM's water drinking.
 - **His friend Larry works at a blood bank** (see below).
 - Opens portals by clapping. Exits by Gaseous Form ("compelled by his own beans").
@@ -131,35 +131,35 @@ tags: [episode, season-1]
 - **Has a laboratory where he revives fallen champions.**
 - "Some self-esteem and some pride." The paycheck joke.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Hates drinking water**; prefers Dr. Pepper. "Clearly not a vampire."
 - **Has "a chef"** and thinks eyeball juice is delicious.
 - "Great, great Grandmaster." Owns Kirken's Mine now.
 - **Used the bottled chaos from S1E3** (the opening chaos event).
 - Walled the bridge with snowbanks. Pretends to drink water to look hydrated.
 
-**Larry**: the Arbiter's friend who **works at a blood bank**. **He came to the Christmas party, spiked the punch and was kicked out early.** "He does know blood."
+**[[Characters/Larry|Larry]]**: the Arbiter's friend who **works at a blood bank**. **He came to the Christmas party, spiked the punch and was kicked out early.** "He does know blood."
 
-**Kirken**: the former owner of **Kirken's Mine**. "**He never really left, but he doesn't own it anymore.**" Drew: a small RP detail to give the place a history; record what Bec said and nothing more.
+**[[Characters/Kirken|Kirken]]**: the former owner of **Kirken's Mine**. "**He never really left, but he doesn't own it anymore.**" Drew: a small RP detail to give the place a history; record what Bec said and nothing more.
 
-**Mr. Kleen**: **Kleen's patron**, a genie, who appears in Eldritch Blast form as a bald man with an earring. A real-world brand parody, kept as-is (Drew).
+**[[Characters/Mr. Kleen|Mr. Kleen]]**: **Kleen's patron**, a genie, who appears in Eldritch Blast form as a bald man with an earring. A real-world brand parody, kept as-is (Drew).
 
-**Mr. Pepper**: in "a legal dispute" with the Deathmatch, which is why there's no Dr. Pepper (a joke).
+**[[Characters/Mr. Pepper|Mr. Pepper]]**: in "a legal dispute" with the Deathmatch, which is why there's no Dr. Pepper (a joke).
 
-**The goblins**: normally clean the stadium toilets (and are said to run the label, per S1E3).
+**[[Characters/Goblins|The goblins]]**: normally clean the stadium toilets (and are said to run the label, per S1E3).
 
-**The Latin pigs**: a small herd that runs across the map when the Pig Latin curse lifts.
+**[[Characters/The Latin pigs|The Latin pigs]]**: a small herd that runs across the map when the Pig Latin curse lifts.
 
-**Chat names in the dodgeball:** Pexy (the cookie and teacup), "Mud Cat" (Drew's handle, thrown as an object), and Pickle Rick.
+**[[Characters/Chat names in the dodgeball|Chat names in the dodgeball:]]** Pexy (the cookie and teacup), "Mud Cat" (Drew's handle, thrown as an object), and Pickle Rick.
 
 ### Places
-- **Kirken's Mine**: an abandoned, snowy mine "hidden far up in the north," owned by the Grandmaster now. Pillars, ledges, snowdrifts, steps, platforms. **The moonlight brings out "hues of diamonds and blues and golds."** **Filled with snow by the Arbiter's avalanche.** Probably the same place as Reaper's Rock from Playtest 2 (Drew).
-- **The rickety bridge over the frozen waterfall**, outside the mineshaft door, 80 ft up. Walled with snowbanks by the GM.
-- **The Arbiter's laboratory**, where he revives champions.
-- **The stadium's 52 toilets** and **the nacho fountain** at the concession stands.
+- **[[Places/Kirken's Mine|Kirken's Mine]]**: an abandoned, snowy mine "hidden far up in the north," owned by the Grandmaster now. Pillars, ledges, snowdrifts, steps, platforms. **The moonlight brings out "hues of diamonds and blues and golds."** **Filled with snow by the Arbiter's avalanche.** Probably the same place as Reaper's Rock from Playtest 2 (Drew).
+- **[[Places/The rickety bridge over the frozen waterfall|The rickety bridge over the frozen waterfall]]**, outside the mineshaft door, 80 ft up. Walled with snowbanks by the GM.
+- **[[Places/The Arbiter's laboratory|The Arbiter's laboratory]]**, where he revives champions.
+- **[[Places/The stadium's 52 toilets|The stadium's 52 toilets]]** and **the nacho fountain** at the concession stands.
 
 ### Items
-- **Ice snowballs** found in the snow (2d12 ice, bonus action, 30 ft). Kleen and Ivanna each found one.
+- **[[Items/Ice snowballs|Ice snowballs]]** found in the snow (2d12 ice, bonus action, 30 ft). Kleen and Ivanna each found one.
 - The GM's water glasses; the eyeball-juice dish; chocolate ice cream (no eyeballs).
 
 ### Lore statements

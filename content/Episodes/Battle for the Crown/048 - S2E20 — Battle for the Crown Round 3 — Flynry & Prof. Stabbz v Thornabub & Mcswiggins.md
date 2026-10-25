@@ -142,7 +142,7 @@ tags: [episode, battle-for-the-crown]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BDTeej), Team Grandmaster.
+**[[Characters/Flynry|Flynry]]** (BDTeej), Team Grandmaster.
 - **Background:**
   - A large monk/pugilist with no weapons.
   - A traveler who never had a home.
@@ -160,7 +160,7 @@ tags: [episode, battle-for-the-crown]
   - Died in the Meteor Swarm, embraced by Orin's spirit: "Home."
   - Appeared afterwards as a robed ghost beside the Grandmaster's chair.
 
-**Prof. Stabbz** (Thenoirenigma), Team Grandmaster.
+**[[Characters/Prof. Stabbz|Prof. Stabbz]]** (Thenoirenigma), Team Grandmaster.
 - **Background:** small (about the size of Thornabub's daughter) and seeking **tenure**. Last time he was "dumped in lava." Hates it here; "good at fighting but he doesn't like it"; "a people person"; always scared.
 - **Powers:** psychic blades, invisibility, Psionic Whispers (a telepathic link), Fury of the Small, Blade Flourish, Silvery Barbs, Healing Word, Evasion, Uncanny Dodge and Sharpshooter.
 - **His pillow** is embroidered with Stabbz in sequins.
@@ -170,7 +170,7 @@ tags: [episode, battle-for-the-crown]
   - Stabbed Thornabub for 99.
   - Died following Flynry: "you mind if I come with you?"
 
-**Thornabub** (GloriousGe0rge), Team Arbiter. Called **Satan** by Mcswiggins ("actual Satan", "Beelzebub Lucifer").
+**[[Characters/Thornabub|Thornabub]]** (GloriousGe0rge), Team Arbiter. Called **Satan** by Mcswiggins ("actual Satan", "Beelzebub Lucifer").
 - Has **hands, wings, hooves and a tail**. A "deal maker," a trickster; flies.
 - **Has a daughter.** He says the Deathmatch worked out things between them, and he asks whether she wants a rematch.
 - **Became the Arbiter's close friend over drinks and "family struggles"**; the Arbiter was setting up a guest room for him.
@@ -181,7 +181,7 @@ tags: [episode, battle-for-the-crown]
   - Bullied Gerald for a 9th-level scroll (Meteor Swarm).
   - Was the last one standing; made a beer slushie.
 
-**Mcswiggins** (Bonus_Stage_Rob), Team Arbiter.
+**[[Characters/Mcswiggins|Mcswiggins]]** (Bonus_Stage_Rob), Team Arbiter.
 - **Background:**
   - Dwarf-height ("a tall five") and a barbarian with an axe.
   - Has a lifelong struggle with alcohol.
@@ -198,59 +198,59 @@ tags: [episode, battle-for-the-crown]
   - Swan-dived into the box and was saved by Death Ward.
   - Gave his death save to Thornabub, who called him "McWackles."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Moved a water bed, a velour patchwork couch and a TV into the Dread Fortress throne room. Wears Italian leather shoes.
 - Smashed Stabbz with his metal folding chair for the duck's death; the chair now wobbles.
 - Erupted the arena with lava in anger.
 - **Lost the crown.** He keeps the water bed and couch, is **moved to the dungeon**, and is **collared and leashed and paraded by Doug the Pug**.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - A fan of animals.
 - Says she missed the Arbiter's rebellion ("real consequences") and thought he'd gone soft.
 - **Keeps her crown.** She catches Flynry's golden coin.
 
-**Gerald (the Box of Chaos)** (Drew).
+**[[Lore/The Box of Chaos|Gerald (the Box of Chaos)]]** (Drew).
 - Insists on his name.
 - Already has "a couple of corpses" and was happy to take Satan's.
 - Gave Mcswiggins a weapon of fate, Thornabub a 9th-level scroll and Flynry a Tome of Clear Thought.
 - Was threatened from inside by Thornabub; "Listen, just promise never to come back."
 - Wears a "back in 30 minutes" sign (Mcswiggins's).
 
-**Doug the Pug**.
+**[[Characters/Doug the Pug|Doug the Pug]]**.
 - Sits beside the Grandmaster and rolls a chewed squishy d20, beating the Arbiter.
 - At the end he wears a tuxedo-like outfit with a rose and leads the Arbiter on a leash.
 
-**Orin**. A giant bear, Flynry's past companion (the Eastern Outpost). His spirit reaches down from the heavens to take Flynry "home."
+**[[Characters/Orin|Orin]]**. A giant bear, Flynry's past companion (the Eastern Outpost). His spirit reaches down from the heavens to take Flynry "home."
 
-**The goblin server**. A cute goblin with a serving tray, sent across planes to fetch Stabbz a raspberry White Claw.
+**[[Characters/The goblin server|The goblin server]]**. A cute goblin with a serving tray, sent across planes to fetch Stabbz a raspberry White Claw.
 
-**The ducks of many things**. A mama duck and seven ducklings.
+**[[Characters/The ducks of many things|The ducks of many things]]**. A mama duck and seven ducklings.
 - The mama duck emits faerie fire when hit and became a fireball.
 - The ducklings never learned what happened. There is "a duck sanctuary."
 
-**The crows**. Very large, intelligent, perceptive crows nesting in a jungle tree. They attack anyone within 15 ft that they can sense.
+**[[Characters/The crows|The crows]]**. Very large, intelligent, perceptive crows nesting in a jungle tree. They attack anyone within 15 ft that they can sense.
 
 Mentioned in the vote recap:
 - Round 1: Glub Glub, Razamon, Veronica, Toddleheim.
 - Round 2: Silky Slim, Baron Voltage, Cosmonius, Locket.
 
 ### Places
-- **Dread Fortress throne room**, mid-redecoration (the water bed placed in front of the throne).
-- **The dungeon** of the Dread Fortress, the Arbiter's new quarters.
-- **The ancient jungle temple arena**: a stepped temple carved with protective runes, 15-ft statues, a cliffside, vanilla bushes and a crow tree. Lava rivers came after the eruption.
-- **The Eastern Outpost**, which has a similar temple (Flynry's past).
-- **The duck sanctuary** (mentioned).
+- **[[Places/Throne Room (Dread Fortress)|Dread Fortress throne room]]**, mid-redecoration (the water bed placed in front of the throne).
+- **[[Places/The dungeon|The dungeon]]** of the Dread Fortress, the Arbiter's new quarters.
+- **[[Places/The ancient jungle temple arena|The ancient jungle temple arena]]**: a stepped temple carved with protective runes, 15-ft statues, a cliffside, vanilla bushes and a crow tree. Lava rivers came after the eruption.
+- **[[Places/The Eastern Outpost|The Eastern Outpost]]**, which has a similar temple (Flynry's past).
+- **[[Places/The duck sanctuary|The duck sanctuary]]** (mentioned).
 
 ### Items
-- **Weapon of fate**: +3 to attack and damage, three d4 bless charges; it shattered.
-- **9th-level spell scroll** (Meteor Swarm).
-- **Tome of Clear Thought**.
-- **Flynry's poem** (fired into the box).
-- **Flynry's golden heroic coin**.
-- **The Arbiter's water bed, velour couch and TV**.
-- **The Arbiter's dented metal folding chair**.
-- **Doug's chewed squishy d20**.
-- **The magical collar and leash** that seal around the Arbiter.
+- **[[Items/Weapon of fate|Weapon of fate]]**: +3 to attack and damage, three d4 bless charges; it shattered.
+- **[[Items/9th-level spell scroll|9th-level spell scroll]]** (Meteor Swarm).
+- **[[Items/Tome of Clear Thought|Tome of Clear Thought]]**.
+- **[[Items/Flynry's poem|Flynry's poem]]** (fired into the box).
+- **[[Items/Flynry's golden heroic coin|Flynry's golden heroic coin]]**.
+- **[[Items/The Arbiter's water bed, velour couch and TV|The Arbiter's water bed, velour couch and TV]]**.
+- **[[Items/The Arbiter's dented metal folding chair|The Arbiter's dented metal folding chair]]**.
+- **[[Items/Doug's chewed squishy d20|Doug's chewed squishy d20]]**.
+- **[[Items/The magical collar and leash|The magical collar and leash]]** that seal around the Arbiter.
 - The chaotic-event pillows.
 
 ### Lore statements

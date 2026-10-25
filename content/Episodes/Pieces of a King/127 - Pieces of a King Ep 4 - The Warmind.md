@@ -340,58 +340,58 @@ tags: [episode, pieces-of-a-king]
 
 ## Who and what appears
 ### Characters
-**Grimnar Stormclaw** (Drew)
+**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Drew)
 - A massive white polar bear and acolyte of the Grandmaster. He wears the Dread Fortress skull as a belt buckle.
 - Chaos lightning blackens his eyes. He floats like an electromagnet, and his mimicry trait copies an opponent's trait (here, necrotic resistance) through chaos energy.
 - Believes in being a vessel for chaos, not controlling it. He knows the Shadow King's face from his recent return, at the Deathmatches and the Dread Fortress.
 - Saw Agdrel's memories through the finger bone. Chose to go to Umbracor ("chaos first") and admits it may be treason.
 
-**Nehebka** (QR0WNTV)
+**[[Characters/Nehebka|Nehebka]]** (QR0WNTV)
 - A sand being created to guard the god-king's pyramids, possibly from "Hardicure" (spelling uncertain).
 - Doesn't sleep, has tremorsense, takes sand form (a tornado lower body) and swaps places with allies through sand.
 - Serves the God King, not the Grandmaster, and feels no empathy "unless the God King commands it." Her first desire is to return home or repair what was shunted into the Void.
 - **She now holds the remnant cylinder inside her chest as a living canopic jar.**
 - Charmed Glauccous by forcing sand into his mouth, then placed a 30-day Geas on him. Sensed that the God King lives.
 
-**Muffy** (JustSeum)
+**[[Characters/Muffy|Muffy]]** (JustSeum)
 - Paints in the air with **her dead brother Meir's paintbrush**, which makes ink without paint and has quill-like bristles.
 - Rallied an RBA squad as its "mascot" and killed a Titan with a damage-type rainbow. Choked Taupe unconscious.
 - Cheerful and cold-blooded ("Where would you like to die?"). Carries a waystone.
 - Learned that Meir may be alive at Umbracor, and sent him a note.
 
-**Meir** (Myer/Maier; not present)
+**[[Characters/Meir|Meir]]** (Myer/Maier; not present)
 - Muffy's brother, an artist (paint, mixed media, many portraits). Muffy believed him long dead.
 - Glauccous and Taupe say he is an ally at Umbracor who speaks of Muffy often and "misses you." They saw him a couple of days ago.
 
-**Glauccous**, Knight of the Order of Shadow and "Antumbran"
+**[[Characters/Glauccous|Glauccous]]**, Knight of the Order of Shadow and "Antumbran"
 - Human, neck-length dark hair, soft features. Fights with a black blade trailing smoke.
 - From the periphery. Under Charm Person, then Geas for 30 days, he is now the party's guide.
 - Carries the brooch (planar relay) and the waypoint rune to Umbracor.
 
-**Taupe** (Toph?), Knight of the Order of Shadow and "Antumbran"
+**[[Characters/Taupe|Taupe]]** (Toph?), Knight of the Order of Shadow and "Antumbran"
 - Ash-gray tiefling with ink-black hair and an arcane stave.
 - Carried the remnant containment cylinder and an obsidian crown-and-shield brooch.
 - Wants to die "on a beach with a drink." Choked unconscious by Muffy and carried out by Glauccous.
 
-**Grandmaster Payne** (the Grandmaster of Shadow)
+**[[Characters/Grandmaster Payne|Grandmaster Payne]]** (the Grandmaster of Shadow)
 - Leader of the Order of Shadow, "like a father to us all." Bearded and mustached. Not big on formality.
 - Wants dialogue with Grandmaster Skypiercer, and peace for people "not to be afraid of the dark."
 - The cold-open Grandmaster is **inferred** to be Payne: the knights call him "Grandmaster" (0:02:51) and later name their Grandmaster as Payne (2:45:01).
 
-**The physician**
+**[[Characters/The Physician|The physician]]**
 - An illithid scientist who helped create the Warmind, and the Warmind's would-be destroyer.
 - Fights with mind-breaking force, a misericorde and a teal light blade.
 - Lost an arm holding the tunnel. Will dismantle the warhead.
 
-**The Nightingales**: the physician's two battered attendants. They heal the party and guard the bullet.
+**[[Characters/The Nightingales|The Nightingales]]**: the physician's two battered attendants. They heal the party and guard the bullet.
 
-**Trissavin**: one of the RBA's greatest leaders. Blasted by a Titan's cannon and saved by Nehebka. Promised that Nehebka will be honored "indefinitely."
+**[[Characters/Trissavin|Trissavin]]**: one of the RBA's greatest leaders. Blasted by a Titan's cannon and saved by Nehebka. Promised that Nehebka will be honored "indefinitely."
 
-**Gund**: an RBA figure (inferred from 0:24:28 and 2:56:01) who would "put it in a cannon and fire it off for fun."
+**[[Characters/Gund|Gund]]**: an RBA figure (inferred from 0:24:28 and 2:56:01) who would "put it in a cannon and fire it off for fun."
 
-**The Warmind**: an Elder Brain (illithid skull with tentacles) warped by a finger-bone remnant of Agdrel into a rampaging Warforged commander. Glauccous and Taupe put it down; it died once the remnant was extracted.
+**[[Characters/The Warmind|The Warmind]]**: an Elder Brain (illithid skull with tentacles) warped by a finger-bone remnant of Agdrel into a rampaging Warforged commander. Glauccous and Taupe put it down; it died once the remnant was extracted.
 
-**Agdrel, the Shadow King** (in a vision)
+**[[Characters/The Shadow King|Agdrel, the Shadow King]]** (in a vision)
 - Studied how to master chaos and considered sacrificing planes, a civilization, or kin such as his niece Elusia.
 - Learned to put diluted chaos into his own bone marrow.
 
@@ -403,20 +403,20 @@ tags: [episode, pieces-of-a-king]
 - **The God King**, Nehebka's creator, who is alive somewhere.
 
 ### Places
-- **The realm of cold light / "world of eternal twilight"**: the Order of Shadow's seat, overlooking a city. Inferred to be Umbracor.
-- **Umbracor** (Umbracor/Lumbercore/Umbricor): Payne's monastery-fortress. It holds at least five remnants and Meir. It is reached by a hidden branch off the planar veins.
-- **Damerung** (Dameron/Damrung), with the site of the solar, the RBA tunnels and the Warmind's mountain chamber.
-- **The periphery vs the interior** of the Void. The periphery is "pretty lawless," with few Void Knights.
+- **[[Places/The realm of cold light|The realm of cold light / "world of eternal twilight"]]**: the Order of Shadow's seat, overlooking a city. Inferred to be Umbracor.
+- **[[Places/Umbracor|Umbracor]]** (Umbracor/Lumbercore/Umbricor): Payne's monastery-fortress. It holds at least five remnants and Meir. It is reached by a hidden branch off the planar veins.
+- **[[Places/Damerung|Damerung]]** (Dameron/Damrung), with the site of the solar, the RBA tunnels and the Warmind's mountain chamber.
+- **[[Places/The periphery vs the interior|The periphery vs the interior]]** of the Void. The periphery is "pretty lawless," with few Void Knights.
 - The planar gate, and the planar veins between realms.
 
 ### Groups
 - **The Order of Shadow / Order of Ascendant Shadows / Order of Shadow Ascendant / Shadow Knights**: once the Dragon Knights. They call themselves "what remains of the Shadow King's forces" but disown him. They hold the books and materials, and gather remnants.
-- **The RBA** (with its stone guard, drow elites and hobgoblin commandos), **the Warforged**, and **Void Knights**.
+- **[[Groups/The RBA|The RBA]]** (with its stone guard, drow elites and hobgoblin commandos), **the Warforged**, and **Void Knights**.
 
 ### Items
-- **The remnant**: a finger-bone-shaped stone that is a literal finger bone of Agdrel. It is now sealed in the cylinder inside Nehebka.
-- **The containment cylinder**: ringed wards that can hold and dispel any magical item; artifice worthy of the Arbiter's collection.
-- **The celestial warhead**: powered by a celestial being. Never used; the physician will dismantle it.
+- **[[Items/The remnant|The remnant]]**: a finger-bone-shaped stone that is a literal finger bone of Agdrel. It is now sealed in the cylinder inside Nehebka.
+- **[[Items/The containment cylinder|The containment cylinder]]**: ringed wards that can hold and dispel any magical item; artifice worthy of the Arbiter's collection.
+- **[[Items/The celestial warhead|The celestial warhead]]**: powered by a celestial being. Never used; the physician will dismantle it.
 - Glauccous's brooch / planar relay and waypoint rune. Taupe's obsidian crown-on-shield brooch.
 - Meir's paintbrush. Muffy's waystone. The bullet transport.
 

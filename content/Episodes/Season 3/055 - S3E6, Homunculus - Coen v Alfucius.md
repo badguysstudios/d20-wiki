@@ -125,21 +125,21 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Coen** (Sam / seum). A very tall, lean **tiefling**, described above.
+**[[Characters/Coen|Coen]]** (Sam / seum). A very tall, lean **tiefling**, described above.
 - **Personality:** easily distracted (crickets, snails). She loves rocks and finds creepy creatures "beautiful." **She has one friend, her familiar.** Polite and apologetic, but secretly the menace of the match.
 - **Abilities seen:** shocking grasp; a reaction when damaged that makes her invisible and teleports her 60 ft; telepathic speech (the Rick Roll); dash; create bonfire; calm emotions cast through her familiar (hero point); summoning a greater demon; speaking Goblin.
 - Uses found rocks as dice; one turned out to be granite.
 - **Wants the wishes for herself.**
 
-**Dolly / Aragorl** (voiced by Bec as Dolly; by Sam once she is Coen's familiar).
+**[[Characters/Dolly|Dolly / Aragorl]]** (voiced by Bec as Dolly; by Sam once she is Coen's familiar).
 - An ancient, demonically possessed porcelain doll from the second chaos event. She came out of a cracked rock under a dark cloud.
 - **Burned a "best friend rune" into Coen's palm and became her familiar.** Coen renamed her Aragorl.
 - **Appearance:** porcelain limbs, a furry torso, big glassy eyes and a beak of tiny poisonous teeth. Her fur went gray, then black-and-white spotted; she is pink, white and black by the end. Her top tuft was singed black. She has a big pocket.
 - **Fire-immune.** She can teleport and go invisible.
 
-**Big Aragorl.** A 20-ft **greater demon** in Aragorl's likeness: all legs, crab-claw arms, **pink Barbie stilettos and a tutu**. A ballerina kicker whose blinks are thunderclaps. The Grandmaster is a little afraid of her.
+**[[Characters/Big Aragorl|Big Aragorl.]]** A 20-ft **greater demon** in Aragorl's likeness: all legs, crab-claw arms, **pink Barbie stilettos and a tutu**. A ballerina kicker whose blinks are thunderclaps. The Grandmaster is a little afraid of her.
 
-**Alfucius the Everbright** (Ed / CantripBreakers). A wizened old man described above.
+**[[Characters/Alfucius the Everbright|Alfucius the Everbright]]** (Ed / CantripBreakers). A wizened old man described above.
 - **Claims to be a great wizard** who served with the librarians of Candlekeep, the Blackstaff of Waterdeep, the mages of Mournmount [?], and the magic weavers of Strixhaven and Eberron.
 - **The truth (his confession):** "I don't know any magic at all." He's a gadgeteer and con man with a gun, coffee, a wand of pyrotechnics, an eldritch cannon, a clockwork mechanical dragon, and gadgets falling out of his sleeves.
 - **Has fallen on hard times:** 15 gold was the last he had, and he spent most of the rest on the commute.
@@ -147,46 +147,46 @@ tags: [episode, season-3]
 - Fed his diamond familiar to Gerald. Rolls only in extremes: two nat 1s and two nat 20s.
 - Killed the ghost dragon.
 
-**Blinkus Maximus ("Blinky")**. Alfucius's homunculus familiar: a tiny, radiant, beetle-like construct built around a diamond.
+**[[Characters/Blinkus Maximus|Blinkus Maximus ("Blinky")]]**. Alfucius's homunculus familiar: a tiny, radiant, beetle-like construct built around a diamond.
 - Alfucius claims it travelled the multiverse with him.
 - **Gerald ate it, and it came back as a winged tome of understanding (+2 Int), "a shit book of intelligence."** It now sits in Alfucius's cloak.
 
-**The Arbiter** (Drew). **Still imprisoned and in chains**, which the Grandmaster can make heavier with a spell; she does so twice.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). **Still imprisoned and in chains**, which the Grandmaster can make heavier with a spell; she does so twice.
 - Rolled 9 on acrobatics.
 - Raised the ghost dragon half-heartedly and wanted to go home.
 - Angry that no one died, so he **flung a goblin from the stands**.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Trains Doug at fetch and freezes chicken broth ice cubes for him.
 - "I have a thing for rocks."
 - Moves her blessings to whoever impresses her.
 - **Says the arena grass grows from blood** and demanded blood before ending the match.
 - Granted both champions their wishes and money.
 
-**Doug**. The Grandmaster's fat pug. He plays fetch with a plushy D20, gnaws Alfucius's toe, and "approved" the deathmatch. The Arbiter says Tuesdays are his training days.
+**[[Characters/Doug the Pug|Doug]]**. The Grandmaster's fat pug. He plays fetch with a plushy D20, gnaws Alfucius's toe, and "approved" the deathmatch. The Arbiter says Tuesdays are his training days.
 
-**Gerald / the Box of Chaos**. Yellow eyes, shadowy fingers, a pink-and-yellow flame column.
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]**. Yellow eyes, shadowy fingers, a pink-and-yellow flame column.
 - The box is fireproof. He canoed through the lava with a shadowy paddle, singing his favorite Pocahontas song.
 - **He ate Blinky ("Bottoms up then") and returned it as a tome.**
 
-**The ghost dragon**. A spectral dragon raised by the Arbiter from the floating dragon bones.
+**[[Characters/The ghost dragon|The ghost dragon]]**. A spectral dragon raised by the Arbiter from the floating dragon bones.
 - Breathes necrotic mist; its tail siphons vitality without a physical hit.
 - Caught and used the hot rock. Burst into colored fairy lights when shot.
 
-**Das Fuster**. An Acolyte, "the last commenter," hit by the flung goblin for 21 damage.
+**[[Characters/Das Fuster|Das Fuster]]**. An Acolyte, "the last commenter," hit by the flung goblin for 21 damage.
 
-**The flung goblin**. An Acolyte in the stands, the match's only death (inferred: Ed's "Just the right amount of goblin death" and Bec's "Just the one goblin death," 1:33:52–55).
+**[[Characters/The flung goblin|The flung goblin]]**. An Acolyte in the stands, the match's only death (inferred: Ed's "Just the right amount of goblin death" and Bec's "Just the one goblin death," 1:33:52–55).
 
 ### Places
-- **A courtyard of the Dread Fortress** with magically made "subterranean sunny day" weather.
-- **The arena** (unnamed): tall rocks, grass and pebbles, then lava, then vanilla-snow-chilled lava. It holds a giant dragon's bones. The northern quadrant is mentioned.
+- **[[Places/A courtyard of the Dread Fortress|A courtyard of the Dread Fortress]]** with magically made "subterranean sunny day" weather.
+- **[[Places/The arena|The arena]]** (unnamed): tall rocks, grass and pebbles, then lava, then vanilla-snow-chilled lava. It holds a giant dragon's bones. The northern quadrant is mentioned.
 - Named by Alfucius: Candlekeep, Waterdeep, Mournmount [?], Strixhaven, Eberron.
 
 ### Items
 - Coen's rock dice: a "D4-ish" rock, a palm-sized rock, a granite mud rock and a divoted pocket rock.
-- **The hot potato rock**: thrown by the Grandmaster, it glowed red and exploded after four rounds.
+- **[[Items/The hot potato rock|The hot potato rock]]**: thrown by the Grandmaster, it glowed red and exploded after four rounds.
 - Alfucius's 15 gold, wand of pyrotechnics, coffee container (mug of replenishing coffee), Eldritch Cannon, pistol, tiny mechanical dragon, and **Blinky's tome of understanding**.
-- **The ring of three wishes**, which Alfucius says he came for.
+- **[[Items/Ring of Three Wishes|The ring of three wishes]]**, which Alfucius says he came for.
 - Stuffed Aragorl plushies, thrown into the crowd by goblins.
 - The yellow tulips with teeth, grown from Alfucius's blood.
 

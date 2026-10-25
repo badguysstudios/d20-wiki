@@ -217,7 +217,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Asena** (PodsofWar)
+**[[Characters/Asena|Asena]]** (PodsofWar)
 - **Origin:** from the dimension of **Northport**, a Coriander Society character. Normally **a pugilist**; here a monk "more dragon-y," tapping her **dragon heritage** for the arena.
 - **Powers:**
   - Telepathy.
@@ -238,7 +238,7 @@ tags: [episode, season-2]
   - She won; the GM called her "queen of the fight."
   - Ralzamon calls her a corrupting energy and "**harbinger of elder evil**"; the GM says she doesn't doubt she is a danger.
 
-**Ralzamon** (TrmntdByGnomes)
+**[[Characters/Ralzamon|Ralzamon]]** (TrmntdByGnomes)
 - **Nature:** "master of the unknown." A long-dead being of ectoplasm, dressed half jungle explorer, half megalomaniac.
   - "Ralzamon" is an assumed name, not his real one. He has a "poor dead mother."
   - **His consciousness normally resides in a crystal heart** and he calls this body a "fleshy apparatus."
@@ -251,43 +251,43 @@ tags: [episode, season-2]
   - He was killed by Asena.
   - **He was revived in secret by the Arbiter in the well as "a general for the days to come."**
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - He has just returned to the Dread Fortress after an absence ("I really miss this place"). The GM calls him her right-hand man.
 - He claims he and the GM were recently dragons.
 - **He secretly revived Ralzamon and recruited him: "We have much to plan for."**
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Wanted macaroni, bacon grease and soy sauce.
 - Was once "the most gorgeous **Topaz dragon**," then got killed ("they cheated," per the Arbiter).
 - Has been called "good or evil, hero or villain."
 - Removed Asena's snake arms with a wave and bought drinks for everyone.
 
-**Doug the Pug**: the GM's pug. He had "a bones day" and rolled a chaos event.
+**[[Characters/Doug the Pug|Doug the Pug]]**: the GM's pug. He had "a bones day" and rolled a chaos event.
 
-**The goblins of the Dread Fortress**: servants taking meal orders, barely literate. They are blamed for the broken round sign.
+**[[Characters/The goblins of the Dread Fortress|The goblins of the Dread Fortress]]**: servants taking meal orders, barely literate. They are blamed for the broken round sign.
 
-**The aliens**: crew of a silver saucer. They give "good gifts and negative gifts," took Asena, gave her snake arms, and gave potions to Ralzamon, whom they took for a friend.
+**[[Characters/The aliens|The aliens]]**: crew of a silver saucer. They give "good gifts and negative gifts," took Asena, gave her snake arms, and gave potions to Ralzamon, whom they took for a friend.
 
-**The tombstone guy**: the Fortress's craftsman, able to use materials from any realm, with a weekly discount.
+**[[Characters/The tombstone guy|The tombstone guy]]**: the Fortress's craftsman, able to use materials from any realm, with a weekly discount.
 
 **Mentioned:** "Jill and Carmichael" (a "he" who may have aided Asena's ascension; spelling uncertain); Asena's friend John; Belle (chat).
 
 ### Places
-- **The Dread Fortress**: old, crumbling stone halls, with cooks and helpers.
-- **The Dread Fortress throne room**, with the GM's throne.
-- **The Dread Fortress kitchen**:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: old, crumbling stone halls, with cooks and helpers.
+- **[[Places/Throne Room (Dread Fortress)|The Dread Fortress throne room]]**, with the GM's throne.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**:
   - two levels, stairs, a balcony 20 ft up, a 40 ft ceiling;
   - wall trophies, skulls, horns, furs and a wall clock;
   - barrels of mead;
   - **a deep, dark well/pit in a corner, seemingly endless, into which the Arbiter threw Ralzamon.**
-- **Northport**: Asena's dimension, which has movies.
-- **Ico**: a dimension Asena visited that morning (spelling uncertain).
-- **The Zul'quian jungles**: the source of Ralzamon's talisman power.
+- **[[Places/Northport|Northport]]**: Asena's dimension, which has movies.
+- **[[Places/Ico|Ico]]**: a dimension Asena visited that morning (spelling uncertain).
+- **[[Places/The Zul'quian jungles|The Zul'quian jungles]]**: the source of Ralzamon's talisman power.
 - Ralzamon's "own world," which Asena's energy supposedly corrupts.
 
 ### Items
 - Red vial (+AC, speed) and blue vial (+attack), lasting two rounds.
-- **Box of Chaos**: magic items in exchange for a sacrifice of the taker's choosing. **Unclaimed this episode.**
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: magic items in exchange for a sacrifice of the taker's choosing. **Unclaimed this episode.**
 - Alien healing potions (two, given to Ralzamon).
 - Asena's snake arms.
 - The milk jar.

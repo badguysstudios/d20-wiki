@@ -256,7 +256,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Lucien Braque** (Timothiusthegr8)
+**[[Characters/Lucien Braque|Lucien Braque]]** (Timothiusthegr8)
 - **Look:** a greenish, very tall half-orc with a swimmer's body and a stiff pompadour.
 - **Style:** calls himself "the wordsmith of kings and queens, the narrator of the nether realms, the orator of the oracles." Obsessed with his "branding." His look took "a lot of money, a lot of doctors."
 - **Personal:** has an ex-wife (a running joke).
@@ -264,7 +264,7 @@ tags: [episode, season-1]
 - **Fighting style:** a Valor Bard (per Dried Blood) with a sword and shield. He scrapes the sword on the shield to cast. He was kind and encouraging to Monteclaire once the horde arrived.
 - **Gained this episode:** Keoghtom's Ointment and a Mace of Smiting from the chaos box.
 
-**Monteclaire Dufresne** (theshortnord)
+**[[Characters/Monteclaire Dufresne|Monteclaire Dufresne]]** (theshortnord)
 - **Age and build:** 93 years old, apparently a halfling ("halfling power slide," "small, not-so-big fighter").
 - **Background:** a former lord of a town who was kicked out. Calls himself royalty and a "paladin of retribution."
 - **Style:** Southern-styled ("son," "southern discomfort"). Has spikes on his shoulder armor.
@@ -274,33 +274,33 @@ tags: [episode, season-1]
   - Banished the horned devil.
   - Sides with the turkey dragon while being terrified of it.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - **Rule:** sits on the Iron Throne in the throne room deep in the Dread Fortress. Keeps a secret ruler's handbook.
-- **The Acolytes:** wants "I am a delight. People like me" sewn in her clothes. Asked the Acolytes to fight for the first time.
-- **The turkey dragon:** dislikes chickens and turkeys, yet **created the turkey dragon** and keeps it locked behind the triple-locked Northern Gate.
+- **[[Lore/The Acolytes|The Acolytes:]]** wants "I am a delight. People like me" sewn in her clothes. Asked the Acolytes to fight for the first time.
+- **[[Characters/The turkey dragon|The turkey dragon:]]** dislikes chickens and turkeys, yet **created the turkey dragon** and keeps it locked behind the triple-locked Northern Gate.
 - **The attack:** refused to flee. Lost the Arbiter to the Tarrasque and vowed to rebuild for Season 2.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Took notes on how rulers behave. Sent mage hands to sew for the Grandmaster.
 - **Used time magic to hold the Tarrasque for the whole battle.** Was swallowed whole, alive, and carried off.
 - Locked the Northern Gate with multiple locks (the Grandmaster blames him).
 
-**Doug the Pug**
+**[[Characters/Doug the Pug|Doug the Pug]]**
 - A "small undead pug" with his own small throne beside the Grandmaster's.
 - Beats the Arbiter's rolls. Went to check the front door before the attack.
 - **Flew into the arena and held the Southern Gate alone.** Survived.
 
-**The blue singer**: a sapphire-skinned, blue-haired woman with an endless train, who sang "I'm Blue." Banished.
+**[[Characters/The blue singer|The blue singer]]**: a sapphire-skinned, blue-haired woman with an endless train, who sang "I'm Blue." Banished.
 
-**The clown**: a small balloon-twisting clown who made the balloon weapons. Poorly paid, with "a little bit of edge," and made a middle-finger balloon.
+**[[Characters/The clown|The clown]]**: a small balloon-twisting clown who made the balloon weapons. Poorly paid, with "a little bit of edge," and made a middle-finger balloon.
 
-**The ten animated rocks**: sentient pebbles with tiny shrill voices. Nine survived the fight; the table nicknamed them NSYNC and the Backstreet Boys, "except for JC."
+**[[Characters/The ten animated rocks|The ten animated rocks]]**: sentient pebbles with tiny shrill voices. Nine survived the fight; the table nicknamed them NSYNC and the Backstreet Boys, "except for JC."
 
-**The turkey dragon**: the Grandmaster's creation.
+**[[Characters/The turkey dragon|The turkey dragon]]**: the Grandmaster's creation.
 - Slithers out of the Northern Gate. Breathes gigantic cranberry sauce (acid) and gobble-roars to terrify foes.
 - Stomped the wyrmling and scared off the red dragon, then crawled back into its hole.
 
-**The invaders** (unknown master):
+**[[Characters/The invaders|The invaders]]** (unknown master):
 - **The Tarrasque.** It shimmers unnaturally in moonlight, retreated at the sound of a horn and carried off the Arbiter.
 - **Wave 1:** death dogs and the Aarakocra "Dogmaster."
 - **Wave 2:** a doppelganger, a flameskull and a red dragon wyrmling.
@@ -314,19 +314,19 @@ tags: [episode, season-1]
 - The survivors named in the closing speech: Emty, Vegeta, Tiefling, Shady, Emu, McBluff, Gator, Gunner.
 
 ### Places
-- **The throne room deep in the Dread Fortress**, with the Grandmaster's Iron Throne and Doug's small throne.
-- **The Grand Coliseum**: open to the night sky, with stone columns. Its **western wall** was destroyed by the Tarrasque.
+- **[[Places/The throne room deep in the Dread Fortress|The throne room deep in the Dread Fortress]]**, with the Grandmaster's Iron Throne and Doug's small throne.
+- **[[Places/The Grand Coliseum|The Grand Coliseum]]**: open to the night sky, with stone columns. Its **western wall** was destroyed by the Tarrasque.
   - **The Northern Gate** holds the turkey dragon behind three physical locks.
   - **The Southern Gate** was held by Doug.
   - Somewhere in the Fortress there is "the front door."
 
 ### Items
-- **The Grandmaster's purple revitalizing vials**: a full restore.
-- **The pink chest / "box of chaos"**: an arena loot chest ringed in magical fire, opened with blood points.
-- **Blood points**: shown as little red gems.
-- **Keoghtom's Ointment** (Lucien).
-- **Mace of Smiting** (Lucien).
-- **The balloon weapons**: Monteclaire's rapier and Lucien's longsword popped. The real weapons were returned from the sand.
+- **[[Items/The Grandmaster's purple revitalizing vials|The Grandmaster's purple revitalizing vials]]**: a full restore.
+- **[[Lore/The Box of Chaos|The pink chest / "box of chaos"]]**: an arena loot chest ringed in magical fire, opened with blood points.
+- **[[Items/Blood points|Blood points]]**: shown as little red gems.
+- **[[Items/Keoghtom's Ointment|Keoghtom's Ointment]]** (Lucien).
+- **[[Items/Mace of Smiting|Mace of Smiting]]** (Lucien).
+- **[[Items/The balloon weapons|The balloon weapons]]**: Monteclaire's rapier and Lucien's longsword popped. The real weapons were returned from the sand.
 
 ### Lore statements
 - Rulers in the Void (per the Grandmaster) pass down a secret handbook.

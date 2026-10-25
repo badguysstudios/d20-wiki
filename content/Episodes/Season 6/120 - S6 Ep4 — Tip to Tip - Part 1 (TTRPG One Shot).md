@@ -162,7 +162,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Richard S. Skelman** (Joel). A skeleton; "Richard," "Dick."
+**[[Characters/Richard S. Skelman|Richard S. Skelman]]** (Joel). A skeleton; "Richard," "Dick."
 - Known to the Grandmaster and "beloved by the fortress."
 - Has no eyeballs and sees by echolocation (chattering his teeth). His bones are held by "magnets" and detach at will. No feeling.
 - Buried his lover **Josephine** alive in the family plot.
@@ -172,7 +172,7 @@ tags: [episode, season-6]
 - Says he solved a murder mystery involving Thea ("a real proper dick on that case").
 - Leaves carrying Josephine's arm and his grandfather's rib.
 
-**Richard Knottley, "Dick Twist"** (RealLifeFakeWizard).
+**[[Characters/Richard Knottley|Richard Knottley, "Dick Twist"]]** (RealLifeFakeWizard).
 - Conspiracy theorist. Believes the government is run by chinchillas, voles and small mammals; birds are government cameras; trees talk on the internet; Shakespeare was a time traveler.
 - Wears an aluminum foil hat (blown off by his own lightning). Carries a mason jar of body-warm pickle juice, poured out on the statue's ankle monitor. Wears holey slippers.
 - Ex-Peloton instructor, fired over complaints. Plans the radio show **After Dark with Dick Twist**.
@@ -180,49 +180,49 @@ tags: [episode, season-6]
 - Has nightmares of being controlled by chinchillas and of a frog creature spitting frogs.
 - Befriended the angel statue and promised to meet it at the third full moon of the year. Voted Killy leader.
 
-**Killy Yesman** (Yangyang). A Double Sun Cola promoter.
+**[[Characters/Killy Yesman|Killy Yesman]]** (Yangyang). A Double Sun Cola promoter.
 - Very muscular with undulating pecs, very thin legs, majestic blonde hair, "the world's most punchable face." Said to wear sunglasses.
 - His hat holds two cola bottles with straws.
 - Pulls ever-larger bottles from his shorts: regular, deluxe two-handed, a special red bottle, the magnum, and the four-magnum "small rocket."
 - Says yes and follows stronger voices. The GM had never met him.
 - Chosen leader of Team 3D, then recalled by Double Sun Cola HQ for two months of retraining.
 
-**Thea** (Bec). A small neon-pink imp that glows like a glow stick (she eats glow sticks).
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A small neon-pink imp that glows like a glow stick (she eats glow sticks).
 - Created by the Arbiter, who signs her pay paperwork weekly. Loves the Deathmatches and stays pink from rolling in champions' blood. Unbearably loud.
 - Tracked by the Arbiter's tablet.
 - Her tail works as a phone.
 - Was lured to the mausoleum for hide-and-go-seek by the lich grandfather.
 
-**Skelman's lich grandfather** (Drew, inferred). He is unnamed.
+**[[Characters/Skelman's lich grandfather|Skelman's lich grandfather]]** (Drew, inferred). He is unnamed.
 - Fungus-ridden, with an unhinged jaw, earlobes to his nipples and long bejeweled fingers.
 - Turned the family mausoleum into his retirement dungeon and is the disembodied corridor voice (inferred from his "trial run" and "my corridors" lines plus 1:19:35).
 - Powers: necrotic fists, damage absorption, a force choke.
 - Permanently blinded by Killy, then evaporated by the Bonetron. His forearm pressed a "You've won!" button.
 
-**Josephine**. Skelman's jilted lover, buried alive by him. As a zombie she throws her own arm; the red cola gave her a moment of sentience before she dissolved.
+**[[Characters/Josephine|Josephine]]**. Skelman's jilted lover, buried alive by him. As a zombie she throws her own arm; the red cola gave her a moment of sentience before she dissolved.
 
-**The angel statue**. Robed, hands over its face, stone wings that are too heavy to fly.
+**[[Characters/The angel statue|The angel statue]]**. Robed, hands over its face, stone wings that are too heavy to fly.
 - Had never been complimented; cries pebble tears that unlock the stairway.
 - Speaks in Knottley's voice and shares his conspiracies.
 - Wears an ankle monitor from "an incident down at Soho."
 - Will carve coordinates and meet Knottley at the third full moon of the year.
 
-**Auntie Ethel and the poltergeists**. Skelman's family ghosts on the stairs ("Stop hitting yourself!").
+**[[Characters/Auntie Ethel and the poltergeists|Auntie Ethel and the poltergeists]]**. Skelman's family ghosts on the stairs ("Stop hitting yourself!").
 
-**Double Sun Cola HQ** (Bec). Disapproves of free giveaways; runs retraining seminars; "the Sunkola."
+**[[Characters/Double Sun Cola HQ|Double Sun Cola HQ]]** (Bec). Disapproves of free giveaways; runs retraining seminars; "the Sunkola."
 
-**The Arbiter** (Drew). Has a tablet tracker that never works ("Fucking Stuart"). Hung out in the ski ball room. Recruited "a couple of guys." "I've killed lots of my friends."
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). Has a tablet tracker that never works ("Fucking Stuart"). Hung out in the ski ball room. Recruited "a couple of guys." "I've killed lots of my friends."
 
-**The Grandmaster** (Bec). Offered benefits (a chinchilla, PTO, sabbatical, resorts, "You won't die"). Her face can replace the moon in the sky.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Offered benefits (a chinchilla, PTO, sabbatical, resorts, "You won't die"). Her face can replace the moon in the sky.
 
 ### Places
-- **Dread Fortress dungeons**; a **ski ball room** in the Dread Fortress.
-- **The Midnight Mausoleum** (in the Shadowlands): the Skelman family plot, with a graveyard, astroturf over a grave, the angel statue and plaque, the stairwell, a three-door trapped corridor, and the grandfather's one-door chamber. Many imps reportedly come by.
-- **The Shadowlands**.
+- **[[Places/Dread Fortress dungeons|Dread Fortress dungeons]]**; a **ski ball room** in the Dread Fortress.
+- **[[Places/The Midnight Mausoleum|The Midnight Mausoleum]]** (in the Shadowlands): the Skelman family plot, with a graveyard, astroturf over a grave, the angel statue and plaque, the stairwell, a three-door trapped corridor, and the grandfather's one-door chamber. Many imps reportedly come by.
+- **[[Places/The Shadowlands|The Shadowlands]]**.
 - Soho (statue's incident).
 
 ### Items
-- **Double Sun Cola** (rocket-shaped bottle with two balls and a sun pattern; flammable, conductive, caustic to bone, harmful to eyes, possibly itchy). Its "special red" bottle.
+- **[[Items/Double Sun Cola|Double Sun Cola]]** (rocket-shaped bottle with two balls and a sun pattern; flammable, conductive, caustic to bone, harmful to eyes, possibly itchy). Its "special red" bottle.
 - Knottley's foil hat and pickle juice. Josephine's arm (grants advantage). The grandfather's rib.
 - The Arbiter's tracker tablet. "You be dick [?]" t-shirts from the grandfather's chest.
 

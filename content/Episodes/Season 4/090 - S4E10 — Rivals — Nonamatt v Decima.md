@@ -266,7 +266,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Nonamatt** (Drakoniques).
+**[[Characters/Nonamatt|Nonamatt]]** (Drakoniques).
 - **Look:** a horned, bull-eared twin of Decima; lanky, gaunt, slightly darker skin, eyes shifting blue and green. Wears a noble-looking robe of blues, reds and golds and carries a golden staff with a horned head.
 - **Nature:** a wizard, "not much of a fighter… an okay tactician." Nervous, apologizes constantly, idealistic. Believes no one should hold the God of Fate's power.
 - **Origins:** has never seen the Void's realm before ("a realm I've never seen before").
@@ -279,50 +279,50 @@ tags: [episode, season-4]
 - **Gains this episode:** the translucent leather breastplate from the Box, merged into his robe; the sapphire paper and lavender ribbon.
 - **Outcome:** killed his twin. Spared by the Shadow King at the Grandmaster's plea, he left through a portal with Decima's body for burial at home.
 
-**Decima** (hshahid_). Nonamatt's twin; a tall minotaur with a humanoid face, bull horns, bull ears, a septum piercing and mossy green hair.
+**[[Characters/Decima|Decima]]** (hshahid_). Nonamatt's twin; a tall minotaur with a humanoid face, bull horns, bull ears, a septum piercing and mossy green hair.
 - **Weapon and powers:** a filigreed greataxe; Echo Knight powers (manifests **an echo of Morta** instead of themself); rage; Mobile feat; Inflict Wounds.
 - **Aims:** wanted to stop Nonamatt from killing the God of Fate and **become the God of Fate themself** to "fix the mistake" of Morta's death.
-- **Box of Chaos:** threw the crowd tacos (earning a bless), then **consumed the Box of Chaos**, gaining a shadow shield of Acolyte souls with Lady Magdala as a circlet. Lost them under the memory whip.
+- **[[Lore/The Box of Chaos|Box of Chaos:]]** threw the crowd tacos (earning a bless), then **consumed the Box of Chaos**, gaining a shadow shield of Acolyte souls with Lady Magdala as a circlet. Lost them under the memory whip.
 - **Death:** dropped their axe and let Nonamatt kill them. Dying words: "Don't be sorry. Morta would be proud."
 
-**Morta**: the twins' late older brother. He looked like them, with a slightly different build. He used to sing them a childhood song and scolded them for fighting. His death is the root of the conflict, and the twins blame the God of Fate (Dried Blood). He appeared only as Decima's echo: warm to the touch, hesitant to strike, and last seen as a hand on Nonamatt's shoulder warning him not to run.
+**[[Characters/Morta|Morta]]**: the twins' late older brother. He looked like them, with a slightly different build. He used to sing them a childhood song and scolded them for fighting. His death is the root of the conflict, and the twins blame the God of Fate (Dried Blood). He appeared only as Decima's echo: warm to the touch, hesitant to strike, and last seen as a hand on Nonamatt's shoulder warning him not to run.
 
-**The God of Fate**: unnamed in this episode. Has a "throne"; Decima wants the role and Nonamatt wants to kill them.
+**[[Characters/The God of Fate|The God of Fate]]**: unnamed in this episode. Has a "throne"; Decima wants the role and Nonamatt wants to kill them.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - Ordered thousands of tacos and numbers the goblins instead of naming them. Last cared about calendars "before the Gregorian calendar."
 - Says he "didn't even kill" the Grandmaster when he came back; calls her necklace "for your own good."
 - **Picks Box sacrifices from the crowd at random.**
 - Hurt Kesa, started a piercing taco food fight, and tried to feed Nonamatt to Kyle.
 - Spared Nonamatt because the Grandmaster is "like a daughter to me."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Wears an amulet or necklace that cuts her hand each time she opens a portal. She calls it "not a shackle," sarcastically.**
 - Knows the goblins' names and is called "a ranger herself." (Her "their nieces and nephews" line at 1:34:24 is about other people's families, not hers.)
 - Says the Shadow King runs the shows through her because the Acolytes don't know him.
 - Uses chaos magic tricks: the gift, the magnet, a cursed hot potato.
 - Wept at the fight, held her spear to the Shadow King's throat and begged for Nonamatt's life, saying "even if this will cost me."
 
-**Kesa**: a goblin of the Dread Fortress staff with pink ponytail hair and mittens. Likes tacos. Knocked across the room by the Shadow King's taco hand.
+**[[Characters/Kesa|Kesa]]**: a goblin of the Dread Fortress staff with pink ponytail hair and mittens. Likes tacos. Knocked across the room by the Shadow King's taco hand.
 
-**Tabitha, Sarah, Kennedy**: named goblins among the 328 Dread Fortress employees.
+**[[Characters/Tabitha|Tabitha, Sarah, Kennedy]]**: named goblins among the 328 Dread Fortress employees.
 
 
-**Lady Magdala**: an Acolyte the Shadow King killed and threw into the Box. Her soul was the largest of the shadows Decima absorbed.
+**[[Characters/Lady Magdala|Lady Magdala]]**: an Acolyte the Shadow King killed and threw into the Box. Her soul was the largest of the shadows Decima absorbed.
 
-**Kyle**: a giant who loves Taco Tuesday, summoned to eat the tortilla-wrapped Nonamatt. Denied his meal.
+**[[Characters/Kyle|Kyle]]**: a giant who loves Taco Tuesday, summoned to eat the tortilla-wrapped Nonamatt. Denied his meal.
 
 ### Places
-- **The Dread Fortress**: musty halls; the Shadow King's throne room, with a window and several doors.
-- **The glowing forest arena**: lavender, purple and teal fluffy trees with glowing trunks, roots and branches; a central color-shifting tree; drifting purple dandruff and dandelions; fog; the crowd's light in place of a sky.
-- **The twins' home** (unnamed), where Decima is taken for burial.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: musty halls; the Shadow King's throne room, with a window and several doors.
+- **[[Places/The glowing forest arena|The glowing forest arena]]**: lavender, purple and teal fluffy trees with glowing trunks, roots and branches; a central color-shifting tree; drifting purple dandruff and dandelions; fog; the crowd's light in place of a sky.
+- **[[Places/The twins' home|The twins' home]]** (unnamed), where Decima is taken for burial.
 
 ### Items
-- **The Box of Chaos**: now fed with Acolyte souls ("it all depends on the strength of the soul"); it accepts anything, including cryptocurrency. **Consumed by Decima and left dormant**, then animated by Nonamatt.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: now fed with Acolyte souls ("it all depends on the strength of the soul"); it accepts anything, including cryptocurrency. **Consumed by Decima and left dormant**, then animated by Nonamatt.
 - The family-heirloom **silver taco tray** (animated).
 - The **translucent leather breastplate** (+1 AC, advantage on Con saves), merged into Nonamatt's robe.
-- **The cursed hot potato** in sapphire paper with a lavender ribbon.
-- **The Grandmaster's magnet**: a small silvery disc.
+- **[[Items/The cursed hot potato|The cursed hot potato]]** in sapphire paper with a lavender ribbon.
+- **[[Items/The Grandmaster's magnet|The Grandmaster's magnet]]**: a small silvery disc.
 - The Grandmaster's **amulet/necklace** and her **spear**.
 - The giant tortilla.
 

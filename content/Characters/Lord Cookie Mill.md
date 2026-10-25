@@ -1,0 +1,14 @@
+---
+title: "Lord Cookie Mill"
+tags: [character]
+---
+
+First appears in [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]]. Appears in 1 episode.
+
+## Appearances
+
+### [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]]
+(also "Cookie Milk"): Agatha's familiar, a Sphinx of Wonder in cat form.
+- Can fly. Its eyes go shark-black, and it uses Beguiling Defense to reflect damage.
+- Rolled two natural 20 Strength saves.
+- Exploded like a firework.

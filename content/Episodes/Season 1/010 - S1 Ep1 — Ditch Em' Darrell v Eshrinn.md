@@ -44,29 +44,29 @@ tags: [episode, season-1]
 "Far beyond the comforts of home, past the dimly lit taverns, the gently swaying fields, the tallest snow-clad mountain peaks, and above even the golden horizon itself, lies a dark void outside of all space and time. If you're lucky, the Dread Fortress will call to you, drawing you out of the darkness and into the halls of the Grandmaster, **Elusia Skypiercer**. Though retired from battle, the Grandmaster yearns for the days of glory and bloodshed. She has tasked the Arbiter, her servant in all things, to curate a spectacle… Heroes, villains, monsters and beasts of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena. You, Acolyte, are called to bear witness to D20 Deathmatch."
 
 ## Who and what appears
-**Ditch Em' Darrell** (endlesschad). Old (50-some years), walrus mustache full of KC Masterpiece barbecue sauce, chews tobacco; battleaxe **Ramona** that he plays like an electric guitar and fires a brown Eldritch Blast from; paladin/warlock (lay on hands, cure wounds, Eldritch Blast). Loves trinkets, rings and shiny things; calls the Grandmaster "manager" and the Arbiter "assistant manager." Has a granny with sayings. Fell for Eshrinn, then killed her. **First champion of D20 Deathmatch.**
+**[[Characters/Ditch Em' Darrell|Ditch Em' Darrell]]** (endlesschad). Old (50-some years), walrus mustache full of KC Masterpiece barbecue sauce, chews tobacco; battleaxe **Ramona** that he plays like an electric guitar and fires a brown Eldritch Blast from; paladin/warlock (lay on hands, cure wounds, Eldritch Blast). Loves trinkets, rings and shiny things; calls the Grandmaster "manager" and the Arbiter "assistant manager." Has a granny with sayings. Fell for Eshrinn, then killed her. **First champion of D20 Deathmatch.**
 
-**Eshrinn** (BDTeej). Snake-woman (Bec and TJ say yuan-ti) "pretty much snake from the shoulders up," cobra hood with ornate patterns, forked tongue, tail; hooded cloak; bag of colored vials; blowgun. Rogue/spellcaster, "master of spells and poisons"; immune to poison. Charmed and befriended Darrell; dressed in gem beetles; ate one. Invokes "Hocum and Grocom." **Killed; secretly revived by the Arbiter**, one of his recruits.
+**[[Characters/Eshrinn|Eshrinn]]** (BDTeej). Snake-woman (Bec and TJ say yuan-ti) "pretty much snake from the shoulders up," cobra hood with ornate patterns, forked tongue, tail; hooded cloak; bag of colored vials; blowgun. Rogue/spellcaster, "master of spells and poisons"; immune to poison. Charmed and befriended Darrell; dressed in gem beetles; ate one. Invokes "Hocum and Grocom." **Killed; secretly revived by the Arbiter**, one of his recruits.
 
-**The Grandmaster** (Elusia Skypiercer). Bored; bocce for one; paintings of herself everywhere; gold and black silvery dress; black feathered wings; a staff; throws chairs at the Arbiter. "Victory may hurt, but it lets us know that we are alive." Retired from battle (intro).
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Elusia Skypiercer). Bored; bocce for one; paintings of herself everywhere; gold and black silvery dress; black feathered wings; a staff; throws chairs at the Arbiter. "Victory may hurt, but it lets us know that we are alive." Retired from battle (intro).
 
-**The Arbiter.** Black and white sleeveless leather robes, hood, eight gem rings; **white glowing wings**; favorite weapon a metal chair; bets on champions; **owes people money**; resents the Grandmaster ("One day I'm gonna show her"); controls the dragon; **revives Eshrinn in a secret lair.** Has a "best friend" who isn't really supposed to be at the arena.
+**[[Characters/The Arbiter|The Arbiter.]]** Black and white sleeveless leather robes, hood, eight gem rings; **white glowing wings**; favorite weapon a metal chair; bets on champions; **owes people money**; resents the Grandmaster ("One day I'm gonna show her"); controls the dragon; **revives Eshrinn in a secret lair.** Has a "best friend" who isn't really supposed to be at the arena.
 
-**The dragon.** Slept beneath the gold of the Gilded Thresh Hollow; woken by the Grandmaster and Arbiter; flown over snowy mountains; the Arbiter's snap turned its eyes white and flipped it; unnamed ("I'll answer all your questions when you've won me my money").
+**[[Characters/The dragon|The dragon.]]** Slept beneath the gold of the Gilded Thresh Hollow; woken by the Grandmaster and Arbiter; flown over snowy mountains; the Arbiter's snap turned its eyes white and flipped it; unnamed ("I'll answer all your questions when you've won me my money").
 
-**Gem beetles.** Iridescent beetles living in the gold; poisonous to eat.
+**[[Characters/Gem beetles|Gem beetles.]]** Iridescent beetles living in the gold; poisonous to eat.
 
 ### Places
-- **Dread Fortress**: lava field, rock skull with an open mouth leading to an underground castle; paintings of the Grandmaster; meeting rooms and feast halls; the throne room (iron door, throne of metal and bone, hearth), the seat of the Grandmaster's power and her home (Drew).
-- **The Gilded Thresh Hollow**: a secret golden cavern with gold waterfalls, piles of gems, pillars, ledges; a dragon sleeping under the gold.
-- **The Arbiter's secret lair** beneath the Hollow (beakers, arcane equipment).
-- **Snowy mountains** the dragon flies over.
+- **[[Places/The Dread Fortress|Dread Fortress]]**: lava field, rock skull with an open mouth leading to an underground castle; paintings of the Grandmaster; meeting rooms and feast halls; the throne room (iron door, throne of metal and bone, hearth), the seat of the Grandmaster's power and her home (Drew).
+- **[[Places/The Gilded Thresh Hollow|The Gilded Thresh Hollow]]**: a secret golden cavern with gold waterfalls, piles of gems, pillars, ledges; a dragon sleeping under the gold.
+- **[[Places/The Arbiter's secret lair|The Arbiter's secret lair]]** beneath the Hollow (beakers, arcane equipment).
+- **[[Places/Snowy mountains|Snowy mountains]]** the dragon flies over.
 
 ### Items
-- **Ramona**, Darrell's battleaxe.
-- **The golden pinky ring**: found by Darrell, given to Eshrinn, dosed with hideous laughter, given back.
-- **The metal chair(s)** in the Grandmaster's back corner.
-- **Eshrinn's heroic coin** (her hero point, flicked to the Arbiter).
+- **[[Items/Ramona|Ramona]]**, Darrell's battleaxe.
+- **[[Items/The golden pinky ring|The golden pinky ring]]**: found by Darrell, given to Eshrinn, dosed with hideous laughter, given back.
+- **[[Items/The metal chair(s)|The metal chair(s)]]** in the Grandmaster's back corner.
+- **[[Items/Eshrinn's heroic coin|Eshrinn's heroic coin]]** (her hero point, flicked to the Arbiter).
 
 ## Quotes by character
 **The Grandmaster**

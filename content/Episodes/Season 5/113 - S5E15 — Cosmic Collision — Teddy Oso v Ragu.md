@@ -133,7 +133,7 @@ Opens with "He's naked! He's naked!" (unclear what this refers to) and "welcome 
 
 ## Who and what appears
 ### Characters
-**Teddy Oso** (guest, speaker 01). Apocalypse survivor and zombie fighter with a shotgun and an axe (blurb).
+**[[Characters/Teddy Oso|Teddy Oso]]** (guest, speaker 01). Apocalypse survivor and zombie fighter with a shotgun and an axe (blurb).
 - **His zombie count rose from 12,000 ("last time") to "the 30,000 range," and Thea counts this kill as 30,001.**
 - **Bitten on the right knee by a zombie** (bandaged). **He eats a tiny raw piece of every zombie he kills to build immunity**: about 40–50 people's worth, from the thumb muscle, butt cheeks or shoulder.
 - Rides a motorcycle. Girlfriends Susie and Betty, one of them a zombie. Says **not all zombies are violent; some just want to be loved.**
@@ -144,7 +144,7 @@ Opens with "He's naked! He's naked!" (unclear what this refers to) and "welcome 
 - Keeps the **chinchilla** in his jacket pocket. **Won the 1998 Chevy Impala.** Concessions sell **Teddy Oso shotguns**.
 - In Dried Blood he says he lost last time "to an old lady" and reads The Secret.
 
-**Ragu** (guest, speaker 02; blurb spelling Ragu, transcript "Ragu").
+**[[Characters/Ragu|Ragu]]** (guest, speaker 02; blurb spelling Ragu, transcript "Ragu").
 - **Ultra silver** luscious hair (not blonde) that smells of herbal essence. A "prettier stash," a manscaped face and colorful boots.
 - **"Gravity power"** pulls him back when he floats away.
 - **Nunchucks** with spikes, recall, an exploding spike that scatters nails, and the two chucks combine into one for range. "Melodic voice" annoying-sound attack.
@@ -153,31 +153,31 @@ Opens with "He's naked! He's naked!" (unclear what this refers to) and "welcome 
 - **Died to a roundhouse kick and froze in orbit.** His wife is **Prego** ("Tell my wife, Prego, I tried").
 - Called "Mr. Pizza Sauce" and "Mr. Marinara" by Teddy.
 
-**The Lord of Fate** (Drew; Vythorn in the Season of Fate).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew; Vythorn in the Season of Fate).
 - Wears **"Italian leather" shoes** (Thea says cacti leather).
 - Fired Thea for sleeping in his throne, then put her on probation. Kept her on "for logistics" after the match and returned her clipboard.
 - Wants firmer hygiene in the Dread Fortress. Has **white wings**. Announced the first Royal Rumble.
 
-**Thea** (Bec). The Lord of Fate's assistant.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Lord of Fate's assistant.
 - **Slept and drooled in his throne** ("I put a towel down first"). Says she can't read minds.
 - Booked both fighters as returning favorites. Keeps a clipboard, but wrote notes on her hand while he had it.
 - The **resident chinchilla hair expert**. Fainted at Teddy's pose. Kept her job.
 
-**The shadowy figure of the Box of Chaos**. A small creepy black hand inside a flaming chest. Took the wallet and admired the photo of Teddy's wife. Has a slushie machine, apparently.
+**[[Characters/The shadowy figure of the Box of Chaos|The shadowy figure of the Box of Chaos]]**. A small creepy black hand inside a flaming chest. Took the wallet and admired the photo of Teddy's wife. Has a slushie machine, apparently.
 
-**The chinchillas**. Shivering chaos-event chinchillas ("Chilean"). Teddy's is warm in his pocket; Ragu's froze into an ice cube.
+**[[Lore/Chinchillas|The chinchillas]]**. Shivering chaos-event chinchillas ("Chilean"). Teddy's is warm in his pocket; Ragu's froze into an ice cube.
 
-**Susie and Betty**: Teddy's girlfriends, one a zombie. **Uncle Nipple**: Teddy's uncle. **Prego**: Ragu's wife. **The heckling children** in the stands.
+**[[Characters/Susie and Betty|Susie and Betty]]**: Teddy's girlfriends, one a zombie. **Uncle Nipple**: Teddy's uncle. **Prego**: Ragu's wife. **The heckling children** in the stands.
 
 ### Places
-- **The Dread Fortress**: lava condensation on its walls. The Lord of Fate's throne room; the throne is now his.
-- **The ring arena**: a rocky asteroid on the orange meteorite rings of a roaring, storm-covered purple gas giant amid infinite stars.
-- **The Dread Fortress Void web**: a website holding champion profiles.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: lava condensation on its walls. The Lord of Fate's throne room; the throne is now his.
+- **[[Places/The ring arena|The ring arena]]**: a rocky asteroid on the orange meteorite rings of a roaring, storm-covered purple gas giant amid infinite stars.
+- **[[Places/The Dread Fortress Void web|The Dread Fortress Void web]]**: a website holding champion profiles.
 
 ### Items
-- **The 1998 silver Chevy Impala with Michigan license plates**, with an 8-track. It has a gash down one door and a stuck spike, and nails scattered from the exploded spike. Won by Teddy, but unregistered, with taxes due.
-- **The Shield of the Golden King** (Box of Chaos): golden, +1 mettle, shattered on a nat 1.
-- **The blue slushie** ($14.97, clears fatigue).
+- **[[Items/The 1998 silver Chevy Impala with Michigan license plates|The 1998 silver Chevy Impala with Michigan license plates]]**, with an 8-track. It has a gash down one door and a stuck spike, and nails scattered from the exploded spike. Won by Teddy, but unregistered, with taxes due.
+- **[[Items/Shield of the Golden King|The Shield of the Golden King]]** (Box of Chaos): golden, +1 mettle, shattered on a nat 1.
+- **[[Items/The blue slushie|The blue slushie]]** ($14.97, clears fatigue).
 - Ragu's **wallet** (fruit snack, gift card, Tropical Smoothie, the photo).
 - Teddy's vial of **zombie blood**. Thea's **clipboard** and rope. Concession **Teddy Oso shotguns** and blue slushies. The metal chair.
 

@@ -84,7 +84,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BdTeej)
+**[[Characters/Flynry|Flynry]]** (BdTeej)
 - Trapped in the Sands of Eternity for what feels like years to him; months for his friends.
 - **Appearance has changed**: different hair color and stature, grayer, no longer has his very large beard, changed voice. He wears a rich black cloak and armor "of the sand."
 - In the sword he still sees his old self: velvet cloak, slightly beastish visage, long brunette hair and beard.
@@ -95,19 +95,19 @@ tags: [episode, into-the-mirror]
 - Bought a wooden spoon for Frank the chef before leaving home base.
 - Fights with new acrobatic grace.
 
-**Locket** (Miss_Magitek)
+**[[Characters/Locket|Locket]]** (Miss_Magitek)
 - Tabaxi Gloom Stalker ranger with short swords and Hunter's Mark.
 - Says the Grandmaster wrote to them about a way to save Flynry. Also says "I'm still under her prisonment" (unclear).
 - Resisted the mirrors in the room of mirrors.
 - **Killed by an arrow through the throat from figures on a dune; her body turned to sand.**
 
-**Toddleheim** (Ahnubyss)
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss)
 - Spellcaster: fire bolt, magic missile, arcane meditation.
 - Studied in libraries "decades ago… when you were a young man," so he is old. Remembers a book of legends about the Sands of Eternity.
 - Calls Flynry "my boy" and "brother."
 - Thinks the Arbiter isn't strong enough to have built this place.
 
-**Elianna** (ParallaxStella)
+**[[Characters/Elianna|Elianna]]** (ParallaxStella)
 - **The Grandmaster's personal assistant.** Never in battle before; learned "one or two things" from the Grandmaster.
 - Clumsy: learned healing because she is "constantly tripping."
 - **Promised the Grandmaster she would come back safely.**
@@ -115,36 +115,36 @@ tags: [episode, into-the-mirror]
 - Keeps a notebook and sketches Flynry for the Grandmaster.
 - First kill this episode. Saw the ziggurat in Truth.
 
-**The Arbiter** (mentioned only)
+**[[Characters/The Arbiter|The Arbiter]]** (mentioned only)
 - Sent the party here by "essentially disintegrating" them "in the most painful fashion."
 - Said "some have returned."
 
-**The Grandmaster** (mentioned only)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (mentioned only)
 - Wrote to Locket and Toddleheim that there might be a way to get Flynry back.
 - Sent Elianna with them, telling her she must come back safely.
 
-**Frank** (mentioned): the disgruntled chef at home base who cooked with bones and sticks.
+**[[Characters/Frank|Frank]]** (mentioned): the disgruntled chef at home base who cooked with bones and sticks.
 
-**Shadow-cloaked figures**: on a dune, one perhaps chasing another. One of them shot Locket.
+**[[Characters/Shadow-cloaked figures|Shadow-cloaked figures]]**: on a dune, one perhaps chasing another. One of them shot Locket.
 
-**Sand scorpions / the giant scorpion**
+**[[Characters/Sand scorpions|Sand scorpions / the giant scorpion]]**
 - Made of sand. Hacked-off parts re-form, except where fire glasses them; fire deals double damage.
 - They retreat by becoming sand, then merge into a giant scorpion that does double everything.
 
 ### Places
-- **The Sands of Eternity**: a realm of the dead apart from other underworlds. Only souls attached to or consumed by it come here.
+- **[[Places/The Sands of Eternity|The Sands of Eternity]]**: a realm of the dead apart from other underworlds. Only souls attached to or consumed by it come here.
   - Cold blue sand like glass shards, a howling wind, a celestial "void" sky.
   - No sun or star movement; bodies stay in stasis.
   - The dragon bones where the party stands.
   - "Your experience here is what your mind makes it."
-- **The ziggurat**: seen only in Truth. Topped by a glass or mirror gem casting a beacon into the sky.
-- **The room with the mirrors**: where the party looked into the mirrors and resisted (recalled).
-- **Home base**: where Frank cooks.
+- **[[Places/The ziggurat|The ziggurat]]**: seen only in Truth. Topped by a glass or mirror gem casting a beacon into the sky.
+- **[[Places/The room with the mirrors|The room with the mirrors]]**: where the party looked into the mirrors and resisted (recalled).
+- **[[Places/Home base|Home base]]**: where Frank cooks.
 
 ### Items
-- **Truth**: Flynry's mirror-greatsword with the inscription "Truth." It shows the truth when asked (seemingly once per person, inferred from 1:12:02–1:12:43) and absorbs sand like a puddle.
-- **The wooden spoon**, pulled from the sand.
-- **Elianna's notebook and map** of the path to the ziggurat.
+- **[[Items/Truth|Truth]]**: Flynry's mirror-greatsword with the inscription "Truth." It shows the truth when asked (seemingly once per person, inferred from 1:12:02–1:12:43) and absorbs sand like a puddle.
+- **[[Items/The wooden spoon|The wooden spoon]]**, pulled from the sand.
+- **[[Items/Elianna's notebook and map|Elianna's notebook and map]]** of the path to the ziggurat.
 
 ### Lore statements
 - The living cannot be here: the party are all dead, disintegrated by the Arbiter.

@@ -222,7 +222,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Captain Fable** (sensei_suplex).
+**[[Characters/Captain Fable|Captain Fable]]** (sensei_suplex).
 - **An eight-foot minotaur in pirate attire** with a deathly necromantic aura.
 - **A fallen paladin**: Oathbreaker, with Battle Master manoeuvres. A fortune teller and storyteller ("let me tell you a fable").
 - **Gear:**
@@ -245,7 +245,7 @@ tags: [episode, season-3]
 - Says "they" told him to kill one person and he could do what he wanted.
 - **Winner.**
 
-**Verryn Ruth** (Ascension_Matt).
+**[[Characters/Verryn Ruth|Verryn Ruth]]** (Ascension_Matt).
 - **A tiefling hexblade warlock** with hooves and **bat-like wings that fold into his back**. Calls himself "a humble, forlorn soul," "blessed by the shadow," "thirsty for glory."
 - Draws power "**from the abyss, from chaos itself**"; his patrons give him power, but they're "quite poor" at controlling him.
 - **Gear and powers:**
@@ -257,11 +257,11 @@ tags: [episode, season-3]
 - "**This isn't my first life.**" Expects to return by chaos.
 - Decapitated by Fable. **Later seen leaving the locker room carrying his head** (Dried Blood).
 
-**Taft's skeleton** ("bathtub boy"). One of the arena's dead presidents, with **bathtub-shaped, mammoth hip bones**.
+**[[Characters/Taft's skeleton|Taft's skeleton]]** ("bathtub boy"). One of the arena's dead presidents, with **bathtub-shaped, mammoth hip bones**.
 - Pressed into Fable's crew with a pirate hat. Fired a short bow, then a short sword.
 - Lost a hand when Fable regrew. **Destroyed by the bats**; Fable eulogized him.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Now a chained prisoner in the Grandmaster's Dread Fortress.**
 - Says he is **"four, four and a half thousand years old,"** yet "**timeless and has no birthday**."
 - **Powers:** claps portals open with visible sound waves; giant glowing white wings; rewinds time (the plush d20 gag); summons bats.
@@ -270,40 +270,40 @@ tags: [episode, season-3]
 - Flirts with the "mom who's into my chains."
 - Does the body cleanup.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Shopping for **five thrones**; picks a **Doja Cat bust throne** to be sculpted, and uses it temporarily in the arena.
 - Plans an Acolyte vote on the throne. Keeps the Arbiter in chains as "ankle weights."
 - Protects Doug. Has a closet and a whole basement of plush d20s.
 - Blessed Verryn's save. Gave Fable a ship.
 
-**Doug** (the GM's dog). Breed not stated; pug-fart and Frenchie jokes.
+**[[Characters/Doug the Pug|Doug]]** (the GM's dog). Breed not stated; pug-fart and Frenchie jokes.
 - Sits at the GM's feet. Took Fable's bone and didn't return it.
 - **A bone-fuelled fart rocket-launched him back to the throne**, and he farted at the Arbiter for insulting him.
 - Owns a plush d20 squeaky toy and gave the Arbiter one.
 
-**Gerald** (Box of Chaos).
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Box of Chaos).
 - Yellow eyes, shadowy hands. Can become a legless shadowy snake.
 - Doesn't "get TV." Got stuff "from a guy named Martin" ("I know a lot of Martins"). Had the blunderbuss appraised as a collectible.
 - **Now wears two nipple rings: Verryn's bejeweled one and a pink glitter tassel.**
 
 **Others:**
-- **The goblins:** throne-movers and droolers. Earlier botched a kitchen renovation.
+- **[[Characters/Goblins|The goblins:]]** throne-movers and droolers. Earlier botched a kitchen renovation.
 - **The mean children** in the north stands.
 - **The mom** who's into the Arbiter's chains, and her girlfriends.
-- **The shadowspawn**: Fable-shaped despair spirit, also mini.
+- **[[Characters/The shadowspawn|The shadowspawn]]**: Fable-shaped despair spirit, also mini.
 - **Dead presidents in the graveyard:** George Washington (wooden teeth), Andrew Jackson, "Abraham Lincoln, the vampire hunter," Taft.
 
 ### Places
-- **The Dread Fortress**: its hallways, the **throne room** behind giant wooden doors, and a **closet behind the throne** and a **basement** full of plush d20s. A kitchen was renovated by goblins.
-- **The swamp cathedral graveyard** (arena): overgrown cathedral ruins, a green fog, fragile tombstones, unstable 10-ft walls, and buried bodies including dead presidents.
-- **The floating grandstands**, which are **"4D"** with air jets and water spritzers. Acolytes wear 3D-style glasses to see through magical darkness.
-- **Fable's new ship in the sky.**
-- **The locker room** (Dried Blood).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its hallways, the **throne room** behind giant wooden doors, and a **closet behind the throne** and a **basement** full of plush d20s. A kitchen was renovated by goblins.
+- **[[Places/The swamp cathedral graveyard|The swamp cathedral graveyard]]** (arena): overgrown cathedral ruins, a green fog, fragile tombstones, unstable 10-ft walls, and buried bodies including dead presidents.
+- **[[Places/The floating grandstands|The floating grandstands]]**, which are **"4D"** with air jets and water spritzers. Acolytes wear 3D-style glasses to see through magical darkness.
+- **[[Places/Fable's new ship in the sky|Fable's new ship in the sky.]]**
+- **[[Places/The locker room|The locker room]]** (Dried Blood).
 
 ### Items
 - The five thrones: swords; purple velvet with diamond sun; three others. Plus the Doja Cat bust throne (to be sculpted).
 - The Arbiter's chains.
-- **The Far Realm Shard** (Fable). **The Sentinel Shield / codpiece** (Verryn).
+- **[[Items/The Far Realm Shard|The Far Realm Shard]]** (Fable). **The Sentinel Shield / codpiece** (Verryn).
 - Fable's blunderbuss (now in the Box of Chaos). Verryn's nipple ring (worn by Gerald).
 - Plush d20 squeaky toys.
 - Six chaos mushrooms (one shrinks you).

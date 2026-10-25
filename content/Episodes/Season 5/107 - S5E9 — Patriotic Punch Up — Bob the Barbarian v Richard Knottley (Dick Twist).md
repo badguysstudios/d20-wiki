@@ -204,7 +204,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Bob the Barbarian** (bigpoppadrockrsl). A **Florida man from the Everglades**, rumored to carry meth.
+**[[Characters/Bob the Barbarian|Bob the Barbarian]]** (bigpoppadrockrsl). A **Florida man from the Everglades**, rumored to carry meth.
 - **Look and kit:**
   - A rotund beer belly and a mustache.
   - **Multiple layers of jorts**: at least three, light-wash with ripped hems, worn "high and tight."
@@ -212,7 +212,7 @@ tags: [episode, season-5]
   - Gators "One, two, and Hannah Montana." Gator One and Hannah Montana form the Denim Gator.
   - A Harley-Davidson named **Cletus**.
   - A pink fan boat in the Everglades.
-- **Robbie:**
+- **[[Characters/Robbie|Robbie:]]**
   - Bob calls himself Robbie's **"new dad"**, and Richard calls Robbie his "adopted surrogate son."
   - Robbie made him the **"Jort Daddy" friendship bracelet**, which Bob sacrificed to the Box.
   - Bob says he freed Robbie from the Hunger before this episode.
@@ -224,7 +224,7 @@ tags: [episode, season-5]
 - **Likes:** swamps, sun, Publix chicken tenders, Miller Lite, keto.
 - **This episode:** won his second Deathmatch and swore to save Robbie from the Hunger.
 
-**Richard Knottley / "Dick Twist"** (Prototopics). An old man, "87" by his own claim and "98" by Thea's.
+**[[Characters/Richard Knottley|Richard Knottley / "Dick Twist"]]** (Prototopics). An old man, "87" by his own claim and "98" by Thea's.
 - **Back from death:** he died last time of a heart attack on his Peloton after 45 cheeseburgers, "about three weeks ago."
 - **Look:** a removable, lopsided "real" mustache (Hercule Poirot style), an aluminum foil hat and sunglasses.
 - **Running for president** on the "Peloton party":
@@ -236,16 +236,16 @@ tags: [episode, season-5]
   - The Dick Twist special ability: a tuxedo-pants dance-off (crop circle clarification, chinchilla cha-cha, Bigfoot Boogie).
 - **Frogs:** a frog trapped in his orifice, "a gift from God King Bofidis / King Bulfus" (spelling uncertain). He hates King Bulfus and is "still traumatized from the frogs."
 - **Other details:** colorblind for 42 years, tried keto. **Has children** (his own claim, in his death monologue).
-- **Robbie:** had Robbie imprisoned with a remnant of the Hunger, which ate Robbie on his death. He blames "guys who work for other guys who work for some black suits."
+- **[[Characters/Robbie|Robbie:]]** had Robbie imprisoned with a remnant of the Hunger, which ate Robbie on his death. He blames "guys who work for other guys who work for some black suits."
 - **This episode:** killed by Bob. His ghost was netted by Thea and is being sewn back into his body by mages.
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - **Look:** Italian leather shoes and white wings. Portraits of himself line the Dread Fortress halls.
-- **Thea:** says he **created Thea**, who has been sentient for about two months.
+- **[[Characters/Thea (Plintos)|Thea:]]** says he **created Thea**, who has been sentient for about two months.
 - **Powers seen:** reality tears, snapping tricycles and jorts into being, removing Thea's star, and multicolored chaos-storm lightning. He fried the Peloton.
 - **Politics:** would never vote for Dick Twist but thinks he could win.
 
-**Thea** (Bec). The high-pitched host who summons the champions through pink portals.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The high-pitched host who summons the champions through pink portals.
 - **Claims:** says she visited Marco Polo through a magic portal.
 - **Fight-night behavior:**
   - Rides an adorable tricycle; won one heat of the race and threw the trike at Bob.
@@ -254,39 +254,39 @@ tags: [episode, season-5]
 - **Food and politics:** loves Gushers, donuts, goldfish crackers, fruit roll-ups and hot dogs. Can't vote ("not people").
 - **The ghost:** netted Richard's ghost because "we'll need you for later."
 
-**Robbie**. Bob's "sweet Florida boy." He was held in a padded room and **eaten by "the Hunger"** on a live feed when Richard died.
+**[[Characters/Robbie|Robbie]]**. Bob's "sweet Florida boy." He was held in a padded room and **eaten by "the Hunger"** on a live feed when Richard died.
 
-**The Hunger**. Richard's people "picked up a remnant of the hunger after the end of [Bob's] last battle."
+**[[Characters/The Hunger|The Hunger]]**. Richard's people "picked up a remnant of the hunger after the end of [Bob's] last battle."
 
-**The shadowy figure in the Box of Chaos** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
 - **Bracelets:** collects them (WWJD, Livestrong, now Jort Daddy).
-- **Richard:** didn't remember him at first ("You're the guy with the frogs in your ass"). Wears his mustache like a merkin.
+- **[[Characters/Richard|Richard:]]** didn't remember him at first ("You're the guy with the frogs in your ass"). Wears his mustache like a merkin.
 
-**Dolly, the haunted porcelain doll**. A chaos event from the Box. She drains the color from the arena and steals three fighting spirit through eye contact.
+**[[Characters/Dolly|Dolly, the haunted porcelain doll]]**. A chaos event from the Box. She drains the color from the arena and steals three fighting spirit through eye contact.
 
-**The giant chinchilla**. A spectral vision Richard sees behind Bob as he dies.
+**[[Characters/The giant chinchilla|The giant chinchilla]]**. A spectral vision Richard sees behind Bob as he dies.
 
-**God King Bofidis / King Bulfus**. The source of Richard's frogs (see Spelling).
+**[[Characters/God King Bofidis|God King Bofidis / King Bulfus]]**. The source of Richard's frogs (see Spelling).
 
-**Marco Polo**. Thea claims she spoke to him.
+**[[Characters/Marco Polo|Marco Polo]]**. Thea claims she spoke to him.
 
-**Acolytes in the front row**: "Family IT dude, Gator, Judy, Lady, Magdala, Scribd" (probably viewer names; spelling uncertain). Also an unnamed "Thea's people" sign-holder, dragged off by black-cloaked figures.
+**[[Characters/Acolytes in the front row|Acolytes in the front row]]**: "Family IT dude, Gator, Judy, Lady, Magdala, Scribd" (probably viewer names; spelling uncertain). Also an unnamed "Thea's people" sign-holder, dragged off by black-cloaked figures.
 
 ### Places
-- **The Dread Fortress halls**: underground below the lava fields, air-conditioned, lined with Lord of Fate portraits. A small cupboard room with cabinets and blankets.
-- **The front porch of the Dread Fortress**: the giant skull with blazing eyes, the lava field and the stands.
-- **The graveyard beside the Dread Fortress**: tombstones within walking distance of the front yard.
+- **[[Places/The Dread Fortress halls|The Dread Fortress halls]]**: underground below the lava fields, air-conditioned, lined with Lord of Fate portraits. A small cupboard room with cabinets and blankets.
+- **[[Places/The front porch of the Dread Fortress|The front porch of the Dread Fortress]]**: the giant skull with blazing eyes, the lava field and the stands.
+- **[[Places/The graveyard beside the Dread Fortress|The graveyard beside the Dread Fortress]]**: tombstones within walking distance of the front yard.
 - The Florida Everglades (Bob's home).
 
 ### Items
-- **Richard's Peloton** (destroyed by chaos lightning).
+- **[[Items/Richard's Peloton|Richard's Peloton]]** (destroyed by chaos lightning).
 - Thea's tricycle and the conjured tricycles.
 - The walker with tennis balls.
 - Cletus the Harley.
 - The **Jort Daddy bracelet** (now on the Box figure's wrist).
-- **Richard's mustache** (now in the Box, worn as a merkin).
-- **The blue pill** (returned).
-- **The rusty child's spoon with tetanus** (Richard's, extra status slot).
+- **[[Items/Richard's mustache|Richard's mustache]]** (now in the Box, worn as a merkin).
+- **[[Items/The blue pill|The blue pill]]** (returned).
+- **[[Items/The rusty child's spoon with tetanus|The rusty child's spoon with tetanus]]** (Richard's, extra status slot).
 - Richard's iPhone SE, which showed the live feed.
 - Thea's microphone and ghost net.
 - Publix chicken tenders.

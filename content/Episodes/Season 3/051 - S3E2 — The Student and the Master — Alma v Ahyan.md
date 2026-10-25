@@ -141,57 +141,57 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Alma** (Erica). Earth genasi "student of wild magic sorcery," Ahyan's former student. Pronouns mix they and she at the table.
+**[[Characters/Alma|Alma]]** (Erica). Earth genasi "student of wild magic sorcery," Ahyan's former student. Pronouns mix they and she at the table.
 - **Look:** gray skin cracked like dried mud, charcoal black hair, gray and white elven armor; hyper, wild-eyed, cocky.
 - **Background:** studied under Ahyan at an academy, which Ahyan later names the Academy of Assassins. Got an **A− in potions class three years ago**; their potions were always too potent. Learned from "the big book of magic"; never learned Vampiric Touch; has a Wall of Light spell they never showed Ahyan.
 - **Spells used:** Fire Bolt, Dimension Door, Gust of Wind, Immolation, Darkness, Counterspell ×2, Sickening Radiance, Insect Plague, Magic Missile, Quickened Spell.
 - **In this episode:** wins the position they were fighting for and vows to be "the greatest sorcerer of all time."
 
-**Ahyan** (spelling uncertain). Minotaur mentor and professor of Alma.
+**[[Characters/Ahyan|Ahyan]]** (spelling uncertain). Minotaur mentor and professor of Alma.
 - **Look:** gold bands and rings pierced through the horns; long, wavy, ever-flowing blue hair; bandaged forearms.
 - **Background:** graduated from the academy and received a ceremonial dagger, which they sacrificed to the Box. Recruits for the **Academy of Assassins** ("we have benefits"). Never liked snow (per Alma).
 - **Powers:** time magic (**Restore Balance**, turning back time within their own body). Spells used: Mage Armor, Hold Person, Lightning Lure, Vampiric Touch ×2 (Distant Spell), Counterspell, Summon Undead, Misty Step ×2, Thunderclap.
 - **Gear:** wears Gerald's **armor of resistance** (force resistance, +1 AC, a blue-lightning sleeveless chest piece). Their weapons went to the sky magnet; they ended the fight holding the tiny metal chair.
 - **In this episode:** first champion (per Gerald) ever to thank him. Gave Alma permission and died to the Magic Missile saying "I'm proud of you." Raised from the dead afterward (Dried Blood).
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Punished:** wears chains, must knock, and sits on a wooden crate with a deflated D20 cushion. He "tried to overthrow the Dread Fortress… like two months ago."
 - **Duties:** in charge of the budget; does the Grandmaster's taxes by coloring in the boxes.
 - **In the arena:** chair-dived Ahyan for 1, then hit him with the tiny chair for 4. Summoned the blizzard with his breath. Flashed a wolf face barking at Doug. A fan of the underdog who respects time magic.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Home life:** hosts a pre-show party. Doesn't know what a budget is; wants cotton candy renamed "cloud candy."
 - **The temples:** the Acolytes have built many temples to her; this one is to be rebuilt.
 - **Age:** "Not a day over 3000," according to the Arbiter.
 - **In the arena:** dove with a metal chair on Alma. Refused Ahyan's plea for mercy. Wore a parka in the blizzard.
 
-**Gerald** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
 - Took the ceremonial dagger and gave the armor of resistance; also gave a healing potion as "my business card."
 - Email: "Gerald1972 at yahoo.com."
 - Struck a Marilyn Monroe pose; plans to take the assassin academy job.
 
-**Doug the Pug** (Bec). Rolls a plush D20 for the Arbiter (13, then 10), does a booty shake, and is not intimidated by the Arbiter's bark. His throne is a mini Grandmaster throne set higher than the Arbiter's.
+**[[Characters/Doug the Pug|Doug the Pug]]** (Bec). Rolls a plush D20 for the Arbiter (13, then 10), does a booty shake, and is not intimidated by the Arbiter's bark. His throne is a mini Grandmaster throne set higher than the Arbiter's.
 
-**Thomas and Jerry** (goblins). Jerry is a vegetarian (carrots and celery); his mother had bunions. Jerry requested the sky magnet.
+**[[Characters/Thomas and Jerry|Thomas and Jerry]]** (goblins). Jerry is a vegetarian (carrots and celery); his mother had bunions. Jerry requested the sky magnet.
 
-**The 203 goblins** of the staff, each with a pet chinchilla.
+**[[Characters/The 203 goblins|The 203 goblins]]** of the staff, each with a pet chinchilla.
 
-**The summoned spirit**: "an old champion" from the ground beneath the temple, counterspelled back down.
+**[[Characters/The summoned spirit|The summoned spirit]]**: "an old champion" from the ground beneath the temple, counterspelled back down.
 
-**The paparazzi Acolytes**: includes the man with the Grandmaster's face tattooed on his stomach.
+**[[Characters/The paparazzi Acolytes|The paparazzi Acolytes]]**: includes the man with the Grandmaster's face tattooed on his stomach.
 
 ### Places
-- **The Dread Fortress halls and the Grandmaster's throne room.**
-- **The Grandmaster's temple**: one of many built by the Acolytes. It is a stone temple with holes in the roof and torches inside, an east courtyard with two Grandmaster statues, and a sky pillar with a 75+ ft drop. It's due for renovation, and now has a chair hole in the ceiling.
-- **The Academy of Assassins**: Ahyan's and Alma's academy, with graduation ceremonial daggers, potions class, employee "benefits," and a "position" or promotion at stake (inferred from 0:06:42, 0:11:49, 0:24:29, 0:39:32, 1:34:28).
+- **[[Places/The Dread Fortress halls and the Grandmaster's throne room|The Dread Fortress halls and the Grandmaster's throne room.]]**
+- **[[Places/The Grandmaster's temple|The Grandmaster's temple]]**: one of many built by the Acolytes. It is a stone temple with holes in the roof and torches inside, an east courtyard with two Grandmaster statues, and a sky pillar with a 75+ ft drop. It's due for renovation, and now has a chair hole in the ceiling.
+- **[[Places/The Academy of Assassins|The Academy of Assassins]]**: Ahyan's and Alma's academy, with graduation ceremonial daggers, potions class, employee "benefits," and a "position" or promotion at stake (inferred from 0:06:42, 0:11:49, 0:24:29, 0:39:32, 1:34:28).
 
 ### Items
 - The **sky magnet**: silver, tree-ring disc on a chain, installed last fall. It holds Ahyan's dagger, knife, hammer, manacles and steel mirror.
 - Ahyan's **ceremonial dagger**, sacrificed to the Box.
-- **Armor of resistance** (from Gerald).
-- **Gerald's healing potion** with his email on it.
-- **Two large metal chairs** and **one tiny dollhouse metal chair** (now Ahyan's).
-- **Doug's plush D20.**
+- **[[Items/Armor of resistance|Armor of resistance]]** (from Gerald).
+- **[[Items/Gerald's healing potion|Gerald's healing potion]]** with his email on it.
+- **[[Items/Two large metal chairs|Two large metal chairs]]** and **one tiny dollhouse metal chair** (now Ahyan's).
+- **[[Items/Doug's plush D20|Doug's plush D20.]]**
 - The **Arbiter's chains** and D20 stadium cushion.
 - The **Grandmaster's parka.**
 

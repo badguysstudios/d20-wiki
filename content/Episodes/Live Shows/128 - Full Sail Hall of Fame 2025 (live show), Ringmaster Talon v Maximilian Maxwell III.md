@@ -93,7 +93,7 @@ tags: [episode, live-shows]
 
 ## Who and what appears
 ### Characters
-**Ringmaster Talon** (guest, player name not stated). Introduced once as "Ringmaster Talos."
+**[[Characters/Ringmaster Talon|Ringmaster Talon]]** (guest, player name not stated). Introduced once as "Ringmaster Talos."
 - Very tall, layered in black clothing, masked, and soaked in blood. Hasn't washed his clothes in 12 years.
 - Under the mask: a "hideous" face and grey eyes. His mother loves visiting him; possibly blind.
 - **Runs a circus for Lichter the Lich**, who taught him to raise the dead and blood magic. The mask is part of "the work uniform."
@@ -101,7 +101,7 @@ tags: [episode, live-shows]
 - Walks with a cane after Max's knee attacks. Claims he graduated from Full Sail University.
 - Died at five fatigue, was revived by the Grandmaster for Max's money, then killed by soup cans.
 
-**Maximilian Maxwell III** (guest, player name not stated).
+**[[Characters/Maximilian Maxwell III|Maximilian Maxwell III]]** (guest, player name not stated).
 - A rich New Yorker who "hangs out on the main streets of New York City." Fan of the Radio City Rockettes.
 - Wears a white Louis Vuitton belt and white gloves. His $23 scotch-guarded suit came from Macy's at the Millennium Mall.
 - Named after his "great daddy"; his father left. His mother wires him money and is making SpaghettiOs tonight.
@@ -109,17 +109,17 @@ tags: [episode, live-shows]
 - Paid the Grandmaster to revive Talon, then gave up half his life to him via the Arbiter. Won the fight.
 - Friend of Jesse.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Loves bath bombs scented with roses and blood.
 - Says "That's my grandma, though" about a lich (joke). Mentions "my nephew."
 - Revives Talon by stopping, then restarting, his heart with his own scythe. **Sped up time around Max ("Eye of Makamoto is mine")** to trigger a bleed.
 - Says the Dread Fortress's unicorns murder people. Cut the Void Bucks by hand until 2 a.m.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - "Official arbiter of the deathmatches." Complains of a hostile workspace and needing sponsors. Mentions that his dad used to curse at him (joke).
 - **Can form black goo that transfers life force between champions.** Prints Void Bucks. Takes bribes for advantage from both sides.
 
-**Acolytes on stage:**
+**[[Characters/Acolytes on stage|Acolytes on stage:]]**
 - **Caitlyn**: swung as a weapon, rolled the thumb-bite attack.
 - **Christian**: defended against the blood spit, rolled the soup cans.
 - **Jayden ("Jay")**: paid human target, "the man made of stone."
@@ -127,25 +127,25 @@ tags: [episode, live-shows]
 - **"Mr. Totski", "Spiderman"** and a third volunteer: drained of blood by Talon.
 - **Josh**: Max's unicorn.
 - **Jared**: Talon's unicorn, refused Max's bribe twice.
-- **Sarah (?)**: a ring tosser.
+- **[[Characters/Sarah|Sarah (?)]]**: a ring tosser.
 - **Jesse**: title belt, witch power, threw the food truck.
 - **Matthew**: rolled back-to-back dirty 20s.
 - **Alex**: defended for Max and rolled a 3.
 
-**The unnamed "coolest" guest on stage**: silent, not killed "today."
+**[[Characters/The unnamed coolest guest on stage|The unnamed "coolest" guest on stage]]**: silent, not killed "today."
 
-**The sign girl**: round-card girl ("She'll kick you in the face").
+**[[Characters/The sign girl|The sign girl]]**: round-card girl ("She'll kick you in the face").
 
 ### Places
 - The live stage / Grandmaster's Arena at Full Sail ("Hall of Fame"). Real-world references: building three, University Boulevard, food trucks.
-- **The Dread Fortress**, home of murderous unicorns.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, home of murderous unicorns.
 - Lichter the Lich's circus.
 
 ### Items
 - Talon's scythe.
 - Max's book of knowledge, Louis Vuitton belt and $23 suit.
 - Max dollars ("500 max dollars").
-- **Void Bucks**: the Void's printed currency. 50,000 were in 12 eggs.
+- **[[Items/Void Bucks|Void Bucks]]**: the Void's printed currency. 50,000 were in 12 eggs.
 - The unicorn horn and the clearance infinity-hoop rings.
 - The pink die. The soup cans (SpaghettiOs / chicken noodle).
 

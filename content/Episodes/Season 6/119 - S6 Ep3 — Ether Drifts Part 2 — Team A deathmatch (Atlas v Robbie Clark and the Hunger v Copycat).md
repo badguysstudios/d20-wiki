@@ -130,7 +130,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Robbie Clark and the Hunger** (guest, "Cinder" inferred). Appears as a small boy in a baseball cap with a backpack. **The backpack is the Hunger: a fleshy nest of fangs, jaws and tendrils "of the abyss and the shadow."** Robbie "is not a human child."
+**[[Characters/Robbie Clark and the Hunger|Robbie Clark and the Hunger]]** (guest, "Cinder" inferred). Appears as a small boy in a baseball cap with a backpack. **The backpack is the Hunger: a fleshy nest of fangs, jaws and tendrils "of the abyss and the shadow."** Robbie "is not a human child."
 - They claim to have been "unified before the first waves crashed against the first beaches." The Hunger "is for friendship and biomass." They eat all biomass equally, puppies included.
 - They keep a sticker book collected "for eons," stuck down with Gorilla glue.
 - Powers: regrows the backpack; turns pieces of itself into creatures ("Fetch"); a unified form where tendrils enter Robbie's eyes and he floats, with "mouths for eyes"; friendship eldritch beams; spores that grow a neural network, feeling and a mouth in a target and make it an ally.
@@ -138,7 +138,7 @@ tags: [episode, season-6]
 - Item gained: **the Arbiter's ring**.
 - **Won; named leader of the Unbreakable Redacted Friends.** He privately calls the Arbiter and Grandmaster "the real bad guys" and vows to take them down.
 
-**Atlas** (guest). A robot/construct with a faceplate, huge electric fists and heavy boots. **No mouth (until this fight) and no butthole: "it is a port."** He wears pants.
+**[[Characters/Atlas|Atlas]]** (guest). A robot/construct with a faceplate, huge electric fists and heavy boots. **No mouth (until this fight) and no butthole: "it is a port."** He wears pants.
 - He arrived "not completely built": just boots, head and tiny arms.
 - He combined with Thea as **"Fatlas"** ("Phatlas," per Copycat).
 - Abilities: Unstoppable Surge, Immovable Force; "yeet protocol"; magnetic energy.
@@ -146,18 +146,18 @@ tags: [episode, season-6]
 - Item gained: the **blue pill**.
 - **Converted by the Hunger's spores: given feeling, a mouth and an exit port.** Allied with Robbie. Revived in his original form.
 
-**Copycat** (guest, "Kat" inferred; "she"). A shapeshifter who wears a paper bag. At the start she was stuck as **Timothy, the mayor (a worm)**, until the Arbiter broke her into atoms and reassembled her.
+**[[Characters/Copycat|Copycat]]** (guest, "Kat" inferred; "she"). A shapeshifter who wears a paper bag. At the start she was stuck as **Timothy, the mayor (a worm)**, until the Arbiter broke her into atoms and reassembled her.
 - Forms this episode: a chef; the Hunger's mother; the Box of Chaos creature; the Arbiter's floating right arm; a black hole.
 - Carrier: "Eldridge T" (in her mom persona).
 - Gave the box the Grandmaster's/Thea's credit card. Got Doug's collar, then the **Shield of the Golden King**.
 - Died by imploding as a black hole; reborn as glittery stardust. Motto: "I will remain no one. But everyone, on my own terms."
 
-**Thea** (Bec). Flying (winged) helper at the Dread Fortress who eats goldfish.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). Flying (winged) helper at the Dread Fortress who eats goldfish.
 - Forgot to send the invitations.
 - Served as Atlas's backpack, then his core ("Fatlas"). Swallowed the blue pill for him and was ejected as an escape pod.
 - Had a card for buying the Grandmaster Taco Bell (per Copycat).
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Fixes Copycat by atomizing her. Doesn't believe in therapy ("hard sciences").
 - Slapped by the Grandmaster.
 - Has a sponsor for his betting; bet on Copycat. Wears handcrafted Italian leather shoes. Ate chili fries.
@@ -166,37 +166,37 @@ tags: [episode, season-6]
 - Summons the Box of Chaos. A ring of his came out of the box.
 - Says Dread Fortress Mobile gives him five bars.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - "Deathmatch is returning." Calls the arena "a supportive environment." Has torn champions apart "hundreds of times."
 - Wants Team A's leader to champion "perhaps my greatest armies… to defend the Void."
 - Bet on Robbie. Protects Doug from the Hunger and gave away Doug's collar.
 - Revived Copycat and Atlas, and commissioned the team.
 
-**The Box of Chaos creature** (Drew). A shadowy figure with claws and yellow eyes. Wants people to knock, naps, and says he "doesn't get paid enough." Cooks traded tentacles as sashimi ("tastes like puppies"). Took the credit card. Says the box has been "working forever now."
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Drew). A shadowy figure with claws and yellow eyes. Wants people to knock, naps, and says he "doesn't get paid enough." Cooks traded tentacles as sashimi ("tastes like puppies"). Took the credit card. Says the box has been "working forever now."
 
-**Doug the pug.** The Grandmaster's pug; he rolls dice. His collar grants pug swiftness.
+**[[Characters/Doug the Pug|Doug the pug.]]** The Grandmaster's pug; he rolls dice. His collar grants pug swiftness.
 
-**Stuart.** Blamed for Foundry/IT problems. Can set people up with Dread Fortress Mobile. Practices magic tricks in the courtyard. Is denied a promotion (Dried Blood).
+**[[Characters/Stuart|Stuart.]]** Blamed for Foundry/IT problems. Can set people up with Dread Fortress Mobile. Practices magic tricks in the courtyard. Is denied a promotion (Dried Blood).
 
-**Dr. Octor.** A specialist who "takes too long."
+**[[Characters/Dr. Octo|Dr. Octor.]]** A specialist who "takes too long."
 
-**Timothy, the mayor.** The worm form Copycat was stuck in.
+**[[Characters/Timothy|Timothy, the mayor.]]** The worm form Copycat was stuck in.
 
 **Acolytes named:** Commodore, Cassander, "Build up" (blasted by Atlas); Family IT Dude, Gator, Lux, Christina (squashed); Scrib (in a blue slushy); Rikon (magnets); Kristen (consumed). All names uncertain.
 
 ### Places
-- **The Dread Fortress** (prep room, concession stands, courtyard).
-- **The Ether Drifts arena**: an asteroid by a gaseous planet ("somewhat inhabited"), with low gravity and a floating grandstand.
-- **The VIP "splash zone"** front-row stands.
+- **[[Places/The Dread Fortress|The Dread Fortress]]** (prep room, concession stands, courtyard).
+- **[[Places/The Ether Drifts arena|The Ether Drifts arena]]**: an asteroid by a gaseous planet ("somewhat inhabited"), with low gravity and a floating grandstand.
+- **[[Places/The VIP splash zone|The VIP "splash zone"]]** front-row stands.
 - "Planet Australia" (Atlas).
 - Robbie's "world," where *Everybody Poops* comes from.
 
 ### Items
-- **Box of Chaos.** Lands like a meteor with a pink and yellow fire column. A second trade costs fatigue.
-- **Blue pill**: raises the fatigue limit.
-- **The Arbiter's ring**: master of time and space for one round; attacks against the wearer have disadvantage. There's only one.
-- **Doug's collar**: advantage on mettle saves.
-- **Shield of the Golden King**: +1 mettle and health; shatters on a natural 1 defense.
+- **[[Lore/The Box of Chaos|Box of Chaos.]]** Lands like a meteor with a pink and yellow fire column. A second trade costs fatigue.
+- **[[Items/The blue pill|Blue pill]]**: raises the fatigue limit.
+- **[[Items/The Arbiter's ring|The Arbiter's ring]]**: master of time and space for one round; attacks against the wearer have disadvantage. There's only one.
+- **[[Items/Doug's collar|Doug's collar]]**: advantage on mettle saves.
+- **[[Items/Shield of the Golden King|Shield of the Golden King]]**: +1 mettle and health; shatters on a natural 1 defense.
 - Other: the Robbie/Hunger sticker book; Candyland gummy dots (banned); *Everybody Poops*; the Michelangelo sticker; the *Mateship* tanker; the Grandmaster's/Thea's credit card.
 - Concessions: blue slushies, hot dogs, plizzies, nachos, Double Sun Cola, Mang Cola.
 

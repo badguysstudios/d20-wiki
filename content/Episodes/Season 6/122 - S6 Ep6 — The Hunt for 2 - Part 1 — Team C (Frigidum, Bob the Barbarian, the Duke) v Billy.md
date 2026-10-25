@@ -236,14 +236,14 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Frigidum** (Kyle). **A refrigerator exposed to radioactive waste**, with slimy green tentacles of gelatinous waste and tiny slit eyes. His ice-cube dispenser is where his eyes are and can cry.
+**[[Characters/Frigidoom|Frigidum]]** (Kyle). **A refrigerator exposed to radioactive waste**, with slimy green tentacles of gelatinous waste and tiny slit eyes. His ice-cube dispenser is where his eyes are and can cry.
 - **Inside him:** rotting food, expired beers and sodas, months-old nacho cheese, and "the mutated mass of Thanksgiving dinner and leftovers that's now become a living creature." He carries a hardening paste.
 - **Body:** a fridge light, an ice maker, a radiator on his back, a gold star on his fridge (now given away), and a "rainbow mustache on my front cover."
 - **Wants** a touchscreen/LCD shell; the Duke gave him a tablet. Says his warranty is expired. Can form five fingers, but can't fire a shotgun.
 - **Moves:** tentacle stilts, a Tabasco slap, a bile fist down the throat, a chicken-wing morning star arm, and a crushed-ice gatling.
 - Fears flame ("my whole body is going to explode"). Feels he may need a smaller shell.
 
-**Bob the Barbarian** (Big Papa Drak / Kendrick). **A bare-chested barbarian from the Florida swamps** with tight jorts "since I was a young boy" and **four testicles** (reason unknown, "it just feels right").
+**[[Characters/Bob the Barbarian|Bob the Barbarian]]** (Big Papa Drak / Kendrick). **A bare-chested barbarian from the Florida swamps** with tight jorts "since I was a young boy" and **four testicles** (reason unknown, "it just feels right").
 - **Drinking:** abstains to protect his physique, but alcohol is his "secret weapon." He won the drinking round with a nat 20.
 - **Code and character:** follows the "Florida man code." Hates those who prey on the weak. **Once dreamed he had a small child he protected.**
 - **Tastes:** drinks Bud Light and Coors Light, plays the lotto "down in Duval," and keeps two Zippos.
@@ -251,57 +251,57 @@ tags: [episode, season-6]
 - **Gators:** the 20-ft gator **Denise** ("your father doesn't need you now"), a small poisonous caiman, and gator fairies in the healing Gator Pool.
 - Calls his companions "brothers."
 
-**The Duke / "the Duke of Dookie"** (Sensei Suplex). **A rat man with a hat and a curled mustache**, also called "Ratman," "the saint of shit," and "flower rat."
+**[[Characters/The Duke|The Duke / "the Duke of Dookie"]]** (Sensei Suplex). **A rat man with a hat and a curled mustache**, also called "Ratman," "the saint of shit," and "flower rat."
 - **His hat holds** a tablet, a second Ratman, a Zippo, an entourage of rat people, a shotgun (from his cloak), a katana, pocket sand, and an RPG (from his head).
 - **He has never drunk alcohol before tonight**, but has drunk "the smelliest of sewer waters."
 - **Wants** a bathroom made of all cheese and to put on a magic show. A tarot-card trick drew the Tower.
 - **Stage fright:** has never performed for more than three people. Self-described "master improviser."
 - **Thea's gold star made him "my first fan."** He will betray the team to become leader: "It's in my nature." Wears a chastity belt (Dried Blood).
 
-**Billy** (voiced by Bec; Drew rolled until 1:43). An "old bloke," **bald** with a "Jack Sparrow" beard thing and long nails grown like a guitarist's, though he can't play.
+**[[Characters/Billy|Billy]]** (voiced by Bec; Drew rolled until 1:43). An "old bloke," **bald** with a "Jack Sparrow" beard thing and long nails grown like a guitarist's, though he can't play.
 - **He visits Emmery's every two weeks, with the full moon of one of the Void's two moons**, always in the back party room. He wears fake animal furs.
 - **A werewolf who transforms under the full moon** into a long-snouted, fanged form with black-gray hair. **He hides from bright light.**
 - **The culprit (inferred)** behind the tavern attacks, the throat-rippings and the fox's lost eye. Basis: the fox's hair matches his werewolf coat (1:08:30), and the attacks follow his two-week visits (0:53:34–0:55:57). In the back room the second shadow slumps beside him amid the smell of blood (1:05:35).
 - Claims his spleen is in his head and his heart has moved. **Killed by Bob**; he pooped his pants on death.
 
-**Thea** (Bec). The Arbiter's subordinate, with tiny bony fingers.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Arbiter's subordinate, with tiny bony fingers.
 - **Threw the kitchen party with goblins and chinchillas that drank the Dread Fortress dry.**
 - Wants five stars on her performance review. Assembled "Team C" via a pink spiral portal.
 - Gets her bath for the week from expired beer. Drinks number two ale from a sippy cup.
 - Licks the gold star, then gives it to the Duke. Threatens to poop in shoes.
 - Puts the team into a Deathmatch to choose a leader. **Believes the Arbiter gives her unlimited budget.**
 
-**The Arbiter** (Drew). A self-described "drink hog" with stress "equal to my station." He wears **Italian leather boots with a bottle opener on the heel**, keeps Thea's performance review, has "our cheese guy," and opened the portal to Emmery's.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). A self-described "drink hog" with stress "equal to my station." He wears **Italian leather boots with a bottle opener on the heel**, keeps Thea's performance review, has "our cheese guy," and opened the portal to Emmery's.
 
-**The Grandmaster** (Bec). Has a not-so-secret stash of alcohol behind barrels in the Dread Fortress kitchen. **Offers champions full employment as "the sword of the Dread Fortress"**: immortality, a home, a sauna, and a pet chinchilla. She wants an after-party.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Has a not-so-secret stash of alcohol behind barrels in the Dread Fortress kitchen. **Offers champions full employment as "the sword of the Dread Fortress"**: immortality, a home, a sauna, and a pet chinchilla. She wants an after-party.
 
-**Emmery** (Drew). Keeper of **Emmery's Tavern**; he endlessly wipes the bar.
+**[[Characters/Emmery|Emmery]]** (Drew). Keeper of **Emmery's Tavern**; he endlessly wipes the bar.
 - **Brews his patented number two ale using sheep dung to dry the grains** ("about mouthfeel").
 - He is the Dread Fortress's favorite distributor and shipped 50 barrels to the Fortress.
 - Offered his reserve in exchange for solving the attacks. Keeps a lost-and-found of Black and Milds.
 
-**The one-eyed fox** (Bec). A small, mangy regular at Emmery's who lost an eye to the attacker. It **now has a grape for an eye**, which Billy later threw at Frigidum.
+**[[Characters/The one-eyed fox|The one-eyed fox]]** (Bec). A small, mangy regular at Emmery's who lost an eye to the attacker. It **now has a grape for an eye**, which Billy later threw at Frigidum.
 - **Has a lucky, non-replaceable mug with a "cat weasel" on it**, and stole it when it fled.
 - Supplied the coarse gray-black hair. Feared the Duke's "magic."
 
-**The dragonborn card players.**
+**[[Characters/The dragonborn card players|The dragonborn card players.]]**
 - **A metallic one** throws chairs, bites a chair leg, and had never been apologized to.
 - **A much bigger one** smokes Black and Milds and "just got out of the mines."
 - **A cloaked third one** tracked the two-week attacks.
-- **Tabitha** is one of the Drew-voiced dragonborn (which one is uncertain).
+- **[[Characters/Tabitha|Tabitha]]** is one of the Drew-voiced dragonborn (which one is uncertain).
 - A half giant also sits at the table. A strawberry-blonde patron is in the room.
 
-**The flying wombats**. A chaos-event flock that hails cubed frozen poop.
+**[[Characters/The flying wombats|The flying wombats]]**. A chaos-event flock that hails cubed frozen poop.
 
-**The Acolytes** watch through the transparent, permeable tavern ceiling, suggest the light trick and take bets.
+**[[Lore/The Acolytes|The Acolytes]]** watch through the transparent, permeable tavern ceiling, suggest the light trick and take bets.
 
 ### Places
-- **The Dread Fortress kitchen**: the Void's kitchen, with barrels and the Grandmaster's stash.
-- **Emmery's Tavern**: a monster skull over the hearth, a large dining room, a bar, a back party room ("seedy," candlelit, no hearth, with windows), and an empty patio. Its town has suffered burglaries and attacks. The town's name is not given; it has mines nearby (inferred from "We just got out of the mines").
-- **Florida / the swamps / Duval**: Bob's home, "birth of the mud." Duval is "the most magical place."
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**: the Void's kitchen, with barrels and the Grandmaster's stash.
+- **[[Places/Emmery's Tavern|Emmery's Tavern]]**: a monster skull over the hearth, a large dining room, a bar, a back party room ("seedy," candlelit, no hearth, with windows), and an empty patio. Its town has suffered burglaries and attacks. The town's name is not given; it has mines nearby (inferred from "We just got out of the mines").
+- **[[Places/Florida|Florida / the swamps / Duval]]**: Bob's home, "birth of the mud." Duval is "the most magical place."
 
 ### Items
-- **Number two ale** (Emmery's, sheep-dung-dried grain, tastes "like gasoline").
+- **[[Items/Number two ale|Number two ale]]** (Emmery's, sheep-dung-dried grain, tastes "like gasoline").
 - The Arbiter's bottle-opener boots. Frigidum's gold star sticker.
 - The fox's cat-weasel mug and the grape eye. The coarse hair, later used as the Duke's mustache extension.
 - Zippos ×2, a pack of Black and Milds, a lottery ticket, and the Duke's tablet.

@@ -145,7 +145,7 @@ The Arbiter hosts "Cucumber and Chunk of Perception Studio."
 
 ## Who and what appears
 ### Characters
-**Basil Herringbone** (Cucumber, Perception Studio). A rabbit-man ("rabbit boy man," "bunny man"), Medium size until enlarged. He says he's in a "transitional period," and "yes" to puberty.
+**[[Characters/Basil Herringbone|Basil Herringbone]]** (Cucumber, Perception Studio). A rabbit-man ("rabbit boy man," "bunny man"), Medium size until enlarged. He says he's in a "transitional period," and "yes" to puberty.
 - **Lost his left leg below the knee to the Box of Chaos.** He sawed it off himself with Gerald's saw and now has **Dawnbringer**, a sun-blade longsword reshaped by Gerald into a metal leg that deals radiant damage.
 - **Abilities:** Rabbit Hop, ki (step of the wind, Flurry of Blows), deflect missiles, Feather Fall, Chill Touch, Hellish Rebuke (aimed backwards with his tuning-fork ears), long-range witch bolt, poison spray. Has a pseudodragon "there in spirit" with pom-poms.
 - **Personality and lore:**
@@ -157,7 +157,7 @@ The Arbiter hosts "Cucumber and Chunk of Perception Studio."
 - Carries Befferfoot's birthday card for "Mama," promising to deliver it.
 - Dried Blood: a genie-pact warlock and monk.
 
-**Befferfoot** (Chunk, Perception Studio). A half-orc with broken grammar ("I here to kill").
+**[[Characters/Befferfoot|Befferfoot]]** (Chunk, Perception Studio). A half-orc with broken grammar ("I here to kill").
 - Has sharp nipples.
 - **Gained +2 Intelligence and a bigger forehead from an alien abduction.**
 - **Abilities and gear:** fire bolt, shield ("the coward spell"), misty step, sneak attack, uncanny dodge, evasion, short sword, short bow, crossbow (crossbow expert).
@@ -167,40 +167,40 @@ The Arbiter hosts "Cucumber and Chunk of Perception Studio."
 - Fought to buy Mama a birthday present (jewelry, per Dried Blood).
 - Killed by Basil's nat-20 kick.
 
-**Rolando** (also said "Ronaldo"). A Corgi emotional-support animal who heals with tail wags and panting and says "Le Woof." He fled Befferfoot to sit by the Grandmaster and Doug with treats, then came down and chose Basil, who renamed him "Bethabitch."
+**[[Characters/Rolando|Rolando]]** (also said "Ronaldo"). A Corgi emotional-support animal who heals with tail wags and panting and says "Le Woof." He fled Befferfoot to sit by the Grandmaster and Doug with treats, then came down and chose Basil, who renamed him "Bethabitch."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Lost her crown.** She takes it off to sleep: "I am the symbol of power and authority."
 - Plans to make a crown from the loser's bones.
 - Names the arena "my cave of wonders" (rename pending), and vows never to return to it.
 - Promised to show the winner what's beyond the waterfall; this wasn't shown.
 - Gave each champion a giant pet frog. Owns a frog hand puppet.
 
-**The Arbiter** (Drew). He is **still in chains** and asks to have them removed ("good behavior all season… I can still do magic"); the Grandmaster ignores him. His white wings glow. He collapsed the cave into its deeper chamber with a nat-20 chaos event. Doug tied his roll.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). He is **still in chains** and asks to have them removed ("good behavior all season… I can still do magic"); the Grandmaster ignores him. His white wings glow. He collapsed the cave into its deeper chamber with a nat-20 chaos event. Doug tied his roll.
 
-**Doug the pug**. Sits beside the Grandmaster. Throws his own squeaky d20 and barks cheers.
+**[[Characters/Doug the Pug|Doug the pug]]**. Sits beside the Grandmaster. Throws his own squeaky d20 and barks cheers.
 
-**Gerald** (the Box of Chaos's occupant). Shadowy fingers and two yellow eyes. He handed Basil a saw, gets queasy at blood, and got a faceful of it. He forged Dawnbringer into a leg.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (the Box of Chaos's occupant). Shadowy fingers and two yellow eyes. He handed Basil a saw, gets queasy at blood, and got a faceful of it. He forged Dawnbringer into a leg.
 
-**Henry and Henrietta**. Befferfoot's two Boggart bees, a couple or siblings. Henrietta stung him and died.
+**[[Characters/Henry and Henrietta|Henry and Henrietta]]**. Befferfoot's two Boggart bees, a couple or siblings. Henrietta stung him and died.
 
-**The snake Boggart**. Basil's fear made real: a large green garden snake, chopped apart "like a party favor."
+**[[Characters/The snake Boggart|The snake Boggart]]**. Basil's fear made real: a large green garden snake, chopped apart "like a party favor."
 
-**The giant frog**. Drawn by Basil's tadpole connection, it swallowed him protectively and was killed by Befferfoot's gig through the chin. Also **Geronimo** (Basil's mount) and Befferfoot's unnamed mount.
+**[[Characters/The giant frog|The giant frog]]**. Drawn by Basil's tadpole connection, it swallowed him protectively and was killed by Befferfoot's gig through the chin. Also **Geronimo** (Basil's mount) and Befferfoot's unnamed mount.
 
-**Thomas, Nathaniel**. Named by the Grandmaster as people who might have seen her crown, alongside the goblins. No further detail.
+**[[Characters/Thomas|Thomas, Nathaniel]]**. Named by the Grandmaster as people who might have seen her crown, alongside the goblins. No further detail.
 
-**The goblins of the Dread Fortress**. Scurrying about and searching for the crown.
+**[[Characters/The goblins of the Dread Fortress|The goblins of the Dread Fortress]]**. Scurrying about and searching for the crown.
 
 ### Places
-- **The Dread Fortress halls and the Grandmaster's bedchamber** (pillows, bed).
-- **The cave of wonders**: high echoing walls, stalactites, ankle-to-knee-deep tadpole puddles, rock stands, and one stone archway exit behind a roaring waterfall. A stadium sits above it in place of a ceiling. Its deeper, unexplored chamber was opened by the collapse.
+- **[[Places/The Dread Fortress halls and the Grandmaster's bedchamber|The Dread Fortress halls and the Grandmaster's bedchamber]]** (pillows, bed).
+- **[[Places/The cave of wonders|The cave of wonders]]**: high echoing walls, stalactites, ankle-to-knee-deep tadpole puddles, rock stands, and one stone archway exit behind a roaring waterfall. A stadium sits above it in place of a ceiling. Its deeper, unexplored chamber was opened by the collapse.
 - What lies beyond the waterfall is unknown.
 - Mama's home: the address on the card, unnamed.
 
 ### Items
-- **The Grandmaster's crown** (missing).
-- **Dawnbringer**: a sun blade turned into Basil's metal leg.
+- **[[Items/The Grandmaster's crown|The Grandmaster's crown]]** (missing).
+- **[[Items/Dawnbringer|Dawnbringer]]**: a sun blade turned into Basil's metal leg.
 - Gerald's saw. Basil's left leg, now in the box.
 - Befferfoot's birthday card for Mama.
 - *Drunken Master Weekly*. The Grandmaster's frog hand puppet. Doug's squeaky d20.

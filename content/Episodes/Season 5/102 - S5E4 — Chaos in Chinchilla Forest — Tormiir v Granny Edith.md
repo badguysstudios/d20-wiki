@@ -220,7 +220,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Tormiir** (Cucumber). A minotaur warlock ("I don't talk about it a lot").
+**[[Characters/Tormiir|Tormiir]]** (Cucumber). A minotaur warlock ("I don't talk about it a lot").
 - **Looks:** purple jumpsuit, gold bangles and bands on his horns, neck, arms and ankles. Purple magic spills from all of his (27) orifices.
 - **Powers:** warlock blasts from his snout, eyes, ears and mouth. **Signature move: a purple beam charged between his horns** ("Kamuhamuha wave").
 - **Weapon:** a brass sword, turned into **an onyx blade** by the Box of Chaos (destroyed on a nat 1).
@@ -228,7 +228,7 @@ tags: [episode, season-5]
 - **History:** says he has only ever killed warriors, never an old lady. "On the range my whole life… everywhere and nowhere." Accent drifts, finally Scottish.
 - **Death:** a gluten allergy / celiac disease. Loves morning grass and petrichor. Died beside Granny.
 
-**Granny Edith** (guest). A tiny old lady baker.
+**[[Characters/Granny Edith|Granny Edith]]** (guest). A tiny old lady baker.
 - **Looks and gear:** gray curls, Coke-bottle glasses, a floury apron full of spoons and whisks, **a rolling pin as big as she is**, a giant teacup on her belt, a hip flask, and an electric beater with an arcane battery pack.
 - **Signature move: Granny's Cookies** (throwing the spinning rolling pin; running on top of it).
 - **Family:**
@@ -237,33 +237,33 @@ tags: [episode, season-5]
   - She grew up on her great-grandpappy's farm "up north."
   - **Gerald** is "waiting for" her in death (relationship unstated).
 - **History:** a girl of 17 in "1725." Lived through five major world conflicts.
-- **The Box of Chaos** awoke her yellow-eyed inner monster (doubled nat 20 effects).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]** awoke her yellow-eyed inner monster (doubled nat 20 effects).
 - **Sayings:** "stressed is desserts spelled backwards," "all you need is loaves," "where there's a whisk, there's a way," "life is what you bake it."
 - Favorite food: her great-grandma's bread and butter pudding.
 
-**The Lord of Fate** (Drew). Came into "this seat of power rather abruptly… not everyone's happy about it," and worries about optics.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). Came into "this seat of power rather abruptly… not everyone's happy about it," and worries about optics.
 - Keeps a **report** on Thea; draws stars on her forehead in ink.
 - **Reverses time** to heal Thea. **Splits into two winged duplicates** with metal chairs. Summons the Box of Chaos.
 - Always sits on a folding chair. **Outlawed tuna juice.** Threatened to have Doug roll for Thea.
 
-**Thea** (Bec). The Lord of Fate's imp assistant, "an admin, not a champion."
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Lord of Fate's imp assistant, "an admin, not a champion."
 - Packs picnics, creates the doughnut portal, and dodges like a matador.
 - Ate a whole bag of Doritos, bag included. Told she's "a lord now."
 - Ends the episode with **five ink stars on her forehead.**
 
-**The Box of Chaos's shadowy figure** (Drew). Trades items for offerings: Granny's brownie, Tormiir's spit (inferred). Calls Tormiir "mama's boy."
+**[[Characters/The Box of Chaos's shadowy figure|The Box of Chaos's shadowy figure]]** (Drew). Trades items for offerings: Granny's brownie, Tormiir's spit (inferred). Calls Tormiir "mama's boy."
 
 **Others:**
-- **Doug**: mentioned as a potential roller, not present.
+- **[[Characters/Doug the Pug|Doug]]**: mentioned as a potential roller, not present.
 - **Alan Wigginson**: an Acolyte in the stands who caught Thea's sandwich.
 - **Julia Rose**: the giveaway winner.
-- **Tormiir's mother**: source of the milk; "out for the evening."
+- **[[Characters/Tormiir's mother|Tormiir's mother]]**: source of the milk; "out for the evening."
 - Granny's great-grandma and Nana.
 
 ### Places
-- **The Chinchilla Forest**: the arena, a forest where the local chinchillas are sourced, they eat the bones of rotting champions, and they keep a roaming secret kitchen. The Acolyte stands hang above it.
-- **The Dread Fortress kitchen**; the front office of the Dread Fortress.
-- **The recovery room** (Dried Blood).
+- **[[Places/The Chinchilla Forest|The Chinchilla Forest]]**: the arena, a forest where the local chinchillas are sourced, they eat the bones of rotting champions, and they keep a roaming secret kitchen. The Acolyte stands hang above it.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**; the front office of the Dread Fortress.
+- **[[Places/The recovery room|The recovery room]]** (Dried Blood).
 - Granny's great-grandpappy's farm "up north, yonder."
 
 ### Items
@@ -271,7 +271,7 @@ tags: [episode, season-5]
 - Picnic baskets, Cool Ranch Doritos and the Lord's tray of Oreos.
 - Consent forms written by chinchillas.
 - The **metal chairs**.
-- **The onyx blade.**
+- **[[Items/The onyx blade|The onyx blade.]]**
 - Granny's brownie (traded), cupcake, cookies, raisin cookie and multigrain crackers.
 - Thea's tuna juice (outlawed), corn dogs and cup of tears of enemies.
 

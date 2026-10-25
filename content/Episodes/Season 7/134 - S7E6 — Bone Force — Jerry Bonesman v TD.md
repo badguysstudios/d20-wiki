@@ -200,7 +200,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**TD, the "training denizen"** (Crit Bard)
+**[[Characters/TD|TD, the "training denizen"]]** (Crit Bard)
 - **Who it is:**
   - A construct. Its skin has a metallic sheen, its blue eyes are artificial, blue crystals hover around it, and it wears a functional cape.
   - Pronouns at the table are he and they.
@@ -221,7 +221,7 @@ tags: [episode, season-7]
   - The Grandmaster's chosen champion. Defended Jerry against Seavold, killed him, and won the pizza (intestine toppings).
   - Was last seen holding Jerry's bony hand.
 
-**Jerry Bonesman** (Kyle). "Bones Man, not Bones Min."
+**[[Characters/Jerry Bonesman|Jerry Bonesman]]** (Kyle). "Bones Man, not Bones Min."
 - **Who he is:**
   - A skeleton in glowing purple and dark cobalt robes with leather gauntlets. Ossified horns; a necrotic mist of tiny grasping hands follows him.
   - No eyes, no glowing orbs, no brain ("all bones, no brain"). Wisdom −1.
@@ -234,55 +234,55 @@ tags: [episode, season-7]
   - Offered to be Seavold's knight protecting all undead and was rejected.
   - Realized "have I become the thing I was fighting against?" He passed the torch to TD and died as dust.
 
-**Thea** (Bec)
+**[[Characters/Thea (Plintos)|Thea]]** (Bec)
 - **A little pink, illiterate creature.** The Arbiter calls her "a mindless worm that I plucked from the soil to do my bidding" and his "ward."
 - Loots organs in his secret lab for "the army." Opens his mail.
 - Insists on calling him Daddy, and settles for **Papa**.
 - Summons champions with a fart portal. Volunteered "as tribute." She has had a lot of Tooth Fairy money via "a good dental program."
 - Polymorphed into a **pink T-Rex**, she body-slammed and gnawed the Wall of Force, then napped by the fountain.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Has a **secret lab of cadavers in the Dread Fortress** ("I'm using that").
 - Wears (probably fake) Italian leather shoes. Denies being anyone's father; known to call himself "daddy" and "Dice Daddy."
 - Interfered to give Jerry the Box of Chaos.
 - Threatened both champions with his metal chair.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Chose TD as champion. Offended by "Dread Hut."
 - Set the pizza-buffet prize and protected the baby ducks.
 - **Owner of the orc skull at the Dread Fortress** and keeper of its name.
 - Ruled double damage via the "agony" and delivered TD's pizza.
 
-**Seavold** (voiced by Bec; spelling uncertain)
+**[[Characters/Seavold|Seavold]]** (voiced by Bec; spelling uncertain)
 - **The giant orc skull outside the Dread Fortress**, owned by the Grandmaster. "No one has ever asked its name before."
 - Has a soul Jerry could commune with, with history glimpsed in flashes. Its eyes glow, and **a jaw rose from the ground to complete it**.
 - **First time anyone has seen the Dread Fortress speak or move.**
 - Calls Jerry "an ant," looks down on both champions, and called the match "a farce."
 - Attacked as a chaos event with insults ("calculator").
 
-**The Box of Chaos** (Drew)
+**[[Lore/The Box of Chaos|The Box of Chaos]]** (Drew)
 - Black inky tendrils; yellow and pink fire.
 - Took Jerry's bones ("I'm building something") and gave the wand of polymorph.
 - **"Mr. Box was my father. He's dead now."** (speaker inferred: the Box)
 
-**The singing alligator**: in the Duck Village fountain, yellow eyes, sang "Happy birthday, dear Gator."
+**[[Characters/The singing alligator|The singing alligator]]**: in the Duck Village fountain, yellow eyes, sang "Happy birthday, dear Gator."
 
-**Doug the Pug**: seated beside the Grandmaster.
+**[[Characters/Doug the Pug|Doug the Pug]]**: seated beside the Grandmaster.
 
-**Jerry's "skeleton brothers" / bone men** and **TD's fellow "training denizens"**: both groups beaten down by adventurers and warriors (mirrored visions).
+**[[Characters/Jerry's skeleton brothers|Jerry's "skeleton brothers" / bone men]]** and **TD's fellow "training denizens"**: both groups beaten down by adventurers and warriors (mirrored visions).
 
 ### Places
-- **The Arbiter's secret lab** inside the Dread Fortress: cadavers on metal tables.
-- **Throne room (Dread Fortress).**
-- **Duck Village**: the official name. A quaint village with marketplace stands, a church and a duck fountain (alligator inside). It became a "town" after the break ("the sign has changed").
-- **The front lawn of the Dread Fortress**: lava fields "as far as the eyes can see," and **the giant orc skull (Seavold)**.
-- **The floating grandstand**: Acolytes with their fathers for Father's Day.
+- **[[Places/The Arbiter's secret lab|The Arbiter's secret lab]]** inside the Dread Fortress: cadavers on metal tables.
+- **[[Places/Throne Room (Dread Fortress)|Throne room (Dread Fortress).]]**
+- **[[Places/The Duck Village|Duck Village]]**: the official name. A quaint village with marketplace stands, a church and a duck fountain (alligator inside). It became a "town" after the break ("the sign has changed").
+- **[[Places/The front lawn of the Dread Fortress|The front lawn of the Dread Fortress]]**: lava fields "as far as the eyes can see," and **the giant orc skull (Seavold)**.
+- **[[Places/The floating grandstand|The floating grandstand]]**: Acolytes with their fathers for Father's Day.
 
 ### Items
-- **Thea's organ bouquet** (hearts, livers, gallbladders, intestines).
-- **The 25-ft intestine belt**, TD's karate belt and later its pizza topping.
-- **Wand of polymorph (femur bone, seven charges)**, from the Box of Chaos.
-- **Jerry's shattered wrist and hand**, now in the Box ("I'm building something").
+- **[[Items/Thea's organ bouquet|Thea's organ bouquet]]** (hearts, livers, gallbladders, intestines).
+- **[[Items/The 25-ft intestine belt|The 25-ft intestine belt]]**, TD's karate belt and later its pizza topping.
+- **[[Items/Wand of polymorph (femur bone, seven charges)|Wand of polymorph (femur bone, seven charges)]]**, from the Box of Chaos.
+- **[[Items/Jerry's shattered wrist and hand|Jerry's shattered wrist and hand]]**, now in the Box ("I'm building something").
 - Thea's notepad and pencil. Blue slushies.
 - The round placards, which only go to seven. The Arbiter's metal chair.
 

@@ -174,7 +174,7 @@ Bec calls this "this post-show recap." It has no "Welcome to Dried Blood" marker
 
 ## Who and what appears
 ### Characters
-**Vythorn, the Arbiter** (Drew)
+**[[Characters/The Arbiter|Vythorn, the Arbiter]]** (Drew)
 - **Status:** he left his companions inside the mirror through a portal, which the narration calls a betrayal. He is sworn to return to the Void and to Elusia. He asks "Am I still dead?"; the in-between is "not really a dead place."
 - **Losses and habits:**
   - **Lost his Italian leather boots** to the ink creature and is now barefoot.
@@ -196,7 +196,7 @@ Bec calls this "this post-show recap." It has no "Welcome to Dried Blood" marker
   - Phil says he was at times dissatisfied with Elusia's rule and with her father's rule, and that **the idea of overthrowing Elusia was a seed he planted**. He answers: "maybe? Sometimes, who's not?"
 - **Ambition:** **"I want to control fate… I will be the God of Fate."** He accepted Phil's bargain: control of the fates of everyone in the Void, possible elevation, and the quest for the Testaments of Morir's Cataclysm.
 
-**The God of Fate (Philomena, "Phil")** (Bec). Named in the post-show.
+**[[Characters/The God of Fate (Philomena|The God of Fate (Philomena, "Phil")]]** (Bec). Named in the post-show.
 - **Nature:**
   - Exists "between every plane, every time, every space." "What was never alive cannot be killed."
   - Many and one: desire, ambition, providence, risk, destiny, luck, hope, fortune, demise, fate.
@@ -205,16 +205,16 @@ Bec calls this "this post-show recap." It has no "Welcome to Dried Blood" marker
 - **Forms shown in the tower:** halfling, elf, a large boisterous man, aarakocra, an old tortle woman, a mouse-like creature with big white ears, a snake-like creature, a nine-foot giant woman, a little boy, a leonin, a blonde human man, a white bear / polar bear, a cat, an owl-like woman with blue eyes, tabaxi (one scholarly, with a vest and handbooks), a lizard-like creature with an eyeglass, and an owlbear.
 - **Final form:** a chestnut-haired, brown-cheeked woman with long white wings, who brews at a cauldron.
 
-**The ink/slime creature(s)** (Bec). The living black-and-gold substance of the swamp river, with faces and eyes inside it. It eats magic, mocks him with "they didn't give you permission," and ate his boots. "We are trapped, and now you are trapped." **It speaks as "we" and tells him to "ask who we are,"** but it's not stated whether it is part of the God of Fate. The light that led him out says "It's time. Wake up." A head in the lake invites him back "if they don't like you." The post-show says these are beings stuck in the in-between.
+**[[Characters/The inkslime creature|The ink/slime creature(s)]]** (Bec). The living black-and-gold substance of the swamp river, with faces and eyes inside it. It eats magic, mocks him with "they didn't give you permission," and ate his boots. "We are trapped, and now you are trapped." **It speaks as "we" and tells him to "ask who we are,"** but it's not stated whether it is part of the God of Fate. The light that led him out says "It's time. Wake up." A head in the lake invites him back "if they don't like you." The post-show says these are beings stuck in the in-between.
 
-**The Shadow King / Agdrel.** Seen only in memory: dying and spared by Vythorn. "He works off of the threads of minds." Vythorn fears the Shadow King will murder the Grandmaster.
+**[[Characters/The Shadow King|The Shadow King / Agdrel.]]** Seen only in memory: dying and spared by Vythorn. "He works off of the threads of minds." Vythorn fears the Shadow King will murder the Grandmaster.
 
-**Grandmaster Elusia.** Not present. Vythorn says she is in danger, and calls her "a great figurehead, very inspirational."
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia.]]** Not present. Vythorn says she is in danger, and calls her "a great figurehead, very inspirational."
 
 ### Places
-- **The lifeless swamp**: a black, dense, living river, a disused dock, a one-seat boat with a chained, frosted lantern. **A three-way fork**: the right branch is dark and foggy and loops back (per the post-show); the left and center are bright and fast. The river widens into a bankless expanse of fog and lights.
-- **The lake**, deep at first and then only two feet deep. A slime head bobs in it.
-- **The tower in the in-between** ("Here is my home. It is in between all"):
+- **[[Places/The lifeless swamp|The lifeless swamp]]**: a black, dense, living river, a disused dock, a one-seat boat with a chained, frosted lantern. **A three-way fork**: the right branch is dark and foggy and loops back (per the post-show); the left and center are bright and fast. The river widens into a bankless expanse of fog and lights.
+- **[[Places/The lake|The lake]]**, deep at first and then only two feet deep. A slime head bobs in it.
+- **[[Places/The tower in the in-between|The tower in the in-between]]** ("Here is my home. It is in between all"):
   - On a carved-out spit of land, with undisturbed grass, a cart, two torches, and **seven lanterns in the windows like the boat's**.
   - A handleless wooden door.
   - **A massive young tree grows up through it**, with purple branches, flowers and brightly colored leaves.
@@ -222,10 +222,10 @@ Bec calls this "this post-show recap." It has no "Welcome to Dried Blood" marker
 - Mentioned: the Sands of Eternity, the mirror (where his companions remain), the Void, the Dread Fortress.
 
 ### Items
-- **The Testaments of Morir's Cataclysm**: a tome that "notes power of all sorts. Chaos and time and luck." Vythorn's quest.
+- **[[Items/The Testaments of Morir's Cataclysm|The Testaments of Morir's Cataclysm]]**: a tome that "notes power of all sorts. Chaos and time and luck." Vythorn's quest.
 - The boat lantern (light drawn to the slime) and the guiding light that dances in an infinity symbol.
 - Vythorn's Italian leather boots (eaten) and his dagger.
-- **The God of Fate's drink**: sweet, cinnamon, warm "like Christmas." It refills itself and opens memory-visions that he can shape like clouds.
+- **[[Items/The God of Fate's drink|The God of Fate's drink]]**: sweet, cinnamon, warm "like Christmas." It refills itself and opens memory-visions that he can shape like clouds.
 
 ### Lore statements
 - **The in-between exists between all planes, times and spaces.** There, the God of Fate grants or withholds power.

@@ -151,81 +151,81 @@ tags: [episode, fate-of-the-faithful]
 
 ## Who and what appears
 ### Characters
-**Lyrus** (Drew). A **"Werebearer"** (bear-folk) Faithful member with **Void Swords** of ethereal blackness.
+**[[Characters/Lyrus|Lyrus]]** (Drew). A **"Werebearer"** (bear-folk) Faithful member with **Void Swords** of ethereal blackness.
 - Can absorb their void/chaos energy to go "even further beyond": black eyes and black chaos flames.
 - Abilities shown: smites, green-flame blade, Lay on Hands, Misty Step, Vortex Warp (an ethereal one-person portal), an Artificer "repulsion" blast, Stone's Endurance, teleporting boots, a +1 aura.
 - Defeated Ganyu Sinmal from inside its mouth.
 - Serves the Grandmaster and offered Circe redemption "to serve the Grandmaster in her glory." Gives Kenny orders.
 - His glued boot "was my father's." Thinks he's funny (the chair joke). Claimed he couldn't swim, then said he was kidding.
 
-**Kenny the Goblin** (Drew). A Faithful rogue and gambler, "more of a bow guy."
+**[[Characters/Kenny|Kenny the Goblin]]** (Drew). A Faithful rogue and gambler, "more of a bow guy."
 - Spent weeks undercover in the Children of the Void (gambling, drinking, greasing palms).
 - Won a roachkin's mecha punch-arm gambling. Glued himself to Lyrus with sovereign glue, and **Lyrus's boot is stuck to his real hand.**
 - "Not vaccinated"; "I'm not a sheep" (then John made him look like one).
 - Has "no friends." Drew: "a bad spy… not very good at his job." Stayed behind at the HQ.
 
-**John Carmichael** (NinjaManMat1). A Coriander agent and gunslinger.
+**[[Characters/John Carmichael|John Carmichael]]** (NinjaManMat1). A Coriander agent and gunslinger.
 - **Gear:** enchanted bronze revolver (flintlock look, explosive rounds); techno shield gauntlet; a briefcase that produces items by charge (canned spinach, a skinny life raft); spell tattoos and bullets; a quarter ton of TNT.
 - **Abilities and background:** illusions (disguised as Kenny, sheep-Kenny); "ex-wizard talk"; "old breaking and entering days."
 - **In this episode:** recruited Circe with flirting and a Believe in Me speech, and is courting her ("first date… second date… third date"). Sang everything after the Titan's-blood swim.
 
-**Asena** (PodsofWar). Shrunk to house-cat size, then restored and enlarged.
+**[[Characters/Asena|Asena]]** (PodsofWar). Shrunk to house-cat size, then restored and enlarged.
 - Has the slime companion **Slakura** (key-form, slime trails).
 - **Powers:** telepathy; force-glowing punches; a once-per-day astral shift; a primal connection to nature and astral energies; "dragon fear."
 - Doesn't care about gold (once bought hot dogs with it).
 - Distrusts Circe ("I hate her"). Claims a version of Circe (a "him") exists in her world.
 - Found the Tumult map and the ewer plant. Called "the Dragon of Zul'Qir" by the GM.
 
-**Circe, Master of Magitek** (GM voice). From **Beacon**, a world where villains need gimmicks.
+**[[Characters/Circe|Circe, Master of Magitek]]** (GM voice). From **Beacon**, a world where villains need gimmicks.
 - **Gear:** a five-mode ray gun (shrink/grow, frigid freezing, "sizzling spicy heat," fire, etherealizing); flying boots; an elemental-immunity blouse; goggles that see through illusion and magical darkness.
 - **Allegiance:** joined the Arbiter to advance her villain career and found it's "for life." Ralzamon tried to fry her brain for disloyalty. Has now switched sides in exchange for protection and "get me off world."
 - Undecided on her "school of villainy."
 
-**Ganyu Sinmal** (GM). A towering, armored, fiery titan.
+**[[Characters/Ganyu Sinmal|Ganyu Sinmal]]** (GM). A towering, armored, fiery titan.
 - Metal grate mouthpiece, purple belly fire, the "spirit eater gate"; grows to huge, then gargantuan.
 - **A dead creature fused inside the armor, animated by Ralzamon**, who possessed it with ghostly blue eyes ("My master").
 - Destroyed by Lyrus and fell into the Beast Below's grasp.
 
-**Ralzamon, Master of the Unknown** (offstage). The Arbiter's general and psychic spy, "middle management."
+**[[Characters/Ralzamon|Ralzamon, Master of the Unknown]]** (offstage). The Arbiter's general and psychic spy, "middle management."
 - **From the Coriander party's world, brought to the Void for the Deathmatches. He died there and is back via "Arbiter's magic or something."**
 - Scans for brainwaves ("Kenny thoughts"). Lawrence has a theory about "what happened with" him.
 
-**The Arbiter** (offstage). Circe says deserters are hunted across all realities and torn apart atom by atom; he destroyed the ogre **Chester** and erased his echoes across the multiverse. "Not omniscient." Lyrus suggests they may have to fight him.
+**[[Characters/The Arbiter|The Arbiter]]** (offstage). Circe says deserters are hunted across all realities and torn apart atom by atom; he destroyed the ogre **Chester** and erased his echoes across the multiverse. "Not omniscient." Lyrus suggests they may have to fight him.
 
-**Lawrence Booker Green** (GM). The Coriander party's researcher at the Faithful HQ.
+**[[Characters/Lawrence Booker Green|Lawrence Booker Green]]** (GM). The Coriander party's researcher at the Faithful HQ.
 - Reads books and draws on maps of the Void.
 - His healing misfires ("Void magic"). He swore in the ancient tongue of the elder evils to heal Lyrus.
 - Knows the sovereign glue lore and keeps a tuning fork tied to returning home.
 
-**Baptiste**. A Faithful member present at the HQ; the "Stabtiste" card is named for him; he stabs people.
+**[[Characters/Baptiste|Baptiste]]**. A Faithful member present at the HQ; the "Stabtiste" card is named for him; he stabs people.
 
-**The Beast Below / the lurker**. An ancient, chained, tentacled creature beneath Prexmarin that has slept since the place was drawn into the Void. It woke, broke its chains and tore apart the lower city.
+**[[Characters/The Beast Below|The Beast Below / the lurker]]**. An ancient, chained, tentacled creature beneath Prexmarin that has slept since the place was drawn into the Void. It woke, broke its chains and tore apart the lower city.
 
-**The red-bearded priest** (unnamed). Broken-chained shackles, barefoot, serves "the master" and an "empire" that will "rise again." He took the fake ewer.
+**[[Characters/The red-bearded priest|The red-bearded priest]]** (unnamed). Broken-chained shackles, barefoot, serves "the master" and an "empire" that will "rise again." He took the fake ewer.
 
-**The candle-wax creature** (unnamed). Waxed face, odd wings, shirtless, twitching, "no longer human." It sends visions of a red moon, blood and murder.
+**[[Characters/The candle-wax creature|The candle-wax creature]]** (unnamed). Waxed face, odd wings, shirtless, twitching, "no longer human." It sends visions of a red moon, blood and murder.
 
-**Mercenaries in Lacunian power armor**, like the Vosky Knights of Lacunas.
+**[[Characters/Mercenaries in Lacunian power armor|Mercenaries in Lacunian power armor]]**, like the Vosky Knights of Lacunas.
 
 **Minor:** the bear folk bettors, the orc and the drinking elven bard; the roachkin (Kenny's mark); the Mammon-worshipping ceremony leader (dragged under); the last ninja (shot off a roof); Chester the ogre.
 
 ### Places
-- **Prexmarin, the Hanging City**: hangs from chains, partly on earth mounds, "a cosmic hanging plant." The lower district has the roundhouse and a bank/treasury with records of troop movements and debts. Its lower sections were wrecked by the Beast.
-- **The Prexmarin–Shady Town waygate**: an alley you enter by flipping a copper coin; two synchronized places in the Void.
-- **The Faithful's headquarters**, in the home city's "Shady Town."
-- **The Tumult**, west of Prexmarin: the calcified purple body of a dead titan or god. Its high ground is where the rib cage falls off; the chest-cavity swamps lie lower. Teal Titan's blood (ectoplasm-like, astral-adjacent, ethereal properties) flows through it, and there are smugglers' and pirates' fortresses. A ruin lies at the bottom of the waterfall.
-- **The bloodfalls structure**: a cliffside building with blood channels under grates and the plant holding the ewer. Its four approaches are the front tunnel, the blood channel, the cliff and a secret cave tunnel.
-- **The Dread Fortress**: "the great orc skull and its flaming lava eyes," the compass rose of the Void.
-- **Beacon**, Circe's home world.
+- **[[Places/Prexmarin, the Hanging City|Prexmarin, the Hanging City]]**: hangs from chains, partly on earth mounds, "a cosmic hanging plant." The lower district has the roundhouse and a bank/treasury with records of troop movements and debts. Its lower sections were wrecked by the Beast.
+- **[[Places/The Prexmarin–Shady Town waygate|The Prexmarin–Shady Town waygate]]**: an alley you enter by flipping a copper coin; two synchronized places in the Void.
+- **[[Places/The Faithful's headquarters|The Faithful's headquarters]]**, in the home city's "Shady Town."
+- **[[Places/The Tumult|The Tumult]]**, west of Prexmarin: the calcified purple body of a dead titan or god. Its high ground is where the rib cage falls off; the chest-cavity swamps lie lower. Teal Titan's blood (ectoplasm-like, astral-adjacent, ethereal properties) flows through it, and there are smugglers' and pirates' fortresses. A ruin lies at the bottom of the waterfall.
+- **[[Places/The bloodfalls structure|The bloodfalls structure]]**: a cliffside building with blood channels under grates and the plant holding the ewer. Its four approaches are the front tunnel, the blood channel, the cliff and a secret cave tunnel.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: "the great orc skull and its flaming lava eyes," the compass rose of the Void.
+- **[[Places/Beacon|Beacon]]**, Circe's home world.
 
 ### Items
-- **The silver ewer**: pours ethereal waters. Filled with Titan's blood, it raised a mist curtain that took the party into the Ethereal. The real one is now with the party.
-- **The duplicate ewer**, made by "the seer," left for the priest.
-- **Titan's blood**: many vials collected. It counters sovereign glue and makes people want to sing.
-- **Sovereign glue** (removable only by three things, one of them a wish); the roachkin mecha arm; Lyrus's father's boot.
-- **The Tumult map** (Asena's "dead purple rock man").
-- **Loot**: 5,000 gp plus 400 gp, 200 pp, 1,000 electrum, 2,000 sp and 2,000 cp, in John's briefcase. Circe gets a cut.
-- **Lawrence's tuning fork**; John's TNT.
+- **[[Items/Silver ewer|The silver ewer]]**: pours ethereal waters. Filled with Titan's blood, it raised a mist curtain that took the party into the Ethereal. The real one is now with the party.
+- **[[Items/The duplicate ewer|The duplicate ewer]]**, made by "the seer," left for the priest.
+- **[[Items/Titan's blood|Titan's blood]]**: many vials collected. It counters sovereign glue and makes people want to sing.
+- **[[Items/Sovereign glue|Sovereign glue]]** (removable only by three things, one of them a wish); the roachkin mecha arm; Lyrus's father's boot.
+- **[[Items/The Tumult map|The Tumult map]]** (Asena's "dead purple rock man").
+- **[[Items/Loot|Loot]]**: 5,000 gp plus 400 gp, 200 pp, 1,000 electrum, 2,000 sp and 2,000 cp, in John's briefcase. Circe gets a cut.
+- **[[Items/Lawrence's tuning fork|Lawrence's tuning fork]]**; John's TNT.
 
 ### Lore statements
 - Escaping the Void "would take very powerful magic" (Lyrus).

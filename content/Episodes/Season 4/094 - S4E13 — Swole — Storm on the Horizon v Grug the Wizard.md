@@ -230,7 +230,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Storm on the Horizon** (PixiesandPins). **A snow leopard monk**, cat-speech ("Do you not know how cat work?").
+**[[Characters/Storm on the Horizon|Storm on the Horizon]]** (PixiesandPins). **A snow leopard monk**, cat-speech ("Do you not know how cat work?").
 - **Ten organic knives on her four feet ("knives for feet").** She fights with a boomerang, an iklwa (10-ft reach), cat claws, Thunder Wave ("Fist of Four Thunders") and Shatter, plus Flurry of Blows, Stunning Strike and Deflect Missiles.
 - She takes catnaps and shoots black coffee.
 - She sacrificed a hairball to the Box of Chaos and got **the flying hairball chariot**.
@@ -238,7 +238,7 @@ tags: [episode, season-4]
 - **She won, then was sent into space by the Shadow King's "victory lap" and froze.** Dried Blood: she was separated from her tribe as a child and died imagining herself home with them.
 - She likes treats and wants to be Cheetara.
 
-**Grug the Wizard** (BanzaiBabee).
+**[[Characters/Grug the Wizard|Grug the Wizard]]** (BanzaiBabee).
 - A **former barbarian who forced the most powerful wizard on the tallest mountain to "make me powerful"** and was **cursed to believe he is the most powerful wizard**. In truth he rages and punches, with wild magic surges, and yells spell names at everything ("Death Touch," "Burning Hands," "Magic Missile," "Fireball," "Stone skin," "Mage armor," "Color spray," "Dimension Door," "Black tentacles").
 - His "spell books" are nonsense tomes (medieval tax records, old codices). He throws them like boomerangs and writes new "spells" in them with a crayon he also eats.
 - His muscles burst his robes. His chest beam and "buns of holiness" blind or knock out Acolytes.
@@ -246,46 +246,46 @@ tags: [episode, season-4]
 - He wanted Storm as his familiar and dreamed of a magic tower.
 - He died falling, smiling, believing he was the greatest wizard.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - He wears fancy leather boots with silver straps; **others secretly hung bells on them**.
 - He sits on the Dread Fortress throne and speaks of "the regime." The goblins and civilians "don't mean a lot to me."
 - He barely knew about the chinchillas or the cat army.
 - He ran the Box of Chaos with Iron Trout's soul and called the metal-chair event a "family activity" with Elusia. He saved Grug from drowning ("Try not to die too early").
 - He sent the victor into space with a spectral falcon.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - She **trains the chinchilla army of the Void** for Deathmatch and Fortress security, and to protect the goblins and civilians.
 - She is snarky toward the Shadow King.
 - She summons portals by cutting her fingers on **the amulet around her neck**.
 - She watched from among the Acolytes. She metal-chaired Storm, then gave her aspirin ("two tiny little blue pills").
 - She crowned Storm champion.
 
-**Theodore the Goblin**: leads the chinchilla drill from the front, stick in hand.
+**[[Characters/Theodore the Goblin|Theodore the Goblin]]**: leads the chinchilla drill from the front, stick in hand.
 
-**Henrietta the Goblin**: serves Storm black coffee.
+**[[Characters/Henrietta the Goblin|Henrietta the Goblin]]**: serves Storm black coffee.
 
-**The chinchilla army of the Void**: martial artists with sticks; "murder in their eyes." Each Fortress employee gets one as an emotional support chinchilla and bodyguard. They have a strong union and form cuddle puddles.
+**[[Characters/The chinchilla army of the Void|The chinchilla army of the Void]]**: martial artists with sticks; "murder in their eyes." Each Fortress employee gets one as an emotional support chinchilla and bodyguard. They have a strong union and form cuddle puddles.
 
-**The cat army**: several cats in the Dread Fortress that keep the "constant invasion" of mice and rats at bay.
+**[[Characters/The cat army|The cat army]]**: several cats in the Dread Fortress that keep the "constant invasion" of mice and rats at bay.
 
-**The chicken wing siren**: sings "Chicken wing, chicken wing, hot dog and bologna," pelts victims with wings, then turns into a chicken and flees. Linked to the halftime chicken wing stand.
+**[[Characters/The chicken wing siren|The chicken wing siren]]**: sings "Chicken wing, chicken wing, hot dog and bologna," pelts victims with wings, then turns into a chicken and flees. Linked to the halftime chicken wing stand.
 
 
-**The Box of Chaos soul-figure**: a shadowy figure with yellow eyes. It reacts with disgust to the hairball.
+**[[Characters/The Box of Chaos soul-figure|The Box of Chaos soul-figure]]**: a shadowy figure with yellow eyes. It reacts with disgust to the hairball.
 
-**The siren-barking small dog** in the stands, which tried to get at Storm.
+**[[Characters/The siren-barking small dog|The siren-barking small dog]]** in the stands, which tried to get at Storm.
 
 ### Places
-- **The Dread Fortress hallways and training hall** (the chinchilla drill) and **the Shadow King's throne**, "ugly."
-- **The meditation valley arena**: brisk, bright, breezy, with babbling streams and a 2–3 ft-deep river. Its stands are like the Coliseum. Grug left a crater lake in it.
+- **[[Places/The Dread Fortress hallways and training hall|The Dread Fortress hallways and training hall]]** (the chinchilla drill) and **the Shadow King's throne**, "ugly."
+- **[[Places/The meditation valley arena|The meditation valley arena]]**: brisk, bright, breezy, with babbling streams and a 2–3 ft-deep river. Its stands are like the Coliseum. Grug left a crater lake in it.
 - The tallest mountain, home of the most powerful wizard who cursed Grug (unnamed).
 - The **halftime chicken wing stand**.
 
 ### Items
-- **Flying hairball chariot** (Box of Chaos; +1 AC and flight; white like clouds; one-seater). Later a spectral falcon took it over.
-- **Elusia's amulet** (cuts her fingers to summon portals).
+- **[[Items/Flying hairball chariot|Flying hairball chariot]]** (Box of Chaos; +1 AC and flight; white like clouds; one-seater). Later a spectral falcon took it over.
+- **[[Items/Elusia's amulet|Elusia's amulet]]** (cuts her fingers to summon portals).
 - Grug's nonsense spell books and his crayon.
-- **Two metal chairs.**
+- **[[Items/Two metal chairs|Two metal chairs.]]**
 - Two tiny blue aspirin pills.
 - Storm's boomerang and iklwa.
 

@@ -122,7 +122,7 @@ tags: [episode, battle-for-the-crown]
 
 ## Who and what appears
 ### Characters
-**Cosmonius** (RobertHartleyGM).
+**[[Characters/Cosmonius|Cosmonius]]** (RobertHartleyGM).
 - **Who he is:** a centaur monk from the Feywild with a chestnut horse body, topless, with Fabio hair and a much-admired mustache. He assumes someone is always scrying on him and finger-guns nobody.
 - **Previous fight (his own account):** he beat "a bloody grandma hitting me with a handbag" and "the old fairy folk" who cast Ashardalon's Stride. They couldn't hit him with seven attacks. He kept a chocolate bar from that fight's piñata.
 - **Abilities seen:**
@@ -140,7 +140,7 @@ tags: [episode, battle-for-the-crown]
   - Survived and won.
 - Ghost Slim says his roots show a bad dye job; he begged him not to tell anyone.
 
-**Locket** (Miss_Magitek).
+**[[Characters/Locket|Locket]]** (Miss_Magitek).
 - **Who she is:** a Tabaxi gloom stalker ranger who "specializes in bows." Her signature move is flame arrows, lit by touching her quiver. She prays to **Chantia [?]**.
 - **Feelings and ties:**
   - She hates the Arbiter: "a phony… a fake… You have no idea what I've been through." They "have a lot of history together."
@@ -155,7 +155,7 @@ tags: [episode, battle-for-the-crown]
   - Killed Silky Slim, apologizing and blaming the Arbiter. Slim's ghost now haunts her.
   - Survived and won.
 
-**Silky Slim / "Slippery Slim"** (endlesschad).
+**[[Characters/Silky Slim|Silky Slim / "Slippery Slim"]]** (endlesschad).
 - **Who he is:** a large bugbear in a beret, vest and briefs. He carries hibiscus oil/lube and a spare lavender bottle "in my trunk," and has permed (not knotted) hair. "Hips and nips." He calls the Arbiter "Daddy."
 - **Status:** the Arbiter's "original champion," "the late, the great." Rebranded Slippery Slim by Cosmonius for this fight.
 - **Abilities:** barbarian/fighter multiclass with bear-totem rage, a glaive and Second Wind.
@@ -166,14 +166,14 @@ tags: [episode, battle-for-the-crown]
   - Ate the corpse-rich dirt of the land of the corrupted to survive.
 - **Killed by Locket.** His ghost is lavender-colored. He now haunts her ("Hey, Cat Lady, you suck") and heckles Cosmonius.
 
-**Baron Voltágè** (TalesofPesh).
+**[[Characters/Baron Voltágè|Baron Voltágè]]** (TalesofPesh).
 - **Who he is:** **gave his soul to the Arbiter, who put it in a new robot body.** He joined because "the Arbiter just offered dental." Title: "the Electacult [?] of Electricity, the Servitor of Shock."
 - **Body:** **a halfling inside the armor.** He has a helm HUD (advantage on initiative), shoulder harpoon-syringe, electro gauntlets, lightning rod, boot thrusters and a VTOL-style back jet. He no longer has lungs.
 - **Abilities:** artificer shield, Flash of Genius, haste, Enlarge, Lightning Bolt, Fly, Call Lightning, Ashardalon's Stride.
 - **Personality:** tried rebranding from cackling to "servitor noises," then went back to screaming.
 - **In this episode:** fell to the altar, woke the Kraken and played dead. Revealed as a slimy, disfigured baby with one cybernetic arm. Dying words condemn the Grandmaster and Arbiter "bicker[ing] over something as trivial as a throne while gambling with our lives." Last words: "Why the long face?"
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Now insists "I don't work for you anymore." Lounged on the GM's throne smoking.
 - Accuses Gerald of cheating last week.
 - "I should have just stabbed you in my throne room."
@@ -182,7 +182,7 @@ tags: [episode, battle-for-the-crown]
 - Winced at Slim's death.
 - **His event:** collapsed the ground into holes and blew the champions with his breath.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Owns the throne (its card reads "Belongs to the Grandmaster").
 - Expected a Google invite from the Arbiter.
 - Has goblins wheel a curtain for her champions.
@@ -192,26 +192,26 @@ tags: [episode, battle-for-the-crown]
 - Ended the fight by sending the Kraken under.
 - Holds an Acolyte fan vote.
 
-**Doug the pug.** Licked Cosmonius's pixie dust; the victors stand beside him at the throne.
+**[[Characters/Doug the Pug|Doug the pug.]]** Licked Cosmonius's pixie dust; the victors stand beside him at the throne.
 
-**The Kraken.** It lives in the still underground lake. It has hundreds of teeth and black beady eyes, uses lightning-storm attacks, and threw Cosmonius at Locket. One tentacle was numbed. The GM sent it back underwater.
+**[[Characters/The Kraken|The Kraken.]]** It lives in the still underground lake. It has hundreds of teeth and black beady eyes, uses lightning-storm attacks, and threw Cosmonius at Locket. One tentacle was numbed. The GM sent it back underwater.
 
-**The heckling children.** Bullies aged eight and under in the crowd. Two passed out from the Baron's comeback.
+**[[Characters/The heckling children|The heckling children.]]** Bullies aged eight and under in the crowd. Two passed out from the Baron's comeback.
 
-**Goblins.** The GM's curtain crew, who applaud "because they have to."
+**[[Characters/Goblins|Goblins.]]** The GM's curtain crew, who applaud "because they have to."
 
-**Gerald.** Named by the Arbiter as letting the GM's champions "cheat last week"; per the GM, it was "a random draw."
+**[[Items/Gerald, the Box of Chaos|Gerald.]]** Named by the Arbiter as letting the GM's champions "cheat last week"; per the GM, it was "a random draw."
 
 **Mentioned:**
-- **Lyrus**: Locket's friend; the Arbiter implies he died.
-- **Toddleheim** and **Flynry [?]**: Locket's friends.
-- **Baptiste**: an elf Locket likes.
+- **[[Characters/Lyrus|Lyrus]]**: Locket's friend; the Arbiter implies he died.
+- **[[Characters/Toddleheim|Toddleheim]]** and **Flynry [?]**: Locket's friends.
+- **[[Characters/Baptiste|Baptiste]]**: an elf Locket likes.
 - **Chantia [?]**: Locket's god.
 
 ### Places
-- **The Dread Fortress**, with the Grandmaster's throne (scene of the opening).
-- **The land of the corrupted**: a dead, silent forest with moon-high barren trees, a cold rotting-smelling ground near freezing, 10–15 ft climbable boulders and dense forest edges. Nothing grows. Blood "might bring back my garden." The soil is so full of the decayed dead that eating it heals.
-- **The chamber beneath**: collapsed pillars (the cause of the holes), trees reaching up, an **altar** at the center, and an **unnaturally still underground lake** where the Kraken lives.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, with the Grandmaster's throne (scene of the opening).
+- **[[Places/The land of the corrupted|The land of the corrupted]]**: a dead, silent forest with moon-high barren trees, a cold rotting-smelling ground near freezing, 10–15 ft climbable boulders and dense forest edges. Nothing grows. Blood "might bring back my garden." The soil is so full of the decayed dead that eating it heals.
+- **[[Places/The chamber beneath|The chamber beneath]]**: collapsed pillars (the cause of the holes), trees reaching up, an **altar** at the center, and an **unnaturally still underground lake** where the Kraken lives.
 - The Feywild (Cosmonius's home).
 
 ### Items

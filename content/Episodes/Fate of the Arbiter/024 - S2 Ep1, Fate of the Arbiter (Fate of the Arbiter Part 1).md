@@ -217,7 +217,7 @@ tags: [episode, fate-of-the-arbiter]
 
 ## Who and what appears
 ### Characters
-**Toddleheim "the Great"** (Ahnubyss)
+**[[Characters/Toddleheim the Great|Toddleheim "the Great"]]** (Ahnubyss)
 - A dwarf wizard, short, bearded, cocky. Also called "**the Hot Toddy**." Others mangle his name: Toddy, Tiddlywinks, Timmy, Timothy, Trevor, Toto, Thomas.
 - Says he specializes in Firebolt and loves acid splash because "they scream rather loud," and enjoys killing those who challenge him.
 - Reads Dwarvish. Claims to have seen cursed rings like the Arbiter's "many, many eons ago."
@@ -225,13 +225,13 @@ tags: [episode, fate-of-the-arbiter]
 - Spells used: Benign Transposition, invisibility, Mold Earth, Sleep (abandoned), Magic Missile, Burning Hands, shield, Misty Step, acid splash.
 - Ended the fight at 2 HP.
 
-**Locket** (Miss_Magitek)
+**[[Characters/Locket|Locket]]** (Miss_Magitek)
 - A tabaxi with Russian-blue fur and goggles, armed with a longbow and daggers. She prefers high ground.
 - A trap expert who designs traps. She has killed beasts and aberrations but never a man. Her ears are not for sale.
 - Got the **potion of storm giant strength** from the Box (she had wished for a new bow) and drank it in the fight. Found two potions of healing and gave one to Toddleheim.
 - Used Flame Arrows.
 
-**Flynry** (BDTeej)
+**[[Characters/Flynry|Flynry]]** (BDTeej)
 - A shifter who can't return to his homeland. Burly, with long brown hair, a beard and a red cloak. Carries a short bow.
 - A monk ("I like to punch things"): unarmed strikes, Flurry of Blows, Step of the Wind, Deflect Missiles through his monk gauntlets.
 - Shadow powers: shadow-stepping, Pass Without Trace, Silence, Darkness, granting darkvision by touch, Inflict Wounds (necrotic).
@@ -239,27 +239,27 @@ tags: [episode, fate-of-the-arbiter]
 - **Won the goblin's 7 gold with a fake contagious "condition."** Took 8 gp 4 sp 3 cp from the fortress.
 - Got the **scroll of Dragon's Skin** from the Box, kept it secret, and used it on himself. Dealt the crit that bloodied the Arbiter and snapped off the Arbiter's hands.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Taken by the Tarrasque (which Toddleheim knew was an illusion or conjuration). Found apparently free in a cathedral chamber of the dwarven fortress, claiming he'd been "stuck here for weeks."
 - **Openly declares he wants the Dread Fortress and to overthrow the Grandmaster ("Elusia will rue the day").**
 - Grew giant, shielded himself with orbiting stones, turned back time (chronal shift), reflected Magic Missile, threw chaos bolts and chaos lightning, wore a psychic memory-splitting aura, and **disintegrated Orin**.
 - Wears eight prismatic rings, cursed against anyone else.
 - **His "death" was a deception.** He reappeared disguised as the Grandmaster, framed the party as would-be murderers, and portaled them into the arena.
 
-**Orin** (Drew)
+**[[Characters/Orin|Orin]]** (Drew)
 - A werebear who prefers bear form, with a one-eyed Goliath human form. Commander of the Eastern Outpost.
 - Talkative, sarcastic, a self-described smasher, not a strategist. Bad at housekeeping.
 - Infected as a boy when werebears destroyed his village. **The Arbiter avenged his family, and later appointed him to the outpost for the Grandmaster.**
 - Gave out the healing pearls and offered the Box of Chaos.
 - **Sided with the party over the Arbiter and was disintegrated.** His ash joined the Arbiter's vortex. Possibly a "Toddy" in his past.
 
-**Grandmaster Elusia Skypiercer**
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]**
 - Appears only in the memory and as the Arbiter's illusion (turquoise and purple dress, black wings). She has no lines. Her order "Do not fail me" is recalled.
 
-**Kenny** (inferred)
+**[[Characters/Kenny|Kenny]]** (inferred)
 - Orin warns of a cheating goblin named Kenny: "kind of a piece of shit, but he's good with a dagger." The goblin who bit a fake coin, cheated at dice, asked to buy an ear and fled "not vaccinated" is inferred to be him.
 
-**Minor NPCs**
+**[[Characters/Minor NPCs|Minor NPCs]]**
 - The Dragonborn who spotted the goblin 7 gp.
 - The hobgoblin tackled by the goblin.
 - The orc who didn't know "she was your sister," and the furious elf.
@@ -271,33 +271,33 @@ tags: [episode, fate-of-the-arbiter]
 
 **Mentioned:** Lucien Brack and Monteclaire Dufresne (S1 finale defenders), the Turkey Dragon, the red dragon, the Tarrasque, a horned devil and devil dogs. Orin also mentions an unnamed Toddy.
 
-**Creatures:** sleeping drakes, two shield guardians with clawed metal fists.
+**[[Characters/Creatures|Creatures:]]** sleeping drakes, two shield guardians with clawed metal fists.
 
-**Faction:** the **Servants of the Void**, a rebellion bent on overthrowing the Grandmaster (per Orin).
+**[[Characters/Faction|Faction:]]** the **Servants of the Void**, a rebellion bent on overthrowing the Grandmaster (per Orin).
 
 ### Places
-- **The lava fields** between the Dread Fortress and the Eastern Outpost, including the broken stone bridge (with stairs and stepping stones nearby).
-- **The Eastern Outpost**: an ancient temple-pyramid on the border of the Grandmaster's lands, with an army camped outside.
+- **[[Places/The lava fields|The lava fields]]** between the Dread Fortress and the Eastern Outpost, including the broken stone bridge (with stairs and stepping stones nearby).
+- **[[Places/The Eastern Outpost|The Eastern Outpost]]**: an ancient temple-pyramid on the border of the Grandmaster's lands, with an army camped outside.
   - A main hall with a lava river and dragon skulls.
   - An inferno room beneath the skulls where **the Box of Chaos is safeguarded**.
   - An eastern potato cellar.
-- **The land beyond the border**: dark, cool, blue, "dead in a different way."
-- **The abandoned dwarven fortress** in the mountains, a day's ride away, with columns shaped like an old man's face.
+- **[[Places/The land beyond the border|The land beyond the border]]**: dark, cool, blue, "dead in a different way."
+- **[[Places/The abandoned dwarven fortress|The abandoned dwarven fortress]]** in the mountains, a day's ride away, with columns shaped like an old man's face.
   - A back gate and a demolished great hall.
   - The trap halls: a blade track, a bones-and-wine cellar, bedrolls, a gambling room, and the bookcase and crystal room with its three-bolt iron gate.
   - The purple-lit cathedral chamber.
   - Its carving mentions "the hammer that resides in the mountain" and "the treasure of the east."
-- **The Dread Fortress**: entered through the mouth of the open skull, with cool dank halls and portraits of Elusia. Its throne room is where the illusion stood.
-- **The sands of the arena.**
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: entered through the mouth of the open skull, with cool dank halls and portraits of Elusia. Its throne room is where the illusion stood.
+- **[[Places/The sands of the arena|The sands of the arena.]]**
 
 ### Items
 - Three **opalescent healing pearls** (4th-level cure wounds). Two were sacrificed; Toddleheim kept his.
-- **Box of Chaos**: heatless green, pink and purple flames. It demands a sacrifice.
-- **Scroll of Dragon's Skin** (Flynry, used).
-- **Potion of storm giant strength** (Locket, used).
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: heatless green, pink and purple flames. It demands a sacrifice.
+- **[[Items/Scroll of Dragon's Skin|Scroll of Dragon's Skin]]** (Flynry, used).
+- **[[Items/Potion of storm giant strength|Potion of storm giant strength]]** (Locket, used).
 - Flynry's aunt-made bracelet; his ornate handkerchief; the goblin's 7 gold (some or all possibly fake; one was rolled to trigger the trap).
 - Two potions of healing; 8 gp 4 sp 3 cp.
-- **The Arbiter's eight prismatic cursed rings** and his severed hands (both illusory, they faded).
+- **[[Items/The Arbiter's eight prismatic cursed rings|The Arbiter's eight prismatic cursed rings]]** and his severed hands (both illusory, they faded).
 
 ### Lore statements
 - **The Arbiter is "ancient"** though he doesn't look it (Orin).

@@ -141,7 +141,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Potato / Starfall** (JonKoe)
+**[[Characters/Potato|Potato / Starfall]]** (JonKoe)
 - **As Potato:** timid and hesitant. He doesn't know his mother. He has never had a present and has never had fish. He wanted to stay with Santa. He doesn't know what a magnet is (a "zero" nature check).
 - **Gear:** a rifle (lost to the magnet), a longsword, a shield (kicked to the edge of the chasm, then pulled by the magnet), and a double-bladed scimitar (kept).
 - **Abilities:** second wind, Vow of Enmity, wrathful smite. He says he is immune to disease (Dried Blood).
@@ -150,7 +150,7 @@ tags: [episode, season-1]
 - **His death:** killed by the cake elemental's slam. In his last breath he passed Tiamat's power to Dinkledink as a burial rite. He was buried under the placemat with a star cookie.
 - The Arbiter promised him a present if he won.
 
-**Dinkledink ("Dinkledink Rules Ass")** (EndlessChad)
+**[[Characters/Dinkledink|Dinkledink ("Dinkledink Rules Ass")]]** (EndlessChad)
 - A rodent, called a "mousy rodent." EndlessChad says "I'm a rat." He has **both an overbite and an underbite** (one tooth was broken by Potato's shot), a **helicoptering long tongue**, and short stubby claws. He climbs like a badger.
 - **Gear and abilities:** a greataxe, hand axes (lost), rage and frenzy rage, and Grovel, Cower, and Beg.
 - **Allergic to strawberry** (only mildly itchy).
@@ -160,7 +160,7 @@ tags: [episode, season-1]
 - **The father-son bond:** he reluctantly became Starfall's father ("I just want to get away from this kid"). Tiamat charged him with raising Starfall. He buried and eulogized his son.
 - **The win:** he won the bout. Per the GM's ruling, **the Arbiter will take him on a fried fish date** if he won.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Found the champions in the Santa line at the mall, where he had been drunk. He was in line "for ironic reasons" and owns a 5×8 photo of the three of them on Santa's lap.
 - Uses mage hand. Wanted schnapps or Fireball but was "working."
 - Prepared the feast arena.
@@ -168,39 +168,39 @@ tags: [episode, season-1]
 - Calls the Grandmaster "my boss" and insists theirs is a "purely business relationship."
 - Doug outrolled him on a chaos roll.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Decorated the Dread Fortress with goblins and celebrates "whatever holiday that she wants." She dislikes Caroline the Canadian.
 - **Wanted a giant magnet installed in the arena.**
 - Recalls "mother said never to play with your food."
 - Conjured the cake elemental. Declared a week off from the Deathmatch to be thankful for bonds, and held a fish fry for Dinkledink.
 
-**Richard**: a small goblin in a Santa hat who serves cocoa. He is also named among "the goblin chefs" who made the fondue cake.
+**[[Characters/Richard|Richard]]**: a small goblin in a Santa hat who serves cocoa. He is also named among "the goblin chefs" who made the fondue cake.
 
-**The goblins**: nearly 40 in the Dread Fortress. They are poor decorators and the bakers who misunderstood cheesecake.
+**[[Characters/Goblins|The goblins]]**: nearly 40 in the Dread Fortress. They are poor decorators and the bakers who misunderstood cheesecake.
 
-**Doug the Pug**: sits beside the Grandmaster's seat. He rolls a chaos die (a 12) and gets excited by the thrown dog treats.
+**[[Characters/Doug the Pug|Doug the Pug]]**: sits beside the Grandmaster's seat. He rolls a chaos die (a 12) and gets excited by the thrown dog treats.
 
-**Caroline**: a Canadian the Grandmaster dislikes ("a bit of a dick").
+**[[Characters/Caroline|Caroline]]**: a Canadian the Grandmaster dislikes ("a bit of a dick").
 
-**The giant**: summoned by the Arbiter. He devours the feast two-fisted, swallows the champions with it, and spits them out when his tongue is chopped. Unnamed.
+**[[Characters/The giant|The giant]]**: summoned by the Arbiter. He devours the feast two-fisted, swallows the champions with it, and spits them out when his tongue is chopped. Unnamed.
 
-**The cake elemental**: formed in the giant's mouth from chewed food and saliva, with cherry eyes, sprinkles and strawberry fondue. It regrows when cut but not when eaten. Its attacks are a hot fondue wave, candy-cane fist slams and a baking lair action. It can't be frightened (no brain). It killed Starfall and was killed by Dinkledink.
+**[[Characters/The cake elemental|The cake elemental]]**: formed in the giant's mouth from chewed food and saliva, with cherry eyes, sprinkles and strawberry fondue. It regrows when cut but not when eaten. Its attacks are a hot fondue wave, candy-cane fist slams and a baking lair action. It can't be frightened (no brain). It killed Starfall and was killed by Dinkledink.
 
-**Tiamat**: Potato/Starfall's god. She named him Starfall, blessed father and son to full strength, and granted the final-breath burial rite.
+**[[Characters/Tiamat|Tiamat]]**: Potato/Starfall's god. She named him Starfall, blessed father and son to full strength, and granted the final-breath burial rite.
 
-**Santa (the mall Santa)**: real-world joke figure.
+**[[Characters/Santa|Santa (the mall Santa)]]**: real-world joke figure.
 
 ### Places
-- **The Dread Fortress throne room**, decorated for the holidays (wreaths, tree, garland, lights).
-- **The feast table arena**: champions are shrunk. Features an ice cream cup (20 ft), a tiered fondue strawberry cake (10 ft), berries, a chocolate wafer, a placemat, and the chasm cracked by the turkey.
-- **The giant's mouth.**
-- **The mall** where the Arbiter found them (real-world joke).
+- **[[Places/Throne Room (Dread Fortress)|The Dread Fortress throne room]]**, decorated for the holidays (wreaths, tree, garland, lights).
+- **[[Places/The feast table arena|The feast table arena]]**: champions are shrunk. Features an ice cream cup (20 ft), a tiered fondue strawberry cake (10 ft), berries, a chocolate wafer, a placemat, and the chasm cracked by the turkey.
+- **[[Places/The giant's mouth|The giant's mouth.]]**
+- **[[Places/The mall|The mall]]** where the Arbiter found them (real-world joke).
 
 ### Items
 - The Santa photo (5×8 print).
 - The fondue-covered strawberry cake.
 - The half-cooked stuffed turkey.
-- **The giant magnet** in the arena. The magnet took everything metal.
+- **[[Items/The giant magnet|The giant magnet]]** in the arena. The magnet took everything metal.
 - The star cookie grave marker.
 
 ### Lore statements

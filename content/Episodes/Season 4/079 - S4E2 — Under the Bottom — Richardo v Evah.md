@@ -113,7 +113,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Richardo "Over the Top" Johnson** (Danotage)
+**[[Characters/Richardo Over the Top Johnson|Richardo "Over the Top" Johnson]]** (Danotage)
 - **Who he is:**
   - A **fallen Aasimar** barbarian, about 6'2".
   - An **arm wrestler** who arrived thinking the deathmatch was an arm-wrestling match.
@@ -135,7 +135,7 @@ tags: [episode, season-4]
   - Carved with an X scar and one "eye."
 - **Fate:** Killed by Evah, impaled on her glaive.
 
-**Evah (Gro'Murgosh [?])** (imkattkatt)
+**[[Characters/Evah|Evah (Gro'Murgosh [?])]]** (imkattkatt)
 - **Who she is:** A barbarian who rages and uses battle-master maneuvers (disarm, parry, grappling strike).
 - **Gear:**
   - A glaive (polearm master), which **Elusia gifted the ability to split in two**.
@@ -148,7 +148,7 @@ tags: [episode, season-4]
 - **Past:** Killed her ex, her ex's sister and her sister's ex-husband. Made ice cream out of the innards of a man who refused her ice cream (Bec's prompt, which Evah confirmed).
 - **Fate:** **Killed by the Shadow King** right after her victory, with a shadow blade through the mouth and head.
 
-**The Shadow King** (Drew)
+**[[Characters/The Shadow King|The Shadow King]]** (Drew)
 - Sits on Elusia's throne and is called "uncle" by her. Plays with Kaja's skull as a puppet.
 - New to running deathmatches: skips chaos events and loses track of turns.
 - Crushes the Acolyte Harvey with a shadow hand.
@@ -157,13 +157,13 @@ tags: [episode, season-4]
 - **Kills the winner, Evah.** He likes her fighting at first.
 - His throne cushions point to a "sensitive ass."
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - A captive "stranger in her own home." Hates the Shadow King and wants the goblins to poison him.
 - **Opens void holes with an amulet at the cost of her own blood.**
 - Claims the Void grew stronger in his absence. "Wishes the Arbiter was back."
 - Strips both champions' rage and grants hero points.
 
-**Kaja**: dead; her skull is the Shadow King's puppet. Elusia calls her "my dead friend" (plural "friends").
+**[[Characters/Kaja|Kaja]]**: dead; her skull is the Shadow King's puppet. Elusia calls her "my dead friend" (plural "friends").
 
 **Acolytes named:**
 - Harvey: crushed.
@@ -172,21 +172,21 @@ tags: [episode, season-4]
 - Vegeta: threw four slushies, three of them stolen.
 - An unnamed Acolyte betting on Evah.
 
-**The grandmas:** Meemaws, Grandma Dorothy (the nat 1, pooped herself), Tootsie(s), Diane (curly hair, knit sweater, pearl pendant), and G-Ma (96, shrank from 4 ft to 3 ft).
+**[[Characters/The grandmas|The grandmas:]]** Meemaws, Grandma Dorothy (the nat 1, pooped herself), Tootsie(s), Diane (curly hair, knit sweater, pearl pendant), and G-Ma (96, shrank from 4 ft to 3 ft).
 
-**Goblins**: serve the Shadow King drinks and grapes and fear the throne room.
+**[[Characters/Goblins|Goblins]]**: serve the Shadow King drinks and grapes and fear the throne room.
 
-**Juanita**: Richardo's mother; see Richardo.
+**[[Characters/Juanita|Juanita]]**: Richardo's mother; see Richardo.
 
 ### Places
-- **Throne Room (Dread Fortress)**: now filthy; the Shadow King sits on the throne.
-- **The pirate cove arena**: wooden platform on the open sea with a treasure-map table, broken up by cannon fire.
+- **[[Places/Throne Room (Dread Fortress)|Throne Room (Dread Fortress)]]**: now filthy; the Shadow King sits on the throne.
+- **[[Places/The pirate cove arena|The pirate cove arena]]**: wooden platform on the open sea with a treasure-map table, broken up by cannon fire.
 
 ### Items
 - Kaja's skull.
 - Elusia's blood-costing amulet.
 - The shadow gold pile.
-- **Box of Chaos** (Commander Scrib's soul), which gave the **Holy Avenger**.
+- **[[Lore/The Box of Chaos|Box of Chaos]]** (Commander Scrib's soul), which gave the **Holy Avenger**.
 - The table / wooden tutu.
 - Evah's splittable glaive.
 - Blue raspberry slushies.

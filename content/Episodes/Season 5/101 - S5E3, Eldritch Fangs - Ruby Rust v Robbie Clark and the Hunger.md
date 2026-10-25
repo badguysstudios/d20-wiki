@@ -330,7 +330,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Ruby Rust** (Rob / Robert Hartley GM). The YouTube blurb calls him a "colossal python."
+**[[Characters/Ruby Rust|Ruby Rust]]** (Rob / Robert Hartley GM). The YouTube blurb calls him a "colossal python."
 - **Who he is:**
   - A giant constrictor snake who works as a coder. He uses Java, not Python, Ruby or Rust.
   - He types with his tail on a big-button ergonomic keyboard.
@@ -344,53 +344,53 @@ tags: [episode, season-5]
 - **Abilities:** constriction, the Big Squeeze, a never-used swallow-whole ability, shedding his skin, hoop-rolling, burrowing.
 - **End:** consumed into the Hunger's biomass. His last thought was his unfinished website. He calls himself "Ruby Red" in Dried Blood. Pronouns vary between he and they.
 
-**Robbie Clark** (Cinder / Cinderblock Sally).
+**[[Characters/Robbie Clark|Robbie Clark]]** (Cinder / Cinderblock Sally).
 - A boy from a small town who said goodbye to his parents.
 - The Lord of Fate claims Robbie ran off at 10 and is a teenager. Robbie says he doesn't understand object permanence and has trouble remembering things "because I am a child."
 - Gave up 10 years of his life and some of his organs to the box.
 - Emerged clean and unharmed at the end. Speaks in "Oh boy" and "G. Willikers" style.
 
-**The Hunger** (Cinder, with some lines tagged 02).
+**[[Characters/The Hunger|The Hunger]]** (Cinder, with some lines tagged 02).
 - An eldritch horror in Robbie's backpack, connected to his spinal cord. Hundreds of tendrils ("700 arms"), most of them with mouths.
 - Has no cloaca and an infinite stomach. Its aim is to unify all life into "one giant flesh sack" or "collective bio-consciousness."
 - **Powers:** sucks out poison, entombs Robbie ("the power of friendship"), drains a mountain through a taproot, camouflages as snow, spore polyps, fissure spikes.
 - **Items:** the blue pill (survives six fatigue) and the rusty spoon (tetanus).
 - The pair later insist on being called "the Hunger" or "the Hunger and the child."
 
-**Thea** (Bec). A tiny pink imp whose wings shed glitter.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A tiny pink imp whose wings shed glitter.
 - The Lord of Fate's assistant, with a clipboard, a performance report and a fear of losing her job.
 - Names arenas. Brought the snacks. Has small arms.
 - The Lord of Fate says **she used to be a worm**.
 - She keeps up with the cloaca jokes and wants an infinite stomach.
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Says he "**usurped the Grandmaster**" and is under scrutiny across the Void.
 - His bedroom is in a distant tower because he likes to stay away from everybody.
 - **Powers seen:** rips reality to move them both to the throne room, snaps food into place, summons the Box of Chaos.
 - Keeps a performance report on Thea. Wants middle-aged champions. Won't admit lords use the bathroom.
 
-**The Box of Chaos creature** (Drew). A shadowy skeleton-like creature that claws out of the box.
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Drew). A shadowy skeleton-like creature that claws out of the box.
 - Swallowed Robbie's years. Wears **a necklace of teeth of all different kinds**, now including Ruby's incisor.
 - Tied Ruby's shield on with twine. "Honestly, I'm not picky."
 
-**Julia**: an Acolyte (chat member) who coined "snow angles."
+**[[Characters/Julia|Julia]]**: an Acolyte (chat member) who coined "snow angles."
 
 **Others mentioned:** "an elderly gentleman" from last week's match (unnamed); Grandmaster Elusia (author of the Deathmatch rules); "the lawyers."
 
 ### Places
-- **The Lord of Fate's bedroom**, in a tower "on the other side," away from everybody.
-- **The throne room** (location not stated).
-- **The Voiceless Mountaintop**: a snowy, windy peak under a red sunset, with an arena of Acolytes above it.
+- **[[Places/The Lord of Fate's bedroom|The Lord of Fate's bedroom]]**, in a tower "on the other side," away from everybody.
+- **[[Places/Throne Room (Dread Fortress)|The throne room]]** (location not stated).
+- **[[Places/The Voiceless Mountaintop|The Voiceless Mountaintop]]**: a snowy, windy peak under a red sunset, with an arena of Acolytes above it.
   - It became a desert when the sun reversed.
   - It is **rented land** and **shrank two inches** when the Hunger drained it.
   - Thea's rejected names for it: the mountain, a really big hill, cold nipples, the hard nipple place.
-- **The concession stand** (out of mustard).
+- **[[Places/The concession stand|The concession stand]]** (out of mustard).
 
 ### Items
-- **Shield of the Golden King**: golden, raises Mettle, shatters on a nat 1 defense. It was tied to Ruby with twine and lost in the Macarena.
-- **Small blue pill**: lets the user survive six fatigue. "Seek medical help" after four hours.
-- **Morir's Cataclysm**: a leather-bound tome of great power and destruction. Its words wrap onto the reader's skin as glowing markings and grant a power-up.
-- **Rusty spoon**: tetanus, grants an extra status effect.
+- **[[Items/Shield of the Golden King|Shield of the Golden King]]**: golden, raises Mettle, shatters on a nat 1 defense. It was tied to Ruby with twine and lost in the Macarena.
+- **[[Items/Small blue pill|Small blue pill]]**: lets the user survive six fatigue. "Seek medical help" after four hours.
+- **[[Items/Morir's Cataclysm|Morir's Cataclysm]]**: a leather-bound tome of great power and destruction. Its words wrap onto the reader's skin as glowing markings and grant a power-up.
+- **[[Items/The rusty spoon|Rusty spoon]]**: tetanus, grants an extra status effect.
 - Ruby's drinking helmet (java and poison), the ergonomic keyboard, Thea's clipboard and pencil, and the nachos with chili, hot dogs and fries.
 
 ### Lore statements

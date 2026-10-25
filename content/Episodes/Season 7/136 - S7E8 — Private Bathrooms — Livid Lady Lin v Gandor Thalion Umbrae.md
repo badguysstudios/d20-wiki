@@ -136,7 +136,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Livid Lady Lin** (Emily Graymoor). Called Liv by Gandor.
+**[[Characters/Livid Lady Lin|Livid Lady Lin]]** (Emily Graymoor). Called Liv by Gandor.
 - **A five-foot, very buff wizard** in blue and black robes. She lifts her hefty spellbook as a weight and lights a thumb flame like a match.
 - Reads books "for hurting," not for learning words. Wisdom +0; "nothing going on up there."
 - A long-time rival of Gandor. **They are the two finalists for the lease of a 100-floor wizard's tower.** She wanted its adventurers and gold.
@@ -144,53 +144,53 @@ tags: [episode, season-7]
 - **Summoned Gandor's mother**, whom Gandor's dragon breath then killed.
 - Won the duel and the lease. Planned to watch Gilmore Girls. **Killed by the Arbiter's Power Word Kill**; her dust was vacuumed up by Thea with a Gilmore Girls DVD box set.
 
-**Gandor Thalion Umbrae** (Patrick Perini).
+**[[Characters/Gandor Thalion Umbrae|Gandor Thalion Umbrae]]** (Patrick Perini).
 - **A transmutation wizard and "Gandoff clone"** with a too-dark gray beard, a pipe, a staff and a crystalline orb. Insists on all three names; has "many names."
 - **Wears elven mithril chainmail, said to be from the King of the Elves** (speaker uncertain).
 - Obsessed with orbs, "orb related activity," and pondering pools. Weak ("I'm weak as hell"). Speaks telepathically while polymorphed. Approves of chinchilla union rules.
 - **Polymorphed into a portly Sword in the Stone-style red dragon and killed his own mother with fire breath.**
 - Disintegrated into glittering pipe dust by his own counterspelled lightning bolt, flipping Lin off as he died. The Acolytes saw his dreams: orbs everywhere.
 
-**Gandor's mother** (voiced by Emily, as Lin's Summon Draconic Spirit). An old woman in a pink fluffy bathrobe with curlers and a cigarette. She scolds him for pondering orbs and throws a bunny-ear slipper. **Burned to death by her son's dragon breath.** Patrick confirms in Dried Blood it was really his mother.
+**[[Characters/Gandor's mother|Gandor's mother]]** (voiced by Emily, as Lin's Summon Draconic Spirit). An old woman in a pink fluffy bathrobe with curlers and a cigarette. She scolds him for pondering orbs and throws a bunny-ear slipper. **Burned to death by her son's dragon breath.** Patrick confirms in Dried Blood it was really his mother.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Has **a private bathroom in the fortress**. Ate 12 Brussels sprouts.
 - **Grants heroic surges**; threatens to revive anyone who dies without using one "just to pummel you back into the earth."
 - Handed Lin the lease. Has "beef" with the Arbiter, to be settled privately.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Italian shoes. Placed the toilet paper just out of reach. Shoved Doug out of his chair. Carries a seatbelt in his chair.
 - Admits he has hit women "many times."
 - **Killed the winner with Power Word Kill because he wanted the tower** for his cramped lab; plans to blow out the west wall.
 
-**Thea**. A small pink impish pig-like creature who:
+**[[Characters/Thea (Plintos)|Thea]]**. A small pink impish pig-like creature who:
 - was sent for toilet paper and went running around the lava fields;
 - vacuums the fart smell to make a candle;
 - vacuums both champions' dust, adding a Gilmore Girls DVD;
 - in Dried Blood, is piecing them back together.
 
-**Doug**. Sleeping in the Arbiter's seat; shoved out.
+**[[Characters/Doug the Pug|Doug]]**. Sleeping in the Arbiter's seat; shoved out.
 
-**The chinchilla herd and their hard-hat foreman**. Unionized, they take lunch on a whistle with no overtime. One flipped off Lin.
+**[[Characters/The chinchilla herd and their hard-hat foreman|The chinchilla herd and their hard-hat foreman]]**. Unionized, they take lunch on a whistle with no overtime. One flipped off Lin.
 
-**The leasing pixie**. Works in a distant office and wears a green accounting visor; pens the lease.
+**[[Characters/The leasing pixie|The leasing pixie]]**. Works in a distant office and wears a green accounting visor; pens the lease.
 
-**The King of the Elves**. Named as the source of the mithril only.
+**[[Characters/The King of the Elves|The King of the Elves]]**. Named as the source of the mithril only.
 
 ### Places
-- **The fortress** (inferred: the Dread Fortress): deep underground, entered through a skull opening. It holds **the Grandmaster's private bathroom**, with stalls and a heavy wooden door.
-- **The lava fields**, where Thea was running.
-- **The snowy mountain peak arena**, reached via a portal on the toilet.
-- **The wizard's / sage's tower**: 100 floors, a West Wing with a pool, reflecting, pondering and summoning pools, and a west wall. The lease went to Lin; the Arbiter wants it.
-- **The pixie's distant office.**
+- **[[Places/The fortress|The fortress]]** (inferred: the Dread Fortress): deep underground, entered through a skull opening. It holds **the Grandmaster's private bathroom**, with stalls and a heavy wooden door.
+- **[[Places/The lava fields|The lava fields]]**, where Thea was running.
+- **[[Places/The snowy mountain peak arena|The snowy mountain peak arena]]**, reached via a portal on the toilet.
+- **[[Places/The wizard's|The wizard's / sage's tower]]**: 100 floors, a West Wing with a pool, reflecting, pondering and summoning pools, and a west wall. The lease went to Lin; the Arbiter wants it.
+- **[[Places/The pixie's distant office|The pixie's distant office.]]**
 - "The Eastlands" / "the West" (Lord of the Rings phrasing; unclear).
 - Thea's closet of a room (Dried Blood).
 
 ### Items
-- **The tower lease papers.**
-- **The bunny-ear slipper.**
-- **The elven mithril chainmail.**
-- **Blue slushies**: Acolyte currency and favor.
+- **[[Items/The tower lease papers|The tower lease papers.]]**
+- **[[Items/The bunny-ear slipper|The bunny-ear slipper.]]**
+- **[[Items/The elven mithril chainmail|The elven mithril chainmail.]]**
+- **[[Items/Blue slushies|Blue slushies]]**: Acolyte currency and favor.
 - The toilet paper roll.
 - The Gilmore Girls DVD box set.
 - Gandor's pipe, staff and orb.

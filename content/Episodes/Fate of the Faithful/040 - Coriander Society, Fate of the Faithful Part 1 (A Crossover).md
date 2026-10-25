@@ -158,7 +158,7 @@ tags: [episode, fate-of-the-faithful]
 
 ## Who and what appears
 ### Characters
-**Lyrus** (Drew)
+**[[Characters/Lyrus|Lyrus]]** (Drew)
 - **Appearance:** a 7–8 ft white-furred **werebear** in grey and black plate armor over furs.
 - **Weapons:** two light-swallowing black **void swords**. A cut can open a singularity that sucks the victim in, or a portal that sends limbs or halves elsewhere.
 - **Portals:** slices portals in space to dodge, teleport, dive through enemies' chests, and let allies attack through them.
@@ -170,7 +170,7 @@ tags: [episode, fate-of-the-faithful]
 - **Personality:** calls himself "servant of the Grandmaster" ("in a way"). Old-fashioned about looting the dead. Rambles a little "like an old man" (Drew). "Not a tactician… a soldier." His inner struggle is living up to his father's legacy.
 - **In this episode:** killed Hathim by decapitating him through a portal.
 
-**John Carmichael** (NinjaManMat1)
+**[[Characters/John Carmichael|John Carmichael]]** (NinjaManMat1)
 - **Introduces himself as** "ex-wizard, coriander agent, private investigator, and reluctant follower of a very particular dragon goddess" (Tiamat, her symbol on his coat). He has lost his wizard status ("can't soul gaze anymore").
 - **Background:** from Earth. Says it's Christmas, not a corporate holiday.
 - **Gear:**
@@ -181,9 +181,9 @@ tags: [episode, fate-of-the-faithful]
   - **A case of carrying/briefcase** holding a wrench, a rubber chicken, life rafts, an anchor, a quarter ton of dynamite, and now **thousands of wooden spoons, Knight armor and swords, and Hathim's head**.
   - A duel-disk camera.
   - An earpiece radio to Asena.
-- **Other:** has a cat, **Chester**. Can do dragon fear and mirror image.
+- **[[Items/Other|Other:]]** has a cat, **Chester**. Can do dragon fear and mirror image.
 
-**Asena** (PodsofWar)
+**[[Characters/Asena|Asena]]** (PodsofWar)
 - **Abilities and gear:**
   - A martial fighter with silver-misty-light fists.
   - Can run up walls and has slow fall.
@@ -196,58 +196,58 @@ tags: [episode, fate-of-the-faithful]
 - **Deathmatch history:** **a former Deathmatch champion who fought Ralzamon in the Kitchen of the Dread Fortress**, using milk froth against his lactose intolerance. She remembers crowds chanting her name. She also tells John of dreams of a Santa-carriage space trip, which John has never believed.
 - **In this episode:** keeps the finest spoon.
 
-**Ralzamon, "Master of the Unknown"** (spelling per DM notes)
+**[[Characters/Ralzamon|Ralzamon, "Master of the Unknown"]]** (spelling per DM notes)
 - A figure from Asena's past and the Coriander Society's nemesis.
 - Pulled into the Void by a hand and a voice: "I still have need of you."
 - **Per Lyrus, "General of the Arbiter,"** who has served the Arbiter for months.
 - Acts here as an invisible psychic presence that exploits flaws and crushes minds. It is "stronger, more powerful than ever."
 - Lactose intolerant.
 
-**Hathim** (spelling uncertain)
+**[[Characters/Hathim|Hathim]]** (spelling uncertain)
 - Tiamat's blood berserker from Lacunas, of her elite hit squad. **John "thought I killed him and his whole gang."**
 - Wears power armor recolored to match the Grandmaster's colors, with jump jets and immunity to cold. Fights with power axes and battle drugs.
 - Lied that his master was the Grandmaster.
 - Decapitated by Lyrus. His body was taken by a portal; his head is in John's bag.
 
-**Lawrence Booker Green** (GM NPC)
+**[[Characters/Lawrence Booker Green|Lawrence Booker Green]]** (GM NPC)
 - A wizened old traveler from another universe.
 - **Lost his shoes in the crossing.**
 - Casts firebolt, banishment ("fuck off") and Word of Radiance.
 
-**The Pygus leader** ("big Chungus")
+**[[Characters/The Pygus leader|The Pygus leader]]** ("big Chungus")
 - A maul-wielding brute wearing an **illusory copy of the Grandmaster's armor**. Fate after Lyrus's dive-through unclear (inferred dead).
 
-**Knights of Terra Nimbus**
+**[[Characters/Knights of Terra Nimbus|Knights of Terra Nimbus]]**
 - Bluish full plate and thundering swords. They fly without wings, levitate others, hurl thunderbolts, and parry. They wear the impostor color scheme.
 
-**Lyrus's militia**: commoners, thieves and soldiers in mismatched leathers.
+**[[Characters/Lyrus's militia|Lyrus's militia]]**: commoners, thieves and soldiers in mismatched leathers.
 
-**Frank**: a large orc cook whose stew is dangerous. **Jeff**: a former cook fired for stealing potatoes; "We cut off his hands" (speaker uncertain).
+**[[Characters/Frank|Frank]]**: a large orc cook whose stew is dangerous. **Jeff**: a former cook fired for stealing potatoes; "We cut off his hands" (speaker uncertain).
 
-**Baptiste**: a slender elf with silvery-white hair. A dagger stabber, new to the group, who asks people whether he has ever stabbed them.
+**[[Characters/Baptiste|Baptiste]]**: a slender elf with silvery-white hair. A dagger stabber, new to the group, who asks people whether he has ever stabbed them.
 
-**The old blind white dragonborn** (unnamed), at the HQ.
+**[[Characters/The old blind white dragonborn|The old blind white dragonborn]]** (unnamed), at the HQ.
 
-**The spoon boy**: a small blonde boy with a Swedish-ish accent. Sold out his entire stock.
+**[[Characters/The spoon boy|The spoon boy]]**: a small blonde boy with a Swedish-ish accent. Sold out his entire stock.
 
-**The Arbiter** (only mentioned)
+**[[Characters/The Arbiter|The Arbiter]]** (only mentioned)
 - Per Lyrus: the Grandmaster's vizier and right hand.
 - Secretly betraying her, planning a coup, amassing an army, and sending impostors to cause unrest.
 - Murdered Orin. Keeps the Grandmaster isolated. "Master of time, space, and magic," perhaps thousands of years old.
 - The hand that took Ralzamon is inferred to be his (from the recap at 0:03:18 together with Lyrus's "General of the Arbiter," 2:10:11). It is not stated.
 
-**The Grandmaster** (only mentioned)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (only mentioned)
 - Lives in the Dread Fortress and doesn't know about the betrayal.
 - "Low tech." Asena "liked that lady."
 
-**Tiamat**: the Dragon Queen, who answers John's prayer even "impossible eons away."
+**[[Characters/Tiamat|Tiamat]]**: the Dragon Queen, who answers John's prayer even "impossible eons away."
 
 ### Places
-- **Prexmarin, the Hanging City**: tiers on enormous chains, with a market circle of marble and metalwork.
-- **A castle-ward street** reached through Lyrus's portal (an unnamed location outside the city), where the **blacksmith-shop rebel headquarters** stands.
-- **The Dread Fortress**: a monolith like a humanoid orc skull in an endless lava field, visible on the horizon from every direction. Hundreds of miles of scorching lava field surround it (Lyrus's pigeon line). **Its Kitchen** was the arena of Asena v Ralzamon.
-- **The Eastern Outpost**: where Orin's men served.
-- **The Void**: "an amalgamation of lost planes existing in the same space at the same time," "beyond time and space"; time doesn't run in parallel with other worlds.
+- **[[Places/Prexmarin, the Hanging City|Prexmarin, the Hanging City]]**: tiers on enormous chains, with a market circle of marble and metalwork.
+- **[[Places/A castle-ward street|A castle-ward street]]** reached through Lyrus's portal (an unnamed location outside the city), where the **blacksmith-shop rebel headquarters** stands.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: a monolith like a humanoid orc skull in an endless lava field, visible on the horizon from every direction. Hundreds of miles of scorching lava field surround it (Lyrus's pigeon line). **Its Kitchen** was the arena of Asena v Ralzamon.
+- **[[Places/The Eastern Outpost|The Eastern Outpost]]**: where Orin's men served.
+- **[[Lore/The Void|The Void]]**: "an amalgamation of lost planes existing in the same space at the same time," "beyond time and space"; time doesn't run in parallel with other worlds.
 - Coriander-side places: the Chamber of Crystal and Bubbling Tar, Lacunas, Leftover, Merlin world, the Obsidian Tower, and **Ixandar** (two mirrored fey planes).
 
 ### Items

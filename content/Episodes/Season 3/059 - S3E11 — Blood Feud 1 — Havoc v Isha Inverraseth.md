@@ -142,7 +142,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Havoc** (Connie Chang). A Lycan (werewolf) and **beast-hide shifter**; in wolf form a **black dire wolf** with gold eyes when raging. **New alpha of the Kingslayer clan.**
+**[[Characters/Havoc|Havoc]]** (Connie Chang). A Lycan (werewolf) and **beast-hide shifter**; in wolf form a **black dire wolf** with gold eyes when raging. **New alpha of the Kingslayer clan.**
 - **Gear and powers:**
   - The 60-lb maul (gnarled steel head, jeweled pommel).
   - Bear-spirit rage (resists all damage but psychic), reckless attacks and a luck point.
@@ -160,7 +160,7 @@ tags: [episode, season-3]
   - **The first champion to attack the Box of Chaos**, and Gerald burned her for it.
   - At the end she cried and swung to kill, choosing "let's die together."
 
-**Isha Inverraseth** (blackgirlmage / Lexi). A vampire with no heartbeat who doesn't need to breathe, has no soul ("I became a vampire") and has elongated canines. Known as **the Lycan Slayer / Lycan Hunter** among the packs.
+**[[Characters/Isha Inverraseth|Isha Inverraseth]]** (blackgirlmage / Lexi). A vampire with no heartbeat who doesn't need to breathe, has no soul ("I became a vampire") and has elongated canines. Known as **the Lycan Slayer / Lycan Hunter** among the packs.
 - **Gear and powers:**
   - Rogue skills (cunning action, sneak attack, Steady Aim).
   - Spells: Pass Without Trace and Healing Spirit (a golden eagle).
@@ -176,34 +176,34 @@ tags: [episode, season-3]
   - Wished to fight where Havoc left her.
   - Said "I'll do it" when the pack demanded her death.
 
-**The oath.** Matching scars, on the back of Havoc's right hand and Isha's palm, mark **a blood oath: "We live together, we die together."** It was made with shared blood "on that day."
+**[[Characters/The oath|The oath.]]** Matching scars, on the back of Havoc's right hand and Isha's palm, mark **a blood oath: "We live together, we die together."** It was made with shared blood "on that day."
 
-**The werewolf pack** (Havoc's pack / family). Dozens of werewolves who appear on the rooftops when Isha asks to leave. They ordered Havoc to finish Isha long ago: "Because you're going to finish it. Or we will." Member names heard: "Asmodai," "Gerald" (uncertain). One reference to an "elder wolf" (1:04:08).
+**[[Characters/The werewolf pack|The werewolf pack]]** (Havoc's pack / family). Dozens of werewolves who appear on the rooftops when Isha asks to leave. They ordered Havoc to finish Isha long ago: "Because you're going to finish it. Or we will." Member names heard: "Asmodai," "Gerald" (uncertain). One reference to an "elder wolf" (1:04:08).
 
-**The lamp genie ("weenie," per Dried Blood).** Green smoke in a deceptively sharp gold lamp; he takes payment in blood. He is touchy about being called a shrub or bush, and is a knockoff genie with limited powers. He granted Isha's wish to return to the starting points.
+**[[Characters/The lamp genie (weenie, per Dried Blood)|The lamp genie ("weenie," per Dried Blood).]]** Green smoke in a deceptively sharp gold lamp; he takes payment in blood. He is touchy about being called a shrub or bush, and is a knockoff genie with limited powers. He granted Isha's wish to return to the starting points.
 
-**Gerald / the Box of Chaos** (Drew). Laid-back ("Just hanging out in the box, dealing chaos"). He collects "all kinds of shit" and is **starting a teeth jar**. When Havoc struck the box he retaliated with a hellish rebuke of pink and purple fire.
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]** (Drew). Laid-back ("Just hanging out in the box, dealing chaos"). He collects "all kinds of shit" and is **starting a teeth jar**. When Havoc struck the box he retaliated with a hellish rebuke of pink and purple fire.
 
-**Grandmaster Elusia Skypiercer** (Bec). Reads Doug monster stories under a blanket. Promises the winner may return home. **Froze both champions mid-blow**, promised Isha her wish, and told Havoc to choose a side. She ordered them sent to separate planes to train.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). Reads Doug monster stories under a blanket. Promises the winner may return home. **Froze both champions mid-blow**, promised Isha her wish, and told Havoc to choose a side. She ordered them sent to separate planes to train.
 
-**The Arbiter** (Drew). Still a chained prisoner of the Grandmaster. He opens portals by slamming his chains, and has white wings.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). Still a chained prisoner of the Grandmaster. He opens portals by slamming his chains, and has white wings.
 
-**Doug the Pug.** Scared of the monster book. Per the Arbiter, Doug is "literally a cyborg zombie," which Doug doesn't know. He farted in fear and did a potty dance.
+**[[Characters/Doug the Pug|Doug the Pug.]]** Scared of the monster book. Per the Arbiter, Doug is "literally a cyborg zombie," which Doug doesn't know. He farted in fear and did a potty dance.
 
-**The Acolytes.** The Grandmaster's "people, those who I love and care for," cheering in a ghostly choir.
+**[[Lore/The Acolytes|The Acolytes.]]** The Grandmaster's "people, those who I love and care for," cheering in a ghostly choir.
 
 ### Places
-- **The Dread Fortress throne room** and its subterranean entrance.
-- **The Grandmaster's "dark city":** a foggy, moonlit village of small wooden huts, with ghost footprints and no people. One hut burned down in this episode.
-- **The Whispering Woods** (Havoc's lake) and **the weavespun forests** (where Isha hunted).
+- **[[Places/Throne Room (Dread Fortress)|The Dread Fortress throne room]]** and its subterranean entrance.
+- **[[Places/The Grandmaster's dark city|The Grandmaster's "dark city":]]** a foggy, moonlit village of small wooden huts, with ghost footprints and no people. One hut burned down in this episode.
+- **[[Places/The Whispering Woods|The Whispering Woods]]** (Havoc's lake) and **the weavespun forests** (where Isha hunted).
 - Havoc and Isha's **slaughtered home village**, with its library, and **the forest where Havoc left Isha**: "where it began."
 - The two separate **planes/demiplanes** where they now train.
 - The Grandmaster's treasuries "somewhere in the dungeon."
 
 ### Items
-- **Tinderstrike** (flint dagger, sparks, fire resistance), from Gerald in exchange for Isha's wisdom teeth. Isha dropped it at Havoc's request.
-- **The sharp gold lamp** and its genie.
-- **Hero points as energy drinks.**
+- **[[Items/Tinderstrike|Tinderstrike]]** (flint dagger, sparks, fire resistance), from Gerald in exchange for Isha's wisdom teeth. Isha dropped it at Havoc's request.
+- **[[Items/The sharp gold lamp|The sharp gold lamp]]** and its genie.
+- **[[Items/Hero points as energy drinks|Hero points as energy drinks.]]**
 - Isha's Molotov (tinderbox and oil cloth).
 - The Grandmaster's monster book.
 - Gerald's teeth jar.

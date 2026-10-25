@@ -109,7 +109,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Sunozar** (Nelstar15). **A seven-foot-tall half-orc blood hunter** with a **pink mohawk**; never talk about the mohawk.
+**[[Characters/Sunozar|Sunozar]]** (Nelstar15). **A seven-foot-tall half-orc blood hunter** with a **pink mohawk**; never talk about the mohawk.
 - **Gear and powers:**
   - Heavy plate armor and a crossbow.
   - **A greatsword with a dragon skull at the hilt. The soul of his old friend, a powerful sorcerer/wizard, lives in the skull, which growls.** He talks to it ("buddy"). Cutting his bicep with it makes it flame or crackle with lightning; he calls it "the Flamesword."
@@ -125,7 +125,7 @@ tags: [episode, season-1]
 - **In this episode:** the GM named him her chosen champion. He fell off Theodore's hand and was **saved by the Grandmaster after praising her wings**. He beat the Shadow of the Arbiter.
 - Promised steaks and a dictionary by the GM.
 
-**The Shadow of the Arbiter** (Drew). A "white, ethereal, ghost-like echo" ripped from the Arbiter's chest. He mirrors the Arbiter's studded leather armor.
+**[[Characters/The Shadow of the Arbiter|The Shadow of the Arbiter]]** (Drew). A "white, ethereal, ghost-like echo" ripped from the Arbiter's chest. He mirrors the Arbiter's studded leather armor.
 - **Wings ripped off by the Arbiter before the fight.**
 - Has "the worst parts" of the Arbiter: creepy, whispers, refers to himself as the Arbiter.
 - **Has shared the Arbiter's birthday "for thousands of years"; this was "my first birthday."**
@@ -137,16 +137,16 @@ tags: [episode, season-1]
 - **Plotted to have Sunozar kill the Grandmaster.** His first insult ever was "shadow of an orc." He never got to eat.
 - Decapitated by Sunozar; he faded with a shadowy tear.
 
-**The shadowspawn / "shadow of a shadow"**. A winged shadow demon resembling Ryuk (a shinigami), with a great cold-shadow sword. It hit Sunozar for 57 and vanished when the Shadow lost concentration.
+**[[Characters/The shadowspawn|The shadowspawn / "shadow of a shadow"]]**. A winged shadow demon resembling Ryuk (a shinigami), with a great cold-shadow sword. It hit Sunozar for 57 and vanished when the Shadow lost concentration.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Forced by the GM to fight through his shadow.** He removed his rings and over-cloak, ripped out his shadow, then tore its wings off.
 - The GM says she has "allowed you to expand your powers while you're here."
 - **"If he falls on the field, I will finish him myself."** He later blessed the Shadow ("there's a good heart in you yet").
 - He "exists outside of all space and time" and works hard on the deathmatches; the "union" joke.
 - Says he found Sunozar at a Ruby Tuesday in Omaha. The botched second champion was the "boxer" who owned boxer dogs.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - 3 p.m. coloring-book hour (a hummingbird eating a tiger).
 - Calls Sunozar her **chosen champion**.
 - **Suspects the Arbiter resents her and that his shadow "is trying to come for my crown."** Claims her wings were too tired to come down.
@@ -154,22 +154,22 @@ tags: [episode, season-1]
 - Bottles the crowd's chaos "for the next battle." Wants a dictionary and Ruby Tuesday after-party.
 
 
-**Mutant Noodles**: a chat member whose idea was the candy in the face. Out-of-character.
+**[[Characters/Mutant Noodles|Mutant Noodles]]**: a chat member whose idea was the candy in the face. Out-of-character.
 
 ### Places
-- **Elusia's underground subterranean cathedral throne room** (the same throne room as S1E1/S1E2).
-- **The Disregarded Cliffs**: a mountaintop with a decayed, overgrown fortress, golden crystals and a blue portal on the east side that teleports you (1d4 for where you land). "You will call it home soon enough."
-- **The clouds above the Cliffs**, in Theodore's palm.
+- **[[Places/Elusia's underground subterranean cathedral throne room|Elusia's underground subterranean cathedral throne room]]** (the same throne room as S1E1/S1E2).
+- **[[Places/The Disregarded Cliffs|The Disregarded Cliffs]]**: a mountaintop with a decayed, overgrown fortress, golden crystals and a blue portal on the east side that teleports you (1d4 for where you land). "You will call it home soon enough."
+- **[[Places/The clouds above the Cliffs|The clouds above the Cliffs]]**, in Theodore's palm.
 - Sunozar's backstory cities, with his statues (unnamed).
 - Ruby Tuesday, Omaha (a real-world joke).
 
 ### Items
 - The **dragon-skull Flamesword** (sorcerer's soul inside).
-- **The Arbiter's rings and over-cloak**, removed to make the Shadow.
-- **The GM's piñata** (AC 15, anime eyes) and **legally distinct Snickers-like candy bars** (2 HP each, five survived).
+- **[[Items/The Arbiter's rings and over-cloak|The Arbiter's rings and over-cloak]]**, removed to make the Shadow.
+- **[[Items/The GM's piñata|The GM's piñata]]** (AC 15, anime eyes) and **legally distinct Snickers-like candy bars** (2 HP each, five survived).
 - Mutagens: Celerity and Gelid.
 - The GM's adult coloring book.
-- **The bottled crowd chaos**, kept "for the next battle."
+- **[[Items/The bottled crowd chaos|The bottled crowd chaos]]**, kept "for the next battle."
 
 ### Lore statements
 - **The Arbiter can rip out his own shadow as a separate being.** It is ghost-white, has his wings, has some time power, and "the worst parts of" him.

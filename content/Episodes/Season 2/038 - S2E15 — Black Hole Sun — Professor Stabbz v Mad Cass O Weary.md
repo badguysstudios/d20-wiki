@@ -152,7 +152,7 @@ Mostly out-of-character; creator notes. In-character lines and Drew's canon ruli
 
 ## Who and what appears
 ### Characters
-**Professor Stabbz** (TheNoirEnigma). **A goblin** ("poor little goblin," "your small goblin hand") rogue/bard.
+**[[Characters/Professor Stabbz|Professor Stabbz]]** (TheNoirEnigma). **A goblin** ("poor little goblin," "your small goblin hand") rogue/bard.
 - A professor at the **University of Stabbz**: Stabbing 101, theoretical stabbing, stabbing in Spanish. He had never used his stabbing in practice and entered the Deathmatch **seeking tenure**.
 - **Gear and moves:** a psychic blade (a glowing purple and green dagger), sharpshooter, sneak attack, cunning action, silvery barbs (three times), invisibility ("Fuck this"), hold person, Uncanny Dodge, evasion, Fury of the Small, and Defensive and Mobile Flourish.
 - **Personality and lore:**
@@ -167,7 +167,7 @@ Mostly out-of-character; creator notes. In-character lines and Drew's canon ruli
 - **In this episode:** he told Cass his whole life story mid-fight. He won with **Gerald's eighth-level Sunburst scroll**, and the Grandmaster carried him on her shoulders.
 - **Dried Blood canon:** he hears Cass's laughter from another dimension as he dozes off. Gets a "six show contract" from the Arbiter (joke).
 
-**Mad Cass O Weary** (DeadAussieGamer). A **tiefling monk**, resistant to fire. He has **glowing yellow eyes**, a wide puckish grin and a **mohawk that becomes a mane of fire** when he uses hellish rebuke. He fights with fists and **a boomerang**; the GM calls him Australian.
+**[[Characters/Mad Cass O Weary|Mad Cass O Weary]]** (DeadAussieGamer). A **tiefling monk**, resistant to fire. He has **glowing yellow eyes**, a wide puckish grin and a **mohawk that becomes a mane of fire** when he uses hellish rebuke. He fights with fists and **a boomerang**; the GM calls him Australian.
 - **Joining the match:** a last-minute substitute when the other champion's "portal provider was down." He wiped his ass with the Arbiter's contract and stapled it to the Arbiter's head.
 - **Personality and lore:**
   - Constantly drunk ("19 drunk"); his drinking "started when my dad went out for some cigarettes."
@@ -180,13 +180,13 @@ Mostly out-of-character; creator notes. In-character lines and Drew's canon ruli
 - **Death:** burned by the Sunburst and sucked into the black hole while laughing and giving the middle finger. "I'm gonna come for you in your nightmares!"
 - **Dried Blood canon (Drew):** Cass has become a Freddy Krueger figure, "burned alive in a different dimension."
 
-**Gerald, the Box of Chaos** (Drew). A shadowy figure with yellow beady eyes and claws who lives in the box ("my house"). Waist-high when standing in it.
+**[[Items/Gerald, the Box of Chaos|Gerald, the Box of Chaos]]** (Drew). A shadowy figure with yellow beady eyes and claws who lives in the box ("my house"). Waist-high when standing in it.
 - Cass dragged him around, slammed the lid on him, and told him "If I want to listen to an asshole, I'll fart."
 - **He could see the invisible Stabbz.** He told Cass "You need therapy."
 - Gave Stabbz an eighth-level Sunburst scroll without any sacrifice, out of spite for Cass.
 - Dismissed by the GM afterward: "you've done your duty."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Spent last week fixing the Dread Fortress toilets in the sewers.
 - Wears Italian leather shoes (the GM: tap shoes).
 - Ran in with a dagger to "save" the GM, then enjoyed Doug's suffering.
@@ -194,38 +194,38 @@ Mostly out-of-character; creator notes. In-character lines and Drew's canon ruli
 - Opened the black hole: "a rift in space and time."
 - Walked unscathed into the black hole with Cass's boomerang.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Bathed Doug by hand, because prestidigitation doesn't get the oils out of his fur.
 - Has new marble sinks in her bathroom.
 - Took Stabbz's "Intervention" seriously (metal chairs), and renamed invisibility "Fuck this, I'm out."
 - Asks Acolytes where they'd put a second pair of butt cheeks.
 - Carried the winner on her shoulders.
 
-**Doug**. The Grandmaster's pug, "the absolute symbol of D20 Deathmatch." He hates baths, escaped still soapy, and sat by the GM wet, afraid to move in case he got another bath.
+**[[Characters/Doug the Pug|Doug]]**. The Grandmaster's pug, "the absolute symbol of D20 Deathmatch." He hates baths, escaped still soapy, and sat by the GM wet, afraid to move in case he got another bath.
 
-**Vanita**. The professor of slashing, Stabbz's secret crush. Only mentioned.
+**[[Characters/Vanita|Vanita]]**. The professor of slashing, Stabbz's secret crush. Only mentioned.
 
-**The milk-throwing dwarf**. An Acolyte in the stands whom Cass threatened.
+**[[Characters/The milk-throwing dwarf|The milk-throwing dwarf]]**. An Acolyte in the stands whom Cass threatened.
 
 ### Places
-- **The Dread Fortress**: its sewer system and toilets; the Grandmaster's throne room, master bedroom and bathroom (new marble sinks, tile floor).
-- **The small town arena**:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its sewer system and toilets; the Grandmaster's throne room, master bedroom and bathroom (new marble sinks, tile floor).
+- **[[Places/The small town arena|The small town arena]]**:
   - Rooftops 20 ft up, the central tavern/restaurant roof with barrels, a rope between the roofs, an underpass, a clock tower and cobblestone streets.
   - The GM invites the champions to destroy it and promises to build "something grand… perhaps a memorial" in its place.
   - By the end, the middle building is compressed into a black hole.
-- **The University of Stabbz.**
+- **[[Places/The University of Stabbz|The University of Stabbz.]]**
 
 ### Items
 - The Arbiter's contract (wiped and stapled).
 - The GM's mouthwash.
 - The barrel of alcohol and its lid, which Cass used as a shield.
-- **The Box of Chaos**:
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**:
   - A purple trunk with a ring on the side and metal trinkets.
   - Light, and it feels empty inside.
   - Throws yellow/pink/purple flames, heatless when opened.
   - **A carved heart on the lid reading "G plus V."**
-- **The eighth-level Sunburst spell scroll** from Gerald.
-- **Cass's boomerang**, taken by the Arbiter into the black hole.
+- **[[Items/The eighth-level Sunburst spell scroll|The eighth-level Sunburst spell scroll]]** from Gerald.
+- **[[Items/Cass's boomerang|Cass's boomerang]]**, taken by the Arbiter into the black hole.
 
 ### Lore statements
 - **The Box of Chaos is Gerald's house**, and **Gerald can see invisible creatures** (this episode).

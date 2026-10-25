@@ -156,7 +156,7 @@ tags: [episode, battle-for-the-crown]
 
 ## Who and what appears
 ### Characters
-**Toddleheim** (Ahnubyss). "The Tattletailor"; the Arbiter also calls him "the Great."
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss). "The Tattletailor"; the Arbiter also calls him "the Great."
 - A short dwarf with a large gray beard, a hat and nice robes; "very suave."
 - "**I have been a wizard for over 125 years.**"
 - **Spent his hero point to become a werewolf**, keeping his wizard abilities. In werewolf form he resists bludgeoning (and slashing, per the berserker ruling).
@@ -168,18 +168,18 @@ tags: [episode, battle-for-the-crown]
   - Was dropped by Ralzamon's Eldritch Blast, survived, and was raised on an iceberg pedestal as a victor.
 - The player is new to D&D.
 
-**Veronica** (mendarii). "The Bee Farmer," from the Bee Farm.
+**[[Characters/Veronica|Veronica]]** (mendarii). "The Bee Farmer," from the Bee Farm.
 - Blue hair, scantily dressed even in the cold. An **elf**, so immune to Sleep, with extra speed.
 - Fights with a rapier. A **bladesinger** with fighter features (Second Wind), Mage Armor and the athlete feat.
 - Spells: Shocking Grasp, Hold Person, Chromatic Orb, Ray of Frost.
 - Her token reads "**Dewdrop Grizzlby**," her "**beekeeper name**."
-- **Gerald:**
+- **[[Items/Gerald, the Box of Chaos|Gerald:]]**
   - **Doesn't remember Gerald**, though he says they had a good time and **he gave her a tattoo**. The tattoo has no name on it.
   - Sacrificed her **Ring of Evasion** to him and got a **silver Horn of Valhalla**, which summoned five berserkers: Bug Bug, Slug Slug, Grug Grug, Shazzle and Mazzle.
   - Unconsciously touched his hand the way she did when they first met, and told him to call her. She noticed "G and V" engraved on the box.
 - Landed the killing blow on Glub Glub.
 
-**Ralzamon** (CastersnCastles). **The Arbiter's general.** Glub Glub calls him "**Razzle Dazzle**."
+**[[Characters/Ralzamon|Ralzamon]]** (CastersnCastles). **The Arbiter's general.** Glub Glub calls him "**Razzle Dazzle**."
 - **Appearance:**
   - Blue skin, an absurdly high collar, finely clipped hair, a big cloak.
   - "**Being made of meat is not his normal state of being… He's used to being a much more ethereal, astral entity.**" Dramatic organ music should play when you see him.
@@ -190,25 +190,25 @@ tags: [episode, battle-for-the-crown]
 - Called Veronica "Victoria."
 - **Died burning from Veronica's orb and a berserker's crit**, whispering to Toddleheim. **His ghost rose and lingered until the battle ended.** He gave up his team's death saves to Glub Glub.
 
-**Glub Glub the Glorious** (CarefulCantrip). Assistant for the day, and briefly promoted to "acting general."
+**[[Characters/Glub Glub the Glorious|Glub Glub the Glorious]]** (CarefulCantrip). Assistant for the day, and briefly promoted to "acting general."
 - Speaks in broken third person ("me"). "**Me has returned.**"
 - The Arbiter calls him "a renowned scientist and researcher."
 - **Fighting style:** a barbarian with rage, reckless attack and the **Totem of the Bear** (a bear shadow appears). Also an artificer. Wields a great club and wears a wooden talisman necklace.
-- **Boney**: his pet, a small bleached-white skeleton homunculus.
+- **[[Characters/Boney|Boney]]**: his pet, a small bleached-white skeleton homunculus.
 - Wanted a dog as a kid. Likes long walks on the beach. **Just wants friends.**
 - **"Very mad at flying lady with wings"** (the Grandmaster).
 - **Died** at Veronica's hand and was curb-stomped by the Arbiter. Boney wept on his chest.
 
-**Boney**: Glub Glub's small skeleton companion ("homunculus" per Veronica). He charmed Toddleheim as Glub Glub's "bone," survived being dropped in the snow, and sobbed on his dying master's chest.
+**[[Characters/Boney|Boney]]**: Glub Glub's small skeleton companion ("homunculus" per Veronica). He charmed Toddleheim as Glub Glub's "bone," survived being dropped in the snow, and sobbed on his dying master's chest.
 
-**Gerald / the Box of Chaos** (Drew).
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]** (Drew).
 - Perceives the sound of broken bones and slams down from the sky. Can reach out a hand and grant aid.
 - Believes he and Veronica had a fling and that **he gave her a tattoo**.
 - "**I have a forgettable face**"; "**I might be out of a job soon.**"
 - Has "G and V" engraved on his side.
 - Gave the Horn of Valhalla for the Ring of Evasion.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **"I don't work for you anymore."** He is challenging the Grandmaster for the throne and calls her deathmatches unfair.
 - **Plans:**
   - Remodel the Dread Fortress: his own portrait, his statue in the throne room, Spanish tile.
@@ -217,35 +217,35 @@ tags: [episode, battle-for-the-crown]
 - **Triggered the avalanche with a finger snap.** Curb-stomped the dying Glub Glub and left: "This isn't over."
 - Knows something about Veronica's "true love."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Inventoried the armory before the war.
 - **Declared deaths in this war permanent.**
 - Summoned the wild-shape snow and the hailstorm. Let the Acolytes' cheers warm Toddleheim.
 - Revived or rescued Toddleheim. Honored all four fighters on ice pedestals.
 - Holds one tournament point.
 
-**Doug the Pug**: sits beside the Grandmaster wearing **a small crown**. Veronica wants him as Grandmaster; the GM says they "have considered it," but he "likes to live the responsible-free life."
+**[[Characters/Doug the Pug|Doug the Pug]]**: sits beside the Grandmaster wearing **a small crown**. Veronica wants him as Grandmaster; the GM says they "have considered it," but he "likes to live the responsible-free life."
 
-**The berserkers**: Bug Bug, Slug Slug, Grug Grug, Shazzle and Mazzle, summoned by the horn. They leapt from the mountain.
+**[[Characters/The berserkers|The berserkers]]**: Bug Bug, Slug Slug, Grug Grug, Shazzle and Mazzle, summoned by the horn. They leapt from the mountain.
 
-**The Acolytes**: cheering "with a desperation" because everything is on the line. They vote for the best show, and their cheers halved Toddleheim's cold damage.
+**[[Lore/The Acolytes|The Acolytes]]**: cheering "with a desperation" because everything is on the line. They vote for the best show, and their cheers halved Toddleheim's cold damage.
 
-**The looters and servants of the Dread Fortress**: stealing paintings and silverware amid the chaos.
+**[[Characters/The looters and servants of the Dread Fortress|The looters and servants of the Dread Fortress]]**: stealing paintings and silverware amid the chaos.
 
 ### Places
-- **The Dread Fortress**: its halls, stone steps, **armory**, printing press and throne room. The Arbiter plans to move his statue into the throne room.
-- **The frozen fortress arena**: deserted and iced over, with an inner courtyard, bridges between keeps, 15-ft walls and 25-ft towers. Skeletons, armor and bricks lie about, a deer runs to the north, and a mountain with a glacier overlooks it. "A favorite of both of ours."
-- **The snowy forest** below the fortress, where the avalanche left the fighters.
-- **The Bee Farm**, Veronica's origin (mentioned only).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its halls, stone steps, **armory**, printing press and throne room. The Arbiter plans to move his statue into the throne room.
+- **[[Places/The frozen fortress arena|The frozen fortress arena]]**: deserted and iced over, with an inner courtyard, bridges between keeps, 15-ft walls and 25-ft towers. Skeletons, armor and bricks lie about, a deer runs to the north, and a mountain with a glacier overlooks it. "A favorite of both of ours."
+- **[[Places/The snowy forest|The snowy forest]]** below the fortress, where the avalanche left the fighters.
+- **[[Places/The bee farm|The Bee Farm]]**, Veronica's origin (mentioned only).
 
 ### Items
-- **The Horn of Valhalla** (silver), from Gerald.
-- **Veronica's Ring of Evasion**, sacrificed to the box.
-- **Veronica's tattoo** from Gerald (no name on it).
+- **[[Items/The Horn of Valhalla|The Horn of Valhalla]]** (silver), from Gerald.
+- **[[Items/Veronica's Ring of Evasion|Veronica's Ring of Evasion]]**, sacrificed to the box.
+- **[[Items/Veronica's tattoo|Veronica's tattoo]]** from Gerald (no name on it).
 - Ralzamon's **unholy talisman**.
 - Glub Glub's **wooden talisman necklace**, **great club**, bag and stick.
 - The Arbiter's **cologne-scented, embossed invitations**.
-- **Doug's small crown.**
+- **[[Items/Doug's small crown|Doug's small crown.]]**
 
 ### Lore statements
 - **Battle for the Crown** is a tournament between the Grandmaster's and the Arbiter's teams. **Each win earns a point**, and a **separate Acolyte popular vote** for the best show runs until the tournament ends.

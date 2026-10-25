@@ -266,7 +266,7 @@ tags: [episode, pieces-of-a-king]
 
 ## Who and what appears
 ### Characters
-**Grimnar Stormclaw** (Drew, a player character)
+**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Drew, a player character)
 - A 7'+ white polar-bear werebear with lightning-pattern burns on his chest and arms, eyes singed black, and minimal armor.
 - **Touched by chaos as a child; "I hear his voice inside of me."** He lives by the will of chaos ("It is not for me to decide").
 - His ritual: he walks out the orc skull's mouth onto the lava plains and **lets the chaos storm's lightning strike his hand** (he has years of scars from it). He offers himself as chaos's vessel, and the storm answered with gathering lightning.
@@ -274,12 +274,12 @@ tags: [episode, pieces-of-a-king]
 - **In combat** he channels storm lightning and his eyes go fully black. He used Storm Sphere and Chaos Bolt (psychic).
 - He believes "the Arbiter killed" the Shadow King, and hailed Grym as "an emissary of chaos."
 
-**Grimnar's brother** (DM; name heard "Namot")
+**[[Characters/Grimnar's brother|Grimnar's brother]]** (DM; name heard "Namot")
 - A scholar and mage **studying under the Arbiter** in the domain of dread.
 - He refuses the traditional bear shape and martial way. He came to the fortress to follow Grimnar.
 - He is skeptical of "the will of chaos." Gassy with cheese (per Grimnar).
 
-**Nehebka** (CriticalBard)
+**[[Characters/Nehebka|Nehebka]]** (CriticalBard)
 - She has dark skin, shifting green-tan eyes, linens, a blood-ruby headpiece with silver, a **mask that always covers her face**, and a bronze scimitar she blesses with sand daily.
 - **A constant sand aura** that reacts to her mood (it slithers when she's annoyed, goes spiky when Grimnar calls her out).
 - **She can become sand (sand form or whirlwind).** Her **cheek briefly turned to glass** when lightning hit her sand.
@@ -289,7 +289,7 @@ tags: [episode, pieces-of-a-king]
 - She saw a neutral presence watching her from a black hole in the Void. She is from a land where sandworms are surely a thing.
 - Spells and abilities: Guidance, Death Ward (a sand cage around Muffy's heart), Erupting Earth, Abrasive Blast, Heat Metal, Sand Dervish. She has negative Charisma.
 
-**Muffy** (JustSeum)
+**[[Characters/Muffy|Muffy]]** (JustSeum)
 - A 2'5" light-haired fennec fox with bright-blue eyes and a jolly, deep, warm laugh. A photoreal painter **devoted to the Grandmaster**, and a Zealot barbarian.
 - **Gear:**
   - **Her paintbrush is her weapon**: always pristine, it cuts like a blade or is soft at her will, and she keeps it sheathed.
@@ -299,32 +299,32 @@ tags: [episode, pieces-of-a-king]
 - **Can't swim**; she thinks she nearly drowned (canon from a nat 1).
 - She carries the relay stone. Her double nat 20 saved the squad from the stampede. This is her first mission with Grimnar and Nehebka.
 
-**Dread Commander Caim** (DM). A crow Aarakocra in musketeer-ish puffy vests and pantaloons, with a rapier and a cloak in the Grandmaster's teal and violet. A knight of the domain of dread who outranks Nehebka. He would normally test her with a duel ("have at thee").
+**[[Characters/Dread Commander Caim|Dread Commander Caim]]** (DM). A crow Aarakocra in musketeer-ish puffy vests and pantaloons, with a rapier and a cloak in the Grandmaster's teal and violet. A knight of the domain of dread who outranks Nehebka. He would normally test her with a duel ("have at thee").
 
-**The elvish Dread Knight** (DM, unnamed). She admires Muffy's art and foreshadows: "we're going to need it in the coming months."
+**[[Characters/The elvish Dread Knight|The elvish Dread Knight]]** (DM, unnamed). She admires Muffy's art and foreshadows: "we're going to need it in the coming months."
 
-**Knight Commander / Dreadknight Stolas** (DM)
+**[[Characters/Knight Commander|Knight Commander / Dreadknight Stolas]]** (DM)
 - A ruffled raven Aarakocra in constellation-disc robes, with a quill from his own feathers. Almost Grimnar's height when he straightens up.
 - An eccentric diviner (stars, bones, tea leaves, cards), usually right, and a stippling artist.
 - The squad's commander. He sensed the Shadow King's power growing at the Void's edge, pointing to Dämmerung.
 
-**Zzhitopp** (DM)
+**[[Characters/Zzhitopp|Zzhitopp]]** (DM)
 - A lanky Githzerai relay master in coveralls who reads comics and builds spelljammer models.
 - He opens portals with materials, memorized coordinates and a filigree swab.
 - He wants souvenirs (no feces; three barrels so far). He mentions the goo pit.
 
-**Grym** (DM). The goblin chief of a six-goblin squad of the Rust Blood Alliance. He wears a leather coat, a gas mask and spiked boots, and uses smoke vials. "Music to my ears."
+**[[Characters/Grym|Grym]]** (DM). The goblin chief of a six-goblin squad of the Rust Blood Alliance. He wears a leather coat, a gas mask and spiked boots, and uses smoke vials. "Music to my ears."
 
-**The constructs ("metal men")**
+**[[Characters/The constructs|The constructs ("metal men")]]**
 - Hodgepodge metal simulacra of the dead with magenta eyes and no blood, serving "**the Warmind**" ("Surrender to the will of the Warmind").
 - Types seen: grunts / Warforged Soldiers; a Blade Scout with a blade arm, javelin launcher, snare trap and signal flares; two giant treaded **walkers**.
 
-**The Grandmaster and the Arbiter.** Absent: they have left the fortress to deal with "something big that could kill us all."
+**[[Characters/The Grandmaster and the Arbiter|The Grandmaster and the Arbiter.]]** Absent: they have left the fortress to deal with "something big that could kill us all."
 
-**The Shadow King.** Believed dead and "scattered across the Void," but his power may be accumulating.
+**[[Characters/The Shadow King|The Shadow King.]]** Believed dead and "scattered across the Void," but his power may be accumulating.
 
 ### Places
-- **The Dread Fortress**:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**:
   - breweries and training pits;
   - Grimnar's office and Nehebka's chamber;
   - the courtyard (with a gallery mentioned);
@@ -332,10 +332,10 @@ tags: [episode, pieces-of-a-king]
   - **Stolas's equatorial**, with its galaxy door, eye-orb doorkeeper and Void-view ceiling;
   - **the portal relay room** (five gates and an arrivals/departures board);
   - **the goo pit**, the resurrection tube or goo.
-- **The orc skull mouth and the plains of lava**, under the chaos storms.
-- **Planar veins**: tubes of force through the Void, with the Void's creatures outside them.
-- **Dämmerung**: southeastern edge of the Void, constant dusk, overcast, iron and dirt. The front line between the constructs (gear banners, brutalist structures) and the living (lavender/silver, carmine/orange banners).
-- **The Rust Blood Alliance encampment and its goblin tunnels**: an Underdark-like population of kobolds, duergar, drow and goblins.
+- **[[Places/The orc skull mouth and the plains of lava|The orc skull mouth and the plains of lava]]**, under the chaos storms.
+- **[[Places/Planar veins|Planar veins]]**: tubes of force through the Void, with the Void's creatures outside them.
+- **[[Places/Dämmerung|Dämmerung]]**: southeastern edge of the Void, constant dusk, overcast, iron and dirt. The front line between the constructs (gear banners, brutalist structures) and the living (lavender/silver, carmine/orange banners).
+- **[[Places/The Rust Blood Alliance encampment and its goblin tunnels|The Rust Blood Alliance encampment and its goblin tunnels]]**: an Underdark-like population of kobolds, duergar, drow and goblins.
 
 ### Factions
 - **Knights of the Void / the Void Domain**: the Grandmaster's rangers, who range out to find, extinguish or contain threats. Multiple squads were deployed.
@@ -344,12 +344,12 @@ tags: [episode, pieces-of-a-king]
 - **The Warmind's construct army**: a gear-and-half-gear emblem.
 
 ### Items
-- **The relay stone**: Skypiercer arrow with descending wings, concentrated chaos energy, a one-use beacon that activates the nearest gate. Muffy holds it.
-- **Muffy's brush and palette.**
-- **Nehebka's bronze scimitar.**
-- **The mustache portrait of the Grandmaster.**
-- **Zzhitopp's Conan-parody comics and bead map.**
-- **Goblin smoke vials.**
+- **[[Items/The relay stone|The relay stone]]**: Skypiercer arrow with descending wings, concentrated chaos energy, a one-use beacon that activates the nearest gate. Muffy holds it.
+- **[[Items/Muffy's brush and palette|Muffy's brush and palette.]]**
+- **[[Items/Nehebka's bronze scimitar|Nehebka's bronze scimitar.]]**
+- **[[Items/The mustache portrait of the Grandmaster|The mustache portrait of the Grandmaster.]]**
+- **[[Items/Zzhitopp's Conan-parody comics and bead map|Zzhitopp's Conan-parody comics and bead map.]]**
+- **[[Items/Goblin smoke vials|Goblin smoke vials.]]**
 
 ### Lore statements
 - Travel in or out of the Void needs a court of mages or chaos artifacts on par with the Arbiter and the Grandmaster. The Arbiter has documented cases of entering and leaving.

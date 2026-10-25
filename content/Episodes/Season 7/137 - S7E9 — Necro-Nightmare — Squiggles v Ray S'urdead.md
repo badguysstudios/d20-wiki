@@ -156,61 +156,61 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Squiggles** (RealLifeFakeWizard). A **gnome paladin**. "Pretty tall for my height," though his player says he isn't.
+**[[Characters/Squiggles|Squiggles]]** (RealLifeFakeWizard). A **gnome paladin**. "Pretty tall for my height," though his player says he isn't.
 - **Look:** a drawn-on mustache, pool floaties, wet hands, socks and shoes (mismatched socks) worn in the pool, kids' Kmart sunglasses (later two pairs), muddy brown "diarrhea" eyes.
 - **Life:** a **caretaker at a pool at a resort**. His mom named him Squiggles. He keeps a light hammer in case of krakens. **He has died about four times, eaten by krakens, and "somehow" comes back.** At his last job he was ridiculed by a monkey. He has gone through multiple therapists, can't read well without spectacles, never reads terms and conditions, has no lawyer, and watches Antiques Roadshow. Detect Thoughts reveals something terrifying, or an empty mind ("Oh, look, a penny!").
 - **Gear:** a light hammer (shrunk by Reduce and dropped), a longsword, Divine Smite, Lay on Hands, Cure Wounds, Daylight, Mage Slayer. **He robbed the Box of Chaos**: a can of spam (seen), and the **ring of spell turning**, worn as a bracelet.
 - **Wish:** the right foot of the 1999 McDonald's Inspector Gadget Happy Meal toy. The GM promises it in a package in the green screen room. The Arbiter "knows a guy."
 - Chosen by the GM, who says in Dried Blood she wasn't really cheering for him. **Winner.**
 
-**Ray S'urdead** (Teej). A **wizard and necromancer** ("raise your dead") from **a longstanding family of necromancers**, with few peers. He calls himself a humanoid.
+**[[Characters/Ray S'urdead|Ray S'urdead]]** (Teej). A **wizard and necromancer** ("raise your dead") from **a longstanding family of necromancers**, with few peers. He calls himself a humanoid.
 - **Look:** perfectly manicured nails and hair, perfect skin, a deep audiobook voice. His jacket carries jack-o'-lantern pendant-lockets. Little ghost "pixies" follow him. He carries a staff.
 - **"The physical embodiment of Halloween," "Mr. Halloween."** His Animate Dead raises only Halloween pop-culture icons.
 - **Habits:** avoids physical contact (shadow-hand handshake, silk cloth). Hints that he tastes the dead. Signed his contract in Thea's blood. The Grandmaster was visibly flustered by him.
 - **Spells used:** Dread Scarecrow (illusion), the finger-bone bullet, Animate Dead (Oogie Boogie), Reduce, False Life, shadowy eruption, Claws of Darkness, Detect Thoughts, a Curse of Incompetence, Spirit Swarm, plus the box's Fireball.
 - **Destroyed by his own reflected Spirit Swarm.** Only half a jack-o'-lantern locket was left, and the Grandmaster buried it. In Dried Blood, in character: "a real victory is achieved in death, where we all will meet again very soon."
 
-**The Oogie Boogie Man**. Raised by Ray from a grave as a zombie: a sack of worms that sings his song with the wrong lyrics and tap-dances. Daylight singed the edges of his sack. He was **crushed when the Box of Chaos landed on him**. Gerald ate one of his worms.
+**[[Characters/The Oogie Boogie Man|The Oogie Boogie Man]]**. Raised by Ray from a grave as a zombie: a sack of worms that sings his song with the wrong lyrics and tap-dances. Daylight singed the edges of his sack. He was **crushed when the Box of Chaos landed on him**. Gerald ate one of his worms.
 
-**Pixie**. An undead Chihuahua raised from a "loving Chihuahua companion" grave and fed to the Box of Chaos. Its fate is "undisclosed."
+**[[Characters/Pixie|Pixie]]**. An undead Chihuahua raised from a "loving Chihuahua companion" grave and fed to the Box of Chaos. Its fate is "undisclosed."
 
-**Thea** (Bec). Pink, about a foot high, potato-shaped, no neck.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). Pink, about a foot high, potato-shaped, no neck.
 - **Body:** she has hair and shed it in stress. **Her blood is teal and changes colour with her recent diet.** A pin was shaken out of her.
 - **What she did:** she can't read. She **ate the welcome packet and pooped out the contract**. She promised the chinchillas triple pay. She removed Claude's arms "earlier" and says she'll give them back. She mopped the piss-soaked grass.
 - **The Arbiter says he gave her "your consciousness and your existence."**
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Wears eight individually coloured ring gems and can levitate things and tear reality to move scenes.
 - **Claims "a neck thing"** that stops him looking down at "people that are beneath me." Cites HIPAA.
 - Docked Stuart's pay; threatened to give Thea's job to Claude. "Knows a guy" for Inspector Gadget parts. Digitized popcorn through the internet.
 - **Running gag: "The Arbiter stands up."**
 - Dropped the Box of Chaos "to give Ray a chance."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Keeps romance-type books hidden in a bookshelf in a back wall.** Flustered by Ray: she flushed red and wouldn't make eye contact.
 - **Offers each winner one wish.** Shared popcorn with Doug.
 - Openly begged Ray to destroy Squiggles, then claimed to have always rooted for Squiggles. Buried Ray's half-locket.
 
-**Gerald (the Box of Chaos)** (Drew). The shadowy figure that crawls from the box.
+**[[Lore/The Box of Chaos|Gerald (the Box of Chaos)]]** (Drew). The shadowy figure that crawls from the box.
 - Peckish: eats a sack-worm, then Pixie the Chihuahua, "a little fur on the teeth."
 - Granted Ray a fireball orb. Lounges on a hammock inside the box.
 - **Robbed by Squiggles, the first time anyone has stolen from the box.** Snatched back a Tome of the Stilled Tongue and gave the ring of spell turning instead. Keeps an outdated can of spam.
 
-**The chinchillas**. Fortress workers on union break, expecting overtime and then triple pay. One walks onto the field to flag a safety violation.
+**[[Lore/Chinchillas|The chinchillas]]**. Fortress workers on union break, expecting overtime and then triple pay. One walks onto the field to flag a safety violation.
 
-**Stuart**. Pranked the Arbiter on "October 11th" and had all his pay docked, or took "a pay cut." Unidentified.
+**[[Characters/Stuart|Stuart]]**. Pranked the Arbiter on "October 11th" and had all his pay docked, or took "a pay cut." Unidentified.
 
-**Claude**. Someone Thea calls incompetent, whose arms she removed. Unidentified.
+**[[Characters/Claude|Claude]]**. Someone Thea calls incompetent, whose arms she removed. Unidentified.
 
-**Doug**. Present for popcorn after the break.
+**[[Characters/Doug the Pug|Doug]]**. Present for popcorn after the break.
 
 **Acolytes named in the bladder event:** Gator, August, GF Powers (failed) and Kruega (nat 20, fortified blue slushie). These are chat names.
 
 ### Places
-- **The Dread Fortress front door**: heavy wood bound in metal, "quite a few levels up" from the dungeons.
-- **The throne room** (Dread Fortress, from context).
-- **The graveyard arena**: over 100 graves within 120 ft, a large mausoleum, a full moon, then an artificial sun from Daylight. The graves act as portals to bodies "from anywhere." A tiny mound holds Ray's buried half-locket.
-- **The green screen room**, where Squiggles' prize package is to be opened.
+- **[[Places/The Dread Fortress front door|The Dread Fortress front door]]**: heavy wood bound in metal, "quite a few levels up" from the dungeons.
+- **[[Places/Throne Room (Dread Fortress)|The throne room]]** (Dread Fortress, from context).
+- **[[Places/The graveyard arena|The graveyard arena]]**: over 100 graves within 120 ft, a large mausoleum, a full moon, then an artificial sun from Daylight. The graves act as portals to bodies "from anywhere." A tiny mound holds Ray's buried half-locket.
+- **[[Places/The green screen room|The green screen room]]**, where Squiggles' prize package is to be opened.
 - The resort pool where Squiggles works; it has krakens (Dried Blood: a Mexican resort).
 
 ### Items

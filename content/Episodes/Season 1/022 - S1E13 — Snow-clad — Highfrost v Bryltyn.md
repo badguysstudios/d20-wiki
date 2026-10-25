@@ -138,7 +138,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Highfrost** (BDTeej). A **warlock "from the north"** who wears a **kilt** and speaks with a northern/Scots accent ("laddie," "wee," "me uncle").
+**[[Characters/Highfrost|Highfrost]]** (BDTeej). A **warlock "from the north"** who wears a **kilt** and speaks with a northern/Scots accent ("laddie," "wee," "me uncle").
 - **Spells:** Eldritch Blast (three beams), Ray of Frost, Frostbite, Hex. Has Spell Sniper. Ice magic is what makes "a real warlock."
 - **Family:** his family came from the abandoned fishing village. **His uncle lived there and built the roof Bryltyn tore off; one house was his grandpappy's.** His grandpappy "could drink with the fishes," was "a monster… not in a bad way," and said "sticks and stones… words hurt the insides." **His family has been dead "for ages."**
 - **Possibly a Warforged (inferred).** Lines it rests on:
@@ -149,48 +149,48 @@ tags: [episode, season-1]
 - **Personality:** loves ducks and believes in **duck independence**. Keeps bread in a magical leather hide satchel under his kilt. Plays the bagpipe, badly. Writes his name in piss on walls. Claims the Arbiter was in his math class.
 - **In this episode:** killed by Bryltyn on the docks. Last act: a kilt flash for Bryltyn's mother.
 
-**Bryltyn** (Ahnubyss). "Just a warrior. There are none like me." **Insists other champions who look like him were fakes or clones.**
+**[[Characters/Bryltyn|Bryltyn]]** (Ahnubyss). "Just a warrior. There are none like me." **Insists other champions who look like him were fakes or clones.**
 - **Bear totem barbarian.** While raging he resists all damage but psychic. He screams when he rages.
 - **Weapons:** wields two handaxes; **one broke on Highfrost's chest.**
 - **Claims he killed everyone in Highfrost's family village.**
 - **His mother came up:** he briefly feared Highfrost was his father. Says "we don't feed the ducks" and doesn't know the word "friends."
 - **In this episode:** refused the GM's potion "carrot." Won after surviving the tag explosion, and was flown to his fans by the Grandmaster.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Clone paranoia.** Practices secret handshakes with goblins and sets one up with the Arbiter (shake, two-finger guns ×3, spin right-to-left; a left spin means clone, kill on sight).
 - **Domestic life:** watches TLC to fix the Fortress. Enforces a no-MLM workplace policy.
-- **Doug:** sits next to her dog Doug in the sky. Doug rolls at round ends and gets "cookie time."
+- **[[Characters/Doug the Pug|Doug:]]** sits next to her dog Doug in the sky. Doug rolls at round ends and gets "cookie time."
 - **In this episode:** started the game of tag. Took psychic damage from Highfrost's bagpipe and banished "that horrid music" from her halls. Remembers Timothy the mayor.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Opens portals; this time through a sewage whirlpool.
 - **Says he went to high school with Highfrost**, was "fatter, like a lot," and **sells scented candles via a Facebook group (an MLM).**
 - **Is forming an anti-cloning task force / "clone committee."**
 - Bets on the deathmatches (per narration). Has a strict no-up-kilt policy. "We bought" the Fortress, a fixer-upper.
 
-**Doug**. The Grandmaster's dog. He sits beside her seat in the sky and rolls the round-end d20 with the Arbiter. The GM calls him "the goodest boy."
+**[[Characters/Doug the Pug|Doug]]**. The Grandmaster's dog. He sits beside her seat in the sky and rolls the round-end d20 with the Arbiter. The GM calls him "the goodest boy."
 
-**The goblins**. The Grandmaster was going through handshakes with "two lines of goblins" at the start.
+**[[Characters/Goblins|The goblins]]**. The Grandmaster was going through handshakes with "two lines of goblins" at the start.
 
-**Timothy**. A town mayor killed in a previous game of tag in the arena, "a hero to his people." The GM keeps his picture.
+**[[Characters/Timothy|Timothy]]**. A town mayor killed in a previous game of tag in the arena, "a hero to his people." The GM keeps his picture.
 
-**Mama Duck and her seven ducklings**. They missed the flight south and sheltered in the village. **The white-and-brown-flecked straggler was briefly tagged** and gave Highfrost a feather (+2 AC). Mama Duck landed on Bryltyn's shoulder while the babies pecked him.
+**[[Characters/Mama Duck and her seven ducklings|Mama Duck and her seven ducklings]]**. They missed the flight south and sheltered in the village. **The white-and-brown-flecked straggler was briefly tagged** and gave Highfrost a feather (+2 AC). Mama Duck landed on Bryltyn's shoulder while the babies pecked him.
 
 ### Places
-- **The Dread Fortress (the Grandmaster's halls)**: crumbling, leaking, and flooded with sewage from burst pipes. An "old building."
-- **The abandoned fishing village / winter dock "in the north"**: Highfrost's family's home.
+- **[[Places/The Dread Fortress (the Grandmaster's halls)|The Dread Fortress (the Grandmaster's halls)]]**: crumbling, leaking, and flooded with sewage from burst pipes. An "old building."
+- **[[Places/The abandoned fishing village|The abandoned fishing village / winter dock "in the north"]]**: Highfrost's family's home.
   - Snow, hidden ice, and 15 ft buildings (some two-story) reinforced by ice.
   - A shack, a tiered stall, clay-shingled roofs, a sheet-metal roof, old ale barrels, a little ship and a fence.
   - A snowy mountain above the town (the avalanche) and docks on a frozen ocean.
 
 ### Items
-- **The family ale barrels**: badly fermented, with a film.
-- **The misty-step crystal**: single use, drunk like a potion, tastes of Listerine.
-- **The tag mark**: red T-A-G on the palm; whoever holds it at the end of three turns is hurt when it bursts.
-- **The duckling's feather** (+2 AC).
-- **Highfrost's leather hide satchel of bread** (the hide is "from something very magical") and his **bagpipe**.
-- **Bryltyn's handaxes** (one broken).
-- **The Arbiter's scented candles.**
+- **[[Items/The family ale barrels|The family ale barrels]]**: badly fermented, with a film.
+- **[[Items/The misty-step crystal|The misty-step crystal]]**: single use, drunk like a potion, tastes of Listerine.
+- **[[Items/The tag mark|The tag mark]]**: red T-A-G on the palm; whoever holds it at the end of three turns is hurt when it bursts.
+- **[[Items/The duckling's feather|The duckling's feather]]** (+2 AC).
+- **[[Items/Highfrost's leather hide satchel of bread|Highfrost's leather hide satchel of bread]]** (the hide is "from something very magical") and his **bagpipe**.
+- **[[Items/Bryltyn's handaxes|Bryltyn's handaxes]]** (one broken).
+- **[[Items/The Arbiter's scented candles|The Arbiter's scented candles.]]**
 
 ### Lore statements
 - **Some Acolytes are children.** They come in winter gear with spiked cocoa and pay "a lot of money" for tickets.

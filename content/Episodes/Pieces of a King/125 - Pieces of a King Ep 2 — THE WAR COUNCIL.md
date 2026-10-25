@@ -403,66 +403,66 @@ tags: [episode, pieces-of-a-king]
 
 ## Who and what appears
 ### Characters
-**Grimnar** (Drew)
+**[[Characters/Grimnar|Grimnar]]** (Drew)
 - A bear-like Void Knight of the Dread Fortress, about 20 years in its service, with burned fingers.
 - A devotee of chaos ("the wheel of chaos"; Nehebka calls him "the acolyte of chaos"). He holds that chaos is not evil: "It can be wielded… trying to hold on to too much will lead to ruin."
 - **Can mimic others' abilities**: he copied Nehebka's tremorsense and the Physician's magic resistance. He senses chaos visions and crackles with chaos lightning.
 - Whittles figurines; carved David. Eats whole fish. Took a sandy finger and sandy rum without hesitation.
 
-**Nehebka** (CriticalBard)
+**[[Characters/Nehebka|Nehebka]]** (CriticalBard)
 - A sand being: "She is the sand, the sand is she." Has tremorsense (30 ft) that detects heartbeats.
 - Rituals with an ankh in sand; prays to and serves **the God-King, "the dark Lord she originally served"** (pyramids, sarcophagi, desert). "In her mind, she still serves one person only."
 - "I was not created to eat. I was created to protect." A guardian; meditates rather than sleeps.
 - Turns sand into glass and sculpts; casts wall of stone from sand; leaves a glass fingerprint when casting guidance.
 - Commander Kaim interrupts her meditations (DM's improvised image).
 
-**Muffy** (JustSeum)
+**[[Characters/Muffy|Muffy]]** (JustSeum)
 - A small fennec-fox creature with large ears; can stretch about three inches taller on her hind legs.
 - A painter ("I paint there") who reveals images with a dry brush on the one sheet she always carries.
 - Carries a "call to home" on her back. Ran Cabals and Krakens badly. Her mother "just called me Muffy."
 
-**Trissavin (Triss) Baenerret**: drow war mistress of the drow conclave on Dämmerung and leader of the council. About 6'2", in black plate with silver filigree. Stoic, desperate (per the Physician). Has worked with Gund since the war began.
+**[[Characters/Trissavin (Triss) Baenerret|Trissavin (Triss) Baenerret]]**: drow war mistress of the drow conclave on Dämmerung and leader of the council. About 6'2", in black plate with silver filigree. Stoic, desperate (per the Physician). Has worked with Gund since the war began.
 
-**Gund Ashbrow**: duergar chief artillerist of the Rust Blood Alliance. Spiral-braided beard, hammer. Leads the angel-weapon project. Calls illithids "the squid"; hates sand.
+**[[Characters/Gund Ashbrow|Gund Ashbrow]]**: duergar chief artillerist of the Rust Blood Alliance. Spiral-braided beard, hammer. Leads the angel-weapon project. Calls illithids "the squid"; hates sand.
 
-**Grim**: goblin leader of the Redcaps (red berets, gas masks). Rescue and commando work. He found the party and vouched for them.
+**[[Characters/Grim|Grim]]**: goblin leader of the Redcaps (red berets, gas masks). Rescue and commando work. He found the party and vouched for them.
 
-**The Physician**: an illithid, "one of the last of my kind," who leads the Nightingales. He wears a mechanical plague-doctor-like gas mask and a bloody surgical apron with blades and a wand. Mind-read Nehebka and was rebuffed by the God-King.
+**[[Characters/The Physician|The Physician]]**: an illithid, "one of the last of my kind," who leads the Nightingales. He wears a mechanical plague-doctor-like gas mask and a bloody surgical apron with blades and a wand. Mind-read Nehebka and was rebuffed by the God-King.
 
-**The Nightingales**: four white-masked, veiled medics. Each night they destroy the Alliance's fallen, brains and bodies, so the Warmind can't take them ("counting corpses").
+**[[Characters/The Nightingales|The Nightingales]]**: four white-masked, veiled medics. Each night they destroy the Alliance's fallen, brains and bodies, so the Warmind can't take them ("counting corpses").
 
-**Calvin**: hobgoblin of the 23rd Madcaps, with a high-and-tight haircut. Subject of Nehebka's glass sculpture and Muffy's planned "Calvin the Hobbs" comic.
+**[[Characters/Calvin|Calvin]]**: hobgoblin of the 23rd Madcaps, with a high-and-tight haircut. Subject of Nehebka's glass sculpture and Muffy's planned "Calvin the Hobbs" comic.
 
-**The 34th Deep Divers**: Kuo-Toa tunnelling squad, seven at the start and fewer now. They worship the "Changebringer"/"flux bringer" (chaos, "many names"). Salute is two chest slaps and a gargle. They adopted the party as the "35th."
+**[[Characters/The 34th Deep Divers|The 34th Deep Divers]]**: Kuo-Toa tunnelling squad, seven at the start and fewer now. They worship the "Changebringer"/"flux bringer" (chaos, "many names"). Salute is two chest slaps and a gargle. They adopted the party as the "35th."
 
-**Unnamed NPCs**
+**[[Characters/Unnamed NPCs|Unnamed NPCs]]**
 - The bugbear chef: never heard of the Grandmaster; a Deathmatch recruitment target.
 - The young hobgoblin mail courier: asked for help with the camouflage wards.
 - The drow guards.
 
-**The two strangers**: in blues and grays, chain mail, heavy hoods, longswords and one shield. They claimed to be an advanced scouting party, knew about chaos, and headed through the Blastlands to the mountain. Nehebka believes they are aligned with the Shadow King.
+**[[Characters/The two strangers|The two strangers]]**: in blues and grays, chain mail, heavy hoods, longswords and one shield. They claimed to be an advanced scouting party, knew about chaos, and headed through the Blastlands to the mountain. Nehebka believes they are aligned with the Shadow King.
 
-**The man in the slate blue tunic**: an unnamed figure in a twilight castle realm who knows the Box of Chaos history and dreads the scattered power.
+**[[Characters/The man in the slate blue tunic|The man in the slate blue tunic]]**: an unnamed figure in a twilight castle realm who knows the Box of Chaos history and dreads the scattered power.
 
-**The God-King**: Nehebka's deity. Answers via breath and desert sun.
+**[[Characters/The God-King|The God-King]]**: Nehebka's deity. Answers via breath and desert sun.
 
-**The Warmind**: an elder brain built by the illithids with the coalition, literally from the peoples' own contributions. It turned on its makers, grew from the black star, blocks communication and travel, and builds Warforged and Titans.
+**[[Characters/The Warmind|The Warmind]]**: an elder brain built by the illithids with the coalition, literally from the peoples' own contributions. It turned on its makers, grew from the black star, blocks communication and travel, and builds Warforged and Titans.
 
 **Mentioned**: Stolas (gave the mission); Elusia Skypiercer ("ruler of all of us"); the Shadow King.
 
 ### Places
-- **Dämmerung**: the war world. The Underdark peoples fled to its surface.
-- **Rust Blood Alliance war camp**: bell tent, barracks (ten cots), mess hall, watchtowers, camouflage wards.
-- **The Blastlands**.
-- **The mountain, about two days south**: the Warmind's lair, with a crevice entrance about 25% up and a pulsing chaos orb.
-- **The city with "the gate"**: if the Warmind reaches it, "it could spread everywhere."
-- **The twilight castle realm**: shadowed sun, perpetual twilight.
-- **The Underdark**: dwarven bastion cities, drow conclaves, goblin warrens, kobold dens.
+- **[[Places/Dämmerung|Dämmerung]]**: the war world. The Underdark peoples fled to its surface.
+- **[[Places/Rust Blood Alliance war camp|Rust Blood Alliance war camp]]**: bell tent, barracks (ten cots), mess hall, watchtowers, camouflage wards.
+- **[[Places/The Blastlands|The Blastlands]]**.
+- **[[Places/The mountain, about two days south|The mountain, about two days south]]**: the Warmind's lair, with a crevice entrance about 25% up and a pulsing chaos orb.
+- **[[Places/The city with the gate|The city with "the gate"]]**: if the Warmind reaches it, "it could spread everywhere."
+- **[[Places/The twilight castle realm|The twilight castle realm]]**: shadowed sun, perpetual twilight.
+- **[[Places/The Underdark|The Underdark]]**: dwarven bastion cities, drow conclaves, goblin warrens, kobold dens.
 - The Dread Fortress (mentioned).
 
 ### Items
-- **The black star**: a metacarpal-sized finger bone of perfect black glass that "pulls you in," given to the Warmind.
-- **The angel corpse and Gund's "armament"** (the "divine bomb").
+- **[[Items/The black star|The black star]]**: a metacarpal-sized finger bone of perfect black glass that "pulls you in," given to the Warmind.
+- **[[Items/The angel corpse and Gund's armament|The angel corpse and Gund's "armament"]]** (the "divine bomb").
 - Crystal-tipped J-shaped staves and wands.
 - Muffy's ever-same sheet of paper and dry brush; her "call to home."
 - Grimnar's wooden David; Nehebka's glass Calvin.

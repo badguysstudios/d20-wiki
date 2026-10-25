@@ -13,6 +13,8 @@ Welcome, Acolyte. This is the fan wiki for **D20 Deathmatch**, the live D&D aren
 - [[Thea]], [[Doug the Pug]], [[The Box of Chaos]], [[Stuart]] and [[Claude]]: the staff (and the pets)
 - [[Seasons and Timeline]]: every season and story arc in order
 - [[Match Results]]: every episode, its champions and who survived
+- [[Champions]]: every champion, with a page for each
+- Browse the sidebar for **Characters**, **Places**, **Items** and **Groups**: every one named on the show has a page
 
 ## Story arcs
 - [[Skypiercer]]: the prequel, how Elusia became Grandmaster

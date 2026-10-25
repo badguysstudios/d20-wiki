@@ -42,23 +42,23 @@ tags: [episode, playtests]
 28. **2:30:39 — Atlas crowned winner of Reaper's Rock.** The Grandmaster raises a small mountain under him: "You have true heart that no flesh and blood could ever mimic." She **sends him back home** "that you may fulfill the charge that has been granted to you. To bring justice. To offer protection where it is needed," promising to bring him back for "a true fight. That you may also kiss death." The crowd chants "Atlas!" until some faint. Atlas says nothing, kneels and shoulders his orb of light with her face in it.
 
 ## Who and what appears
-**Atlas.** Warforged built by a monastery of priests to defend "the bulwark of justice." Abjuration engine (arcane ward), shield master, longsword, a siege engine on his back; casts spells (steel wind strike, tidal wave, mold earth, passwall, disintegrate, Tenser's transformation, channel divinity Rebuke Violence). Speaks of himself in the third person: **"Atlas is unbreakable."** Signature pose honoring the Grandmaster with an orb of light bearing her face. Summons **Halifax**. A tiny engraving somewhere on him reads "Nokia" (player joke, 1:56:18). Winner of Reaper's Rock; sent home to fulfill his charge; promised a return.
+**[[Characters/Atlas|Atlas.]]** Warforged built by a monastery of priests to defend "the bulwark of justice." Abjuration engine (arcane ward), shield master, longsword, a siege engine on his back; casts spells (steel wind strike, tidal wave, mold earth, passwall, disintegrate, Tenser's transformation, channel divinity Rebuke Violence). Speaks of himself in the third person: **"Atlas is unbreakable."** Signature pose honoring the Grandmaster with an orb of light bearing her face. Summons **Halifax**. A tiny engraving somewhere on him reads "Nokia" (player joke, 1:56:18). Winner of Reaper's Rock; sent home to fulfill his charge; promised a return.
 
-**Halifax.** Atlas's horse of crackling lightning. Thrown by Bromir, elbow-dropped, got its tongue stuck to a frozen wall, reabsorbed into Atlas.
+**[[Characters/Halifax|Halifax.]]** Atlas's horse of crackling lightning. Thrown by Bromir, elbow-dropped, got its tongue stuck to a frozen wall, reabsorbed into Atlas.
 
-**Bromir.** Champion with boulder fists ("Bromir's Boulder Fists"), wrestler persona ("brother," "Oh yeah!," "the smackdown"), fighter with sorcery (enlarge, jump, thunderwave). Has a **boyfriend**. Mentions "Mama's Playland." Resistant to cold. Grew twice the size by the Grandmaster's gift, then asked to return to normal to fight fair. Fell into the abyss in a self-sacrifice that killed the ice elemental. **Secretly taken by the Arbiter: "I still have a use for you."** (One of the Arbiter's secret revivals, per DM_NOTES.)
+**[[Characters/Bromir|Bromir.]]** Champion with boulder fists ("Bromir's Boulder Fists"), wrestler persona ("brother," "Oh yeah!," "the smackdown"), fighter with sorcery (enlarge, jump, thunderwave). Has a **boyfriend**. Mentions "Mama's Playland." Resistant to cold. Grew twice the size by the Grandmaster's gift, then asked to return to normal to fight fair. Fell into the abyss in a self-sacrifice that killed the ice elemental. **Secretly taken by the Arbiter: "I still have a use for you."** (One of the Arbiter's secret revivals, per DM_NOTES.)
 
-**The Grandmaster.** Wings that glow purple; jeweled hands; grants Bless, potions, growth and the end of the blizzard; values honor and sportsmanship. Threatens to replace the Arbiter.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster.]]** Wings that glow purple; jeweled hands; grants Bless, potions, growth and the end of the blizzard; values honor and sportsmanship. Threatens to replace the Arbiter.
 
-**The Arbiter.** Musical hobby (the anthem); poor dice; rolls his eyes behind her back; designs the fused ice elemental; **secretly takes the fallen Bromir**.
+**[[Characters/The Arbiter|The Arbiter.]]** Musical hobby (the anthem); poor dice; rolls his eyes behind her back; designs the fused ice elemental; **secretly takes the fallen Bromir**.
 
-**The ice elemental.** A fusion of water and air elementals with two spinning faces. Destroyed.
+**[[Characters/The ice elemental|The ice elemental.]]** A fusion of water and air elementals with two spinning faces. Destroyed.
 
-**The dead miners.** Died in the rock slide area earlier; one left a healing potion.
+**[[Characters/The dead miners|The dead miners.]]** Died in the rock slide area earlier; one left a healing potion.
 
 ### Places
-- **Reaper's Rock**: a frozen, snowy mountainside arena; a precipice, a ladder, three braziers, a rock wall, a bottomless chasm under a snow bridge, remains of miners. (Probably the same place as Kirken's Mine from S1E4, per Drew; no mine is named here.)
-- **The abyss** under Reaper's Rock: Bromir falls past "galaxies and stars."
+- **[[Places/Reaper's Rock|Reaper's Rock]]**: a frozen, snowy mountainside arena; a precipice, a ladder, three braziers, a rock wall, a bottomless chasm under a snow bridge, remains of miners. (Probably the same place as Kirken's Mine from S1E4, per Drew; no mine is named here.)
+- **[[Places/The abyss|The abyss]]** under Reaper's Rock: Bromir falls past "galaxies and stars."
 
 ### Show details
 - The anthem has words ("Blood!"); the Arbiter performs it; champions salute.

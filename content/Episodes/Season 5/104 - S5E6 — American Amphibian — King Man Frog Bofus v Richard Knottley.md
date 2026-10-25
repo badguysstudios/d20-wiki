@@ -124,7 +124,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**King "Man Frog" Bofus** (guest, unnamed in metadata).
+**[[Characters/King Man Frog Bofus|King "Man Frog" Bofus]]** (guest, unnamed in metadata).
 - Self-described "King of the frog people, man people frogs. 50% man, 50% frog, and 100%… something else." He is British.
 - Wears a green frog mask with hand-drawn cartoon eyes and a fake crown of yellow fabric sewn to it. The mask deflates as he pulls frogs from under it.
 - Long tape-measure tongue. Skittle-colored frogs live under the mask ("my froggy brethren"). Keeps cheeseburgers in his boots.
@@ -135,7 +135,7 @@ tags: [episode, season-5]
 - From the Box of Chaos he got a screaming vial (swap bloodlust and instinct); he kept it unused.
 - Gained more fighting spirit than Thea thinks anyone has ever had. Appears to die on the final tie (inferred).
 
-**Richard Knottley, "Dick Twist"** (guest, unnamed in metadata).
+**[[Characters/Richard Knottley|Richard Knottley, "Dick Twist"]]** (guest, unnamed in metadata).
 - Former Peloton instructor, banned from a couple of counties, from Denny's (where the Peloton instructors meet with non-stationary bikes) and from Zumba; "the IHOP saw me coming."
 - Online name Dick Twist, after his dance (also his signature move).
 - Wears a tinfoil hat (against Wi-Fi radiation), sunglasses, fake mustaches (he carries spares), American flag pants, later a fake beard and reading glasses.
@@ -146,7 +146,7 @@ tags: [episode, season-5]
 - Rejected the blue pill ("I only take red pills"). Wore the Arbiter's blue ring wrapped in a mustache.
 - Died of a "coronary"/"pulmonary" after his Peloton lightning heroic surge. Left a dead man's switch recording.
 
-**Thea** (Bec). An imp, formerly "a virginal worm."
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). An imp, formerly "a virginal worm."
 - The Lord of Fate made her an imp and gave her a bedroom. He calls her a 1099 independent contractor with no PTO. She got a 1099-NEC, with the acolytes helping her with the paperwork.
 - Has stars carved into her forehead by the Lord of Fate (she claims seven). Still missing her thumb.
 - Opens portals by farting (pink dust, purple glitter; a whale-sized portal smelling of Oreos, burritos and nacho cheese).
@@ -154,38 +154,38 @@ tags: [episode, season-5]
 - Planned PTO for February. Briefly declared herself "a people" and ate nine hot dogs. Has a notebook ("Get more eyes").
 - Was thrown as a javelin and caught by a frog tongue.
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Watches protesters from windows and breathes heavily. Insists watching people "is my job."
 - Admits he forgot the Deathmatch day.
 - Has white wings. Twists Thea into a pretzel with a snap.
 - Works out in private, avoiding the Fortress gym. Wants a microphone "because I have some thoughts."
 - The blue ring from the Box of Chaos "once belonged to the Arbiter, aka the Lord of Fate"; he has been looking for it and wants it back.
 
-**The Grandmaster**: not present. Imprisoned by the Lord of Fate "at the very start of the season"; protesters' signs are about her. Thea: "everybody wants the Grandmaster back."
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**: not present. Imprisoned by the Lord of Fate "at the very start of the season"; protesters' signs are about her. Thea: "everybody wants the Grandmaster back."
 
-**The Box of Chaos's shadowy figure** (voiced by Drew): yellow eyes, claws out over the lid, chomps a sacrificed frog like a shark. Critiques Richard's beard.
+**[[Characters/The Box of Chaos's shadowy figure|The Box of Chaos's shadowy figure]]** (voiced by Drew): yellow eyes, claws out over the lid, chomps a sacrificed frog like a shark. Critiques Richard's beard.
 
-**Bully ghost**: a white wisp, one of many who died in the Crimson Keep. It made both champions hit themselves.
+**[[Characters/Bully ghost|Bully ghost]]**: a white wisp, one of many who died in the Crimson Keep. It made both champions hit themselves.
 
-**Chinchillas**: Dread Fortress security, "highly unionized," work out in the gym with the goblins. "The chinchillas work for me" (the Lord of Fate).
+**[[Lore/Chinchillas|Chinchillas]]**: Dread Fortress security, "highly unionized," work out in the gym with the goblins. "The chinchillas work for me" (the Lord of Fate).
 
-**Goblins**: Dread Fortress staff, "getting a little fat"; they ran out a tiny curtain for Richard's mustache change.
+**[[Characters/Goblins|Goblins]]**: Dread Fortress staff, "getting a little fat"; they ran out a tiny curtain for Richard's mustache change.
 
-**Cricket**: Richard's financial advisor (an old guy in Montana); off-screen.
+**[[Characters/Cricket|Cricket]]**: Richard's financial advisor (an old guy in Montana); off-screen.
 
-**Acolytes**: protesting outside the Fortress; called taxpayers. One was tossed from the stands and splatted.
+**[[Lore/The Acolytes|Acolytes]]**: protesting outside the Fortress; called taxpayers. One was tossed from the stands and splatted.
 
 ### Places
-- **The Dread Fortress**: protesters outside; a gym (weights, no Pelotons); Thea's bedroom; a back locker room.
-- **The Crimson Keep**: a dilapidated crimson vampire castle, dark, with bats waiting for sundown and a cold wind on top of the keep. It's a wedding venue, rented cheap because "people keep dying here." It is haunted by many ghosts, most friendly.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: protesters outside; a gym (weights, no Pelotons); Thea's bedroom; a back locker room.
+- **[[Places/The Crimson Keep|The Crimson Keep]]**: a dilapidated crimson vampire castle, dark, with bats waiting for sundown and a cold wind on top of the keep. It's a wedding venue, rented cheap because "people keep dying here." It is haunted by many ghosts, most friendly.
 - Denny's and IHOP (Richard's backstory; real-world).
 
 ### Items
 - The half-eaten Snickers; cheeseburgers / double quarter pounders; Double Sun Cola.
 - Richard's Peloton bike (only one wheel spins), tinfoil hat, fake mustaches, beard, American flag pants.
-- **The blue pill** (raises the fatigue limit to six; a suppository), returned to the box.
-- **The Arbiter's blue ring** (master of time and space for one round, disadvantage on the foe), now wrapped in a mustache.
-- **The screaming vial of black ethereal liquid** (swap bloodlust and instinct for one round), held by Bofus.
+- **[[Items/The blue pill|The blue pill]]** (raises the fatigue limit to six; a suppository), returned to the box.
+- **[[Items/The Arbiter's blue ring|The Arbiter's blue ring]]** (master of time and space for one round, disadvantage on the foe), now wrapped in a mustache.
+- **[[Items/The screaming vial of black ethereal liquid|The screaming vial of black ethereal liquid]]** (swap bloodlust and instinct for one round), held by Bofus.
 - Richard's sweaty Peloton item, sacrificed to the box (unnamed).
 - Bofus's fabric crown and frog mask.
 - Anti-tuna juice ($37.99), advertised posthumously.

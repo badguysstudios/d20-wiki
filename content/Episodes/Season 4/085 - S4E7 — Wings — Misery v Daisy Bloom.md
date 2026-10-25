@@ -142,7 +142,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Misery** (DeeEmSteve). A fighter, "a good, even six foot," who calls himself "the embodiment of misery and pain and stuff."
+**[[Characters/Misery|Misery]]** (DeeEmSteve). A fighter, "a good, even six foot," who calls himself "the embodiment of misery and pain and stuff."
 - **Cries constantly.** His tears gather sand into little sandcastles at his feet.
 - Butterflies follow him and are part of his imagery: he crushes a black butterfly, Janet dissolves into butterflies, and butterflies meld into his sword.
 - "No longer experience[s] any joy from food or drink"; "Misery doesn't like anything." He calls poetry a waste of his skills.
@@ -157,7 +157,7 @@ tags: [episode, season-4]
 - **He had a prior "promise"/"deal" with the Shadow King** (0:14:10, 1:41:54).
 - **After winning, he asked to swap places with "him":** "Put me in the ground and give him a life." The Shadow King sealed Misery in a stone coffin underground. Misery smiled for the first time in years.
 
-**Daisy Bloom, Beacon of Village Town** (TAYvanbiljon). A paladin ("Captain Paladin," per Bec) in plate.
+**[[Characters/Daisy Bloom|Daisy Bloom, Beacon of Village Town]]** (TAYvanbiljon). A paladin ("Captain Paladin," per Bec) in plate.
 - **Gear and abilities:** two warhammers (Two-Weapon Fighting), a javelin, three lanterns and a glow stick. She casts Find Steed and Sanctuary, has "stupid protection spells" but no healing, speaks Primordial, and animal handling is her dump stat. She has a "mysterious patron."
 - **Lore and personality:**
   - Her makeup "is not makeup"; she was "born this way."
@@ -171,16 +171,16 @@ tags: [episode, season-4]
 - **Transformation:** cast Find Steed inside herself and became 12% moth (moth on top, human legs).
 - Thigh-choked Misery. Decapitated by Misery's vorpal crit.
 
-**Janet** (voiced by Bec). A glowing, mid-sized moth summoned by Find Steed, with a harness. She told Daisy her name, carried her 6–7 inches off the ground and winked at her ("You be you"). **Cut apart by Misery. She dissolved into black and white butterflies and dust, which the Acolytes breathed in: "We are all Janet."** Once called "Jaina."
+**[[Characters/Janet|Janet]]** (voiced by Bec). A glowing, mid-sized moth summoned by Find Steed, with a harness. She told Daisy her name, carried her 6–7 inches off the ground and winked at her ("You be you"). **Cut apart by Misery. She dissolved into black and white butterflies and dust, which the Acolytes breathed in: "We are all Janet."** Once called "Jaina."
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - Rules from the Dread Fortress throne room ("my throne room"). Smokes ribs low and slow with Kansas City sweet sauce. Goblins serve him.
 - "I might have killed your friend and taken over… your throne and your empire, but I'm not a monster."
 - Killed Acolyte Forty and fed his soul to the Box of Chaos. Raised the sand tornado.
 - Honored Misery's deal with the stone-coffin burial.
 - Claims nobody has seen him and Criss Angel in the same place.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Brings champions by cutting her hand/forearm with her amulet to open a blood portal** ("pour down quite easily at this point").
 - Hates vinegar and mustard barbecue sauces. Says she and the Shadow King are "still somewhat related." Can't drink one liter of 7-Up.
 - Prefers wine to "human beans."
@@ -188,24 +188,24 @@ tags: [episode, season-4]
 - Ran the dodgeball event. Rules the arena "strictly David Copperfield only."
 - "Shadow King just put that one in my pocket" (unclear).
 
-**Forty / "40 man"**. An Acolyte (chat member) who brought a box with a hole cut in it, which held his own genitals. The Shadow King killed him with a shadow blade and put his black soul in the Box of Chaos. His body was left on the field.
+**[[Characters/Forty|Forty / "40 man"]]**. An Acolyte (chat member) who brought a box with a hole cut in it, which held his own genitals. The Shadow King killed him with a shadow blade and put his black soul in the Box of Chaos. His body was left on the field.
 
-**Souls in the Box of Chaos:** Gator, Blissful, Vegeta and Scribd (named by Bec; "they're all adults… just souls"). **A creature with two yellow eyes and a clawed hand** is inside the Box.
+**[[Characters/Souls in the Box of Chaos|Souls in the Box of Chaos:]]** Gator, Blissful, Vegeta and Scribd (named by Bec; "they're all adults… just souls"). **A creature with two yellow eyes and a clawed hand** is inside the Box.
 
 **"Him"**: the friend Misery asked to be given life in his place ("He was always better than me. He was everything to me."). It isn't shown whether he was brought back.
 
 ### Places
-- **Dread Fortress**, amid rumbling volcanoes. **The throne room** (now the Shadow King's) has a grill. **A full floor of the fortress is a kitchen.** There is a hallway leading to the throne room.
-- **The excavation arena**: abandoned, dusty sand with low (5 ft) walls. People dug until "they found something that they really shouldn't have dug up." It has a tiny cactus garden with pink and yellow blooms. It's one of Elusia's "favorite escapes." Acolytes float above it.
-- **Village Town**, Daisy's home.
+- **[[Places/The Dread Fortress|Dread Fortress]]**, amid rumbling volcanoes. **The throne room** (now the Shadow King's) has a grill. **A full floor of the fortress is a kitchen.** There is a hallway leading to the throne room.
+- **[[Places/The excavation arena|The excavation arena]]**: abandoned, dusty sand with low (5 ft) walls. People dug until "they found something that they really shouldn't have dug up." It has a tiny cactus garden with pink and yellow blooms. It's one of Elusia's "favorite escapes." Acolytes float above it.
+- **[[Places/Village Town|Village Town]]**, Daisy's home.
 
 ### Items
 - Elusia's amulet (opens portals with her blood).
 - Ribs (the goblins' cooler), with Kansas City sweet sauce.
 - Light-up name-brand Heelys, one pair each.
 - Deep-fried moth nachos sold to the Acolytes.
-- **Box of Chaos**: falls from the sky when the Shadow King snaps. It's fed with souls and erupts in heatless pink/yellow fire. Any sacrifice, used as a free action, may yield a magic item.
-- **Misery's Vorpal Greatsword (void blade).**
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: falls from the sky when the Shadow King snaps. It's fed with souls and erupts in heatless pink/yellow fire. Any sacrifice, used as a free action, may yield a magic item.
+- **[[Items/Misery's Vorpal Greatsword (void blade)|Misery's Vorpal Greatsword (void blade).]]**
 - Forty's box with a hole.
 
 ### Lore statements

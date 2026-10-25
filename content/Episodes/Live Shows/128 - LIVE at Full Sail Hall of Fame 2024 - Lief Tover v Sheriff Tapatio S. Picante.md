@@ -131,7 +131,7 @@ tags: [episode, live-shows]
 
 ## Who and what appears
 ### Characters
-**Lief Tover** (guest; creator not confirmed). The "Trash Man," called "Trash Viking" by the Sheriff.
+**[[Characters/Lief Tover|Lief Tover]]** (guest; creator not confirmed). The "Trash Man," called "Trash Viking" by the Sheriff.
 - **Background:**
   - Lives in a garbage dump, "my place of residence."
   - Abandoned by his grandfather at two months old, before learning to speak.
@@ -146,7 +146,7 @@ tags: [episode, live-shows]
 - **Fighting style:** magic learned in the trash dump: a poisoned diaper bomb, acid, the soda-can bullet, "Ball," pancake berry bites, the trash bag. "I don't need a gun."
 - **Outcome:** won, by outlasting the Sheriff ("trash lasts forever"). Gave trash to his supporters as gifts and fashion.
 
-**Sheriff Tapatio S. Picante** ("Espicante"; guest; creator not confirmed).
+**[[Characters/Sheriff Tapatio S. Picante|Sheriff Tapatio S. Picante]]** ("Espicante"; guest; creator not confirmed).
 - **Background:**
   - "A man of the law" from the frontier, Tallahassee.
   - The government took his guns "due to standards."
@@ -155,28 +155,28 @@ tags: [episode, live-shows]
 - **Style:** deputizes the crowd with badges ("posse" / "cult"). He was on keto.
 - **Outcome:** died in the arena after his fifth natural 1 (five fatigues). The Grandmaster said she would carry him to his grave.
 
-**Clucky Cheese** (Bec calls it "Fluffy Cheese").
+**[[Characters/Clucky Cheese|Clucky Cheese]]** (Bec calls it "Fluffy Cheese").
 - The Sheriff's chicken mount. Nimble, wears Converse.
 - A gift from "a great wizard in the Frontier named Amazon," who also gave a mystical egg for a second Clucky Cheese.
 - **Killed by Lief Tover in round 2** (one eye first), then used as a weapon by the Sheriff.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Italian leather boots. Says he played bingo with both champions a couple weeks ago.
 - Has "a whole slew of unionized chinchillas."
 - Bet on the Sheriff and lost.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - "She who shattered the Shadow King." Has giant white wings.
 - Refuses to fight the Arbiter because she would embarrass him.
 - Rules "this kingdom" with her "big gold balls."
 - Bet on Lief Tover and won.
 - States that death is never the end.
 
-**Crowd figures (Acolytes):** Jeremy (Puerto Rico), Michael (Los Angeles), Philip, Gabriel, "Yester," Naomi (Bama, film student), Austin (from last year's show), the "Unicorn," and the trash-chips fan.
+**[[Characters/Crowd figures (Acolytes)|Crowd figures (Acolytes):]]** Jeremy (Puerto Rico), Michael (Los Angeles), Philip, Gabriel, "Yester," Naomi (Bama, film student), Austin (from last year's show), the "Unicorn," and the trash-chips fan.
 
 ### Places
-- **The Dread Fortress**, its halls in the subterranean lava field.
-- **The arena: "the deep, dark jungles of Florida."**
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, its halls in the subterranean lava field.
+- **[[Places/The arena the deep, dark jungles of Florida|The arena: "the deep, dark jungles of Florida."]]**
 - The Frontier and Tallahassee (the Sheriff's home); Lief Tover's garbage dump.
 
 ### Items

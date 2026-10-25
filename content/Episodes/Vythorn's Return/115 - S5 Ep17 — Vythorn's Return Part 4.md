@@ -78,7 +78,7 @@ There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the
 
 ## Who and what appears
 ### Characters
-**Vythorn / the Arbiter** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
 - **Season of Fate (vision):**
   - He is the "new Lord of Fate."
   - Wears newly crafted leather boots and robes.
@@ -94,7 +94,7 @@ There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the
   - Vows to "fight fate itself."
 - Elusia's vision-self says Agdrel once decided Vythorn's role in the Void (0:08:00).
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - **In the vision:**
   - Chained, but the chains hang on her like bangles.
   - Kept in a candlelit cell with books and a bed mat.
@@ -108,35 +108,35 @@ There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the
   - Hugs him, which is rare between them.
   - Declares to the Acolytes that "the time of corruption is over" and that they will be "masters of our own fate."
 
-**Fil / Philomena, the God of Fate** (Bec)
+**[[Characters/Fil|Fil / Philomena, the God of Fate]]** (Bec)
 - Whispers "Who are you going to become?"
 - Had a deal with Vythorn: "The book was given. The void laid out in front of you."
 - Says "We will have to come to collect."
 - Leaves with a Cheshire Cat smile and an echoing chuckle.
 - Her departure lets the frozen rain fall and Elusia move again.
 
-**The Shadow King**
+**[[Characters/The Shadow King|The Shadow King]]**
 - Mentioned only. "Not here" after the fight.
 - Post-show: weakened and gone, "his pieces of body scattered around the hells."
 
-**Agdrel**
+**[[Characters/The Shadow King|Agdrel]]**
 - Named by vision-Elusia as the controlling mastermind who decided Vythorn's role.
 
-**The Acolytes**
+**[[Lore/The Acolytes|The Acolytes]]**
 - Witnessed the fight, the Shadow King's departure and the freeing.
 - Addressed by Elusia.
 
-**Vythorn's "new assistant"** (vision)
+**[[Characters/Vythorn's new assistant|Vythorn's "new assistant"]]** (vision)
 - Unnamed. A source of frustration.
 
 ### Places
-- **The Dread Fortress**: abandoned, cobwebbed upper halls and the dungeons below. Elusia's cell in the vision.
-- **The memory scene**: disrupted ground, angry clouds and rain. It is where Part 3's choice was left unfinished.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: abandoned, cobwebbed upper halls and the dungeons below. Elusia's cell in the vision.
+- **[[Places/The memory scene|The memory scene]]**: disrupted ground, angry clouds and rain. It is where Part 3's choice was left unfinished.
 - "The hells": named in the post-show as where the Shadow King's pieces are scattered.
 
 ### Items
-- **The dagger** Vythorn used to shatter Elusia's shackles.
-- **The choker** (shackles around Elusia's neck).
+- **[[Items/The dagger|The dagger]]** Vythorn used to shatter Elusia's shackles.
+- **[[Items/The choker|The choker]]** (shackles around Elusia's neck).
 - **"The book"** given in Fil's deal. Drew names "Morir's Cataclysm" as Vythorn's new power in the post-show. That the book and Morir's Cataclysm are the same thing is *inferred* from 0:16:32 together with 0:27:22.
 - Elusia's former bed, now Vythorn's (vision).
 - Vythorn's newly crafted leather boots (vision).

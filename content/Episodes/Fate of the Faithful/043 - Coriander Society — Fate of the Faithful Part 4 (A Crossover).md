@@ -192,7 +192,7 @@ tags: [episode, fate-of-the-faithful]
 
 ## Who and what appears
 ### Characters
-**Lyrus** (Drew). A **Goliath who is also a werebear**, and stays in bear form "all the time now" in memory and honor of his father.
+**[[Characters/Lyrus|Lyrus]]** (Drew). A **Goliath who is also a werebear**, and stays in bear form "all the time now" in memory and honor of his father.
 - **Background:**
   - His father **Orin** was turned as a child in an attack on his village that killed his family. **The Arbiter saved Orin from that attack.**
   - **The Arbiter later killed Orin**; Lyrus heard of the death only secondhand.
@@ -204,7 +204,7 @@ tags: [episode, fate-of-the-faithful]
 - **In this episode:** made giant by Circe and used as a bridge. Duelled and killed the Draconic Death Knight. Last seen engulfed by the hellfire orb.
 - Funded by chat member "Jack" (600 gp, 400 ep, then another 1,000 gp).
 
-**John Carmichael** (NinjaManMat1). From Yord; a co-adversary of Ralzamon with Asena.
+**[[Characters/John Carmichael|John Carmichael]]** (NinjaManMat1). From Yord; a co-adversary of Ralzamon with Asena.
 - **Gear and powers:**
   - A VR rig that makes holograms and illusions (silent image, active camouflage).
   - The **Talisman of the Infernal**, through which he prays to **Tiamat** and his pact.
@@ -215,48 +215,48 @@ tags: [episode, fate-of-the-faithful]
 - **Companions:** his cat **Chester**, and **Weebo**, a Modron from his briefcase, lost in the abyss.
 - Has "vaguely flirted" with Stabteast/Baptiste. Wants to learn technomancy from Circe. Has "work tomorrow."
 
-**Asena** (PodsofWar). Was a Deathmatch champion, returned home by the Grandmaster, and kept her memories.
+**[[Characters/Asena|Asena]]** (PodsofWar). Was a Deathmatch champion, returned home by the Grandmaster, and kept her memories.
 - **Family past:** her possible mother kept an occult chamber; she carries the expedition photo of her family.
 - **Wears a crown taken from Santa Polka's tomb during a dreamscape** visit that was "also like really there."
 - Monk-like: runs up walls, sneak attack, astral chains, Wails from the Grave. Darkvision.
 - Gave Lawrence her blood as a divination anchor. Carries a potion of force resistance and the distance quill.
 - Has "another brain" and thinks "paper" thoughts.
 
-**Lawrence Booker Green** (GM). A trained archivist who studies the multiverse and "regularly invokes powers beyond mortal comprehension."
+**[[Characters/Lawrence Booker Green|Lawrence Booker Green]]** (GM). A trained archivist who studies the multiverse and "regularly invokes powers beyond mortal comprehension."
 - Carries a tuning fork and a vintage bloodletting set.
 - Divined Ralzamon's location and bled from the ear doing it.
 - Stays at base because "Elder Evil threatens everything we hold dear" if the party fails.
 - Holds Asena's blood.
 
-**The Seer / the sage** (Drew). An NPC of the Faithful, apparently a craftsman as well as a seer.
+**[[Characters/The Seer|The Seer / the sage]]** (Drew). An NPC of the Faithful, apparently a craftsman as well as a seer.
 - Admires the artwork and helped the divination with no trouble at all.
 - **Ralzamon's presence "has certainly clouded my vision."**
 - **Forged Chester's rainbow Damascus knife.** Gave a parting vision (a stored 12).
 
-**Circe (spelled "Cersei" by John)** (GM). "The master of magitech/technomagic."
+**[[Characters/Circe|Circe (spelled "Cersei" by John)]]** (GM). "The master of magitech/technomagic."
 - **Ray gun that shrinks and enlarges ("bear expansion device")**, flying boots/shoes, **goggles that see invisibility**.
 - Saw a Shadowlands vision and dismissed it with data.
 - Kept getting stuck in the portcullis.
 
 
-**Chester**. John's cat. **Fights with a knife held in his mouth.**
+**[[Characters/Chester|Chester]]**. John's cat. **Fights with a knife held in his mouth.**
 
-**Stabteast / Baptiste**. A chat card ("He loves to stab") that also refers to someone John flirts with; "Baptiste is there somewhere" in the eavesdropping stack. Identity unclear.
+**[[Characters/Stabteast|Stabteast / Baptiste]]**. A chat card ("He loves to stab") that also refers to someone John flirts with; "Baptiste is there somewhere" in the eavesdropping stack. Identity unclear.
 
-**Ralzamon, Master of the Unknown** (Josiah Parsons). Not seen on screen.
+**[[Characters/Ralzamon|Ralzamon, Master of the Unknown]]** (Josiah Parsons). Not seen on screen.
 - **Per Lawrence's theory, a fusion of two echoes:** one kept by the Arbiter after his Deathmatch loss, one pulled from Yord at the moment of death. Has a body in the Void, and is lactose intolerant.
 - His first Deathmatch was in the Dread Fortress kitchen.
 - Used as "the Arbiter's secret psychic weapon." Held in the floating keep.
 
-**Orin**. Lyrus's late father; appeared as visions of corpses.
+**[[Characters/Orin|Orin]]**. Lyrus's late father; appeared as visions of corpses.
 
-**Kenny**. The rescued spy whose knowledge of the routes got the party home.
+**[[Characters/Kenny|Kenny]]**. The rescued spy whose knowledge of the routes got the party home.
 
-**Draconic Death Knight**. "Lord of this fortress"; a rotting, reanimated dragonborn knight in dark unholy armor, with shield and longsword.
+**[[Characters/Draconic Death Knight|Draconic Death Knight]]**. "Lord of this fortress"; a rotting, reanimated dragonborn knight in dark unholy armor, with shield and longsword.
 - Fire resistant and immune to fear. Uses Staggering Smite.
 - Slain by Lyrus. **His soul became a green-and-black hellfire orb that exploded on his slayer.**
 
-**The fortress's other defenders:**
+**[[Characters/The fortress's other defenders|The fortress's other defenders:]]**
 - **Scorched Adjudicator Vargas**: frightened; dodged.
 - **Aulus the Kindler**: the man seen claiming the false ewer. Invokes "the glory of humanity"; casts Sunbeam and Fireball.
 - **Candle Jack**: a candle for a head, axes, barefoot, wild red hair, broken shackles, manic. Appears asleep or unresponsive ("rolling to see if Candlejack wakes up").
@@ -270,40 +270,40 @@ tags: [episode, fate-of-the-faithful]
 - **Vampiric kobolds**: the stakes are for them; they "have pack tactics." Not seen yet.
 - **The thing in the moat**: enormous, slithering, with far too many legs.
 
-**Off-screen mentions:**
-- **The Arbiter**. Lyrus says he "faked his own kidnapping once," is "a little bit of a gambler," obtains and disposes of champions, has resurrected Ralzamon, is amassing an army, and has an affinity for dark shadows.
-- **The Grandmaster**. Returns champions home. The recap calls the Void "the domain of the Grandmaster."
-- **The Shadow King**. "Ruled over the Void for a time"; the Shadowlands were his realm.
+**[[Characters/Off-screen mentions|Off-screen mentions:]]**
+- **[[Characters/The Arbiter|The Arbiter]]**. Lyrus says he "faked his own kidnapping once," is "a little bit of a gambler," obtains and disposes of champions, has resurrected Ralzamon, is amassing an army, and has an affinity for dark shadows.
+- **[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**. Returns champions home. The recap calls the Void "the domain of the Grandmaster."
+- **[[Characters/The Shadow King|The Shadow King]]**. "Ruled over the Void for a time"; the Shadowlands were his realm.
 - Foster Talon (the photo's former owner).
 
 ### Places
-- **The Faithful's home base**, with a hall, side chambers, a bench, and chests of weapons and potions.
-- **The tumult**: made from an astral titan's body and flowing with ectoplasmic goo.
-- **The Eastern Stronghold**, past the eastern outpost. It was stormed by the Faithful and may have been retaken by the Children of the Void.
-- **The Shadowlands**:
+- **[[Places/The Faithful's home base|The Faithful's home base]]**, with a hall, side chambers, a bench, and chests of weapons and potions.
+- **[[Places/The Tumult|The tumult]]**: made from an astral titan's body and flowing with ectoplasmic goo.
+- **[[Places/The Eastern Outpost|The Eastern Stronghold]]**, past the eastern outpost. It was stormed by the Faithful and may have been retaken by the Children of the Void.
+- **[[Places/The Shadowlands|The Shadowlands]]**:
   - A realm of darkness and night creatures, the former realm of the Shadow King. Largely unmapped.
   - Light dies in the air, and the wind is cold and whispering. Ash plains, twisted brambles, grey and purple earth, bottomless openings.
   - It can turn thoughts against visitors, and elder-evil portents stir there.
-- **The central dark spire/obelisk**, the Shadowlands' "equivalent of the Dread Fortress," whose shadow is visible everywhere.
-- **The floating shadow keep**, near the spire's shadow:
+- **[[Places/The central dark spireobelisk|The central dark spire/obelisk]]**, the Shadowlands' "equivalent of the Dread Fortress," whose shadow is visible everywhere.
+- **[[Places/The floating shadow keep|The floating shadow keep]]**, near the spire's shadow:
   - It sits on an island in a violet-lit "infinite void moat," with a gatehouse, portcullis and broken bridge.
   - It has an inner wall, inner and side portcullises, and a two-storey obsidian central tower.
   - Its battlements are ~50 ft and carry ballistas and disintegration guns.
-- **The Dread Fortress**: its kitchen was Ralzamon's first arena. Its light casts the spire's shadow.
-- **Yord**: the home world of Asena and John. It "runs on pulp logic," with a 1930s-style culture. It includes the Zolpian Jungle and Santa Polka's tomb.
-- **Lacuna/Lacunas**: the source of "high-tech" earpieces and the "Lacoonian soldiers," possibly a gun-world. The spelling is uncertain.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its kitchen was Ralzamon's first arena. Its light casts the spire's shadow.
+- **[[Places/Yord|Yord]]**: the home world of Asena and John. It "runs on pulp logic," with a 1930s-style culture. It includes the Zolpian Jungle and Santa Polka's tomb.
+- **[[Places/LacunaLacunas|Lacuna/Lacunas]]**: the source of "high-tech" earpieces and the "Lacoonian soldiers," possibly a gun-world. The spelling is uncertain.
 
 ### Items
-- **The silver ewer**: accesses the ethereal and may move troops, summon from outside the Void, or send the party home. The Faithful hold the real one; a fake was left in its place.
-- **The ceremonial chalice** and **the sepia expedition photo**: sympathetic links to Josiah Parsons.
-- **Lawrence's tuning fork** and **vintage bloodletting set**; **Asena's blood in a vial**.
-- **Chester's knife**: Damascus pattern, rainbow oil-slick sheen, bends light.
-- **Plain wooden stakes** and a **potion of force resistance**.
-- **The distance quill**: remote writing.
-- **John's Talisman of the Infernal** (charges), his briefcase (three charges) holding **Weebo the Modron**, his **VR rig**, and the **fly tattoo**.
-- **Circe's ray gun**, flying boots and goggles.
-- **The Death Knight's undead-dragon bone horn**, blown as an alarm; **the bone ballista**; **six barrels of corrosive fluid**.
-- **Asena's crown from Santa Polka's tomb.**
+- **[[Items/Silver ewer|The silver ewer]]**: accesses the ethereal and may move troops, summon from outside the Void, or send the party home. The Faithful hold the real one; a fake was left in its place.
+- **[[Items/The ceremonial chalice|The ceremonial chalice]]** and **the sepia expedition photo**: sympathetic links to Josiah Parsons.
+- **[[Items/Lawrence's tuning fork|Lawrence's tuning fork]]** and **vintage bloodletting set**; **Asena's blood in a vial**.
+- **[[Items/Chester's knife|Chester's knife]]**: Damascus pattern, rainbow oil-slick sheen, bends light.
+- **[[Items/Plain wooden stakes|Plain wooden stakes]]** and a **potion of force resistance**.
+- **[[Items/The distance quill|The distance quill]]**: remote writing.
+- **[[Items/John's Talisman of the Infernal|John's Talisman of the Infernal]]** (charges), his briefcase (three charges) holding **Weebo the Modron**, his **VR rig**, and the **fly tattoo**.
+- **[[Items/Circe's ray gun|Circe's ray gun]]**, flying boots and goggles.
+- **[[Items/The Death Knight's undead-dragon bone horn|The Death Knight's undead-dragon bone horn]]**, blown as an alarm; **the bone ballista**; **six barrels of corrosive fluid**.
+- **[[Items/Asena's crown from Santa Polka's tomb|Asena's crown from Santa Polka's tomb.]]**
 
 ### Lore statements
 - **The Void has no direct connection to normal cosmology.** Fragments of ethereal, astral and shadow planes cling to the realms that were brought into it (Lawrence's theory).

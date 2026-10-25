@@ -291,7 +291,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Granny Edith** (Luboffin). A returning champion, called "the favorite of all favorites."
+**[[Characters/Granny Edith|Granny Edith]]** (Luboffin). A returning champion, called "the favorite of all favorites."
 - **History:**
   - She expected to "rest after the last fight and see Gerald." The Lord of Fate says she died last time. Her signature move hasn't hit "once in two fights."
   - Her late husband **Gerald** died "many years ago." They met on a train, went dancing every week, and had "a long and lovely life together." She carries a photo of him.
@@ -308,7 +308,7 @@ tags: [episode, season-5]
 - **Personality:** kind to everyone, especially Thea and even the Box, until her temper breaks.
 - **In this episode:** won by knocking Teddy into the lava with a boulder loaf.
 
-**Teddy Oso** (Chunk / PerceptionStudio). "Mr. Teddy Oso" (Jr. "the third" or "the second"; his father named him).
+**[[Characters/Teddy Oso|Teddy Oso]]** (Chunk / PerceptionStudio). "Mr. Teddy Oso" (Jr. "the third" or "the second"; his father named him).
 - **Background:**
   - A survivor of the zombie apocalypse who has killed "12,000 maybe" zombies (canon range 7–12,000).
   - He **shot his own zombified grandma in the face** and carried her head as a shrunken-head memento, until he sacrificed it to the Box.
@@ -322,14 +322,14 @@ tags: [episode, season-5]
 - Has "beef" with Thea. Enjoyed beating up an old person.
 - **In this episode:** died in the lava with a thumbs-up.
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Has white wings and keeps Egyptian cotton sheets on his bed. Thea decorated his room for Halloween.
 - **Says he created the Box of Chaos and that "it contains part of my soul."**
 - Says he created Thea out of a worm. He removes stars from her forehead and threatens her paycheck.
 - **Rips Thea's wings off** after the laxative corn dogs.
 - Wants Thea to do the taxes. Has Thea roll dice "for no reason at all" (he says).
 
-**Thea** (Bec). An imp the Lord of Fate "created out of a worm."
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). An imp the Lord of Fate "created out of a worm."
 - **Body:**
   - Has wings, pink feet, a very low body temperature (icy hands) and stars on her forehead.
   - Says she trained as a small worm lifting d4s up to d20s.
@@ -342,37 +342,37 @@ tags: [episode, season-5]
 - **Allegiances:** sided openly with Granny; was thrown at her by Teddy.
 - **After the break:** lost teeth (her lisp, she says) and her wings, which she had to duct tape back on.
 
-**The shadowy figure in the Box of Chaos** (Drew). Yellow eyes, grasping hands ("gimme, gimme, gimme").
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew). Yellow eyes, grasping hands ("gimme, gimme, gimme").
 - Keeps sacrificed heads on a shelf "next to the other ones."
 - "I would never do this to my grandma."
 - Had never been given a cookie: "**I'm a piece of a soul trapped in a box.**" It feasted on Granny's cookies and milk.
 
-**Gerald** (mentioned). Granny's late husband. This is not the Box of Chaos.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (mentioned). Granny's late husband. This is not the Box of Chaos.
 
-**Teddy's grandma** (mentioned). Zombified, shot by Teddy; her shrunken head was given to the Box.
+**[[Characters/Teddy's grandma|Teddy's grandma]]** (mentioned). Zombified, shot by Teddy; her shrunken head was given to the Box.
 
-**Teddy's father** (mentioned). Thea asks if he's "stupid." "Mr. Tedio," Junior or Senior, is unclear.
+**[[Characters/Teddy's father|Teddy's father]]** (mentioned). Thea asks if he's "stupid." "Mr. Tedio," Junior or Senior, is unclear.
 
-**Harry** (mentioned). Possibly one of Granny's children.
+**[[Characters/Harry|Harry]]** (mentioned). Possibly one of Granny's children.
 
-**Acolytes:**
+**[[Lore/The Acolytes|Acolytes:]]**
 - **Harvey**: eyes knocked out by a raisin cookie.
 - **Scrib**: raisin stuck in his ear.
-- **Lady Magdala**: choked on a cookie and broke teeth; she was given CPR.
+- **[[Characters/Lady Magdala|Lady Magdala]]**: choked on a cookie and broke teeth; she was given CPR.
 
-**Goblins.** Absent from chores at the start. They hand out goggles and prepared the corn dog cannons.
+**[[Characters/Goblins|Goblins.]]** Absent from chores at the start. They hand out goggles and prepared the corn dog cannons.
 
-**Zombies and skeletons** of the Midnight Mausoleum. They rise from the graves. One was blown apart by Teddy's missed shot. They wore goggles and threw devil horns to the rock music.
+**[[Characters/Zombies and skeletons|Zombies and skeletons]]** of the Midnight Mausoleum. They rise from the graves. One was blown apart by Teddy's missed shot. They wore goggles and threw devil horns to the rock music.
 
 ### Places
-- **The Dread Fortress:** empty halls, and the Lord of Fate's room (Halloween decorations).
-- **The Midnight Mausoleum:** a moonlit graveyard of tombstones with a giant mausoleum, an angel statue and a full moon. Skeletal hands rise from the ground. Thea's favorite spooky place, with no echo; "came pre-decorated." It was flooded with lava in round 8, then cooled.
+- **[[Places/The Dread Fortress|The Dread Fortress:]]** empty halls, and the Lord of Fate's room (Halloween decorations).
+- **[[Places/The Midnight Mausoleum|The Midnight Mausoleum:]]** a moonlit graveyard of tombstones with a giant mausoleum, an angel statue and a full moon. Skeletal hands rise from the ground. Thea's favorite spooky place, with no echo; "came pre-decorated." It was flooded with lava in round 8, then cooled.
 
 ### Items
-- **The Box of Chaos.** Its fire is pink and yellow and gives no heat. Lord of Fate: "contains part of my soul."
+- **[[Lore/The Box of Chaos|The Box of Chaos.]]** Its fire is pink and yellow and gives no heat. Lord of Fate: "contains part of my soul."
   - Granted Teddy a poisoned Granny Smith apple.
   - Granted Granny a healing bread and butter pudding.
-- **Granny's magical rolling pin** (runes, disco glow), with Teddy's axe stuck in it.
+- **[[Items/Granny's magical rolling pin|Granny's magical rolling pin]]** (runes, disco glow), with Teddy's axe stuck in it.
 - Teddy's motorcycle (appears on command).
 - Corn dog cannons. Laxative corn dogs.
 - The Lord of Fate's Egyptian cotton sheets (used as ghost costumes).

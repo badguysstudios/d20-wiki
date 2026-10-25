@@ -49,7 +49,7 @@ tags: [episode, skypiercer-prequel]
 
 ## Who and what appears
 ### Characters
-**Elusia** (Bec). Later the Grandmaster.
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia]]** (Bec). Later the Grandmaster.
 - Called "Princess Elusia" by Vythorn and "Princess of the Void, refugee, stranger no more" by Thornos (1:55:07). Wants to be called "just Elusia" (2:42:55).
 - Blue-teal hair (0:06:07), wings, bow of knotted black root that sparks blue (0:06:32), two short swords, obsidian dagger.
 - Daughter of Faucius Golden Shield (0:08:34); niece of Agdrel (2:32:06); asked after her mother in the flashback and got no answer (0:12:29).
@@ -59,7 +59,7 @@ tags: [episode, skypiercer-prequel]
 - Kills the Cursed Juggernaut (1:26:03). Flirts with Kaja (drinking from her cup at 1:59:43, carrying her up the hill at 1:37:29).
 - Agrees to return to the Void to take her "rightful place" (2:47:34).
 
-**Kaja** (stellaluna).
+**[[Characters/Kaja|Kaja]]** (stellaluna).
 - Warlock; necromancy; "form of dread" (0:23:51; described 0:24:03); resistant to necrotic damage (0:55:48).
 - Purple blood, thick like syrup (1:03:47). Cold to the touch, no body heat (1:38:06). High heels. Pointed, dagger-like fingernails (2:21:37).
 - Dies often and returns: "there are forces … at work beyond our comprehension … And I merely serve one of them" (1:32:35); "We have a special relationship" (1:35:01).
@@ -67,7 +67,7 @@ tags: [episode, skypiercer-prequel]
 - Thornos: "you have served Cor'thun well for many years. Even in death, you have fought for us" (1:52:42). Named General.
 - Elusia calls Kaja and Atalantos "legacies" (0:19:39).
 
-**Atalantos** (sensei_suplex).
+**[[Characters/Atalantos|Atalantos]]** (sensei_suplex).
 - Shield and spear; greatsword "the only time I use" it (1:16:07). One eye glows gold and the other purple when he takes up the greatsword (1:16:29). Scars and a small mohawk under his helmet (1:42:23).
 - Shield sentinel of the **Order of the Sacrificent** (1:46:21). "I bleed for my allies." Uses the Rite of Revitalization / Crimson Rite and a blood curse that raises the fallen.
 - Grew up in the gladiator pits (2:26:54). Commands "an army of only several hundred" (2:01:28). Elusia: "everyone studies your words. You are the standard for the training" (2:01:51).
@@ -75,48 +75,48 @@ tags: [episode, skypiercer-prequel]
 - Battle cry: "Tonight, we dine in hell!" (1:14:31). "The only eyes I fancy is the gods, specifically the gods of death" (1:42:50).
 - Drafts Lucien into his brigade; "Training begins at four in the morning" (2:13:02). Pledges to go to the Void with Elusia.
 
-**Faucius Golden Shield**, "the Golden King". Elusia's father; assassinated in his own throne room in the Dread Fortress 300 years before this episode (0:08:34, 2:34:07). Vythorn: "many in the realm welcomed the change. They found your father to be weak and greedy" (2:35:41). Had planned for his daughter's escape (0:10:24).
+**[[Characters/Faucius Golden Shield|Faucius Golden Shield]]**, "the Golden King". Elusia's father; assassinated in his own throne room in the Dread Fortress 300 years before this episode (0:08:34, 2:34:07). Vythorn: "many in the realm welcomed the change. They found your father to be weak and greedy" (2:35:41). Had planned for his daughter's escape (0:10:24).
 
-**Agdrel, "the Shadow," the Shadow King.** Elusia's uncle; killed Faucius (2:34:23). Taught Vythorn magic: "He was my … mentor in the arts" (2:34:49). Built a mage school of thousands (2:38:17). Has ruled "with an iron fist"; siphons the power of mages across the realms; is losing control of his chaos energy, which causes tornadoes, earthquakes, eruptions and dying harvests across the Void (2:37:29–2:40:17).
+**[[Characters/The Shadow King|Agdrel, "the Shadow," the Shadow King.]]** Elusia's uncle; killed Faucius (2:34:23). Taught Vythorn magic: "He was my … mentor in the arts" (2:34:49). Built a mage school of thousands (2:38:17). Has ruled "with an iron fist"; siphons the power of mages across the realms; is losing control of his chaos energy, which causes tornadoes, earthquakes, eruptions and dying harvests across the Void (2:37:29–2:40:17).
 
-**Sir Boros.** Knight of Chaos, a large orc in black and red armor whom Elusia had known a long time (0:10:00). Led the sacrifice that sent her away.
+**[[Characters/Sir Boros|Sir Boros.]]** Knight of Chaos, a large orc in black and red armor whom Elusia had known a long time (0:10:00). Led the sacrifice that sent her away.
 
-**Knights of Chaos.** Faucius's emissaries, protectors of the Dread Fortress (0:08:34). Vythorn: "There are none that remain. All slain [on] the night of the Long Shadow." (2:35:14). The Night of the Long Shadow is Agdrel's coup.
+**[[Characters/Knights of Chaos|Knights of Chaos.]]** Faucius's emissaries, protectors of the Dread Fortress (0:08:34). Vythorn: "There are none that remain. All slain [on] the night of the Long Shadow." (2:35:14). The Night of the Long Shadow is Agdrel's coup.
 
-**Emperor Thornos.** Emperor of Cor'thun. Older man, medium build, long white beard, white-gray hair pulled back (1:41:47). Misses battle: "I'm an old man … I long for the days of battle" (1:44:41). Descendant of Juntikar. Gives Elusia his blessing: "Cor'thun stands for justice and hope" (2:46:40).
+**[[Characters/Emperor Thornos|Emperor Thornos.]]** Emperor of Cor'thun. Older man, medium build, long white beard, white-gray hair pulled back (1:41:47). Misses battle: "I'm an old man … I long for the days of battle" (1:44:41). Descendant of Juntikar. Gives Elusia his blessing: "Cor'thun stands for justice and hope" (2:46:40).
 
-**Empress Juntikar.** Thornos's forebear; empress when Elusia arrived; first taught her the sword (and the bow) and let her stay (1:49:12–1:49:44). Dead by this episode.
+**[[Characters/Empress Juntikar|Empress Juntikar.]]** Thornos's forebear; empress when Elusia arrived; first taught her the sword (and the bow) and let her stay (1:49:12–1:49:44). Dead by this episode.
 
-**Lucien.** Cor'thun soldier, chronically drunk; stationed at the Western Gate until sent home to sleep it off (2:09:31). Claims heroics; another soldier says he spent the battle passed out in the stables (2:09:05). Fights "because my dad told me to" (2:10:01). Joins Atalantos's brigade (2:12:07). Likes Kaja's "thick blood" (2:12:37).
+**[[Characters/Lucien|Lucien.]]** Cor'thun soldier, chronically drunk; stationed at the Western Gate until sent home to sleep it off (2:09:31). Claims heroics; another soldier says he spent the battle passed out in the stables (2:09:05). Fights "because my dad told me to" (2:10:01). Joins Atalantos's brigade (2:12:07). Likes Kaja's "thick blood" (2:12:37).
 
-**Glotun** (spelling confirmed by Drew). Portly, balding, brown, loose toga-like robes; a politician who used to fight (2:15:20–2:16:17). Offers favors; lobbies to divert the southern aqueduct for Plintos (2:19:54).
+**[[Characters/Glotun|Glotun]]** (spelling confirmed by Drew). Portly, balding, brown, loose toga-like robes; a politician who used to fight (2:15:20–2:16:17). Offers favors; lobbies to divert the southern aqueduct for Plintos (2:19:54).
 
-**Plintos.** One of the richest men in Cor'thun; merchant guild leader; name on many buildings, statues of him; "charity" benefactor; made his fortune off the southern district's workers; said to hold himself above the emperor; rumored to be behind a mine cave-in outside the city caused by cost-cutting (2:23:16–2:24:24).
+**[[Characters/Plintos|Plintos.]]** One of the richest men in Cor'thun; merchant guild leader; name on many buildings, statues of him; "charity" benefactor; made his fortune off the southern district's workers; said to hold himself above the emperor; rumored to be behind a mine cave-in outside the city caused by cost-cutting (2:23:16–2:24:24).
 
-**Vythorn, the Endless Scholar** (= the Arbiter). Tall, black wings, purple cloak over one shoulder, high collar, large mustache, hair pulled back and shaved at the sides (2:29:03). Served "your uncle, Agdrel, in the Dread Fortress in the time of Faucius Golden Shield" (2:32:06) and also says "I once served your father" (2:33:26). Survived by serving the Shadow King's court. Spent decades mastering the magic to find her; crossing took "a blood of a titan" (2:39:44). Needs three days to recover and can only bring Elusia and her two companions (2:47:52).
+**[[Characters/The Arbiter|Vythorn, the Endless Scholar]]** (= the Arbiter). Tall, black wings, purple cloak over one shoulder, high collar, large mustache, hair pulled back and shaved at the sides (2:29:03). Served "your uncle, Agdrel, in the Dread Fortress in the time of Faucius Golden Shield" (2:32:06) and also says "I once served your father" (2:33:26). Survived by serving the Shadow King's court. Spent decades mastering the magic to find her; crossing took "a blood of a titan" (2:39:44). Needs three days to recover and can only bring Elusia and her two companions (2:47:52).
 
-**The Cursed Juggernaut.** Named in initiative (0:25:40). See scene 5. Killed by Elusia.
+**[[Characters/The Cursed Juggernaut|The Cursed Juggernaut.]]** Named in initiative (0:25:40). See scene 5. Killed by Elusia.
 
-**Kevin and Enderdan.** Two of Kaja's zombies, named by chat (0:45:24). Kevin is raised a second time by Atalantos and lands a final hit; Atalantos: "you had the heart of a Corthunian" (1:11:27).
+**[[Characters/Kevin and Enderdan|Kevin and Enderdan.]]** Two of Kaja's zombies, named by chat (0:45:24). Kevin is raised a second time by Atalantos and lands a final hit; Atalantos: "you had the heart of a Corthunian" (1:11:27).
 
 ### Places
-- **Cor'thun** (outside the Void): city of white stone, several miles across on sloping hills; has stairs and ramps ("It's an accessible city, there's both," 1:39:31). **Eastern Gate** (vital, drawbridge, besieged); **Western Gate** (Lucien's post); **market square**; **business district**; **lower district near the gates** (destroyed); **southern district** (poorer, working class; fed by a common aqueduct, nearest other fountain ~1.5 miles away); **palace** with gold inlays and a long **throne room** used for the feast. Mines outside the city (cave-in).
-- **The singularity** over Cor'thun: a black hole that creates an eternal sunset (0:17:25).
-- **Dread Fortress** (flashback): Elusia's chambers; the **Ceremonial Chamber**; the throne room where Faucius died. Walls Elusia calls unscalable and unbreachable (2:40:40).
-- **The Void**: Vythorn calls crossing out of it a great feat ("an incredible amount of magic to break out of the void").
+- **[[Places/Cor'thun|Cor'thun]]** (outside the Void): city of white stone, several miles across on sloping hills; has stairs and ramps ("It's an accessible city, there's both," 1:39:31). **Eastern Gate** (vital, drawbridge, besieged); **Western Gate** (Lucien's post); **market square**; **business district**; **lower district near the gates** (destroyed); **southern district** (poorer, working class; fed by a common aqueduct, nearest other fountain ~1.5 miles away); **palace** with gold inlays and a long **throne room** used for the feast. Mines outside the city (cave-in).
+- **[[Places/The singularity|The singularity]]** over Cor'thun: a black hole that creates an eternal sunset (0:17:25).
+- **[[Places/The Dread Fortress|Dread Fortress]]** (flashback): Elusia's chambers; the **Ceremonial Chamber**; the throne room where Faucius died. Walls Elusia calls unscalable and unbreachable (2:40:40).
+- **[[Lore/The Void|The Void]]**: Vythorn calls crossing out of it a great feat ("an incredible amount of magic to break out of the void").
 
 ### Groups
-- **Champions of Honor**: Cor'thun's champions; generals sit on the war council; cry "FOR ORDER!"
-- **Knights of Chaos** (see above).
-- **Order of the Sacrificent** (Atalantos).
-- **Mage school** built by Agdrel.
+- **[[Groups/Champions of Honor|Champions of Honor]]**: Cor'thun's champions; generals sit on the war council; cry "FOR ORDER!"
+- **[[Characters/Knights of Chaos|Knights of Chaos]]** (see above).
+- **[[Groups/Order of the Sacrificent|Order of the Sacrificent]]** (Atalantos).
+- **[[Groups/Mage school|Mage school]]** built by Agdrel.
 - The attacking army is never named.
 
 ### Items
-- **Obsidian dagger**: Elusia's grandfather's, gifted by her father.
-- **Elusia's bow**: knotted black root that sparks blue.
-- **Bowl of viscous gold liquid** used in the escape rite.
-- **Blood of a titan**: what Vythorn used to cross.
+- **[[Items/Obsidian dagger|Obsidian dagger]]**: Elusia's grandfather's, gifted by her father.
+- **[[Items/Elusia's bow|Elusia's bow]]**: knotted black root that sparks blue.
+- **[[Items/Bowl of viscous gold liquid|Bowl of viscous gold liquid]]** used in the escape rite.
+- **[[Items/Blood of a titan|Blood of a titan]]**: what Vythorn used to cross.
 
 ### Timeline facts stated in this episode
 - Faucius was killed and Elusia fled **300 years** before this episode (narration 0:07:48, 0:13:41; Vythorn 2:34:07; Elusia "who have not seen me in 300 years" 2:42:06).

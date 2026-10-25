@@ -132,7 +132,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Strako, the Wild Shadow** (NyteTide). A 7'5" wild magic barbarian.
+**[[Characters/Strako|Strako, the Wild Shadow]]** (NyteTide). A 7'5" wild magic barbarian.
 - **Gear:** an axe he loves ("my baby"), called a great axe at 0:15:04 and later a battleaxe used with a shield, plus a shield.
 - **Wild magic seen:**
   - the exploding fairy, which rose from his chest twice
@@ -148,14 +148,14 @@ tags: [episode, season-1]
   - Killed Timothy, mayor of the Worm's Town, through tag. Wants revenge on the fairy.
 - **In this episode:** he was tagged by Doug, shoved a whole asteroid with his hero point, and won by cleaving Zayliss. The Grandmaster carried him hand in hand to the fans.
 
-**Zayliss** (HeyLochNess). A 5'6" monk with a staff and glowing green **Arms of the Astral Self**.
+**[[Characters/Zayliss|Zayliss]]** (HeyLochNess). A 5'6" monk with a staff and glowing green **Arms of the Astral Self**.
 - Found "outside of the carnival." Says weird things like this happen to her and she's "accustomed to it."
 - **A chaotic "bro"** who genuinely respects Strako and flips him off constantly.
 - **Climbs walls** (parkour), deflects missiles, uses Stunning Strike (never landed), evasion, and ki-point dodge.
 - Found and threw **electrifying asteroid rocks**, accidentally killing Tabitha.
 - **Killed by Strako. The Arbiter secretly revived her to 1 HP "for my army."** She told him she's "a cat person" and joined his grudge against Doug.
 
-**Doug the Pug**. A very old, sleepy pug who has "always" lived in the Dread Fortress with the Grandmaster.
+**[[Characters/Doug the Pug|Doug the Pug]]**. A very old, sleepy pug who has "always" lived in the Dread Fortress with the Grandmaster.
 - The goblins look after him.
 - Some days he has no bones and collapses. If he stands when stacked up, it's "bone day," a good omen.
 - Has his own throne beside the Grandmaster's in the stands. Eats popcorn and snacks.
@@ -164,7 +164,7 @@ tags: [episode, season-1]
 - Started the game of tag. Gave Zayliss a "final snuggle."
 - Also called "the bone daddy."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Didn't know Doug existed and blames Deathmatch stress.
 - Is **color blind**.
 - Bet "three liters, maybe four" of blood and claimed he won at "three and a half pints."
@@ -172,34 +172,34 @@ tags: [episode, season-1]
 - Reads Cosmo.
 - **Secretly revives Zayliss for "my army."** Admits he's "a cat person" and vows to "show that pug… show them all."
 
-**Grandmaster Elusia Skypiercer** (Bec). Devoted to Doug and labels her levers clearly. "There are no rules except for the rules that I make up." Warns that fans have murdered a champion on their own before.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). Devoted to Doug and labels her levers clearly. "There are no rules except for the rules that I make up." Warns that fans have murdered a champion on their own before.
 
-**Timothy**. A glowing caterpillar-like alien on the asteroid, mayor of the Worm's Town. He brought peace and prosperity, had just defeated "the Republic," and was killed when Strako tagged and threw him. His society collapsed into self-destruction.
+**[[Characters/Timothy|Timothy]]**. A glowing caterpillar-like alien on the asteroid, mayor of the Worm's Town. He brought peace and prosperity, had just defeated "the Republic," and was killed when Strako tagged and threw him. His society collapsed into self-destruction.
 
-**Tabitha**. Another worm, killed by Zayliss's missed rock.
+**[[Characters/Tabitha|Tabitha]]**. Another worm, killed by Zayliss's missed rock.
 
-**The Acolytes**. They throw hot dogs and beer, award hero points and trigger chaos events.
+**[[Lore/The Acolytes|The Acolytes]]**. They throw hot dogs and beer, award hero points and trigger chaos events.
 
-**The goblins**. They take care of Doug.
+**[[Characters/Goblins|The goblins]]**. They take care of Doug.
 
 ### Places
-- **The Dread Fortress**, its skull-shaped rock mouth, and the Grandmaster's subterranean throne room.
-- **The portal tower adrift in the cosmos** ("the chaos of time and space"). Its four portals, as observed:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, its skull-shaped rock mouth, and the Grandmaster's subterranean throne room.
+- **[[Places/The portal tower adrift in the cosmos|The portal tower adrift in the cosmos]]** ("the chaos of time and space"). Its four portals, as observed:
   - green: smells of spring and citrus; it healed Zayliss on her second pass and dumped her out of the space portal on her first
   - blood pool: squirming bodies pull you down; it sent Strako out of the space portal, then into the fire portal
   - fire/lava "molten forge": burns on exit
   - mirrored space portal: grants advantage on the next attack
   - A clock there moves in a different time.
-- **The desolate asteroid field**: three asteroids with about 20 ft of breathable atmosphere around them and freezing space beyond. It holds electrifying "magnetic" rocks and glowing worm-aliens.
-- **The Worm's Town**: Timothy's colony, now collapsed.
-- **Valhalla**: Strako's expected afterlife.
+- **[[Places/The desolate asteroid field|The desolate asteroid field]]**: three asteroids with about 20 ft of breathable atmosphere around them and freezing space beyond. It holds electrifying "magnetic" rocks and glowing worm-aliens.
+- **[[Places/The Worm's Town|The Worm's Town]]**: Timothy's colony, now collapsed.
+- **[[Places/Valhalla|Valhalla]]**: Strako's expected afterlife.
 
 ### Items
 - The balloon weapons (one round, then they burst into confetti).
 - Strako's runed axe and shield.
 - Zayliss's staff.
 - The electrifying rocks (small and large).
-- **The lever labeled "pull this lever,"** lit green.
+- **[[Items/The lever labeled pull this lever|The lever labeled "pull this lever,"]]** lit green.
 - Concession hot dogs with eyeballs.
 - Doug's fluffy chair and throne.
 

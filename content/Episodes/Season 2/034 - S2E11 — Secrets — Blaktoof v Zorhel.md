@@ -249,7 +249,7 @@ Out-of-character unless marked.
 
 ## Who and what appears
 ### Characters
-**Zorhel the Gladiator** (Drakoniques). A **bugbear** and "one of the most famous gladiators on my lands."
+**[[Characters/Zorhel the Gladiator|Zorhel the Gladiator]]** (Drakoniques). A **bugbear** and "one of the most famous gladiators on my lands."
 - **Combat:**
   - Fights with **a halberd made of his own blood**, drawn from his wounds. He also uses blood Shield and a blood spiritual weapon.
   - Part warlock (Hexblade's Curse, Hex, Thirsting Blade, Eldritch Sight, Darkness, Booming Blade, Summon Shadowspawn) and part paladin (aura of protection). Has the Sentinel feat.
@@ -262,57 +262,57 @@ Out-of-character unless marked.
 - **Personality:** loves posture and ergonomic chairs, and is kind to Doug. Has zero Perception and can't climb ("PE class"). Hates daylight savings.
 - **In this episode:** won the Iron Flask shadow demon (**Blaktoof 2.0**) and summoned **Shadowtoof**. Won the fight and was flown up to the Acolytes by the Grandmaster.
 
-**Blaktoof** (the identity). The name claims "son of Blakteef, champion of the War of a Thousand Toofs." His formal lineage: "son of gross hand, daughter of gross feet, daughter of long hair, stickled mane."
+**[[Characters/Blaktoof|Blaktoof]]** (the identity). The name claims "son of Blakteef, champion of the War of a Thousand Toofs." His formal lineage: "son of gross hand, daughter of gross feet, daughter of long hair, stickled mane."
 - **The goblins say the real Blaktoof exists, "went on vacation," and "is kind of an asshole."**
 - The figure in the trench coat wore plate, chain mail and many nested pouches, and used a crossbow, a sword, Healing Light and Hellish Rebuke.
 - He drinks anything put in front of him; his favorite drink "has 12 X's on it."
 - He sacrificed his great-great-grandmother's gold teeth, though the goblins later say they don't remember their parents.
 - **Blackfoot** is a different person, who "smells bad and died three battles ago" and owed Gerald money.
 
-**Gaz, Gork and Mork** (GlamShatterskull). Three goblins who had been impersonating Blaktoof for a while for money, fame and free drinks, and hanging out at rock shows.
-- **Gaz** (red, bottom): wore the stinger boot. Glam calls him "the tank." Killed by Shadowtoof.
+**[[Characters/Gaz|Gaz, Gork and Mork]]** (GlamShatterskull). Three goblins who had been impersonating Blaktoof for a while for money, fame and free drinks, and hanging out at rock shows.
+- **[[Characters/Gaz|Gaz]]** (red, bottom): wore the stinger boot. Glam calls him "the tank." Killed by Shadowtoof.
 - **Gork** (green, middle): "the toughest with the sword." Killed by Zorhel's halberd.
 - **Mork** (blue, top): "the smart one, I like casting spells." Killed by the blood spiritual weapon.
 - All three cast Hellish Rebuke as they died. The Arbiter wheelbarrowed their bodies off.
 - Glam says the names come from Warhammer's orc gods.
 
-**Gerald** (Drew). The Box of Chaos, with two flame eyes in a black void.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The Box of Chaos, with two flame eyes in a black void.
 - **He now has a golden grill made of Blaktoof's ancestral teeth.**
 - "I'm not running the convenience store here." He found Zorhel's sister story boring.
 
-**Doug the pug** (Bec). "The gem of the castle."
+**[[Characters/Doug the Pug|Doug the pug]]** (Bec). "The gem of the castle."
 - Has a squeaky foam d20 and a big fluffy red pillow couch.
 - **Rolls in place of the Arbiter.** His 6 let the Arbiter trigger a chaos event.
 - Sensitive about his short stature. Got a cookie.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Promised Blaktoof riches. Produced duct tape and threw a rock at Blaktoof out of jealousy over Doug.
 - Calls himself "a shadow connoisseur."
 - Triggered the acid flood. Carted off the dead goblins in a wheelbarrow.
 - Rolled 1, 1, 2 and a nat 1.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Drinks Mountain Dew Major Melon. Owns a small coffee machine.
 - Her chainmail dress has no pockets, and she means to talk to her tailor.
 - Dislikes daylight savings.
 - Gave healing vials to both Zorhel and Mork. Flew Zorhel up to the Acolytes.
 
-**Blaktoof 2.0** (shadow demon from the Iron Flask) and **Shadowtoof** (Fear shadowspawn): Zorhel's summons. Shadowtoof's Dreadful Scream frightened the goblins and the Acolytes, and it has "rock hard" shadow nards.
+**[[Characters/Blaktoof 2.0|Blaktoof 2.0]]** (shadow demon from the Iron Flask) and **Shadowtoof** (Fear shadowspawn): Zorhel's summons. Shadowtoof's Dreadful Scream frightened the goblins and the Acolytes, and it has "rock hard" shadow nards.
 
 ### Places
-- **The Dread Fortress kitchen**, in the lower third of the fortress (the fortress is divided into thirds). It has pantries and a fridge.
-- **The storage cellar** (riches, per the GM).
-- **The abandoned mining cavern**: closed after too many cave-ins. Bugs, patches of light and pitch black, and open sky above with the Acolyte stands. Later flooded with acid water.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**, in the lower third of the fortress (the fortress is divided into thirds). It has pantries and a fridge.
+- **[[Places/The storage cellar|The storage cellar]]** (riches, per the GM).
+- **[[Places/The abandoned mining cavern|The abandoned mining cavern]]**: closed after too many cave-ins. Bugs, patches of light and pitch black, and open sky above with the Acolyte stands. Later flooded with acid water.
 - "Zorhel's lands" (unnamed).
 
 ### Items
 - Mountain Dew Major Melon (the GM's "potion"), the source of the healing vials.
 - The Grandmaster's coffee machine.
 - Butt stingers and the Arbiter's duct tape.
-- **The gold teeth of Blaktoof's mother's mother's mother** (now Gerald's grill).
+- **[[Items/The gold teeth of Blaktoof's mother's mother's mother|The gold teeth of Blaktoof's mother's mother's mother]]** (now Gerald's grill).
 - Potion of resistance (psychic).
-- **Zorhel's sister's first short sword** (sacrificed).
-- **The Iron Flask with its shadow demon.**
+- **[[Items/Zorhel's sister's first short sword|Zorhel's sister's first short sword]]** (sacrificed).
+- **[[Items/The Iron Flask with its shadow demon|The Iron Flask with its shadow demon.]]**
 - Doug's foam d20.
 - The court stenographer's sketches for the Acolytes.
 

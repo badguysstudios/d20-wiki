@@ -21,3 +21,17 @@ The Acolytes are the residents of the Void, ruled by the Grandmaster. They live 
 - [[The Ether Drifts]]
 - Cor'thun (outside the Void; see [[Skypiercer]])
 - Emmery's Tavern, the Midnight Mausoleum, Chinchilla Forest, Duck Village and many more arenas (see the episode pages)
+
+---
+*Everything below is compiled from the episode pages, in show order.*
+
+## Appearances
+
+### [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]
+Vythorn calls crossing out of it a great feat ("an incredible amount of magic to break out of the void").
+
+### [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]]
+"an amalgamation of lost planes existing in the same space at the same time," "beyond time and space"; time doesn't run in parallel with other worlds.
+
+### [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)]]
+named by Mudcat as the realms of the Dread Fortress, "an amalgamation of lost worlds."

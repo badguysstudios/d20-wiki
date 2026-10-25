@@ -134,7 +134,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Ol' Pumpernicklejack** (Edward Spence). Winner.
+**[[Characters/Ol' Pumpernicklejack|Ol' Pumpernicklejack]]** (Edward Spence). Winner.
 - **Body:** a **redcap** (player-stated in Dried Blood). About 3 ft tall, hunched, emaciated, leathery skin, bushy white whiskers, bloodshot red eyes, thinning white hair under the cap.
 - **Dress and gear:** a loose leather vest, **huge iron boots** and **an oversized red gnomish cap**. The cap soaks up blood and **hides a giant iron sickle**, larger than he is.
 - **Class and powers:** Wild Magic Barbarian. His wild magic raises **exploding spirits** from the graves (a minotaur, Chuck the Cheese, an "octopussy" creature) and **teleports** him (the chimney, the toilet).
@@ -145,7 +145,7 @@ tags: [episode, season-7]
   - The Arbiter had him **on his watchlist "for a number of seasons."**
 - **In this episode:** he rocketed off the lava into the GM's cheese platter. His boots melted in the lava. He killed Sila covered in toilet water. His victory speech was a burp, and he flashed a "full moon" as the GM flew him up.
 
-**Sila** (Seum). Pronounced "Sheila" at the table.
+**[[Characters/Sila|Sila]]** (Seum). Pronounced "Sheila" at the table.
 - **Body and dress:** a talking **rat**, an inch shorter than Jack. Blue scarf, britches, jacket. Runs on four legs, nose to the ground.
 - **Skills (as played):** rogue-like (thieves' tools, Uncanny Dodge, cunning action), dull daggers.
 - **Lore:**
@@ -154,12 +154,12 @@ tags: [episode, season-7]
   - Her **best friend Chuck the Cheese** vanished in a game of hide and go seek; she had searched for years.
 - **In this episode:** she dug up graves, used Chuck's corpse as poison and his coffin as a raft, and invited Jack aboard ("I never promised I was trying to kill him"). She was killed in Emmery's Tavern. **Her last wish, "Cover me in cheese," was granted by Emery's fondue.** Dried Blood titles: "Sila the shit," "Sila the cheese."
 
-**Chuck the Cheese**: Sila's best friend, a rat of her guild (guild sigil on his body).
+**[[Characters/Chuck the Cheese|Chuck the Cheese]]**: Sila's best friend, a rat of her guild (guild sigil on his body).
 - **Death:** hid in a plastic coffin in an unmarked grave in the Midnight Mausoleum during hide and go seek and **starved to death** (Dried Blood). He had **15 children**.
 - **In this episode:** his body was animated for a round, mirrored Sila's attack, and hit Jack. His spirit appeared and exploded.
 - His coffin reads "**You can't keep a good cheese down.**" The GM says he'll get a permanent place in the graveyard.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Opening:** plays chess with Claude, flips the table, sends him to clean the toilet. Claims the Arbiter hasn't beaten her in "50 years, 52?" Her robe becomes black and gold armor with a snap.
 - **During the fight:**
   - Self-described 0-for-2 on statements and chaos events; struggles with phrases. The Arbiter: she "didn't have what you'd call a formal education."
@@ -167,37 +167,37 @@ tags: [episode, season-7]
   - Offered Doug's cheese as a bounty for a kill.
   - Brought Jack parchment as he won.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Kept Thea away from the prep this time.
 - Calls himself experienced ("doing this a long time"); the GM calls him old.
 - **Flared his white wings and scruffed both champions** off the balcony, then **punched them across the Void like meteors** to Emmery's Tavern.
 - Disclaims the GM's chaos events.
 
-**Claude**: a small being with a tall blue hat, bushy beard and tiny feet. A good chess player, better than the Arbiter per the GM. Possibly French (the GM's guess); "doesn't even speak English" per the Arbiter. Ordered to clean the toilet; vanishes with a poof.
+**[[Characters/Claude|Claude]]**: a small being with a tall blue hat, bushy beard and tiny feet. A good chess player, better than the Arbiter per the GM. Possibly French (the GM's guess); "doesn't even speak English" per the Arbiter. Ordered to clean the toilet; vanishes with a poof.
 
-**Thea**: unreliable, given nothing to do, whereabouts unknown, "probably doing worm stuff." The GM: "nothing more terrifying than Thea idle."
+**[[Characters/Thea (Plintos)|Thea]]**: unreliable, given nothing to do, whereabouts unknown, "probably doing worm stuff." The GM: "nothing more terrifying than Thea idle."
 
-**Doug the Pug**: "the beloved dog of the arena." His **official sanctioned cheese** was offered as a prize, and he has **12 refrigerators of cheese in the Dread Fortress basement**. His "desire for blood is greater than his desire for the cheese."
+**[[Characters/Doug the Pug|Doug the Pug]]**: "the beloved dog of the arena." His **official sanctioned cheese** was offered as a prize, and he has **12 refrigerators of cheese in the Dread Fortress basement**. His "desire for blood is greater than his desire for the cheese."
 
-**Emery**: the large, unfazed, half-dressed (no pants) bartender of Emmery's Tavern. He polishes the bar with an ancient crusty rag, had "just started that brew," poured fondue over Sila's body, and announced closing time.
+**[[Characters/Emery|Emery]]**: the large, unfazed, half-dressed (no pants) bartender of Emmery's Tavern. He polishes the bar with an ancient crusty rag, had "just started that brew," poured fondue over Sila's body, and announced closing time.
 
-**Tormiir / Brormir**: a dead minotaur champion whose decomposed, barely-trousered body lies in a Midnight Mausoleum grave. The name is uncertain; see Continuity.
+**[[Characters/Tormiir|Tormiir / Brormir]]**: a dead minotaur champion whose decomposed, barely-trousered body lies in a Midnight Mausoleum grave. The name is uncertain; see Continuity.
 
-**Minitaurs**: hundreds of ~3-inch minotaurs from the first chaos event, now loose among the Acolytes.
+**[[Characters/The minitaurs|Minitaurs]]**: hundreds of ~3-inch minotaurs from the first chaos event, now loose among the Acolytes.
 
-**August**: sent Sila a cheese pizza and a slice of cheese (via a chinchilla), then another pizza. Apparently a chat member.
+**[[Characters/August|August]]**: sent Sila a cheese pizza and a slice of cheese (via a chinchilla), then another pizza. Apparently a chat member.
 
-**The cheese professor**: a chat member Sila consulted.
+**[[Characters/The cheese professor|The cheese professor]]**: a chat member Sila consulted.
 
-**Goblins** (bring parchment) and **chinchillas** (cleanup crew; one brought the pizza).
+**[[Characters/Goblins|Goblins]]** (bring parchment) and **chinchillas** (cleanup crew; one brought the pizza).
 
 ### Places
-- **Throne Room (Dread Fortress)**: purple rug, main seat, temporarily a chess table.
-- **The Midnight Mausoleum**: a huge moonlit graveyard with fog, well-fertilized grass, a stone perimeter fence, shallow graves (below the water table), champion graves and unmarked graves. Turned to lava and left "covered in lava and corpses."
-- **The Grandmaster's booth / balcony**: high above the arena.
-- **Emmery's Tavern**: a small tavern somewhere past the moon "the Vendolyn." It has a hearth and chimney, "number two" barrels, one overflowing toilet with no parchment, a storage room, and only processed cheese. Its roof is now holed.
-- **The Dread Fortress basement**: Doug's 12 cheese refrigerators.
-- **The Fey Realm**: asked about. "No world is ever too far."
+- **[[Places/Throne Room (Dread Fortress)|Throne Room (Dread Fortress)]]**: purple rug, main seat, temporarily a chess table.
+- **[[Places/The Midnight Mausoleum|The Midnight Mausoleum]]**: a huge moonlit graveyard with fog, well-fertilized grass, a stone perimeter fence, shallow graves (below the water table), champion graves and unmarked graves. Turned to lava and left "covered in lava and corpses."
+- **[[Places/The Grandmaster's booth|The Grandmaster's booth / balcony]]**: high above the arena.
+- **[[Places/Emmery's Tavern|Emmery's Tavern]]**: a small tavern somewhere past the moon "the Vendolyn." It has a hearth and chimney, "number two" barrels, one overflowing toilet with no parchment, a storage room, and only processed cheese. Its roof is now holed.
+- **[[Places/The Dread Fortress basement|The Dread Fortress basement]]**: Doug's 12 cheese refrigerators.
+- **[[Places/The Fey Realm|The Fey Realm]]**: asked about. "No world is ever too far."
 
 ### Items
 - Jack's red cap, iron sickle and iron boots (melted).

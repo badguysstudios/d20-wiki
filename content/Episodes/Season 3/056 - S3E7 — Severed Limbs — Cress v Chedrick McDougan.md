@@ -151,7 +151,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Cress** (Reck1568)
+**[[Characters/Cress|Cress]]** (Reck1568)
 - Wants the world tournament prize money so she doesn't have to get a real job.
 - **A multiclass monk (Kensei)**: longsword, javelins, telekinetic shove, Flurry of Blows, Step of the Wind, Agile Parry, Kensei's Shot. Resistant to necrotic. "Not strong, just fast." Fights barefoot.
 - **Blue blood.**
@@ -161,7 +161,7 @@ tags: [episode, season-3]
   - Regrew the ankle with tiny toes, then the full foot from a 9th-level Mass Healing Word scroll.
 - Beat her Karen Boggarts. **Killed by Fear's penguin drill.** Last words: "This isn't even my final form."
 
-**Chedrick McDougan** (BigCheese)
+**[[Characters/Chedrick McDougan|Chedrick McDougan]]** (BigCheese)
 - Calls people "peasants" and sounds like a college football coach. Calls himself "the bungee cord." -1 Wisdom; focused on Strength and Constitution.
 - **Fighter-type**: double-bladed scimitar, longsword, hand axes, Second Wind, Action Surge, two attacks.
 - **Silver "vibranium / T-1000" blood.**
@@ -173,58 +173,58 @@ tags: [episode, season-3]
 - Peed himself a little after a failed intimidation. The Grandmaster promised new pants.
 - **Winner. Left in the Shadowlands** after hitting the Grandmaster with a water bottle.
 
-**Fear** (Chedrick's penguin). "His name is Fear, and he fears nobody."
+**[[Characters/Fear|Fear]]** (Chedrick's penguin). "His name is Fear, and he fears nobody."
 - Rolled Doug's D20 for an 18, outdoing the Arbiter, and got a crowd chant and a parade.
 - Pecked the Boggart's ankles.
 - **Became the super spinning penguin drill that killed Cress.**
 
-**Gerald** (Drew). The shadowy demon in the Box of Chaos: clawed shadow hands, yellow eyes.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The shadowy demon in the Box of Chaos: clawed shadow hands, yellow eyes.
 - Gave the Mind Blade for grapes and apples. Clawed Chedrick for hitting him.
 - Gave Cress a healing potion out of spite.
 - Has a "hand collection."
 - Gave Cress the Mass Healing Word scroll for Chedrick's hand, then traded the hand back for Cress's foot along with a sewing kit. Puppeted the sewn hand.
 - "I'm a demon in a box, not a monster."
 
-**Sir Shadow Ten the Third, Knight of the Night** (Drew). A shadow ghast the Arbiter shaped from the Boggarts and the Shadowlands' shadows.
+**[[Characters/Sir Shadow Ten the Third|Sir Shadow Ten the Third, Knight of the Night]]** (Drew). A shadow ghast the Arbiter shaped from the Boggarts and the Shadowlands' shadows.
 - Partly incorporeal, long tongue(s), paralyzing claws, necrotic bite.
 - Resisted Chedrick's mind control.
 - Banished and shot through the heart by the Grandmaster.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - **Arrives with chains clanking on his ankles and wrists.** Lightheaded.
 - Opens portals with a clap (visible ripples) and summons the Box of Chaos with a snap. Has giant wings.
 - Chose the Shadowlands, thinking she'd like it, and suggested building her a shrine there.
 - Keeps losing his end-of-round rolls to Doug.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Made a rat charcuterie with goblin help; "I am a good cook." Kicked over a goblin in a huff.
 - **Hates the Shadowlands.** Floats rather than touch the ground there.
 - Has an oath bow. Banished the ghast and gave both champions advantage. Handed out rainbow beans.
 - Abandoned Chedrick in the Shadowlands.
 
-**Doug the pug.** Rides under the Grandmaster's arm and farts a small cloud. Has a cushioned platform beside her throne and a squishy green D20 plushie, which he throws to beat the Arbiter's rolls.
+**[[Characters/Doug the Pug|Doug the pug.]]** Rides under the Grandmaster's arm and farts a small cloud. Has a cushioned platform beside her throne and a squishy green D20 plushie, which he throws to beat the Arbiter's rolls.
 
-**Thomas.** Picked the berries from the bush behind the castle (unidentified).
+**[[Characters/Thomas|Thomas.]]** Picked the berries from the bush behind the castle (unidentified).
 
-**The goblins** of the Dread Fortress (kitchen staff, platter carriers).
+**[[Characters/Goblins|The goblins]]** of the Dread Fortress (kitchen staff, platter carriers).
 
-**The eel.** A dark river eel that went for Cress's toe; killed and pocketed.
+**[[Characters/The eel|The eel.]]** A dark river eel that went for Cress's toe; killed and pocketed.
 
-**The Karens** (Cress's Boggarts): a Karen with a cart, then a mother-and-grandmother pair with a flip phone. Arrested.
+**[[Characters/The Karens|The Karens]]** (Cress's Boggarts): a Karen with a cart, then a mother-and-grandmother pair with a flip phone. Arrested.
 
-**Master Splinter.** The Grandmaster claims he's on the plate (gag).
+**[[Characters/Master Splinter|Master Splinter.]]** The Grandmaster claims he's on the plate (gag).
 
 ### Places
-- **The Dread Fortress kitchen**, in the "subterranean castle." Its halls are lined with paintings of the Grandmaster. A bush behind the castle has berries.
-- **The Shadowlands**: thick, musty, cold, clinging black fog; squishy rock; pale plants; a river with eels; puddles; a 10-ft rock. "A monster in and of itself." Chedrick was left here.
-- **The Grandmaster's throne in the sky** above the stands.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**, in the "subterranean castle." Its halls are lined with paintings of the Grandmaster. A bush behind the castle has berries.
+- **[[Places/The Shadowlands|The Shadowlands]]**: thick, musty, cold, clinging black fog; squishy rock; pale plants; a river with eels; puddles; a 10-ft rock. "A monster in and of itself." Chedrick was left here.
+- **[[Places/The Grandmaster's throne in the sky|The Grandmaster's throne in the sky]]** above the stands.
 
 ### Items
-- **The Mind Blade**: a sword made by Mind Flayers, adds psychic damage, one attuner. Chedrick's.
-- **Scroll of Mass Healing Word (9th level)**, used by Cress.
+- **[[Items/The Mind Blade|The Mind Blade]]**: a sword made by Mind Flayers, adds psychic damage, one attuner. Chedrick's.
+- **[[Items/Scroll of Mass Healing Word (9th level)|Scroll of Mass Healing Word (9th level)]]**, used by Cress.
 - Gerald's healing potion; Gerald's sewing kit.
-- **The Grandmaster's oath bow.**
-- **Rainbow shimmering beans** (super moves).
+- **[[Items/The Grandmaster's oath bow|The Grandmaster's oath bow.]]**
+- **[[Items/Rainbow shimmering beans|Rainbow shimmering beans]]** (super moves).
 - The axe-shaped charcuterie plate; the rat charcuterie (garden / "vegan" rats, berries, jams); grapes and two apples; the "pineapple of death."
 - Cress's severed pinky toe (kept). Cress's severed foot (traded to Gerald). Chedrick's hand (returned).
 - Doug's green D20 plushie.

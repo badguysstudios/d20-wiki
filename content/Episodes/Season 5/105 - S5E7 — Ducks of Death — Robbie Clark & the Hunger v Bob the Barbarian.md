@@ -156,57 +156,57 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Robbie Clark** (Cinderblock Sally). A small child "adventurer and hero of the land" bonded to the Hunger through a backpack he has never taken off.
+**[[Characters/Robbie Clark|Robbie Clark]]** (Cinderblock Sally). A small child "adventurer and hero of the land" bonded to the Hunger through a backpack he has never taken off.
 - His memory goes back only "about yesterday" and is "full of blank spots." He remembers waking up next to a dead snake (his previous match).
 - He doesn't know what a birthday is, whether he has parents, or what an alien is. He stopped going to school "when I was too young."
 - **Gave his birthday memories to the Box of Chaos and received the Shield of the Golden King.** Thea gave him New Balance shoes.
 - His moves are the child punch and child kick.
 - **Freed from the Hunger at the end; left for Florida with Bob on a fan boat.** His jeans became shorts.
 
-**The Hunger** (Cinderblock Sally). An eldritch tentacle entity living in, or as, Robbie's backpack, with an eye-hat and mouths and teeth that grow from its tendrils.
+**[[Characters/The Hunger|The Hunger]]** (Cinderblock Sally). An eldritch tentacle entity living in, or as, Robbie's backpack, with an eye-hat and mouths and teeth that grow from its tendrils.
 - Wants to merge all life into "a singular biomass" and "the eternal flesh."
 - Robbie calls it "a creature that defies space and time." It says "I am made of the infinite."
 - **Deliberately keeps Robbie from connecting with other people so it can wield him as a vessel.** It mind-wipes him, possesses him, and calls him "my champion."
 - **Destroyed: it melted into bubbling ichor after Robbie broke free, leaving only the backpack.**
 
-**Bob the Barbarian** (Big Papa Drak). A friendly, always-smiling, shirtless barbarian **from Florida** with a glorious mullet.
+**[[Characters/Bob the Barbarian|Bob the Barbarian]]** (Big Papa Drak). A friendly, always-smiling, shirtless barbarian **from Florida** with a glorious mullet.
 - Loves jorts, wears at least three pairs, and keeps crystals embedded in the fabric. Wrestles gators, drinks Coors Light, nicknamed "Smiling Bob."
 - **Summons gators: gator one, gator two, and "Jeremy," who is actually Hannah Montana.**
 - Moves: nipple tornado, steel spiked hairball, toe stench, butt drop. He sniffs bath salts to become "pure Florida man."
 - **Probed by aliens and now can't hold in farts.** Got the Blade of Shadow by sacrificing a piece of his jorts.
 - Wants children someday. **Promised to raise Robbie in Florida.**
 
-**The Lord of Fate** (Drew). The former Arbiter, who has "usurped" the throne and still struggles with the title.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). The former Arbiter, who has "usurped" the throne and still struggles with the title.
 - **White wings.** Has a private reserve of champagne, which Thea says was the Grandmaster's.
 - Carves stars into Thea's forehead as rewards and can heal them away as punishment. Keeps a report and file on her and claims to pay her.
 - Snapped away the champagne towel because Robbie is a child. **Says he remembers Robbie getting new shoes on his seventh birthday.**
 
-**Thea** (Bec). A tiny pink imp with glittery wings.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A tiny pink imp with glittery wings.
 - Two months an imp, a worm for longer. Insists "Thea is people." Says she was "people" for five minutes, chanting and getting tattoos with the Acolytes.
 - Licked up the spilled champagne and licked Bob's leg sweat ("spice"). Speaks with animals.
 - Gave Robbie New Balance shoes. Her hug was rejected by the Hunger, and she cried.
 - Organized the match and arena. Lost one forehead star and gained another.
 
-**Hannah Montana**: a female gator with a blonde wig, misnamed Jeremy, freed by Bob. She swims in the Duck Village fountain.
+**[[Characters/Hannah Montana|Hannah Montana]]**: a female gator with a blonde wig, misnamed Jeremy, freed by Bob. She swims in the Duck Village fountain.
 
-**The Box of Chaos creature**: black shadowy clawed hands and yellow eyes. Robbie calls it a "weird skeleton." It loves cake, eats memories, and might make an eyepatch from the jorts scrap.
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]**: black shadowy clawed hands and yellow eyes. Robbie calls it a "weird skeleton." It loves cake, eats memories, and might make an eyepatch from the jorts scrap.
 
-**The goblins** of the Dread Fortress: they supplied the champagne and buy the reserves.
+**[[Characters/Goblins|The goblins]]** of the Dread Fortress: they supplied the champagne and buy the reserves.
 
-**The Shadow King**: mentioned only. A piece of his soul is in the Blade of Shadow. Thea: "an old bad guy… we didn't like him."
+**[[Characters/The Shadow King|The Shadow King]]**: mentioned only. A piece of his soul is in the Blade of Shadow. Thea: "an old bad guy… we didn't like him."
 
 ### Places
-- **The Dread Fortress**: its halls in the subterranean lair, and the Lord of Fate's private reserve.
-- **The Duck Village / "village de ducks"**: a quaint village courtyard with a fountain, bell, fruit and veggie stands, villagers, ducks and a cat. It was drained into near-desert by the drought.
-- **Florida, the Everglades, Publix**: Bob's home, the destination for Bob and Robbie. Real-world; see list.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its halls in the subterranean lair, and the Lord of Fate's private reserve.
+- **[[Places/The Duck Village|The Duck Village / "village de ducks"]]**: a quaint village courtyard with a fountain, bell, fruit and veggie stands, villagers, ducks and a cat. It was drained into near-desert by the drought.
+- **[[Places/Florida, the Everglades, Publix|Florida, the Everglades, Publix]]**: Bob's home, the destination for Bob and Robbie. Real-world; see list.
 
 ### Items
-- **Shield of the Golden King**: gleaming gold and ornamental, never seen battle, "carried for show, because they were." Gives +1 mettle and shatters on a natural 1.
-- **Blade of Shadow**: holds a piece of the Shadow King's soul. Heals on hit, causes fatigue.
+- **[[Items/Shield of the Golden King|Shield of the Golden King]]**: gleaming gold and ornamental, never seen battle, "carried for show, because they were." Gives +1 mettle and shatters on a natural 1.
+- **[[Items/Blade of Shadow|Blade of Shadow]]**: holds a piece of the Shadow King's soul. Heals on hit, causes fatigue.
 - Bob's crystal-studded jorts (multiple layers), the bath salts pouch, and chili powder.
 - Robbie's New Balance shoes and the backpack left behind by the Hunger.
 - The champagne bottle (smashed) and Thea's forehead stars.
-- **The rusty fan boat** inscribed "Bob and Robbie."
+- **[[Items/The rusty fan boat|The rusty fan boat]]** inscribed "Bob and Robbie."
 
 ### Lore statements
 - The Lord of Fate usurped the throne and was formerly the Arbiter (Season of Fate).

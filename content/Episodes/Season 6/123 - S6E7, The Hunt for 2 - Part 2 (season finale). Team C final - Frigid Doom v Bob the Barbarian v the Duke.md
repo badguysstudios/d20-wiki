@@ -159,7 +159,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Bob the Barbarian** (Drock / "Big Papa Drak"). A Floridian barbarian and self-styled Florida Man in jorts.
+**[[Characters/Bob the Barbarian|Bob the Barbarian]]** (Drock / "Big Papa Drak"). A Floridian barbarian and self-styled Florida Man in jorts.
 - Lives in Florida, "permanently on vacation." He grew up sent into the swamp as a boy to fend for himself.
 - He learned power-ups and "ancient techniques" from "the old people" of "the villages." He also had dreams from "a boy" that gave him the child punch and child kick.
 - **God of his gators.** Their religion says they want to be eaten by him after they die, "once every blue moon" (every two to three months). His favorite food is gator.
@@ -170,7 +170,7 @@ tags: [episode, season-6]
 - He has ridden the New York subway to the boardwalk.
 - **Winner. He named Team C the Triforce Dong Danglers.** By the Grandmaster's rule, the team follows him and lives where he decides.
 
-**Frigid Doom** (Kyle). An irradiated, nuclear-powered stainless steel fridge.
+**[[Characters/Frigidoom|Frigid Doom]]** (Kyle). An irradiated, nuclear-powered stainless steel fridge.
 - **Body and powers:**
   - Jello arms and tentacles, an eye slit, and an ice maker and dispenser (now full of crystal meth).
   - A stomach full of spoiled food he can animate into minions.
@@ -183,7 +183,7 @@ tags: [episode, season-6]
 - **His dream was a touchscreen to be "a modern fridge, a cool fridge."** He got it (and Gundam weaponry) from the Duke's ghostly boon.
 - His team-name idea was "the leftovers." He died to the children's insults and was revived.
 
-**The Duke** (Sensei). A rat man magician with a bottomless hat, from Brooklyn, New York, and the sewers of New York City.
+**[[Characters/The Duke|The Duke]]** (Sensei). A rat man magician with a bottomless hat, from Brooklyn, New York, and the sewers of New York City.
 - **Habits:** his fecal matter holds enemies' corpses and cheeses (one from 1832). He believes cheese ages like wine. Favorite food: ham.
 - **Tricks:**
   - Rat minions in overalls with wrenches, and rat spotters with binoculars.
@@ -196,43 +196,43 @@ tags: [episode, season-6]
 - **As a rat child he revered "the one true king, the shit lord" as a deity** and dreamed of leading an army in his name. In his last words he calls himself "a simple rat man in a single outfit bought from a dollar store."
 - Eaten by Frigid Doom and revived. **Vows to stage an uprising and come for the Arbiter's "soul and your throne"** (Dried Blood).
 
-**Thea** (Bec). The Arbiter's assistant, "**about seven weeks old**." Can't read and can only count to three. Fed the receipts to Doug, declined a receipt from Stone Cola, and saves her farts in a jar. Her jaw opens body-sized to eat. Wants a raise and rolls dice at round ends.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Arbiter's assistant, "**about seven weeks old**." Can't read and can only count to three. Fed the receipts to Doug, declined a receipt from Stone Cola, and saves her farts in a jar. Her jaw opens body-sized to eat. Wants a raise and rolls dice at round ends.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Doing the books with spectacles and an adding machine for **tax day tomorrow**. Thea's pay is zero.
 - Rolled a nat 20 and flared **his white wings**.
 - Never wants to visit Florida, "and I've been a lot of bad places."
 - Says Thea is "invasive."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Sent Team C on vacation to Duval and dislikes it. Was waiting in the throne room.
 - Ruled that the winner leads the team, names it, and picks where it lives. Threw the Arbiter's adding machine at Frigid Doom.
 - Bowed to the Duke after his nukes. Rolled a "warm-up" and then a nat 20.
 - Revived Bob with a hand on his shoulder and a slap. "We now have our three teams."
 
-**Emmery**. The tavern keeper. He wipes the bar, has no insurance, and boards up the kitchen.
+**[[Characters/Emmery|Emmery]]**. The tavern keeper. He wipes the bar, has no insurance, and boards up the kitchen.
 
-**Doug**. A tiny pug with one cyber eye who yells, ate the receipts, rolls a toy d20, pees on the tallest thing in the arena and farts.
+**[[Characters/Doug the Pug|Doug]]**. A tiny pug with one cyber eye who yells, ate the receipts, rolls a toy d20, pees on the tallest thing in the arena and farts.
 
-**The Box of Chaos hand** (Drew, inferred from speaker 03 at 1:25:51). It calls the box its house, hates being kicked, and takes the Duke's ball of shit ("I've seen bigger").
+**[[Characters/The Box of Chaos hand|The Box of Chaos hand]]** (Drew, inferred from speaker 03 at 1:25:51). It calls the box its house, hates being kicked, and takes the Duke's ball of shit ("I've seen bigger").
 
-**Grandma**. A chaos-event Acolyte with a silver-tinned platter of each champion's favorite food.
+**[[Characters/Grandma|Grandma]]**. A chaos-event Acolyte with a silver-tinned platter of each champion's favorite food.
 
-**The children**. A group of Acolyte children who taunt the final two to "death."
+**[[Characters/The children|The children]]**. A group of Acolyte children who taunt the final two to "death."
 
-**The New York hood rat, the Ass Jaguar, the "squeaker" rat, the Mets player** are summons.
+**[[Characters/The New York hood rat|The New York hood rat, the Ass Jaguar, the "squeaker" rat, the Mets player]]** are summons.
 
 ### Places
-- **The Dread Fortress**: the Arbiter's office area, the throne room (reached by Thea's portal), and the concession stand.
-- **Emmery's Tavern**: the arena. Werewolf corpse, vomit, transparent ceiling. Smashed up by Frigid Doom.
-- **Duval / Jacksonville, Florida**: where Team C vacationed. Sludge river, paper mills. A possible off-season scouting trip.
-- **Florida**: swamps, the villages, sinkholes, Publix. **New York / Brooklyn**: sewers, the Metro/subway, the boardwalk.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: the Arbiter's office area, the throne room (reached by Thea's portal), and the concession stand.
+- **[[Places/Emmery's Tavern|Emmery's Tavern]]**: the arena. Werewolf corpse, vomit, transparent ceiling. Smashed up by Frigid Doom.
+- **[[Places/Florida|Duval / Jacksonville, Florida]]**: where Team C vacationed. Sludge river, paper mills. A possible off-season scouting trip.
+- **[[Places/Florida|Florida]]**: swamps, the villages, sinkholes, Publix. **New York / Brooklyn**: sewers, the Metro/subway, the boardwalk.
 
 ### Items
 - The Arbiter's adding machine and spectacles. Thea's fart jar and notebook of scribbles.
 - Blue slushies, hot dogs, **gator bites (new at the concession stand)**, and Stone Cola purchases.
-- **Smelling salts** from the Box of Chaos.
-- **The Triforce Dong Danglers flag** (three dongs connected).
+- **[[Items/Smelling salts|Smelling salts]]** from the Box of Chaos.
+- **[[Items/The Triforce Dong Danglers flag|The Triforce Dong Danglers flag]]** (three dongs connected).
 - The Jacksonville jaguar magnet.
 - Frigid Doom's touchscreen and Gundam weapon upgrade ($399 from the Duke's store).
 

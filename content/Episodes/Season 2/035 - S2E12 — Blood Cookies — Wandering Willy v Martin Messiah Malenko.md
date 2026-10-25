@@ -166,7 +166,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Wandering Willy** (ArcaneAdam). A druid and a self-described "man of the leaf."
+**[[Characters/Wandering Willy|Wandering Willy]]** (ArcaneAdam). A druid and a self-described "man of the leaf."
 - **Personality:** laid-back and easily distracted. Always friendly; calls everyone "man."
 - **Gear and powers:**
   - Carries an assortment of "stoner snacks": brownies, sour gummy worms, chips, candy bars.
@@ -181,7 +181,7 @@ tags: [episode, season-2]
   - Talks to skeletons ("you all have a hive network").
 - **In this episode:** survived Martin's 7th-level Harm with a nat 20, then proposed the team-up.
 
-**Martin Messiah Malenko** (Sensei_Suplex), also "Masai."
+**[[Characters/Martin Messiah Malenko|Martin Messiah Malenko]]** (Sensei_Suplex), also "Masai."
 - **Who he is:** an aasimar light cleric of a sun god, flavored as a gunslinger. He wears an eyepatch, and the sun god's holy symbol shines from the eye beneath it.
 - **His family:** he claims to be dead or recently back from the dead ("got shot"). His **wife Val is his rifle**. His **revolvers Machiel and Cassandra** are his kids. All three were **polymorphed**: "a long, drawn-out story." Someone named **Gona** called him "little tiny son." His mama always said "four hands are better than two."
 - **Shiloh, his "daughter":** a massive songbird (Spiritual Weapon) who hates music and once ripped someone's head off.
@@ -192,9 +192,9 @@ tags: [episode, season-2]
 - **Items:** gave away his lucky bullet and got the **cursed Orb of the Veil**. Found a potion of healing.
 - **Personality:** a sugar-cookie lover, pro-adoption, and wants Doug. "I never really enjoyed fighting. I'm trying to get away from all that sort of stuff."
 
-**The Bone Brothers.** Willy and Martin's tag-team name. They wear friendship bone necklaces made by the Grandmaster, and they asked for a future two-versus-two match. The GM said she was "open to this idea."
+**[[Characters/The Bone Brothers|The Bone Brothers.]]** Willy and Martin's tag-team name. They wear friendship bone necklaces made by the Grandmaster, and they asked for a future two-versus-two match. The GM said she was "open to this idea."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Has a secret **TV room** in the Dread Fortress that she pays for; watched the Oscars.
 - Wants a daily morning reminder of the day, delivered by Doug, not the goblins.
 - Bakes cookies, and by the end accepts being "a grandma."
@@ -202,50 +202,50 @@ tags: [episode, season-2]
 - **Rebukes the Arbiter for the sneak attack.** States the champions are always brought back and that nobody dies permanently "except for a few accidents."
 - Makes the bone necklaces. Gives the Acolytes the cookies.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Recruited the "most nat one rolling individuals in the entire universe."
 - **Claims many wives, each given a gravestone "one at a time"; he can't keep track.**
 - Wants to skin Doug and wear him as a hat. Threatens to disintegrate Willy. Sings "Pocket Full of Sunshine" in a minor key.
 - **Sends Gerald to shoot the champions, then accuses the GM: "You always let them live."**
 - Storms off to **his own arena with a statue of himself**, where he raises losers of past Deathmatches from the shadows: "Our time has come."
 
-**Gerald** (Drew). The figure in the Box of Chaos.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The figure in the Box of Chaos.
 - Has a cough. Fake-walks down stairs.
 - Cackles over the cursed orb. Calls himself "a paid employee" (per the Arbiter).
 - **Shoots at the champions with Martin's lucky bullet on the Arbiter's order.** Gives Willy a Deck of Many Things ("That's my whole job here").
 
-**Doug the Pug**. Now has his own small floating pedestal-stage beside the GM's throne and rolls a squeaky plush d20 for the Arbiter's bad rolls.
+**[[Characters/Doug the Pug|Doug the Pug]]**. Now has his own small floating pedestal-stage beside the GM's throne and rolls a squeaky plush d20 for the Arbiter's bad rolls.
 - Wisdom 1 (GM).
 - Was commanded to roll over, then bit Martin for it: first blood of the match.
 - Chose to stay with the Grandmaster for a treat.
 
-**Kevin**. The corpse that coughed up the dust; Willy's name for it.
+**[[Characters/Kevin|Kevin]]**. The corpse that coughed up the dust; Willy's name for it.
 
-**The zombies**. Three, raised by Willy's earthquake. Martin's dawn killed two.
+**[[Characters/The zombies|The zombies]]**. Three, raised by Willy's earthquake. Martin's dawn killed two.
 
-**Karn, Baron Voltage (Voltágè), "and many others"**. Named as "losers of past D20 Deathmatches," raised from the shadows of stone in the Arbiter's arena.
+**[[Characters/Carnelian|Karn, Baron Voltage (Voltágè), "and many others"]]**. Named as "losers of past D20 Deathmatches," raised from the shadows of stone in the Arbiter's arena.
 
-**Mike, Gona, Val, Machiel, Cassandra**. Named in the champions' backstories (see above).
+**[[Characters/Mike|Mike, Gona, Val, Machiel, Cassandra]]**. Named in the champions' backstories (see above).
 
 ### Places
-- **The Dread Fortress TV room** (the "back TV room").
-- **The graveyard "where the eternal dead sleep"**: one of the GM's favorite places. Moss- and fungus-covered headstones, a crypt, dead trees, and dead who "on occasion… wake." Things buried there can be claimed. No name is given.
-- **The broken-down cathedral** up the hill, where the Arbiter's fog seals the champions in.
-- **The Arbiter's own arena** on another plane: a courtyard with a large statue of him and a railing. He "has made use of [it] even recently for his own nefarious purposes."
+- **[[Places/The Dread Fortress TV room|The Dread Fortress TV room]]** (the "back TV room").
+- **[[Places/The graveyard where the eternal dead sleep|The graveyard "where the eternal dead sleep"]]**: one of the GM's favorite places. Moss- and fungus-covered headstones, a crypt, dead trees, and dead who "on occasion… wake." Things buried there can be claimed. No name is given.
+- **[[Places/The broken-down cathedral|The broken-down cathedral]]** up the hill, where the Arbiter's fog seals the champions in.
+- **[[Places/The Arbiter's own arena|The Arbiter's own arena]]** on another plane: a courtyard with a large statue of him and a railing. He "has made use of [it] even recently for his own nefarious purposes."
 - Boulder Gate Community College Online (Willy's school, a joke).
 
 ### Items
 - Ghost lantern; Orb of the Veil (cursed); dust of sneezing and choking; potion of healing; Deck of Many Things.
-- **Martin's lucky bullet**: given to the Box, then fired at the champions by Gerald.
+- **[[Items/Martin's lucky bullet|Martin's lucky bullet]]**: given to the Box, then fired at the champions by Gerald.
 - The magical cup that gathers blood "for the cookies."
 - Holy hand grenades; Val, Machiel and Cassandra (the guns).
-- **Friendship bone necklaces** woven from the graveyard's bones.
+- **[[Items/Friendship bone necklaces|Friendship bone necklaces]]** woven from the graveyard's bones.
 - Doug's plush d20 and his pedestal.
 - The GM's plate of snickerdoodles and Doug's treat.
 
 ### Lore statements
 - **The GM, stated: champions are always brought back; nobody dies in the Deathmatch permanently "except for a few accidents every now and then."** The matches exist to "push and challenge and create better fighters."
-- **The Arbiter, stated: "You always let them live."**
+- **[[Characters/The Arbiter|The Arbiter, stated: "You always let them live."]]**
 - The Arbiter has a private arena and is gathering past losers: "Our time has come. Won't be much longer now."
 - The Acolytes attend as shimmering, ghost-like figures above the arena.
 - **Chaotic events:** the GM triggers them on the Arbiter's end-of-round roll. When it hits her threshold (18), the Arbiter runs his own.

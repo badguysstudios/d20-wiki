@@ -154,7 +154,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Chuck Solid Gold Dragon Biff** (talesofpesh). A dragonborn barbarian and wrestler. "Solid Gold" is his name on "the circuit of ass whooping."
+**[[Characters/Chuck Solid Gold Dragon Biff|Chuck Solid Gold Dragon Biff]]** (talesofpesh). A dragonborn barbarian and wrestler. "Solid Gold" is his name on "the circuit of ass whooping."
 - Fights with Macho Man-style wrestling moves: grapple, pin, judo chop, Tavern Brawler, Frenzy, Reckless Attack.
 - Has a once-a-day fire breath.
 - Keeps **sunglasses** in his trunks (on when raging) and a **great club** stashed in the back of his trunks.
@@ -162,21 +162,21 @@ tags: [episode, season-1]
 - Saved from the gears and blessed by the GM ("you little underdog," "golden boy").
 - **Won by bludgeoning Thass'Lok with Steely Dan's corpse.**
 
-**Richardo** (carnisideshow / Chris). A lizardfolk ranger: bow, two short swords, Hunter's Mark, Misty Step, Wind Wall, Healing Spirit.
+**[[Characters/Richardo|Richardo]]** (carnisideshow / Chris). A lizardfolk ranger: bow, two short swords, Hunter's Mark, Misty Step, Wind Wall, Healing Spirit.
 - Promises "violence and love, and maybe some sex."
 - Bullfighter flair (red cloth, "Olé").
 - Betrayed both enemies with Wind Wall, then healed Chuck.
 - **Shot a pillow at the Grandmaster herself** and hit her in the face.
 - Says his name is Ricardo ("it has always been Ricardo"). Co-winner.
 
-**Bull One** (Richardo's summoned spectral bull; "Bull Juan").
+**[[Characters/Bull One|Bull One]]** (Richardo's summoned spectral bull; "Bull Juan").
 - Floats when it runs.
 - Won a strength-off with a nat 20.
 - Ended up stuck under a gear with pool noodles on its horns.
 - **Killed Steely Dan as a pillow bull.**
 - The GM is making it a collar and a cape; it "might have my heart."
 
-**Steely Dan** (the4thculture). "Steely Dan the third, the victor of the cosmic dragon's duel." A large warforged paladin with a glaive, Polearm Master, Sentinel, smites and Action Surge. Immune to fear.
+**[[Characters/Steely Dan|Steely Dan]]** (the4thculture). "Steely Dan the third, the victor of the cosmic dragon's duel." A large warforged paladin with a glaive, Polearm Master, Sentinel, smites and Action Surge. Immune to fear.
 - **Speaks only through cassette tapes of misheard lyrics** loaded into his chest. He rewinds them with a pencil.
 - Mini discs are embedded in his armor, and a compartment holds "Now That's What I Call…" CDs.
 - He can project karaoke lyrics on his forehead.
@@ -184,19 +184,19 @@ tags: [episode, season-1]
 - **Befriended the haunted doll**, which branded him with a rune and revived him once.
 - Killed by Bull One's pillow, then used as a club.
 
-**Thass'Lok** ("Ghost in the Bay," per the GM; Forgeling). A lizardfolk with rapier, shield, daggers, Hunter's Mark, Colossus Slayer, Uncanny Dodge, Zephyr Strike, Fog Cloud and fancy footwork. Mostly naked.
+**[[Characters/Thass'Lok|Thass'Lok]]** ("Ghost in the Bay," per the GM; Forgeling). A lizardfolk with rapier, shield, daggers, Hunter's Mark, Colossus Slayer, Uncanny Dodge, Zephyr Strike, Fog Cloud and fancy footwork. Mostly naked.
 - **Serves "the mistress," the Lady of the Ocean.** He drowns people in "the black water bays."
 - Saw the gears as the warforged's domain and **betrayed his teammate from the first turn.** Later felt betrayed by everyone.
 - Died saying "Lady of the Ocean, take me."
 
-**The haunted doll** (chaos event; voiced and rolled by Bec, directed by Dan's player).
+**[[Characters/The haunted doll|The haunted doll]]** (chaos event; voiced and rolled by Bec, directed by Dan's player).
 - Wide unblinking eyes and a steady smile: "Come play with me."
 - Bonds by burning a rune into her friend's skin.
 - Teleports, and bites with plastic rotting teeth to drain HP into her friend.
 - Revived Dan to 1 HP with a kiss and then left this plane.
 - The Arbiter: "Oh no, not this again."
 
-**The Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster Elusia Skypiercer]]** (Bec).
 - Watches goblin-reenacted soaps on a cardboard TV and loves mail time.
 - Calls the Dread Fortress "my home."
 - Owns a Zune, a pillowcase full of quarters, and rum.
@@ -204,23 +204,23 @@ tags: [episode, season-1]
 - Her wings have a blue hue.
 - Does not pay the Arbiter.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Claims he can't read. Collects people who fight to the death; found some at a 7-Eleven.
 - Pulls marshmallows out of time and space.
 - **Has a betting problem** ("money riding on you with some really nasty people").
 - Threw the giant wrench into the gears. Got hit with the GM's sack of quarters.
 
-**The Dreaded GM**. The sender of the invitation (a scroll with an emblem). He has dreads, and the match was held on his channel for a secret charity event (see Real-world references).
+**[[Characters/The Dreaded GM|The Dreaded GM]]**. The sender of the invitation (a scroll with an emblem). He has dreads, and the match was held on his channel for a secret charity event (see Real-world references).
 
-**Teddy**. Sells falafel at "the carnival"; the GM plans to stop at "Teddy's."
+**[[Characters/Teddy|Teddy]]**. Sells falafel at "the carnival"; the GM plans to stop at "Teddy's."
 
-**The goblins**. The GM's servants: soap-opera actors, finger-counters, and the holders of her footstool, popcorn and soda.
+**[[Characters/Goblins|The goblins]]**. The GM's servants: soap-opera actors, finger-counters, and the holders of her footstool, popcorn and soda.
 
 ### Places
-- **The Dread Fortress / "the Dreaded Fortress"**: the Grandmaster's home, her hall and throne (red velvet seats).
-- **The Clock of the Lost**: a giant clockwork column, "a little place far, far out." Copper gears are on one level; silver gears are above or below. The gears spin until "a magic word" is said (instead, they were stopped by the Arbiter's wrench). Floating stands sit high above.
-- **The black water bays**: Thass'Lok's home "arena."
-- **The circuit of ass whooping**: Chuck's fighting circuit.
+- **[[Places/The Dread Fortress|The Dread Fortress / "the Dreaded Fortress"]]**: the Grandmaster's home, her hall and throne (red velvet seats).
+- **[[Places/The Clock of the Lost|The Clock of the Lost]]**: a giant clockwork column, "a little place far, far out." Copper gears are on one level; silver gears are above or below. The gears spin until "a magic word" is said (instead, they were stopped by the Arbiter's wrench). Floating stands sit high above.
+- **[[Places/The black water bays|The black water bays]]**: Thass'Lok's home "arena."
+- **[[Places/The circuit of ass whooping|The circuit of ass whooping]]**: Chuck's fighting circuit.
 - Teddy's falafel stand at the carnival.
 
 ### Items

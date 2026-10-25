@@ -193,7 +193,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BdTeej).
+**[[Characters/Flynry|Flynry]]** (BdTeej).
 - **Died in the Battle for the Crown, hit by a meteor** while fighting for the Grandmaster.
 - Has a beast form; in the desert he **over-shifts into something more animal.** Uses claws, unarmed strikes, flurry and Inflict Wounds.
 - Hulking and bearded. **Nomadic, never had a home, and home is his theme.** Not a center-of-attention guy. Can't dance.
@@ -202,72 +202,72 @@ tags: [episode, into-the-mirror]
 - **Wandered the desert for years or decades** (by his reckoning) before his friends arrived.
 - Inferred: he is in the plane where the mirror-taken piece of his soul went (from the Arbiter's 1:33:11 line and the shared desert).
 
-**Toddleheim** (Ahnubyss).
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss).
 - Survived his Battle for the Crown fight and took the Grandmaster's service.
 - **Spent months searching tomes and libraries to revive Flynry.**
 - Has a **"past wife,"** and lives a "long life." Uses arcane magic (Fire Bolt).
 - **Desire in the mirror: a warm bosom to rest his head on.** He refused to look at the mirrors on his first visit.
 - Sensed the sand is made of destroyed souls and opened the crack that led to Flynry.
 
-**Locket** (Miss_Magitek).
+**[[Characters/Locket|Locket]]** (Miss_Magitek).
 - A **Tabaxi**. She was at 6 HP at the end of her Battle for the Crown fight.
 - **Writes nightly letters to her twin sister**, who appears in the mirror as estranged and sought.
 - Has a **flirtation with Baptiste** ("just friends"; dagger strikes in her headboard). She saw Baptiste in the mirror on her first visit.
 
-**Elianna** (ParallaxStella).
+**[[Characters/Elianna|Elianna]]** (ParallaxStella).
 - A **tiefling and the Grandmaster's personal assistant**; carries a book and takes notes constantly.
 - About 5'2", curly black hair, light violet horns, light purple tail, red glasses on a teal-and-black reading chain.
 - Carries a vial of potent brandy and can cast Guidance.
 - Loathes the Arbiter. **Devoted to the Grandmaster ("oh, my sweet lady")**; her mirror showed them snuggled together in a snowy cabin.
 - **Sent as chaperone.** Made the Grandmaster a promise to come back safely. The Grandmaster sees herself in her.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Defeated in his attempt to overthrow the Grandmaster.** Now her chained prisoner in sackcloth, **sleeping in a cage, unwashed, "honoring our deal."** She still finds uses for him.
 - **Sat on her throne picking his teeth with a knife.** Opens the Hall of Fates locks with a flick of the wrist, still shackled.
 - Claims never to have visited the desert plane himself.
 - **Cast Disintegrate on the three to send them there:** "That's one way to solve my problems."
 
-**Grandmaster Elusia Skypiercer** (mentioned only).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (mentioned only).
 - Away "on a tour of the Void," with a spa treatment at three.
 - Took Toddleheim and Locket into her court. Wrote the letters, ordered the Arbiter to help, and sent Elianna as chaperone.
 - "Very old." She **arrived at Cor'thun lost after the death of her father.**
 
-**Orin** (Drew).
+**[[Characters/Orin|Orin]]** (Drew).
 - (a) **A fallen comrade, a werebear**, whose hands bracing Flynry are a vision. Lost in the Hall of Fates.
 - (b) **Flynry's dream son**, named after him: mid-twenties, an accomplished politician in Prexmarin, robed.
 
-**Lillian**. Flynry's dream wife: petite, playful, in a green dress. She crumbled into sand after whispering to him.
+**[[Characters/Lillian|Lillian]]**. Flynry's dream wife: petite, playful, in a green dress. She crumbled into sand after whispering to him.
 
-**Olaf**. The dream village blacksmith, with a braided beard. A drinking champion who keeps rocket-fuel booze in a skin in his pants and boasts he could beat the Arbiter.
+**[[Characters/Olaf|Olaf]]**. The dream village blacksmith, with a braided beard. A drinking champion who keeps rocket-fuel booze in a skin in his pants and boasts he could beat the Arbiter.
 
-**Gregor the Baker; old lady Margaret**. Dream villagers.
+**[[Characters/Gregor the Baker; old lady Margaret|Gregor the Baker; old lady Margaret]]**. Dream villagers.
 
-**Baptiste** (Drew). An elven gentleman with flowing cloaks and many daggers. He throws rocks at Locket's window at night to invite her to "practice stabbing."
+**[[Characters/Baptiste|Baptiste]]** (Drew). An elven gentleman with flowing cloaks and many daggers. He throws rocks at Locket's window at night to invite her to "practice stabbing."
 
-**Professor Stabbz**. In Flynry's dream history, he won the Battle for the Crown alongside Flynry.
+**[[Characters/Professor Stabbz|Professor Stabbz]]**. In Flynry's dream history, he won the Battle for the Crown alongside Flynry.
 
-**Gon, Kenny**. Named among friends lost along the way ("Dissolved into acid").
+**[[Characters/Gon|Gon, Kenny]]**. Named among friends lost along the way ("Dissolved into acid").
 
-**The goblin**. Opens the Dread Fortress throne-room doors.
+**[[Characters/The goblin|The goblin]]**. Opens the Dread Fortress throne-room doors.
 
-**Sand creatures**. A sand minotaur with a re-forming greataxe; it can't re-form past glass mirror. Large sand scorpions.
+**[[Characters/Sand creatures|Sand creatures]]**. A sand minotaur with a re-forming greataxe; it can't re-form past glass mirror. Large sand scorpions.
 
 ### Places
-- **The dream village**: a countryside village with an ancient oak, a river and a market square. It turned to sand.
-- **The green-sand desert / "the in-between"**:
+- **[[Places/The dream village|The dream village]]**: a countryside village with an ancient oak, a river and a market square. It turned to sand.
+- **[[Places/The green-sand desert|The green-sand desert / "the in-between"]]**:
   - Mirror-green, cold sand under a black sky of nebulas, with sand-fingers that rise to form stars.
   - You can't reach the horizon, and time is indiscernible (years or decades for Flynry).
   - **The sand is made of completely destroyed souls; its magic is "evil in nature."** It has a name not yet given; few return from it.
-- **Prexmarin**: a city where Orin works in the dream, and a place the party travels through in reality.
-- **The Dread Fortress**:
+- **[[Places/Prexmarin|Prexmarin]]**: a city where Orin works in the dream, and a place the party travels through in reality.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**:
   - Visible from everywhere, it follows you; an orc skull across a lava field, entered through the orc's mouth.
   - Portraits of the Grandmaster and of a man with a golden shield.
   - The throne room has a stone face of the Grandmaster above the throne, and iron-and-wood doors.
   - Deep stairs lead down to the locked Hall of Fates.
-- **The Hall of Fates**: floating mirrors over an abyss. The mirrors are portals and "living creature," connections between planes. They show your deepest desire or what would most tempt your soul in, and **they take a piece of the soul of anyone who can't look away.** Called "the Hall of Mirrors" by BdTeej at 0:02:13.
+- **[[Places/The Hall of Fates|The Hall of Fates]]**: floating mirrors over an abyss. The mirrors are portals and "living creature," connections between planes. They show your deepest desire or what would most tempt your soul in, and **they take a piece of the soul of anyone who can't look away.** Called "the Hall of Mirrors" by BdTeej at 0:02:13.
 
 ### Items
-- **Flynry's mirror greatsword** ("truth").
+- **[[Items/Flynry's mirror greatsword|Flynry's mirror greatsword]]** ("truth").
 - Olaf's skin of "the good stuff."
 - Elianna's book and her vial of brandy.
 - The Grandmaster's letters.

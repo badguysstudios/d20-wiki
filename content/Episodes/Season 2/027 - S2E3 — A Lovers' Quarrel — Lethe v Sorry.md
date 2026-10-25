@@ -142,7 +142,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Lethe** (pi_sharp)
+**[[Characters/Lethe|Lethe]]** (pi_sharp)
 - **Appearance:** a seven-foot Goliath (they/them) with bluish-gray skin, white tattoos and a white tuft of hair. Their eyes were once yellow and are now white, and white light motes drift off them.
 - **Background:** the Witchlight Carnival has been their home all their life, where "it's my job to stay alive." They were asleep at the carnival when they were pulled into the arena.
 - **Abilities:**
@@ -155,24 +155,24 @@ tags: [episode, season-2]
 - **Belongings:** a song horn (sentimental), a flask of cranberry juice and hand axes. A goblin took the flask and axes.
 - **History with Sorry:** they dated. Lethe waited outside Sorry's potion class the week the carnival was at Strixhaven. Sorry said they weren't smart enough for wizard school (or "couldn't do it"). Lethe heard it as "we don't fit together" and left without asking her to join the carnival.
 
-**Sorry** (stellaluna)
+**[[Characters/Sorry|Sorry]]** (stellaluna)
 - **Appearance:** a 6'5" satyr with deer-like legs and a little deer tail, very muscular, in a deep V-neck with colorful scarves.
 - **Gear:** a longsword and a shield with the **Lorehold** emblem.
-- **Strixhaven:** a graduate whose only spell is comprehend languages, which she casts by **eating the paper**. Bugbear essay.
+- **[[Places/Strixhaven|Strixhaven:]]** a graduate whose only spell is comprehend languages, which she casts by **eating the paper**. Bugbear essay.
 - **Abilities:** a wild magic barbarian. Her rage summons pixie spirits that explode as glitter bombs. Bolstering magic; Unstable Backlash gave her rainbow protective lights.
 - **Now:** a "glorified babysitter" who was on a dungeon field trip with "little ones" when she was pulled into the arena.
 - **Personality:** **cannot tell lies** (Lethe calls it a curse; she didn't know). An "aggressive crybaby" by default. Values hydration and self-care.
 - She found a potion of healing in the shop.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - **Before the fight:** bored of Hallmark Christmas romances on an old TV in the Dread Fortress, she knocked the TV over.
-- **The arena:** owns the winter town as her private retreat.
-- **Doug the pug:** sits beside her throne, and she voices his barking.
+- **[[Places/The arena|The arena:]]** owns the winter town as her private retreat.
+- **[[Characters/Doug the Pug|Doug the pug:]]** sits beside her throne, and she voices his barking.
 - **During the fight:** keeps metal chairs behind her throne. Telepathically urged Lethe to "trust your heart." Eavesdropped on the reconciliation.
 - **Verdict:** knelt to the pair, named both champions and gave them the town as a home.
 - Talks often with the Arbiter's mom.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Brought the exes as "something more true to life."
 - "Had a girlfriend once… she went to a different school."
 - Chose the winter town.
@@ -180,30 +180,30 @@ tags: [episode, season-2]
 - Out of shape at chair-fu; Dave runs the chair-fu class.
 - **Called "a master of time" by the GM.** He will return the pair to whatever time they choose.
 
-**Doug the pug.** Sits by the GM's throne. The victor gets to pet and walk him, so now he gets "double the walkies."
+**[[Characters/Doug the Pug|Doug the pug.]]** Sits by the GM's throne. The victor gets to pet and walk him, so now he gets "double the walkies."
 
-**The Mad Hatter.** A chaos-event figure who swapped the champions' positions.
+**[[Characters/The Mad Hatter|The Mad Hatter.]]** A chaos-event figure who swapped the champions' positions.
 
-**The goblins:**
+**[[Characters/Goblins|The goblins:]]**
 - They scurried to pick up the TV.
 - The kidnapper goblins in the floor tiles. One took Lethe's flask and hand axes.
 - A scimitar goblin who needs rent money. **"Kenny's got to pay his rent" (0:54:30) inferred: this goblin is named Kenny.**
 - **HR**, a small, frightened goblin in the corner.
 
-**Dave.** Runs a "chair-fu class" (mentioned).
+**[[Characters/Dave|Dave.]]** Runs a "chair-fu class" (mentioned).
 
 ### Places
-- **The Dread Fortress halls / the Grandmaster's throne.**
-- **The Grandmaster's winter town:**
+- **[[Places/The Dread Fortress halls|The Dread Fortress halls / the Grandmaster's throne.]]**
+- **[[Places/The Grandmaster's winter town|The Grandmaster's winter town:]]**
   - Her personal vacation retreat, "my home away from home"; "a proverbial snow globe."
   - Snowy alleyways and the magic potion shop with its ethereal mist basin.
   - **Given to Lethe and Sorry as their home.**
-- **Witchlight Carnival** (Lethe's home). It visited the Void "last week."
-- **Strixhaven** and its **Lorehold** college; potion class.
+- **[[Places/Witchlight Carnival|Witchlight Carnival]]** (Lethe's home). It visited the Void "last week."
+- **[[Places/Strixhaven|Strixhaven]]** and its **Lorehold** college; potion class.
 - An unnamed dungeon (Sorry's field trip).
 
 ### Items
-- **The Box of Chaos:** pink and yellow flames. It grants a magic item in exchange for a sacrifice, and it vanished at the GM's look.
+- **[[Lore/The Box of Chaos|The Box of Chaos:]]** pink and yellow flames. It grants a magic item in exchange for a sacrifice, and it vanished at the GM's look.
 - Metal chairs.
 - The GM's old TV and remote.
 - Lethe's song horn, cranberry-juice flask and hand axes.

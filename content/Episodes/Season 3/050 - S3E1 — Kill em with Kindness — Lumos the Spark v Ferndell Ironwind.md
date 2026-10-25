@@ -289,7 +289,7 @@ In-character or canon-relevant lines (Dried Blood):
 
 ## Who and what appears
 ### Characters
-**Lumos the Spark** (Lumos's player).
+**[[Characters/Lumos the Spark|Lumos the Spark]]** (Lumos's player).
 - **A high elf**, obsessed with corgis from time spent with "the faith [fae?] folk," who ride corgis.
 - **She owns Maximus, a corgi who can fly.**
 - **In another dimension she is an office worker and bounty hunter**, a rival of Ferndell, and very wealthy ("quadrillion" dollars, per her will and Dried Blood).
@@ -298,7 +298,7 @@ In-character or canon-relevant lines (Dried Blood):
 - **Immune to blindness and deafness for the rest of the match** after saving vs Ferndell ("LASIK").
 - **Died to Phantasmal Killer (Ferndell's mom). She left everything to Maximus**, and was revived for Dried Blood.
 
-**Ferndell Ironwind** (Ferndell's player).
+**[[Characters/Ferndell Ironwind|Ferndell Ironwind]]** (Ferndell's player).
 - **A dwarf wizard and bounty hunter** in the office dimension. He wants to be the highest-earning bounty hunter there.
 - **Steals Lumos's yogurts and throws them out uneaten**; he's "not supporting big yogurt." He self-titled "**the Yogurt Stealer**" for Gerald.
 - **Spells this episode:** shield, Blindness/Deafness, Slow, Misty Step, Charm Person (on Maximus), Fireball (from the Treatise), Phantasmal Killer at 5th level.
@@ -306,52 +306,52 @@ In-character or canon-relevant lines (Dried Blood):
 - **His mother** is a nice cookie-baking, grandmotherly lady in a white and pink apron, as his Phantasmal Killer made her murderous. She sent "kisses," and expects him at **dinner on Friday** (per the GM).
 - **Winner**; he slipped local yogurt into the Grandmaster's pockets.
 
-**Maximus**, Lumos's corgi.
+**[[Characters/Maximus|Maximus]]**, Lumos's corgi.
 - Can fly. Sleeps in her bed with his head on the pillow, so he's ruled "humanoid enough" for Charm Person. Has +2 Wisdom ("a smart dog," "a good boy").
 - He likes cheese. Charmed and bribed, he bit Lumos.
 - **Inherits her fortune as "the world's first quadrillionaire dog" and opens a dog shelter, run with Doug's help.**
 - Bec in Dried Blood: "a small dog deity of his own."
 
-**Doug the Pug** ("our pug").
+**[[Characters/Doug the Pug|Doug the Pug]]** ("our pug").
 - Sits on a fancy cushion by the Grandmaster's throne and wears a collar. He rolls a plushie D20 after the Arbiter's end-of-round rolls (13, 10) and beats him both times.
 - Exchanged a respectful nod with Maximus. Volunteers at Maximus's shelter Mon/Wed/Fri/Sun.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Chained at wrists and ankles, in plain cloth clothes and spectacles instead of his black robes, doing the Grandmaster's paperwork and taxes.** The chains are blamed for his bad rolls and slow bathroom trips. Why he's chained is not explained in this episode.
 - Says Ferndell's hero-point deal "might be one of the better ones I've ever seen." Carried Lumos off by the ankle. Charged with the local-yogurt vendor contracts.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Sleeps in to 9 PM on Sundays.
 - **Bought 203 chinchillas, one per goblin, to prevent a goblin uprising.**
 - Fears the IRS, has filed for extensions three times, and claims to be "illiterate" / bad at math.
 - Overruled Gerald to double Ferndell's reward. Played tag through a chaos-event hug ("You're it"). Gave Lumos d4 inspiration.
 - **Decreed that D20 Deathmatch and the Dread Fortress arena will only use local yogurt vendors.**
 
-**Gerald, the Box of Chaos** (Drew).
+**[[Items/Gerald, the Box of Chaos|Gerald, the Box of Chaos]]** (Drew).
 - Shadowy hands, glowing yellow eyes, foul-mouthed. "Don't tell me how to be a box of chaos." He keeps items "laying around."
 
-**The 203 chinchillas**.
+**[[Characters/The 203 chinchillas|The 203 chinchillas]]**.
 - Bought for the goblins. They stampeded the arena, and their leader smokes a cigarette and cites "union rules."
 - They left "to join their goblin owners."
 
-**The goblins**: owners of the chinchillas, prone to jealousy and uprisings.
+**[[Characters/Goblins|The goblins]]**: owners of the chinchillas, prone to jealousy and uprisings.
 
-**Vegeta**: a chat Acolyte who won a t-shirt (chat username).
+**[[Characters/Vegeta|Vegeta]]**: a chat Acolyte who won a t-shirt (chat username).
 
 ### Places
-- **The Dread Fortress halls**: damp walls, steam from the lava outside, pictures of the Grandmaster everywhere.
-- **The Grandmaster's throne room** (Dread Fortress), with the Arbiter's paperwork desk.
-- **The arena of nowhere / Room to Nowhere**: the GM's "favorite little getaway."
+- **[[Places/The Dread Fortress halls|The Dread Fortress halls]]**: damp walls, steam from the lava outside, pictures of the Grandmaster everywhere.
+- **[[Places/Throne Room (Dread Fortress)|The Grandmaster's throne room]]** (Dread Fortress), with the Arbiter's paperwork desk.
+- **[[Places/The arena of nowhere|The arena of nowhere / Room to Nowhere]]**: the GM's "favorite little getaway."
   - Safe paths over an endless abyss, with a central fire because "the void out here is rather chilly."
   - **Three teleport runes**: random destination, and they take everyone with you. Crowd stands above.
-- **The lava hellscape**: lava rivers meeting at a "four corners" lava bed, and a flaming altar 15 ft up.
-- **The office dimension**: Lumos and Ferndell's bounty-hunter office, with the break room and fridge.
+- **[[Places/The lava hellscape|The lava hellscape]]**: lava rivers meeting at a "four corners" lava bed, and a flaming altar 15 ft up.
+- **[[Places/The office dimension|The office dimension]]**: Lumos and Ferndell's bounty-hunter office, with the break room and fridge.
 
 ### Items
-- **Fulminating Treatise**: a crackling spellbook (Contingency, Fireball, Gust of Wind, Leomund's Tiny Hut, Magic Missile, Thunderwave, Wall of Force), 3 charges.
-- **Sentient greatsword** ("Hazuron," likely Hazirawn): +2, necrotic, detect charges, wounding.
-- **The donkey piñata**: Twinkies (melted), two Tootsie Rolls (one flaming), and a Werther's.
-- **Doug's plushie D20** and fancy cushion.
+- **[[Items/Fulminating Treatise|Fulminating Treatise]]**: a crackling spellbook (Contingency, Fireball, Gust of Wind, Leomund's Tiny Hut, Magic Missile, Thunderwave, Wall of Force), 3 charges.
+- **[[Items/Sentient greatsword|Sentient greatsword]]** ("Hazuron," likely Hazirawn): +2, necrotic, detect charges, wounding.
+- **[[Items/The donkey piñata|The donkey piñata]]**: Twinkies (melted), two Tootsie Rolls (one flaming), and a Werther's.
+- **[[Items/Doug's plushie D20|Doug's plushie D20]]** and fancy cushion.
 - Lumos's cracked-heel boots. Ferndell's bag of cheese treats. The local-brand yogurt in the GM's pockets.
 
 ### Lore statements

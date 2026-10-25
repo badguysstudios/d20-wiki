@@ -131,7 +131,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Kopy Katt** (Kat). A copier with no identity of her own: "I am everyone and I am everywhere… not one is my own." Called "a changeling of sorts" by Drew (Dried Blood).
+**[[Characters/Copycat|Kopy Katt]]** (Kat). A copier with no identity of her own: "I am everyone and I am everywhere… not one is my own." Called "a changeling of sorts" by Drew (Dried Blood).
 - **Appearance:** wore a paper bag over her head. Underneath is a purplish, featureless face with a red-marker smiley face drawn like a three-year-old's. She puts on terrible masks (the Lord of Fate, papier-mâché Thea).
 - **How she copies:** repeats others' words exactly and mirrors their actions. She keeps a book of cards to pick personas. Carries 67 IDs, 68 after robbing the patron "J".
 - **Recruited** from the Social Security Administration office.
@@ -143,7 +143,7 @@ tags: [episode, season-5]
 - **Partner:** tag-teamed with Emmery.
 - Federal agents are reportedly tracking her for her "impressive record."
 
-**Professor Alonzo Quixote Cervantes, Esquire** (Rogue). Elderly but jacked.
+**[[Characters/Professor Alonzo Quixote Cervantes|Professor Alonzo Quixote Cervantes, Esquire]]** (Rogue). Elderly but jacked.
 - **Profession:** professor and student of warfare, combat and bloodshed; also a lawyer, with tenure. His degree is from "Bullshit University" (per the operator).
 - **Background:**
   - A fan of the show.
@@ -156,39 +156,39 @@ tags: [episode, season-5]
 - **Family:** estranged from his mother, whose favorite he is. He has siblings, and his mother has a husband.
 - **Death:** died slapped into the fireplace by Emmery-as-his-mother.
 
-**Mama Cervantes** (Bec on the phone; Rogue once summoned). An "incredibly ancient little old lady." She is retired, looks like Mary Poppins, and is the one he "learned everything from." She calls him "my little fighter." She rose from the fire, fought the gorilla, and stripped to bloomers in a muscled rage.
+**[[Characters/Mama Cervantes|Mama Cervantes]]** (Bec on the phone; Rogue once summoned). An "incredibly ancient little old lady." She is retired, looks like Mary Poppins, and is the one he "learned everything from." She calls him "my little fighter." She rose from the fire, fought the gorilla, and stripped to bloomers in a muscled rage.
 
-**Emmery** (Drew). Owner and bartender of Emmery's Tavern.
+**[[Characters/Emmery|Emmery]]** (Drew). Owner and bartender of Emmery's Tavern.
 - Brews the number two ale, smoked over sheep dung; it's the only drink.
 - Wipes the same worn, dented spot all the time. Has an extremely long arm.
 - Needs the money. Saved the frozen chinchilla in his armpit.
 - **A changeling**: he took the forms of Kopy Katt, the Lord of Fate and Mama Cervantes, and delivered the killing blow.
 
-**The Lord of Fate** (Drew).
-- **Thea:** created her a week ago and doesn't pay her ("Do you think I got paid as the Arbiter?"). Keeps a performance report on her.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+- **[[Characters/Thea (Plintos)|Thea:]]** created her a week ago and doesn't pay her ("Do you think I got paid as the Arbiter?"). Keeps a performance report on her.
 - Concerned about optics and PR. Says "we're on a budget."
 - Claims "I killed the Shadow King!" (speaker inferred).
 - Entered the fight once with a metal chair, then poofed back to his throne. Says he could stop time.
 
-**Thea** (Bec). The Lord of Fate's pink imp assistant, created a week ago.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Lord of Fate's pink imp assistant, created a week ago.
 - Says she was a worm ("They didn't accept worms"). Lied about going to college.
 - Bleeds sparkling blue glitter. Has nine fingers and lost a thumb when she "chopped it off."
 - Pink portals, an arrow tail, a credit score around 20.
 - Was thrown as a weapon and face-hugged Cervantes.
 
-**The Box of Chaos shadow** (Drew). Formerly the Lord of Fate's "actual shadow," now fueling the box.
+**[[Characters/The Box of Chaos shadow|The Box of Chaos shadow]]** (Drew). Formerly the Lord of Fate's "actual shadow," now fueling the box.
 - Legless; drags himself by one hand.
 - Took Cervantes's mustache and wore it white, smoking a cigar.
 - Has used the rusty spoon in many knife fights.
 - Moved into a new red chest three times the size, with compartments.
 
-**The chinchillas.** Unionized (health care, free gym, stocked kitchen) and jacked; they towel-whip on command. Thea blames them for things. A lone frozen chinchilla came in from the blizzard and wouldn't trust Kopy Katt.
+**[[Lore/Chinchillas|The chinchillas.]]** Unionized (health care, free gym, stocked kitchen) and jacked; they towel-whip on command. Thea blames them for things. A lone frozen chinchilla came in from the blizzard and wouldn't trust Kopy Katt.
 
-**The passed-out patron** ("J"). Alive, and robbed of ID and credit card. Thrown at Kopy Katt: "Hey, hey, hey."
+**[[Characters/The passed-out patron|The passed-out patron]]** ("J"). Alive, and robbed of ID and credit card. Thrown at Kopy Katt: "Hey, hey, hey."
 
 ### Places
-- **The Lord of Fate's throne room**: a single chair, the throne.
-- **Emmery's Tavern**: small and dirty, with stone floors, a fireplace with a giant skull over it, and a worn spot on the bar. Its ceiling vanishes for the Acolytes at the end.
+- **[[Places/The Lord of Fate's throne room|The Lord of Fate's throne room]]**: a single chair, the throne.
+- **[[Places/Emmery's Tavern|Emmery's Tavern]]**: small and dirty, with stone floors, a fireplace with a giant skull over it, and a worn spot on the bar. Its ceiling vanishes for the Acolytes at the end.
 - The Social Security Administration office; space waffles / the Waffle House with crocodiles; Bullshit University (all mentioned only).
 
 ### Items

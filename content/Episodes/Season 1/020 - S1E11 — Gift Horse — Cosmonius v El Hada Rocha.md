@@ -171,7 +171,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Cosmonius** (RobertHartleyGM). A large chestnut centaur from **the Feywild**.
+**[[Characters/Cosmonius|Cosmonius]]** (RobertHartleyGM). A large chestnut centaur from **the Feywild**.
 - **Look:** olive-skinned strongman torso; long Fabio-like hair; handlebar moustache and beard; leather fist wraps. By the end, his hair and moustache are singed and there is chocolate in the moustache.
 - **Titles:** "the Galloping Grappler," "the Harrowing Hooves," "Chopsbuster" (a named punch, then a title), "Piñata King."
 - **Abilities:** a monk. Uses Step of the Wind, Flurry of Blows, Stunning Strike, Focused Aim, Deflect Missiles, slow fall, and Hand of Harm/Healing ("a bit of a healer"). Fey-touched (Bless, Misty Step, invoked by bowing to the fairy queens of the Seelie Court). Savage Attacker.
@@ -182,7 +182,7 @@ tags: [episode, season-1]
 - Wore the piñata's donkey head; kept two full-size candy bars in his hand wraps.
 - **Died** to El Hada Rocha's final Hellish Rebuke.
 
-**El Hada Rocha** (DeadAussieGamer). A fairy luchador from **the Feywild(s)**, "champion of the peacock spirit," servant of "the Peacock God."
+**[[Characters/El Hada Rocha|El Hada Rocha]]** (DeadAussieGamer). A fairy luchador from **the Feywild(s)**, "champion of the peacock spirit," servant of "the Peacock God."
 - **Look:** a spandex suit, worn until he rips it off. A luchador mask with a peacock-feather headdress. Rainbow dragonfly wings that later become blue flame-feathers. Fireflies live in his mask. He bleeds purple ("pixie blood").
 - **Rose tattoos** across his torso, with a name under each rose, and an empty spot where he remembers opponents.
 - **Family:** speaks Spanish; "a good grandson." Earliest memory: making tripitas with his grandma. Says "Me and Poppy had a very bad relationship." Swears in Sylvan.
@@ -191,21 +191,21 @@ tags: [episode, season-1]
 - **The Arbiter's gifts:** he carried the Arbiter's coin purse (with a healing vial) and used the Arbiter's **feather-nest shield**. He reached the Arbiter's "88" time-bending luck.
 - **Died** to Cosmonius's jab. He pulled off his mask as he fell.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Failed to notice Elusia's new hair color.
 - **Bet on El Hada Rocha because he wore a mask**; gave him the coin purse and later the feather shield.
 - Controlled both champions as puppets (Kalindra's event). Opened a portal to Florida to dispose of the grandparents. Electrified the generator room. Rearranges Dread Fortress stones into doorways.
 - Ran El Hada Rocha's "88" time counter.
 - "Contractually" obliged to trigger chaos.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Now has blonde hair, a recent change** ("literally the opposite color").
 - **Says she built the Dread Fortress herself, with a lot of help from the goblins.**
 - Has a private study with an enormous door. Has a throne seat beside **Doug the pug**.
 - Favoured Cosmonius after his flattery. Gave him first-blood inspiration, and gave El Hada Rocha a mercy reroll.
 - Ended the night without a champion and gave a eulogy for both.
 
-**The grandparents** (chat-thrown; they look like goblins, and the grandpas like hobgoblins or Mufasa).
+**[[Characters/The grandparents|The grandparents]]** (chat-thrown; they look like goblins, and the grandpas like hobgoblins or Mufasa).
 - **B. Harthur:** smacked El Hada Rocha.
 - **The kissing grandma:** kissed Cosmonius, gave him a stale cookie, then jealously slapped both champions.
 - **The crab-fearing grandma**, **the impressed grandpa** ("I remember the first time I had crabs"), and **the veteran grandpa** who has "seen some shit."
@@ -214,27 +214,27 @@ tags: [episode, season-1]
 - Other chat names: Shirley, Isabelle, Betty, Judith, Naomi, Marion, Suzanne, Lucille, Lucid, Lorna, Lorraine; grandpas Don, Laverne, James.
 - **All were sent to a Florida retirement home.**
 
-**Kalindra / Calindria**: an Acolyte (a Patreon heavyweight-tier subscriber) credited in-world with gifting the puppet-strings chaos event.
+**[[Characters/Kalindra|Kalindra / Calindria]]**: an Acolyte (a Patreon heavyweight-tier subscriber) credited in-world with gifting the puppet-strings chaos event.
 
-**Doug the pug**: sits by the GM's throne seat in the stands.
+**[[Characters/Doug the Pug|Doug the pug]]**: sits by the GM's throne seat in the stands.
 
-**The goblins**: helped build the Dread Fortress and are proposed as blood-cleaners. Cosmonius's "tech goblins" follow him everywhere (a table joke).
+**[[Characters/Goblins|The goblins]]**: helped build the Dread Fortress and are proposed as blood-cleaners. Cosmonius's "tech goblins" follow him everywhere (a table joke).
 
 ### Places
-- **The Grandmaster's private study** in the Dread Fortress, behind an unfathomably large door, full of books.
-- **The generator room**, deep in the Dread Fortress: cold, metal, grinding gears. "Everything here powers the Dread Fortress."
+- **[[Places/The Grandmaster's private study|The Grandmaster's private study]]** in the Dread Fortress, behind an unfathomably large door, full of books.
+- **[[Places/The generator room|The generator room]]**, deep in the Dread Fortress: cold, metal, grinding gears. "Everything here powers the Dread Fortress."
   - A platform with 3-ft railings, a tower, green-flame lanterns, and pylons.
   - A floor of giant spinning gears 20–30 ft below.
   - No drains.
   - Electrified mid-fight.
-- **The floating grandstand** above it, on "dollar hot dog night in the Dread Fortress."
-- **The Feywild**, home of both champions; **the Seelie Court**.
-- **Florida** (a retirement home), reached by the Arbiter's portal.
+- **[[Places/The floating grandstand|The floating grandstand]]** above it, on "dollar hot dog night in the Dread Fortress."
+- **[[Places/The Feywild|The Feywild]]**, home of both champions; **the Seelie Court**.
+- **[[Places/Florida|Florida]]** (a retirement home), reached by the Arbiter's portal.
 
 ### Items
-- **The Arbiter's coin purse**, tied to El Hada Rocha's mask, with a small healing vial inside.
-- **The feather-nest shield**, woven by the Arbiter from El Hada Rocha's mask feathers. It caught fire and became the crab.
-- **The donkey piñata** and its head (Cosmonius's flimsy helmet). **Four full-size candy bars** ("Ferrero Rochers") came out of it.
+- **[[Items/The Arbiter's coin purse|The Arbiter's coin purse]]**, tied to El Hada Rocha's mask, with a small healing vial inside.
+- **[[Items/The feather-nest shield|The feather-nest shield]]**, woven by the Arbiter from El Hada Rocha's mask feathers. It caught fire and became the crab.
+- **[[Items/The donkey piñata|The donkey piñata]]** and its head (Cosmonius's flimsy helmet). **Four full-size candy bars** ("Ferrero Rochers") came out of it.
 - Grandma's chocolate cookie; grandma purses and sandals.
 
 ### Lore statements

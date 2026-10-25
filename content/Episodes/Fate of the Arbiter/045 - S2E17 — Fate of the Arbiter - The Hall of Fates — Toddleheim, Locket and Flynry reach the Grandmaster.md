@@ -189,7 +189,7 @@ tags: [episode, fate-of-the-arbiter]
 
 ## Who and what appears
 ### Characters
-**Toddleheim "the Great"** (Ahnubyss). An old, well-travelled wizard.
+**[[Characters/Toddleheim the Great|Toddleheim "the Great"]]** (Ahnubyss). An old, well-travelled wizard.
 - **A werewolf since the castle ward;** he can half-transform (yellow eyes, teeth, claws, hair).
 - Drank the Seer's potion of aging: physically ~12 years younger.
 - "This was supposed to be my last adventure."
@@ -197,45 +197,45 @@ tags: [episode, fate-of-the-arbiter]
 - Spells this episode: Fire Bolt, Misty Step, healing, Create Bonfire, Magic Missile, Mold Earth (pushed beyond its limits).
 - Refused to look into the mirrors and heard only a squeaking like glass cleaning. **Talked Flynry back: "we're your family now."**
 
-**Locket** (Miss_Magitek). A furred cat-like ranger: Tabaxi, inferred from "Tabaxi or a Ranger thing" (2:29:14).
+**[[Characters/Locket|Locket]]** (Miss_Magitek). A furred cat-like ranger: Tabaxi, inferred from "Tabaxi or a Ranger thing" (2:29:14).
 - Fights with +1 short sword, offhand blade and a bow with flame arrows. Has Keen Mind and can climb.
 - **Smitten with Baptiste.** She kept his **pure silver +1 dagger**, and her mirror glance showed Baptiste.
 - **Bought the elven chain necklace** (+1 AC, deer pendant) for 5 gold, asking for something "to impress somebody."
 - Tired of living with "all of you"; wants a beach.
 
-**Flynry** (BDTeej). A traveler with "a condition": he shifts into a beast form, from a clawed arm up to a full shift.
+**[[Characters/Flynry|Flynry]]** (BDTeej). A traveler with "a condition": he shifts into a beast form, from a clawed arm up to a full shift.
 - **Immune to disease and poison.** Fights as a monk (unarmed strikes, Flurry of Blows, ki).
 - 6'2", 250, built.
 - Bought +1 studded gauntlets, the mood bracelet (given to Kenny) and the giant spoon (given to Frank).
 - Carries a book with Arcane Gate, perhaps mixed up "from the blind dragon."
 - **Has never had a home.** The mirrors showed him being celebrated and belonging, then a family feast with grandchildren. **Toddleheim and Locket freed him** from a mirror's tether.
 
-**Lyrus**. Leader figure of the Faithful's HQ, called "the bear."
+**[[Characters/Lyrus|Lyrus]]**. Leader figure of the Faithful's HQ, called "the bear."
 - **Two Void swords** that look like "a black chasm in space"; enemies they kill fold into small black voids. One blade was dulled by acid.
 - Casts Haste and Bless, and channels divinity (Vow of Enmity).
 - No longer in charge of strategy; nostalgic for open-field warfare.
 
-**Kenny** (goblin).
+**[[Characters/Kenny|Kenny]]** (goblin).
 - Missing an arm, with claw marks on his chest and face. Terrified of Toddleheim.
 - Covets the party's bracelet from "the gambling match"; Flynry jokes about his shorts.
 - Recruited Baptiste, smuggled out the Dread Fortress schematics, and was given the mood bracelet.
 - **Dies dissolving in the acid sewage under the Dread Fortress**, taking the schematics and armband with him.
 
-**Baptiste**. A slender, silver-haired elf in a blue (red/purple) cloak; a self-styled "knife smith."
+**[[Characters/Baptiste|Baptiste]]**. A slender, silver-haired elf in a blue (red/purple) cloak; a self-styled "knife smith."
 - Over-swishes his cloak; flirts with Locket and Toddleheim.
 - Frank gives him three or four days. Lyrus thinks he's "soft inside."
 
-**Frank**. An orc in furs, the Faithful's "resident chef."
+**[[Characters/Frank|Frank]]**. An orc in furs, the Faithful's "resident chef."
 - Cooks rodent stews and raccoon tacos (pulverized bones), seasons with dirt, and stirs with his battle axe.
 - Now owns a giant wooden spoon, which he seasoned in the ground.
 
-**The trench-coat merchant**. Sells knockoff spoons, jewelry, knives and maybe potions; wears very short shorts. Possibly called "Ryan" by Flynry. Sold the mood bracelet and the elven chain.
+**[[Characters/The trench-coat merchant|The trench-coat merchant]]**. Sells knockoff spoons, jewelry, knives and maybe potions; wears very short shorts. Possibly called "Ryan" by Flynry. Sold the mood bracelet and the elven chain.
 
-**The teenage stall worker**. Delivered the spoon to Frank: "who the fuck wants the spoon?"
+**[[Characters/The teenage stall worker|The teenage stall worker]]**. Delivered the spoon to Frank: "who the fuck wants the spoon?"
 
-**The Seer**. An old, blind Dragonborn who forged the party's items.
+**[[Characters/The Seer|The Seer]]**. An old, blind Dragonborn who forged the party's items.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Revealed this episode:
   - **Confesses to the coup, the Tarrasque attack on the arena and kidnapping himself.**
   - **Champions don't go home: he has gathered them, willingly or "touched by my shadow"** (white and black eyes).
@@ -244,32 +244,32 @@ tags: [episode, fate-of-the-arbiter]
 - His view of her rule: says he and the Grandmaster "came up together" and "took this kingdom together," and says she killed her uncle for the throne. Calls her soft: "Your weakness is a disease."
 - Accepts the wager for her title and throne.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Hadn't left the Dread Fortress in weeks except for Deathmatches; unaware of the coup.
 - Holds that Deathmatches are meant to challenge and strengthen, not punish. **Says champions were to be compensated and returned to their home timelines.**
 - **Calls Orin "a valued friend… an old friend."**
 - Explains that the Hall of Fates mirrors are a living creature and a defense mechanism.
 - Challenges the Arbiter to a public tournament for the Grandmaster title, putting her faith in the three.
 
-**Orin**. Not present. The Arbiter says he "doesn't exist anymore"; the Grandmaster calls him an old friend.
+**[[Characters/Orin|Orin]]**. Not present. The Arbiter says he "doesn't exist anymore"; the Grandmaster calls him an old friend.
 
-**Named members of the Arbiter's army:** Thornabub, Steely Dan, Ralzamon, Baron Voltágè, Mageic the Magician, Blacktooth, Karn, Mick Swiggins, Mad Cass, Dewdrop Grizzlebee, "Gordy got it, get him," Bully the Brave, and the Arbiter's shadow.
+**[[Characters/Named members of the Arbiter's army|Named members of the Arbiter's army:]]** Thornabub, Steely Dan, Ralzamon, Baron Voltágè, Mageic the Magician, Blacktooth, Karn, Mick Swiggins, Mad Cass, Dewdrop Grizzlebee, "Gordy got it, get him," Bully the Brave, and the Arbiter's shadow.
 
-**Other creatures:** the stone door guard (a patrol in the statue hallway), the rat swarms, the sludge elemental.
+**[[Characters/Other creatures|Other creatures:]]** the stone door guard (a patrol in the statue hallway), the rat swarms, the sludge elemental.
 
 ### Places
-- **The Faithful's hideout:** a makeshift HQ in an old smith shop with forges, sheet partitions, magic fans and a schematics room. Home for about six months.
-- **The market district** of the werewolf chase: cobblestones, duck windows, fruit stalls. **The seedy alleys and the grate** into the sewer pipes.
-- **The sewers under the Dread Fortress:** miles of pipe; acid sewage ("magical waste," oil, toxic waste); a smugglers' chamber; a drain chain; service rooms; a gated tunnel; a dead end under the floor.
-- **The statue hallway** in the Dread Fortress's west wing: a lightning trap redirected by mirrors in the statues' hands; loose stones over the sewer; a heavy unlocked wooden door.
-- **The Hall of Fates:** a rumored place deep in the Dread Fortress with void on either side and stairs to floating mirrors that show your true desires. The mirrors are a living creature (per the Grandmaster). Blue crystals at the end open a portal to the throne room.
-- **The Grandmaster's throne room** (Dread Fortress) and **the Arbiter's ice-covered throne room** ("my throne room").
+- **[[Places/The Faithful's hideout|The Faithful's hideout:]]** a makeshift HQ in an old smith shop with forges, sheet partitions, magic fans and a schematics room. Home for about six months.
+- **[[Places/The market district|The market district]]** of the werewolf chase: cobblestones, duck windows, fruit stalls. **The seedy alleys and the grate** into the sewer pipes.
+- **[[Places/The sewers under the Dread Fortress|The sewers under the Dread Fortress:]]** miles of pipe; acid sewage ("magical waste," oil, toxic waste); a smugglers' chamber; a drain chain; service rooms; a gated tunnel; a dead end under the floor.
+- **[[Places/The statue hallway|The statue hallway]]** in the Dread Fortress's west wing: a lightning trap redirected by mirrors in the statues' hands; loose stones over the sewer; a heavy unlocked wooden door.
+- **[[Places/The Hall of Fates|The Hall of Fates:]]** a rumored place deep in the Dread Fortress with void on either side and stairs to floating mirrors that show your true desires. The mirrors are a living creature (per the Grandmaster). Blue crystals at the end open a portal to the throne room.
+- **[[Places/Throne Room (Dread Fortress)|The Grandmaster's throne room]]** (Dread Fortress) and **the Arbiter's ice-covered throne room** ("my throne room").
 - Mentioned: the Arbiter's arena under his giant statue, the castle ward, the northern road and the southern and eastern fronts, the Dread Fortress kitchen, tiger pit and brewery.
 
 ### Items
 - Baptiste's **pure silver +1 dagger** (now Locket's).
-- **The elven chain necklace** with its antlered deer pendant (+1 AC).
-- **The mood bracelet** (melted with Kenny) and the **giant boat-sized wooden spoon** (Frank's).
+- **[[Items/The elven chain necklace|The elven chain necklace]]** with its antlered deer pendant (+1 AC).
+- **[[Items/The mood bracelet|The mood bracelet]]** (melted with Kenny) and the **giant boat-sized wooden spoon** (Frank's).
 - Flynry's **+1 studded gauntlets**.
 - Kenny's schematics (dissolved).
 - Lyrus's Void swords (one dulled).

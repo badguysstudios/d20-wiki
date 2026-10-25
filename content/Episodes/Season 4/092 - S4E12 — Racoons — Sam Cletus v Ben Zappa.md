@@ -256,7 +256,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Sam Cletus / Deletus / Samantha Cletus** (Stake).
+**[[Characters/Sam Cletus|Sam Cletus / Deletus / Samantha Cletus]]** (Stake).
 - **Who he is:**
   - **A wood elf from the deep woods** (a swamp region), **217 years old**, **one of Meemaw's 27 kids** (or grandkids).
   - Named after his father (Sam) and his great-grandpappy (Cletus).
@@ -271,7 +271,7 @@ tags: [episode, season-4]
   - The genie turned the penis into a raccoon vagina, and he became **Samantha Cletus**.
   - Flattened by the Jolly Chimp inside the box. He swore he'd come back for Ben "for life."
 
-**Ben Zappa** (Kyle).
+**[[Characters/Ben Zappa|Ben Zappa]]** (Kyle).
 - **Who he is:** a monk haunted by **the Jolly Chimp**, a ghostly antique cymbal-monkey toy. It wrecks his sleep, job and dating life; he eats melatonin like candy. Wears hard-to-find reproduction shoes, his only pair. His job's healthcare hasn't kicked in.
 - **What happened to him this episode:**
   - **Lost his left eye to the aliens.** It's covered by a glow-in-the-dark alien smiley-face circle band-aid.
@@ -280,12 +280,12 @@ tags: [episode, season-4]
   - Got the **Raccoon of Annihilation** from the box.
   - **Won.** He ended the episode bonded with the chimp and **locked inside the Box of Chaos by the Shadow King**, still with rabies.
 
-**The Jolly Chimp** (Ben's spirit). Disembodied arms of matted black fur, pale wrinkled knuckles, yellowed antique-dusty nails and tiny cymbals on each finger. Its visage: a bloody red fez, hypnotic red/black/white eyes and a grin of perfectly white flat teeth.
+**[[Characters/The Jolly Chimp|The Jolly Chimp]]** (Ben's spirit). Disembodied arms of matted black fur, pale wrinkled knuckles, yellowed antique-dusty nails and tiny cymbals on each finger. Its visage: a bloody red fez, hypnotic red/black/white eyes and a grin of perfectly white flat teeth.
 - It enjoys violence; it clapped instead of blocking.
 - **One hand was broken by Samantha's flex**, leaving it only one cymbal.
 - Fully took over Ben during the hero-point flurry.
 
-**Mrs. Meemaw** (unseen). Sam's grandma.
+**[[Characters/Mrs. Meemaw|Mrs. Meemaw]]** (unseen). Sam's grandma.
 - "A very powerful, beautiful woman 77 years ago."
 - Spits tobacco and smokes. Doesn't trust doctors.
 - Now sick: she "caught the sickness," which Sam also calls cancer and blames on "alligator mites" from the wrong pond.
@@ -293,49 +293,49 @@ tags: [episode, season-4]
 - Sponsored by an adult-toy site.
 - **Her voice came to Sam in slow motion to tell him to dodge.**
 
-**Dolores**. A raccoon thrown by the Acolytes and caught by Sam ("my soulmate").
+**[[Characters/Dolores|Dolores]]**. A raccoon thrown by the Acolytes and caught by Sam ("my soulmate").
 - Gave Ben rabies.
 - Sacrificed to the Box of Chaos, where she got a welcome party.
 - Fused with Sam: "We are all Dolores." "Dolores will live on within my penis."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Locked herself (accidentally) in the Dread Fortress pantry during prep for the monthly employee party. Frazzled all episode.
 - Her amulet cuts her weekly to open the portal.
 - Gave Sam Bane, pelted him with Hydro Flasks, and called the raccoon rain on him for calling her "baby."
 - Defends the staff's benefits and loves Henrietta.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - Makes keys from shadow fingers. Has killed five to ten therapists. Ate all the cake and spiked the punch.
 - Botched the taxes and blames Vythorn.
 - Killed the Acolyte Aether Flux to prime the box. His throne collapsed and he sat on a goblin pyramid.
 - Says he'll cut all employee benefits.
 - Locked Ben in the Box of Chaos, promising to "see what I can do about the rabies."
 
-**The genie**. A red (first pink) knockoff lamp genie, sleepy and rude.
+**[[Characters/The genie|The genie]]**. A red (first pink) knockoff lamp genie, sleepy and rude.
 - **One wish per day.** It granted Sam's wish badly.
 - Told Ben to "fuck off."
 
-**Henrietta the Goblin**. A small, adorable Dread Fortress goblin with bright blonde hair. Brought the Hydro Flask and rolled for the Shadow King.
+**[[Characters/Henrietta the Goblin|Henrietta the Goblin]]**. A small, adorable Dread Fortress goblin with bright blonde hair. Brought the Hydro Flask and rolled for the Shadow King.
 
 
-**The unusual four-legged goblin-like creature**. Brought Elusia her amulet.
+**[[Characters/The unusual four-legged goblin-like creature|The unusual four-legged goblin-like creature]]**. Brought Elusia her amulet.
 
-**The flat aliens**. Paper-thin abductors with no cheeks.
+**[[Characters/The flat aliens|The flat aliens]]**. Paper-thin abductors with no cheeks.
 
-**Fernando / Bartholomew**. Goblins who don't exist (0 of the 235 employees).
+**[[Characters/Fernando|Fernando / Bartholomew]]**. Goblins who don't exist (0 of the 235 employees).
 
 ### Places
-- **Dread Fortress pantry/closet** (where party supplies are kept).
-- **Throne room** that Elusia runs to (inferred: the Dread Fortress throne room).
-- **The abandoned throne room buried deep beneath the Dread Fortress**: cold, cobwebbed, tiered steps, statues, a heat-sucking green glow, open to the Acolyte stands.
-- **The inside of the Box of Chaos**: a void with a black tornado with yellow eyes, the spirits of the box, smoke ("hot box"), and no corners.
-- **The deep woods**: Sam's swampy home, where Aasimar bakers moved in.
+- **[[Places/Dread Fortress pantrycloset|Dread Fortress pantry/closet]]** (where party supplies are kept).
+- **[[Places/Throne Room (Dread Fortress)|Throne room]]** that Elusia runs to (inferred: the Dread Fortress throne room).
+- **[[Places/The abandoned throne room buried deep beneath the Dread Fortress|The abandoned throne room buried deep beneath the Dread Fortress]]**: cold, cobwebbed, tiered steps, statues, a heat-sucking green glow, open to the Acolyte stands.
+- **[[Places/The inside of the Box of Chaos|The inside of the Box of Chaos]]**: a void with a black tornado with yellow eyes, the spirits of the box, smoke ("hot box"), and no corners.
+- **[[Places/The deep woods|The deep woods]]**: Sam's swampy home, where Aasimar bakers moved in.
 
 ### Items
-- **The Box of Chaos**: a gold and pink chest with heatless fire that falls like a pink and yellow comet. It demands sacrifice and has shadowy clawed fingers and yellow eyes. Said to contain a rabies vaccine. It fuses and un-fuses beings.
-- **The Raccoon of Annihilation**: a squeaky raccoon-head charm that is a sphere of annihilation.
-- **The knockoff genie lamp**: a beat-up golden lamp, the second chaos event.
-- **Sam's Starbucks Hydro Flask** (melded into him).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: a gold and pink chest with heatless fire that falls like a pink and yellow comet. It demands sacrifice and has shadowy clawed fingers and yellow eyes. Said to contain a rabies vaccine. It fuses and un-fuses beings.
+- **[[Items/The Raccoon of Annihilation|The Raccoon of Annihilation]]**: a squeaky raccoon-head charm that is a sphere of annihilation.
+- **[[Items/The knockoff genie lamp|The knockoff genie lamp]]**: a beat-up golden lamp, the second chaos event.
+- **[[Items/Sam's Starbucks Hydro Flask|Sam's Starbucks Hydro Flask]]** (melded into him).
 - Ben's alien smiley band-aid; Sam's Nike sweatband; the sawed-off shotgun; Cool Ranch Doritos; the party cake.
 
 ### Lore statements

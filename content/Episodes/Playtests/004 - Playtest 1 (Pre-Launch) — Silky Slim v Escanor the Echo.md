@@ -45,26 +45,26 @@ tags: [episode, playtests]
 28. **2:13:53 — Escanor crowned "Champion of the Death Forest."** The Grandmaster spreads her wings; the rain avoids her. Escanor: "Family conquers all. And also pick up your own dry cleaning so you don't have your enemies do it." "To Escanor the Echo!" Snacks fly, balloons, someone releases a bag of snakes ("security will handle that"), fireworks.
 
 ## Who and what appears
-**Silky Slim** (EndlessChad). Bugbear barbarian (Totem of the Bear), glaive named **Bernice**, red outfit, skimpy top, oiled fur. Calls everyone "daddy." From somewhere with "genasi from the Thor coast"; shouts "this is for the northern Carolinian people." Knows the women of **the Crooked Rose** (Charlene, Vanessa, Chantel, Ashley, Erica). Carries hibiscus-scented lube in his briefs. Can speak with animals. **Lost, but was spared: kept in the Void "until you win your victory."**
+**[[Characters/Silky Slim|Silky Slim]]** (EndlessChad). Bugbear barbarian (Totem of the Bear), glaive named **Bernice**, red outfit, skimpy top, oiled fur. Calls everyone "daddy." From somewhere with "genasi from the Thor coast"; shouts "this is for the northern Carolinian people." Knows the women of **the Crooked Rose** (Charlene, Vanessa, Chantel, Ashley, Erica). Carries hibiscus-scented lube in his briefs. Can speak with animals. **Lost, but was spared: kept in the Void "until you win your victory."**
 
-**Escanor the Echo** (TheShortNord). Minotaur fighter (Echo Knight); world-class hide-and-seek player; longsword and three hand axes. Horns charged with lightning after the chaos event. Echo named **Cream** ("the cream of Escanor"), whom he treats as a twin brother; matching "fam"/"illy" tattoos; "the power of family." Protected the Grandmaster's ducklings. **Winner, Champion of the Death Forest.**
+**[[Characters/Escanor the Echo|Escanor the Echo]]** (TheShortNord). Minotaur fighter (Echo Knight); world-class hide-and-seek player; longsword and three hand axes. Horns charged with lightning after the chaos event. Echo named **Cream** ("the cream of Escanor"), whom he treats as a twin brother; matching "fam"/"illy" tattoos; "the power of family." Protected the Grandmaster's ducklings. **Winner, Champion of the Death Forest.**
 
-**The Grandmaster** (Bec). "Weary from eons of absolute power." Watches from a high perch; fighting stops when she's on the field. Loves the ducklings; made the runt giant. Says she has nieces and nephews (1:19:39). Has wings; rain avoids her.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). "Weary from eons of absolute power." Watches from a high perch; fighting stops when she's on the field. Loves the ducklings; made the runt giant. Says she has nieces and nephews (1:19:39). Has wings; rain avoids her.
 
-**The Arbiter** (Drew). Black and white robes; eight golden rings of fluorescent colors; mage hand and prestidigitation; opens portals; triggers chaos events; performs the anthem. Fills the Grandmaster's calendar and buys family birthday presents. Flips her off behind her back.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew). Black and white robes; eight golden rings of fluorescent colors; mage hand and prestidigitation; opens portals; triggers chaos events; performs the anthem. Fills the Grandmaster's calendar and buys family birthday presents. Flips her off behind her back.
 
-**The runt duckling.** Rescued by the Grandmaster, later grown giant to save both champions.
+**[[Characters/The runt duckling|The runt duckling.]]** Rescued by the Grandmaster, later grown giant to save both champions.
 
-**Music goblins.** Change the arena's music on the Arbiter's command.
+**[[Characters/Music goblins|Music goblins.]]** Change the arena's music on the Arbiter's command.
 
 ### Places
-- **The Forest of Death**: rainy, muddy arena of trees, hills, a cavern, a fire pit, a column, an aquifer that floods, hunters' bear traps; burned every three years.
-- **The Grandmaster's throne room**, described here as the lowest level of a "subterranean castle": the Dread Fortress (Drew).
-- **The Crooked Rose**: where Silky's women are (Silky's home world, not the Void).
+- **[[Places/The Forest of Death|The Forest of Death]]**: rainy, muddy arena of trees, hills, a cavern, a fire pit, a column, an aquifer that floods, hunters' bear traps; burned every three years.
+- **[[Places/Throne Room (Dread Fortress)|The Grandmaster's throne room]]**, described here as the lowest level of a "subterranean castle": the Dread Fortress (Drew).
+- **[[Places/The Crooked Rose|The Crooked Rose]]**: where Silky's women are (Silky's home world, not the Void).
 
 ### Groups
-- **Acolytes of the double ampersand**: the crowd, "loyal servants to our Grandmaster."
-- **Elven lawyers** (possibly on retainer).
+- **[[Groups/Acolytes of the double ampersand|Acolytes of the double ampersand]]**: the crowd, "loyal servants to our Grandmaster."
+- **[[Groups/Elven lawyers|Elven lawyers]]** (possibly on retainer).
 
 ### Show conventions first seen
 - The anthem; the floating grandstand; the Arbiter's call ("For dungeons, and dice, and deathmatches"); chaos events triggered by a crowd dice meter (rules mechanic); the fallen champion's fate decided by the Grandmaster.

@@ -233,7 +233,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Agatha Middlebrooke** (Cinderblocksally). An old grandma and "classic spooky warlock" (per Dried Blood), with bad knees.
+**[[Characters/Agatha Middlebrooke|Agatha Middlebrooke]]** (Cinderblocksally). An old grandma and "classic spooky warlock" (per Dried Blood), with bad knees.
 - **Background:** a member of the **Westhaven Book Club** (its council) and the local HOA. In her youth she was "a young rebel out in the mountains with the hemp and the boys."
 - **Personality:** hands out toffees and butterscotch, and is relentlessly complimentary. She is nice to everyone except raccoons and one chatter.
 - **Revealed to be Lug's grandmother.** Lug's father kept her away from Lug, so **she cursed him into her cat.**
@@ -241,45 +241,45 @@ tags: [episode, season-7]
 - **Plan:** to summon a spirit of death and collect souls to celebrate Lug's condos.
 - **Tips:** shoplifting from the bottom of the cart; "get a real job."
 
-**Lug Hardblock** (Zac). A rich, spoiled barbarian heel who grows enormous when he rages.
+**[[Characters/Lug Hardblock|Lug Hardblock]]** (Zac). A rich, spoiled barbarian heel who grows enormous when he rages.
 - **Gear and powers:** greataxe, warhammer, Elemental Cleaver (fire), Mighty Impel and pushing attacks, space helmet with flames drawn on.
 - **Appearance:** one eye.
 - **His father:** calls Lug "his special boy," taught him golf, bribed his way to Lug's firsts (an egg and spoon race, free college), and taught him to kill cats.
 - **Personality:** an only child. Hates therapy, the poor and "handouts." Real-estate developer with plans for high-rise condos on the worm town and on Agatha's old home.
 - **In this episode:** he killed the cat that held his father, chose not to fight his grandmother, and thanked her. Crowned a co-champion.
 
-**Lug's father, "Papa"**: broad-shouldered, tall, both eyes, square jaw, going silver, classically handsome. **Cursed by Agatha into Lord Cookie Mill.** Whispered "pathetic boy" through the cat. He died when Lug blew the cat up in the atmosphere.
+**[[Characters/Lug's father|Lug's father, "Papa"]]**: broad-shouldered, tall, both eyes, square jaw, going silver, classically handsome. **Cursed by Agatha into Lord Cookie Mill.** Whispered "pathetic boy" through the cat. He died when Lug blew the cat up in the atmosphere.
 
-**Lord Cookie Mill** (also "Cookie Milk"): Agatha's familiar, a Sphinx of Wonder in cat form.
+**[[Characters/Lord Cookie Mill|Lord Cookie Mill]]** (also "Cookie Milk"): Agatha's familiar, a Sphinx of Wonder in cat form.
 - Can fly. Its eyes go shark-black, and it uses Beguiling Defense to reflect damage.
 - Rolled two natural 20 Strength saves.
 - Exploded like a firework.
 
-**Jimothy**: a deformed raccoon with a nub tail and mangled teeth, living in an asteroid crater in the Ether Drifts. "Jimothy goes where Jimothy wants." He might have blessed someone kind. Shooed and struck with a broom, he urine-sprayed both champions (acid) and fled.
+**[[Characters/Jimothy|Jimothy]]**: a deformed raccoon with a nub tail and mangled teeth, living in an asteroid crater in the Ether Drifts. "Jimothy goes where Jimothy wants." He might have blessed someone kind. Shooed and struck with a broom, he urine-sprayed both champions (acid) and fled.
 
-**Thea**: the worm imp. She was stuck as a pink T-Rex after a polymorph from a knockoff wand out of the Box of Chaos, and wrecked the fortress hallway. The Arbiter restored her.
+**[[Characters/Thea (Plintos)|Thea]]**: the worm imp. She was stuck as a pink T-Rex after a polymorph from a knockoff wand out of the Box of Chaos, and wrecked the fortress hallway. The Arbiter restored her.
 
-**Stuart**: blamed for the tech failure. The Arbiter wants him fired; the Grandmaster offers him a bonus if the show survives. Whether he is in-world is unclear.
+**[[Characters/Stuart|Stuart]]**: blamed for the tech failure. The Arbiter wants him fired; the Grandmaster offers him a bonus if the show survives. Whether he is in-world is unclear.
 
-**The Arbiter** (Drew): fixed Thea, and denies responsibility for the Box of Chaos ("Nobody's in charge of the box"). Wears Italian leather shoes. Enjoys toffee and Agatha's kindness. White glowing wings.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew): fixed Thea, and denies responsibility for the Box of Chaos ("Nobody's in charge of the box"). Wears Italian leather shoes. Enjoys toffee and Agatha's kindness. White glowing wings.
 
-**Grandmaster Elusia Skypiercer** (Bec): angry about the fortress damage and wants the box controlled. Switches sides repeatedly. Flustered by the ending, she crowned both champions.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec): angry about the fortress damage and wants the box controlled. Switches sides repeatedly. Flustered by the ending, she crowned both champions.
 
-**The worm civilization**: tiny multicolored worm-like beings underground in the asteroid crater. Agatha's fall crushed 60 of them. (Dried Blood: worm lore since about Season 1; their mayor was killed.)
+**[[Characters/The worm civilization|The worm civilization]]**: tiny multicolored worm-like beings underground in the asteroid crater. Agatha's fall crushed 60 of them. (Dried Blood: worm lore since about Season 1; their mayor was killed.)
 
 ### Places
-- **The Dread Fortress**: a hallway damaged by T-Rex Thea, with its foundation needing repair.
-- **The Ether Drifts asteroid** ("tiny orange planet"): meteors, craters, almost no gravity or atmosphere, zero-G Acolyte grandstands with helmets and beer tubes.
-- **The worm crater**, now a "wormhole."
-- **Westhaven** (the Westhaven Book Club).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: a hallway damaged by T-Rex Thea, with its foundation needing repair.
+- **[[Places/The Ether Drifts asteroid|The Ether Drifts asteroid]]** ("tiny orange planet"): meteors, craters, almost no gravity or atmosphere, zero-G Acolyte grandstands with helmets and beer tubes.
+- **[[Places/The worm crater|The worm crater]]**, now a "wormhole."
+- **[[Places/Westhaven|Westhaven]]** (the Westhaven Book Club).
 - Agatha's old home (an old people's home, which Lug plans to demolish).
 
 ### Items
-- **The knockoff wand** (polymorph), from the Box of Chaos.
-- **The Box of Chaos**: "I put a guy's soul in that box."
-- **Space helmets**: Agatha's cracked, Lug's with flames. The Grandmaster's "spatial helmet."
-- **Toffees and butterscotch**.
-- **Lug's "Lamborghini of great axes"** and warhammer.
+- **[[Items/The knockoff wand|The knockoff wand]]** (polymorph), from the Box of Chaos.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: "I put a guy's soul in that box."
+- **[[Items/Space helmets|Space helmets]]**: Agatha's cracked, Lug's with flames. The Grandmaster's "spatial helmet."
+- **[[Items/Toffees and butterscotch|Toffees and butterscotch]]**.
+- **[[Items/Lug's Lamborghini of great axes|Lug's "Lamborghini of great axes"]]** and warhammer.
 - The champions' crowns.
 
 ### Lore statements

@@ -127,7 +127,7 @@ tags: [episode, live-shows]
 
 ## Who and what appears
 ### Characters
-**Lord Snacc** (BDTeej). A large barbarian "from a faraway land… some would even say in space." He worships **a spherical god**. The Showman calls him a viking.
+**[[Characters/Lord Snacc|Lord Snacc]]** (BDTeej). A large barbarian "from a faraway land… some would even say in space." He worships **a spherical god**. The Showman calls him a viking.
 - **Gear and powers:**
   - The **Fourth Horseman**, "a large multi-barreled blaster."
   - **A glaive.** The table also calls one of his attacks a shotgun ("a classic loadout").
@@ -137,7 +137,7 @@ tags: [episode, live-shows]
 - **Personality:** "I do not fear death!" Low Wisdom ("400 brawn"). He was afraid of the Showman's bowler hat, and the Acolytes added bees, leaves and cheese. He came to love cheese. He knows "a great ramen place" and wanted fro-yo; the GM promised to buy fro-yo for the winner.
 - **In this episode:** he won the GCX Deathmatch.
 
-**The Showman** (RogueExMachinca). A masked man, "legally" named the Showman, who goes by "Showman" on a "second name basis."
+**[[Characters/The Showman|The Showman]]** (RogueExMachinca). A masked man, "legally" named the Showman, who goes by "Showman" on a "second name basis."
 - **Look:** a bowler hat (round, weird-shaped, out of fashion), and bandages that leave him unable to see out of his left eye.
 - **A bard** with no gods. He likes long walks on the beach and has a Disney annual pass.
 - **His knives, named after the Friends cast:**
@@ -152,9 +152,9 @@ tags: [episode, live-shows]
 - **Gifts:** got a +1 AC neck-shield from the Box of Chaos. Stole the Grandmaster's sword from the forest floor, and she took it back.
 - **Fate:** died to Lord Snacc. His last words were a vow to haunt the fro-yo stand.
 
-**Turtleman** (an Acolyte). Bribed with a pin to fight for the Showman. He threw Rachel and kept her. He was one of the five Acolytes who attacked under Enemies Abound, and part of the tag chain. The Showman calls him his friend.
+**[[Characters/Turtleman|Turtleman]]** (an Acolyte). Bribed with a pin to fight for the Showman. He threw Rachel and kept her. He was one of the five Acolytes who attacked under Enemies Abound, and part of the tag chain. The Showman calls him his friend.
 
-**Other Acolytes:**
+**[[Characters/Other Acolytes|Other Acolytes:]]**
 - "Tesla Man" [?], who rolled a 4 for Snacc.
 - The loud Acolyte, who rolled the hit.
 - "Arthur" [?], who rolled for Doug.
@@ -165,12 +165,12 @@ tags: [episode, live-shows]
 - The backpack man.
 - The sign-breaker, sent to the corner and then promised fro-yo by the GM.
 
-**Gerald** (Drew). A shadowy figure who crawls out of the Box of Chaos, his fingers hanging over its side. **His name was his father's, "and it was his mother's."**
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). A shadowy figure who crawls out of the Box of Chaos, his fingers hanging over its side. **His name was his father's, "and it was his mother's."**
 - **Grants boons for sacrifices:** a healing potion for the horn, a neck-shield for Phoebe.
 - **Wants to paint and start a family, have "a couple of shadowy kids, make some shady deals."** No one had ever asked him what he wanted.
 - "Kind of a Phoebe guy."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Forgot to bring champions to GCX; he only packed a toothbrush because of checked-bag fees.
 - Opens the portal by slamming his hands down. Flies up into the sky to watch.
 - Flirted with Lord Snacc about fro-yo, then called it creepy.
@@ -178,7 +178,7 @@ tags: [episode, live-shows]
 - **Is putting a new wing on the Dread Fortress without permits.** Says money is tight because of the remodels.
 - Dragged the bodies off stage.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Brought the Dread Fortress "from further North Orlando."
 - Flies with her wings.
 - **"I'm the only one that can wear a crown around here."**
@@ -186,18 +186,18 @@ tags: [episode, live-shows]
 - Promised fro-yo to the winner and to the sign-breaker.
 - Offers employees vision but not dental.
 
-**Doug the Pug**: "our wonderful D20 Dread Fortress mascot," absent this time. An Acolyte rolled in his place. The Arbiter calls him "a dick."
+**[[Characters/Doug the Pug|Doug the Pug]]**: "our wonderful D20 Dread Fortress mascot," absent this time. An Acolyte rolled in his place. The Arbiter calls him "a dick."
 
-**The ring girls and the music goblin**: the show's crew, carrying round signs and running the music. The "sign guy" ran out of signs at round seven.
+**[[Characters/The ring girls and the music goblin|The ring girls and the music goblin]]**: the show's crew, carrying round signs and running the music. The "sign guy" ran out of signs at round seven.
 
 ### Places
-- **The autumn forest clearing:** dense trees, crimson leaves, an owl, a fox and a squirrel, rocks, a setting sun. A storm with lightning rolled in during round 5–6.
-- **The Dread Fortress:** brought "from further North Orlando" to GCX. It is having a new wing added, without permits.
+- **[[Places/The autumn forest clearing|The autumn forest clearing:]]** dense trees, crimson leaves, an owl, a fox and a squirrel, rocks, a setting sun. A storm with lightning rolled in during round 5–6.
+- **[[Places/The Dread Fortress|The Dread Fortress:]]** brought "from further North Orlando" to GCX. It is having a new wing added, without permits.
 
 ### Items
 - The Fourth Horseman (blaster), the glaive, and the flaming hammer of inferno and doom.
 - The Showman's Friends knives and his bowler hat.
-- **The Box of Chaos** (owned by Gerald). It throws a column of heatless pink and yellow fire. It gave a healing potion and a neck-shield (+1 AC).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]** (owned by Gerald). It throws a column of heatless pink and yellow fire. It gave a healing potion and a neck-shield (+1 AC).
 - Lord Snacc's other horn (now in the box).
 - The Grandmaster's sword (+1 to hit).
 

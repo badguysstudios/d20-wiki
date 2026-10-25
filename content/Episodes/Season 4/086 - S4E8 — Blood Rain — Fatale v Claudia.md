@@ -235,7 +235,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Fatale** (harlikane). She arrives and leaves on black rose petals carried by a wind she summons at will.
+**[[Characters/Fatale|Fatale]]** (harlikane). She arrives and leaves on black rose petals carried by a wind she summons at will.
 - **Look:** long black hair; a scantily clad latex outfit (a "cut-out latex bra and underwear suit").
 - **Gear:** a one-handed crossbow held like a pistol (Crossbow Expert), a rapier, daggers, and a prop whip used only for intimidation. The Box of Chaos replaced the prop with a **+3 whip**.
 - **Style:** a rogue who hides, uses cunning action and has Lucky. Terse; "let the weapons do the talking."
@@ -243,7 +243,7 @@ tags: [episode, season-4]
 - **In this episode:** she declined to kill Claudia early and offered to fake her death and fetch her the recipe. Patched up with My Little Pony band-aids. Wore Louboutin-like "knife on glass" squeaky shoes. She died angry and called the match rigged, dragging Claudia into the vines with her.
 - **After death:** a cloaked "sister" took her petals and vowed to finish the mission.
 
-**Claudia** (ItsBethTheBard). A university professor who studies plants.
+**[[Characters/Claudia|Claudia]]** (ItsBethTheBard). A university professor who studies plants.
 - **Look:** blonde pigtails with pressed flowers; a poofy rose-embroidered dress; dirty gardening boots.
 - **Gear and powers:** a gardening shovel (rapier) and a little shovel (short sword). Bladesong, Mage Armor, Shield, Hold Person, Kinetic Jaunt and Booming Blade. She can call plants to grapple.
 - **The tree shift:** a lab accident during research lets her shift into a weeping-willow-like, bark-skinned form when frightened.
@@ -251,7 +251,7 @@ tags: [episode, season-4]
 - **Mission:** came for the Shadow King's grandmother's secret soup recipe (with cilantro).
 - **In this episode:** panicky and apologetic. She declared she was no longer scared of Fatale, won the match, received the recipe, and was incinerated by the Shadow King through it.
 
-**The Shadow King** (Drew). In power at the Dread Fortress.
+**[[Characters/The Shadow King|The Shadow King]]** (Drew). In power at the Dread Fortress.
 - **Plans:** expanding the Dread Fortress across the Void (a pool where a school is), killing the people who live there.
 - **In this episode:**
   - Wore bunny slippers.
@@ -260,7 +260,7 @@ tags: [episode, season-4]
   - Incinerated the winner with "my grandmother's recipe."
 - He mocks the Grandmaster's talking compared with Vythorn's.
 
-**The Grandmaster** (Bec). Opens portals by clenching the amulet at her neck until she bleeds.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Opens portals by clenching the amulet at her neck until she bleeds.
 - **In this episode:**
   - Opposes the expansion.
   - Mutters that she "should have been the one in charge."
@@ -269,31 +269,31 @@ tags: [episode, season-4]
   - Threw her spear to flatten the arena.
 - Says "I am the regulations"; morning affirmations.
 
-**Lubofan**: an Acolyte killed by the Shadow King to fuel the Box of Chaos. Spelled "Lobofin" at 0:34:03.
+**[[Characters/Lubofan|Lubofan]]**: an Acolyte killed by the Shadow King to fuel the Box of Chaos. Spelled "Lobofin" at 0:34:03.
 
-**The Box of Chaos creature**: a shadowy creature with yellow eyes in the box. It resents having things thrown at it.
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]**: a shadowy creature with yellow eyes in the box. It resents having things thrown at it.
 
-**Harry, Henrietta, Louise**: goblins building the Void map.
+**[[Characters/Harry|Harry, Henrietta, Louise]]**: goblins building the Void map.
 
-**Goblin first-aid crew**: parachuting medics with My Little Pony band-aids.
+**[[Characters/Goblin first-aid crew|Goblin first-aid crew]]**: parachuting medics with My Little Pony band-aids.
 
-**The sky puppy**: a giant, old, Appa-like fluffy dog. It farts, and it ran off into the stands.
+**[[Characters/The sky puppy|The sky puppy]]**: a giant, old, Appa-like fluffy dog. It farts, and it ran off into the stands.
 
-**Garamond and Gator**: Acolytes (chat) who threw dog toys and hot dogs and got tackled by the puppy.
+**[[Characters/Garamond and Gator|Garamond and Gator]]**: Acolytes (chat) who threw dog toys and hot dogs and got tackled by the puppy.
 
-**The squirrel**: binoculars, a bag of peanuts. Gave Fatale a peanut and kicked Claudia's heel.
+**[[Characters/The squirrel|The squirrel]]**: binoculars, a bag of peanuts. Gave Fatale a peanut and kicked Claudia's heel.
 
-**Tim** (peanut store) and **Kevin** (deep-fried butterfly wings stall): arena vendors.
+**[[Characters/Tim|Tim]]** (peanut store) and **Kevin** (deep-fried butterfly wings stall): arena vendors.
 
-**The cloaked sister**: dark eyes, black lips. She caught Fatale's petals: "We will fulfill your mission, sister."
+**[[Characters/The cloaked sister|The cloaked sister]]**: dark eyes, black lips. She caught Fatale's petals: "We will fulfill your mission, sister."
 
-**Vythorn**: mentioned as having once done "the talking" at the Deathmatch.
+**[[Characters/The Arbiter|Vythorn]]**: mentioned as having once done "the talking" at the Deathmatch.
 
 ### Places
-- **Throne room (Dread Fortress)**, dimly lit, with the giant Void map table. **The Dread Fortress has at least 200 empty rooms "up above".**
-- **The sky-ship arena**: cannons, barrels, crow's nest, helm.
-- **The ghostly coliseum** hovering above the arena.
-- **The mountaintop** where the ship crashed.
+- **[[Places/Throne Room (Dread Fortress)|Throne room (Dread Fortress)]]**, dimly lit, with the giant Void map table. **The Dread Fortress has at least 200 empty rooms "up above".**
+- **[[Places/The sky-ship arena|The sky-ship arena]]**: cannons, barrels, crow's nest, helm.
+- **[[Places/The ghostly coliseum|The ghostly coliseum]]** hovering above the arena.
+- **[[Places/The mountaintop|The mountaintop]]** where the ship crashed.
 - A school somewhere in the Void, slated for the Shadow King's pool.
 
 ### Items

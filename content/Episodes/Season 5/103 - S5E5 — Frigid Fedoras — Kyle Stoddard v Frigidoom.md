@@ -138,7 +138,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Kyle Stoddard** (Banzai Kyle). A **well-muscled swordsman** (YouTube blurb) in a **fedora** and long jacket/cape, with greasy hair (per the Lord of Fate) and a patchy beard.
+**[[Characters/Kyle Stoddard|Kyle Stoddard]]** (Banzai Kyle). A **well-muscled swordsman** (YouTube blurb) in a **fedora** and long jacket/cape, with greasy hair (per the Lord of Fate) and a patchy beard.
 - **Devotee of Princess Sakura (Sakura-chan)**, "of the Kawaii Code, the purest of all maidens." He wears her shirt: sleeves cut off, signed, and never cut through her image. He needs to get back to protect her.
 - Follows the **Uru Shido Code** (spelling uncertain). His fedora is the code's "pinnacle."
 - **Wields a katana and re-sheathes it after every swing** so innocents aren't hurt.
@@ -149,7 +149,7 @@ tags: [episode, season-5]
 - Gave Thea a star wand and made her an "honorary kawaii."
 - Won the match.
 
-**Frigidoom** (Kyle Calrissian). A **sentient refrigerator monster** (blurb), all one unit with no separate freezer.
+**[[Characters/Frigidoom|Frigidoom]]** (Kyle Calrissian). A **sentient refrigerator monster** (blurb), all one unit with no separate freezer.
 - **An atomic fridge powered by radiation and rotten food.** Survived nuclear testing. Has bat wings, chrome exterior and knob feet, and leaves a slime trail of grease and oil.
 - Has gelatinous (jello, acidic) tentacle arms and a **patented ice machine** that shoots ice from the eye slit.
 - **Inside is a living, carnivorous mass of food with teeth, an eye and a mouth.** "Everything that is goes in here and comes out again eventually."
@@ -160,7 +160,7 @@ tags: [episode, season-5]
 - Took the Box of Chaos blue pill.
 - **Died of a sixth fatigue after soiling himself during the Mountain Lightning chaotic event.** Thea unplugged him and threw him back to the Dread Fortress, where goblins in hazmat suits cleaned him up.
 
-**Thea** (Bec). A **small pink imp** with tiny pink wings.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A **small pink imp** with tiny pink wings.
 - Her bedroom (earlier a "large closet" he gave her) was converted into the Lord of Fate's office, and she now sleeps in a box.
 - Is the subject of **formal complaints**: a farmer's pig's feet, and Mrs. Humphrey's children rolled down a hill.
 - **Collects the gold stars the Lord of Fate carves into her forehead.** She had five and got a sixth here.
@@ -168,36 +168,36 @@ tags: [episode, season-5]
 - Picked both champions and the space arena. Rolls the end-of-round d20s.
 - Was frozen in a popsicle by Frigidoom's ice. Vomited on the Acolyte Julia. Is "strictly Sierra Mist." Got a star wand. Ended the night by pulling Frigidoom's plug.
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Has **white wings**. Took Thea's room as his office.
 - Sharp with her and threatens to "make you a box," though he still gives her stars.
 - "I fucking hate my job." Repeatedly baffled by the champions.
 - Rolls the Box of Chaos and the chaotic events.
 
-**The Box of Chaos**. It arrives like a meteor, with pink and yellow fire, shadowy fingers and "the hand of the blackened soul."
+**[[Lore/The Box of Chaos|The Box of Chaos]]**. It arrives like a meteor, with pink and yellow fire, shadowy fingers and "the hand of the blackened soul."
 - Has previously taken "toes and dentures and tax books," per Thea.
 - "This is the one I'm missing" on taking the Sakura figurine (speaker uncertain).
 
-**Princess Sakura / Sakura-chan / Lady Sakura**. Kyle's beloved, unseen. Her image is on his shirt and his figurines.
+**[[Characters/Princess Sakura|Princess Sakura / Sakura-chan / Lady Sakura]]**. Kyle's beloved, unseen. Her image is on his shirt and his figurines.
 
 **Acolytes named:** Julius (asks about the drawing), Julia (vomited on by Thea), Ryan ("Barley") (giveaway winner).
 
-**Other off-screen figures:** the farmer and his pig; Mrs. Humphrey from down the street and her children (who wear white); the Dread Fortress goblins.
+**[[Characters/Other off-screen figures|Other off-screen figures:]]** the farmer and his pig; Mrs. Humphrey from down the street and her children (who wear white); the Dread Fortress goblins.
 
 ### Places
-- **Thea's former bedroom, now the Lord of Fate's office** in the Dread Fortress, with a huge desk and complaint files.
-- **The purple gas planet with an orange meteoric ring.** No one has ever been there; beings may live on it. The fight is on a chalky, cratered asteroid in the ring.
+- **[[Places/Thea's former bedroom, now the Lord of Fate's office|Thea's former bedroom, now the Lord of Fate's office]]** in the Dread Fortress, with a huge desk and complaint files.
+- **[[Places/The purple gas planet with an orange meteoric ring|The purple gas planet with an orange meteoric ring.]]** No one has ever been there; beings may live on it. The fight is on a chalky, cratered asteroid in the ring.
 - The bull-ride illusion: a dive bar with sticky floor, PBR and cigarette smoke.
 - The Dread Fortress **front office** and **locker room**.
 
 ### Items
-- **Mountain Dew** ("the dew") and the ceremony of the dew.
+- **[[Items/Mountain Dew|Mountain Dew]]** ("the dew") and the ceremony of the dew.
 - Frigidoom's offerings: questionable ice cubes, **Chan's lo mein**, pepperonis, pizza rolls.
-- **Mountain Lightning** cans, "the great pretender."
-- **Status stickers**, which went into the Box of Chaos.
-- **The small blue pill**: fatigue limit six, hardened chrome.
-- **The posable Sakura figurine**, which went into the Box. The number one Sakura figurine is kept.
-- **Cheesy poofs**.
+- **[[Items/Mountain Lightning|Mountain Lightning]]** cans, "the great pretender."
+- **[[Items/Status stickers|Status stickers]]**, which went into the Box of Chaos.
+- **[[Items/Small blue pill|The small blue pill]]**: fatigue limit six, hardened chrome.
+- **[[Items/The posable Sakura figurine|The posable Sakura figurine]]**, which went into the Box. The number one Sakura figurine is kept.
+- **[[Items/Cheesy poofs|Cheesy poofs]]**.
 - The rainbow magnet mustache, Thea's magic rainbow, Thea's star wand, and Thea's notebook.
 
 ### Lore statements

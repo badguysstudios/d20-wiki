@@ -269,7 +269,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Grorx ("Grorx the Great")** (TimothiustheGr8). A small **goblin** in **heavy plate** with a **shield** and **longsword**.
+**[[Characters/Grorx|Grorx ("Grorx the Great")]]** (TimothiustheGr8). A small **goblin** in **heavy plate** with a **shield** and **longsword**.
 - Abilities: casts as a **4th-level warlock** (Armor of Agathys, eldritch blast, misty step, shield) and uses **Branding Smite** and **Shield Master**. Throws javelins.
 - **Claims greatness over goblin, troll, orc and elven kind, but "not Dragon Kind."** Sets standards low so he can rise above them; "the greatest at running away."
 - Money: tried to buy the Grandmaster's crown on credit (Omnicard, Orcish Express). Resells things. Holds many credit cards and throws them away when maxed. "I don't know math."
@@ -282,7 +282,7 @@ tags: [episode, season-1]
 - Hit-and-run style; his "patent move" per the crowd.
 - **Ends fused with Lord Xiren in one two-headed body.**
 
-**Lord Xiren** (DadGotGameTV). An **Aasimar, "your protector, your champion"**, with wings.
+**[[Characters/Lord Xiren|Lord Xiren]]** (DadGotGameTV). An **Aasimar, "your protector, your champion"**, with wings.
 - Abilities: a sorcerer (twinned spells, firebolt, thunderclap, misty step, friends, magic missile, fireball, scorching ray) with the healing hands feature (never used).
 - **Came believing he was only there to put on a show; his contract said "please the Grandmaster."**
 - Eyes "only partially working": he couldn't find the Grandmaster until she lit herself with a spotlight.
@@ -298,14 +298,14 @@ tags: [episode, season-1]
 - **Blew himself up with his own fireball** to end the match.
 - **Fused with Grorx.** He laments his lost legs ("hideous bowed and green").
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Carries a **cane**. Doesn't nap; time magic aside, "time waits for no one."
 - **Gifted Elusia a giant velour optical-illusion painting of Doug the Pug** (bones / no bones), carried in by two goblins.
 - Says the goblins are behind on the train ("public works").
 - Hands out giant magnifying glasses for the small print.
 - Loves the sounds of death ("the death rattle… blood in the windpipe… the bowels") but defers to the Grandmaster's ruling.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Takes a mandatory afternoon nap with Doug** and needs at least six hours of sleep ("beauty sleep").
 - Her **throne has a metal surface**. She has a **secondary throne** above the arena.
 - **Her crown "is not for sale. This is something that I have earned."** Acolytes wear gift-store replicas of it.
@@ -313,28 +313,28 @@ tags: [episode, season-1]
 - Called this temple "my temple of the lost", "my pyramid".
 - **Let the Acolytes vote, flipped coins, and spared both champions by fusing them** ("two phoenixes circling each other throughout eternity"). She draws "this wellspring of inspiration" from her Acolytes.
 
-**Doug the Pug**. The Grandmaster's pug, who naps with her and decides bones days.
+**[[Characters/Doug the Pug|Doug the Pug]]**. The Grandmaster's pug, who naps with her and decides bones days.
 - **His barking (plus the barking hieroglyph dogs) silenced verbal magic.**
 - Likes praise; blessed Xiren.
 - Spat out the d20 for the final chaos event.
 - "Bones day" was declared mid-episode.
 
-**MJ (Michael Jackson) the mummy**. Trapped inside a pillar in the ceremonial chamber.
+**[[Characters/MJ (Michael Jackson) the mummy|MJ (Michael Jackson) the mummy]]**. Trapped inside a pillar in the ceremonial chamber.
 - Befriended by Xiren's friends cantrip ("such smooth bandages").
 - Moonwalks. Bit off his own fingers eating Xiren's lawyer card, and his thumb fell off.
 - Turned on Xiren when the spell broke, with a nat 20 punch for 47.
 - **Burned to a crisp by stray scorching rays.**
 
-**Dolly**. "A classic friend of the arena": a small hovering doll that rose from a tiny glowing sarcophagus.
+**[[Characters/Dolly|Dolly]]**. "A classic friend of the arena": a small hovering doll that rose from a tiny glowing sarcophagus.
 - "Will you be my friend?" Her death-grip handhold brands a friendship mark.
 - Has an eight-inch dropping jaw with sharp teeth.
 - **Probably crushed in the temple collapse; her fate is officially unknown.** "We will remember Dolly in our hearts."
 
-**The goblins** of the Dread Fortress. Painting carriers and the (slow) train workforce.
+**[[Characters/Goblins|The goblins]]** of the Dread Fortress. Painting carriers and the (slow) train workforce.
 
 ### Places
-- **The Dread Fortress, the Grandmaster's halls and throne.**
-- **Kabehe's Temple [spelling uncertain]**, "my temple of the lost":
+- **[[Places/The Dread Fortress, the Grandmaster's halls and throne|The Dread Fortress, the Grandmaster's halls and throne.]]**
+- **[[Places/Kabehe's Temple spelling uncertain|Kabehe's Temple [spelling uncertain]]]**, "my temple of the lost":
   - **Underground chamber:** red sand mixed with bone dust; a second story 20 ft up a small staircase; walls with dog hieroglyphs; a door whose lock was designed by Grorx's father (pressure plate).
   - **Ceremonial chamber:** large humanoid stone statue lit by a sunbeam; a hieroglyph-carved ceremonial plate under it; broken columns; bones and bodies of long-buried champions/attendants; the mummy's pillar. Grorx's history check identifies it as "the set of The Mummy".
   - **Outside:** the front of a desert temple carved into a mountain, in hot sun.
@@ -342,12 +342,12 @@ tags: [episode, season-1]
 
 ### Items
 - The **velour Doug the Pug painting** (optical illusion).
-- **Gift-store replica crowns** of the Grandmaster's crown.
+- **[[Items/Gift-store replica crowns|Gift-store replica crowns]]** of the Grandmaster's crown.
 - The champions' contracts. The small print reads "not responsible for maiming or dismemberment or death."
 - The giant magnifying glass.
 - Xiren's lawyer business card (eaten).
 - Dolly's tiny sarcophagus.
-- **Ice cream after-party** (the winner's prize, given to the fused pair).
+- **[[Items/Ice cream after-party|Ice cream after-party]]** (the winner's prize, given to the fused pair).
 
 ### Lore statements
 - **The Arena "has no escape"**, and the Grandmaster sets traps.

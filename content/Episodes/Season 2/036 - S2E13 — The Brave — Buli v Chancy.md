@@ -335,7 +335,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Buli the Brave** (BunnyDreadful).
+**[[Characters/Buli the Brave|Buli the Brave]]** (BunnyDreadful).
 - **Species:** a tiny owlbear (player, Dried Blood). The Grandmaster calls him "owlet" and "owlbear."
 - **Body:** 3 ft 1 in, feathered, with claws ("not hands"). His owl head spins around when he's furious.
 - **Speech:** says "wage" for rage and "Fredwick" for Frederick.
@@ -356,7 +356,7 @@ tags: [episode, season-2]
   - Rose twice from zero before dying. His body was thrown down the well by the Arbiter.
   - In Dried Blood, he is falling forever: "I'll be back."
 
-**Chancy** (MacNcheeseP1z).
+**[[Characters/Chancy|Chancy]]** (MacNcheeseP1z).
 - **Who:** a fairy bard ("musical wizard, magic bard, sorcerer"), about 3 ft 1½ in, with wings. Chancy's spells look like musical notes from an ocarina.
 - **Claims:**
   - Fought 10,000 dragons; "the Dragon Slayer."
@@ -372,13 +372,13 @@ tags: [episode, season-2]
 - **Spells:** Blade Ward, Fire Bolt, Vicious Mockery, Fireball (×4), Polymorph, Mind Sliver, Greater Invisibility, Cure Wounds, Cloud of Daggers, and a Fae Touched Misty Step. Also uses Cutting Words.
 - **Winner.**
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Bakes cookies for the Acolytes in an apron reading "Grandmaster."
 - Brought Doug to the stands and left at the break to comfort him.
 - Granted Buli Bless for trying hard, and stopped the fight with "Enough!"
 - Doesn't visit this arena often. She covered the castle's portraits.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Tried to steal a cookie and was smacked.
 - Claims to be Chancy's superfan (a concert tee pulled from his chest, Chancy's name "carved on my bones").
 - "Aged like a fine wine."
@@ -386,44 +386,44 @@ tags: [episode, season-2]
 - Ended the pillow-fight chaos early.
 - Threw Buli's body into the well.
 
-**Doug.**
+**[[Characters/Doug the Pug|Doug.]]**
 - The Grandmaster's pug. He got a raw egg (no cookies), has a green D20 squish toy, and wants a turn rolling.
 - He sat in "his throne above."
 - He pounced on Chancy at butterfly-Buli's urging.
 - "Knows many dogs in the realm."
 
-**Gerald (the Box of Chaos).**
+**[[Lore/The Box of Chaos|Gerald (the Box of Chaos).]]**
 - A purple box with pink and yellow flames, with a small shadowy figure and claw.
 - Took Buli's clothes ("These are just my size") and gave a FLY scroll.
 - Took Chancy's lyre, believed the Van Halen story, and gave Gauntlets of Ogre Power.
 
-**Christina the ghost.**
+**[[Characters/Christina the ghost|Christina the ghost.]]**
 - **Appearance:** the maiden of the ruined castle. Long blonde hair, a tiara, a white gown; ethereal. Her eyes glow yellow, then orange; she glows blue.
 - **Story:** she searches for Frederick, who did not show up on the day of their wedding.
 - **Powers:** her voice fills the whole space. She dispels polymorph ("that's not who you really are"), uses a wind-push, a necrotic touch, passes through bodies, and screeches like a thunderclap.
 - **Fate:** last seen strangling Frederick as they fade into the distance.
 - **Name:** auto-assigned by the VTT, per Bec.
 
-**Frederick.**
+**[[Characters/Frederick|Frederick.]]**
 - Christina's groom, seen as "a ghoul" peeking around corners. He hides behind a tree and in the bushes. Bec: "You coward."
 - Strangled by Christina at the end. Whether he is undead is only implied by "ghoul."
 
-**The queen, the queen's sister, the king, the queen's dog.** Figures in Chancy's claims, all unnamed.
+**[[Characters/The queen|The queen, the queen's sister, the king, the queen's dog.]]** Figures in Chancy's claims, all unnamed.
 
-**The Acolytes.** Threw objects (dodgeball), picked "drown the loot," demanded chaos, and ruled that height doesn't matter.
+**[[Lore/The Acolytes|The Acolytes.]]** Threw objects (dodgeball), picked "drown the loot," demanded chaos, and ruled that height doesn't matter.
 
 ### Places
-- **The Dread Fortress kitchen**, and the throne room (the Grandmaster was absent from it).
-- **The ruined seaside clifftop castle.** A deep open well with no audible bottom, broken stairs, 20-ft walls, a 10-ft drop to the box, trees and bushes, covered portraits. **Not abandoned: Christina lives here.** It grows colder as the fight goes on.
-- **The floating wooden stands** above it.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**, and the throne room (the Grandmaster was absent from it).
+- **[[Places/The ruined seaside clifftop castle|The ruined seaside clifftop castle.]]** A deep open well with no audible bottom, broken stairs, 20-ft walls, a 10-ft drop to the box, trees and bushes, covered portraits. **Not abandoned: Christina lives here.** It grows colder as the fight goes on.
+- **[[Places/The floating wooden stands|The floating wooden stands]]** above it.
 
 ### Items
 - The Grandmaster's cookies and her "Grandmaster" apron.
-- **Chancy's small lute ("loot"), dropped down the well and lost.**
+- **[[Items/Chancy's small lute (loot), dropped down the well and lost|Chancy's small lute ("loot"), dropped down the well and lost.]]**
 - Buli's tiny bagpipes. The flaming hot pepper from the dodgeball debris.
-- **The FLY spell scroll** written by flame.
-- **The "Van Halen–signed" lyre**, sacrificed. The **Gauntlets of Ogre Power**.
-- **The rock-filled pillows**.
+- **[[Items/The FLY spell scroll|The FLY spell scroll]]** written by flame.
+- **[[Items/The Van Halen–signed lyre|The "Van Halen–signed" lyre]]**, sacrificed. The **Gauntlets of Ogre Power**.
+- **[[Items/The rock-filled pillows|The rock-filled pillows]]**.
 - The Chancy concert tee.
 
 ### Lore statements

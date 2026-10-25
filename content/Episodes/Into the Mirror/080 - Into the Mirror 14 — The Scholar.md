@@ -81,7 +81,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BdTeej)
+**[[Characters/Flynry|Flynry]]** (BdTeej)
 - Carries a sword on his back. The sword's flames glow in response to the orrery, and he trusts it: "I haven't had a reason to doubt my sword yet."
 - Knows Elvish.
 - Woke up somewhere else in this desert-dream realm when he first arrived, which he describes as a dream, trance or hell.
@@ -89,46 +89,46 @@ tags: [episode, into-the-mirror]
 - Newly impressed by Cerys's combat prowess.
 - Wakes the young Arbiter from his trance with a touch on the shoulder.
 
-**Toddleheim** (Ahnubyss)
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss)
 - Has a werewolf form. He transforms back as he lands on the ledge, and is still "werewolfy" afterward.
 - Has an arcane background; Flynry calls him a wizard.
 - Knows Common, Deep Speech, Dwarvish, Gnomish and Undercommon.
 - Picks up the orrery first.
 
-**Elianna** (ParallaxStella)
+**[[Characters/Elianna|Elianna]]** (ParallaxStella)
 - Casts find traps as a visible wave of white light; danger normally shows up red.
 - Reads Celestial and translates the inscription.
 - Brings the orrery to Flynry's sword, which triggers the transport.
 
-**Cerys** (speaker 03; player uncertain)
+**[[Characters/Cerys|Cerys]]** (speaker 03; player uncertain)
 - Killed or finished the dragon with two back-to-back nat 20s.
 - Found the white soul gem and keeps it.
 - Directs the search for the orrery ("I command").
 - Has never been to the new location.
 
-**The muttering man / the Arbiter (younger)** (Drew)
+**[[Characters/The muttering man|The muttering man / the Arbiter (younger)]]** (Drew)
 - Found trapped in a knowledge-seeking loop in the sunken library. The books he touches turn to sand.
 - Seven to eight feet tall, black wings, hair pulled back with shaved sides, large mustache, blue and black leathers and robes.
 - He looks younger than the Arbiter the party knows, with different facial and head hair.
 - On waking he becomes confident and smug, and intends to "make good use" of the party.
 - The episode is titled "The Scholar."
 
-**The dragon** (defeated before this episode). It formed into or left a pile of snow, guarded the hoard, and showed no prior wounds.
+**[[Characters/The dragon|The dragon]]** (defeated before this episode). It formed into or left a pile of snow, guarded the hoard, and showed no prior wounds.
 
 ### Places
-- **The dragon's hoard**: a treasure cave full of gold, gems and ordinary armor.
-- **The green desert**: a new location within the Sands of Eternity (the blurb's name for the setting), with familiar celestial events and sand.
-- **The sunken library**: an ancient, ornate marble building tilted in the sand, with columns, gargoyles, lit candles and lanterns, and strewn pages. Its books crumble to sand when the man pulls them.
+- **[[Places/The dragon's hoard|The dragon's hoard]]**: a treasure cave full of gold, gems and ordinary armor.
+- **[[Places/The green desert|The green desert]]**: a new location within the Sands of Eternity (the blurb's name for the setting), with familiar celestial events and sand.
+- **[[Places/The sunken library|The sunken library]]**: an ancient, ornate marble building tilted in the sand, with columns, gargoyles, lit candles and lanterns, and strewn pages. Its books crumble to sand when the man pulls them.
 - "The city": referenced by Cerys, who suggests saying its name might take them back. Not named.
 
 ### Items
-- **The white soul gem**: palm-sized, uncut, clear white with an inner ethereal light, unlike the green soul gems seen elsewhere. Cerys has it.
-- **The golden orrery**:
+- **[[Items/The white soul gem|The white soul gem]]**: palm-sized, uncut, clear white with an inner ethereal light, unlike the green soul gems seen elsewhere. Cerys has it.
+- **[[Items/The golden orrery|The golden orrery]]**:
   - gyroscopic rings around a central orb, gold with a green patina;
   - Celestial inscription "The path to dreams begins with the truth," plus number-like symbols;
   - reacts to Flynry's sword by spinning and levitating; contact between the two transported the party.
   - The party was looking for it ("our item that we're looking for").
-- **Flynry's sword**: flame-glowing, drawn to the orrery.
+- **[[Items/Flynry's sword|Flynry's sword]]**: flame-glowing, drawn to the orrery.
 
 ### Lore statements
 - Soul gems are normally green; a white one is unprecedented to the party.

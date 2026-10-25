@@ -145,65 +145,65 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Griff** (Critical_Dice). A medium-sized satyr with backwards knees, beaded and baubled horns, a braid, brown leathers and a green tunic.
+**[[Characters/Griff|Griff]]** (Critical_Dice). A medium-sized satyr with backwards knees, beaded and baubled horns, a braid, brown leathers and a green tunic.
 - **Background:** a games player and bar fly, a hustler at Stratego, Go and Pente who lets people think they can win.
 - **Powers and gear:**
   - A simple staff, and later a Go set; both were sacrificed to the box.
   - Wildfire Spirit **Griffy**, a phoenix made from a rat.
   - Spells: Scorching Ray, Produce Flame, Cure Wounds, Shillelagh, Flame Strike, Hold Person.
 - **What he says about himself:** satyrs do a truffle-hunting dance in the Fae realm. "I literally have hops." He claims to have disabled the temple's fire extinguishers.
-- **Ghost step tattoo** (a picture of "Drippy") on his left forearm.
+- **[[Items/Ghost step tattoo|Ghost step tattoo]]** (a picture of "Drippy") on his left forearm.
 - **Winner. The Shadow King shoved him off the ledge instead of rewarding him, and he teleported to safety.** Per Dried Blood, he is now in hiding.
 
-**Cappin Fodder** (QuincysTavern). A halfling pirate, "the bestest pirate in the world," with Intelligence 9.
+**[[Characters/Cappin Fodder|Cappin Fodder]]** (QuincysTavern). A halfling pirate, "the bestest pirate in the world," with Intelligence 9.
 - **Gear:**
   - A bandana over his eyes with slits.
   - A 10-ft whip his own length, a blunderbuss, a dagger and a hand axe.
 - **Lore:** his ship has "the Monkmaker" scissors ("filled a whole monastery"). He hates liars. He is a slasher fighter with Indomitable and Action Surge.
-- **Box of Chaos:** jumped into the box himself. **His right arm was melted off and replaced with a short-sword arm of life stealing, made from Vegeta's repurposed soul.**
+- **[[Lore/The Box of Chaos|Box of Chaos:]]** jumped into the box himself. **His right arm was melted off and replaced with a short-sword arm of life stealing, made from Vegeta's repurposed soul.**
 - **Death:** crushed into the floor by the Vythorn statue, then burned to ash by Flame Strike. **His ashes were swept into the Box of Chaos.**
 
-**Griffy**. Griff's phoenix Wildfire Spirit, transmuted from a temple rat. He has a Southern accent ("he's an extension of me"), is called "chicken nugget," and lost a tug of war over the staff to Fodder.
+**[[Characters/Griffy|Griffy]]**. Griff's phoenix Wildfire Spirit, transmuted from a temple rat. He has a Southern accent ("he's an extension of me"), is called "chicken nugget," and lost a tug of war over the staff to Fodder.
 
-**The Shadow King** (Drew). Rules from the Dread Fortress throne.
+**[[Characters/The Shadow King|The Shadow King]]** (Drew). Rules from the Dread Fortress throne.
 - Obsessed with Bop-It: he bops goblins instead of the toy and claims the toys are defective. **He once gave Elusia a Bop-It for her birthday.**
 - **Killed a music goblin with a shadow blade.**
 - **"I was it once" (the Box of Chaos).**
 - **Says he killed Vythorn: "almost sorry… He was a great student."** He animated Vythorn's statue.
 - Cheated Griff out of his reward and dismissed the Acolytes.
 
-**Grandmaster Elusia Skypiercer** (Bec). She is summoning champions for the Shadow King.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). She is summoning champions for the Shadow King.
 - **Summons champions with an amulet that cuts blood into her hand; ripping it in two opens the arena portal.**
 - **Wears a choker that tightens and silences her when she defies the Shadow King.**
 - Protective of the goblins (Thomas, Hagrid). Got to 52 on Bop-It "when I was 12."
 
-**Dolly**. "Our favorite haunted doll," with porcelain skin, glassy eyes and long lashes. Asks "Will you be my friend?" Casts unholy fire, has "a mind of her own," and explodes in a poison bomb. **Attacked by both players for the first time.**
+**[[Characters/Dolly|Dolly]]**. "Our favorite haunted doll," with porcelain skin, glassy eyes and long lashes. Asks "Will you be my friend?" Casts unholy fire, has "a mind of her own," and explodes in a poison bomb. **Attacked by both players for the first time.**
 
-**Goblins**:
+**[[Characters/Goblins|Goblins]]**:
 - **Hagrid/Hagrad**, a bop victim carried out on a stretcher.
-- **Thomas**, one of the Grandmaster's favorite goblins.
+- **[[Characters/Thomas|Thomas]]**, one of the Grandmaster's favorite goblins.
 - An unnamed music goblin, killed.
 - The cleanup crew.
 
 **Acolytes named:**
 - **Harvey Hesko**: hit in the temple by the staff, threw it back and missed.
-- **Prince Vegeta**: soul ripped out to power the Box of Chaos, later repurposed as Fodder's sword arm.
+- **[[Characters/Prince Vegeta|Prince Vegeta]]**: soul ripped out to power the Box of Chaos, later repurposed as Fodder's sword arm.
 - Pethel, Master of Squids; Oddthority; Crystid; Ombad; Scribd; Gator; Night Garriant.
 - An unnamed top-row Acolyte who jumped on Fodder's command.
 
-**Vythorn** (the Arbiter, the Endless Scholar). Not present. Represented by the statue. The Shadow King says he killed him.
+**[[Characters/The Arbiter|Vythorn]]** (the Arbiter, the Endless Scholar). Not present. Represented by the statue. The Shadow King says he killed him.
 
 ### Places
-- **The Dread Fortress throne room** (the Shadow King's seat). Dark, candlelit halls lead to it.
-- **The temple arena**: old, broken and cold, with a statue of Vythorn with palms open, candles and artifacts. "Our acolytes find it quite familiar." It has no ceiling, and Acolytes circle ethereally above. Per Dried Blood it sits empty afterward.
+- **[[Places/Throne Room (Dread Fortress)|The Dread Fortress throne room]]** (the Shadow King's seat). Dark, candlelit halls lead to it.
+- **[[Places/The temple arena|The temple arena]]**: old, broken and cold, with a statue of Vythorn with palms open, candles and artifacts. "Our acolytes find it quite familiar." It has no ceiling, and Acolytes circle ethereally above. Per Dried Blood it sits empty afterward.
 - The Fae realm, where satyrs hunt truffles (Griff).
 - Fodder's ship (unnamed).
 
 ### Items
 - Bop-Its (including a broken tower of them) and the rumored Bop-It 2.
 - The Grandmaster's blood amulet.
-- **The Box of Chaos**: powered by Vegeta's soul. Past offerings include "toes and teeth and daggers and honey." It now holds Griff's staff, his Go set and Fodder's ashes.
-- **Ghost step tattoo**, the **sword arm of life stealing**, and the **soul coin**.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: powered by Vegeta's soul. Past offerings include "toes and teeth and daggers and honey." It now holds Griff's staff, his Go set and Fodder's ashes.
+- **[[Items/Ghost step tattoo|Ghost step tattoo]]**, the **sword arm of life stealing**, and the **soul coin**.
 - The Monkmaker scissors.
 - Elusia's choker.
 

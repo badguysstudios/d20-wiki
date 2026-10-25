@@ -317,7 +317,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Rosa** (guest; see player-credit question)
+**[[Characters/Rosa|Rosa]]** (guest; see player-credit question)
 - **Appearance:** a halfling, "two and a half feet tall," with long pink hair, a sunny disposition, an **eye patch** she passes off as a battle wound, and very tight clothing. She has "only one good eye."
 - **Class:** a rogue who can't do magic.
 - **Gear:** daggers (one poisoned and worn as a stinger "off my butt"), a short sword, a rapier, a sling or "bee cannon," a rope, an oil flask and a tinderbox.
@@ -331,19 +331,19 @@ tags: [episode, season-2]
 - **Ambition:** asked to become the Arbiter and was refused.
 - **Outcome:** hired as the Grandmaster's bee farmer.
 
-**Veronica** (guest; see player-credit question)
+**[[Characters/Veronica|Veronica]]** (guest; see player-credit question)
 - **Appearance:** a half-elf with pale skin, long light-blue hair, a forehead symbol tattoo, a crop top, a skirt and wrist wraps. She wears no armor.
 - **Class:** Bladesinger with fighter abilities (Action Surge, Second Wind, a weapon attack after a cantrip).
 - **Gear:** a rapier and sword, and a sentimental 10 ft whip.
 - **Spells:** Longstrider, Shocking Grasp, Mage Armor (shaped as a translucent blue elven beekeeper suit), Ray of Frost (plucked from her hair).
 - **Items:** has a **Ring of Evasion** from seducing the Box of Chaos.
-- **Gerald:** had a **"Gerald" Blood Fury tattoo** and fell in love with Gerald. The Arbiter erased both the tattoo and her memories of him.
+- **[[Items/Gerald, the Box of Chaos|Gerald:]]** had a **"Gerald" Blood Fury tattoo** and fell in love with Gerald. The Arbiter erased both the tattoo and her memories of him.
 - **In this episode:**
   - Pulled the Arbiter off his ledge and cut his face.
   - Hired as a bee farmer.
   - Declares a "villain origin story" against the Arbiter (Dried Blood).
 
-**Gerald** — the fiery being of the Box of Chaos's flames.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** — the fiery being of the Box of Chaos's flames.
 - **What he does:**
   - Took Veronica's nuts, was seduced by her, gave her a ring ("call me").
   - Became her tattoo: "I'll be with you always now."
@@ -352,7 +352,7 @@ tags: [episode, season-2]
 - **Fate:** erased from Veronica's mind and arm.
 - (Bec calls the box's flames "he." The Box itself rolled away in the sandstorm.)
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - Tells a false bee fact.
 - Rolls poorly to the GM's disappointment and feuds with Doug the Pug.
 - Unleashes the sandstorm.
@@ -364,7 +364,7 @@ tags: [episode, season-2]
 - Was eating nachos.
 - Has wings.
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Has taken up **Zumba**. She "hasn't picked up her bow in a long time."
 - **Declared Sunday Deathmatch Day.**
 - Has acquired the bazaar land, which needs renovation.
@@ -372,46 +372,46 @@ tags: [episode, season-2]
 - Forbade the Arbiter from killing the champions.
 - **Started a bee farm** under "nature philanthropic efforts" and hired Rosa and Veronica: minimum wage, room and board near the goblins, an on-site physician.
 
-**Doug the Pug** — the GM's pug.
+**[[Characters/Doug the Pug|Doug the Pug]]** — the GM's pug.
 - Picked Veronica as "it." Sinks when he lands, "like he's got a few holes in him."
 - Farted at the Arbiter, who calls him a jerk.
 - Barks three times to trigger the tag explosion.
 
-**Thomas and Leed** — goblins who wheel out the GM's throne. The goblins live down the hall from the new bee farmers and are "rather tidy."
+**[[Characters/Thomas and Leed|Thomas and Leed]]** — goblins who wheel out the GM's throne. The goblins live down the hall from the new bee farmers and are "rather tidy."
 
-**Henry** — the tiny hamster in a giant teal hamster ball, still rolling around the bazaar.
+**[[Characters/Henry|Henry]]** — the tiny hamster in a giant teal hamster ball, still rolling around the bazaar.
 
-**Steve** — Rosa's name for her bee-shaped polymorph horse.
+**[[Characters/Steve|Steve]]** — Rosa's name for her bee-shaped polymorph horse.
 
-**The zombie bees** — a swarm the Arbiter made from sand, dealing necrotic damage.
+**[[Characters/The zombie bees|The zombie bees]]** — a swarm the Arbiter made from sand, dealing necrotic damage.
 
-**The previous beekeeper** — unnamed and "deathly allergic" to bees, per the Arbiter.
+**[[Characters/The previous beekeeper|The previous beekeeper]]** — unnamed and "deathly allergic" to bees, per the Arbiter.
 
-**Anakin** — named by the GM as never visiting her because of the sand (a Star Wars joke).
+**[[Characters/Anakin|Anakin]]** — named by the GM as never visiting her because of the sand (a Star Wars joke).
 
-**Blissful Dwarf, Tigertron** — chat Acolytes. Blissful Dwarf demanded chaos; Tigertron was credited with a joke.
+**[[Characters/Blissful Dwarf|Blissful Dwarf, Tigertron]]** — chat Acolytes. Blissful Dwarf demanded chaos; Tigertron was credited with a joke.
 
 ### Places
-- **Elusia's throne room, Dread Fortress**, where she does Zumba.
-- **The bazaar**: a desert market the GM acquired.
+- **[[Places/Elusia's throne room, Dread Fortress|Elusia's throne room, Dread Fortress]]**, where she does Zumba.
+- **[[Places/The bazaar|The bazaar]]**: a desert market the GM acquired.
   - Covered carts, canvas-tarp stalls and buildings with 15–30 ft roofs.
   - A stairwell that shelters from the sand.
   - **Several fast-moving suns.**
   - Camel dung on the wind.
   - Her shaded abode in the stands.
-- **The Grandmaster's bee farm**, newly founded, staffed by Rosa and Veronica.
-- **The inside of the Box of Chaos**: an endless chasm of pink and yellow flames.
+- **[[Places/The Grandmaster's bee farm|The Grandmaster's bee farm]]**, newly founded, staffed by Rosa and Veronica.
+- **[[Places/The inside of the Box of Chaos|The inside of the Box of Chaos]]**: an endless chasm of pink and yellow flames.
 
 ### Items
-- **Box of Chaos**: trades magic items for sacrifices. It accepted nuts and seduction, spits people out, can be "it," and exploded into red and purple flames before rolling away.
-- **Ring of Evasion** (Veronica).
-- **Ioun Stone of Absorption**, pale lavender. Rosa's, destroyed.
-- **Deck of Many Things**. Rosa's, vanished after the Talons card.
-- **Blood Fury Tattoo "Gerald"**. Veronica's, erased.
-- **Rosa's bee costume and poisoned butt-dagger stinger.**
-- **The GM's wheeled throne chair.**
-- **The GM's sweat headband and gym shorts.**
-- **Acolyte bee posters.**
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: trades magic items for sacrifices. It accepted nuts and seduction, spits people out, can be "it," and exploded into red and purple flames before rolling away.
+- **[[Items/Ring of Evasion|Ring of Evasion]]** (Veronica).
+- **[[Items/Ioun Stone of Absorption|Ioun Stone of Absorption]]**, pale lavender. Rosa's, destroyed.
+- **[[Items/Deck of Many Things|Deck of Many Things]]**. Rosa's, vanished after the Talons card.
+- **[[Items/Blood Fury Tattoo Gerald|Blood Fury Tattoo "Gerald"]]**. Veronica's, erased.
+- **[[Items/Rosa's bee costume and poisoned butt-dagger stinger|Rosa's bee costume and poisoned butt-dagger stinger.]]**
+- **[[Items/The GM's wheeled throne chair|The GM's wheeled throne chair.]]**
+- **[[Items/The GM's sweat headband and gym shorts|The GM's sweat headband and gym shorts.]]**
+- **[[Items/Acolyte bee posters|Acolyte bee posters.]]**
 
 ### Lore statements
 - The Grandmaster declared Sunday Deathmatch Day by law.

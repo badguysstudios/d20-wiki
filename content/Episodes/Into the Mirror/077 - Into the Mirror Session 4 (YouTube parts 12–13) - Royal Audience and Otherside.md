@@ -188,7 +188,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Queen Cantressa** (Drew), queen of the city of the dead.
+**[[Characters/Queen Cantressa|Queen Cantressa]]** (Drew), queen of the city of the dead.
 - Older, silver-white hair, poised and healthy-looking. Her crown is made of glowing jade-green soul gems.
 - **Her reflection matches her exactly.**
 - Welcomed Cerys into the city hundreds of years ago.
@@ -196,19 +196,19 @@ tags: [episode, into-the-mirror]
 - Laws are unwritten. Troublemakers are made outlanders and wander the sands forever.
 - Elianna senses she is truthful but holding things back.
 
-**King Quintol** (spelled "Quentil" once by Drew). Very old and frail, with cataracts, sitting statue-like.
+**[[Characters/King Quintol|King Quintol]]** (spelled "Quentil" once by Drew). Very old and frail, with cataracts, sitting statue-like.
 - **His reflection is a young, black-haired, bearded, robust warrior in fine silver armor, cheerful with a goblet of wine.**
 - Per Cantressa, he went searching for the Orrery himself and "was returned to me" with sand sickness.
 - He showed a flicker of recognition when Flynry addressed him.
 
-**Cerys** (speaker 04). Newcomer to the party, called "glowing one" by Flynry.
+**[[Characters/Cerys|Cerys]]** (speaker 04). Newcomer to the party, called "glowing one" by Flynry.
 - Was welcomed into the city hundreds of years ago and is on good terms with the queen. She has "taken care of various outlanders for her."
 - She was being attacked by outlanders when the party found her.
 - Wants out of the plane. She didn't know who made the realm.
 - **Wields a blade with divine light**: Lay on Hands, Hunter's Mark, Divine Smite.
 - Went through the mirror first and killed the ice dragon.
 
-**Flynry** (BdTeej).
+**[[Characters/Flynry|Flynry]]** (BdTeej).
 - Has been in the waste for possibly a hundred years or more. **He ate for the first time in ages and found he could taste.**
 - Distrusts Cerys. Calls Toddleheim "old friend."
 - **Wears Elianna's glass remembrance stone on a leather strap around his neck.**
@@ -216,14 +216,14 @@ tags: [episode, into-the-mirror]
 - Fights with greatsword and monk strikes, and cast the Kenny illusion.
 - Remembers causing Toddleheim and Locket distress in an earlier hall of mirrors, and that they saved him.
 
-**Elianna** (ParallaxStella).
+**[[Characters/Elianna|Elianna]]** (ParallaxStella).
 - A book-carrying scholar who draws.
 - **Secretly viewed the royals' reflections in Flynry's sword.**
 - Put attackers to sleep in an earlier fight.
 - **Made the two remembrance stones** from the sand remains of the party's friend.
 - In the fight: Banishment (failed), Healing Word, Guardian of Faith (a winged spectral centaur), Shield of Faith (a glowing cross).
 
-**Toddleheim** (Ahnubyss).
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss).
 - Wizard and dwarf with mason's tools and a "little hat." He can become a werewolf, and his eyes flash yellow.
 - Elianna has been scared of him. Flynry: "he's a wolf."
 - Says he was "brutally murdered" the last time he used one of these mirrors.
@@ -231,30 +231,30 @@ tags: [episode, into-the-mirror]
 - Keeps his remembrance stone in his pocket.
 - In the fight: shrank the dragon with Reduce, then Fire Bolt and werewolf form.
 
-**The servant(s)** (Drew). Led the party to the mirror. Has never been through one himself and knew nothing of mirror murders.
+**[[Characters/The servant|The servant(s)]]** (Drew). Led the party to the mirror. Has never been through one himself and knew nothing of mirror murders.
 
-**The ice dragon** (Drew). A large dragon with an ice breath that also resealed the cave mouth, lair actions (falling icicles), and a strong Charisma save. Killed by Cerys, and turned to snow before hitting the ground.
+**[[Characters/The ice dragon|The ice dragon]]** (Drew). A large dragon with an ice breath that also resealed the cave mouth, lair actions (falling icicles), and a strong Charisma save. Killed by Cerys, and turned to snow before hitting the ground.
 
-**Kenny**. Appears only as Flynry's illusion: one-armed, greedily pocketing gold.
+**[[Characters/Kenny|Kenny]]**. Appears only as Flynry's illusion: one-armed, greedily pocketing gold.
 
-**The party's dead friend** ("her"). Their sand remains were carried by Elianna and made into the stones. Not named in this episode.
+**[[Characters/The party's dead friend|The party's dead friend]]** ("her"). Their sand remains were carried by Elianna and made into the stones. Not named in this episode.
 
-**Locket**. Mentioned by Flynry as having helped save him earlier. Not present as a character here.
+**[[Characters/Locket|Locket]]**. Mentioned by Flynry as having helped save him earlier. Not present as a character here.
 
 ### Places
-- **The city of the dead**: ruled by Cantressa and Quintol. "A place of peace… for those with integrity." Its name is not spoken here.
-- **The palace**: throne room, guest chambers with a bell to summon servants, labyrinthine halls, an iron-doored room.
-- **The hall of floating mirrors** in the palace, similar to the one in the Grandmaster's Dread Fortress. Its mirrors lead to realms.
-- **The mirror realm**: "a reflection of the living world. Not quite the living world, but not quite here either."
-- **The snowy mountain ruins**: stairs up the mountainside to a glacial peak.
-- **The ice cave**: sealed by blue ice, with a dragon's hoard of gold, chests and armor.
+- **[[Places/The city of the dead|The city of the dead]]**: ruled by Cantressa and Quintol. "A place of peace… for those with integrity." Its name is not spoken here.
+- **[[Places/The palace|The palace]]**: throne room, guest chambers with a bell to summon servants, labyrinthine halls, an iron-doored room.
+- **[[Places/The hall of floating mirrors|The hall of floating mirrors]]** in the palace, similar to the one in the Grandmaster's Dread Fortress. Its mirrors lead to realms.
+- **[[Places/The mirror realm|The mirror realm]]**: "a reflection of the living world. Not quite the living world, but not quite here either."
+- **[[Places/The snowy mountain ruins|The snowy mountain ruins]]**: stairs up the mountainside to a glacial peak.
+- **[[Places/The ice cave|The ice cave]]**: sealed by blue ice, with a dragon's hoard of gold, chests and armor.
 - "The sands" / the waste, where outlanders wander.
 
 ### Items
-- **The Orrery of Dreams**: rumored to grant what you want most and perhaps a way back to the living. Location: "an adjacent realm." Never seen by the court. Expected to be mechanical (rings and orbs).
-- **Soul gems**: in the queen's crown and traded in the city.
-- **The two glass remembrance stones**: rough, reflective ovals with a faint soul-gem echo.
-- **Flynry's flaming sword**: showed the king's true reflection.
+- **[[Items/The Orrery of Dreams|The Orrery of Dreams]]**: rumored to grant what you want most and perhaps a way back to the living. Location: "an adjacent realm." Never seen by the court. Expected to be mechanical (rings and orbs).
+- **[[Items/Soul gems|Soul gems]]**: in the queen's crown and traded in the city.
+- **[[Items/The two glass remembrance stones|The two glass remembrance stones]]**: rough, reflective ovals with a faint soul-gem echo.
+- **[[Items/Flynry's flaming sword|Flynry's flaming sword]]**: showed the king's true reflection.
 - The dragon's hoard.
 
 ### Lore statements

@@ -176,7 +176,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Narfi / the Dracohydra** (feisty_viking).
+**[[Characters/Narfi|Narfi / the Dracohydra]]** (feisty_viking).
 - **Runs the lemonade stand at the arena**, "the best lemonade in the entire realm." Hates warm lemonade, the blue raspberry slushie stand and rock candy; afraid of dragons.
 - Lured in by the promise of unlimited ice; didn't realize it was a fight to the death.
 - **Turned into a Dracohydra by the Arbiter from Fizban's tome.** Speaks in the plural ("We are many"); also called Narfai, Narfacist, Narfissus.
@@ -184,7 +184,7 @@ tags: [episode, season-1]
 - Allied with the Grandmaster's aspect ("Boss"); refused the Hollow Dragon's union pitch ("Boss is good for us").
 - **Won the battle**, killing the Hollow Dragon's last support in a 78-damage round and finishing the Amethyst Dragon with ten bites. **Declared half-priced lemonade for all.**
 
-**Vashon / the Amethyst Dragon** (CaptainRobear).
+**[[Characters/Vashon|Vashon / the Amethyst Dragon]]** (CaptainRobear).
 - **A living amethyst die** ("normally being rolled as the dice"; "this is my first time" playing). Spelling of the name uncertain.
 - Turned into an adult Amethyst Dragon: floating purple crystals, long chunky tail, thick gullet; immune to prone ("such a chunker").
 - Pro-blackberry lemonade; promised amethyst rock candy and grape-crush water fountains.
@@ -192,14 +192,14 @@ tags: [episode, season-1]
 - **Abilities used:** gravitational/singularity breath, Psychic Step, beguiling whispers, Spatial Projection, explosive amethyst crystal, dispel magic, Force Cage.
 - Played both sides with sandwiches, secretly promising the Hollow Dragon a double-cross. **Killed Junior Topaz and the Topaz Dragon; was killed last by the Dracohydra.**
 
-**The Topaz Dragon — the Grandmaster's aspect** (Bec).
+**[[Characters/The Topaz Dragon — the Grandmaster's aspect|The Topaz Dragon — the Grandmaster's aspect]]** (Bec).
 - The Grandmaster's Halloween "aspect," then **her shadow drawn out by the Arbiter (inverse colors), transformed into an Ancient Topaz Dragon**: gold, yellow and orange wings with a blue hue.
 - Insists "I'm the aspect. I'm not the same as her up there… I can die down here."
 - **Her lair is a tower on a remote sea island**, where she watches the giant squid.
 - **Abilities used:** waterbending (control water: redirect flow, whirlpool), anti-life shell, desiccating breath, psionic teleport, beguiling whispers.
 - **Hatched and bonded with Junior Topaz.** Killed the Hollow Dragon and crushed his skull. Died to the Amethyst Dragon's singularity breath, eaten by fish.
 
-**The Hollow Dragon — the Shadow of the Arbiter** (Drew).
+**[[Characters/The Hollow Dragon — the Shadow of the Arbiter|The Hollow Dragon — the Shadow of the Arbiter]]** (Drew).
 - **The Arbiter's shadow (from S1E3) pulled out again, turned into ethereal light and melded with a suit of armor.** "What the fuck do you want this time?"
 - Started as "it" in tag.
 - **Abilities used:** Booming Scales (the armor explodes and reforms), Sapping Presence, Radiant Breath. Immune to poison, resistant to necrotic.
@@ -207,42 +207,42 @@ tags: [episode, season-1]
 - **Repeated the threat: "One day, me and the Arbiter, we're going to kill all of you"**, with a beanbag chair, a soda fountain and cheese puffs.
 - Killed by the Topaz Dragon; his armor drifted apart and his skull was crushed. (Dried Blood: his card would have let him reform if the pieces stayed together.)
 
-**Junior Topaz ("Junior McTopaz")**. A topaz wyrmling hatched from the chaos egg and bonded to the Topaz Dragon; looks like a baby Charizard. Gnawed on the Hollow Dragon's leg; killed by the Amethyst Dragon's breath.
+**[[Characters/Junior Topaz|Junior Topaz ("Junior McTopaz")]]**. A topaz wyrmling hatched from the chaos egg and bonded to the Topaz Dragon; looks like a baby Charizard. Gnawed on the Hollow Dragon's leg; killed by the Amethyst Dragon's breath.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Dressed as a cat (from a dumpster, smells like cheese) for Halloween.
 - **Owns a large leather tome, "Fizban's Treasury" ("my favorite book"), from whose pages he pulls dragon forms to transform champions.**
 - **Can draw out the Grandmaster's shadow as well as his own.** Distorts reality to move the arena between lairs, and put breathing magic in the water.
 - Still insists his shadow "doesn't speak for me." Eats nachos and lemonade and showers the cheese sect below.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Always goes out for Halloween. Sits next to Doug the Pug.
 - Ruled she can make whatever rules she wants. **Declared all consequences doubled for the rest of the fight.**
 - Promised a meeting with all vendors and caterers about work balance.
 - **Suspects the Arbiter's shadow speaks "from a certain place"; promises "a long talk later."**
 
-**Doug the Pug**. The Grandmaster's pug, at her seat. Decides bone day / no bones day (a no bones day tonight). Adds +7 with a "laser eye" to trigger the final map change. Subject of a painting commissioned by Wes Wolf.
+**[[Characters/Doug the Pug|Doug the Pug]]**. The Grandmaster's pug, at her seat. Decides bone day / no bones day (a no bones day tonight). Adds +7 with a "laser eye" to trigger the final map change. Subject of a painting commissioned by Wes Wolf.
 
-**Todd**. Normally sells blue raspberry slushies; **covered Narfi's lemonade stand during the fight**, slipping on the floor without restaurant shoes.
+**[[Characters/Todd|Todd]]**. Normally sells blue raspberry slushies; **covered Narfi's lemonade stand during the fight**, slipping on the floor without restaurant shoes.
 
-**Wes Wolf**. An Acolyte "in the nosebleeds" who commissioned the Doug the Pug painting (a real viewer, framed in-world). **Saint Cinder** is the artist.
+**[[Characters/Wes Wolf|Wes Wolf]]**. An Acolyte "in the nosebleeds" who commissioned the Doug the Pug painting (a real viewer, framed in-world). **Saint Cinder** is the artist.
 
-**The nacho-cheese Acolytes**. A small sect seated just below the Arbiter, there only to be covered in nacho cheese.
+**[[Characters/The nacho-cheese Acolytes|The nacho-cheese Acolytes]]**. A small sect seated just below the Arbiter, there only to be covered in nacho cheese.
 
 ### Places
-- **The open sky arena**: clouds and the spinning green emerald crystal (castle surroundings bled into sky).
-- **The Amethyst Dragon's lair**: a cave behind a raging waterfall, with nooks where mushrooms grow and a "bedroom" with a door and three-quarter walls.
-- **The Topaz Dragon's lair**: a castle tower on a remote island in the sea, with tall perches (30 ft and 40 ft); giant squid offshore.
-- **The Dracohydra's lair** (made for him by the Arbiter): an underwater cavern, crystal 160 ft down, breathable water.
+- **[[Places/The open sky arena|The open sky arena]]**: clouds and the spinning green emerald crystal (castle surroundings bled into sky).
+- **[[Places/The Amethyst Dragon's lair|The Amethyst Dragon's lair]]**: a cave behind a raging waterfall, with nooks where mushrooms grow and a "bedroom" with a door and three-quarter walls.
+- **[[Places/The Topaz Dragon's lair|The Topaz Dragon's lair]]**: a castle tower on a remote island in the sea, with tall perches (30 ft and 40 ft); giant squid offshore.
+- **[[Places/The Dracohydra's lair|The Dracohydra's lair]]** (made for him by the Arbiter): an underwater cavern, crystal 160 ft down, breathable water.
 - The arena's lemonade stand and blue raspberry slushie stand; the Grandmaster's seat; the Arbiter's balcony.
 
 ### Items
-- **The green crystal**: touching it shifts the arena to a dragon's lair.
-- **The chaos egg**: red, glowing and pulsing; hatched in six rounds into Junior Topaz.
-- **The tag mark**: a red X that explodes on whoever is "it" at the end.
-- **The mushrooms**: one healing, one poisonous, two unused.
-- **Fizban's Treasury**, the Arbiter's leather tome.
-- **The Doug the Pug painting** by Saint Cinder.
+- **[[Items/The green crystal|The green crystal]]**: touching it shifts the arena to a dragon's lair.
+- **[[Items/The chaos egg|The chaos egg]]**: red, glowing and pulsing; hatched in six rounds into Junior Topaz.
+- **[[Items/The tag mark|The tag mark]]**: a red X that explodes on whoever is "it" at the end.
+- **[[Items/The mushrooms|The mushrooms]]**: one healing, one poisonous, two unused.
+- **[[Items/Fizban's Treasury|Fizban's Treasury]]**, the Arbiter's leather tome.
+- **[[Items/The Doug the Pug painting|The Doug the Pug painting]]** by Saint Cinder.
 - The 1d4 "no bones" inspirations.
 
 ### Lore statements

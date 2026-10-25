@@ -141,7 +141,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Ricky Red Dragon** (realdavidgrace)
+**[[Characters/Ricky Red Dragon|Ricky Red Dragon]]** (realdavidgrace)
 - Claims to be a red dragon ("Chromatic Red") cursed into a human body after partying too hard at a techno concert. Wants his scales back, and Elusia called that "absolutely doable" as the prize.
 - Says he is 6,012 years old. Wears **sunglasses (from Costco)**, flip-flops and a top with pockets, but no pants. Carries **fake beards** in his pockets and never washes them.
 - **Terrified of the dark.** Colorblind. A "dragon that goes to raves." Has a political career to uphold "one day."
@@ -150,7 +150,7 @@ tags: [episode, season-4]
 - **Dying confession: "I'm not really a dragon."** Turned to dust by Spider's Destructive Wave.
 - Whether he has a cloaca was never answered.
 
-**Traxton, "Spider"** (theshortnord, Mike)
+**[[Characters/Traxton|Traxton, "Spider"]]** (theshortnord, Mike)
 - An elf, "the coolest elf from my part of the woods." His mom calls him Traxton; he goes by "Spider," a one-word name "like Seal." He likes spiders.
 - Age stated as 45, "young for an elf." Bec later says 46. A late bloomer: unbroken voice, no muscle mass. Emo, a My Chemical Romance fan.
 - Shops at Earthbound. Ordered a salad at the steakhouse and is pro-vegan. His dad loves "Sweet Caroline." Has halitosis.
@@ -159,7 +159,7 @@ tags: [episode, season-4]
 - **Traded his hero point to the Box of Chaos for puberty.** It arrived, along with a wooden phallic immovable rod holding one Fireball.
 - Won the match. Gave a "stay cool, cool babies" speech in Ricky's sunglasses. **Turned into a tarantula by the Shadow King and kicked out of the arena.**
 
-**The Shadow King** (Drew)
+**[[Characters/The Shadow King|The Shadow King]]** (Drew)
 - Rules from the Dread Fortress in Season 4 and has his own throne room there.
 - Throws secret solo pre-parties: strobes, lasers, the Super Troopers techno song, a keg behind the throne.
 - "Was once a shadow monster… I had skin and then I didn't have skin and now I have skin again." The tail question was left unclear.
@@ -169,24 +169,24 @@ tags: [episode, season-4]
 - Can dissipate into shadow and reappear elsewhere, and can transform people (Spider into a tarantula).
 - Closing promise: "While I'm around, there will be death in the arena."
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Runs and plans the finale despite the Shadow King's rule. Opens portals with **an amulet whose bladed edge cuts her fingers to draw blood.**
 - Has white wings and sits beside the Shadow King. Says she has "a title and a crown."
 - Throws popcorn at dabbers and banned dabbing in the arena. Saved a bowl of rocks for later. Eats goldfish ("the snack that smiles back").
 - Offers the winner a snack pack of goldfish and fruit roll-ups. Has a niece (mentioned in a colors joke).
 
-**The goblins.** All bald after a lice outbreak a couple of weeks earlier. They treat the techno as soul music and drank the keg from the floor and from each other. One keeps the notepad of arena rules. In Dried Blood (unclear if canon): unionized, each with a pet chinchilla.
+**[[Characters/Goblins|The goblins.]]** All bald after a lice outbreak a couple of weeks earlier. They treat the techno as soul music and drank the keg from the floor and from each other. One keeps the notepad of arena rules. In Dried Blood (unclear if canon): unionized, each with a pet chinchilla.
 
-**Chin Dragon / Chinzilla.** A dragon-sized giant chinchilla summoned as a chaos event. It charged straight through the arena, trampled both fighters and left.
+**[[Characters/Chin Dragon|Chin Dragon / Chinzilla.]]** A dragon-sized giant chinchilla summoned as a chaos event. It charged straight through the arena, trampled both fighters and left.
 
-**The shadowy figure in the Box of Chaos.** Clawed fingers, yellow eyes. Calls itself "just a tormented soul in a box." Wore Ricky's sacrificed beard, has halitosis, and buffers like dial-up.
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos.]]** Clawed fingers, yellow eyes. Calls itself "just a tormented soul in a box." Wore Ricky's sacrificed beard, has halitosis, and buffers like dial-up.
 
 **Acolytes named.** **Toolkit 71**: ripped in half for the box. **Ristin8012 ("HK Ristin")**: impersonated by Ricky's illusion.
 
 ### Places
-- **The Dread Fortress**: echoing halls and dungeon-like lower levels. The **Shadow King's throne room** is there.
-- **The forest clearing arena**: thick foliage, loud birds, and a central ritual of glowing purple portal circles that hum "like a giant subwoofer." The Shadow King says it was meant as a Coachella venue. Each circle had a random effect: a purple coating (+1 AC, sing an annoying lyric) and a bat wild shape.
-- **The Dark Circle**: Bec's name for Spider's own Darkness, into which the Grandmaster "banished" him.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: echoing halls and dungeon-like lower levels. The **Shadow King's throne room** is there.
+- **[[Places/The forest clearing arena|The forest clearing arena]]**: thick foliage, loud birds, and a central ritual of glowing purple portal circles that hum "like a giant subwoofer." The Shadow King says it was meant as a Coachella venue. Each circle had a random effect: a purple coating (+1 AC, sing an annoying lyric) and a bat wild shape.
+- **[[Places/The Dark Circle|The Dark Circle]]**: Bec's name for Spider's own Darkness, into which the Grandmaster "banished" him.
 - Longhorn Steakhouse, where the champions were found (a real-world joke).
 
 ### Items

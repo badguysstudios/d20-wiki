@@ -216,7 +216,7 @@ tags: [episode, live-shows]
 
 ## Who and what appears
 ### Characters
-**Navik, Lord of the Undead** (speaker 02, guest)
+**[[Characters/Navik|Navik, Lord of the Undead]]** (speaker 02, guest)
 - A necromancer and caster; the Arbiter's "friend," not cool.
 - **Appearance:**
   - A "pretty red hand" with a ring.
@@ -228,7 +228,7 @@ tags: [episode, live-shows]
 - **Killed and raised a child**, and raised Prego after his death.
 - Won the match. "Evil always wins."
 
-**Ragu, later "Prego"** (speaker 00, guest)
+**[[Characters/Ragu|Ragu, later "Prego"]]** (speaker 00, guest)
 - "Filthy, dirty animal with an instinct to kill." He says he's "already dead."
 - Wears a basketball jersey (swag "stolen" from Ring Fit Adventure, bought on eBay).
 - Has plantar fasciitis. Hungry for chicken. Likes pink.
@@ -240,23 +240,23 @@ tags: [episode, live-shows]
 - **Evolved from Ragu to Prego** through a heroic surge. Spent a power up to heal ("the power of Parmesan").
 - **Killed by frozen wombat poop and raised into Navik's army.**
 
-**The Grandmaster, Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster, Elusia Skypiercer]]** (Bec)
 - Introduced as "She who defeated the Shadow King."
 - Casts the grand illusion of the Dread Fortress. Charges the Arbiter rent.
 - Overrides his Sunday-only union rule ("Chaos happens every day").
 - Deep-fries a failed Acolyte. Honors a nat 20 by making a child a human shield.
 - Says she "got stuck with" the Arbiter.
 
-**The Arbiter** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Drew)
 - "I just work here." A member of the Arbiters' union: only works Sundays.
 - Brought "some friends" as champions. Sent "down below" off the stage.
 - Proposes summoning the Box of Chaos and voices what's inside it.
 - Says he does the taxes.
 - Beat the dragon cosplayer in a roll-off and sent him "back to the corner like last year."
 
-**The Box of Chaos.** Summoned at the Arbiter's suggestion; Ragu poops it out. When opened, black shadowy fingers and yellow eyes ask "What do you want?" It takes a trade (the nunchucks) and gave a small blue pill.
+**[[Lore/The Box of Chaos|The Box of Chaos.]]** Summoned at the Arbiter's suggestion; Ragu poops it out. When opened, black shadowy fingers and yellow eyes ask "What do you want?" It takes a trade (the nunchucks) and gave a small blue pill.
 
-**Named Acolytes and crowd:**
+**[[Characters/Named Acolytes and crowd|Named Acolytes and crowd:]]**
 - Craig (on camera or crew).
 - Rick (rolled the nat 1 and was "shipped to Antarctica").
 - The birthday boy (32) and a birthday girl.
@@ -267,16 +267,16 @@ tags: [episode, live-shows]
 - Six minions turned to sparkly dust.
 - Six wombats.
 
-**Minion forms the GM described:** a young freshly buried dragonborn, a skeletal centaur druid ("Motaro"), and undead horde generals.
+**[[Characters/Minion forms the GM described|Minion forms the GM described:]]** a young freshly buried dragonborn, a skeletal centaur druid ("Motaro"), and undead horde generals.
 
 ### Places
-- **The Dread Fortress** and its lava region, with the large skull entrance, conjured on the GCX stage by illusion.
+- **[[Places/The Dread Fortress|The Dread Fortress]]** and its lava region, with the large skull entrance, conjured on the GCX stage by illusion.
 - GCX Orlando (the real-world venue).
 - Antarctica (where bad-luck Acolytes get shipped, as a joke).
 
 ### Items
 - Ragu's nunchucks (given to the Box of Chaos).
-- **The small blue pill** (raises the fatigue limit).
+- **[[Items/Small blue pill|The small blue pill]]** (raises the fatigue limit).
 - Acid bottles.
 - Navik's ring and boots.
 - The D20 Deathmatch die, which "floats high, soaking in all the energy."

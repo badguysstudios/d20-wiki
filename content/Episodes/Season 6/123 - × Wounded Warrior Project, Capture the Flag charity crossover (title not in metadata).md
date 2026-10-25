@@ -233,20 +233,20 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Dave the Doom Duck** (KP). Winner.
+**[[Characters/Dave the Doom Duck|Dave the Doom Duck]]** (KP). Winner.
 - **Origin:** a hellish duck who came through a portal from "the hells below." Hell cheered to be rid of him; later he says "**they kicked me out of hell. I'll make a new hell.**"
 - **Appearance:** too scaly, with **draconic wings** (damaged in the final fight). Looking him in the eye brings madness and rage.
 - **Habits:** speaks Abyssal and quacks. **He poops anywhere as "his birthright"; the world "is his own toilet."** He fires fireballs from his butt after eating "spicy stuff." He never learns the other champions' names ("minion one, minion two"). Hates water despite being a waterfowl.
 - **Powers:** a draconic sorcerer (sleep, Mage Hand shaped like duck heads, Wall of Fire, Banishment twinned twice, Fireball). Fire resistance from draconic resilience.
 - **In this episode:** stabbed in the butt by a chinchilla. Threatened "Don't hurt the chinchillas." Abandoned in the alchemy room by his team; found the sticky-note answer. Tried to banish both opponents and his own teammate Perry. The Grandmaster blessed him for creativity.
 
-**Grog the Malodorous** (JJ). A 7'3" **centaur** ("part horse").
+**[[Characters/Grog the Malodorous|Grog the Malodorous]]** (JJ). A 7'3" **centaur** ("part horse").
 - **Body and gear:** a **bionic leg** and a "chassis" deep inside (inferred to be part-mechanical from 1:19:05 and 1:20:03). Started with a war hammer, traded it to the Box of Chaos for a **Trident of Fish Command** ("I don't even like fish"). Paladin smites.
 - **The smell:** his "natural essence" makes eyes water and can be felt; he loves it. His farts woke the chinchillas, and the worm Thea refused to eat him because of the taste.
 - **Personality:** loves food, can't count or read ("How many is three?"), likes singing, hates riddles.
 - **In this episode:** killed Perry; killed by Dave's fireball. Dying, he wanted to "meet my friend Beans."
 
-**Beans the Terrible** (North Wolf). A **2'4" pixie / fairy** with kaleidoscope wings and a troupe of dancing pixies, his "swarm."
+**[[Characters/Beans the Terrible|Beans the Terrible]]** (North Wolf). A **2'4" pixie / fairy** with kaleidoscope wings and a troupe of dancing pixies, his "swarm."
 - **Personality:** speaks in "Precious"-style phrases ("Suffering Succotash", "Jumping Jellybeans"). Endlessly chatty and kind: he complimented and comforted the worm Thea. Hates fire.
 - **Powers:** Circle of the Stars druid (starry form, a Sailor Moon-style transformation). Guidance, Cosmic Omen, Flame Blade, Wall of Fire, Moonbeam, Guiding Bolt (shrink on food).
 - **In this episode:**
@@ -255,51 +255,51 @@ tags: [episode, season-6]
   - Got a shadow-made **Vorpal Sword** from the Box ("just so you stop talking to me"), then was shoved into the Box by Perry's swarm and came out with a **Hat of Vermin**.
   - Hit Pyxis for 72. Killed by Perry's dying shovel blow; died struggling with Perry "in eternity."
 
-**Solid** (Dan / Nat1Fun). A 5'6" **Yuan-ti**, "well-trained in close quarters combat," "all about espionage."
+**[[Characters/Solid|Solid]]** (Dan / Nat1Fun). A 5'6" **Yuan-ti**, "well-trained in close quarters combat," "all about espionage."
 - **Appearance:** missing an eye; wears an eye patch with glasses over it. Fangs. "Green guy" / "cobra" / "old snake."
 - **Abilities:** monk (flurry of blows, Step of the Wind, Open Hand, Evasion, Slow Fall, stunning strike). Advantage on saves against magic.
 - **Background:** calls out to "Otacon" on arrival. **Admits he killed Pyxis's family**; Pyxis says he took Solid's eye "last time."
 - **In this episode:** turned briefly into a frog. Kicked the Box of Chaos over the trees onto his own teammates. Knocked Dave into the river. Killed when Pyxis, guided by Selûne, poked out his last eye and fell on him.
 
-**Pyxis** (Anthony Joyce Rivera). A 9'5" "huge bulky mammoth" ("a little small for my height") in armor, with a war hammer. Called "this robot friend" by Solid at 2:52:35.
+**[[Characters/Pyxis|Pyxis]]** (Anthony Joyce Rivera). A 9'5" "huge bulky mammoth" ("a little small for my height") in armor, with a war hammer. Called "this robot friend" by Solid at 2:52:35.
 - **Personality:** gentle and polite ("dears," "sweetie").
 - **His quest:** came to the Void for revenge on **a little fairy, a strange centaur and a cobra who killed his loved ones** (his taller siblings). He recognized Solid's voice from "a very horrible day long ago" and **took Solid's eye once before**.
 - **Powers:** a cleric of **Selûne**. Greater invisibility, Moonbeam, Steps of Night, Inflict Wounds, Divine Intervention.
 - **In this episode:** ate the food invisibly. Wiped up Dave's poop for the chinchillas. **Donated the $100 that unleashed Thea.** Ditched Dave in the alchemy room. Killed Solid with Selûne's help while dying in Dave's fireball.
 
-**Perry** (Keon). About **3'5" plus 4-ft ears**, a rabbit ("this little bitty rabbit") with black and white hair, a **giant wizard's hat that glows blue underneath and leaks fireflies**, and a straw in his mouth.
+**[[Characters/Perry|Perry]]** (Keon). About **3'5" plus 4-ft ears**, a rabbit ("this little bitty rabbit") with black and white hair, a **giant wizard's hat that glows blue underneath and leaks fireflies**, and a straw in his mouth.
 - Carries a **shovel** he won't "disrespect" by cleaning poop. Power-Ranger-tumbled out of the Arbiter's portal.
 - **Powers:** a Swarmkeeper with a firefly swarm. Faerie fire, Detect Poison and Disease, rabbit hop.
 - **In this episode:** **solved the vial puzzle first** (drink blue, mix red and green). Drank a potion of giant strength from the Box. Shoved Beans into the Box. Killed by Grog; killed Beans with his last swing.
 
-**Thea** (Bec). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
 - **A tiny pink imp** with frantic wings and a tail, boxing gloves and a steak knife.
 - **The Arbiter transformed her into her "true form": a giant purple worm, "the Abyss Devourer,"** with multiple tongues and rotating layered teeth. Gargantuan, 30–40 ft.
 - Turned away from eating Grog because of his taste. Split one tongue on a stalagmite.
 - **Killed by Beans's Wall of Fire** and slid back into the ravine. Later called "Thea the Imp" again (1:52:14).
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - "Not a young man anymore."
 - **Opened Perry's portal by slamming his wings together, rippling time and space.**
 - Bet on Dave. **Claims to have battled ducks "more times than you would believe."** Doesn't clean up poop anymore because of Thea.
 - Transformed Thea. Called for the free-for-all.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **10 feet tall, "the tallest person in this room."** Not fluent in duck, with duck on her Duolingo. Always asks champions about their bowels.
 - Favored Perry and Team A. Gave Dave Bless. **Shrank the trees to shrubbery.** Ruled double damage.
 - "Ruler of a world."
 
-**The Box of Chaos** (Drew). A chest with shadowy fingers and two yellow eyes.
+**[[Lore/The Box of Chaos|The Box of Chaos]]** (Drew). A chest with shadowy fingers and two yellow eyes.
 - Demands something before it gives something, and wants "a sacrifice."
 - Fell from the sky like a comet in pink and yellow flames.
 - Gave out a Vorpal Sword, a Trident of Fish Command, a Hat of Vermin and a potion of giant strength. Rule: one item per champion.
 - Complained when picked up (speaker uncertain).
 
-**The chinchillas** of the Dread Fortress.
+**[[Lore/Chinchillas|The chinchillas]]** of the Dread Fortress.
 - They sleep cuddling kitchen and steak knives and kick shins.
 - One wears a hard hat and smokes ("Get them, boys!"). One gets up at night for hot milk.
 
-**Other figures:**
+**[[Characters/Other figures|Other figures:]]**
 - **The mimic**: the dustless chest in Team A's alchemy room.
 - **The camera crew / documentarians**: they follow the Grandmaster and Arbiter "all the time."
 - **"The Chuck Norris"**: a parking-lot guy who trains chinchillas to kick.
@@ -308,14 +308,14 @@ tags: [episode, season-6]
 - **Donating Acolytes**: Joss/Jess/Just Baker, Great To Be A Gator, M. Walker Hall, Hoopla Chick (Texas), Dolly and Hoopla, Anonymous.
 
 ### Places
-- **The Dread Fortress Castle (phase one):**
+- **[[Places/The Dread Fortress Castle (phase one)|The Dread Fortress Castle (phase one):]]**
   - a hall with champion tables laden with food (the kitchen), open to the sky under the floating grandstand;
   - **the sleeping chinchillas' room**;
   - **the alchemy room**: three tables of RGB vials, books, chests (one a mimic), a throne-like chair, an end table with a skull, and a stone portal with pink and yellow flames.
   - The Dread Fortress has a shower down the hall.
-- **The mini-boss cave**: a large cave split by a chasm, with stalagmites.
-- **The Dread Fortress grounds (phase two):** a worn path; a torrential river full of rocks and rapids with its bridge missing; a 20-ft tree barrier, lowered to 5-ft shrubs; a well that looks like a toilet.
-- **Hell**, Dave's place of origin, with "rivers of lava."
+- **[[Places/The mini-boss cave|The mini-boss cave]]**: a large cave split by a chasm, with stalagmites.
+- **[[Places/The Dread Fortress grounds (phase two)|The Dread Fortress grounds (phase two):]]** a worn path; a torrential river full of rocks and rapids with its bridge missing; a 20-ft tree barrier, lowered to 5-ft shrubs; a well that looks like a toilet.
+- **[[Places/Hell|Hell]]**, Dave's place of origin, with "rivers of lava."
 
 ### Items
 - The Vorpal Sword (purple, shadow-made)

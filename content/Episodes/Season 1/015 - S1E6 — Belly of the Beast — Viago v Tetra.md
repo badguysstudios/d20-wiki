@@ -271,7 +271,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Viago** (fabled42).
+**[[Characters/Viago|Viago]]** (fabled42).
 - **Body:** a **seven-foot-tall half-orc** ("orc" in narration). Shirtless, with black pants. A **skull helmet**. **Moldy, horrible teeth and tusks.**
 - **Fighting:** a rage-based **totem barbarian** ("resistant to everything but psychological"), with a greataxe and the **Sentinel** feat.
 - **Druid magic** (multiclass inferred from Wild Shape, Healing Word and Jump):
@@ -290,7 +290,7 @@ tags: [episode, season-1]
 - Earned the nickname "**Viago the Stunless**" (from Tetra).
 - Dried Blood: an Orochiath in his player's homebrew world.
 
-**Tetra Kincaid** (theshortnord, "Mike").
+**[[Characters/Tetra Kincaid|Tetra Kincaid]]** (theshortnord, "Mike").
 - **Body:** a feline **Tabaxi** monk (Way of the Astral Self) with **white fur she has grown "for decades"** and uses a hibiscus-and-mint conditioner on.
 - **Style:** wears black because it's slimming. Speaks with a heavy accent and broken English ("he is asshole") and says "my dear."
 - **Gear:** a quarterstaff kept behind her head, claws, and darts.
@@ -302,7 +302,7 @@ tags: [episode, season-1]
 - Rolled many natural 20s.
 - **Fate:** defeated by Viago's kick. **The Arbiter fed her body to his pet gelatinous cube instead of keeping her for his army.**
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Humors the GM at rock, paper, scissors.
 - Does her laundry (laundry day follows the deathmatch).
 - Is paid in leftover cold popcorn, gets to boss goblins, and "takes payment in blood."
@@ -312,7 +312,7 @@ tags: [episode, season-1]
 - Bet on Viago and placed "late fight wagers."
 - Says there is a dentist on staff.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Plays rock, paper, scissors with her goblins and cheats.
 - "I've lived many lives." 13 is one of her favorite numbers.
 - Owns the Siren's Nautilus.
@@ -320,25 +320,25 @@ tags: [episode, season-1]
 - **Can summon a moon as a spotlight, freeze the gelatinous cube by standing on it, and make a tornado by circling.**
 - Believes getting hurt "is what makes you alive."
 
-**Elusia's goblins**: at least eight, lined up to lose to her. One always picks rock.
+**[[Characters/Elusia's goblins|Elusia's goblins]]**: at least eight, lined up to lose to her. One always picks rock.
 
-**The gelatinous cube**: lives in the pit in the ship's stomach. It is **the Arbiter's "pet,"** and it ate Tetra's body. The GM froze it briefly. Drew called it a "Bombastic gelatinous cube."
+**[[Characters/The gelatinous cube|The gelatinous cube]]**: lives in the pit in the ship's stomach. It is **the Arbiter's "pet,"** and it ate Tetra's body. The GM froze it briefly. Drew called it a "Bombastic gelatinous cube."
 
-**The mummified sailors**: the "somewhat living" bodies of people the ship swallowed, lining the stomach walls. One tried to grab Tetra.
+**[[Characters/The mummified sailors|The mummified sailors]]**: the "somewhat living" bodies of people the ship swallowed, lining the stomach walls. One tried to grab Tetra.
 
-**The staff dentist**: unnamed. Better at ripping teeth out; has made a few dentures. Replacement teeth are only for winners.
+**[[Characters/The staff dentist|The staff dentist]]**: unnamed. Better at ripping teeth out; has made a few dentures. Replacement teeth are only for winners.
 
 ### Places
-- **The Grandmaster's subterranean castle / throne room** (the opening scene).
-- **The Siren's Nautilus**: the GM's living sunken ship-beast, which she uses "to scour the seas and claim whatever happens to fall to its death."
+- **[[Places/The Grandmaster's subterranean castle|The Grandmaster's subterranean castle / throne room]]** (the opening scene).
+- **[[Places/The Siren's Nautilus|The Siren's Nautilus]]**: the GM's living sunken ship-beast, which she uses "to scour the seas and claim whatever happens to fall to its death."
   - **The ballroom**: an air bubble, purple luminescent tile, pearl trim, puddles, a jellyfish-like electric floor, and exits at both ends.
   - **The stomach**: a glowing green fountain or pit holding the gelatinous cube, acid floor, slime walls and mummified sailors.
-- **The crowd viewing area above the ship**, like a SeaWorld tank or glass-bottom boat.
+- **[[Places/The crowd viewing area above the ship|The crowd viewing area above the ship]]**, like a SeaWorld tank or glass-bottom boat.
 - **"The wilderness"**: where Viago was found; claimed to be a proper place name.
-- **The parking lot outside of Disney**: where Tetra was found (a real-world joke).
+- **[[Places/The parking lot outside of Disney|The parking lot outside of Disney]]**: where Tetra was found (a real-world joke).
 
 ### Items
-- **Metal chairs** from behind the GM's throne. One was thrown down; another became Viago's collar.
+- **[[Items/Metal chairs|Metal chairs]]** from behind the GM's throne. One was thrown down; another became Viago's collar.
 - The GM's summoned spotlight moon.
 - Tetra's quarterstaff and darts; Viago's greataxe and skull helmet.
 - The bouncy-castle floor (a chaos event).

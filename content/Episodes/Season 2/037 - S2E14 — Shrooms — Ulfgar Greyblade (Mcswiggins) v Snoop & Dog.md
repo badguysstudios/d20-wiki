@@ -138,16 +138,16 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Snoop** (RunawayRobot_). A short adventurer, about **4'6½"**, who wears **heeled Italian leather shoes** to look taller.
-- **Mushrooms:** he arrived high on magic mushrooms kept in Dog's saddlebag. **Purple ones make you happy; red ones cause a "blood frenzy"** and he takes them before fights. He ate a red one before Fury of the Small.
+**[[Characters/Snoop|Snoop]]** (RunawayRobot_). A short adventurer, about **4'6½"**, who wears **heeled Italian leather shoes** to look taller.
+- **[[Items/The mushrooms|Mushrooms:]]** he arrived high on magic mushrooms kept in Dog's saddlebag. **Purple ones make you happy; red ones cause a "blood frenzy"** and he takes them before fights. He ate a red one before Fury of the Small.
 - **Fighting style:** a Drakewarden-style rider who mounts Dog. Spear, shield (Shield Master shove), invisibility (a trait, not a spell), favored foe, Fury of the Small, Mounted Combatant.
 - **Personality:** laid-back, friendly, voice gets higher when angry. Calls himself "the non-winners," not losers. Recommends pets for mental health. Mixes up "Doug" and "Dog."
 - **Lore:** "I've been down this alley before" with a Box of Chaos, and "the last one I saw didn't talk."
 - **In this episode:** befriended Gerald, gained and lost two lions, saved Dog with his hero point, killed the Aeorian Reverser, and shoved Mcswiggins into the hole with the "long live the king" line. **The Arbiter bet on him.**
 
-**Dog** (RunawayRobot_). Snoop's "dragon dog," a scaly **silver dragon** drake companion that says "woof." It **bites ankles**, breathes a **cone of lightning**, can be ridden, and can be clapped back to Snoop's side. Two natural 20s; "the real MVP." Snoop calls him "the backbone of this partnership." Everyone else insists he is not a dog.
+**[[Characters/Dog|Dog]]** (RunawayRobot_). Snoop's "dragon dog," a scaly **silver dragon** drake companion that says "woof." It **bites ankles**, breathes a **cone of lightning**, can be ridden, and can be clapped back to Snoop's side. Two natural 20s; "the real MVP." Snoop calls him "the backbone of this partnership." Everyone else insists he is not a dog.
 
-**Ulfgar Greyblade / "Mcswiggins, the Everthirsty"** (bonus_stage_rob). A broad dwarf, about **4'8"**, a barbarian with warlock (Hexblade) abilities.
+**[[Characters/Mcswiggins|Ulfgar Greyblade / "Mcswiggins, the Everthirsty"]]** (bonus_stage_rob). A broad dwarf, about **4'8"**, a barbarian with warlock (Hexblade) abilities.
 - **Titles:** "the toughest son of a bitch in Drakboldor [?], and the pride of the drunken master."
 - **Name:** he insists he goes by Mcswiggins. The sign-up said Ulfgar; the Arbiter blames friends signing people up.
 - **Gear and powers:**
@@ -163,7 +163,7 @@ tags: [episode, season-2]
   - Fell into the abyss.
   - **In Dried Blood, the Arbiter caught him with a plunger and took him to his lair, "I'm going to have a use for you very soon."**
 
-**Gerald** (Drew). The creature in the Box of Chaos: yellow eyes, shadowy claws.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The creature in the Box of Chaos: yellow eyes, shadowy claws.
 - Talks.
 - **Ate both bags of Snoop's mushrooms, and his eyes turned to yellow spirals.**
 - Rummages through a cluttered box interior.
@@ -171,36 +171,36 @@ tags: [episode, season-2]
 - Defends himself: "It could have been anybody's lion"; "Lions can either be ferocious or they can fit in your pocket."
 - Left mid-buzz.
 
-**The golden lions.** A pair of figurine-of-wondrous-power lions. One was slam-dunked into the box and eaten. The other, the "busted lion"/"cat," missed repeatedly, drank the melted beer, rolled a natural 1, and was **retired by the Grandmaster to sit beside Doug**, where it fell asleep drunk.
+**[[Characters/The golden lions|The golden lions.]]** A pair of figurine-of-wondrous-power lions. One was slam-dunked into the box and eaten. The other, the "busted lion"/"cat," missed repeatedly, drank the melted beer, rolled a natural 1, and was **retired by the Grandmaster to sit beside Doug**, where it fell asleep drunk.
 
-**The Aeorian Reverser.** Summoned out of the lost plane's hole. It nearly crit Dog, threw Mcswiggins, and was killed by Snoop.
+**[[Characters/The Aeorian Reverser|The Aeorian Reverser.]]** Summoned out of the lost plane's hole. It nearly crit Dog, threw Mcswiggins, and was killed by Snoop.
 
-**Doug the Pug** (Bec). Sits beside the Grandmaster on a fluffy pillow and pedestal and rolls a **green plushy D20** when the Arbiter rolls badly. He "glows with ethereal ability"; his chair floats higher than the Arbiter's head. He nursed the retired lion. Snoop calls him a "non-dog" and a "very cute lizard"; the Arbiter says Doug "rolled like shit" last week.
+**[[Characters/Doug the Pug|Doug the Pug]]** (Bec). Sits beside the Grandmaster on a fluffy pillow and pedestal and rolls a **green plushy D20** when the Arbiter rolls badly. He "glows with ethereal ability"; his chair floats higher than the Arbiter's head. He nursed the retired lion. Snoop calls him a "non-dog" and a "very cute lizard"; the Arbiter says Doug "rolled like shit" last week.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Wears dead men's shoes: "Italian leather" tap-like shoes, then corpse sandals; **a fine collection of shoes from all the people he's killed.**
 - Hit Mcswiggins with a metal chair.
 - **Bet on Snoop.**
 - Enforces "this is not a toilet… we have HR."
 - Plunged into the abyss, and in Dried Blood took Mcswiggins to his lair.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Throne room in the Dread Fortress; very large bedazzled crown.
 - Declared Tuesday screaming night and made the shoe rule ("insurance").
 - Chose the lost plane, chaired Snoop, and retired the lion.
 - "She makes the rules."
 - Flew Snoop up to the cheering Acolytes.
 
-**The Acolytes.** Their farts sink into the arena. They chose fish, beer, Doritos/cheese, peanut and chili farts. Front-row ponchos.
+**[[Lore/The Acolytes|The Acolytes.]]** Their farts sink into the arena. They chose fish, beer, Doritos/cheese, peanut and chili farts. Front-row ponchos.
 
 ### Places
-- **The Dread Fortress**: halls with servants and goblins; the Grandmaster's throne room.
-- **The lost plane** ("for those things that are lost"; "the arena of lost farts"):
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: halls with servants and goblins; the Grandmaster's throne room.
+- **[[Places/The lost plane|The lost plane]]** ("for those things that are lost"; "the arena of lost farts"):
   - Membrane/testicle-like ground with vines; S-curved walls with shimmering empty shelves.
   - Potions and carvings appear when reality shifts.
   - **A giant hole leads into a dark abyss, falling "through space and time, what feels like forever"** ("the abyss of the forgotten"). It's called a toilet.
-- **The Arbiter's lair** (Dried Blood): reached by portal.
-- **Drakboldor [?]**: Mcswiggins' home turf.
+- **[[Places/The Arbiter's lair|The Arbiter's lair]]** (Dried Blood): reached by portal.
+- **[[Places/Drakboldor|Drakboldor [?]]]**: Mcswiggins' home turf.
 
 ### Items
 - The golden lion figurines; Mcswiggins' **lion barrier tattoo**.

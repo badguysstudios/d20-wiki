@@ -154,7 +154,7 @@ There is no "Welcome to Dried Blood" marker. It begins right after the sign-off,
 
 ## Who and what appears
 ### Characters
-**Vythorn / the Arbiter** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
 - Returned to the Void from Giant's Breath by Fil.
 - **Gained the Testaments of Morir's Cataclysm's power.** The words burned into his flesh, and he combines Morir magic with chaos energy.
 - Powers shown this episode:
@@ -168,51 +168,51 @@ There is no "Welcome to Dried Blood" marker. It begins right after the sign-off,
 - Proclaimed himself the Void's rightful ruler "by the rules of our Deathmatches."
 - Stated aims: a unified Void, travel to new planes, challenging and conquering champions of every realm.
 
-**The Shadow King / Agdrel** (Drew)
+**[[Characters/The Shadow King|The Shadow King / Agdrel]]** (Drew)
 - Appeared in the sky over the arena on a descending throne.
 - **Admits killing many parents of chaos-gifted children, fostering the orphans and siphoning their refined chaos energy.**
 - His body was torn away by the Morir maws, leaving a yellow-eyed shadow soul. **He escaped into the chaos storm clouds during Vythorn's hesitation.**
 - Fights with shadow blades from his arms and an ethereal shadow form.
 - Per the post-show, he doesn't know the goblins' names.
 
-**Fil / Philomena** (Bec)
+**[[Characters/Fil|Fil / Philomena]]** (Bec)
 - She and her side have "placed our bets" on Vythorn and brought him home as "a gift."
 - **She froze time** to urge him on. She wrote the contract making him Lord of Fate with full command of the Void.
 - **"We will be watching… or it will all go away. Because we can do that."**
 - She speaks as "we" throughout (the identity of the others is unstated).
 
-**Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Bec)
 - Present at the arena, still chained and wearing **a choker sunk deep into her throat**. She begged Vythorn to release her.
 - Says she defeated the Shadow King first and "somebody brought him back to life," and that Vythorn "was killed."
 - Shows fear for the first time.
 - **Dragged from the arena by goblins in Vythorn's old chains.** Bec says she will stay "only in the dungeon."
 
-**Doug**
+**[[Characters/Doug the Pug|Doug]]**
 - A four-legged, short-snouted dog with breathing problems, disguised in a goblin costume made by goblins.
 - Agdrel never noticed him. Vythorn exposed him and **shackled him to go with Elusia**.
 
-**The goblins (and "chinchillas")**
+**[[Characters/Goblins|The goblins (and "chinchillas")]]**
 - They served the arena and rushed at Vythorn when he drew the dagger, then fell under his mind control.
 
-**The Acolytes**
+**[[Lore/The Acolytes|The Acolytes]]**
 - They saw the overthrow as unfair, "not in the spirit of chaos, not in the spirit of honor." They tried to rush Vythorn and were frozen in place.
 
-**Master Skreca** (mentioned)
+**[[Characters/Master Skreca|Master Skreca]]** (mentioned)
 - Vythorn recalls "what Master Skreca said" about the testaments and teeth gnashing in hellscapes.
 
 ### Places
-- **Giant's Breath**: where Vythorn had been with his companions before this episode.
-- **The old arena / Coliseum**:
+- **[[Places/Giant's Breath|Giant's Breath]]**: where Vythorn had been with his companions before this episode.
+- **[[Places/The old arena|The old arena / Coliseum]]**:
   - Surrounded by woods and brush, with an ornate structure that Vythorn's lightning destroyed.
   - The field is left strewn with debris.
-- **The hellscapes** seen through the Morir maws: ash, fire and death.
-- **The chaos storm clouds**, where the Shadow King escaped.
+- **[[Places/The hellscapes|The hellscapes]]** seen through the Morir maws: ash, fire and death.
+- **[[Places/The chaos storm clouds|The chaos storm clouds]]**, where the Shadow King escaped.
 - "The dungeon," where Elusia will be held (post-show).
 
 ### Items
-- **The Testaments of Morir's Cataclysm**: a floating book whose words burn into the reader's flesh.
-- **Elusia's choker** and chains.
-- **Vythorn's old chains**, now used on Elusia.
+- **[[Items/The Testaments of Morir's Cataclysm|The Testaments of Morir's Cataclysm]]**: a floating book whose words burn into the reader's flesh.
+- **[[Items/Elusia's choker|Elusia's choker]]** and chains.
+- **[[Items/Vythorn's old chains|Vythorn's old chains]]**, now used on Elusia.
 - Vythorn's dagger.
 - Doug's goblin costume.
 

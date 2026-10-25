@@ -145,7 +145,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Atlas** (Dag / DeadAussieGamer). A huge, lumbering automaton with grey metal plating. He is logical and formal when sober and a wrestler-voiced "brother" when radical.
+**[[Characters/Atlas|Atlas]]** (Dag / DeadAussieGamer). A huge, lumbering automaton with grey metal plating. He is logical and formal when sober and a wrestler-voiced "brother" when radical.
 - **Body:**
   - No mouth (a very sore spot) and no nose.
   - Gears and cogs inside; **his heart is a canister of Double Sun Cola**, which flows through his body.
@@ -162,7 +162,7 @@ tags: [episode, season-5]
   - Was made permanently radical by Frigidoom's signature move.
   - Won. He now carries Frigidoom bottled in his chest next to his heart and is collecting the fridge pieces to rebuild him.
 
-**Frigidoom** (Kyle / KidCalrissian). A giant, irradiated **retro 1950s pastel-blue refrigerator** full of a living, gelatinous food mass.
+**[[Characters/Frigidoom|Frigidoom]]** (Kyle / KidCalrissian). A giant, irradiated **retro 1950s pastel-blue refrigerator** full of a living, gelatinous food mass.
 - **Body and habits:**
   - Green jello arms and acidic tendrils.
   - A rainbow mustache, which a "smelly samurai" cut in his last battle; he glued it back with old yogurt.
@@ -174,14 +174,14 @@ tags: [episode, season-5]
   - The slushy turned him pukey green; then neon and sun-like; then he drained to a green ooze, now in a bottle inside Atlas.
 - **Grudge:** wants Atlas to beat "that Kyle… weeaboo samurai" and his princess wife ("Princess Sokka," "uwu princess wife").
 
-**Thea** (Bec). The Lord of Fate's small assistant, with tiny pink feet and three tiny fingers. She flies.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Lord of Fate's small assistant, with tiny pink feet and three tiny fingers. She flies.
 - **Duties:**
   - In charge of the Dread Fortress chinchillas (feeding, walking, unionizing, poop).
   - A to-do chart on the fridge, which she can't fully read.
   - Taking complaints ("basic level Arbiter stuff"), which she doesn't do.
   - Arranging the pre-match meal, which she forgot.
 - **Stars on her forehead:** the Lord of Fate takes them away; she lost two this episode, "not many" left.
-- **The Lord of Fate:** says he "designed" her and didn't design her for remembering, and that she is "not people." She insists "I am people!"; he blames hot dogs. He once put her through a car wash.
+- **[[Characters/The Arbiter|The Lord of Fate:]]** says he "designed" her and didn't design her for remembering, and that she is "not people." She insists "I am people!"; he blames hot dogs. He once put her through a car wash.
 - **In this episode:**
   - Beaten into the ground with his metal chair, then crushed under the Box of Chaos.
   - Thrown through Frigidoom by Atlas.
@@ -189,42 +189,42 @@ tags: [episode, season-5]
   - Radicalized: blonde hair, sunglasses, mustache.
 - Watched "Bessie and the Cowdettes" part one at 20× speed.
 
-**The Lord of Fate** (Drew). Rules the Deathmatch from a **folding metal chair**; has wings. "I'm running an entire realm."
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). Rules the Deathmatch from a **folding metal chair**; has wings. "I'm running an entire realm."
 - **Powers:** can stop time and step through portals. Summons the Box of Chaos through Thea.
 - Keeps a **"private collection"** that includes a blade holding a piece of the Shadow King's soul; he doesn't know how it got into the Box.
 - Sided with Atlas after the big hit. Approves of recycling.
 
-**The shadowy figure in the Box of Chaos** (Drew). Has yellow eyes. It accepted the radical chinchilla, which now sits on its shoulder, and ate Thea's half-eaten hot dog.
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew). Has yellow eyes. It accepted the radical chinchilla, which now sits on its shoulder, and ate Thea's half-eaten hot dog.
 
-**The chinchillas.** Seven of them, kept in the Dread Fortress caverns and released into the Chinchilla Forest for a "sabbatical." They mimic Thea.
+**[[Lore/Chinchillas|The chinchillas.]]** Seven of them, kept in the Dread Fortress caverns and released into the Chinchilla Forest for a "sabbatical." They mimic Thea.
 - A plump grey one with a cigarette.
 - A ginger-striped one.
 - **The radical chinchilla:** "2000" glasses, tattoo sleeves, snap bracelets, 40 limited-edition pogs. Given to the Box.
 - **"Concordae"**, who helped Frigidoom.
 - A group is "a herd" (stated with confidence by Atlas).
 
-**Pooka Pooka the hamster.** Rampages through the Chinchilla Forest in his plastic ball, swearing "to destroy the world that caged him." He rolled off into the distance.
+**[[Characters/Pooka Pooka the hamster|Pooka Pooka the hamster.]]** Rampages through the Chinchilla Forest in his plastic ball, swearing "to destroy the world that caged him." He rolled off into the distance.
 
-**Off-screen characters:**
-- **Killy Yesman**: the Double Sun Cola salesperson Atlas fought before (Dried Blood, out of character).
+**[[Characters/Off-screen characters|Off-screen characters:]]**
+- **[[Characters/Killy Yesman|Killy Yesman]]**: the Double Sun Cola salesperson Atlas fought before (Dried Blood, out of character).
 - **Judy**: someone Thea snatched a hot dog from (unclear).
 - **"A small child named Nathan"**: a joke.
 
 ### Places
-- **The Dread Fortress** (surrounded by lava, cool and damp inside): its dungeons and, lower still, **caverns with a "hallowed hall"** where the chinchillas are kept.
-- **The Chinchilla Forest** ("we return to Chinchilla Forest," per the YouTube blurb): a lush pine forest.
+- **[[Places/The Dread Fortress|The Dread Fortress]]** (surrounded by lava, cool and damp inside): its dungeons and, lower still, **caverns with a "hallowed hall"** where the chinchillas are kept.
+- **[[Places/The Chinchilla Forest|The Chinchilla Forest]]** ("we return to Chinchilla Forest," per the YouTube blurb): a lush pine forest.
   - After this fight it is stained orange.
   - Part of it is decayed into a radioactive wasteland by Frigidoom's sweat, so the chinchillas need a new home.
   - Pooka Pooka knocked down trees, and there are two craters (the blast and Atlas's geyser hole).
 
 ### Items
-- **Double Sun Cola**: "the most refreshing of colas that you can buy on this or any Deathmatch world." Its new spicy variant is "Double Sun [Savice?]."
+- **[[Items/Double Sun Cola|Double Sun Cola]]**: "the most refreshing of colas that you can buy on this or any Deathmatch world." Its new spicy variant is "Double Sun [Savice?]."
 - Kraft-single "cheese product" slices (Thea's gifts), including the cheese shuriken.
-- **The Box of Chaos**: a giant pink box with pink and red flames that trades random items for something of value.
-- **The rad plastic cup**: blue and pink triangles, green squiggles; it summons a blue-slushy waterfall that clears fatigue when it gets inside you.
-- **The blade holding a piece of the Shadow King's soul**: heals per strike but adds fatigue; from the Lord of Fate's private collection; discarded by Thea.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: a giant pink box with pink and red flames that trades random items for something of value.
+- **[[Items/The rad plastic cup|The rad plastic cup]]**: blue and pink triangles, green squiggles; it summons a blue-slushy waterfall that clears fatigue when it gets inside you.
+- **[[Items/The blade holding a piece of the Shadow King's soul|The blade holding a piece of the Shadow King's soul]]**: heals per strike but adds fatigue; from the Lord of Fate's private collection; discarded by Thea.
 - The ballpark nunchucks (hot dogs linked by toxic mozzarella).
-- **The bottle holding Frigidoom**, kept in Atlas's chest.
+- **[[Items/The bottle holding Frigidoom|The bottle holding Frigidoom]]**, kept in Atlas's chest.
 - The Lord of Fate's folding metal chair.
 - The fridge to-do chart.
 

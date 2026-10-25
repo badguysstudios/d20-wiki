@@ -312,7 +312,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Vythorn / the Arbiter** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
 - **Situation:** Dead and in the Sands of Eternity. He was murdered in the Dread Fortress ("I died in the throne room") by the Shadow King, whom he believes is now holding the Grandmaster hostage "or worse." He had been stuck in an illusion in the library where books kept turning to sand.
 - **Last memories:** being in chains serving the Grandmaster, killing the party, then "lunch."
 - **His account of the past:**
@@ -324,67 +324,67 @@ tags: [episode, into-the-mirror]
 - **Size and power:** about 8 ft tall. Weaker here than before. Can still rewind a moment in time (undoing Elianna's tackle) and grant Fortune's Favor and Chronal Shift rerolls. Cannot do large time reversal in the dampened area outside the library. Casts thunder step.
 - **Other actions:** made the tome disappear "into" his keeping. Says he did not know for sure where the mirror would send the party.
 
-**Flynry** (BdTeej)
+**[[Characters/Flynry|Flynry]]** (BdTeej)
 - **History:** Has known the Arbiter longer than the others; the Arbiter says he "didn't kill" him. He blames the Arbiter for killing his friends, betraying all he knew, and "my loss." The Arbiter mentions "the meteor" and a new hairstyle.
 - **Time in the Sands:** has been in the Sands a long and painful time.
 - **Gear:** carries the **sword of truth**, which shows Vythorn his true (full-power) self and can ignite with cerulean, sand-colored flame.
 - **Character:** strong, showy and prickly. Fights hand-to-hand with Flurry of Blows. Swore the party's protection to Cerys in a blood oath. Downed by the orc, healed back up.
 
-**Elianna** (ParallaxStella)
+**[[Characters/Elianna|Elianna]]** (ParallaxStella)
 - **Background:** Close to the Grandmaster and familiar with the Dread Fortress and its history. Contracts are part of her daily routine.
 - **Tools:** carries a notebook and two pens, and a book she used to bash the Arbiter.
 - **Actions:** tackled the Arbiter; carries the Orrery, which she hid in her cleavage. Casts Silence, Sanctuary, thaumaturgy, Counterspell, Mass Cure Wounds and Toll the Dead. Flipped off the Arbiter.
 
-**Toddleheim** ("Toddleheim the Great", Ahnubyss)
+**[[Characters/Toddleheim|Toddleheim]]** ("Toddleheim the Great", Ahnubyss)
 - **Character:** A scholar. Distinguishes knowledge from the desire to rule. Witnessed the blood oath.
 - **Discoveries:** found the books on the Sands, including Moratorios and other cities, and found the sword of truth's entry.
 - **In the fight:** baned, warded, and counterspelled while answering Sky's offer.
 
-**Cerys** (Miss_Magitek; the YouTube cast says Locket)
+**[[Characters/Cerys|Cerys]]** (Miss_Magitek; the YouTube cast says Locket)
 - **Background:** A "traveler of these realms" who helped bring the others here. Has been in the Sands longer than the rest and believed there was no way out. Knows of the king (who has an ailment) and the queen.
-- **The oath:** a paladin who admits, perhaps only to the table, that she is an **oath breaker** paladin. Swore a blood oath of fealty to the party against Vythorn.
+- **[[Characters/The oath|The oath:]]** a paladin who admits, perhaps only to the table, that she is an **oath breaker** paladin. Swore a blood oath of fealty to the party against Vythorn.
 - **In the fight:** knocked unconscious by Steel Wind Strike, healed, then scored a smiting critical on Sky.
 
-**Sky**
+**[[Characters/Sky|Sky]]**
 - **Appearance:** a horned tiefling leader of outlander raiders, with a spinning, glowing glaive.
 - **Magic:** casts Bane, Hellish Rebuke and Counterspell. Resistant to fire.
 - **Claims:** calls himself "a steward of this place, in a way" and says "There's only one way out of there."
 - **Motive:** robs travelers to feed "mouths" and mentions going "back home." Offered Toddleheim surrender.
 - **Status:** barely standing at the end.
 
-**The orc raider:** has a greatsword and rages. Downed Flynry, hit Vythorn, and shrugged off Toll the Dead.
+**[[Characters/The orc raider|The orc raider:]]** has a greatsword and rages. Downed Flynry, hit Vythorn, and shrugged off Toll the Dead.
 
-**The wizard raider:** slender, possibly a dragonborn or "lizard man." Cast Steel Wind Strike on the whole party.
+**[[Characters/The wizard raider|The wizard raider:]]** slender, possibly a dragonborn or "lizard man." Cast Steel Wind Strike on the whole party.
 
-**Elusia, the Grandmaster:** Named to Cerys for the first time. Per Elianna, she welcomes challenge and honorable combat, which is why she kept the Arbiter alive. Vythorn: "you are Elusia's type."
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia, the Grandmaster:]]** Named to Cerys for the first time. Per Elianna, she welcomes challenge and honorable combat, which is why she kept the Arbiter alive. Vythorn: "you are Elusia's type."
 
-**The Shadow King:** the Grandmaster's uncle and a mage who siphoned the Void's life force. Killed by Elusia, his soul held in the Box of Chaos. He influenced the Arbiter and rebuilt a body from sacrifices to the Box. Now "a god."
+**[[Characters/The Shadow King|The Shadow King:]]** the Grandmaster's uncle and a mage who siphoned the Void's life force. Killed by Elusia, his soul held in the Box of Chaos. He influenced the Arbiter and rebuilt a body from sacrifices to the Box. Now "a god."
 
-**The queen and the king of the Sands:** The king has an ailment. The queen sent the party to the library and wants the Orrery so her mages can open a doorway. The players find her "shady" (table talk).
+**[[Characters/The queen and the king of the Sands|The queen and the king of the Sands:]]** The king has an ailment. The queen sent the party to the library and wants the Orrery so her mages can open a doorway. The players find her "shady" (table talk).
 
-**Orin:** someone the Arbiter is said to have "obliterated." Not otherwise explained.
+**[[Characters/Orin|Orin:]]** someone the Arbiter is said to have "obliterated." Not otherwise explained.
 
 ### Places
-- **The library (Sands of Eternity):** a large building with one large door. Holds mundane books and books of other planes, the Sands themselves, and a tome of special items.
-- **The Sands of Eternity:**
+- **[[Places/The library (Sands of Eternity)|The library (Sands of Eternity):]]** a large building with one large door. Holds mundane books and books of other planes, the Sands themselves, and a tome of special items.
+- **[[Places/The Sands of Eternity|The Sands of Eternity:]]**
   - Once adjacent to the Living Plane, with doors and trade.
   - Cut off about 2000 years ago; reachable only through mirrors since.
   - Has multiple cities and cultures, with outlanders roaming.
   - The area outside the library dampens some magic.
-- **Moratorios / Mortorios:** a city of the Sands and the party's base. Likely the "walled city" Sky mentions (inferred from 1:15:15 and 1:11:15).
-- **The Dread Fortress and its throne room:** where the Arbiter was murdered.
-- **The Living Plane / land of the living**.
-- **The dragon's lair:** earlier, where the Orrery and sword first reacted.
+- **[[Places/Moratorios|Moratorios / Mortorios:]]** a city of the Sands and the party's base. Likely the "walled city" Sky mentions (inferred from 1:15:15 and 1:11:15).
+- **[[Places/The Dread Fortress and its throne room|The Dread Fortress and its throne room:]]** where the Arbiter was murdered.
+- **[[Places/The Living Plane|The Living Plane / land of the living]]**.
+- **[[Places/The dragon's lair|The dragon's lair:]]** earlier, where the Orrery and sword first reacted.
 
 ### Items
-- **The Orrery of Dreams:**
+- **[[Items/The Orrery of Dreams|The Orrery of Dreams:]]**
   - Crafted in the Sands; "immense power capable of shaping reality." Believed by the queen to open a doorway between planes.
   - Its inside-ring script names it a **key, part of a larger machine**.
   - It did not react to the sword this time, and saying the city's name near it did nothing.
-- **The sword of truth:** Flynry's sword, sand-made, "the ability to look beyond the physical." Ignites in cerulean flame.
-- **The tome of special items:** shows the Orrery, a bronze-like figurine and a red-gemmed ornate amulet, all sharing script and able to interact. Vythorn took it and made it vanish.
-- **Elianna's notebook:** holds the blood oath, a bloody X, and Toddleheim's witness signature.
-- **The Box of Chaos:** as described by Vythorn.
+- **[[Items/The sword of truth|The sword of truth:]]** Flynry's sword, sand-made, "the ability to look beyond the physical." Ignites in cerulean flame.
+- **[[Items/The tome of special items|The tome of special items:]]** shows the Orrery, a bronze-like figurine and a red-gemmed ornate amulet, all sharing script and able to interact. Vythorn took it and made it vanish.
+- **[[Items/Elianna's notebook|Elianna's notebook:]]** holds the blood oath, a bloody X, and Toddleheim's witness signature.
+- **[[Lore/The Box of Chaos|The Box of Chaos:]]** as described by Vythorn.
 
 ### Lore statements
 - The Arbiter created the Box of Chaos to keep the Shadow King's knowledge, and was influenced by it.

@@ -275,7 +275,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Andy Gammage, "Gazpacho Man"** (Jay Foster). Also answers to Andrew and Andy.
+**[[Characters/Andy Gammage|Andy Gammage, "Gazpacho Man"]]** (Jay Foster). Also answers to Andrew and Andy.
 - **Who he is:**
   - **Intercontinental Cold Soups Champion.**
   - Has been **dead for 20 years**, killed by **Mean Gene, his best friend, who literally stabbed him in the back over the gazpacho pot**. He fights to **win back his full mortality**, take on Mean Gene for the world title and become **the Gazpacho King**.
@@ -296,7 +296,7 @@ tags: [episode, season-7]
   - The Arbiter likes him ("You can stay").
   - Won.
 
-**DeeDrah** (MrsBettierage). Goes by one name, "Just like Cher." Called "Kurumi" by Jay.
+**[[Characters/DeeDrah|DeeDrah]]** (MrsBettierage). Goes by one name, "Just like Cher." Called "Kurumi" by Jay.
 - **Fighting style and powers:**
   - Short sword and sickle. Pact of the Blade warlock: Eldritch Blast, hex, shadow armor, Hellish Rebuke.
   - Slasher feat. Resistant to radiant damage. **Celestial Revelation wings.**
@@ -307,55 +307,55 @@ tags: [episode, season-7]
   - Killed by a ladle through the eye after losing rock-paper-scissors.
   - A loner. The GM bet on her.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Now "**upper management**." Delegated finding champions to Thea, and gives Thea her performance reviews.
 - Claims "We're partners now" and "**I kind of saved your life**." He hasn't taught Thea to write.
 - Traveled to the arena by flaring his white glowing wings in ripples of time and space.
 - Bet on Andy.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Opens the "season of Vigilance": danger approaches the Void.
 - **"There's the Grandmaster and then the Arbiter."**
 - "**Eons of ages old**," never had gazpacho; may have her first cup if Andy wins.
 - Hosts "The Price is Kinda Right" (in the break; not logged). Has vast, colorful wings.
 - Poured an unending bowl of gazpacho over DeeDrah's body.
 
-**Thea** (Bec). A tiny pink imp.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A tiny pink imp.
 - Was supposed to find the champions; was off on "a craft… project." Can't write.
 - Heckled Andy from among the insulting children.
 - Gave a spoken report of counting stairs and finding the bathroom through U-I-O-I doors.
 - Made her own unapproved "Thea Teaches" commercial; refused to explain it, hopping up the steps farting.
 
-**Gerald / the Box of Chaos** (Drew).
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]** (Drew).
 - A yellow and purple box. Its lid beams heatless magical fire hundreds of feet up, and a shadowy figure with black tendrilly fingers comes out.
 - **His fingers taste like black licorice** (Dried Blood).
 - Kept the championship belt. **Used the chinchilla to finish his chinchilla boots.**
 - Asked "Where's HR?" Gave away the Dragon Slayer as "junk."
 
-**The chinchilla.**
+**[[Characters/The chinchilla|The chinchilla.]]**
 - A tiny, icy "Chin Killer" chinchilla. It bonded to DeeDrah, rode her blade biting on each hit ("Chinchilla Crew"), and volunteered into the Box of Chaos.
 - **Chinchillas in the Void are immune to magic and throwable; they are unionized** (Dried Blood).
 
-**Stuart / Stewart.** The arena's IT, who "gets everything wrong."
+**[[Characters/Stuart|Stuart / Stewart.]]** The arena's IT, who "gets everything wrong."
 
-**Mean Gene.** Andy's former best friend and killer; world-title holder (inferred from "take on Mean Gene for that world title").
+**[[Characters/Mean Gene|Mean Gene.]]** Andy's former best friend and killer; world-title holder (inferred from "take on Mean Gene for that world title").
 
-**Miss Elizabeth.** Andy's beloved, waiting for him.
+**[[Characters/Miss Elizabeth|Miss Elizabeth.]]** Andy's beloved, waiting for him.
 
 **Named Acolytes / people:** Grandma Naomi, Linda, Edna, Anna Vortaria; "Great to Be a Gator" (threw Andy a slushie); the insulting children.
 
 ### Places
-- **The Dread Fortress.** Its empty halls; stairs and a bathroom per Thea.
+- **[[Places/The Dread Fortress|The Dread Fortress.]]** Its empty halls; stairs and a bathroom per Thea.
 - **"The castle"**: a dreary dread castle rampart under a giant full moon, blood-soaked, with bodies and weapons strewn about. Chosen so Thea couldn't reach it.
-- **The western bar** conjured by the chaos event: sticky floor, mechanical bulls.
+- **[[Places/The western bar|The western bar]]** conjured by the chaos event: sticky floor, mechanical bulls.
 - Andy's soup "danger room."
 - "Clubs around LA" (real-world joke).
 
 ### Items
-- **Andy's Intercontinental (Cold Soups) Championship belt**, now in the Box of Chaos.
-- **Sleeveless denim jean jacket** (+3 AC; ethereal leather-and-chain structure). The Acolytes copied the look.
-- **Dragon Slayer** ("bear slayer"), now DeeDrah's pact scimitar.
-- **Gerald's chinchilla boots** (finished).
+- **[[Items/Andy's Intercontinental (Cold Soups) Championship belt|Andy's Intercontinental (Cold Soups) Championship belt]]**, now in the Box of Chaos.
+- **[[Items/Sleeveless denim jean jacket|Sleeveless denim jean jacket]]** (+3 AC; ethereal leather-and-chain structure). The Acolytes copied the look.
+- **[[Items/Dragon Slayer|Dragon Slayer]]** ("bear slayer"), now DeeDrah's pact scimitar.
+- **[[Items/Gerald's chinchilla boots|Gerald's chinchilla boots]]** (finished).
 - Andy's steel chair (dented seat), barbed-wire 2×4, maul, ladle.
 - PBR and cigarette (chaos event).
 - Blue slushies (adrenaline) and Double Sun Cola.

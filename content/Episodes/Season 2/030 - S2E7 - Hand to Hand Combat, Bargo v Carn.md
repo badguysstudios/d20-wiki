@@ -271,7 +271,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Bargo (Blakely)** (Chunkerrific). The full name "Bargo Blakely" is used only in the Arbiter's introduction.
+**[[Characters/Bargo|Bargo (Blakely)]]** (Chunkerrific). The full name "Bargo Blakely" is used only in the Arbiter's introduction.
 - **Speech and schooling:**
   - Speaks in the third person with a "loose grasp of grammar."
   - **Went to "fighting school, not grammar school"** and graduated with an **"Apple Plus,"** the best grade on the fighting school's fruit scale (cucumber worst, orange, pineapple, apple best).
@@ -283,7 +283,7 @@ tags: [episode, season-2]
   - Ate nothing, but was tempted by the floral smell of the slowing mushroom.
   - Won the Acolytes' vote, decapitated Carn, and was told he has "graduated from this arena."
 
-**Carn / Carnelian** (CucumberLives).
+**[[Characters/Carnelian|Carn / Carnelian]]** (CucumberLives).
 - **A carnelian gem dragonborn warlock** with crystalline scales.
   - He sweats glitter, cries glitter, and seems to bleed glitter.
   - He can grow wings and has a radiant breath weapon.
@@ -293,47 +293,47 @@ tags: [episode, season-2]
 - **His steed:** a capybara.
 - **Fate:** rejected by the Acolytes, then decapitated by Bargo. **The Arbiter secretly sewed his head back on ("I might have use for you")**, and he left a glitter rainbow as he flew away.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Let "the traitors" who planned to overthrow the Dread Fortress escape "the other day,"** and is under the Grandmaster's orders to fix it.
 - Triggered his own event, a thunderclap that collapsed the cavern.
 - **Secretly took Carn's body and head out of the arena and stitched them together** with a magical needle and thread.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Watched a ball game on a goblin-tuned television and kicked the TV over.
 - Angry at the Arbiter over the traitors: "I thought I brought you in because you're competent."
 - Sits next to **Doug the Pug** at the arena.
 - Gave Carn a graveyard damage boost.
 - Presented Bargo with the legacy speech.
 
-**The minotaur**. A regular-sized minotaur with a greataxe, summoned by chaos event. He hit himself with his own thrown axe and was taunted into charging off a cliff.
+**[[Characters/The minotaur|The minotaur]]**. A regular-sized minotaur with a greataxe, summoned by chaos event. He hit himself with his own thrown axe and was taunted into charging off a cliff.
 
-**The minitaurs**. Twelve (eleven counted) tiny baby minotaurs, "a certain unique breed that have evolved within these dark caverns," armed with mini axes.
+**[[Characters/The minitaurs|The minitaurs]]**. Twelve (eleven counted) tiny baby minotaurs, "a certain unique breed that have evolved within these dark caverns," armed with mini axes.
 - Four were gusted off the ledge. The rest fell in a hand-holding chain after Grease.
 - **One became Bargo's admirer and companion** before falling with the others.
 
-**The polymorph steeds**. Magical horses that read their rider's thoughts and polymorph to match. Carn's became a capybara (still loose at the end), Bargo's a bear.
+**[[Characters/The polymorph steeds|The polymorph steeds]]**. Magical horses that read their rider's thoughts and polymorph to match. Carn's became a capybara (still loose at the end), Bargo's a bear.
 
-**The dead of the cavern ruins**. Bodies that are "not alive" but moving, reaching from the ground and the water to claim the living. The GM says this is the result of digesting bodies interacting with the crystals.
+**[[Characters/The dead of the cavern ruins|The dead of the cavern ruins]]**. Bodies that are "not alive" but moving, reaching from the ground and the water to claim the living. The GM says this is the result of digesting bodies interacting with the crystals.
 
-**Doug the Pug**. The Grandmaster's seatmate.
+**[[Characters/Doug the Pug|Doug the Pug]]**. The Grandmaster's seatmate.
 
 ### Places
-- **Elusia's throne, "deep in the halls of the Dread Fortress"**, where the television sits.
-- **The long-forgotten underground civilization ("Al-Anon" [?])**:
+- **[[Places/Elusia's throne, deep in the halls of the Dread Fortress|Elusia's throne, "deep in the halls of the Dread Fortress"]]**, where the television sits.
+- **[[Places/The long-forgotten underground civilization (Al-Anon )|The long-forgotten underground civilization ("Al-Anon" [?])]]**:
   - Crystal and gem miners whose entrance collapsed, suffocating them.
   - Blue and yellow crystals, tenuous stone bridges over a foggy, near-bottomless chasm.
   - A circular Acolyte stadium visible through the ceiling.
   - The Grandmaster calls it a favorite of hers, according to the Arbiter.
-- **The ruins at the cavern bottom**: a graveyard with moving dead and water full of squirming bodies.
-- **A cliff high above the cavern** where the Arbiter sewed Carn back together.
+- **[[Places/The ruins at the cavern bottom|The ruins at the cavern bottom]]**: a graveyard with moving dead and water full of squirming bodies.
+- **[[Places/A cliff high above the cavern|A cliff high above the cavern]]** where the Arbiter sewed Carn back together.
 
 ### Items
-- **The Box of Chaos**: takes Carn's horn and gives **+3 chain mail** in heatless pink and yellow flames.
-- **The glowing mushrooms**:
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: takes Carn's horn and gives **+3 chain mail** in heatless pink and yellow flames.
+- **[[Items/The glowing mushrooms|The glowing mushrooms]]**:
   - A **golden mushroom** gives temporary vitality; the veins glow yellow.
   - **Another mushroom slows for one turn** if eaten or touched to skin. It has a floral scent, and Carn coated his hand axe with it.
-- **The Grandmaster's television** (kicked over).
-- **The Arbiter's magical needle and thread.**
+- **[[Items/The Grandmaster's television|The Grandmaster's television]]** (kicked over).
+- **[[Items/The Arbiter's magical needle and thread|The Arbiter's magical needle and thread.]]**
 - Bargo's ball bearings and cape.
 
 ### Lore statements

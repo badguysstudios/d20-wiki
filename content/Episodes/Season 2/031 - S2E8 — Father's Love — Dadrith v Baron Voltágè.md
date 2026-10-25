@@ -259,7 +259,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Dadrith** (DreadedGM). A cleric, "dad of dads," who travels the multiverse spreading "the ideals of fatherhood" and collecting dad jokes "passed down from dad to dad."
+**[[Characters/Dadrith|Dadrith]]** (DreadedGM). A cleric, "dad of dads," who travels the multiverse spreading "the ideals of fatherhood" and collecting dad jokes "passed down from dad to dad."
 - **Mission:** fathers who don't live up to fatherhood "face my wrath."
 - **Faith:** prays to "**Moxie and the Eternal Fathers**" (deity names as heard). He has magic resistance and Divine Strike (fire).
 - **Spells and powers:**
@@ -275,13 +275,13 @@ tags: [episode, season-2]
   - He was given the Arbiter's black Chuck Taylors, then said he'd wear the boots "instead."
 - **In this episode:** he tried to give his own life to save Baron, and wept into the sea. He won. Calls the crowd "You can all call me Dad!"
 
-**Dadrith's son, the celestial** (summoned).
+**[[Characters/Dadrith's son|Dadrith's son, the celestial]]** (summoned).
 - **Appearance:** solar-colored, Fabio hair, floral Hawaiian shirt.
 - **Weapon:** a mace topped with a fuzzy "holy coconut."
 - **Lines:** calls Dadrith "Papa."
 - **Fate:** landed a crit; torn apart by the sharks when the gravity pulled it into the water.
 
-**Baron Voltágè** (TalesofPesh). Insists on the pronunciation ("said the exact way it's spelt"). The family name is "Barovian."
+**[[Characters/Baron Voltágè|Baron Voltágè]]** (TalesofPesh). Insists on the pronunciation ("said the exact way it's spelt"). The family name is "Barovian."
 - **Titles and build:**
   - "The elitist of electricity, the supplier of shock."
   - **A halfling** (uses the halfling Lucky trait; "manlet shoulders").
@@ -295,42 +295,42 @@ tags: [episode, season-2]
 - **Dried Blood epilogue:** the Arbiter took Baron's soul from the Box to his laboratory and put it in a metal automaton/golem for his army.
 - **The GM's favor:** she bet on him and granted him Bless.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - **Candy:** hoards half-price post-Valentine's candy behind her throne.
 - **Family:** "**I laid my father to rest like 800 years ago.**" She jokes about her therapist.
-- **Doug:** defends him as "the cutest thing."
+- **[[Characters/Doug the Pug|Doug:]]** defends him as "the cutest thing."
 - **Champion pay:** wants to see champions actually paid out of the set-aside treasure.
 - **Vacation:** wants a beach holiday.
 - **Remembrance:** gave the speech on remembering every champion's name.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Duties:** does the auditing and cold-calls champions.
 - **Appearance:** wears **black-and-white referee robes and black Chuck Taylors**.
-- **Doug:** feuds with him ("A monstrous dog").
+- **[[Characters/Doug the Pug|Doug:]]** feuds with him ("A monstrous dog").
 - **Powers:** **increased the arena's gravity** and sank the turtle.
 - **Names:** bad with them ("Bartholomew?"). He was ordered to lay a memento for Baron.
 - **Dried Blood:** keeps a laboratory and is building an army.
 
-**Doug**. The GM's **undead dog**; "he can eat chocolate… what is it gonna do, kill him again." He hides behind the throne with the candy wrappers. **The GM's chaos die is "what Doug will roll."** He doesn't like the Arbiter. The GM throws him a bone.
+**[[Characters/Doug the Pug|Doug]]**. The GM's **undead dog**; "he can eat chocolate… what is it gonna do, kill him again." He hides behind the throne with the candy wrappers. **The GM's chaos die is "what Doug will roll."** He doesn't like the Arbiter. The GM throws him a bone.
 
-**Thomas**. Named by the GM ("Did Thomas tell you?"); unidentified.
+**[[Characters/Thomas|Thomas]]**. Named by the GM ("Did Thomas tell you?"); unidentified.
 
-**The goblins**. Possibly suspected of telling the Arbiter about the candy (speaker uncertain).
+**[[Characters/Goblins|The goblins]]**. Possibly suspected of telling the Arbiter about the candy (speaker uncertain).
 
-**The eternal turtle**. A giant turtle that swims "through the endless sea" with an island on its back. It "grants you passage for now" but can't bear two champions for long. It sank under the Arbiter's gravity.
+**[[Characters/The eternal turtle|The eternal turtle]]**. A giant turtle that swims "through the endless sea" with an island on its back. It "grants you passage for now" but can't bear two champions for long. It sank under the Arbiter's gravity.
 
-**The sharks**. They circle the fighters and "know the smell of blood." They hold their line but eat anything that crosses it. They shredded the celestial, and one became Baron's clone vessel.
+**[[Characters/The sharks|The sharks]]**. They circle the fighters and "know the smell of blood." They hold their line but eat anything that crosses it. They shredded the celestial, and one became Baron's clone vessel.
 
 ### Places
-- **Elusia's throne room**, with a **hallway filled with doors** leading to arenas.
-- **The endless sea** and **the island on the eternal turtle's back**: brush and foliage, scalding sand, bones underfoot, the shell for cover, hidden treasure, crabs. Baron's memento/headstone was laid on its beach ("the island of the Grandmaster," Dried Blood).
-- **The open ocean around the turtle**: deep, murky water full of sharks.
-- **Barovia**: Baron's family origin.
-- **The Arbiter's laboratory** (Dried Blood).
+- **[[Places/Elusia's throne room|Elusia's throne room]]**, with a **hallway filled with doors** leading to arenas.
+- **[[Places/The endless sea|The endless sea]]** and **the island on the eternal turtle's back**: brush and foliage, scalding sand, bones underfoot, the shell for cover, hidden treasure, crabs. Baron's memento/headstone was laid on its beach ("the island of the Grandmaster," Dried Blood).
+- **[[Places/The open ocean around the turtle|The open ocean around the turtle]]**: deep, murky water full of sharks.
+- **[[Places/Barovia|Barovia]]**: Baron's family origin.
+- **[[Places/The Arbiter's laboratory|The Arbiter's laboratory]]** (Dried Blood).
 
 ### Items
-- **The Box of Chaos**: pink, with yellow and pink flames. It gives items for sacrifices, and its fire burned Baron's soul out. It was buried/dissipated after use; in Dried Blood the Arbiter retrieves it.
-- **Ring of Three Wishes** (all three charges used). A belt of cloud giant strength was offered and refused.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: pink, with yellow and pink flames. It gives items for sacrifices, and its fire burned Baron's soul out. It was buried/dissipated after use; in Dried Blood the Arbiter retrieves it.
+- **[[Items/Ring of Three Wishes|Ring of Three Wishes]]** (all three charges used). A belt of cloud giant strength was offered and refused.
 - Winged boots.
 - The Arbiter's black Chuck Taylors.
 - The GM's Valentine's candy; the Acolytes' umbrella coconut drinks.

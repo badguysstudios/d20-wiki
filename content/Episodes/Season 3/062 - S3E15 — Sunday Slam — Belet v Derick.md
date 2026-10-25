@@ -135,7 +135,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Belet** (isfridayTV / Friday). Belet "Bladesimmer"/"Blesamar" (surname uncertain) **of Waterdeep**.
+**[[Characters/Belet|Belet]]** (isfridayTV / Friday). Belet "Bladesimmer"/"Blesamar" (surname uncertain) **of Waterdeep**.
 - A noble, **seventh in a long line**. Her family gives her nothing, so she adventures for treasure and **mostly kills evil dragons** (but some dragons are nice).
 - A fighter: Battle Master maneuvers (pushing, lunging, feinting and trip attacks), Mage Slayer, action surge, second wind, Indomitable. Longsword and two family javelins with a Waterdeep inscription.
 - **Squire Shala ("Charlie")**, rescued from the destroyed town of Greenest.
@@ -146,7 +146,7 @@ tags: [episode, season-3]
 - **In this episode:** won Doug's inspiration, flipped a wagon onto Derick, got a potion of storm giant strength from Gerald, swept her own leg during the chaos event, was shot by the blunderbuss, killed Derick.
 - Still has the splinter.
 
-**Derick** (Nat1Fun / Dan). Derick "Taladin" (surname uncertain).
+**[[Characters/Derick|Derick]]** (Nat1Fun / Dan). Derick "Taladin" (surname uncertain).
 - **An old hippo** (Astral Spark comes from his hippo nature) with a **trunk glued on as a fake nose**, which he ripped off.
 - Travels the rifts and black holes of space on **his Spelljammer ship**.
 - A cleric / war priest who also has Lay on Hands (Dan mentions smite). Lance and shield.
@@ -155,41 +155,41 @@ tags: [episode, season-3]
 - **Wore his brother Larry's armor**; Larry "was much better at this… He was a fighter."
 - **In this episode:** got Gerald's +3 blunderbuss, and was given +2 AC by the Arbiter out of pity. Killed by Belet; to be remembered with hippo cookies.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Believes in procedure: business is done only on business days, 9 to 5, with agendas. Plans to **abolish daylight savings time on the plane on Monday**.
 - Threw mud at Derick. Promises medical insurance, a retirement fund, a gym membership and PTO.
 - Proposed hippo steaks, then retracted it for hippo cookies.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Clanks chains while wandering the fortress on Sunday nights. Makes champions sign release forms.
 - Knows the feeling of everyone trying to kill him.
 - Took pity on Derick (+2 AC). Rolled a nat 1 and "cast modify memory" on the crowd.
 
-**Gerald** (Drew). Lives in the Box of Chaos; yellow eyes and shadowy fingers.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). Lives in the Box of Chaos; yellow eyes and shadowy fingers.
 - Wanted to see Les Mis and took Belet's coupons.
 - Got high on Derick's pipe weed and his eyes went red. Fired the blunderbuss by accident.
 - Drifted off on the smoke "to Les Mis"; expected back with a souvenir cup, T-shirt and flag.
 
-**Doug the pug.** The Grandmaster's pug, "a little beaten and worn." He grants blessings and inspiration, rolls a plush D20 at round ends, and chews a bone. He cried when his plush D20 fell into the mud.
+**[[Characters/Doug the Pug|Doug the pug.]]** The Grandmaster's pug, "a little beaten and worn." He grants blessings and inspiration, rolls a plush D20 at round ends, and chews a bone. He cried when his plush D20 fell into the mud.
 
-**Shala ("Charlie")**. Belet's big-nosed squire from Greenest. He wears a Belet face T-shirt and went shirtless in celebration.
+**[[Characters/Shala|Shala ("Charlie")]]**. Belet's big-nosed squire from Greenest. He wears a Belet face T-shirt and went shirtless in celebration.
 
-**The Big Nose Club.** A support group and movement in the stands. Covered their noses in horror at Derick's trunk.
+**[[Characters/The Big Nose Club|The Big Nose Club.]]** A support group and movement in the stands. Covered their noses in horror at Derick's trunk.
 
-**Larry.** Derick's brother, a better fighter, whose armor Derick wore.
+**[[Characters/Larry|Larry.]]** Derick's brother, a better fighter, whose armor Derick wore.
 
-**The goblins** carrying the Grandmaster's charcuterie board. **The Acolytes.**
+**[[Characters/Goblins|The goblins]]** carrying the Grandmaster's charcuterie board. **The Acolytes.**
 
 ### Places
-- **The Dread Fortress**: stone hallways and the Grandmaster's throne room (mentioned).
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: stone hallways and the Grandmaster's throne room (mentioned).
 - **"A battle long lost"**: an ancient gray, damp battlefield inside a crushed ring of wagons/chariots, littered with old weapons, bones and bodies. The soil has hungered for blood for hundreds of years.
-- **Waterdeep**, Belet's home (shows and musicals). **Greenest**, a destroyed town where Shala was found.
+- **[[Places/Waterdeep|Waterdeep]]**, Belet's home (shows and musicals). **Greenest**, a destroyed town where Shala was found.
 - Derick's "black holes" and space rifts; a high-oxygen planet.
 - A gym "around the corner."
 
 ### Items
-- **Potion of storm giant strength** (Belet, from Gerald).
-- **+3 blunderbuss** with explosive shots (Derick, from Gerald).
+- **[[Items/Potion of storm giant strength|Potion of storm giant strength]]** (Belet, from Gerald).
+- **[[Items/+3 blunderbuss|+3 blunderbuss]]** with explosive shots (Derick, from Gerald).
 - Derick's teacup spiritual weapon (platinum filigree). Derick's lance, shield, pipe, glued-on trunk and Larry's armor.
 - Belet's family javelins, hag's eye treats, three VIP musical coupons (traded) and an AARP pamphlet.
 - The flipped wagon. Three dried apples. Doug's plush D20. The charcuterie board.

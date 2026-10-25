@@ -163,7 +163,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Akumu** (versachiko). Champion and winner.
+**[[Characters/Akumu|Akumu]]** (versachiko). Champion and winner.
 - **Who she is:**
   - A half-elf, about Jinx's height.
   - Paladin with Vow of Enmity, smites and Lay on Hands; also a warlock with Eldritch Blast. Fights with a greatsword ("Drunken Sword style").
@@ -179,7 +179,7 @@ tags: [episode, season-7]
 - **Gained the legendary +3 battleaxe Thaneater** from the Box of Chaos.
 - Insists on "Akumu, mu like cow," not Akuma.
 
-**Jinx** (smokingglueguns). A 5'1"–5'2" human Echo Knight fighter and e-streamer.
+**[[Characters/Jinx|Jinx]]** (smokingglueguns). A 5'1"–5'2" human Echo Knight fighter and e-streamer.
 - **Look:** unicorn onesie, LED cat-ear gamer headphones, blue pigtails. After her revival, her hair is Pantone 238 "Baskin Robbins" off-magenta, not quite pink.
 - **Gaming:** plays Underview at "plat one," two wins from diamond. Wants to play DC Competitors. Watches her own channel to boost numbers and refuses to viewbot. Talks to an invisible chat and won't drink on stream (TOS).
 - **In the fight:** two scimitars, with fire-giant strikes, Unleash Incarnation, Second Wind, Action Surge, Indomitable and Shadow Martyr. **She steers her echo with a controller.**
@@ -188,53 +188,53 @@ tags: [episode, season-7]
 - Sacrificed 396 channel points for a fire-resistance potion.
 - Killed by Eldritch Blast. Worms pulled her body underground.
 
-**Chinchilla the White** (Bec). Formerly **Chinchilla the Gray**, the chinkilla Akumu kicked into the sun (which one isn't certain). It returns **shining platinum, staff in hand, about 15 ft tall**, revives Jinx, and is grateful to Akumu for its journey. The GM banishes it to the Dread Fortress "at least temporarily."
+**[[Characters/Chinchilla the White|Chinchilla the White]]** (Bec). Formerly **Chinchilla the Gray**, the chinkilla Akumu kicked into the sun (which one isn't certain). It returns **shining platinum, staff in hand, about 15 ft tall**, revives Jinx, and is grateful to Akumu for its journey. The GM banishes it to the Dread Fortress "at least temporarily."
 
-**Wicked**: the chinchilla Jinx kept warm. It bit her mid-combo, then helped finish her revival by changing her hair. Named in Dried Blood.
+**[[Characters/Wicked|Wicked]]**: the chinchilla Jinx kept warm. It bit her mid-combo, then helped finish her revival by changing her hair. Named in Dried Blood.
 
-**The chinchillas / chinkillas**:
+**[[Lore/Chinchillas|The chinchillas / chinkillas]]**:
 - Workers in the Dread Fortress with **a union**. They bring drinks, pull Doug's wagon, and complained that blood takes forever to get out of their fur.
 - Under the new union rules they no longer clean up biohazard.
 - **A hard-hat chinchilla mourned a sun-kicked chinchilla who "had six children."** A horde of them flipped Akumu tiny middle fingers.
 
-**Stuart**: works the stream's screens from a hot little closet in the Dread Fortress basement. The Arbiter blames him for weird music and visuals. He has PTO.
+**[[Characters/Stuart|Stuart]]**: works the stream's screens from a hot little closet in the Dread Fortress basement. The Arbiter blames him for weird music and visuals. He has PTO.
 
-**Thea** (Bec): **the pink imp**, now in charge of champions, who wrote the champion profiles.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec): **the pink imp**, now in charge of champions, who wrote the champion profiles.
 - Tasted the vodka first.
 - Tripped while bringing Akumu's weapons, then threw her a bottle from a safe distance.
 - Gave Cheese Prof's head to Doug.
 - Played darts with the GM.
 
-**Doug the Pug**: has one good eye and one **metallic cyborg eye with a red infrared scanner**. He approves of champions and claps on two feet ("It's a bone day today"). The Arbiter "doesn't even like Doug." He ate Cheese Prof's head.
+**[[Characters/Doug the Pug|Doug the Pug]]**: has one good eye and one **metallic cyborg eye with a red infrared scanner**. He approves of champions and claps on two feet ("It's a bone day today"). The Arbiter "doesn't even like Doug." He ate Cheese Prof's head.
 
-**Cheese Prof**: an Acolyte or staff member whose head is a cheese wheel; currently headless.
+**[[Characters/Cheese Prof|Cheese Prof]]**: an Acolyte or staff member whose head is a cheese wheel; currently headless.
 
-**The Box of Chaos figure** (Drew): a shadowy figure with long tendrilly claws and yellow eyes. Drank grandma Bailey ("silky smooth").
+**[[Characters/The Box of Chaos figure|The Box of Chaos figure]]** (Drew): a shadowy figure with long tendrilly claws and yellow eyes. Drank grandma Bailey ("silky smooth").
 
-**The Arbiter** (Drew):
+**[[Characters/The Arbiter|The Arbiter]]** (Drew):
 - **Motto "When you can, you should," tattooed across his nipples, of which he has three** ("Across all three of them." "Yep").
 - Was doing acid in the Grand Canyon during the break. Revisits Vietnam at any point in time except the present; has spent "a lot of time in 1950s Vietnam."
 - Says he once "was in charge" and levied taxes while the GM was absent. Had land, plans for it, and a marketing person.
 - Resents the GM's praise of Thea: "I should have left you in Cor'thun."
 
-**Grandmaster Elusia Skypiercer** (Bec):
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec):
 - **Wears an eyepatch** after scratching her eye playing darts with Thea; a memo told everyone not to mention it.
 - Bought the goblins a foam pit. Wants premium insurance for staff. Promises a marketing person "next year."
 - Says she has saved the Arbiter's life more than once.
 - Bans revives after Chinchilla the White.
 
 ### Places
-- **Dread Fortress basement / dungeon**: Stuart's screen closet.
-- **The GM's throne room**: no fighting there, so the chinchillas' fur stays clean.
-- **The orange asteroid**: in space, with a big planet and a distant sun. Rubble, old champions' bones, and worms that drag the dead underground. Inferred to be the Ether Drifts (Drew's Dried Blood remark).
-- **The sun**: two chinchillas were kicked into it, and Akumu claims a "colony." Chinchilla the White came from there.
+- **[[Places/The Dread Fortress basement|Dread Fortress basement / dungeon]]**: Stuart's screen closet.
+- **[[Places/The GM's throne room|The GM's throne room]]**: no fighting there, so the chinchillas' fur stays clean.
+- **[[Places/The orange asteroid|The orange asteroid]]**: in space, with a big planet and a distant sun. Rubble, old champions' bones, and worms that drag the dead underground. Inferred to be the Ether Drifts (Drew's Dried Blood remark).
+- **[[Places/The sun|The sun]]**: two chinchillas were kicked into it, and Akumu claims a "colony." Chinchilla the White came from there.
 - "**Tinkula / Chinkilla Forest**" (unclear, mentioned by the GM).
 
 ### Items
-- **Thaneater**: a legendary +3 battleaxe (on a 20: extra necrotic damage and the wielder heals).
-- **Potion of fire resistance**, drunk by Jinx.
-- **Grandma Bailey** (a bottle of Bailey's), sacrificed.
-- **396 channel points**, sacrificed.
+- **[[Items/Thaneater|Thaneater]]**: a legendary +3 battleaxe (on a 20: extra necrotic damage and the wielder heals).
+- **[[Items/Potion of fire resistance|Potion of fire resistance]]**, drunk by Jinx.
+- **[[Items/Grandma Bailey|Grandma Bailey]]** (a bottle of Bailey's), sacrificed.
+- **[[Items/396 channel points|396 channel points]]**, sacrificed.
 - Akumu's bottled "fireball." The Arbiter's 12-oz goblet of vodka. Boba teas. Jinx's controller (broken in two by the killing blow, not repaired). The chinkilla hamster ball.
 
 ### Lore statements

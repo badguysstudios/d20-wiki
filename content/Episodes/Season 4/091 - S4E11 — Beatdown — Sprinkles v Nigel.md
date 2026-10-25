@@ -142,7 +142,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Sprinkles** (RRollplaying). A **halfling** dressed like a waiter: rolled shirt, vest, slacks, dress shoes.
+**[[Characters/Sprinkles|Sprinkles]]** (RRollplaying). A **halfling** dressed like a waiter: rolled shirt, vest, slacks, dress shoes.
 - **Personality and lore:**
   - A **pacifist** and gardener. Wins employee of the month for being good-natured.
   - Hands out friendship bracelets in many colors.
@@ -153,7 +153,7 @@ tags: [episode, season-4]
 - **Gear:** a trowel (summoned by the Shadow King), a grappling hook signed by Nigel, a silver pistol on his sheet, and the **cursed cloak of Nigel's face** from the Box of Chaos.
 - **In this episode:** his body is left behind when Melchizedek moves into Nigel. He gardens a flower field with Nigel the Goblin, then is drowned in slime.
 
-**Melchizedek, the Dark One** (RRollplaying). Sprinkles' dark passenger.
+**[[Characters/Melchizedek|Melchizedek, the Dark One]]** (RRollplaying). Sprinkles' dark passenger.
 - **Rage form:** demonic flame eyes, cracking and elongating bones, a dropped jaw, and knife-claws.
 - **True form:** a nine-headed dragon-snake. Called "she" at 1:51:28 and 2:04:11; calls himself "a Lord of Darkness."
 - **"An angel who was scorned from heaven for my transgressions against my god,"** now "a being of pure hatred and pain."
@@ -163,7 +163,7 @@ tags: [episode, season-4]
 - Last thought: "hurt people hurt people."
 - (Inferred: the "friend" who made the bet is Melchizedek, based on 0:39:50 "she's my friend… She made a bet with me" and 0:25:36 "she said that I would not be able to win this without exceeding amounts of violence.")
 
-**Nigel Night Louis** (theplaymatt). A **changeling** actor who sculpted his own chin.
+**[[Characters/Nigel Night Louis|Nigel Night Louis]]** (theplaymatt). A **changeling** actor who sculpted his own chin.
 - **Appearance:** long white-gray slicked hair, a salt-and-pepper beard, a Tommy Wiseau coat over a Renaissance shirt, sunglasses, and a perpetually hung-over look.
 - **Awards:**
   - BAFTA, Cable Ace, a Teen Choice Award (for "Sponge," the CW's gritty SpongeBob, which came with a sliming), a Tony (best actor in a play), and a SAG award.
@@ -182,9 +182,9 @@ tags: [episode, season-4]
   - Jumped into the box and died. His corpse was worn by the box's shadow spirit, then fought over from inside.
   - His inner child, a Newsie, killed Melchizedek.
 
-**Nigel the Goblin** and **Sarah the goblin**. Dread Fortress goblins. Nigel the Goblin fetched the asparagus and the award, rode in Nigel's baby Bjorn the whole fight, and gardened with Sprinkles at the end.
+**[[Characters/Nigel the Goblin|Nigel the Goblin]]** and **Sarah the goblin**. Dread Fortress goblins. Nigel the Goblin fetched the asparagus and the award, rode in Nigel's baby Bjorn the whole fight, and gardened with Sprinkles at the end.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - Watches a black-and-white TV and believes the moon landing was faked. "I know a thing about illusions."
 - Has traveled only to the Shadowlands and Prexmarin.
 - Keeps a blood cannon under his throne.
@@ -194,26 +194,26 @@ tags: [episode, season-4]
 - Took 42 purse damage from the grandmothers and flung them into the sky.
 - Grew Nigel's body and sliced it open. Ended the match with a slime rain.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Brings the champions to the Shadow King.
 - Shocked by the sister-in-law revelation; delivered the trash-can/Doug rant.
 - Commanded goblins to remove the grandmas. Toasted the champions.
 
-**Majestic Wolf**. An Acolyte killed as the Box of Chaos's fuel (broken neck). Their soul now has yellow eyes and runs the deals.
+**[[Characters/Majestic Wolf|Majestic Wolf]]**. An Acolyte killed as the Box of Chaos's fuel (broken neck). Their soul now has yellow eyes and runs the deals.
 
-**The grandma zombies**: Gertrude, Hannah, Anna ("Meemaw Anna"), "Arbitrary," and others. Some may still be floating in the sky.
+**[[Characters/The grandma zombies|The grandma zombies]]**: Gertrude, Hannah, Anna ("Meemaw Anna"), "Arbitrary," and others. Some may still be floating in the sky.
 
-**The shadow spirit in the box**. Wore Nigel's face, then his whole body. Took the form of a shadow Robert De Niro carrying Danny DeVito's toe knife.
+**[[Characters/The shadow spirit in the box|The shadow spirit in the box]]**. Wore Nigel's face, then his whole body. Took the form of a shadow Robert De Niro carrying Danny DeVito's toe knife.
 
-**Doug**. The dog. "Doug has not been replaced"; there are many dogs in the fortress.
+**[[Characters/Doug the Pug|Doug]]**. The dog. "Doug has not been replaced"; there are many dogs in the fortress.
 
-**The cat**. A pet cat that wandered into the Box of Chaos and is wearing Nigel's face.
+**[[Characters/The cat|The cat]]**. A pet cat that wandered into the Box of Chaos and is wearing Nigel's face.
 
 ### Places
-- **The Dread Fortress**: the Shadow King's throne room, the long hallway, the champions' prep room, the kitchen, and pillars.
-- **The dead forest arena**: cold, damp, glowing ground, green fireflies, bare trees and roots. The Acolytes watch from the fog above. A flower field now grows there from Sprinkles' gardening.
-- **Inside Nigel's body**: the second arena, later enlarged to gargantuan size and split open.
-- **The Shadowlands** and **Prexmarin**, mentioned.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: the Shadow King's throne room, the long hallway, the champions' prep room, the kitchen, and pillars.
+- **[[Places/The dead forest arena|The dead forest arena]]**: cold, damp, glowing ground, green fireflies, bare trees and roots. The Acolytes watch from the fog above. A flower field now grows there from Sprinkles' gardening.
+- **[[Places/Inside Nigel's body|Inside Nigel's body]]**: the second arena, later enlarged to gargantuan size and split open.
+- **[[Places/The Shadowlands|The Shadowlands]]** and **Prexmarin**, mentioned.
 - "A waterfall" in the GM's rant (unspecified).
 
 ### Items
@@ -222,7 +222,7 @@ tags: [episode, season-4]
 - Friendship bracelets.
 - Nigel's awards, the "Sponge" surfboard and the baby Bjorn.
 - The Ioun Stone of Fortitude.
-- **The cloak of Nigel's face**: a cursed, reskinned hellhound cloak that lets the wearer polymorph into Nigel. Its curse is "for some other day."
+- **[[Items/The cloak of Nigel's face|The cloak of Nigel's face]]**: a cursed, reskinned hellhound cloak that lets the wearer polymorph into Nigel. Its curse is "for some other day."
 - Danny DeVito's toe knife.
 - The bone "Oscar."
 - The Grandmaster's amulet (opens portals with her blood).

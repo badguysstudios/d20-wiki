@@ -350,7 +350,7 @@ Almost all of it is out-of-character, so it's logged as creator notes. Possible 
 
 ## Who and what appears
 ### Characters
-**Big Business** (Nate). A towering **Warforged paladin**, 6'7"–7'9", wreathed in steam. He was killed and then fused into Bog Boy.
+**[[Characters/Big Business|Big Business]]** (Nate). A towering **Warforged paladin**, 6'7"–7'9", wreathed in steam. He was killed and then fused into Bog Boy.
 - **Body:**
   - Shovel/scoop hands that combine into a bulldozer (a "Transformer").
   - A core that glows bright green and goes "cha-ching."
@@ -368,7 +368,7 @@ Almost all of it is out-of-character, so it's logged as creator notes. Possible 
   - His last thoughts were of "all them poor little dollars he got at home."
 - **After death:** Griselda integrated his scraps into Bog Boy, and his consciousness lives on inside him.
 
-**Bog Boy, the Freak of the Creek** (Peter). A gnarled old snapping-turtle **Tortle, a Way of the Elements monk**.
+**[[Characters/Bog Boy|Bog Boy, the Freak of the Creek]]** (Peter). A gnarled old snapping-turtle **Tortle, a Way of the Elements monk**.
 - **Appearance:** spiked, spray-painted shell full of refuse and fishing net; apron made from a Rammstein band shirt; moss and bugs.
 - **Lore:**
   - Calls himself "Chico del Panto" in Spanish.
@@ -381,17 +381,17 @@ Almost all of it is out-of-character, so it's logged as creator notes. Possible 
   - Proposed to Clementine with a nut from Big Business.
   - Was fused with Big Business's remains by Griselda, becoming taller and stronger with a second consciousness. "Now half robot, half turtle" (Dried Blood).
 
-**Clementine.** A catfish ("just a catfish. Bottom feeder") in a rusty tin bucket/pail.
+**[[Characters/Clementine|Clementine.]]** A catfish ("just a catfish. Bottom feeder") in a rusty tin bucket/pail.
 - Bog Boy's beloved, and Big Business's former "fish wife." She doesn't speak, except to Bog Boy.
 - **Revealed as Griselda's daughter.**
 - She sat beside the Grandmaster and Doug, flirted with Doug, and Doug drank her pail water.
 - She fell and was caught by Bog Boy, was caught again by Scribbs, and was held out by the GM for the proposal.
 
-**Griselda, the swamp witch (bog witch)** (Bec). A foul, long-haired, swampy hag who arrives with other hags around her.
+**[[Characters/Griselda|Griselda, the swamp witch (bog witch)]]** (Bec). A foul, long-haired, swampy hag who arrives with other hags around her.
 - Clementine's mother. Bog Boy promised to help her turn people into frog people.
 - She animated Big Business's scrap and fused it into Bog Boy, then rose into the sky.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Italian leather boots. Monologues when he kills.
 - Has "delegated" champion-finding to Thea "as management."
 - Says he once saved Doug's life. **Keeps an Italian leather ledger of everyone he has saved and the favors they owe.** Wants a timeshare or vacation property.
@@ -399,37 +399,37 @@ Almost all of it is out-of-character, so it's logged as creator notes. Possible 
 - **Wrote the Grandmaster's name in a book with "kill" scratched on its cover.**
 - Bets on the fight. Calls Doug ugly.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Learning Spanish to "go international."
 - Didn't know Claude worked there.
 - **Admits chaotic events can help champions and that she doesn't advertise it.**
 - Rescues and holds Clementine. Wants to make a movie starring Ewan McGregor. Bans an Acolyte over "olive oil trees."
 
-**Thea.** Not present on screen (outside the break). The Arbiter has made finding champions her job, and **she made a video "last time" that talks poorly about Claude.** The GM calls her "a potato of a brain."
+**[[Characters/Thea (Plintos)|Thea.]]** Not present on screen (outside the break). The Arbiter has made finding champions her job, and **she made a video "last time" that talks poorly about Claude.** The GM calls her "a potato of a brain."
 
-**Claude.** The Dread Fortress janitor. Thea may think he's a wizard. He hasn't taken "the magic test" (a follow-up item).
+**[[Characters/Claude|Claude.]]** The Dread Fortress janitor. Thea may think he's a wizard. He hasn't taken "the magic test" (a follow-up item).
 
-**Doug the Pug.** Rides in a wagon on a purple pillow, wearing a tiny crown.
+**[[Characters/Doug the Pug|Doug the Pug.]]** Rides in a wagon on a purple pillow, wearing a tiny crown.
 - "Doesn't have bones today" / "has no bones… has been neutered."
 - A "charmer" with Clementine. The Arbiter says he once saved Doug's life.
 
-**Stuart.** Told by the GM to "refresh" during the 720p gag.
+**[[Characters/Stuart|Stuart.]]** Told by the GM to "refresh" during the 720p gag.
 
-**Mandroid.** Big Business's old associate, who could connect machines.
+**[[Characters/Mandroid|Mandroid.]]** Big Business's old associate, who could connect machines.
 
 **Acolytes named:** B-Town and Cookie Monster Steve (both blessed); Scribbs/Scribd (screamed "I don't want to be a frog," caught Clementine); Great to be Gator (gifted subs); "the IT dude"; Raiders (welcomed in).
 
-**The chinchillas.** Trained in the chinchilla room's simulator. Unionized.
+**[[Lore/Chinchillas|The chinchillas.]]** Trained in the chinchilla room's simulator. Unionized.
 
 ### Places
-- **Dread Fortress:**
+- **[[Places/The Dread Fortress|Dread Fortress:]]**
   - halls, the chinchilla room, the koi pond room, the brewery, an intercom;
   - the throne room;
   - a lobby where champions wait;
   - cows "right outside the fortress."
-- **The snowy mountaintop arena**: a graveyard of old warriors' bones, armor and swords, with snow-covered rock outcrops.
-- **The floating grandstands** in the clouds.
-- **Bog Boy's swamp**, which Big Business oiled and wants for a mall.
+- **[[Places/The snowy mountaintop arena|The snowy mountaintop arena]]**: a graveyard of old warriors' bones, armor and swords, with snow-covered rock outcrops.
+- **[[Places/The floating grandstands|The floating grandstands]]** in the clouds.
+- **[[Places/Bog Boy's swamp|Bog Boy's swamp]]**, which Big Business oiled and wants for a mall.
 
 ### Items
 - The Arbiter's ledger and his "kill" book.

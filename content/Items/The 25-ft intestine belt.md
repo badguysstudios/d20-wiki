@@ -1,0 +1,11 @@
+---
+title: "The 25-ft intestine belt"
+tags: [item]
+---
+
+First appears in [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]]. Appears in 1 episode.
+
+## Appearances
+
+### [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]]
+, TD's karate belt and later its pizza topping.

@@ -1,0 +1,11 @@
+---
+title: "Shadow-cloaked figures"
+tags: [character]
+---
+
+First appears in [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]]. Appears in 1 episode.
+
+## Appearances
+
+### [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]]
+on a dune, one perhaps chasing another. One of them shot Locket.

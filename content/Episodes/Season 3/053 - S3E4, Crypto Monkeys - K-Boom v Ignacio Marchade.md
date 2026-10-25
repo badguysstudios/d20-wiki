@@ -127,7 +127,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**K-Boom** (BrandontheDM). **Gnome artificer, aka Kyle Boomishnow, aka Kaboom; his real middle name is "Michael" ("K-Michael-Boom").**
+**[[Characters/K-Boom|K-Boom]]** (BrandontheDM). **Gnome artificer, aka Kyle Boomishnow, aka Kaboom; his real middle name is "Michael" ("K-Michael-Boom").**
 - About 3'2" ("doctors say 3'1.5"). Long robe of trinkets, vials and gears over plate armor. Smokes constantly. **Loses his eyebrows to his own fireball** and keeps his mustache.
 - **Loves explosives, cigarettes, cryptocurrency and arson.** He founded **K-Boom Coin**, claimed to be worth 50,000 gold each, and is launching **"NF trinkets"**, with an Ignacio NFT. A self-described sleazy salesman and shill.
 - His father died in a house fire K-Boom accidentally caused, and he lost his family young to an arson accident. His father's sayings: "when in doubt… return to monkey."
@@ -139,49 +139,49 @@ tags: [episode, season-3]
 - Has War Caster. Keeps calling the Grandmaster "Master Chief."
 - The Box of Chaos locked itself against him.
 
-**Ignacio Marchade** (Karim Cheese). Raging barbarian.
+**[[Characters/Ignacio Marchade|Ignacio Marchade]]** (Karim Cheese). Raging barbarian.
 - Deep voice, deep-set hood, cloth mask, **glowing red eyes that make Acolytes swoon**. Wears contact lenses; one was stolen by a fangirl.
 - Fights with javelins, a lance and a crossbow. Does Pilates. His dad called him "Pain."
 - Mort's owner; sacrificed Mort to the Box and got the **Wheel of Stars**.
 - At death he declared his love for K-Boom and renamed him "K-Boom Marchand." Died "but my soul lives on" (Dried Blood).
 
-**Mort**. **A monkey with wings that Ignacio gave him** (taken by K-Boom to be a Wizard of Oz monkey; Ignacio denies it). Found in the Appalachian Mountains.
+**[[Characters/Mort|Mort]]**. **A monkey with wings that Ignacio gave him** (taken by K-Boom to be a Wizard of Oz monkey; Ignacio denies it). Found in the Appalachian Mountains.
 - Sacrificed to the Box of Chaos. He then hangs out with Doug on the Grandmaster's pedestal and **rolls the plush D20 for the Arbiter's end-of-round rolls**.
 - Promised his own bedroom. Wept at the double death, was held up Simba-style, and flew off throwing confetti.
 
-**Doug**. The Grandmaster's tiny round pug, who appears when his name is said.
+**[[Characters/Doug the Pug|Doug]]**. The Grandmaster's tiny round pug, who appears when his name is said.
 - Befriends Mort and shares a toy with him. Rolls a 17 on his own. "Doug rolls when he wants to roll."
 - The Arbiter threatens him ("One day, Doug").
 
-**Gerald / the Box of Chaos** (Drew). Pink and purple, with shadowy fingers and yellow eyes.
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]** (Drew). Pink and purple, with shadowy fingers and yellow eyes.
 - Took Mort ("I kinda wanted that thing").
 - Has "200,000 in my savings account." Offered to buy four K-Boom coins, then **deadbolted the box from inside** after K-Boom's nat 1.
 
-**The water weird**. Rises from the lake's deep pit as the Arbiter's special chaos event. Speed 60 in water. **Dragged both champions' bodies into the pit.**
+**[[Characters/The water weird|The water weird]]**. Rises from the lake's deep pit as the Arbiter's special chaos event. Speed 60 in water. **Dragged both champions' bodies into the pit.**
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Currently imprisoned. His hands are shackled, and he wears Italian leather boots awarded for good behavior in his prison cell.**
 - Now does the grocery shopping. Running anger-management mantras ("I am centered… I am the best me"; "My self-worth is not tied to dice rolls").
 - Has memorized Independence Day ("he also has it memorized," Dried Blood).
 - Recovered the bodies from the lake.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Runs goblin band tryouts. Gave both champions a d4 inspiration. "I am the law!"
 - Claims "Dogecoin with Doug's face on it" rules here (Doug coin). Stomped the NFT trinkets.
 - Had hiccups after the break.
 
-**Goblin band**: five goblins, three on cowbell and a guitarist. **Kyle** (guitarist, his own guitar) and **Sarah** (cowbell solo, "a star"; her day job is at the Dread Fortress).
+**[[Characters/Goblin band|Goblin band]]**: five goblins, three on cowbell and a guitarist. **Kyle** (guitarist, his own guitar) and **Sarah** (cowbell solo, "a star"; her day job is at the Dread Fortress).
 
-**The round card guy**: can only count to seven (an unseen arena helper, as stated).
+**[[Characters/The round card guy|The round card guy]]**: can only count to seven (an unseen arena helper, as stated).
 
 ### Places
-- **The Dread Fortress**: cracked hallways still need renovating, the **kitchen is finally done**, there's a small black room with a stage, and a basement holds free cowbells.
-- **The frozen lake arena**: a dilapidated ~20 ft cabin, a holed rowboat, a dock, snowy rocks with a 10 ft ledge, sheer mountain faces at the edges. **The lake is unfrozen despite the cold, and its water heals wounds**, with a deep dark pit that's home to the water weird. An ethereal coliseum of Acolytes floats above.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: cracked hallways still need renovating, the **kitchen is finally done**, there's a small black room with a stage, and a basement holds free cowbells.
+- **[[Places/The frozen lake arena|The frozen lake arena]]**: a dilapidated ~20 ft cabin, a holed rowboat, a dock, snowy rocks with a 10 ft ledge, sheer mountain faces at the edges. **The lake is unfrozen despite the cold, and its water heals wounds**, with a deep dark pit that's home to the water weird. An ethereal coliseum of Acolytes floats above.
 - The Appalachian Mountains (Mort's origin).
 
 ### Items
-- **Wheel of Stars** (Ignacio, from the Box).
-- **K-Boom Coin**, the **Ignacio NFT / NF trinket** card (stamped on by the GM), the K-Boom Coin website.
+- **[[Items/Wheel of Stars|Wheel of Stars]]** (Ignacio, from the Box).
+- **[[Items/K-Boom Coin|K-Boom Coin]]**, the **Ignacio NFT / NF trinket** card (stamped on by the GM), the K-Boom Coin website.
 - The GM's plush D20, the cowbells.
 - Thrown arena debris: 48 pennies, the fish, the hundred-candle cake, the anchor and so on. The gold coins that rained on Ignacio's triple 2s.
 

@@ -216,7 +216,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**The Scourge** (BDaveWalters)
+**[[Characters/The Scourge|The Scourge]]** (BDaveWalters)
 - **A Scourge aasimar**, "blessed since he was a little aasimar with the presence of the divine."
 - His "sainted mother" watches over him; the golden-sand hourglass reminds him of her.
 - Goes sleeveless and claims the no-sleeves look as his gimmick.
@@ -229,7 +229,7 @@ tags: [episode, season-4]
 - Won. He received the Box of Chaos chronometer, then had a bone rammed down his throat by the Shadow King.
 - Vows Bone Daddy statues in every graveyard.
 
-**Bone Daddy** (Johnny Stanton)
+**[[Characters/Bone Daddy|Bone Daddy]]** (Johnny Stanton)
 - A necromancer: 6'7", dark hair, sleeveless, pale skin, "luscious locks." Carries a whip.
 - Raises skeleton "children" and calls the arena his nursery. Denies being an absentee father.
 - Children: Dabby, Dibby, Doobie, Gabi/Gibby, Dobby, Dino, and **Darcy**, his favorite.
@@ -237,30 +237,30 @@ tags: [episode, season-4]
 - Claims to have slept with the Scourge's mother. Says he has cobbled before (speaker uncertain).
 - Died: Darcy carried him off the Hexadome platform into the void below.
 
-**Darcy**
+**[[Characters/Darcy|Darcy]]**
 - A skeleton with a few blonde hairs, one green eye and a lipless smile.
 - She elbow-dropped through her siblings to form a giant skeleton, which became Bone Daddy's bone mech.
 - She stabbed out her own only good eye on a nat 1, wept a single tear from her "void eye," and carried Bone Daddy to his death.
 
-**Hammer and Anvil**: the Scourge's conjured Quetzalcoatlus, jet black with white accents.
+**[[Characters/Hammer and Anvil|Hammer and Anvil]]**: the Scourge's conjured Quetzalcoatlus, jet black with white accents.
 
-**The Shadow King** (Drew)
+**[[Characters/The Shadow King|The Shadow King]]** (Drew)
 - Leads painting sessions for goblins using paint made from chinchilla blood. Was barefoot, and was given pink spa socks.
 - Forgot the Sunday Deathmatch. Refuses to promise not to kill winners.
 - Has **giant spectral shadow wings**. Hit Bone Daddy with a metal chair and beheaded Acolytes Commander Scribd and Edo.
 - Fuelled the Box of Chaos by wringing the soul out of the Acolyte great to be a Gator.
 - Says he has experienced complicated love himself. Calls the Grandmaster "Elusia."
 
-**Grandmaster Elusia Skypiercer** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
 - Opens portals with the sharp amulet using her own blood. Has a throne cushion "where a dog once slept."
 - Dove on the Scourge with a chair.
 - Ran the shrink event and sent Thomas the Goblin to fix the heater. Likes to be called benevolent.
 
-**Goblins of the Dread Fortress**
-- **Kevin** (painted only red), **Theodore** (painted a detailed watercolor skeleton) and **Thomas the Goblin** (has a hammer, sent to fix the heater).
+**[[Characters/The goblins of the Dread Fortress|Goblins of the Dread Fortress]]**
+- **[[Characters/Kevin|Kevin]]** (painted only red), **Theodore** (painted a detailed watercolor skeleton) and **Thomas the Goblin** (has a hammer, sent to fix the heater).
 - Goblin employees get health insurance, pet insurance and a mental-health chinchilla.
 
-**Chinchillas**
+**[[Lore/Chinchillas|Chinchillas]]**
 - Donate blood for paint and have their own union.
 - Inferred: they come with tiny armor and rapiers and take fencing classes.
 
@@ -269,19 +269,19 @@ tags: [episode, season-4]
 - Cup of Tiefling: suggested as a target.
 - great to be a Gator: sacrificed to the Box of Chaos.
 
-**The shadowy box figure**: a dark creature with yellow eyes and long pointy fingers that crawls out of the Box of Chaos and hands over items.
+**[[Characters/The shadowy box figure|The shadowy box figure]]**: a dark creature with yellow eyes and long pointy fingers that crawls out of the Box of Chaos and hands over items.
 
 ### Places
-- **Throne room of the Dread Fortress**: the site of the painting session.
-- **The arm-fight dungeon**: dark and cavernous, with arms and bodies from previous Deathmatches, a waterfall, an ale drink station, and the Grandmaster's throne among the floating stands.
-- **The Hexadome**: planks floating over water under an electrified ethereal dome, with "the void below."
+- **[[Places/Throne room of the Dread Fortress|Throne room of the Dread Fortress]]**: the site of the painting session.
+- **[[Places/The arm-fight dungeon|The arm-fight dungeon]]**: dark and cavernous, with arms and bodies from previous Deathmatches, a waterfall, an ale drink station, and the Grandmaster's throne among the floating stands.
+- **[[Places/The Hexadome|The Hexadome]]**: planks floating over water under an electrified ethereal dome, with "the void below."
 
 ### Items
-- **The sharp amulet**: opens portals with the Grandmaster's blood.
-- **Box of Chaos**: a chest that falls like a comet, burns with heatless pink and yellow flames, and needs a soul to fuel it. It takes any sacrifice, including PayPal.
-- **The chronometer**: a hourglass of golden sand with one charge to slow time or warn from the future. The Scourge used it.
-- **Amulet of health**: a bleached skull pendant that bleeds red. Bone Daddy's.
-- **Metal chairs**.
+- **[[Items/The sharp amulet|The sharp amulet]]**: opens portals with the Grandmaster's blood.
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: a chest that falls like a comet, burns with heatless pink and yellow flames, and needs a soul to fuel it. It takes any sacrifice, including PayPal.
+- **[[Items/The chronometer|The chronometer]]**: a hourglass of golden sand with one charge to slow time or warn from the future. The Scourge used it.
+- **[[Items/Amulet of Health|Amulet of health]]**: a bleached skull pendant that bleeds red. Bone Daddy's.
+- **[[Items/Metal chairs|Metal chairs]]**.
 - The pink-with-green-polka-dot spa socks.
 - The blood watercolors.
 

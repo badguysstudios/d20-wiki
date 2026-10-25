@@ -113,7 +113,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Richard S. Skelman** ("Skelly," "Skelvin" to Thea).
+**[[Characters/Richard S. Skelman|Richard S. Skelman]]** ("Skelly," "Skelvin" to Thea).
 - **Background:**
   - An old, dead skeleton who has "existed as a skeleton for a millennia" and has been "this way for thousands of years," trying to ascend.
   - **His grandfather** is buried at the mausoleum; Team B killed him "again" last time.
@@ -123,7 +123,7 @@ tags: [episode, season-6]
 - **Francis:**
   - A gelatinous-cube "jelly slime friend" that holds his bones together. He gets a new one "about every week."
   - Francis waves with pseudopods and saved Skelman's life in Round 5.
-- **The bone zone / danger dungeon:**
+- **[[Places/The bone zone|The bone zone / danger dungeon:]]**
   - A space he can expand into. He "owns" it and subcontracts its work: the statue and his trap-setting "lackeys."
 - **Personality:**
   - Holds firm opinions on ethics (prom with a minor, possession and charm spells as "inherently evil").
@@ -132,7 +132,7 @@ tags: [episode, season-6]
   - Got the Shield of the Golden King, smelted into golden dice; they shattered on his first defense.
   - **Won and became leader of Team B, renamed "Team D" (for dicks)**, though he now regrets not choosing "Dick Dynasty."
 
-**Richard Knottley** (special move "the Dick Twist"; the Arbiter calls him "Dick Twist").
+**[[Characters/Richard Knottley|Richard Knottley]]** (special move "the Dick Twist"; the Arbiter calls him "Dick Twist").
 - **Character:**
   - A conspiracy-minded man who "breaks boundaries and uncovers secret truths": "Chinchillas run the government," "taxation is theft."
   - Says he dodges process servers. Has a glued-on fake mustache and a "hormone problem" (his complaint about the shirt).
@@ -145,7 +145,7 @@ tags: [episode, season-6]
   - Was vacuumed up, thrown into the ether, merged into the statue, and called down a Peloton storm.
 - **Faded/"ascended" into the universe on his fifth fatigue.** Per the GM he returns "in his fleshy state next time around."
 
-**Thea**. A tiny pink imp the Arbiter "created on a whim," and "a pink and little wormy like kind of thing" per Knottley.
+**[[Characters/Thea (Plintos)|Thea]]**. A tiny pink imp the Arbiter "created on a whim," and "a pink and little wormy like kind of thing" per Knottley.
 - Believes she is people because the Acolytes said so (there's a hashtag).
 - Runs the round signs and keeps them in a shed. Has cute magic that "goes poof" and found she can shock.
 - Keeps the chinchillas.
@@ -153,29 +153,29 @@ tags: [episode, season-6]
 - Broke the round-three card over her knee. The signs got burned. The Arbiter wants to send her to a therapist.
 - Team D's name cites her: "find Thea, clearly the most chaotic object in the universe."
 
-**The Arbiter**.
+**[[Characters/The Arbiter|The Arbiter]]**.
 - White wings. Shuts doors with finger bolts. Uses a trash can as the filing system.
 - Voices the statue. Smelted the Golden King's shield into dice. Kept the Luigi vacuum "because this place is a mess."
 - Plans to talk to the GM about "Dick Dynasty."
 
-**Grandmaster Elusia Skypiercer**.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]**.
 - Gave the team t-shirts. Insists Knottley's mustache is fake.
 - Seated the Chinchilla Parliament in the front row. Bessie and the Cowdettes is "my top movie of 2024."
 - Named Skelman leader. Doesn't want to be anyone's spiritual guide: "I just run the Dread Fortress and look over the void."
 
-**The chinchillas / the Chinchilla Parliament / "Chinchilla Corps."**
+**[[Lore/Chinchillas|The chinchillas / the Chinchilla Parliament / "Chinchilla Corps."]]**
 - Escaped the Fortress cage.
 - Twelve wore fake mustaches and got front-row seats.
 - Insulted the champions through translators worn around their necks (a chaos event).
 
-**The Box of Chaos's occupant**. A shadowy figure with shadowy hands inside the box. He keeps a lot of toilet paper and wants rent (teeth). Unnamed this episode.
+**[[Characters/The Box of Chaos's occupant|The Box of Chaos's occupant]]**. A shadowy figure with shadowy hands inside the box. He keeps a lot of toilet paper and wants rent (teeth). Unnamed this episode.
 
-**The statue**. A statue of Knottley's likeness ("like looking in a mirror"), met "last week."
+**[[Characters/The statue|The statue]]**. A statue of Knottley's likeness ("like looking in a mirror"), met "last week."
 - Has angel-like wings and a glued-on mustache. Works for Skelman in the bone zone but takes breaks off the clock.
 - "I want you inside of me." Merged with Knottley's ghost.
 
 **Others**
-- **The pug**: offered its d20 toy to the end-of-round roll (inferred to be Doug).
+- **[[Characters/The pug|The pug]]**: offered its d20 toy to the end-of-round roll (inferred to be Doug).
 - **Luigi**: an Acolyte backstage with a great mustache and a brother, Mario. Gave Skelman the vacuum.
 - **Acolytes named**: Robey, Epic, Rickroll, Cookiemon, Steve, Gator, Scribbr, and "Cookie Monster Steve," who received Knottley's arm and got karate-chopped by it.
 - **"The third dick"**: Team B's third member, unnamed this episode.
@@ -183,9 +183,9 @@ tags: [episode, season-6]
 - **Bessie and the Cowdettes**: an in-world 2024 movie (bovine astronauts vs alien space turkeys) whose promotion became the yee-haw chaos event.
 
 ### Places
-- **The Dread Fortress**, deep below: heavy doors, the chinchilla cage, and Thea's sign shed.
-- **The mausoleum graveyard** (the Midnight Mausoleum per the blurb): graves, tombstones that light up, a well, moonlight.
-- **The bone zone / danger dungeon**: Skelman's dungeon, with the trap hallway.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, deep below: heavy doors, the chinchilla cage, and Thea's sign shed.
+- **[[Places/The mausoleum graveyard|The mausoleum graveyard]]** (the Midnight Mausoleum per the blurb): graves, tombstones that light up, a well, moonlight.
+- **[[Places/The bone zone|The bone zone / danger dungeon]]**: Skelman's dungeon, with the trap hallway.
 - Peloton's factory (Knottley broke in).
 
 ### Items
@@ -194,7 +194,7 @@ tags: [episode, season-6]
 - The Peloton arc bike reactor ("experimental beta test Peloton core").
 - The ethereal black screaming vial (swaps bloodlust/instinct).
 - The Luigi's Mansion vacuum.
-- **The Shield of the Golden King** → golden dice (shattered).
+- **[[Items/Shield of the Golden King|The Shield of the Golden King]]** → golden dice (shattered).
 - The magic blue pill (the Arbiter's; withdrawn).
 - The disco ball, the mechanical bull and PBRs, the chinchilla translators, and Thea's chewing gum.
 

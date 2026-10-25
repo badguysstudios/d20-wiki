@@ -186,7 +186,7 @@ tags: [episode, vythorn-s-return]
 
 ## Who and what appears
 ### Characters
-**Vythorn (the Arbiter)** (Drew)
+**[[Characters/The Arbiter|Vythorn (the Arbiter)]]** (Drew)
 - Introduces himself as "right hand to the Grandmaster of the Void, or Arbiter."
 - **Barefoot after losing his Italian leather boots in the swamp.**
 - Abilities shown:
@@ -201,7 +201,7 @@ tags: [episode, vythorn-s-return]
 - Vows to unravel the Shadow King and then control fate across the Void. **Fil backs him and grants the Testaments of Morir's Cataclysm.**
 - Called a "demon" by himself. Race: "doesn't really have a race" (table talk).
 
-**Fil, the God of Fate** (Bec; "Phil" in the transcript)
+**[[Characters/Fil|Fil, the God of Fate]]** (Bec; "Phil" in the transcript)
 - Brown chestnut hair. Her "home" is the silent forest.
 - Shapes Ise and Biff from dirt.
 - Runs tests: those who fail "hang out with me for the rest of eternity," as dirt or in "sleep of the ages."
@@ -209,7 +209,7 @@ tags: [episode, vythorn-s-return]
 - Writes to Master Skreca, sends him gifts and visitors.
 - Bound Ise as her crow "pet"; granted Biff eternal sleep. She hates the phrase "fate's decided this."
 
-**Ise** (BDaveWalters)
+**[[Characters/Ise|Ise]]** (BDaveWalters)
 - **A changeling.** True form: very small, ashen white, dark circles around the eyes, long white hair.
 - Forms taken this episode: a pale, gaunt drow (default); a grung; Vythorn's squire or brother; tabaxi (a Kuro double, Kuro, Kuro's mother); the gnoll leader; a svirfneblin; Biff's grung kin; Vythorn's father and mother.
 - Abilities: master thief, shadow blade, green-flame blade, smites, sneak attack, bladesong, fireball, message, healing (a cat-tongue lick, a cure on the mother's foot), lay on hands, divine sense, invisible mage hand.
@@ -218,7 +218,7 @@ tags: [episode, vythorn-s-return]
 - Doesn't like candy. "My primary export is violence."
 - **Bound himself to Fil as her instrument; she turned him into a crow.**
 
-**Biff** (doctorbees / Jess)
+**[[Characters/Biff|Biff]]** (doctorbees / Jess)
 - A **grung**: a poisonous tree frog. Short, loud flat "pancake" feet, about four months old.
 - **An Echo Knight with a glaive.** His shadow becomes his Echo.
 - Carries a huge backpack of junk, including "something that looks like it should be dead" and stale bread.
@@ -228,44 +228,44 @@ tags: [episode, vythorn-s-return]
 - Protected Kuro and reunited him with his mother.
 - **Refused to be Fil's pet and chose to return to the dirt** ("free grung"). Loves lemon drops.
 
-**Kuro** (Bec)
+**[[Characters/Kuro|Kuro]]** (Bec)
 - A thin, frail tabaxi child with blonde fluffy hair.
 - Was travelling to "the academy" with his mother; his carriage was full of beginner magic books.
 - Stabbed Vythorn in the neck from hiding. Loves eating.
 - Has no shapeshifting magic, "not capable of that yet" (per his mother).
 
-**Kuro's mother** (Bec)
+**[[Characters/Kuro's mother|Kuro's mother]]** (Bec)
 - A tabaxi, about 5'5"–5'8".
 - **A guide who knows the woods' magical shortcuts.** Her hand glows yellow, red, then green to light a path.
 - Commanded the carriage horses to stay.
 - Captured by gnolls; her foot was mangled, and Ise healed it.
 
-**The gnolls**
+**[[Characters/The gnolls|The gnolls]]**
 - A settled cave camp with families and pups.
 - **The leader:** about 7 ft, scarred, right shoulder sagging, a toe missing from the left foot, ends every charge with a howl. Ise killed him in one blow.
 - Ise invoked Yenogu (Yeenoghu) to them.
 - Foundry names: **Frank, Sarah, Kevin (the perceptive one), Henrietta (the finicky one)**.
 - Some fled with the pups. They fear ghosts, ghost frogs and "cave frogs."
 
-**Master Skreca** (Bec)
+**[[Characters/Master Skreca|Master Skreca]]** (Bec)
 - An old aarakocra with faded red, blue and green feathers, a monocle and **metal claws for hands**.
 - **Morir's scribe and the real author of the Testaments.** He lost his hands to them.
 - Now keeper, maintenance worker and cook of the ruins.
 - Keeps trained mimic chairs.
 
-**Morir**
+**[[Characters/Morir|Morir]]**
 - Former resident of the ruins: humble, and loved everything, including giants.
 - Stole a giant prince to force peace; the prince died in the bombardment.
 - **Through blood and unholy words, he split the land from the world**, while "a million teeth of demons" devoured the giants.
 
-**Agdrel, the Shadow King**: named by Vythorn as his foe. Per Ise, he killed Vythorn's parents with his own hands.
+**[[Characters/The Shadow King|Agdrel, the Shadow King]]**: named by Vythorn as his foe. Per Ise, he killed Vythorn's parents with his own hands.
 
-**Vythorn's parents**: unnamed. Ise takes both their faces.
+**[[Characters/Vythorn's parents|Vythorn's parents]]**: unnamed. Ise takes both their faces.
 
 ### Places
-- **Fil's forest**: silent, no animals, foggy, cold mud, caravan tracks, "tricky and magical" with shortcuts. A swamp precedes it (Part 1).
-- **The gnoll cave**: lit, with many entrances including from above.
-- **The Ruins of (the) Giant's Breath**:
+- **[[Places/Fil's forest|Fil's forest]]**: silent, no animals, foggy, cold mud, caravan tracks, "tricky and magical" with shortcuts. A swamp precedes it (Part 1).
+- **[[Places/The gnoll cave|The gnoll cave]]**: lit, with many entrances including from above.
+- **[[Places/The Ruins of (the) Giant's Breath|The Ruins of (the) Giant's Breath]]**:
   - A long narrow tunnel, a chasm full of giant bones, and a thin path to a door ringed with giant skulls.
   - **The door's carved giant mouth reads "I am thirsty" in Giant and opens for blood.**
   - Inside is a blue-lit museum of tomes and items.
@@ -274,8 +274,8 @@ tags: [episode, vythorn-s-return]
 - The Void, home of the Grandmaster, where Vythorn is returned.
 
 ### Items
-- **The Testaments of Morir's Cataclysm**: written by Skreca, recording Morir's unholy words. Granted to Vythorn.
-- **Fil's hourglass**: about two hours, always pours one way, mended many times and held by magic. Shattered by dispel magic.
+- **[[Items/The Testaments of Morir's Cataclysm|The Testaments of Morir's Cataclysm]]**: written by Skreca, recording Morir's unholy words. Granted to Vythorn.
+- **[[Items/Fil's hourglass|Fil's hourglass]]**: about two hours, always pours one way, mended many times and held by magic. Shattered by dispel magic.
 - Biff's glaive and backpack.
 - Ise's shadow blade.
 - The museum's wares: "Kira's voiceless spellcasting," "spiritual magic companions," the "night of night" sleep armor, a lucky key.

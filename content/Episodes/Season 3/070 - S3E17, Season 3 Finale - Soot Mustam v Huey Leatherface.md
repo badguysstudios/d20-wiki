@@ -265,7 +265,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Soot Mustam** (WintersTales / "AJ").
+**[[Characters/Soot Mustam|Soot Mustam]]** (WintersTales / "AJ").
 - **Who he is:**
   - A **12-year-old Goliath boy**, about six foot, extremely muscular ("looks like he's 25"). "Gohan-shaped."
   - An **animal trainer** in the style of a Pokémon trainer, who wears his **hat backwards for power**. The hat "dictate[s] enemies."
@@ -284,7 +284,7 @@ tags: [episode, season-3]
   - Rolled **four nat 1s** (opportunity attack, hero-point reroll, intimidation, the final athletics).
   - **Died by falling into his own Cube of Annihilation**, hoping the gods would bring him back.
 
-**Huey Leatherface / Leatherfeather** (BonusStageRob).
+**[[Characters/Huey Leatherface|Huey Leatherface / Leatherfeather]]** (BonusStageRob).
 - **Who he is:**
   - A bird (**Owlin**) **artificer/alchemist, "the best dang artificer in this side of Strixhaven."** The Arbiter called him "Leatherface"; he says it's "Leatherfeather" but likes the nickname.
   - Scarred hand missing feathers; goggles on his forehead. Calls people "partner."
@@ -300,63 +300,63 @@ tags: [episode, season-3]
   - **Declared winner by the Grandmaster.** His face was burned (fireworks, sacred flame) and he lost his feathers to the Cube: "a roast chicken."
   - Then mauled by Marymoo and **dropped 40 ft by the Grandmaster**. He went "splat"; his survival isn't stated.
 
-**Marymoo** (Soot's familiar). A flying squirrel; Soot also calls it a "squirrel hamster cat creature." It gnaws Huey's face throughout. **It went into a rage at Soot's death, survived, glided down, and was the only "champion" the Grandmaster took back through the portal.** Its only word: "Mary Mew!"
+**[[Characters/Marymoo|Marymoo]]** (Soot's familiar). A flying squirrel; Soot also calls it a "squirrel hamster cat creature." It gnaws Huey's face throughout. **It went into a rage at Soot's death, survived, glided down, and was the only "champion" the Grandmaster took back through the portal.** Its only word: "Mary Mew!"
 
-**Flamewing**. Soot's summoned Pegasus. Blinded by the hamster storm, then **sold by Huey to Gerald, who dragged it into the Box of Chaos**. Its fate is unknown.
+**[[Characters/Flamewing|Flamewing]]**. Soot's summoned Pegasus. Blinded by the hamster storm, then **sold by Huey to Gerald, who dragged it into the Box of Chaos**. Its fate is unknown.
 
-**Lilac**. The Grandmaster's **pet flying dragon**, guardian of the treasure room. She doesn't actually smell of lilacs, and her tongue sticks out.
+**[[Characters/Lilac|Lilac]]**. The Grandmaster's **pet flying dragon**, guardian of the treasure room. She doesn't actually smell of lilacs, and her tongue sticks out.
 - The Arbiter mind-controlled her into flooding the room with fire.
 - She accepted Huey's elixir, which made her faster and the room hotter.
 
-**Doug**. The Grandmaster's pug, who rides in her wings.
+**[[Characters/Doug the Pug|Doug]]**. The Grandmaster's pug, who rides in her wings.
 - Peed on Huey's shoe in the arena.
 
-**Gerald** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
 - Grumpy, swears, called Soot's offering trash and dumped a trash can on him.
 - Ate Flamewing and picked his teeth after.
 - Paid out the Cube of Annihilation and the Amulet of Health.
 
-**The Shadow King** (Drew). Elusia's uncle, who **returned from the Box of Chaos** at the end of the season. He killed the throne-room goblins, chained Elusia, took the throne, summoned dozens of Dragon Knights, killed the Arbiter, and forced Elusia to kneel. He calls her "child" and "daughter."
+**[[Characters/The Shadow King|The Shadow King]]** (Drew). Elusia's uncle, who **returned from the Box of Chaos** at the end of the season. He killed the throne-room goblins, chained Elusia, took the throne, summoned dozens of Dragon Knights, killed the Arbiter, and forced Elusia to kneel. He calls her "child" and "daughter."
 
-**The Arbiter / Vythorn the Endless Scholar** (Drew).
+**[[Characters/The Arbiter|The Arbiter / Vythorn the Endless Scholar]]** (Drew).
 - Wore sackcloth "rags" and **chains for about "five months"** this season. The Grandmaster freed him for good behavior, and his black spiked leathers and Italian leather boots returned.
 - Admitted "I was mistaken" about her being weak.
 - His shadow and chaos energy were drawn out of him into the box, giving the Shadow King "ten times" his power.
 - **Died taking a shadow blade meant for Doug.** Last words: "I am sorry for so many things… For knowledge."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Face-painted goblins; owns treasure rooms that fund the Deathmatch.
 - Shot Soot as a chaos event. Cried and sealed the Cube after Soot died, then dropped Huey in fright at Marymoo.
 - Freed the Arbiter. Wields **Oathbow**.
 - **"After I usurped you"**: she overthrew the Shadow King. She ends the episode chained and kneeling.
 
-**Goblins:** **Nathaniel** (the smallest goblin, with a pink orc skull face paint and a chinchilla with hearts); **Thomas the Goblin** (catches her sword); the goblin knights and soldiers of the throne room, all killed.
+**[[Characters/Goblins|Goblins:]]** **Nathaniel** (the smallest goblin, with a pink orc skull face paint and a chinchilla with hearts); **Thomas the Goblin** (catches her sword); the goblin knights and soldiers of the throne room, all killed.
 
-**The Meemaws / Golden Girls:** thrown in by the Acolytes, represented by rifle-carrying cosplay grandmas.
+**[[Characters/The Meemaws|The Meemaws / Golden Girls:]]** thrown in by the Acolytes, represented by rifle-carrying cosplay grandmas.
 - **Sophia** gave Soot a Werther's, pinched his cheeks and hugged him.
 - **Dorothy** was slashed dead by the golem.
 - **Blanche** was killed by its poison breath.
 
-**Christopher**. The large molten gold-and-metal golem, named by Huey, controlled by the Arbiter "like a Jaeger." It melted at the end of round 5.
+**[[Characters/Christopher|Christopher]]**. The large molten gold-and-metal golem, named by Huey, controlled by the Arbiter "like a Jaeger." It melted at the end of round 5.
 
-**Timmy / Timothy**. A mayor ("mayor and savior") killed at an earlier deathmatch in space. The Arbiter proposes a commemorative t-shirt and a holiday fruit basket.
+**[[Characters/Timmy|Timmy / Timothy]]**. A mayor ("mayor and savior") killed at an earlier deathmatch in space. The Arbiter proposes a commemorative t-shirt and a holiday fruit basket.
 
-**The Dragon Knights**. Dozens step from the shadows to serve the Shadow King.
+**[[Characters/The Dragon Knights|The Dragon Knights]]**. Dozens step from the shadows to serve the Shadow King.
 
-**Soot's mother**. In the stands, crying at his nat 1s, per the GM.
+**[[Characters/Soot's mother|Soot's mother]]**. In the stands, crying at his nat 1s, per the GM.
 
 ### Places
-- **The Dread Fortress**, its halls and **the Grandmaster's chambers/throne room**: goblins at the top of the throne. **The Arbiter's chair** sits beside the throne. It goes dark again under the Shadow King "as it once was the first time that you entered."
-- **The Grandmaster's treasure room**: one of "many little treasure rooms that help fund" the Deathmatch. 10-ft gold piles, crystals, coins, crowns, jewels, Lilac. An edge the hamsters ran off; what's below is unknown.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, its halls and **the Grandmaster's chambers/throne room**: goblins at the top of the throne. **The Arbiter's chair** sits beside the throne. It goes dark again under the Shadow King "as it once was the first time that you entered."
+- **[[Places/The Grandmaster's treasure room|The Grandmaster's treasure room]]**: one of "many little treasure rooms that help fund" the Deathmatch. 10-ft gold piles, crystals, coins, crowns, jewels, Lilac. An edge the hamsters ran off; what's below is unknown.
 - Soot's Goliath home village (unnamed).
 - Strixhaven ("this side of Strixhaven", Huey's home region).
 - Arena types named in planning: haunted forest, the Shadowlands, snowy mountain, cemetery, space (Timmy). Proposed: the Bahamas, a circus, the surface of the sun.
 
 ### Items
-- **Cube (Sphere) of Annihilation**: from the Box of Chaos for Soot's hometown emblem. It killed Soot; the Grandmaster closed it.
-- **Amulet of Health**: from the Box of Chaos for Flamewing; given to Huey.
-- **Oathbow**: the Grandmaster's bow.
-- **The Arbiter's chains** (removed with charter marks and glitter), his sackcloth clothes, black leathers, Italian leather boots.
+- **[[Items/Cube (Sphere) of Annihilation|Cube (Sphere) of Annihilation]]**: from the Box of Chaos for Soot's hometown emblem. It killed Soot; the Grandmaster closed it.
+- **[[Items/Amulet of Health|Amulet of Health]]**: from the Box of Chaos for Flamewing; given to Huey.
+- **[[Items/Oathbow|Oathbow]]**: the Grandmaster's bow.
+- **[[Items/The Arbiter's chains|The Arbiter's chains]]** (removed with charter marks and glitter), his sackcloth clothes, black leathers, Italian leather boots.
 - Old Bessie; Boots of the Winding Path; Huey's experimental elixir; the vial of Doug's urine.
 - Sophia's Werther's Original.
 - The "journal of notes," with "I was mistaken" at the top and its workshop section.

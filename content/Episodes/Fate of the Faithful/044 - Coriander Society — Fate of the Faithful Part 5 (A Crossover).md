@@ -146,7 +146,7 @@ tags: [episode, fate-of-the-faithful]
 
 ## Who and what appears
 ### Characters
-**Lyrus** (Drew). A member of the Faithful, described by the DM as a "werebear Goliath warrior."
+**[[Characters/Lyrus|Lyrus]]** (Drew). A member of the Faithful, described by the DM as a "werebear Goliath warrior."
 - Normally about 9–10 ft tall (Large). Circe made him gargantuan, then shrank him back.
 - Driven by **his father's legacy** and his fight against the Arbiter.
 - Gear and powers:
@@ -163,7 +163,7 @@ tags: [episode, fate-of-the-faithful]
   - Keeps the (replica) ewer for the Seer.
   - Gives John 400 electrum. Says the Faithful aim "to reach the Grandmaster."
 
-**John Carmichael** (Matt).
+**[[Characters/John Carmichael|John Carmichael]]** (Matt).
 - Warlock/gunslinger whose patron is **Tiamat**.
 - Gear and powers:
   - **Spell tattoos.** The **Infernal Talisman**, which carries a corruption risk.
@@ -173,7 +173,7 @@ tags: [episode, fate-of-the-faithful]
 - From Earth / Yord ("your last mission on Earth"). Has a loved one, "Carmen," from Earth. He resisted corruption this episode.
 - **Kept the real silver ewer** and left the Faithful a replica. Gave farewell gifts.
 
-**Asena** (PodsofWar). A pugilist.
+**[[Characters/Asena|Asena]]** (PodsofWar). A pugilist.
 - Was shrunk earlier and restored by the cookie.
 - Gear and powers:
   - **The Fang of Goltharius**, an amulet with astral wings and soul-ripping, which **now grants Dimension Door once a day**.
@@ -183,61 +183,61 @@ tags: [episode, fate-of-the-faithful]
   - Her life was changed by the jungle expedition on which Josiah Parsons died.
 - She **fought Ralzamon in a Deathmatch** in the Void and won. She spared him, letting him fall into the pit.
 
-**Ralzamon, Master of the Unknown / Josiah Parsons** (DM).
+**[[Characters/Ralzamon|Ralzamon, Master of the Unknown / Josiah Parsons]]** (DM).
 - Psychic mastermind from Yord, a former rich expedition man in khaki.
 - Believed Asena was an abomination and the downfall of Yord.
 - **The Arbiter pulled his shade from Yord and fused it with the Void version**; the Yord echo is now destroyed.
 - The survivor spared himself nothing: he begged to "die alone" out of the Arbiter's sight. Yet he appears before the Arbiter, defeated, and is sent to **gather the Arbiter's champions**.
 - In the Void he wears a hood, robes and a green cloak with golden clasps, "a warrior of the Arbiter."
 
-**The Arbiter** (Drew, stinger only).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew, stinger only).
 - Appearance: glowing white wings, black and white leathers, eight individually colored rings, long hair and beard, 8–9 ft tall.
 - Sits on **a throne of ice** in his own fortress, "a twisted echo of the Grand Throne."
 - Remembers the shadow king's reign. "The next phase of my plan has begun… the fight is near."
 
-**Circe (Cersei), Master of Magitek** (DM).
+**[[Characters/Circe|Circe (Cersei), Master of Magitek]]** (DM).
 - Flying boots, and the **Ray Gun of Amazing Transformation** with many modes: freeze/cold, the stupendous size-changing ray, the Dapper Density Altering Ray (etherealizing, partly disintegrating), and the bodacious beastomorph ray (chicken).
 - Wants a report on cryo-freezing and "tissue samples." Leaves the Void with John and Asena.
 
-**Lawrence** (DM). Spellcaster ally with grey hair. Opens the gate out of the Void with a tuning fork attuned to Yord, something "he's never done before."
+**[[Characters/Lawrence|Lawrence]]** (DM). Spellcaster ally with grey hair. Opens the gate out of the Void with a tuning fork attuned to Yord, something "he's never done before."
 
-**Kenny the spy** (Drew). Gave Lyrus a supreme potion of healing (flashback) and has found new intel. Got a ninja disguise. "I didn't really like those guys."
+**[[Characters/Kenny the spy|Kenny the spy]]** (Drew). Gave Lyrus a supreme potion of healing (flashback) and has found new intel. Got a ninja disguise. "I didn't really like those guys."
 
-**Baptiste ("Stabtiste")** (Drew). Knife-thrower who seems to have endless knives. "All of my stabbings are personal." Got a vibronic knife.
+**[[Characters/Baptiste|Baptiste ("Stabtiste")]]** (Drew). Knife-thrower who seems to have endless knives. "All of my stabbings are personal." Got a vibronic knife.
 
-**Frank the cook** (Drew). His food is "slop." He drank the acid and liked it. He wants a new spoon.
+**[[Characters/Frank the cook|Frank the cook]]** (Drew). His food is "slop." He drank the acid and liked it. He wants a new spoon.
 
-**The Seer** (Drew). Stumbling, sleepy, "sharper than you think." His vision is clear again. He'll decide the ewer's use. Got the hypno gun.
+**[[Characters/The Seer|The Seer]]** (Drew). Stumbling, sleepy, "sharper than you think." His vision is clear again. He'll decide the ewer's use. Got the hypno gun.
 
-**Slakura** (chat card). A little bouncing flower slime that smells of flowers, heals once per scene, and keeps turning up "main character status." It held the khaki collar.
+**[[Characters/Slakura|Slakura]]** (chat card). A little bouncing flower slime that smells of flowers, heals once per scene, and keeps turning up "main character status." It held the khaki collar.
 
-**Enemies:**
+**[[Characters/Enemies|Enemies:]]**
 - **Aulis the Kindler**: fire/sun priest with broken shackles, gunned down by John.
 - **Scorched Adjudicator Vargas ("Candlejack")**: candle-wax head, hand axes, Soul Tear. Shot, frozen, and warped in front of the monster; fate unknown.
-- **The Draconic Death Knight** (dead before the episode).
+- **[[Characters/Draconic Death Knight|The Draconic Death Knight]]** (dead before the episode).
 - **Two principality knights of Lacunas** in Bogatyr-class mechas (plasma cannons, power swords, Kinetic Guard, jets). Built to fight the blue dragons that hold most of their planet. They fled.
 - **The mercenary**, killed by vampiric kobolds.
 - **Skeletal minions.**
 - **The thing in the pit**: chained beneath the tower, cold and calculating, life-hungry, with long wrong-jointed shadow hands, curled horns and glowing eyes. It broke free and was turned into a chicken (temporarily).
 
-**Others named:**
+**[[Characters/Others named|Others named:]]**
 - **Booker Green**, who was to find a way home.
 - **Hara**, guessed for the illusion; not her.
 - **Gaston**, who did laser maintenance.
-- **Chester**, coming along ("half").
+- **[[Characters/Chester|Chester]]**, coming along ("half").
 - **Darius**, who cares about electrum.
 - **The spoon guy**, retired or on vacation.
 
 ### Places
-- **The Shadowlands**: a Void region with vampiric kobolds.
-- **The Shadow Keep / Shadow Fortress**, with a broken tower over a pit bound by ebony chains.
-- **The Ethereal Plane**: "like a blanket"; reached by the ewer's curtain.
-- **The Faithful's hideout**: a blacksmith's forge with a smith shop and a living room with one good cushion.
-- **The Arbiter's fortress and ice throne room.**
-- **Yord**, and its Crystalline Cavern. **Earth.** The world **Lacunas**. **The tomb of Sennepolker.** **Northport** (mentioned out of character).
+- **[[Places/The Shadowlands|The Shadowlands]]**: a Void region with vampiric kobolds.
+- **[[Places/The Shadow Keep|The Shadow Keep / Shadow Fortress]]**, with a broken tower over a pit bound by ebony chains.
+- **[[Places/The Ethereal Plane|The Ethereal Plane]]**: "like a blanket"; reached by the ewer's curtain.
+- **[[Places/The Faithful's hideout|The Faithful's hideout]]**: a blacksmith's forge with a smith shop and a living room with one good cushion.
+- **[[Places/The Arbiter's fortress and ice throne room|The Arbiter's fortress and ice throne room.]]**
+- **[[Places/Yord|Yord]]**, and its Crystalline Cavern. **Earth.** The world **Lacunas**. **The tomb of Sennepolker.** **Northport** (mentioned out of character).
 
 ### Items
-- **The silver ewer (the "pitcher")**: pours a curtain into the Ethereal. John took the real one; the Faithful have a replica.
+- **[[Items/The silver ewer (the pitcher)|The silver ewer (the "pitcher")]]**: pours a curtain into the Ethereal. John took the real one; the Faithful have a replica.
 - Asena's magic cookie. Kenny's supreme potion of healing.
 - The ogre-sized revolver John gave Lyrus, left behind.
 - The khaki collar (once a golden clasp).

@@ -230,7 +230,7 @@ tags: [episode, pieces-of-a-king]
 
 ## Who and what appears
 ### Characters
-**Grimnar** (Drew).
+**[[Characters/Grimnar|Grimnar]]** (Drew).
 - Old-ish and stiff, and stretches loudly.
 - Called "the bear" by Trissavin; looms "like a giant bear." That he is a bear is inferred from these lines.
 - **Adopts resistances from creatures he reads** and **copies spells cast on him** (death ward), along with chaos-energy tells: eyes going black void, multicolored lightning.
@@ -239,7 +239,7 @@ tags: [episode, pieces-of-a-king]
 - Has heard soldiers' tales of a world-sized harvested corpse in the Void.
 - His answer to the alliance: "We will do what chaos allows."
 
-**Nehebka** (CriticalBard).
+**[[Characters/Nehebka|Nehebka]]** (CriticalBard).
 - "Born of the desert sands," scaled with rough hands.
 - **Doesn't sleep**; meditates in drifting sand. **Doesn't dream.**
 - Divines through a sand dome; has tremorsense.
@@ -247,7 +247,7 @@ tags: [episode, pieces-of-a-king]
 - **"I was the war mind for my domain"; created to protect someone else's power and survival.**
 - Says what the party seeks "resides within this Warmind."
 
-**Muffy** (JustSeum).
+**[[Characters/Muffy|Muffy]]** (JustSeum).
 - A dog, one of a whole litter with many siblings. A painter with a paintbrush weapon; barbarian rage.
 - Runs the game Cabals and Krakens.
 - Owns a mustached portrait of the Grandmaster.
@@ -255,54 +255,54 @@ tags: [episode, pieces-of-a-king]
 - **Defined the Void salute.**
 - "I'm committed to the Grandmaster. If she asked me to do anything, I would do it."
 
-**Trissavin Baenerret** (Kyle).
+**[[Characters/Trissavin Baenerret|Trissavin Baenerret]]** (Kyle).
 - Drow war mistress of the alliance. Once dreamed of priesthood.
 - **Approved the Warmind project and later led the breakaway from it.**
 - Speaks Sylvan to her guards. A multicaster with battle commands, in black battle plate.
 - Hopes to restore the lost temples.
 
-**Gund Ashbrow** (Kyle).
+**[[Characters/Gund Ashbrow|Gund Ashbrow]]** (Kyle).
 - Duergar commander with an "Iron Within" retinue. Proud of the Solar's harvest.
 - Would rather build artillery.
 - Will lead the Blastlands distraction; willing to let the party be sacrificed.
 - Backed down from Muffy.
 
-**Grim** (Kyle).
+**[[Characters/Grim|Grim]]** (Kyle).
 - Hobgoblin ("Devastator") leading the redcaps.
 - Was slated to lead the tunnel operation.
 - Copied Grimnar's fireball. Approves of chaos.
 
-**The Physician** (Kyle).
+**[[Characters/The Physician|The Physician]]** (Kyle).
 - Illithid with tentacles and a mask, master of the Nightingales.
 - **Helped build the Warmind.**
 - Vows to deny it everyone's minds, then his own.
 
-**The Nightingales.** White-masked, still-hearted servants of the Physician. Their psionic resistance is trained, plus a magical source on their persons. Five are present.
+**[[Characters/The Nightingales|The Nightingales.]]** White-masked, still-hearted servants of the Physician. Their psionic resistance is trained, plus a magical source on their persons. Five are present.
 
-**Calvin the Hob.** A hobgoblin soldier, friendly with the party.
+**[[Characters/Calvin the Hob|Calvin the Hob.]]** A hobgoblin soldier, friendly with the party.
 
-**The 34th (Deep Divers).** Salute with two fist bumps and a gurgle. They and earlier iterations dug the tunnel network.
+**[[Characters/The 34th (Deep Divers)|The 34th (Deep Divers).]]** Salute with two fist bumps and a gurgle. They and earlier iterations dug the tunnel network.
 
-**The two at the mountain.** Unnamed in this episode. Traveling underground; one wounded.
+**[[Characters/The two at the mountain|The two at the mountain.]]** Unnamed in this episode. Traveling underground; one wounded.
 
-**The Warmind.** A construct-intelligence holding about 20 million minds.
+**[[Characters/The Warmind|The Warmind.]]** A construct-intelligence holding about 20 million minds.
 - Its forces chant "Surrender to the will of the Warmind."
 - Units: soldiers, flare lieutenants, defenders, bolter cannons, Titans.
 - Seeks to destroy the Solar's corpse.
 
-**The Solar.** A winged, armored, gold-and-white divine corpse "called down" by the Damaranians. Being harvested for the warheads.
+**[[Characters/The Solar|The Solar.]]** A winged, armored, gold-and-white divine corpse "called down" by the Damaranians. Being harvested for the warheads.
 
 ### Places
-- **Dämmerung**: greenery and mountains away from the front.
-- **The Last City / Dämmerung Prime** and **the Planar Gate**. The large city seen from the transport is possibly Dämmerung Prime (inferred).
-- **The barracks** (with mess tent and command tent).
-- **The Underdark**, the tunnels, and "the above."
-- **The Solar's Grave** research facility.
-- **The Blastlands**, the trenches, and **the mountain** (the Warmind's location, per the plan).
-- **The portal relay** (mentioned).
+- **[[Places/Dämmerung|Dämmerung]]**: greenery and mountains away from the front.
+- **[[Places/The Last City|The Last City / Dämmerung Prime]]** and **the Planar Gate**. The large city seen from the transport is possibly Dämmerung Prime (inferred).
+- **[[Places/The barracks|The barracks]]** (with mess tent and command tent).
+- **[[Places/The Underdark|The Underdark]]**, the tunnels, and "the above."
+- **[[Places/The Solar's Grave|The Solar's Grave]]** research facility.
+- **[[Places/The Blastlands|The Blastlands]]**, the trenches, and **the mountain** (the Warmind's location, per the plan).
+- **[[Places/The portal relay|The portal relay]]** (mentioned).
 
 ### Items
-- **The warhead** (one ready, five in development), built from the Solar.
+- **[[Items/The warhead|The warhead]]** (one ready, five in development), built from the Solar.
 - The tunnel map.
 - Muffy's paintings.
 - The organic transport and the troll-turret constructs.

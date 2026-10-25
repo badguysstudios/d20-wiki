@@ -206,7 +206,7 @@ tags: [episode, season-4]
 
 ## Who and what appears
 ### Characters
-**Witch Hunter / Ricardo** (D'Angelo). A centaur paladin.
+**[[Characters/Witch Hunter|Witch Hunter / Ricardo]]** (D'Angelo). A centaur paladin.
 - **Faith and origins:**
   - Worships **Maliki** and carries pamphlets about him.
   - **Real name Ricardo.** He was a bounty hunter until "an orphanage incident," then rebranded. He hunts "anyone who doesn't believe in Maliki and uses magic."
@@ -223,7 +223,7 @@ tags: [episode, season-4]
   - Called "Witch King" after a "battlefield promotion."
 - **In this episode:** drowned under the Frozen Lake after giving Grickle the glaive.
 
-**Grickle** (nat1fun). A thri-kreen fighter with rogue-like tricks (sneak attack, Uncanny Dodge, maneuvers, Mobile).
+**[[Characters/Grickle|Grickle]]** (nat1fun). A thri-kreen fighter with rogue-like tricks (sneak attack, Uncanny Dodge, maneuvers, Mobile).
 - **Body and gear:**
   - Four arms, a shiny carapace that can shift to dull gray, a cape-like display and wings. No eyelids.
   - **Only two years old** ("we don't live that long"); "my mom's gonna kill me."
@@ -234,7 +234,7 @@ tags: [episode, season-4]
   - His ledger count was ½ → 1.5 → 2.5.
   - Tried to rescue Witch Hunter, then was **crushed by the Shadow King's boot**.
 
-**The Shadow King** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Drew).
 - **In the Dread Fortress:**
   - Bowls with goblins and has "a big tournament this weekend."
   - Calls Elusia **"my niece"** and tightens the **shadowy chains** he keeps on her ("It's because I love you").
@@ -246,35 +246,35 @@ tags: [episode, season-4]
   - **Bec: "He used to be the box."**
 - **The finish:** he ended the match by crushing Grickle with a giant black boot.
 
-**Elusia, the Grandmaster "but only a name"** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia, the Grandmaster "but only a name"]]** (Bec).
 - Under the Shadow King, she does the real work of running the Deathmatch.
 - **Her hair is falling out in patches and her left eye twitches.**
 - **She summons portals by cutting her hands on her amulet; her hands are scarred from it.**
 - Ripped off the Shadow King's face, and cheered for Witch Hunter at the end.
 
-**Bruce / Bruce Bruce**. Witch Hunter's shape-changed chaos mount.
+**[[Characters/Bruce|Bruce / Bruce Bruce]]**. Witch Hunter's shape-changed chaos mount.
 - A naked, waxed, mustached dad-bod human (43, later "45"). His butt cheeks clap when he runs. He says "Bruce, Bruce."
 - **His face froze into his own butt cheeks.** He rolled into the Box of Chaos as a sacrifice.
 
-**Gricklebackackack(ack)**. Grickle's giant rhinoceros beetle mount. Shot dead by Grickle's own arrow.
+**[[Characters/Gricklebackackack|Gricklebackackack(ack)]]**. Grickle's giant rhinoceros beetle mount. Shot dead by Grickle's own arrow.
 
-**The goblins**: ten workers who prepare the arena and bring the Acolytes. **Henry** (bruised shins, given the marigold) and **Lucy** are named.
+**[[Characters/Goblins|The goblins]]**: ten workers who prepare the arena and bring the Acolytes. **Henry** (bruised shins, given the marigold) and **Lucy** are named.
 
-**Glass Flippers** (Acolyte): hit by Grickle's arrow, then split in half by the Shadow King. **His soul primed the Box of Chaos and appears as the shadowy figure that trades from it.** He likes bread.
+**[[Characters/Glass Flippers|Glass Flippers]]** (Acolyte): hit by Grickle's arrow, then split in half by the Shadow King. **His soul primed the Box of Chaos and appears as the shadowy figure that trades from it.** He likes bread.
 
-**Divinity D&D** (Acolyte): caught Witch Hunter's nipple in their mouth.
+**[[Characters/Divinity D&D|Divinity D&D]]** (Acolyte): caught Witch Hunter's nipple in their mouth.
 
 ### Places
-- **The Shadow King's throne room (Dread Fortress)**, with dusty old doors and a long rug.
-- **The Frozen Lake**: a tundra "not creatively named."
+- **[[Places/The Shadow King's throne room (Dread Fortress)|The Shadow King's throne room (Dread Fortress)]]**, with dusty old doors and a long rug.
+- **[[Places/The Frozen Lake|The Frozen Lake]]**: a tundra "not creatively named."
   - Something moves beneath the ice.
   - An archway over a small pond, a pillar and an elevated area.
   - The Acolytes' coliseum hangs in the sky above.
 - The "coward's corner" in the stands.
 
 ### Items
-- **The Box of Chaos**: primed with a soul, it trades a magic item for a sacrifice, with a pink-and-yellow heatless fire. "Not explosive, but not in that way."
-- **Iron Fang**: a war pick, +2, extra thunder, with "sparkle/glitter damage" (Grickle to name the effect).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]**: primed with a soul, it trades a magic item for a sacrifice, with a pink-and-yellow heatless fire. "Not explosive, but not in that way."
+- **[[Items/Iron Fang|Iron Fang]]**: a war pick, +2, extra thunder, with "sparkle/glitter damage" (Grickle to name the effect).
 - The greater ("half a gallon") and regular healing potions, which contain red dye.
 - Witch Hunter's grandmother's glaive, his heirloom lucky rabbit's foot keychain, the stale bread, and the master logbook of deaths.
 - Elusia's cutting amulet and the shadowy chains.

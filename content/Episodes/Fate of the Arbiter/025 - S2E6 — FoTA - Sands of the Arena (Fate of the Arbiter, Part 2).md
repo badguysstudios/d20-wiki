@@ -122,14 +122,14 @@ tags: [episode, fate-of-the-arbiter]
 
 ## Who and what appears
 ### Characters
-**Toddleheim ("Toddlheim the Great")** (Ahnubyss). An old spellcaster: Enlarge/Reduce, Acid Splash, Magic Missile, Burning Hands, Cause Fear, Misty Step. Resistant to poison (Drew extended it to necrotic for the kobold bites).
+**[[Characters/Toddleheim|Toddleheim ("Toddlheim the Great")]]** (Ahnubyss). An old spellcaster: Enlarge/Reduce, Acid Splash, Magic Missile, Burning Hands, Cause Fear, Misty Step. Resistant to poison (Drew extended it to necrotic for the kobold bites).
 - **Backstory:** he once lost control in a bar and burned it to the ground; everyone died ("not good people, but it wasn't the death that they deserved").
 - From the Box of Chaos: **one use of Fire Storm**, paid for with his own blood. He wiped out the second wave with it.
 - **Bitten by a werewolf and gained lycanthropy**; kept his mind; Lyrus talked him back. His eyes flash yellow.
 - From the Seer: a **potion of longevity (−12 years)** and a **dimensional loop** ring.
 - "A terrible traveler" who wants passport stamps. Driven by adventure and "one last hurrah"; may not make it to retirement.
 
-**Locket** (Miss_Magitek). A **cat-like** Gloom Stalker ranger: feline agility, claws, a climbing speed, and runs on all fours. Longbow with flame-imbued quiver, short sword, Hunter's Mark. Her **Fear spell turns her face feral**.
+**[[Characters/Locket|Locket]]** (Miss_Magitek). A **cat-like** Gloom Stalker ranger: feline agility, claws, a climbing speed, and runs on all fours. Longbow with flame-imbued quiver, short sword, Hunter's Mark. Her **Fear spell turns her face feral**.
 - **Has a twin sister** (Drew's narration: "maybe you'll never find your sister"). She is curious by nature and picks up the doll.
 - From the box: a **medallion of thoughts shaped as a heart-shaped locket**, plus a faint halo glow. Used Detect Thoughts on the Arbiter.
 - **Killed the Deathlock** with an arrow to the skull.
@@ -137,7 +137,7 @@ tags: [episode, fate-of-the-arbiter]
 - Bonded briefly to the doll "Dolly"; was duplicated in a portal, and the duplicate burned.
 - The potion of storm giant strength from the last episode has worn off.
 
-**Flynry** (BDTeej). A shifter monk: flurries, Step of the Wind, Minor Illusion, Inflict Wounds, Deflect Missiles. **Beast form**, which he loves and wishes everyone kept.
+**[[Characters/Flynry|Flynry]]** (BDTeej). A shifter monk: flurries, Step of the Wind, Minor Illusion, Inflict Wounds, Deflect Missiles. **Beast form**, which he loves and wishes everyone kept.
 - A "humble traveler" who left his old life to see the world; "I've not got another name."
 - Gave the box a **bracelet from his home world** (once almost lost gambling, then won back by claiming "a condition"). Got **armor of resistance (necrotic)**, a breastplate that fits his beast form.
 - Clearly smitten with Locket's feral form.
@@ -145,7 +145,7 @@ tags: [episode, fate-of-the-arbiter]
 - From the Seer: the **Atlas of Endless Horizons** (a compass rose necklace).
 - Teases the Seer about being blind.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Branded the three traitors and staged the fight.
 - Owns **his own arena**: a temple above a city with a giant statue of himself and a black throne. Eats grapes and drinks wine.
 - **Claims the visage they beat was "a fraction of my power… a golem, a stand-in, a mist."** Summons creatures of darkness from the floor and heals the champions.
@@ -154,7 +154,7 @@ tags: [episode, fate-of-the-arbiter]
 - Called "the right hand of the Grandmaster" and "a staple of virtue" by Lyrus.
 - **Ages his failed werewolves to dust by turning time.** "I am God here."
 
-**Lyrus** (Drew). **Orin's son.**
+**[[Characters/Lyrus|Lyrus]]** (Drew). **Orin's son.**
 - A werebear in black plate, wielding **two Void swords of "solidified gloom."** The swords cut portals in reality, create singularities, and shatter portals like mirrors.
 - **True form: a Goliath**, bald, 7 ft, grey skin, tiger-stripe tattoos.
 - Heard the Arbiter confess and vowed to take his head "someday."
@@ -162,35 +162,35 @@ tags: [episode, fate-of-the-arbiter]
 - Leads a small band at a covert raid hideout in a blacksmith shop; **"I guess you would call us the Faithful."**
 - Phrases: "the cut of your jib," "two in the hand, one in the pantry."
 
-**Orin** (mentioned). Commander of the eastern outpost. Killed by the Arbiter (by an obliterate spell, per the players). He disliked his humanoid form and "was a talker." Considered the Arbiter "like a father."
+**[[Characters/Orin|Orin]]** (mentioned). Commander of the eastern outpost. Killed by the Arbiter (by an obliterate spell, per the players). He disliked his humanoid form and "was a talker." Considered the Arbiter "like a father."
 
-**The Seer** (Drew).
+**[[Characters/The Seer|The Seer]]** (Drew).
 - A white-scaled, blind dragonborn smith and magic forger. Bumps into anvils; "a little bit of blind humor."
 - Was "quite a ruffian in my younger days… the ladies, they liked me."
 - Sees what is inside people and manifests it into items. Had not made a magic item in over 25 years.
 - Can't make the whole Orrery of the Wanderer. Is a "homebody" and tired; sleeps on a box.
 
-**Orin's forces**: a goblin, an elf and an orc, who hid among the Acolytes and dropped in. **The orc held off the Arbiter and was obliterated.** At the hideout, a **shifty goblin** loses dice to a cheating elf and flees from Flynry.
+**[[Characters/Orin's forces|Orin's forces]]**: a goblin, an elf and an orc, who hid among the Acolytes and dropped in. **The orc held off the Arbiter and was obliterated.** At the hideout, a **shifty goblin** loses dice to a cheating elf and flees from Flynry.
 
-**Dolly**: a porcelain doll from a chaos event ("Play with me"; "We're going to be friends"). She burned a necrotic rune into Locket, served her, and died in the Fire Storm.
+**[[Characters/Dolly|Dolly]]**: a porcelain doll from a chaos event ("Play with me"; "We're going to be friends"). She burned a necrotic rune into Locket, served her, and died in the Fire Storm.
 
-**Enemies**: a Deathlock (mastermind) and **five vampiric kobolds** in wave one; three Deathlocks, three vampire spawn ("three women"), a night hag and three werewolves in wave two; then dozens of werewolves through the portals.
+**[[Characters/Enemies|Enemies]]**: a Deathlock (mastermind) and **five vampiric kobolds** in wave one; three Deathlocks, three vampire spawn ("three women"), a night hag and three werewolves in wave two; then dozens of werewolves through the portals.
 
-**The Acolytes**: they gave hero points and Luckies, summoned the Box of Chaos, and believed the fight was a normal, voluntary Deathmatch.
+**[[Lore/The Acolytes|The Acolytes]]**: they gave hero points and Luckies, summoned the Box of Chaos, and believed the fight was a normal, voluntary Deathmatch.
 
 ### Places
-- **The Sands of the Arena** (the Grandmaster's arena), seen "the night the Arbiter was taken."
-- **The Arbiter's arena**: temple-side, high above a city, a giant Arbiter statue, constant lightning, a balcony, a black throne, braziers, a flag post, a ledge over a drop.
+- **[[Places/The sands of the arena|The Sands of the Arena]]** (the Grandmaster's arena), seen "the night the Arbiter was taken."
+- **[[Places/The Arbiter's arena|The Arbiter's arena]]**: temple-side, high above a city, a giant Arbiter statue, constant lightning, a balcony, a black throne, braziers, a flag post, a ledge over a drop.
 - The **portal realms**: a mountaintop pass with floating debris; a hub with blood, fire, green and space portals; a plane of chaotic energy with floating tiles over a relativity-warping void.
-- **A city street**, with an unnamed city and its infantry.
-- **The covert blacksmith hideout** (forge, cots, armory and kitchen).
+- **[[Places/A city street|A city street]]**, with an unnamed city and its infantry.
+- **[[Places/The covert blacksmith hideout|The covert blacksmith hideout]]** (forge, cots, armory and kitchen).
 - Mentioned: **Orin's Keep / the eastern outpost**, the lava plains (several days' journey), the Dread Fortress.
 
 ### Items
-- **Box of Chaos**: summoned by the Acolytes; takes meaningful sacrifices (a Pearl of Healing earlier, a bracelet, a potion of healing, blood). For the first time it offered a choice of items.
+- **[[Lore/The Box of Chaos|Box of Chaos]]**: summoned by the Acolytes; takes meaningful sacrifices (a Pearl of Healing earlier, a bracelet, a potion of healing, blood). For the first time it offered a choice of items.
 - Armor of resistance (necrotic, +1 AC); medallion of thoughts (heart locket); Fire Storm (one use).
-- **Helm of Brilliance** (choker), **Atlas of Endless Horizons** (compass rose), **potion of longevity**, **dimensional loop** (a piece of the Orrery of the Wanderer).
-- **Lyrus's Void swords.** The severed Arbiter hands, which shriveled away.
+- **[[Items/Helm of Brilliance|Helm of Brilliance]]** (choker), **Atlas of Endless Horizons** (compass rose), **potion of longevity**, **dimensional loop** (a piece of the Orrery of the Wanderer).
+- **[[Items/Lyrus's Void swords|Lyrus's Void swords.]]** The severed Arbiter hands, which shriveled away.
 
 ### Lore statements
 - "Never before have the champions refused to fight" (the Arbiter).

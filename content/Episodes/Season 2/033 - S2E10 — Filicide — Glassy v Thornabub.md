@@ -167,7 +167,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Thornabub** (Glorious George). A winged devil from the Nine Hells who **rules a small demiplane of hell**.
+**[[Characters/Thornabub|Thornabub]]** (Glorious George). A winged devil from the Nine Hells who **rules a small demiplane of hell**.
 - **Family:**
   - Glassy's father. His wife is Violtha.
   - Mentions a son whose sword he beat him with (Dried Blood names the brother Adam).
@@ -181,7 +181,7 @@ tags: [episode, season-2]
 - **What he gave up:** returned the Sun Sword to the box. Lost his armor, shield and hammer to the magnet.
 - **Outcome:** won by downing Glassy and taking **Jerry's soul** by infernal contract. He's expecting her (and Jerry) at Christmas. Left for a pub crawl with the Arbiter via Luskan.
 
-**Glassy / Glacia ("Glassy Bear")** (Ms. Magitek / Tracy). Thornabub's **18-year-old** daughter (her race isn't stated in the episode; Drew calls the two champions tieflings in Dried Blood).
+**[[Characters/Glassy|Glassy / Glacia ("Glassy Bear")]]** (Ms. Magitek / Tracy). Thornabub's **18-year-old** daughter (her race isn't stated in the episode; Drew calls the two champions tieflings in Dried Blood).
 - **Name:** named after a lord of the Nine Hells.
 - **Her life now:** she left the Nine Hells and **lives in Luskan on the material plane**. She has **new purple hair**.
 - **Jerry/Gary:** her boyfriend, a wizard (or "just an electrician"). He taught her lightning magic (Lightning Lure, Lightning Bolt).
@@ -194,20 +194,20 @@ tags: [episode, season-2]
   - Received the Helm of the Gods from Gerald, then lost it to the magnet.
 - **Outcome:** downed, then **sold Jerry's soul for her life by an unread infernal contract**. **The GM called her an inspiration.** She vows a new chapter. In Dried Blood she says she will return as an oath-of-vengeance paladin sworn to the Grandmaster.
 
-**Jerry (or Gary)**. Glassy's boyfriend in Luskan, a "lightning wizard" or electrician. **His soul now belongs to Thornabub** per the contract. "Kinda alive-ish."
+**[[Characters/Jerry|Jerry (or Gary)]]**. Glassy's boyfriend in Luskan, a "lightning wizard" or electrician. **His soul now belongs to Thornabub** per the contract. "Kinda alive-ish."
 
-**Violtha**. Glassy's mother in the Nine Hells, "worried sick." She bought Glassy's necklace and clawed Thornabub's back. Thornabub says "Mommy" is calling Glassy home.
+**[[Characters/Violtha|Violtha]]**. Glassy's mother in the Nine Hells, "worried sick." She bought Glassy's necklace and clawed Thornabub's back. Thornabub says "Mommy" is calling Glassy home.
 
-**Mahadi**. A rakshasa businessman with connections to Asmodeus. Glassy's arranged fiancé. "Tiger freak," "very limber."
+**[[Characters/Mahadi|Mahadi]]**. A rakshasa businessman with connections to Asmodeus. Glassy's arranged fiancé. "Tiger freak," "very limber."
 
-**Gerald / the Box of Chaos** (Drew).
+**[[Items/Gerald, the Box of Chaos|Gerald / the Box of Chaos]]** (Drew).
 - **Now housed in a new box commissioned by the Acolytes.** It throws cool purple, pink and yellow flame, and Gerald is a small shadowy silhouette.
 - He talks: he enjoys blood but wants variety, and says "I have a soul."
 - **He gave the Sun Sword, the Helm of the Gods and a +1 breastplate.** He got angry at Thornabub returning the sword and favored Glassy.
 - **He now keeps undead raccoons or squirrels in the box as pets; one is named Francisco.**
 - Dried Blood: he's paid in table scraps and drops of blood. He had a girlfriend who fought in a Deathmatch "a little while back"; she now **works on the bee farm with her memory of him modified**.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Found the GM asleep, and plans tourism flyers.
 - Sided with Thornabub: "people don't respect their elders."
 - Gambling: "I'm going to lose a lot of money" on a short fight.
@@ -215,41 +215,41 @@ tags: [episode, season-2]
 - Believes magnets are magic and the earth is flat.
 - Went for drinks with Thornabub. **Dried Blood: confides he has been trying to overthrow the Grandmaster "for years."**
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Thrown by daylight saving time; slept from 5 p.m. Realized she can ignore it as ruler.
 - **Her bed chamber has a David Copperfield poster.** She curated the forest arena as her wild garden.
 - Sat with Doug.
 - **Cast Darkness over the arena** as a chaos event.
 - Respected Thornabub "from one ruler to another." **Told Glassy she has lost many battles, and once had to leave her own kingdom "for some time."**
 
-**Doug the pug**. Sits beside the GM. His "skin is falling off his face." He hid under the throne when the Arbiter bullied him, then laughed or coughed at the Arbiter's 1 and rolled a 12 to help him.
+**[[Characters/Doug the Pug|Doug the pug]]**. Sits beside the GM. His "skin is falling off his face." He hid under the throne when the Arbiter bullied him, then laughed or coughed at the Arbiter's 1 and rolled a 12 to help him.
 
 **"great to be a gator"**. An Acolyte who commissioned Gerald's new box.
 
 ### Places
-- **Dread Fortress:**
+- **[[Places/The Dread Fortress|Dread Fortress:]]**
   - The GM's bed chamber, with its David Copperfield poster.
   - The pitchfork closet: golden handle, shelves, backsplash, rice and dry goods.
   - Dining halls.
-- **The Grandmaster's wild-garden forest arena:**
+- **[[Places/The Grandmaster's wild-garden forest arena|The Grandmaster's wild-garden forest arena:]]**
   - Fluorescent colors and spindly 40–50 ft trees.
   - A rocky platform and a **glowing rune rock that grants a blue glow and an Action Surge**.
   - Sparkling (acidic, per Dried Blood) stream and cliffs.
   - The trees shake when hit.
   - **A dank, mildewy underground root pit** opened by the magnet.
-- **The Nine Hells:** Avernus (forest of the damned), Nessus (forest of ice and bone), and Thornabub's demiplane.
-- **Luskan** (material plane), where Glassy and Jerry live.
-- **The bee farm** (Dried Blood), where Gerald's ex-girlfriend works.
+- **[[Places/The Nine Hells|The Nine Hells:]]** Avernus (forest of the damned), Nessus (forest of ice and bone), and Thornabub's demiplane.
+- **[[Places/Luskan|Luskan]]** (material plane), where Glassy and Jerry live.
+- **[[Places/The bee farm|The bee farm]]** (Dried Blood), where Gerald's ex-girlfriend works.
 
 ### Items
-- **The new Box of Chaos.**
-- **The Sun Sword**, "belonging to the brother of Strahd": sentient, chaotic good, Int 11, sun blade properties. Returned to the box.
-- **The Helm of the Gods** (given to Glassy, lost under the magnet).
-- **A +1 breastplate** (Thornabub's, torn off by the magnet).
-- **The sky magnet disc.**
-- **The sandbox trees** (spike-shooting).
+- **[[Items/The new Box of Chaos|The new Box of Chaos.]]**
+- **[[Items/The Sun Sword|The Sun Sword]]**, "belonging to the brother of Strahd": sentient, chaotic good, Int 11, sun blade properties. Returned to the box.
+- **[[Items/The Helm of the Gods|The Helm of the Gods]]** (given to Glassy, lost under the magnet).
+- **[[Items/A +1 breastplate|A +1 breastplate]]** (Thornabub's, torn off by the magnet).
+- **[[Items/The sky magnet disc|The sky magnet disc.]]**
+- **[[Items/The sandbox trees|The sandbox trees]]** (spike-shooting).
 - Glassy's mother's necklace, belt and staff.
-- **The infernal contract** for Jerry's soul.
+- **[[Items/The infernal contract|The infernal contract]]** for Jerry's soul.
 - Health potions from the GM.
 - Timeshares and soul coins.
 

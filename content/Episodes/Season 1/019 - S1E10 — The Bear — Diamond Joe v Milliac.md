@@ -141,7 +141,7 @@ tags: [episode, season-1]
 
 ## Who and what appears
 ### Characters
-**Diamond Joe** (Ramji / ramjiv). An **elderly dragonborn artificer** in self-built power armor of fused metallic plates. He speaks with an old British accent.
+**[[Characters/Diamond Joe|Diamond Joe]]** (Ramji / ramjiv). An **elderly dragonborn artificer** in self-built power armor of fused metallic plates. He speaks with an old British accent.
 - **Creator of Steely Dan**, whom he calls "my boy." He came to the Deathmatch because the Arbiter promised to reunite them.
 - **Gear and powers:**
   - Thunder gauntlets that he forgets to switch off.
@@ -161,16 +161,16 @@ tags: [episode, season-1]
   - Wanted an invitation to the dragon battle royale.
 - **In this episode:** he won. He was promised ice cream and a reunion with his son, and was dropped by the Grandmaster after asking for a handjob.
 
-**Milliac** (Jared / NVNGpodcast). He comes from "the woods, down the block" and answered **a flyer promising pie and punch**. He has a big belly, and his favorite pie is cherry. He uses he/him.
+**[[Characters/Milliac|Milliac]]** (Jared / NVNGpodcast). He comes from "the woods, down the block" and answered **a flyer promising pie and punch**. He has a big belly, and his favorite pie is cherry. He uses he/him.
 - **Once spent time in a traveling circus** (the barrel trick).
 - **His "natural shape" is a bear.** He Wild Shapes into a polar bear when excited, and "can't control the beast inside."
 - **Spells and abilities:** Zephyr Strike, Heat Metal, Conjure Animals (always polar bears), Hunter's Mark, Cure Wounds, Mold Earth, Colossus Slayer, and javelins in his backpack.
 - **Granted lightning resistance "from here on out" by the GM** after a nat 20.
 - Died to his own black-powder bear bomb. **He was secretly revived at 1 HP and carried off by the Arbiter**, who "might find a use for you somewhere."
 
-**Honey Boo Boo**. Milliac's conjured polar bear. The Arbiter's chaos event duplicated it, giving **"Honey Boo Boo Prime"** (killed by Lightning Bolt) and the copy (killed by the fart tornado).
+**[[Characters/Honey Boo Boo|Honey Boo Boo]]**. Milliac's conjured polar bear. The Arbiter's chaos event duplicated it, giving **"Honey Boo Boo Prime"** (killed by Lightning Bolt) and the copy (killed by the fart tornado).
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Has a secret lab in the Dread Fortress catacombs.** It holds potions, specimens in jars, and a book of plans.
 - **Monologues about "phase three" and "This entire castle will be mine."** He hid it all from the Grandmaster.
 - Handles the vendors (the lemonade guy, blue raspberry slushies).
@@ -178,25 +178,25 @@ tags: [episode, season-1]
 - Refused to dance for the Grandmaster, though she says he does the Macarena well.
 - **Secretly revived Milliac.**
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Champions flyers as a recruiting tool.
 - Gave the acolytes satchels of black powder.
 - Owns **Doug the Pug** ("boneless").
 - Doubled all damage in round 8.
 - Uses she/her. Wants ice cream and lemonade after the fight.
 
-**Steely Dan** ("Steely Dan the Sir"). Built by Diamond Joe. "Quite the instrument of destruction… in the previous Deathmatch." Described as an 8–9 ft steam-powered contraption covered in cassette tapes and minidiscs. **His parts are in a scrap room the Arbiter showed Joe** (Dried Blood).
+**[[Characters/Steely Dan|Steely Dan]]** ("Steely Dan the Sir"). Built by Diamond Joe. "Quite the instrument of destruction… in the previous Deathmatch." Described as an 8–9 ft steam-powered contraption covered in cassette tapes and minidiscs. **His parts are in a scrap room the Arbiter showed Joe** (Dried Blood).
 
-**Farcheck**. Once dug for black powder at this site. "He may have been imaginary."
+**[[Characters/Farcheck|Farcheck]]**. Once dug for black powder at this site. "He may have been imaginary."
 
-**Doug the Pug**. The Grandmaster's pug. He gets excited during the fight and licks the fallen Milliac's face.
+**[[Characters/Doug the Pug|Doug the Pug]]**. The Grandmaster's pug. He gets excited during the fight and licks the fallen Milliac's face.
 
-**Mordenkainen**. Mentioned by Joe as the source of a "ropey" multi-universal connection he wants a refund for. Joe also says the Arbiter's dance is called "the Mordenkainen" where he's from.
+**[[Characters/Mordenkainen|Mordenkainen]]**. Mentioned by Joe as the source of a "ropey" multi-universal connection he wants a refund for. Joe also says the Arbiter's dance is called "the Mordenkainen" where he's from.
 
 ### Places
-- **The Dread Fortress dungeons and catacombs**, with **the Arbiter's lab**. Also mentioned: "the Grandmaster's Barrow" [?], the hearths and halls.
-- **Farcheck's abandoned black-powder camp** (the arena): sand, tents, barrels and clay pots of black powder, a raised top area, a wooden back structure. Called "an old classic, one of your favorites."
-- **The scrap-metal room** where Steely Dan's parts lie (Dried Blood).
+- **[[Places/The Dread Fortress dungeons and catacombs|The Dread Fortress dungeons and catacombs]]**, with **the Arbiter's lab**. Also mentioned: "the Grandmaster's Barrow" [?], the hearths and halls.
+- **[[Places/Farcheck's abandoned black-powder camp|Farcheck's abandoned black-powder camp]]** (the arena): sand, tents, barrels and clay pots of black powder, a raised top area, a wooden back structure. Called "an old classic, one of your favorites."
+- **[[Places/The scrap-metal room|The scrap-metal room]]** where Steely Dan's parts lie (Dried Blood).
 - "The woods, down the block" (Milliac's home). "The big city" (Joe's).
 
 ### Items

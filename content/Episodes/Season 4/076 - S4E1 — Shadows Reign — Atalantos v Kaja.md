@@ -114,57 +114,57 @@ Creator notes (out-of-character):
 
 ## Who and what appears
 ### Characters
-**Atalantos** (Sensei_Suplex). Raised from his sarcophagus by the Shadow King's cursed magic, his body covered in shadowy etherealness.
+**[[Characters/Atalantos|Atalantos]]** (Sensei_Suplex). Raised from his sarcophagus by the Shadow King's cursed magic, his body covered in shadowy etherealness.
 - A human **Blood Hunter** who calls himself "the spear of Cor'thun" and fights "for Cor'thun." He carries a spear and shield, plus a greatsword on his back: **the spear of Cor'thun becomes "the blade of Cor'thun."**
 - **One divine golden eye and one shadow-infested eye**, which the Shadow King calls a kinship ("one shadow being to another").
 - Has a "dusty old" first dagger from his uncle, which he gave to Robert Hartley's soul. Wins the Death Club robe-of-eyes crop top.
 - Calls himself "an old man." Creed: "every scar is a lesson." He longs for a glorious warrior's death and dies happy and proud.
 - In this episode: Rite of the Frozen, Blood Curses of the Eyeless and the Fallen Puppet, the Brand of Castigation (the symbol of Cor'thun), Shield Master shoves, Tides of Vitality. Healed by the Shadow King's blood. Killed by Kaja.
 
-**Kaja** (stellalunaTV). Raised alongside Atalantos. She says she was "having such a great time on the other side."
+**[[Characters/Kaja|Kaja]]** (stellalunaTV). Raised alongside Atalantos. She says she was "having such a great time on the other side."
 - Warlock: **Form of Dread** (a dress of shadows, ghostly hands, an undead face) and an **otherworldly guise** (bone wings; immune to fire and poison, and to necrotic during the fight).
 - Spells: Eldritch Blast, Vampiric Touch, Danse Macabre (skeletons).
 - A ballroom dancer ("the more experienced dancer should lead"). Atalantos calls her "a general."
 - Speaks of "my mistress" (who is not said). **Lost an ear to Atalantos.** Branded with the symbol of Cor'thun.
 - Killed Atalantos. Pierced the Shadow King with a flame Sword of Cor'thun. **Her head was twisted off by the Shadow King.**
 
-**The Shadow King** (Drew). Elusia's uncle, back in power over the Dread Fortress; this is his "first time" hosting a Deathmatch.
+**[[Characters/The Shadow King|The Shadow King]]** (Drew). Elusia's uncle, back in power over the Dread Fortress; this is his "first time" hosting a Deathmatch.
 - Raised Atalantos and Kaja with cursed magic and studied "what became of everyone after our little spat years ago."
 - Gave Elusia the cursed plane-opening amulet. Calls the obelisk arena "my home." Imported its door "from France… an age ago."
 - **Rebuilt the Box of Chaos by putting Robert Hartley's soul in an empty box.**
 - Can turn incorporeal and teleport through shadow, and controls the blood.
 - Rolled a nat 1 on his first chaos roll. Killed Kaja as Elusia's "birthday gift."
 
-**Elusia Skypiercer** (Bec). A captive: weights on her ankles, wrists and neck, gold rune bracelets, **no crown**.
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Bec). A captive: weights on her ankles, wrists and neck, gold rune bracelets, **no crown**.
 - Her restraints also limit what she can say. Her feet froze when she tried to approach her friends.
 - **Today is her birthday. Something bloody happened on her 13th.**
 - Calls the Box of Chaos the Shadow King's former job ("You were the box of chaos").
 - Tried and failed to steal the sword, then punched the Shadow King through his incorporeal chest.
 
-**Theodore** — the goblin servant who serves Kaja tea (Earl Grey) and gives d4 inspiration. "Very nice." Not to be hit.
+**[[Characters/Theodore|Theodore]]** — the goblin servant who serves Kaja tea (Earl Grey) and gives d4 inspiration. "Very nice." Not to be hit.
 
-**Robert Hartley ("Rob")** — an Acolyte whose soul the Shadow King ripped out to power the new Box of Chaos. "I was sold in a box." His soul is weak and may last only one match. Gave out the robe of eyes.
+**[[Characters/Robert Hartley|Robert Hartley ("Rob")]]** — an Acolyte whose soul the Shadow King ripped out to power the new Box of Chaos. "I was sold in a box." His soul is weak and may last only one match. Gave out the robe of eyes.
 
-**Prince Vegeta** — an Acolyte stabbed in the heart by the thrown Sword of Cor'thun. Possibly alive (Bec, Dried Blood). Pronouns are unclear: Bec says "she."
+**[[Characters/Prince Vegeta|Prince Vegeta]]** — an Acolyte stabbed in the heart by the thrown Sword of Cor'thun. Possibly alive (Bec, Dried Blood). Pronouns are unclear: Bec says "she."
 
-**Earl** — of the Caffeine Clan, Kaja's tea-joke "warrior." Atalantos wants to fight him.
+**[[Characters/Earl|Earl]]** — of the Caffeine Clan, Kaja's tea-joke "warrior." Atalantos wants to fight him.
 
-**The pug** — the usual roller, absent; its tiny throne sits empty.
+**[[Characters/The pug|The pug]]** — the usual roller, absent; its tiny throne sits empty.
 
-**The door mimic** — the eye-locked door of the obelisk. It demands a knock, fires lasers, and bites.
+**[[Characters/The door mimic|The door mimic]]** — the eye-locked door of the obelisk. It demands a knock, fires lasers, and bites.
 
 ### Places
-- **The Void in turmoil**: storms, fire and hail, tornadoes, earthquakes, multicoloured lightning.
-- **The Dread Fortress** amid constant volcanic eruptions. Reachable only by magic. The Shadow King's throne room is redecorated in his theme.
-- **The Shadow King's old home**: an obelisk covered in blood-drinking red vines, with a pool of blood, floating corpses, blood worms, pillars (lightning rods for the night) and a railing.
-- **Cor'thun**: its battlefield screams, its symbol, and its spear, blade and sword.
+- **[[Places/The Void in turmoil|The Void in turmoil]]**: storms, fire and hail, tornadoes, earthquakes, multicoloured lightning.
+- **[[Places/The Dread Fortress|The Dread Fortress]]** amid constant volcanic eruptions. Reachable only by magic. The Shadow King's throne room is redecorated in his theme.
+- **[[Places/The Shadow King's old home|The Shadow King's old home]]**: an obelisk covered in blood-drinking red vines, with a pool of blood, floating corpses, blood worms, pillars (lightning rods for the night) and a railing.
+- **[[Places/Cor'thun|Cor'thun]]**: its battlefield screams, its symbol, and its spear, blade and sword.
 
 ### Items
 - The cursed plane-opening amulet. The gold rune bracelets and weights.
-- **The new Box of Chaos (Robert Hartley's soul)**.
+- **[[Items/The new Box of Chaos (Robert Hartley's soul)|The new Box of Chaos (Robert Hartley's soul)]]**.
 - The robe of eyes as a dingy yellow Death Club crop top.
 - Atalantos's first dagger.
-- **The Sword of Cor'thun**, now in the Void and lodged in an Acolyte.
+- **[[Items/The Sword of Cor'thun|The Sword of Cor'thun]]**, now in the Void and lodged in an Acolyte.
 - Theodore's tea.
 
 ### Lore statements

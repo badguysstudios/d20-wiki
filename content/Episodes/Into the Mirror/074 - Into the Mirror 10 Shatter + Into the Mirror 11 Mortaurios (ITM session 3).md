@@ -144,7 +144,7 @@ tags: [episode, into-the-mirror]
 
 ## Who and what appears
 ### Characters
-**Flynry** (BdTeej). He has been in the Sands for years ("an eon").
+**[[Characters/Flynry|Flynry]]** (BdTeej). He has been in the Sands for years ("an eon").
 - He carries a **greatsword with a mirror surface** that shows a person's true inner self. It manifested right after he killed his first sand creature, and it can burst into **blue flame**.
 - He wears it on a backboard sheath with a cup for the point.
 - He has a beast-like side ("primitive beast-like roots from the real world") and partially shifted in grief.
@@ -153,56 +153,56 @@ tags: [episode, into-the-mirror]
 - **Toddleheim is "his best friend, number one."** He holds Cerys responsible for Locket's death.
 - He remembers Kenny's gambling game from his first day.
 
-**Locket** (Miss_Magitek). Killed by Cerys's stray arrow through the throat; she turned to sand in Flynry's arms. Elianna keeps her sand in a bag, and no soul shard was found.
+**[[Characters/Locket|Locket]]** (Miss_Magitek). Killed by Cerys's stray arrow through the throat; she turned to sand in Flynry's arms. Elianna keeps her sand in a bag, and no soul shard was found.
 
-**Toddleheim** (Ahnubyss). A dwarf "here."
+**[[Characters/Toddleheim|Toddleheim]]** (Ahnubyss). A dwarf "here."
 - Has a werewolf form, which he can now control at will after seeing his inner self in the mirror.
 - His inner self is the old, wise, content wizard. He regained some youth from a magic item.
 - He saw a mirage of Locket comforting him. He tolerates Cerys: "I don't like her, but she's all right."
 
-**Elianna** (ParallaxStella). A librarian who "didn't get out much".
+**[[Characters/Elianna|Elianna]]** (ParallaxStella). A librarian who "didn't get out much".
 - Says she "was sent here to protect you."
 - Keeps a notebook and sketches everything. Casts sleep.
 - Killed two sleeping outlanders with a dagger, praying over each. Wants to go home.
 
-**Cerys** (Miss_Magitek). An Aasimar (Scourge) with Radiant Consumption, a longsword and a shield.
+**[[Characters/Cerys|Cerys]]** (Miss_Magitek). An Aasimar (Scourge) with Radiant Consumption, a longsword and a shield.
 - **From "a part of" the Void long ago; she was killed and arrived in the Sands.** Her friends here died and became sand.
 - Seeks vengeance on whoever made this place and wants to return.
 - Her inner self is angelic and white-winged.
 - She knows the city's name and how to summon its portal.
 - **Her arrow killed Locket.**
 
-**Bronn**. Captain of the royal guard of Mortaurios.
+**[[Characters/Bronn|Bronn]]**. Captain of the royal guard of Mortaurios.
 - Has been there "centuries"; time no longer exists for him. "New to command", thrust upon him by their majesties.
 - His reflection shows him small and burdened. He diagnoses "sandsickness."
 
-**The outlanders**. Four desert raiders who toyed with Cerys; she calls them "outlanders."
+**[[Characters/The outlanders|The outlanders]]**. Four desert raiders who toyed with Cerys; she calls them "outlanders."
 - The archer with the heavy bow: decapitated by Flynry.
 - The spear and javelin wielder: killed by Cerys.
 - One in purple clothes: killed by Elianna.
 - A **Tabaxi** with hand crossbows: killed by Elianna.
 - All turned to sand.
 
-**Their Majesties**. The king and queen of Mortaurios, who "keep tabs on the populace." Seen only as two figures on thrones.
+**[[Characters/Their Majesties|Their Majesties]]**. The king and queen of Mortaurios, who "keep tabs on the populace." Seen only as two figures on thrones.
 
-**Kenny**. Ran a gambling game on Flynry's first day. Remembered voice: "I'm not vaccinated!"
+**[[Characters/Kenny|Kenny]]**. Ran a gambling game on Flynry's first day. Remembered voice: "I'm not vaccinated!"
 
-**The sand minotaur**. The first creature Flynry met in the Sands; he cut it in half.
+**[[Characters/The sand minotaur|The sand minotaur]]**. The first creature Flynry met in the Sands; he cut it in half.
 
 ### Places
-- **The Sands of Eternity**: where the dead from the Void arrive. **Death here is final; you become sand.**
-- **Mortaurios** (spelled "Moritorios"/"Moratorios" at the table).
+- **[[Places/The Sands of Eternity|The Sands of Eternity]]**: where the dead from the Void arrive. **Death here is final; you become sand.**
+- **[[Places/Mortaurios|Mortaurios]]** (spelled "Moritorios"/"Moratorios" at the table).
   - A walled desert city on a miles-wide trapezoidal platform, reached by speaking its name in the desert.
   - Crowded bazaars, paved streets and a social hierarchy. No children, little wildlife.
-- **The ziggurat**: the central pyramid with a crystal beaming light skyward. Inside, a chasm of bridges, floating star-motes and a mirror light system around a blue palace with a throne hall.
-- **The Void**: named by Drew as the realms of the Dread Fortress, "an amalgamation of lost worlds."
+- **[[Places/The ziggurat|The ziggurat]]**: the central pyramid with a crystal beaming light skyward. Inside, a chasm of bridges, floating star-motes and a mirror light system around a blue palace with a throne hall.
+- **[[Lore/The Void|The Void]]**: named by Drew as the realms of the Dread Fortress, "an amalgamation of lost worlds."
 
 ### Items
 - Flynry's mirror greatsword.
 - Elianna's bag of Locket's sand.
 - Flynry's quarter-sized soul gem.
 - The outlander archer's heavy bow.
-- **Soul gems**: soul fragments used as currency, rumored to still hold souls and have arcane uses.
+- **[[Items/Soul gems|Soul gems]]**: soul fragments used as currency, rumored to still hold souls and have arcane uses.
 - The royal guard crest, shaped like the ziggurat's crystal/gem.
 
 ### Lore statements

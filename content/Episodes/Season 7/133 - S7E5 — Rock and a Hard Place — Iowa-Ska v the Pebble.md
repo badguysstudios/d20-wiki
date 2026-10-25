@@ -319,7 +319,7 @@ tags: [episode, season-7]
 
 ## Who and what appears
 ### Characters
-**Iowa-Ska** (CaptainRoBear; heard on mic as "Ayahuasca," also "Iowa Scott," "Iosca," "Isla Ska").
+**[[Characters/Iowa-Ska|Iowa-Ska]]** (CaptainRoBear; heard on mic as "Ayahuasca," also "Iowa Scott," "Iosca," "Isla Ska").
 - **Who he is:**
   - **A green dragonborn fighter**, mid-forties, after "30 years in middle management." Dad-bod gut; full tropical-feather headdress; Conan-style loincloth.
   - **He has three eyes**, per the Pebble, all crooked; his "third eye is opening."
@@ -334,7 +334,7 @@ tags: [episode, season-7]
 - **Body lore:** says dragonborn don't use condoms. Hinted at two/bent anatomy as jokes; saw off the freeze with a "steam vent." Shrimp-pattern burn scars on his face from the hibachi.
 - **In this episode:** won. Killed the Pebble while hallucinating him as Destiny 1 and 2.
 
-**The Pebble** (SenseiSuplex).
+**[[Characters/The Pebble|The Pebble]]** (SenseiSuplex).
 - **Who he is:**
   - **A four-foot-tall, very muscular dwarf**, a **glacier dwarf from the snowy tundras of the Azure Valley** with ice/frost powers.
   - **Bard and monk.** Pro wrestler persona: shades, leather jacket, signature microphone, steel chairs, the People's Elbow, promos read off his hand.
@@ -349,47 +349,47 @@ tags: [episode, season-7]
   - **Killed by Iowa-Ska**, then dragged off by Thea, who gave him "a small potion" in the locker room. Inferred revival: "It'll one day be your time."
   - Dried Blood: "the Pebble is only a call away."
 
-**Imbe** (character of a community member heard as "Kuman"; transcript also "Embe," "Enfei"). An eight-foot minotaur "built like an ox," with a robotic-looking arm and blue-glowing runes on his chest. The Pebble's rival, in the crowd. He was hot-tagged in, grappled by Iowa-Ska and tied up in a messy clove hitch.
+**[[Characters/Imbe|Imbe]]** (character of a community member heard as "Kuman"; transcript also "Embe," "Enfei"). An eight-foot minotaur "built like an ox," with a robotic-looking arm and blue-glowing runes on his chest. The Pebble's rival, in the crowd. He was hot-tagged in, grappled by Iowa-Ska and tied up in a messy clove hitch.
 
-**The Boulder**. The Pebble's father. He appears in the clouds giving a thumbs up after the nat 20.
+**[[Characters/The Boulder|The Boulder]]**. The Pebble's father. He appears in the clouds giving a thumbs up after the nat 20.
 
-**Thea** (Bec). The Arbiter's helper, an impish creature with a "pig-like," "potato-like" body and unimpressive wings.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Arbiter's helper, an impish creature with a "pig-like," "potato-like" body and unimpressive wings.
 - Helps design the Dread Fortress labyrinth. Forgot to get the champions and brought "two really good friends… weird" (inferred: these are Iowa-Ska and the Pebble).
 - "Too stupid to be held accountable."
 - Did karaoke on a stolen mic and was outscreamed. She owed the Pebble a one-time call and shielded him; got poison-condom-ballooned; clamped the halberd with her butt and rode it.
 - Did burnouts with Iowa-Ska. Carried the dead Pebble off with a potion.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Designs labyrinths ("no toilets"). Teleported in, was told off, and teleported outside to knock.
 - "Sent a pamphlet." **Steel chairs are "my thing"**; he keeps a rusty, "seasoned," bloody metal chair, the subject of Reddit posts.
 - Rolled 2 and 3 for chaos. Lost his new shiny chairs to Doug until Christmas. Insulted Doug and was sent to the corner, where he sat on his own chair facing the GM.
 - Wants a raise. White glowing wings.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Throne room etiquette: knock.
 - Allowed the tag-team. Promised the Arbiter new chairs for Christmas (two, three). Gave "the Grandmaster's blessing" (±3).
 - Protects Doug. "Thank God I don't have balls." On dragonborn: "very distant cousins" of lizards, and old textbooks say they have cloacas.
 
-**Doug the Pug**. Pulled the set of new metal chairs on a rope. "He can't even breathe correctly."
+**[[Characters/Doug the Pug|Doug the Pug]]**. Pulled the set of new metal chairs on a rope. "He can't even breathe correctly."
 
-**The chinchillas of Chinchilla Forest**. Moose-sized chinchillas that roll in talcum-powder pools and are **unionized** ("My union rep's going to hear about this… It's canon").
-- **Frank, the lead chinchilla**, who smokes and has sciatica.
+**[[Characters/The chinchillas of Chinchilla Forest|The chinchillas of Chinchilla Forest]]**. Moose-sized chinchillas that roll in talcum-powder pools and are **unionized** ("My union rep's going to hear about this… It's canon").
+- **[[Characters/Frank|Frank, the lead chinchilla]]**, who smokes and has sciatica.
 - A regular-size chinchilla hibachi chef.
 - They take a regulated union lunch break.
 
-**The Acolytes**. They throw emotes, award heroic surges and adrenaline (blue slushies), and include "Pebble-ites." An old lady fainted at the Pebble's oiled muscles.
+**[[Lore/The Acolytes|The Acolytes]]**. They throw emotes, award heroic surges and adrenaline (blue slushies), and include "Pebble-ites." An old lady fainted at the Pebble's oiled muscles.
 
 ### Places
-- **The Dread Fortress**: "this orc skull that is the Dread Fortress," cold stone halls above a bubbling lava field, with a labyrinth under design.
-- **The throne room (Dread Fortress)**: has a door; the GM insists on knocking.
-- **Chinchilla Forest** (the arena): tall trees, fresh air, ground that drinks blood, a chinchilla den, talcum-powder pools, and a ring of Acolyte stands above the opened canopy.
-- **The Azure Valley**: the snowy tundras the Pebble hails from.
-- **Iowa** ("The state of Iowa sucks").
-- **The locker room**, where Thea takes the Pebble.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: "this orc skull that is the Dread Fortress," cold stone halls above a bubbling lava field, with a labyrinth under design.
+- **[[Places/Throne Room (Dread Fortress)|The throne room (Dread Fortress)]]**: has a door; the GM insists on knocking.
+- **[[Places/The Chinchilla Forest|Chinchilla Forest]]** (the arena): tall trees, fresh air, ground that drinks blood, a chinchilla den, talcum-powder pools, and a ring of Acolyte stands above the opened canopy.
+- **[[Places/The Azure Valley|The Azure Valley]]**: the snowy tundras the Pebble hails from.
+- **[[Places/Iowa|Iowa]]** ("The state of Iowa sucks").
+- **[[Places/The locker room|The locker room]]**, where Thea takes the Pebble.
 
 ### Items
 - The Pebble's signature microphone and steel chair (it bent and turned lollipop-swirled).
-- **The Arbiter's rusty/bloody metal chair; the new shiny metal chairs**, withheld until Christmas.
+- **[[Items/The Arbiter's rustybloody metal chair; the new shiny metal chairs|The Arbiter's rusty/bloody metal chair; the new shiny metal chairs]]**, withheld until Christmas.
 - Iowa-Ska's Vespa (scratched), halberd, eBay compound bow, javelins, magnum condom (used as a poison balloon), and supplements.
 - Ice ropes and turnbuckles raised by the Pebble.
 - Hibachi shrimp.

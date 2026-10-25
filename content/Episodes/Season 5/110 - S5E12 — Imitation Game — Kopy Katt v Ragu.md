@@ -270,7 +270,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Kopy Katt / "Copycat"** (Cat). A returning champion and identity thief.
+**[[Characters/Copycat|Kopy Katt / "Copycat"]]** (Cat). A returning champion and identity thief.
 - **Appearance and gear:**
   - Wears a paper bag over her head, replaced mid-fight with a reusable D20 Deathmatch bag.
   - **A trash bag over duct tape and fishnets.** She has never taken the trash bag off. Yellow boots.
@@ -285,7 +285,7 @@ tags: [episode, season-5]
 - **She had given the box's shadowy figure his new box.** Here she gave him a USB-like chip, her trash bag and the Lord of Fate's phone, and asked him to coffee.
 - She said "This might be my last fight." **She died by her own can opener on a natural 1** and was dragged off by goblins.
 
-**Ragu** (Big Cheese). Returning champion with one prior win, famed for the **"Ragu squat."**
+**[[Characters/Ragu|Ragu]]** (Big Cheese). Returning champion with one prior win, famed for the **"Ragu squat."**
 - **Fighting style:** nunchucks (a left-hand "surprise"), "a professional string dodger" whose dodging is "all in the shoulders." His signature move is the **super whirlwind fart explosion**, now on "number five."
 - **Family:**
   - **Married to Prego**, whose favorite vegetable is onion.
@@ -295,7 +295,7 @@ tags: [episode, season-5]
 - **Won the Arbiter's Rings from the Box of Chaos** by sacrificing his summoned mechanical bull.
 - Calls Copycat "an artificial idiot." **Won the fight.**
 
-**The Lord of Fate** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
 - Has a large painting of himself in the library.
 - Cancelled his credit cards by 1980s telephone. **Lost his phone to Copycat** and offers a reward for it.
 - Claims about his past and power:
@@ -305,37 +305,37 @@ tags: [episode, season-5]
 - Took a Polaroid of Copycat's real face "for later."
 - **Summons the Box of Chaos with multicolored lightning into the chaos storms.**
 
-**Thea** (Bec). Pink imp with pink hair, pink wings and a tail usable as a slingshot grip.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). Pink imp with pink hair, pink wings and a tail usable as a slingshot grip.
 - **Halloween:** tried to wear four costumes at once; "Halloween lives in your spirit."
 - **Food:** ate all the hot dogs. **Lactose intolerant.** Eats ankles. "Don't feed the Thea."
 - **Stars:** has stars on her forehead, which the copy removed and the Lord of Fate partly restored.
 - **Gifts:** gold stickers from "the other Lord of Fate," **a spare brain she named Sarah**, and a social security number of 16.
 - Can open portals ("almost as good as yours"). **Was used as a fart gun and thrown at Copycat.**
 
-**Doug (the pug)**. Kept shackled in the dungeons.
+**[[Characters/Doug the Pug|Doug (the pug)]]**. Kept shackled in the dungeons.
 - Wore a sloth onesie "with no bones."
 - Chortled at the Lord of Fate's baby photo and was banished.
 - **The "Free Doug" chant got him back in a floating spinning cage.**
 
-**The shadowy figure in the Box of Chaos** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
 - "Just like a soul," with no body.
 - **"I used to be a shadow,"** and he knows the Lord of Fate's phone passcode.
 - Lives in **a newer, more spacious box that Kopy Katt gave him**, minimalist, with his stuff piled in the corner. He can't leave the box.
 - Gave Ragu the Arbiter's Rings and Copycat the Grandmaster's bow.
 - Received Copycat's chip, trash bag and phone.
 
-**Prego**. Ragu's wife, seen only as Copycat's mask. Favorite vegetable: onion.
+**[[Characters/Prego|Prego]]**. Ragu's wife, seen only as Copycat's mask. Favorite vegetable: onion.
 
-**Sarah**. Copycat's spare brain, now Thea's.
+**[[Characters/Sarah|Sarah]]**. Copycat's spare brain, now Thea's.
 
-**Goblins**. The arena crew. They drag off the dead, defibrillate them, draw faces, and shampoo hair.
+**[[Characters/Goblins|Goblins]]**. The arena crew. They drag off the dead, defibrillate them, draw faces, and shampoo hair.
 
-**Hans**. Mentioned only in "Poor Hans is just left out there in the cold." Unresolved.
+**[[Characters/Hans|Hans]]**. Mentioned only in "Poor Hans is just left out there in the cold." Unresolved.
 
 **"Jota"**. Drew voices "Jota has questions" about how Copycat breathed. Unresolved.
 
 ### Places
-- **The Dread Fortress**: a subterranean castle inside a giant skull in a lava field. Rooms named this episode:
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: a subterranean castle inside a giant skull in a lava field. Rooms named this episode:
   - the library, with a large painting of the Lord of Fate;
   - the kitchen;
   - the brewery downstairs;
@@ -344,18 +344,18 @@ tags: [episode, season-5]
   - the throne room;
   - the dungeons (which have a bathroom);
   - mega screens throughout.
-- **The Crimson Keep (spelling uncertain)**: the arena, a dark castle top with moon and bats.
-- **The locker room**: Dried Blood only.
+- **[[Places/The Crimson Keep (spelling uncertain)|The Crimson Keep (spelling uncertain)]]**: the arena, a dark castle top with moon and bats.
+- **[[Places/The locker room|The locker room]]**: Dried Blood only.
 - The Bahamas: Ragu's holiday.
 
 ### Items
-- **The old Box of Chaos**: Copycat's chest of tricks.
-- **The new Box of Chaos**: home of the shadowy figure.
-- **The Arbiter's Rings**: once the Lord of Fate's. It resizes to fit, and grants one round as "master of time and space," giving the opponent disadvantage. It cannot undo more than a few seconds.
-- **The Grandmaster's bow**: crit on 19s, permanent, shape-shifts. Copycat used it as a giant can opener.
+- **[[Items/The old Box of Chaos|The old Box of Chaos]]**: Copycat's chest of tricks.
+- **[[Items/The new Box of Chaos|The new Box of Chaos]]**: home of the shadowy figure.
+- **[[Items/The Arbiter's Rings|The Arbiter's Rings]]**: once the Lord of Fate's. It resizes to fit, and grants one round as "master of time and space," giving the opponent disadvantage. It cannot undo more than a few seconds.
+- **[[Items/The Grandmaster's bow|The Grandmaster's bow]]**: crit on 19s, permanent, shape-shifts. Copycat used it as a giant can opener.
 - The photo album: Ragu's and the Lord of Fate's baby photos, with Copycat's fake info in the back.
 - The Prego mask.
-- **Copycat's microchip / USB card**: in Dried Blood it holds "How to Be a Copycat by Copycat."
+- **[[Items/Copycat's microchip|Copycat's microchip / USB card]]**: in Dried Blood it holds "How to Be a Copycat by Copycat."
 - Other things in play:
   - the Lord of Fate's cell phone;
   - the Polaroid of Copycat's real face;

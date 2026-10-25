@@ -142,7 +142,7 @@ tags: [episode, season-2]
 
 ## Who and what appears
 ### Characters
-**Glub Glub** (Dave / carefulcantrip). A **hobgoblin**, "smartest of Hobgoblin tribe, smarter than Chieftain." He speaks in broken third person.
+**[[Characters/Glub Glub|Glub Glub]]** (Dave / carefulcantrip). A **hobgoblin**, "smartest of Hobgoblin tribe, smarter than Chieftain." He speaks in broken third person.
 - **Background:**
   - Says he made the wheel and the claw, but "make no friend."
   - Went to **college**, where he was a science major ("experimental time"). He had a girlfriend there who did the butt-tickling "once."
@@ -166,7 +166,7 @@ tags: [episode, season-2]
   - Lost to Geril-Lee and gave her Bony with his dying words.
   - Dragged off by the ankle by the Arbiter.
 
-**Geril-Lee** (AJ / winterstales). Small; Glub Glub calls her "halfling," "small one," "tiny puppet girl," "puny puppet thing." Timid at first ("I'm scared"), with fierceness beneath.
+**[[Characters/Geril-Lee|Geril-Lee]]** (AJ / winterstales). Small; Glub Glub calls her "halfling," "small one," "tiny puppet girl," "puny puppet thing." Timid at first ("I'm scared"), with fierceness beneath.
 - **Looks:** **eight tongue piercings**. Long, luscious raven hair until she sacrificed it to the Box; now she "look[s] like a rabid animal."
 - **Fighting style:**
   - Twin daggers, acrobatic backflips, Uncanny Dodge and sneak attack.
@@ -178,7 +178,7 @@ tags: [episode, season-2]
   - **Bony**, inherited from Glub Glub.
   - The Grandmaster lifted her up to the Acolytes as the winner.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Throws a dagger between the eyes of her **great-great-grandfather Skypiercer's** portrait. She hated him, but he loved a good fight.
 - Recalls growing up in the arena, battling and practicing daily for her legacy.
 - Writes champions' histories "among the wall."
@@ -186,27 +186,27 @@ tags: [episode, season-2]
 - Calls herself "a man of science."
 - Blesses Glub Glub's walrus butthole and calls a med break for a splinter.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Rips a portal open with one finger.
 - Employs a crow guy, **Terry**, who is "out of business" because of the recession.
 - Flares his wings to raise the flood.
 - **Beat Doug at rolling for the first time in ~25 tries**, and claims he now (metaphorically) holds the treats. Says he'd kill Doug "if he wasn't already dead."
 - Told by Elusia that he "haven't been here that long."
 
-**Doug the pug.** Lies on a throne as large as the Grandmaster's beside her ("bones day or not"). He rolls d20s with his mouth for the Arbiter. **His barking echoed through the forest and magically wild-shaped both champions.**
+**[[Characters/Doug the Pug|Doug the pug.]]** Lies on a throne as large as the Grandmaster's beside her ("bones day or not"). He rolls d20s with his mouth for the Arbiter. **His barking echoed through the forest and magically wild-shaped both champions.**
 
 
-**The vultures.** Two parents defending a nest. One pooped on Glub Glub.
+**[[Characters/The vultures|The vultures.]]** Two parents defending a nest. One pooped on Glub Glub.
 
-**The weasel** ("the sack weasel, the tainted warrior"). From the Bag of Tricks; killed by Glub Glub.
+**[[Characters/The weasel|The weasel]]** ("the sack weasel, the tainted warrior"). From the Bag of Tricks; killed by Glub Glub.
 
-**The Unseen Servant** ("the butt tickler"). Dissipated by a punch.
+**[[Characters/The Unseen Servant|The Unseen Servant]]** ("the butt tickler"). Dissipated by a punch.
 
-**The ant.** Summoned by Annoyance. It crawled through Glub Glub's short and curlies and into his butthole, then was politely extracted by Geril-Lee.
+**[[Characters/The ant|The ant.]]** Summoned by Annoyance. It crawled through Glub Glub's short and curlies and into his butthole, then was politely extracted by Geril-Lee.
 
 ### Places
-- **The Grandmaster's chambers** in the Dread Fortress (the subterranean castle in a lava field). The stones are sacred and hard to clean of blood.
-- **The Grandmaster's great-grandfather's old hunting grounds**:
+- **[[Places/The Grandmaster's chambers|The Grandmaster's chambers]]** in the Dread Fortress (the subterranean castle in a lava field). The stones are sacred and hard to clean of blood.
+- **[[Places/The Grandmaster's great-grandfather's old hunting grounds|The Grandmaster's great-grandfather's old hunting grounds]]**:
   - old trees that "have seen many battles";
   - a roaring waterfall;
   - a broken stone bridge;
@@ -214,9 +214,9 @@ tags: [episode, season-2]
   The Acolytes' grandstands are straight up above the sky.
 
 ### Items
-- **The Box of Chaos** ("the good chaos box"). It burns pink and yellow even underwater, and gives a random magic item for a sacrifice. This time it took Geril-Lee's hair. The Grandmaster distinguishes it from **"the no-no box. We do not touch the no-no box."**
-- **Gray Bag of Tricks**: Geril-Lee's prize.
-- **The giant emerald D20**: fell from the sky like a meteor. Its properties were never learned. It washed to the western shoreline.
+- **[[Lore/The Box of Chaos|The Box of Chaos]]** ("the good chaos box"). It burns pink and yellow even underwater, and gives a random magic item for a sacrifice. This time it took Geril-Lee's hair. The Grandmaster distinguishes it from **"the no-no box. We do not touch the no-no box."**
+- **[[Items/Gray Bag of Tricks|Gray Bag of Tricks]]**: Geril-Lee's prize.
+- **[[Items/The giant emerald D20|The giant emerald D20]]**: fell from the sky like a meteor. Its properties were never learned. It washed to the western shoreline.
 - The Skypiercer portrait, now with a dagger in it.
 - Boom Boom, Bony, the goggles and the great club (Glub Glub).
 

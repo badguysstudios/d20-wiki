@@ -44,24 +44,24 @@ tags: [episode, season-1]
 - **Mageic's sign-off (in character):** "You can reach out to Jerry, my manager… I've done Neverwinter, I've done Baldur's Gate, I've done Waterdeep… up and down the Sword Coast."
 
 ## Who and what appears
-**Mageic** (ArcaneAdamTV). "The magician"; a sorcerer with Stone's Endurance (goliath-like), muscles, low intelligence (counts his steps aloud); illusions, invisibility, thunderclap, calm emotions, phantasmal force, dissonant whispers, slow, blight, arms of Hadar, cone of cold (subtle spell). Stage patter; insists on handshakes and professional courtesy. Manager **Jerry** (paperwork, contracts). Has toured Neverwinter, Baldur's Gate and Waterdeep on the Sword Coast. Shook the cursed doll's hand and bore its rune until Dolly broke. Ate a floor hot dog. Face scarred by Amren's burning hands. **Victor.** Has an undisclosed secret.
+**[[Characters/Mageic|Mageic]]** (ArcaneAdamTV). "The magician"; a sorcerer with Stone's Endurance (goliath-like), muscles, low intelligence (counts his steps aloud); illusions, invisibility, thunderclap, calm emotions, phantasmal force, dissonant whispers, slow, blight, arms of Hadar, cone of cold (subtle spell). Stage patter; insists on handshakes and professional courtesy. Manager **Jerry** (paperwork, contracts). Has toured Neverwinter, Baldur's Gate and Waterdeep on the Sword Coast. Shook the cursed doll's hand and bore its rune until Dolly broke. Ate a floor hot dog. Face scarred by Amren's burning hands. **Victor.** Has an undisclosed secret.
 
-**Amren Scorsia** (Miss_Magitek). Fire genasi from the Elemental Plane of Fire; flaming hair that flares when angry ("like Hades"); long black staff with a red gem; lava-skin armor (mage armor); sorcerer (Strength of the Grave). Proud, hates being called an assistant, wants a worthy fight. **Died in the lava, left as a lava statue; secretly remolded from lava by the Arbiter "into the perfect weapon."** (One of his secret recruits.)
+**[[Characters/Amren Scorsia|Amren Scorsia]]** (Miss_Magitek). Fire genasi from the Elemental Plane of Fire; flaming hair that flares when angry ("like Hades"); long black staff with a red gem; lava-skin armor (mage armor); sorcerer (Strength of the Grave). Proud, hates being called an assistant, wants a worthy fight. **Died in the lava, left as a lava statue; secretly remolded from lava by the Arbiter "into the perfect weapon."** (One of his secret recruits.)
 
-**Dolly Parton (the porcelain doll).** Chaos-event doll: lullabies, eyes that turn solid black, floats, a death-grip handshake that leaves a rune; "I hug with my teeth" (poisonous bite). Became Mageic's assistant; shattered by Amren's catapult; appeared again as an illusion. The Arbiter is afraid of her.
+**[[Characters/Dolly|Dolly Parton (the porcelain doll).]]** Chaos-event doll: lullabies, eyes that turn solid black, floats, a death-grip handshake that leaves a rune; "I hug with my teeth" (poisonous bite). Became Mageic's assistant; shattered by Amren's catapult; appeared again as an illusion. The Arbiter is afraid of her.
 
-**The grandmother.** A spectator thrown into the arena by someone in the crowd; died.
+**[[Characters/The grandmother|The grandmother.]]** A spectator thrown into the arena by someone in the crowd; died.
 
-**The Grandmaster.** Clumsy with knives (cut her own hand; covered it up). Owns the abandoned abbey. Grants Amren an action surge; crushes the illusion; "Managers have no role here." Threatens to punch anyone who m'ladies her.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster.]]** Clumsy with knives (cut her own hand; covered it up). Owns the abandoned abbey. Grants Amren an action surge; crushes the illusion; "Managers have no role here." Threatens to punch anyone who m'ladies her.
 
-**The Arbiter.** Target practice with an apple on his head; heals the Grandmaster; rigged the cathedral with natural gas; afraid of dolls; **secretly remakes Amren from lava.**
+**[[Characters/The Arbiter|The Arbiter.]]** Target practice with an apple on his head; heals the Grandmaster; rigged the cathedral with natural gas; afraid of dolls; **secretly remakes Amren from lava.**
 
-**Goblins.** Bring the champions to the throne room.
+**[[Characters/Goblins|Goblins.]]** Bring the champions to the throne room.
 
 ### Places
-- **The abandoned abbey**: the Grandmaster's; ornate courtyard with a large fountain, alleys, rooftops and scaffolding, a cathedral (pews, stained glass, altar, a cabinet of tinctures). Destroyed: burned, exploded, cracked, flooded with lava, which hardened with Amren's statue in it.
-- **The Dread Fortress**: food is hard to get there.
-- **Neverwinter, Baldur's Gate, Waterdeep, the Sword Coast** (Mageic's tour), **the Elemental Plane of Fire** (Amren's home).
+- **[[Places/The abandoned abbey|The abandoned abbey]]**: the Grandmaster's; ornate courtyard with a large fountain, alleys, rooftops and scaffolding, a cathedral (pews, stained glass, altar, a cabinet of tinctures). Destroyed: burned, exploded, cracked, flooded with lava, which hardened with Amren's statue in it.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: food is hard to get there.
+- **[[Places/Neverwinter, Baldur's Gate, Waterdeep, the Sword Coast|Neverwinter, Baldur's Gate, Waterdeep, the Sword Coast]]** (Mageic's tour), **the Elemental Plane of Fire** (Amren's home).
 
 ### Lore statements
 - "The pantheon of winners" / "reigning champions": winners are kept as the Grandmaster's champions.

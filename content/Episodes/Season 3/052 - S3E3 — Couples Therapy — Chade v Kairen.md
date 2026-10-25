@@ -208,7 +208,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Chade (Chaedillion) Chadian** (Joel). A very large, square-jawed, mustachioed **half-orc**.
+**[[Characters/Chade (Chaedillion) Chadian|Chade (Chaedillion) Chadian]]** (Joel). A very large, square-jawed, mustachioed **half-orc**.
 - **Class and gear:**
   - A paladin (inferred from searing smite, divine smite, Lay on Hands, aura, Shield of Faith and Vow of Enmity).
   - Full armor/chainmail and an enormous greatsword.
@@ -227,14 +227,14 @@ tags: [episode, season-3]
   - Calls their safe word mango (after first saying pineapple).
   - Says Kairen, an elf, will outlive him by thousands of years.
 
-**Kairen / Kairen Alexis Rose Chadian** (Stella). Chade's wife; **an elf rogue** with a rapier, evasion, uncanny dodge, sneak attack and expertise in performance.
+**[[Characters/Kairen|Kairen / Kairen Alexis Rose Chadian]]** (Stella). Chade's wife; **an elf rogue** with a rapier, evasion, uncanny dodge, sneak attack and expertise in performance.
 - **Adventurer and breadwinner:** gone for weeks; recently raided a dragon's hoard and brought home 1,000 gp.
 - Took Chade's last name. Doesn't know his middle name.
 - Anemic and iron-deficient; she's supposed to eat spinach.
 - Loves lavender. Her hair was burned down to "the traditional Kairen cut."
 - **Crushed a Margaret statue's head with her thighs.**
 
-**Their family**
+**[[Characters/Their family|Their family]]**
 - **Seven children:**
   - One can't walk; one has lice.
   - Some are showing magical abilities.
@@ -243,7 +243,7 @@ tags: [episode, season-3]
 - **Kaylee/Kaylie**, the first child, was conceived on the honeymoon using a purple rope. They lost that rope the day after while tying up giants.
 - **Margaret**: the 86-year-old neighbor. She bakes blueberry/buttery scones, watches the kids and is "a nice fucking lady."
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - **Wears chains and shackles and a potato-sack linen cloth.**
 - **Openly says he tried to overthrow the Grandmaster with resurrected champions.**
 - Is called "the manager"; says he placed the skulls in the arena.
@@ -252,39 +252,39 @@ tags: [episode, season-3]
 - Cancelled the kitchen contractor.
 - Took 13 psychological damage.
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Is renovating the Dread Fortress kitchen with goblin labor. She sent an email memo about it.
 - Had Doug summon the champions and floated Doug replacing the Arbiter.
 - Was embarrassed and prudish about the innuendo and retreated to her throne.
 - Mentioned "Mayor Timmy of that one asteroid we landed on."
 
-**Doug the Pug.** He plays in the kitchen pool and summoned the champions by chasing his tail. He rolled the nat 20 chaos roll with his squeaky toy. **He is undead and dislikes being called a zombie dog; he got huffy about his looks.**
+**[[Characters/Doug the Pug|Doug the Pug.]]** He plays in the kitchen pool and summoned the champions by chasing his tail. He rolled the nat 20 chaos roll with his squeaky toy. **He is undead and dislikes being called a zombie dog; he got huffy about his looks.**
 
-**Gerald** (Drew). He sits in the Box of Chaos with shadow hands and yellow eyes. He accepted the trousers, said the massager would "go well with my collection," and gave the rope. Later he watched from outside the box and threw them a wooden paddle.
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Drew). He sits in the Box of Chaos with shadow hands and yellow eyes. He accepted the trousers, said the massager would "go well with my collection," and gave the rope. Later he watched from outside the box and threw them a wooden paddle.
 
-**The chinchillas.**
+**[[Lore/Chinchillas|The chinchillas.]]**
 - 203 chinchillas in a drilling plastic ball, each with tiny knives on its back.
 - **Unionized**, with a cigarette-smoking lead chinchilla in a chariot.
 - Half went on lunch break mid-attack.
 
-**The goblins** of the Dread Fortress: renovation laborers with a strong Goblin Union.
+**[[Characters/Goblins|The goblins]]** of the Dread Fortress: renovation laborers with a strong Goblin Union.
 
-**The Margaret statues.** Three, formed from the arena statues. They explode in radiant fire when destroyed, and attack with long swinging stone breasts.
+**[[Characters/The Margaret statues|The Margaret statues.]]** Three, formed from the arena statues. They explode in radiant fire when destroyed, and attack with long swinging stone breasts.
 
-**The sausage worms.** Five wrinkly, fleshy one-eyed leech-worms. They replace the usual "small grandmas" chaos event.
+**[[Characters/The sausage worms|The sausage worms.]]** Five wrinkly, fleshy one-eyed leech-worms. They replace the usual "small grandmas" chaos event.
 
 ### Places
-- **The Dread Fortress kitchen**: under renovation, with a pool of water in the middle, a sink overflowing into it, and a load-bearing wall demolished. "A place we've seen a person die once or twice."
-- **The arena "smash room"**: a ruined lava room with a crumbling brick path 15 ft above the lava, 10-ft statues and skulls the Arbiter placed.
-- **The actual Smash Room of the Dread Fortress**: tables, paddles, swings, chains and lava.
+- **[[Places/The Dread Fortress kitchen|The Dread Fortress kitchen]]**: under renovation, with a pool of water in the middle, a sink overflowing into it, and a load-bearing wall demolished. "A place we've seen a person die once or twice."
+- **[[Places/The arena smash room|The arena "smash room"]]**: a ruined lava room with a crumbling brick path 15 ft above the lava, 10-ft statues and skulls the Arbiter placed.
+- **[[Places/The actual Smash Room of the Dread Fortress|The actual Smash Room of the Dread Fortress]]**: tables, paddles, swings, chains and lava.
 - The couple's world: their hut, the mushroom market, the adventuring school, the gym and spin class.
 - "That one asteroid" with a Mayor Timmy (unexplained).
 
 ### Items
-- **The red velvet rope of climbing** (from the Box of Chaos, d100 roll 92).
+- **[[Items/The red velvet rope of climbing|The red velvet rope of climbing]]** (from the Box of Chaos, d100 roll 92).
   - Bind command: "Hocus pocus. Tie this woman up so I can focus!"
   - Release command: "Own it, moan it, release my wife this moment."
-- **The purple tentacle-like massager**: two feet long. Activated by "abracadabra alakazam, I need you to tickle these yams." Used as a dagger to shatter a Margaret.
+- **[[Items/The purple tentacle-like massager|The purple tentacle-like massager]]**: two feet long. Activated by "abracadabra alakazam, I need you to tickle these yams." Used as a dagger to shatter a Margaret.
 - Chade's pink apron; Chade's trousers (now Gerald's); the goblin-face banana hammock.
 - Gerald's wooden paddle.
 - The 3,000-gp cooking knives; the rocks Kairen collected.

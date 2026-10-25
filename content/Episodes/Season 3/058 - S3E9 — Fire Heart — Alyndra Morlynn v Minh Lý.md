@@ -220,7 +220,7 @@ tags: [episode, season-3]
 
 ## Who and what appears
 ### Characters
-**Minh Lý, "the Freshmaker"** (DeeEMSteve). Fights bare-chested.
+**[[Characters/Minh Lý|Minh Lý, "the Freshmaker"]]** (DeeEMSteve). Fights bare-chested.
 - **Look and gear:** a longsword tied with a dainty ribbon, and a shield (given to the Box of Chaos, though "the shield of Minh" remains at the end).
 - **Abilities:** a Bladesinger who also smites and uses Lay on Hands (multiclass inferred from the smite and Lay on Hands). His spells and features:
   - Mage armor, Bladesong, booming blade, haste, Fireball, absorb elements, Shield, mirror image, vitriolic sphere and Warcaster.
@@ -232,7 +232,7 @@ tags: [episode, season-3]
 - **Box of Chaos prize:** armour of resistance (poison), worn as bicep bandanas and an ab belt.
 - **In this episode:** killed by Alyndra's Meteor Swarm, but used his last act to heal and shield her. Dried Blood leaves his death saves at one success and two fails.
 
-**Alyndra Morlynn** (Luboffin).
+**[[Characters/Alyndra Morlynn|Alyndra Morlynn]]** (Luboffin).
 - **Look and gear:** pointy ears, starlight hair, glittering too-clean star chain mail, a starlit longsword ("star sword") and a mirror-shiny shield.
 - **Abilities:** an astral elf fighter with psionic leap, a starlight teleport, psionic dice, Indomitable and action surge. She also casts Sacred Flame.
 - **Personality and lore:**
@@ -242,47 +242,47 @@ tags: [episode, season-3]
 - **Box of Chaos prize:** a 9th-level Meteor Swarm scroll (used).
 - **In this episode:** winner. She leaves holding Minh's shield, charged by the Grandmaster to "carry on his story and glory."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Plays ping pong with Doug and has never beaten him.
 - The waterfall is her favourite getaway, for books and wine.
 - Threw the small umbrella, the cold bucket of water and the muscle floaties.
 - Gave Alyndra the pep talk: the Arbiter's portal only admits the worthy.
 - Drinks are on her tonight.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - A prisoner in chains in the Dread Fortress.
 - His eyes glowed with fire, melting a ping pong ball. He hates Doug and flipped him off.
 - Photobombed the painting.
 - Brought the flood chaos.
 
-**Doug** — a cyborg zombie pug and a ping pong ace who farts at the Arbiter.
+**[[Characters/Doug the Pug|Doug]]** — a cyborg zombie pug and a ping pong ace who farts at the Arbiter.
 - Throws his squeaky D20 toy for round-end rolls.
 - Hid behind the Grandmaster's chair when the natural 20 scared him.
 
-**Chet** — Doug's older brother, a giant dog with four eyes, home from obedience training school ("went to college").
+**[[Characters/Chet|Chet]]** — Doug's older brother, a giant dog with four eyes, home from obedience training school ("went to college").
 - Was nearly poisoned by Minh's protein bar and saved by Alyndra's Heimlich.
 - Turned into a tiny eight-eyed Pomeranian, then joined Doug as "Thunder Buddies" under the throne.
 
-**Gerald** (Box of Chaos, Drew).
+**[[Items/Gerald, the Box of Chaos|Gerald]]** (Box of Chaos, Drew).
 - Yellow eyes and shadowy hands; his pink and yellow fire gives no heat.
 - Got swole from Minh's display: dumbbell curls, "skipped every leg day."
 - Waxed himself with Alyndra's starlight body glitter. Was sat on by Alyndra.
 - Wants a copy of the painting. His signature move is pretending to walk down stairs.
 
-**Theodore** — a goblin painter at the Dread Fortress. He paints in watercolour stick figures, is being sent to art school, and is paid through a work-study programme. This episode's proceeds fund his scholarship.
+**[[Characters/Theodore|Theodore]]** — a goblin painter at the Dread Fortress. He paints in watercolour stick figures, is being sent to art school, and is paid through a work-study programme. This episode's proceeds fund his scholarship.
 
-**Corrin** — an Acolyte in the nosebleed seats whose tumble granted Alyndra advantage.
+**[[Characters/Corrin|Corrin]]** — an Acolyte in the nosebleed seats whose tumble granted Alyndra advantage.
 
-**Other Acolytes:**
+**[[Characters/Other Acolytes|Other Acolytes:]]**
 - Rows K–L, including one who gifted Bless.
 - A bachelorette party.
 
-**The cackling voice** — "Stop hitting yourself!" Tied to the tingling-water chaos event; its source is unspecified.
+**[[Characters/The cackling voice|The cackling voice]]** — "Stop hitting yourself!" Tied to the tingling-water chaos event; its source is unspecified.
 
 ### Places
-- **The Dread Fortress game room** (new): ping pong, air hockey, a D&D table, arcades, neon signs ("Grandmaster forever" / "the Arbiter sucks"), a soda fountain and dog-friendly cabinets.
-- **The Grandmaster's waterfall getaway**: magical trees, fairies, fireflies, a giant tree and a fast, knee-deep river.
-- **Downstream shallows**: grassy foliage, a small rock bridge and poisonous giant strawberries.
+- **[[Places/The Dread Fortress game room|The Dread Fortress game room]]** (new): ping pong, air hockey, a D&D table, arcades, neon signs ("Grandmaster forever" / "the Arbiter sucks"), a soda fountain and dog-friendly cabinets.
+- **[[Places/The Grandmaster's waterfall getaway|The Grandmaster's waterfall getaway]]**: magical trees, fairies, fireflies, a giant tree and a fast, knee-deep river.
+- **[[Places/Downstream shallows|Downstream shallows]]**: grassy foliage, a small rock bridge and poisonous giant strawberries.
 
 ### Items
 - The Box of Chaos; "the black tome" the Arbiter consults for it.

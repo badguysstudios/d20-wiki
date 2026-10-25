@@ -348,7 +348,7 @@ tags: [episode, season-6]
 
 ## Who and what appears
 ### Characters
-**Robbie Clark & The Hunger** (player inferred as Cinder). A symbiotic pair who share one consciousness.
+**[[Characters/Robbie Clark & The Hunger|Robbie Clark & The Hunger]]** (player inferred as Cinder). A symbiotic pair who share one consciousness.
 - **Who they are:**
   - Robbie is an eight-year-old boy. **The Hunger is an Eldritch Horror** with tentacle mouths, many eyes and teeth.
   - Robbie claims "eons of knowledge… born of dying stars and wailing souls."
@@ -359,9 +359,9 @@ tags: [episode, season-6]
 - **Powers:**
   - The Hunger forms organic spears and toothy tendrils.
   - **Signature move:** boy and infinite flesh become one, splitting Robbie into a form of teeth and eyes.
-- **Fear:** the stars fading, leaving only them for eternity.
+- **[[Characters/Fear|Fear:]]** the stars fading, leaving only them for eternity.
 
-**Atlas** (player is Australian).
+**[[Characters/Atlas|Atlas]]** (player is Australian).
 - **Memory:** "does not possess memories… fragments… familiarities acknowledged." He says his memory banks have been corrupted many times, "like in the Dread Fortress."
 - **Family (his own claim):** his mother was a bucket with no eyes; his father was an engineer who gave him no mouth. He has no orifices.
 - **Body:**
@@ -370,30 +370,30 @@ tags: [episode, season-6]
   - USB ports, a sarcasm chip, and a gorilla-stance transformation with a spine cannon fed by Double Sun Cola silos.
 - **Powers:** Unstoppable Force (sacrifices HP).
 - **His wit:** sells "Atlas subscription services" and carries a Double Sun Cola syringe.
-- **Fear:** staying conscious with the power off, forever.
+- **[[Characters/Fear|Fear:]]** staying conscious with the power off, forever.
 - **In this episode:** updated after the aliens turned him off and on. **Died gloriously** (his head exploded) killing Theresa, and was being pieced back together by the GM.
 
-**Copycat ("Cat")**.
+**[[Characters/Copycat|Copycat ("Cat")]]**.
 - **Appearance:** a shapeshifter whose face isn't seen. She wears a bag (trash bag) and says she "won't be me the whole time."
 - **Shapes she took:** magical-girl twirl transformations into a detective (fedora, trench coat, pipe), Atlas's arms, a satellite dish/radio tower, Robbie, and Mayor Timothy.
 - **Habits:** has researched the Shadow King and keeps a notebook. Collects passwords and gave out the Arbiter's (fake, per the Arbiter) card details. Knows Morse code and does yoga.
-- **Fear:** **the aliens found no fear in her.**
+- **[[Characters/Fear|Fear:]]** **the aliens found no fear in her.**
 - **Name she proposed:** "Redacted."
 
-**Thea** (Bec). A tiny pink imp.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). A tiny pink imp.
 - The Arbiter says he "created" her ("an idiot"). She says she has no brain cells and has at least five eyeballs.
 - **The Arbiter uses the divot in her head as a popcorn bucket.**
 - Her email password is "…is the best" plus ~20 exclamation points; Stuart resets it for her.
 - Given mind-speech this episode.
 - **She delivered the chaos event, and a piece of her skull went into the Box of Chaos.** She channelled the box's power into Atlas.
 
-**Theresa / Teresa**.
+**[[Characters/Theresa|Theresa / Teresa]]**.
 - Neon blue worm of the Hollow, two to three inches, "only a mouth and two eyes."
 - **Mutated into a giant worm by Double Sun Cola (caffeine).** Gained three blue eye stalks that block power-ups, and a hole through her head.
 - Absorbed Robbie's teeth. Guarded the "sacred" crystal.
 - **Killed by Atlas, burned to ash.**
 
-**The worms of the Hollow**.
+**[[Characters/The worms of the Hollow|The worms of the Hollow]]**.
 - Around 80 neon worms, with names starting with T: Taylor (purple), Tails, Tulius, Tate, Tandem.
 - The dead: Timothy, Tommy, TT. Their mayor is "Turbicky"/"Timothy", killed by past Void visitors.
 - They hide keys in obvious places and use passwords of the form name + "is awesome" + ~20 exclamation points.
@@ -402,32 +402,32 @@ tags: [episode, season-6]
 - Theresa's sibling(?), who built an "empire". The Hollow "turned to ashes" when he died.
 - He left a 20-step book of instructions for after his death.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Watches pirated Dune 2 from the future. Owns extra Italian shoes.
 - "Saved" the GM from the Shadow King "temporarily," but didn't kill him.
 - Copycat dubbed him "Arbiter J. Wilkinsmith the Third" and Robbie took him for a triplet.
 - **The mission's mineral turned out to be salt for his fries.**
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Building an army and teams against the Shadow King.
 - Founded Team A, with leadership to be decided in a Deathmatch.
 - Says revival is assured ("we'll bring them back") and that "death isn't permanent."
 
-**Stuart**. An unseen person blamed for muted mics; "lives in the basement". Table joke or in-world, unclear.
+**[[Characters/Stuart|Stuart]]**. An unseen person blamed for muted mics; "lives in the basement". Table joke or in-world, unclear.
 
-**The aliens**. Pilots of the "mediocre silver saucer" chaos event. They probe for fears and fear AI.
+**[[Characters/The aliens|The aliens]]**. Pilots of the "mediocre silver saucer" chaos event. They probe for fears and fear AI.
 
 ### Places
-- **The Dread Fortress**: its hallways, and the Arbiter's screening room.
-- **The Ether Drifts**: an asteroid belt at the edge of Void space, in the shadow of a large purple gas planet, with orange asteroids and "a wreckage of worlds."
-- **The Hollow**: the worms' home beside the mine; "turned to ashes" after the mayor's death.
-- **The mineshaft** (door boarded up, key on top of the frame), **the fork** (right path), and **the geode cavern** with the white crystal.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its hallways, and the Arbiter's screening room.
+- **[[Places/The Ether Drifts|The Ether Drifts]]**: an asteroid belt at the edge of Void space, in the shadow of a large purple gas planet, with orange asteroids and "a wreckage of worlds."
+- **[[Places/The Hollow|The Hollow]]**: the worms' home beside the mine; "turned to ashes" after the mayor's death.
+- **[[Places/The mineshaft|The mineshaft]]** (door boarded up, key on top of the frame), **the fork** (right path), and **the geode cavern** with the white crystal.
 
 ### Items
-- **The white glowing humming crystal.** The "very important mineral" against the Shadow King; it yields salt.
-- **Double Sun Cola.** Caffeinated cola that powers Atlas and mutates worms. Its label shows a fairy with two suns.
+- **[[Items/The white glowing humming crystal|The white glowing humming crystal.]]** The "very important mineral" against the Shadow King; it yields salt.
+- **[[Items/Double Sun Cola|Double Sun Cola.]]** Caffeinated cola that powers Atlas and mutates worms. Its label shows a fairy with two suns.
 - Thea's walkie-talkies ("cell phones"), one of them crushed.
-- **The Box of Chaos** (pink and yellow fire; a piece of Thea's skull went in).
+- **[[Lore/The Box of Chaos|The Box of Chaos]]** (pink and yellow fire; a piece of Thea's skull went in).
 - The Arbiter's platinum card (fake, per the Arbiter), Copycat's notebook, Robbie's lollipop, the GM's crown and bobby pins, and the new surveillance TV.
 
 ### Lore statements

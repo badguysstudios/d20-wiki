@@ -276,7 +276,7 @@ tags: [episode, fate-of-the-faithful]
 
 ## Who and what appears
 ### Characters
-**Lyrus** (Drew). A leader of the Faithful, newly in leadership.
+**[[Characters/Lyrus|Lyrus]]** (Drew). A leader of the Faithful, newly in leadership.
 - Daily life: sleeps on his warped work table; eats Frank's food daily, "dead inside."
 - Background:
   - Wanted to be a cartographer; his strict father Orin made him a soldier. He draws the Faithful's maps himself.
@@ -290,7 +290,7 @@ tags: [episode, fate-of-the-faithful]
 - Prophecy: "You will fight… again and again. Until you are amongst the sand." The Seer says he is not a great man, "Not yet."
 - Accepted the Glory of the Grandmaster duel against Ganyu Sinmal.
 
-**John Carmichael** (NinjaManMat1). A warlock, formerly a wizard ("wizard sight that he used to have").
+**[[Characters/John Carmichael|John Carmichael]]** (NinjaManMat1). A warlock, formerly a wizard ("wizard sight that he used to have").
 - Gumshoe and master of disguise, with a Magitek cell phone that plays metal and keeps local Void time.
 - Speaks Infernal; specialist in killing fiends; has a fear aura.
 - **Krontaka ("Island's Bane"):** a bronze revolver forged from an ancient (Celtic warrior's) spear and a slain devil's blood. It is sentient enough to send emotions. He fires spell bullets with it.
@@ -298,68 +298,68 @@ tags: [episode, fate-of-the-faithful]
 - Goal: find a way home.
 - Prophecy: a choice between "what you want" and his honor; one path home, another into "a duty thrust upon you."
 
-**Asena** (PodsofWar).
+**[[Characters/Asena|Asena]]** (PodsofWar).
 - Has fought in the Grandmaster's arena before and fought Ralzamon in the Void. Champions are sent home without memories; she remembered only as dreams.
 - "Somewhat of a dragonborn"; the Seer senses a dragon nature "not from this plane." She says she is probably older than the Seer.
 - Smart laser stolen from an airplane (now leaking radiation). Also a ray gun, planar slip, and astral-light reflection.
 - Mental link (telepathy); a bestow curse spell tattoo from John.
 - **Currently cat-sized.**
 
-**Slakura**. A small bouncing pink slime and blossom spirit, Asena's friend. It speaks Common but chooses not to. It smells floral and can become a bounce pad. Ganyu hungers for it.
+**[[Characters/Slakura|Slakura]]**. A small bouncing pink slime and blossom spirit, Asena's friend. It speaks Common but chooses not to. It smells floral and can become a bounce pad. Ganyu hungers for it.
 
-**The Seer** (Drew). An ancient blind white Dragonborn blacksmith with missing teeth and a glowing turquoise crystal warhammer.
+**[[Characters/The Seer|The Seer]]** (Drew). An ancient blind white Dragonborn blacksmith with missing teeth and a glowing turquoise crystal warhammer.
 - Sees true natures, past and future, and has prophetic dreams. His sight has been "clouded as of late."
 - Usually roots out moles; found none.
 - Made the replica silver ewer for Lyrus and is forging Chester's knife.
 - Lyrus calls him "that old charlatan" who fakes blindness for sympathy.
 
-**Baptiste** (Drew). The Faithful's dagger-man, covered in dozens of daggers. He does stabbing practice until 9–9:30 and must escort guests outside. Flirtatious with John ("I will call you").
+**[[Characters/Baptiste|Baptiste]]** (Drew). The Faithful's dagger-man, covered in dozens of daggers. He does stabbing practice until 9–9:30 and must escort guests outside. Flirtatious with John ("I will call you").
 
-**Frank**. The Faithful's cook (the leather-and-pineapple stew).
+**[[Characters/Frank|Frank]]**. The Faithful's cook (the leather-and-pineapple stew).
 
-**Kenny**. Faithful intel agent: a small obnoxious goblin and bad gambler with a big nose and an annoying voice. He is overdue, hunting the silver ewer, and pinned down in the Roundhouse gang's safe house.
+**[[Characters/Kenny|Kenny]]**. Faithful intel agent: a small obnoxious goblin and bad gambler with a big nose and an annoying voice. He is overdue, hunting the silver ewer, and pinned down in the Roundhouse gang's safe house.
 
-**Orin**. Lyrus's late father. He guarded the Box of Chaos at the eastern outpost for many years until his death. Strict; "never saw the Arbiter's betrayal." The Seer: "a great man." The Arbiter is described as taller than Orin.
+**[[Characters/Orin|Orin]]**. Lyrus's late father. He guarded the Box of Chaos at the eastern outpost for many years until his death. Strict; "never saw the Arbiter's betrayal." The Seer: "a great man." The Arbiter is described as taller than Orin.
 
-**Lawrence Booker Green** (GM). Coriander Society ally, "an ancient individual" good at gathering knowledge. He stays at the Forge to research.
+**[[Characters/Lawrence Booker Green|Lawrence Booker Green]]** (GM). Coriander Society ally, "an ancient individual" good at gathering knowledge. He stays at the Forge to research.
 
-**Ralzamon, Master of the Unknown**. The heroes' arch-nemesis.
+**[[Characters/Ralzamon|Ralzamon, Master of the Unknown]]**. The heroes' arch-nemesis.
 - Seen in the vision: his dying spirit was fused by the Arbiter with a resurrected Josiah Parsons.
 - Now the Arbiter's empowered "general," with psychic reach across the Void. This explains the Faithful's intel leak.
 - Psychic power projected from a hidden crystal nest in the Zul'quian jungles.
 - Asena's nicknames: "Rousey Poo," "Rousey Parsons."
 
-**Josiah Parsons**. Resurrected and glowing blue, merged into Ralzamon. The heroes had set about destroying his cult.
+**[[Characters/Ralzamon|Josiah Parsons]]**. Resurrected and glowing blue, merged into Ralzamon. The heroes had set about destroying his cult.
 
-**The Arbiter** (Drew, vision only). See the vision description (1:32:57). Plans to rid the Void of the Grandmaster. His treachery is not yet public.
+**[[Characters/The Arbiter|The Arbiter]]** (Drew, vision only). See the vision description (1:32:57). Plans to rid the Void of the Grandmaster. His treachery is not yet public.
 
-**Circe, Master of Magitek** (GM). "The most nefarious inventor in the city of Beacon."
+**[[Characters/Circe|Circe, Master of Magitek]]** (GM). "The most nefarious inventor in the city of Beacon."
 - Gear: ray gun of amazing transformation/transmogrification (patent pending), stupendous size-changing ray, gorgeous goggles of all seeing (truesight), baffling blouse of the elements (fire-proof), jet shoes.
 - Hunting Kenny for the Arbiter's side.
 - Now under Asena's lose-your-action curse.
 
-**Ganyu Sinmal ("Big G")** (GM). An armored spirit-eater from Yokai Blossom (Anime 5e). Fiendish energy, violet furnace fire, burning seals. Grows when hurt. Possibly a different instance from the one the heroes knew.
+**[[Characters/Ganyu Sinmal|Ganyu Sinmal ("Big G")]]** (GM). An armored spirit-eater from Yokai Blossom (Anime 5e). Fiendish energy, violet furnace fire, burning seals. Grows when hurt. Possibly a different instance from the one the heroes knew.
 
-**Hothim the Blood Berserker**. Defeated last episode; had been going door to door hunting Kenny.
+**[[Characters/Hothim the Blood Berserker|Hothim the Blood Berserker]]**. Defeated last episode; had been going door to door hunting Kenny.
 
 **Minor:** the ninjas (all killed by the fireball); the roachling gambler (under a psychic ward); the charmed guard (now disguised as Kenny); the shady figure in the den; the Mammon cultists; Doug the Pug, "the robotic, the cyborg zombie doggo."
 
 ### Places
-- **The Forge of the Faithful**: workshop HQ in a ward with blacksmiths, no carpenter, a target range and a map room.
-- **The Hanging City of Prexmarin / City of Chains**:
+- **[[Places/The Forge of the Faithful|The Forge of the Faithful]]**: workshop HQ in a ward with blacksmiths, no carpenter, a target range and a map room.
+- **[[Places/The Hanging City of Prexmarin|The Hanging City of Prexmarin / City of Chains]]**:
   - Layered neighborhoods hanging from chains into fog; an upscale market district.
   - The seedy lower districts, including one tilted and abandoned after its chain broke.
   - The jailhouse, a chapel of Mammon, the Archive shop, and the stray cats of the chains.
-- **The Roundhouse tavern**, with the Roundhouse gang's lead-lined, warded safe house. Password: order a "shooie."
-- **The Dread Fortress**, ringed by lava "in all directions."
-- **The eastern outpost / Eastern Stronghold**, where the Box of Chaos is kept.
-- **An old dwarven fortress in the mountains** past it, where the Arbiter faked his own kidnapping.
-- **The Tumult**: a planar region made of a dead god or titan's body, its blood ethereal mist.
-- **The Arbiter's icy throne room** (in the vision; location unstated).
+- **[[Places/The Roundhouse tavern|The Roundhouse tavern]]**, with the Roundhouse gang's lead-lined, warded safe house. Password: order a "shooie."
+- **[[Places/The Dread Fortress|The Dread Fortress]]**, ringed by lava "in all directions."
+- **[[Places/The Eastern Outpost|The eastern outpost / Eastern Stronghold]]**, where the Box of Chaos is kept.
+- **[[Places/An old dwarven fortress in the mountains|An old dwarven fortress in the mountains]]** past it, where the Arbiter faked his own kidnapping.
+- **[[Places/The Tumult|The Tumult]]**: a planar region made of a dead god or titan's body, its blood ethereal mist.
+- **[[Places/The Arbiter's icy throne room|The Arbiter's icy throne room]]** (in the vision; location unstated).
 - Also mentioned: Zul'quian jungles (Ralzamon's crystal nest), the world of Yokai Blossom, the city of Beacon, the tombs on Ashen, and Rocco (John's proposed way home).
 
 ### Items
-- **The silver ewer of the Tumult**: the real one opens an ethereal curtain once a day. **The Seer's replica** is meant for a swap.
+- **[[Items/The silver ewer of the Tumult|The silver ewer of the Tumult]]**: the real one opens an ethereal curtain once a day. **The Seer's replica** is meant for a swap.
 - Krontaka; the smart laser; the Ogre Revolver; the Seer's crystal warhammer.
 - Lyrus's Magic Missile tattoo; Asena's bestow curse tattoo.
 - The cat knife in progress (Ashen sword plus a chat magic item, with Box of Chaos sacrifices pending).

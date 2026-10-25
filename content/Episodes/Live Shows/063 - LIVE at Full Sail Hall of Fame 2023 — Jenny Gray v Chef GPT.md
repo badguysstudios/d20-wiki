@@ -109,7 +109,7 @@ tags: [episode, live-shows]
 
 ## Who and what appears
 ### Characters
-**Chef GPT** (KidCalrissian). An **artificer robot chef** with a **metal skeleton frame**. He has no nose, no sensory input and no sense of taste.
+**[[Characters/Chef GPT|Chef GPT]]** (KidCalrissian). An **artificer robot chef** with a **metal skeleton frame**. He has no nose, no sensory input and no sense of taste.
 - Was "made to cook food for people"; never had a prom. His last maker is secret ("I'm under NDA").
 - Says he has put chinchillas in the oven many times. Has a 2.5-star Yelp rating, per the Grandmaster.
 - **In this episode:**
@@ -119,24 +119,24 @@ tags: [episode, live-shows]
 - **Spells and actions:** Catapult (sushi donuts, flaming croissant), create food and water, heat metal on himself (cast-iron hug), Grease (frog oils), Acid Arrow (lime juice), Levitate.
 - **The winner.**
 
-**Jenny Gray** (ErinEberhardt). A **high-school druid** looking for a prom date. She wears a side ponytail, has no Charisma, takes French, and owns a cute pink dress.
+**[[Characters/Jenny Gray|Jenny Gray]]** (ErinEberhardt). A **high-school druid** looking for a prom date. She wears a side ponytail, has no Charisma, takes French, and owns a cute pink dress.
 - Her mom makes "the world's best fried chicken"; she counts on her girlfriends.
 - **Spells and actions:** summoned a rabid chinchilla; cast Druidcraft (burning kitchen, mom's fried chicken), hallucinatory terrain (dance floor), polymorph (frog), and lava spikes.
 - **Wild-shaped into Precious, a six-pound pink Pomeranian with a bell.** As Precious she frightened Chef, used two of the Dogs of Many Things, and talked in a deep voice ("There is no Jenny, only Precious").
 - **Died falling into the lava, transforming like Cinderella into a ball gown.** Her wish: to kiss someone cute at prom.
 
-**The Arbiter** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Drew).
 - Claims Italian-leather shoes. **Ripped the spine out of "Popcorn Guy" through his chest** over stale popcorn stuck in his teeth.
 - Wants a break "every four hours."
 - Called "a little least" by the Grandmaster; replies "That guy sucks."
 
-**Grandmaster Elusia Skypiercer** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
 - Introduced as the one who calmed the chaos and slew the Shadow King.
 - **Opens the arena portal by breaking her necklace.**
 - Says the Dread Fortress loves puppies and does not hurt innocent animals. Covets Luis's necklace.
 - Wrote the bad Yelp review of Chef. Gives an ultimatum that she'll murder both champions herself.
 
-**Acolytes / audience members (in the fiction):**
+**[[Lore/The Acolytes|Acolytes / audience members (in the fiction):]]**
 - **Austin**: reprogrammed Chef GPT.
 - **Popcorn Guy**: his D&D popcorn healed Chef; killed by the Arbiter and covered in popcorn.
 - **Luis Sanchez** (Film program): the nat-1 "traitor," made Jenny's shield. Melted into the lava and his soul was absorbed.
@@ -149,12 +149,12 @@ tags: [episode, live-shows]
 - **Grant** is mentioned once ("That's what Grant said"); context unclear.
 
 ### Places
-- **The Dread Fortress**: its halls (stone floors). It "travels to Orlando" per the blurb.
-- **The volcanic lava arena**, with spectral floating Acolyte stands above it.
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its halls (stone floors). It "travels to Orlando" per the blurb.
+- **[[Places/The volcanic lava arena|The volcanic lava arena]]**, with spectral floating Acolyte stands above it.
 
 ### Items
-- **The Grandmaster's necklace** (broken to open the portal).
-- **The Dogs of Many Things** (three):
+- **[[Items/The Grandmaster's necklace|The Grandmaster's necklace]]** (broken to open the portal).
+- **[[Items/The Dogs of Many Things|The Dogs of Many Things]]** (three):
   - a **retriever** that summons a crowd shield to take 1d4;
   - a **husky** whose puppy kisses heal;
   - a **gassy dog** whose farts do poison damage.

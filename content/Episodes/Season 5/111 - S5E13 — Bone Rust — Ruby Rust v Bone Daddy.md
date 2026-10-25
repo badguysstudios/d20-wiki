@@ -254,7 +254,7 @@ tags: [episode, season-5]
 
 ## Who and what appears
 ### Characters
-**Ruby Rust** (Robert Hartley). A massive serpent with crimson/ruby, diamond-shaped scales. Wears a **helmet holding two drinks, poison and java**.
+**[[Characters/Ruby Rust|Ruby Rust]]** (Robert Hartley). A massive serpent with crimson/ruby, diamond-shaped scales. Wears a **helmet holding two drinks, poison and java**.
 - **History:**
   - Once a snake, then a programmer ("a Python… software development", "IT") who became sentient.
   - Died in an earlier fight: "devoured whole by some sort of hunger."
@@ -266,38 +266,38 @@ tags: [episode, season-5]
   - **Killed Bone Daddy, then turned on Thea and the Lord of Fate.**
   - Was reduced by Thea's chinchilla to a non-sentient python and released into the Void: "Just hunting for mice."
 
-**Bone Daddy** (Johnny Stanton). A skeletal "leather daddy" (Robert's term).
+**[[Characters/Bone Daddy|Bone Daddy]]** (Johnny Stanton). A skeletal "leather daddy" (Robert's term).
 - **Appearance and gear:** duster/coat lined with his patented hammer shorts; whip; glasses (broken this fight); flask of bone marrow.
 - **Build:** "buns of steel," shaped like "a single meatball on a stick."
 - **Powers:** the "Bone Daddy Arcanum" (fire); pulls bones from Acolytes to make skeleton swarms and bone cages; "the patented bone swirl"; Darcy death armor topped with a skull; signature move "Daddy's Girl."
 - **History:** Earlier fights against "a man" and "a half man, half animal hybrid"; last consumed by "an ever growing wave of bones." His parents are a mother and his father Charles. "Bone Daddy's always been Bone Daddy."
 - **In this episode:** He called Thea a traitor ("you're next"), considered retiring, and begged Ruby to spare Darcy. **He died swallowed and crushed.** His last act was releasing Darcy's finger bone.
 
-**Darcy**. Bone Daddy's skeleton companion ("there's not a bad bone in her body," "great hip bones").
+**[[Characters/Darcy|Darcy]]**. Bone Daddy's skeleton companion ("there's not a bad bone in her body," "great hip bones").
 - Grapples, throws a femur, catches him on the ceiling, feeding-frenzies, and forms his death armor.
 - Ruby called her "nothing more than a table."
 - **A single finger bone of hers escaped the tavern unnoticed and survives.**
 
-**Thea** (Bec). The pink-winged imp running the show with the Lord of Fate.
+**[[Characters/Thea (Plintos)|Thea]]** (Bec). The pink-winged imp running the show with the Lord of Fate.
 - Says she was "specially bred" by her loving family "to be an invincible worm" and was transformed into an imp. She can't die (per the Lord of Fate's "No, unfortunately"). Her family wanted her to get a college degree.
 - Brewed sun cola with goblins; lost and regrew her teeth (two human sets, then endlessly regrowing sharp ones).
 - Revived the champions and let Thomas the Goblin heal them; gave Ruby band-aids.
 - **Fart chaos event (pink glitter, tuna-pickle).** Summoned chinchillas and freed Ruby.
 
-**The Lord of Fate** (Drew). Apparates, regrows teeth with a snap, and buys the crowd blue slushies.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). Apparates, regrows teeth with a snap, and buys the crowd blue slushies.
 - Says Thea doing his job would spare him "the paperwork and the taxes."
 - Promised Ruby restoration if he won. Summons the Box of Chaos.
 
-**The shadowy figure in the Box of Chaos** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
 - Thinks the Lord of Fate is "kind of a cock" and the Acolytes "kind of idiots."
 - Took ten hammer shorts from Bone Daddy and an old patron's remaining life from Ruby.
 - "I just don't have as much shit as I used to."
 
-**Thomas the Goblin**. Thea's healer-in-training (certification unfinished). Can't read or write, eats paint chips, and claims to cook eggs in his "butt pocket."
+**[[Characters/Thomas the Goblin|Thomas the Goblin]]**. Thea's healer-in-training (certification unfinished). Can't read or write, eats paint chips, and claims to cook eggs in his "butt pocket."
 
-**The bartender of Emery's Tavern**: an old man wiping the same spot. He served Bone Daddy number two ale and a towel-wrung "pickle juice" shot, and was later assimilated.
+**[[Characters/The bartender of Emery's Tavern|The bartender of Emery's Tavern]]**: an old man wiping the same spot. He served Bone Daddy number two ale and a towel-wrung "pickle juice" shot, and was later assimilated.
 
-**Tavern patrons**:
+**[[Characters/Tavern patrons|Tavern patrons]]**:
 - a sleeper killed by acid during the chaos event;
 - a shady quest-giver type in the corner;
 - an older patron drained to dust by the box.
@@ -307,17 +307,17 @@ tags: [episode, season-5]
 - **Pelted with Thea's teeth:** Kristen, Lady Magdalene, Kyle.
 
 ### Places
-- **The Dread Fortress**: its halls and kitchen (Thea nailed planks to the kitchen door).
-- **Emery's Tavern**: the arena. A dark, gross bar with a monstrous skull over the fireplace and barrels of number two ale. "We hate this place anyway."
+- **[[Places/The Dread Fortress|The Dread Fortress]]**: its halls and kitchen (Thea nailed planks to the kitchen door).
+- **[[Places/Emery's Tavern|Emery's Tavern]]**: the arena. A dark, gross bar with a monstrous skull over the fireplace and barrels of number two ale. "We hate this place anyway."
 - The Void wilderness: where Ruby was released.
 
 ### Items
-- **Sun cola**, boiled with cinnamon into syrup.
-- **Number two ale** ("Don't ask what it takes to make it").
+- **[[Items/Sun cola|Sun cola]]**, boiled with cinnamon into syrup.
+- **[[Items/Number two ale|Number two ale]]** ("Don't ask what it takes to make it").
 - Ruby's helmet with its poison and java bottles.
 - Thea's band-aids (advantage), and the "news horn" [?].
 - Bone Daddy's patented hammer shorts (ten given to the box), whip, bone-marrow flask, and broken glasses (one piece now Thea's monocle).
-- **Box of Chaos items:**
+- **[[Items/Box of Chaos items|Box of Chaos items:]]**
   - **a vial holding "the shadow of the Shadow King"** (fatigue);
   - **the Shield of the Golden King** (+1 Mettle; destroyed on Bone Daddy's nat 1);
   - **a screaming small box with a dark ethereal soul** (swap Bloodlust and Mettle for a round).
