@@ -1,8 +1,10 @@
 ---
-title: D20 Deathmatch Wiki
+title: The Black Tome
 ---
 
-Welcome, Acolyte. This is the fan wiki for **D20 Deathmatch**, the live D&D arena show from Bad Guys Studios, hosted by Mudcat (the Arbiter) and Caustic Phoenix (Grandmaster Elusia Skypiercer).
+<img src="static/hero.png" alt="D20 Deathmatch" class="hero-logo">
+
+Welcome, Acolyte. You have opened **the Black Tome**, the record of everything that has happened in **D20 Deathmatch**, the live D&D arena show from Bad Guys Studios, hosted by Mudcat (the Arbiter) and Caustic Phoenix (Grandmaster Elusia Skypiercer).
 
 > Far beyond the comforts of home lies a dark void outside of all space and time. If you're lucky, the Dread Fortress will call to you. Heroes, villains, monsters and beasts of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena. You, Acolyte, are called to bear witness to D20 Deathmatch.
 

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: D20 Deathmatch Wiki
+  pageTitle: The Black Tome
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -14,30 +14,32 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header:
+        name: Metal Mania
+        weights: [400]
+      body: Rubik
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#8b1e1e"
-        tertiary: "#c9a227"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fbf7ff"
+        lightgray: "#e4dcef"
+        gray: "#9a90ad"
+        darkgray: "#2a2433"
+        dark: "#111111"
+        secondary: "#c4119f"
+        tertiary: "#60269e"
+        highlight: rgba(96, 38, 158, 0.10)
+        textHighlight: "#f1e50088"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#e0605a"
-        tertiary: "#c9a227"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#111111"
+        lightgray: "#2e2442"
+        gray: "#7d7394"
+        darkgray: "#e9e4f2"
+        dark: "#ffffff"
+        secondary: "#ff39d6"
+        tertiary: "#f1e500"
+        highlight: rgba(96, 38, 158, 0.28)
+        textHighlight: "#f1e50055"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -98,6 +100,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header:
+        name: Metal Mania
+        weights: [400]
+      body: Rubik
+      code: IBM Plex Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:

@@ -1,3 +1,129 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------- The Black Tome: D20 Deathmatch theme ----------
+$pink: #ff39d6;
+$yellow: #f1e500;
+$purple: #60269e;
+$ink: #111111;
+
+// Retro perspective grid behind everything (dark mode)
+:root[saved-theme="dark"] body {
+  background-color: $ink;
+  background-image:
+    linear-gradient(rgba(96, 38, 158, 0.22) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(96, 38, 158, 0.22) 1px, transparent 1px);
+  background-size: 48px 48px;
+  background-attachment: fixed;
+}
+:root[saved-theme="light"] body {
+  background-image:
+    linear-gradient(rgba(96, 38, 158, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(96, 38, 158, 0.06) 1px, transparent 1px);
+  background-size: 48px 48px;
+  background-attachment: fixed;
+}
+
+// Sidebar title becomes the wordmark + "The Black Tome"
+.page-title {
+  margin: 0;
+  a {
+    display: block;
+    font-family: var(--headerFont);
+    font-weight: 400;
+    font-size: 1.55rem;
+    letter-spacing: 0.04em;
+    color: $pink;
+    text-shadow: 2px 2px 0 $ink;
+    &::before {
+      content: "";
+      display: block;
+      width: 100%;
+      aspect-ratio: 2 / 1;
+      max-width: 220px;
+      background: url("./static/wordmark.png") left center / contain no-repeat;
+      margin-bottom: 0.2rem;
+    }
+  }
+}
+:root[saved-theme="light"] .page-title a { text-shadow: none; color: #c4119f; }
+
+// Article titles: metal gradient like the logo
+.article-title {
+  font-family: var(--headerFont);
+  font-weight: 400;
+  font-size: 2.6rem;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  background: linear-gradient(180deg, $yellow 0%, #fe669b 55%, $pink 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.35);
+  filter: drop-shadow(3px 3px 0 $purple);
+}
+:root[saved-theme="light"] .article-title {
+  background: linear-gradient(180deg, #c49b00 0%, #e0338f 55%, #c4119f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter: drop-shadow(2px 2px 0 rgba(96, 38, 158, 0.35));
+}
+
+// Section headings
+article h2, article h3, article h4 {
+  font-family: var(--bodyFont);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+:root[saved-theme="dark"] article h2 { color: $yellow; }
+:root[saved-theme="dark"] article h3 { color: $pink; }
+article h2 {
+  border-bottom: 3px solid $purple;
+  padding-bottom: 0.2rem;
+}
+
+// Links
+a.internal {
+  background-color: transparent;
+  border-bottom: 1px dashed currentColor;
+  border-radius: 0;
+  padding: 0;
+  &:hover { color: var(--tertiary); }
+}
+:root[saved-theme="dark"] a.internal:hover { color: $yellow; text-shadow: 0 0 8px rgba(241, 229, 0, 0.5); }
+
+// Quotes: chunky pink bar
+article blockquote:not(.callout) {
+  border-left: 5px solid $pink;
+  background: var(--highlight);
+  padding: 0.4rem 1rem;
+  font-style: italic;
+}
+
+// Collapsible "Full Round-by-Round" box and other callouts
+.callout {
+  border: 2px solid $purple;
+  border-radius: 6px;
+  box-shadow: 4px 4px 0 $ink;
+}
+.callout .callout-title { font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+
+// Tables
+table {
+  border: 2px solid $purple;
+  th { background: $purple; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+}
+
+// Home page hero logo
+img.hero-logo {
+  display: block;
+  margin: 0 auto 1rem;
+  max-width: min(520px, 100%);
+  filter: drop-shadow(0 0 24px rgba(255, 57, 214, 0.35));
+}
+
+// Search bar and explorer accents
+.search > .search-button { border: 2px solid $purple; }
+div.folder-container .folder-title, div.folder-container button.folder-button span, div.folder-container a { font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.9em; }
+
+::selection { background: rgba(255, 57, 214, 0.45); }
