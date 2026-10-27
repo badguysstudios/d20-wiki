@@ -160,7 +160,7 @@ Cappin Fodder was not quite finished. His ashes pulled themselves together into 
 **Acolytes named:**
 - **Harvey Hesko**: hit in the temple by the staff, threw it back and missed.
 - **Prince Vegeta**: soul ripped out to power the Box of Chaos, later repurposed as Fodder's sword arm.
-- Pethel, Master of Squids; Oddthority; Crystid; Ombad; Scribd; Gator; Night Garriant.
+- Pethel, Master of Squids; Oddthority; Crystid; Ombad; Scrib; Gator; Night Garriant.
 - An unnamed top-row Acolyte who jumped on Fodder's command.
 
 **[[Characters/The Arbiter|Vythorn]]** (the Arbiter, the Endless Scholar). Not present. Represented by the statue. The Shadow King says he killed him.
@@ -208,7 +208,7 @@ Cappin Fodder was not quite finished. His ashes pulled themselves together into 
 >
 > ### The arena: the temple
 > 14. **0:11:01** A temple, old and broken, with uneven stones. It's "foreign and cold" to the champions, but the Acolytes find it "quite familiar." The fire gives off a light glow, yet it's cold all around. **A large statue of "a great acolyte" stands with palms open**, surrounded by candles and small artifacts, in "an unearthly and unholy place." It's "a temple of doom of our own… There's no rolling balls that we know of." Fodder: "It won't be if it's the one that I know." Rats scurry by.
-> 15. **0:12:06** **There is no ceiling. Above, in an ethereal, ghostly way, thousands of Acolytes circle, cheering**, with slushies, flags and lit sigils. Named in the crowd: **Pethel, Master of Squids**; Oddthority; Crystid; Ombad; Scribd; Gator; Harvey; Night Garriant.
+> 15. **0:12:06** **There is no ceiling. Above, in an ethereal, ghostly way, thousands of Acolytes circle, cheering**, with slushies, flags and lit sigils. Named in the crowd: **Pethel, Master of Squids**; Oddthority; Crystid; Ombad; Scrib; Gator; Harvey; Night Garriant.
 > 16. **0:12:57 The jumper.** Fodder: "**Hey, you up there. Top row. Jump.**" Someone does. **The goblins hurry out to clean up the mess**: "It's supposed to be one of your two blood first, not another one." Fodder: "I'm just that influential."
 > 17. **0:13:24** Griff: "**If they really wanted to kill themselves, they'd climb up your ego and jump off your intelligence.**" Fodder: "Are you reading from the same list of insults that I am?" Griff: "I don't need a list. I just need to look at you." "Bring it on, old goat man."
 > 18. **0:13:44** **An intimidation contest decides initiative. Fodder wins, 22 to 19.**

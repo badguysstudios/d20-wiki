@@ -59,7 +59,7 @@ Richardo heard the crowd cheering for blood and gave them some. He flexed his ch
 She tried to knock the axe from his golden right arm, but his grip held. Then an Acolyte named Zeus screamed, "Kick him in the nards!" Asked where he kept them, Richardo said "back home with the wife," or in his back pocket "only on Fridays." It emerged that he had four. Evah told the Shadow King, "You, pretty boy. Shush," and landed a blow that did one point of nard damage per nard.
 
 ### The Box of Chaos
-A [[The Box of Chaos|Box of Chaos]] hurtled down like a comet onto the treasure-map table. "Well, the last soul dried up pretty quickly," the Shadow King said, "so let's see if we can find a stronger one." A shadow hand seized an Acolyte called Commander Scrib, ripped out his black, yellow-eyed soul and slammed it into the box, and pink and purple flames shot skyward.
+A [[The Box of Chaos|Box of Chaos]] hurtled down like a comet onto the treasure-map table. "Well, the last soul dried up pretty quickly," the Shadow King said, "so let's see if we can find a stronger one." A shadow hand seized an Acolyte called Commodore Scrib, ripped out his black, yellow-eyed soul and slammed it into the box, and pink and purple flames shot skyward.
 
 Evah wanted none of it. "Nice parlor trick. I didn't know this was a magic show… I don't give a damn about your little toy box." Richardo cheered her on, then took the prize anyway. The box shook, spat fire and produced a gleaming holy sword, which hovered before him. "Did you just turn that man into a sword?" he asked. "No," the Shadow King corrected, "I actually turned that man into a soul in a box, and then that box pulled a sword out."
 
@@ -95,7 +95,7 @@ Richardo's player was inspired by the anime-style X scar Evah gave him, which is
 ## Notable Moments
 - The Shadow King opened the show using Kaja's skull as a hand puppet.
 - Richardo flipped his helmet backwards to rage, then couldn't see and ended up facing the wrong way.
-- An Acolyte named Commander Scrib had his soul fed to the Box of Chaos, which produced a holy sword.
+- An Acolyte named Commodore Scrib had his soul fed to the Box of Chaos, which produced a holy sword.
 - Grandma Dorothy pooped herself out of terror at Richardo's shadowy final form, poisoning both fighters with the smell.
 - Evah smashed the table around Richardo like a tutu, and his mother Juanita crowd-surfed in to help him.
 - **Evah won, and the Shadow King killed her moments later with a blade through the mouth.**
@@ -151,7 +151,7 @@ Richardo's player was inspired by the anime-style X scar Evah gave him, which is
 - Sits on Elusia's throne and is called "uncle" by her. Plays with Kaja's skull as a puppet.
 - New to running deathmatches: skips chaos events and loses track of turns.
 - Crushes the Acolyte Harvey with a shadow hand.
-- Feeds Commander Scrib's soul to the Box of Chaos. Makes gold fountain out of shadows.
+- Feeds Commodore Scrib's soul to the Box of Chaos. Makes gold fountain out of shadows.
 - Summons a **shadow fleet** that bombards the arena.
 - **Kills the winner, Evah.** He likes her fighting at first.
 - His throne cushions point to a "sensitive ass."
@@ -166,7 +166,7 @@ Richardo's player was inspired by the anime-style X scar Evah gave him, which is
 
 **Acolytes named:**
 - Harvey: crushed.
-- Commander Scrib: soul taken for the Box.
+- Commodore Scrib: soul taken for the Box.
 - Zeus: "kick him in the nards."
 - Vegeta: threw four slushies, three of them stolen.
 - An unnamed Acolyte betting on Evah.
@@ -185,7 +185,7 @@ Richardo's player was inspired by the anime-style X scar Evah gave him, which is
 - Kaja's skull.
 - Elusia's blood-costing amulet.
 - The shadow gold pile.
-- **[[Lore/The Box of Chaos|Box of Chaos]]** (Commander Scrib's soul), which gave the **Holy Avenger**.
+- **[[Lore/The Box of Chaos|Box of Chaos]]** (Commodore Scrib's soul), which gave the **Holy Avenger**.
 - The table / wooden tutu.
 - Evah's splittable glaive.
 - Blue raspberry slushies.
@@ -241,9 +241,9 @@ Richardo's player was inspired by the anime-style X scar Evah gave him, which is
 > 31. **0:46:54 — The nards.** An Acolyte, **Zeus**, screams: "**Kick him in the nards!**" Evah's nature check is 19. Asked where he keeps them, Richardo: "**Back home with the wife.**… They're where they should be, I hope." Asked if they're in his back pocket: "**Only on Fridays.**" Then a Lance Armstrong joke (02, likely the Shadow King). **Richardo has four nards** ("I get asked this question quite a bit"). Evah to the Shadow King: "**You, pretty boy. Shush.**" Her polearm-master attack lands, and **she takes one point of nard damage per nard, four in all**: "Let me know if you can feel this."
 > 32. **0:49:26** Evah **spits on the ground again "from my super clean mouth"**. Her Con roll shows a huge **spit capacity** ("I don't suffer from dry mouth"). "Hydrate… so they can dehydrate." Richardo: "I hate it."
 >
-> ### The Box of Chaos: Commander Scrib (0:50:54)
+> ### The Box of Chaos: Commodore Scrib (0:50:54)
 > 33. The Shadow King rolls 15. The Acolytes go quiet, then stomp and clap around the arena as **a Box of Chaos hurtles down like a comet onto the treasure-map table.**
-> 34. **0:51:46** Shadow King: "**Well, the last soul dried up pretty quickly, so let's see if we can find a stronger one.**" A shadowy hand flies through the crowd and **picks up Commander Scrib**. Another hand **rips out a black soul with yellow eyes** and slams it into the box. Pink and purple flames shoot into the sky. "If you make a sacrifice to our box here, you may be rewarded with something magical."
+> 34. **0:51:46** Shadow King: "**Well, the last soul dried up pretty quickly, so let's see if we can find a stronger one.**" A shadowy hand flies through the crowd and **picks up Commodore Scrib**. Another hand **rips out a black soul with yellow eyes** and slams it into the box. Pink and purple flames shoot into the sky. "If you make a sacrifice to our box here, you may be rewarded with something magical."
 > 35. **0:52:32 — Evah refuses.** "**Nice parlor trick. I didn't know this was a magic show.**" Shadow King: "It's very rude… I'm a king!" Evah: "You know what's rude? You are… This whole place is a disgrace. You disrespect the art of the fight." Richardo: "Yeah, you tell him." Evah: "**I don't give a damn about your little toy box.**"
 > 36. **0:53:09 — Richardo's sword.** The Shadow King ("arm-wrestling chap… Dick Johnson? Ric-Ric-Ricardo!") has Richardo roll d100 (22). **The lid closes before any sacrifice is made**, the box shakes, and fire shoots out. **A sword flies out and floats in front of Richardo: a Holy Avenger (+3, with extra radiant damage).** The box dissipates with a finger snap.
 > 37. **0:55:04** Evah: "A real fight doesn't need fancy little boxes or knick-knacks." Richardo: "**Did you just turn that man into a sword?**" Shadow King: "**No, I actually turned that man into a soul in a box, and then that box pulled a sword out.**" Richardo: "I know what that means."

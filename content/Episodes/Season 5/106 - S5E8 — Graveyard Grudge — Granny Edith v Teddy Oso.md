@@ -189,7 +189,7 @@ After the fight, the Arbiter congratulated Granny on actually not dying this tim
 
 **[[Lore/The Acolytes|Acolytes:]]**
 - **Harvey**: eyes knocked out by a raisin cookie.
-- **Scrib**: raisin stuck in his ear.
+- **Scrib**: raisin stuck in her ear.
 - **Lady Magdala**: choked on a cookie and broke teeth; she was given CPR.
 
 **[[Characters/Goblins|Goblins.]]** Absent from chores at the start. They hand out goggles and prepared the corn dog cannons.
@@ -367,7 +367,7 @@ After the fight, the Arbiter congratulated Granny on actually not dying this tim
 >     - **Teddy cracks some front teeth.**
 >     - Stray cookies hit the crowd:
 >       - **Harvey** gets his eyes knocked out.
->       - **Scrib** gets a raisin stuck in his ear.
+>       - **Scrib** gets a raisin stuck in her ear.
 >       - **Lady Magdala** catches one in the mouth, breaks teeth and chokes, and the others give her CPR.
 >     - "The crowd loves it."
 > 48. **0:49:13 — Rolling pin and hand mixer.**

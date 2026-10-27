@@ -182,7 +182,7 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 
 **Marco Polo**. Thea claims she spoke to him.
 
-**Acolytes in the front row**: "Family IT dude, Gator, Judy, Lady, Magdala, Scribd" (probably viewer names; spelling uncertain). Also an unnamed "Thea's people" sign-holder, dragged off by black-cloaked figures.
+**Acolytes in the front row**: "Family IT dude, Gator, Judy, Lady, Magdala, Scrib" (probably viewer names; spelling uncertain). Also an unnamed "Thea's people" sign-holder, dragged off by black-cloaked figures.
 
 ### Places
 - **The Dread Fortress halls**: underground below the lava fields, air-conditioned, lined with Lord of Fate portraits. A small cupboard room with cabinets and blankets.
@@ -302,7 +302,7 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 >     - He clears two fatigues. He still refuses to clear the sweat status and loses more fighting spirit: "I can't shake the smell of anchovies."
 > 39. **0:51:42 — Thea drinks the sweat.** Thea rolls a 9. She asks Richard if she can **lick Bob's sweat off him**. Bob: "You can come to the source."
 >     - He squirts "vicious, salty Bob belly sweat" into her open mouth from **a secret blowhole where his belly button is**: "**That's what all Florida men have.**" Richard: "Holy shit, he's got a whale nose."
->     - **Thea vomits violently onto the first row of Acolytes**, who are named as "Family IT dude, Gator, Judy, Lady, Magdala, Scribd" (spellings uncertain). She begs for sun cola, a blue slushy or Sprite.
+>     - **Thea vomits violently onto the first row of Acolytes**, who are named as "Family IT dude, Gator, Judy, Lady, Magdala, Scrib" (spellings uncertain). She begs for sun cola, a blue slushy or Sprite.
 > 40. **0:54:05** The Lord of Fate: "**She's only been sentient for, like, two months.**" Bob: "You have to dilute it if you're a first-timer… I didn't realize how young you were." Thea suggests bottling it for the concession stands. The Lord of Fate: "**As a potent aphrodisiac.**"
 >
 > ### Round 4

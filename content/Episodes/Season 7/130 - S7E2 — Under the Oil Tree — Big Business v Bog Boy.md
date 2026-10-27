@@ -64,7 +64,7 @@ Bog Boy vanished into the lightning-blasted snow. The last anyone saw was a turt
 
 Bog Boy crawled out with radioactive ooze on his lips and his beloved Rammstein shirt in tatters. He wiped the blood away anime-style: "Now you just unlocked the real freak of the creek." He latched onto Big Business's chest "like a little toddler backpack." Big Business answered by spinning up his turbines and blasting cash into the turtle's face from an internal stock ticker that never stopped printing money. Bog Boy punched through it, "just punching George Washington in the face," with a manic grin, chanting: "Everyone's going to be frogs."
 
-"Grandmaster, what the fuck does that mean?" asked the Arbiter. "Are we sure that he's not Thea?" Big Business blessed himself and two Acolytes in the crowd, B-Town and Cookie Monster Steve. An Acolyte named Scribbs screamed, "I don't want to be a frog." Big Business turned it into a campaign promise: "We've got to stop you from turning people into frogs. And in exchange, we're going to build a shopping mall." Bog Boy then dropped a revelation: "I used to be a four-year-old boy before I got turned into a toad." Big Business confirmed it: "He was a human child. Then I put him in the oil tree." The Grandmaster looked at poor Clementine and decided, "I need to go find Doug the Pug."
+"Grandmaster, what the fuck does that mean?" asked the Arbiter. "Are we sure that he's not Thea?" Big Business blessed himself and two Acolytes in the crowd, B-Town and Cookie Monster Steve. An Acolyte named Scrib screamed, "I don't want to be a frog." Big Business turned it into a campaign promise: "We've got to stop you from turning people into frogs. And in exchange, we're going to build a shopping mall." Bog Boy then dropped a revelation: "I used to be a four-year-old boy before I got turned into a toad." Big Business confirmed it: "He was a human child. Then I put him in the oil tree." The Grandmaster looked at poor Clementine and decided, "I need to go find Doug the Pug."
 
 ### Doug Steals the Show
 
@@ -82,7 +82,7 @@ The Acolytes chanted for chaos. A giant rock, a pair of shiny metal scissors and
 
 Bog Boy whipped up a snowstorm he named Snowstorm August. It ripped the skin off a few Acolytes, but Big Business's "fresh undercoat" stopped it from freezing him. Bog Boy's last flurry went badly, ending in a stumble. Up above, a shocked Clementine tipped right off the ledge. In a puff of snow, Bog Boy caught her: "I'm so sorry, baby."
 
-Big Business loomed over the pair and made an offer: become manager of the new shopping mall, or die. "It pays very little." Bog Boy's answer: "I live for the bog. I die for the bog. The freak of the creek." He tossed Clementine into the crowd, where Scribbs caught her, and lay splayed out "like a Braveheart, like freedom." Big Business stomped twice. The second stomp landed, but somehow the turtle absorbed it and lived. "Staying alive," marvelled the Arbiter. "Metal as fuck."
+Big Business loomed over the pair and made an offer: become manager of the new shopping mall, or die. "It pays very little." Bog Boy's answer: "I live for the bog. I die for the bog. The freak of the creek." He tossed Clementine into the crowd, where Scrib caught her, and lay splayed out "like a Braveheart, like freedom." Big Business stomped twice. The second stomp landed, but somehow the turtle absorbed it and lived. "Staying alive," marvelled the Arbiter. "Metal as fuck."
 
 ### The Final Blow
 
@@ -157,7 +157,7 @@ At the table, both players confessed it was their first time in the arena, and t
 - Bog Boy's beloved, and Big Business's former "fish wife." She doesn't speak, except to Bog Boy.
 - **Revealed as Griselda's daughter.**
 - She sat beside the Grandmaster and Doug, flirted with Doug, and Doug drank her pail water.
-- She fell and was caught by Bog Boy, was caught again by Scribbs, and was held out by the GM for the proposal.
+- She fell and was caught by Bog Boy, was caught again by Scrib, and was held out by the GM for the proposal.
 
 **Griselda, the swamp witch (bog witch)** (Bec). A foul, long-haired, swampy hag who arrives with other hags around her.
 - Clementine's mother. Bog Boy promised to help her turn people into frog people.
@@ -189,7 +189,7 @@ At the table, both players confessed it was their first time in the arena, and t
 
 **Mandroid.** Big Business's old associate, who could connect machines.
 
-**Acolytes named:** B-Town and Cookie Monster Steve (both blessed); Scribbs/Scribd (screamed "I don't want to be a frog," caught Clementine); Great to be Gator (gifted subs); "the IT dude"; Raiders (welcomed in).
+**Acolytes named:** B-Town and Cookie Monster Steve (both blessed); Scrib (screamed "I don't want to be a frog," caught Clementine); Great to be Gator (gifted subs); "the IT dude"; Raiders (welcomed in).
 
 **[[Lore/Chinchillas|The chinchillas.]]** Trained in the chinchilla room's simulator. Unionized.
 
@@ -378,7 +378,7 @@ At the table, both players confessed it was their first time in the arena, and t
 >     - He casts **Bless** on himself ("everyone got laid off because of that") and on two Acolytes:
 >       - **B-Town**, whom he spotted at the start.
 >       - **Cookie Monster Steve**, who has "a really big cookie": "Are we going to get in the cookie business, baby Steve?"
->     - The Acolytes go crazy. **Scribbs screams "I don't want to be a frog."**
+>     - The Acolytes go crazy. **Scrib screams "I don't want to be a frog."**
 >     - **The Acolytes remove Bog Boy's fatigue just before it would have made him take critical damage.**
 >     - The GM welcomes **Raiders**: "Will we become a Maulstrip?… Will we become frogs because a turtle says so?"
 > 44. **0:58:09 — The campaign slogan.**
@@ -486,7 +486,7 @@ At the table, both players confessed it was their first time in the arena, and t
 >     - "Bog Boy, I make you one deal here before I kill you. You ought to go ahead and **you become new manager of my new shopping mall**, or I take you out here right now… **It pays very little.**"
 > 68. **1:41:02 — Bog Boy's answer.** "**I live for the bog. I die for the bog. The freak of the creek.**"
 >     - **He throws Clementine into the air** ("Hopefully someone catches her") and lies splayed out "like a Braveheart, like freedom."
->     - **Scribbs catches Clementine in the crowd and cradles her.** Clementine looks back with worried eyes.
+>     - **Scrib catches Clementine in the crowd and cradles her.** Clementine looks back with worried eyes.
 > 69. **1:41:22 — The boot.**
 >     - Big Business stomps his boot down. **The first stomp misses (16).** "Come on, hold still now. You're too slippery for your own good." Bog Boy: "I ain't moving, you blind man."
 >     - **The second lands** (27 plus Bless).

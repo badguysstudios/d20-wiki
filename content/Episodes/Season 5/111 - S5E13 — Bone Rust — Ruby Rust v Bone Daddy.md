@@ -153,7 +153,7 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 - an older patron drained to dust by the box.
 
 **Named Acolytes**:
-- **Bones ripped out for skeletons:** Kelly, Great to be Gator, Commodore, Scribd, Cookie Monster, Saint Paulyboy.
+- **Bones ripped out for skeletons:** Kelly, Great to be Gator, Commodore Scrib, Cookie Monster, Saint Paulyboy.
 - **Pelted with Thea's teeth:** Kristen, Lady Magdalene, Kyle.
 
 ### Places
@@ -235,7 +235,7 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 >     - Ruby: "**Three is a magic number.**" This becomes a running gag.
 >     - **The wall of fire engulfs the oozing Ruby "as if the fiery dragon itself has come to life."** Thea: "That's real magic, not numbers. This isn't algebra."
 > 32. **0:27:08 — The Acolyte skeletons.** Bone Daddy calls skeletons "out of the stands" to pile on Ruby.
->     - **The bones are ripped directly out of Acolytes' bodies, leaving "bags of meat" in the stands.** Bec names the Acolytes: **Kelly** (from her feet), **Great to be Gator, Commodore, Scribd, Cookie Monster, Saint Paulyboy.**
+>     - **The bones are ripped directly out of Acolytes' bodies, leaving "bags of meat" in the stands.** Bec names the Acolytes: **Kelly** (from her feet), **Great to be Gator, Commodore Scrib, Cookie Monster, Saint Paulyboy.**
 >     - The pile hits (another 3 for Ruby). Ruby: "Said it at the beginning and the dice are like, oh, okay."
 > 33. **0:28:00 — The bone cage.** **Bone Daddy fuses the bones into "a bone cage that only legend has heard of,"** with the bones always shifting so Ruby can't ooze through. It hits, and Ruby is trapped (a status effect).
 > 34. **0:29:31 — Names.** Thea: "Thank you, Daddy. That felt weird." Bone Daddy answers to "Bone, Bone Daddy, and Daddy."

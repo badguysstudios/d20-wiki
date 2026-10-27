@@ -51,7 +51,7 @@ Bone Daddy explained that his name came from more than "my proclivities in the b
 The Scourge, meanwhile, admitted that Bone Daddy "fills the Scourge with some uncomfortable emotions. I can admit it, I'm man enough to say it." The first skeleton fumbled badly. "Gabi, you're fired." The rest carved into the snake, and Bone Daddy gave a nervous Dobby a shoulder rub. Hammer and Anvil swooped in and both missed, though the Scourge insisted their beating wings knocked a skull or two loose. Watching the snake, the Shadow King mused that if it died, he could use a new pair of shoes.
 
 ### Chairs from Above
-Bone Daddy had drawn first blood, so he got to flip the coin. He called heads "in memory of the skeletons who had their heads knocked off." The Shadow King took Bone Daddy and the Grandmaster took the Scourge. Giant spectral shadow wings flared from the Shadow King's back, and he folded up a metal chair, dove, and smashed Bone Daddy across the face. He then did a lap of the stands, taking Commander Scribd's head "right off the shoulders" and popping off Edo's. The Grandmaster followed with a falcon dive from the railing, and the chair bent around the Scourge's "rather strong head." Little cartoon birds circled him. "Hey, those aren't the birds I intended to summon." The Shadow King was enjoying himself: "I think I'm getting the hang of this, Elusia."
+Bone Daddy had drawn first blood, so he got to flip the coin. He called heads "in memory of the skeletons who had their heads knocked off." The Shadow King took Bone Daddy and the Grandmaster took the Scourge. Giant spectral shadow wings flared from the Shadow King's back, and he folded up a metal chair, dove, and smashed Bone Daddy across the face. He then did a lap of the stands, taking Commodore Scrib's head "right off the shoulders" and popping off Edo's. The Grandmaster followed with a falcon dive from the railing, and the chair bent around the Scourge's "rather strong head." Little cartoon birds circled him. "Hey, those aren't the birds I intended to summon." The Shadow King was enjoying himself: "I think I'm getting the hang of this, Elusia."
 
 ### What's in the Box?
 The Acolytes rewarded both champions for surviving the chairs. Then the Box of Chaos fell like a comet, a chest wreathed in pink and yellow flame. It needed a soul, so the Shadow King lifted an Acolyte named great to be a Gator with a shadowy hand and wrung him out like a wet rag into the lid.
@@ -131,7 +131,7 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 **[[Characters/The Shadow King|The Shadow King]]** (Drew)
 - Leads painting sessions for goblins using paint made from chinchilla blood. Was barefoot, and was given pink spa socks.
 - Forgot the Sunday Deathmatch. Refuses to promise not to kill winners.
-- Has **giant spectral shadow wings**. Hit Bone Daddy with a metal chair and beheaded Acolytes Commander Scribd and Edo.
+- Has **giant spectral shadow wings**. Hit Bone Daddy with a metal chair and beheaded Acolytes Commodore Scrib and Edo.
 - Fuelled the Box of Chaos by wringing the soul out of the Acolyte great to be a Gator.
 - Says he has experienced complicated love himself. Calls the Grandmaster "Elusia."
 
@@ -149,7 +149,7 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 - Inferred: they come with tiny armor and rapiers and take fencing classes.
 
 **Acolytes named this episode**
-- Commander Scribd/Scrib and Edo: beheaded by chair.
+- Commodore Scrib/Scrib and Edo: beheaded by chair.
 - Cup of Tiefling: suggested as a target.
 - great to be a Gator: sacrificed to the Box of Chaos.
 
@@ -245,7 +245,7 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 > 39. **0:35:11 — The Shadow King's dive.**
 >     - He stands, cracks his back, and **giant spectral shadow wings flare out from his back**, blotting out the light behind him. Bone Daddy: "Can we talk this out?" Scourge: "does that mean this just became a tag team match?"
 >     - **He folds up his chair, dives, and whacks Bone Daddy across the face.**
->     - He then soars around the audience smacking heads. **He takes the head off Commander Scribd "right off the shoulders."** The Grandmaster: "You've picked on Scrib a lot. Why don't you just take out Cup of Tiefling?" He rips another Acolyte's head off: "**Edo's head pops off!**"
+>     - He then soars around the audience smacking heads. **He takes the head off Commodore Scrib "right off the shoulders."** The Grandmaster: "You've picked on Scrib a lot. Why don't you just take out Cup of Tiefling?" He rips another Acolyte's head off: "**Edo's head pops off!**"
 >     - Bone Daddy holds concentration.
 > 40. **0:37:04 — The Grandmaster's dive.**
 >     - She balances on the railing. The Scourge "did not consent to this, but fine."

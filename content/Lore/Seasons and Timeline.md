@@ -204,3 +204,4 @@ Everything in the order it happened on the show. Mini-series, one-shots and live
 - [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]]
 - [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]
 - [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
+- [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]]
