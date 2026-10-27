@@ -6,7 +6,7 @@ tags: [episode, season-5]
 
 | | |
 |---|---|
-| Champions and players | bigpoppadrockrsl ("Big Papa Drac") as Bob the Barbarian; Prototopics as Richard Knottley, aka Dick Twist |
+| Champions and players | bigpoppadrockrsl ("Big Papa Drac") as Bob the Barbarian; RealLifeFakeWizard as Richard Knottley, aka Dick Twist |
 | Result | Bob the Barbarian (a stacked Denim Gator on a nat 20) |
 | Arena | the front porch of the Dread Fortress, before the giant skull, on the field of lava (beside a small graveyard) |
 | Hosts | Mudcat (the Lord of Fate) and Caustic Phoenix (Thea) |
@@ -224,7 +224,7 @@ tags: [episode, season-5]
 - **Likes:** swamps, sun, Publix chicken tenders, Miller Lite, keto.
 - **This episode:** won his second Deathmatch and swore to save Robbie from the Hunger.
 
-**[[Characters/Richard Knottley|Richard Knottley / "Dick Twist"]]** (Prototopics). An old man, "87" by his own claim and "98" by Thea's.
+**[[Characters/Richard Knottley|Richard Knottley / "Dick Twist"]]** (RealLifeFakeWizard). An old man, "87" by his own claim and "98" by Thea's.
 - **Back from death:** he died last time of a heart attack on his Peloton after 45 cheeseburgers, "about three weeks ago."
 - **Look:** a removable, lopsided "real" mustache (Hercule Poirot style), an aluminum foil hat and sunglasses.
 - **Running for president** on the "Peloton party":

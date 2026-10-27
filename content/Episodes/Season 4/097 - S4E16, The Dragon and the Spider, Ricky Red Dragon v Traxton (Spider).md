@@ -6,7 +6,7 @@ tags: [episode, season-4]
 
 | | |
 |---|---|
-| Champions and players | RealLifeFakeWizard (Prototopics) as Ricky Red Dragon; theshortnord (Mike) as Traxton, "Spider" |
+| Champions and players | RealLifeFakeWizard as Ricky Red Dragon; theshortnord (Mike) as Traxton, "Spider" |
 | Result | Spider (Traxton). Destructive Wave turns Ricky to dust. The Shadow King then turns Spider into a tarantula and kicks him out of the arena. |
 | Arena | a forest clearing with a glowing purple ritual of portal circles (the Shadow King's "potential Coachella ground") |
 | Hosts | Caustic Phoenix (Grandmaster Elusia Skypiercer); Mudcat narrates and plays the Shadow King |
@@ -128,7 +128,7 @@ tags: [episode, season-4]
 84. **1:52:50** The Shadow King rises into the air, arms wide: "**Acolytes! What a season! I hope you were entertained. And let me make it clear to you. While I'm around, there will be death in the arena.** Welcome and good night to D20 Deathmatch!"
 
 ## Dried Blood (after-show)
-- Drew hosts "the last one of season four." Guests are **RealLifeFakeWizard** (Prototopics; Ricky) and **the Short Nord** (Mike, Spider). Nord's hair is longer ("It's grown on me").
+- Drew hosts "the last one of season four." Guests are **RealLifeFakeWizard** (Ricky) and **the Short Nord** (Mike, Spider). Nord's hair is longer ("It's grown on me").
 - Mike built Spider while talking to his **19-year-old nephew**, as "just a Gen Z kid." The nephew is 6'5" and "has everything I never had."
 - Bec was tempted to say "Ricky Bobby" every time.
 - RealLifeFakeWizard was glad to "play the heel" so Spider could have an arc. The concept, a dragon trapped in a human body, let Ricky be pompous with a built-in excuse. When asked "But are you a dragon?" he first says no ("It's a fantasy game"). Drew: "The only reason that we've been playing D&D with you is because we thought you were a dragon." Bec: "Short Nord is an actual Nord." RealLifeFakeWizard then says "I am a dragon."

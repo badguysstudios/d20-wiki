@@ -10,8 +10,8 @@ First appears in [[Episodes/Season 5/104 - S5E6 — American Amphibian — King 
 | Episode | Played by | Result |
 |---|---|---|
 | [[Episodes/Season 5/104 - S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley\|S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley]] | RealLifeFakeWizard | none. Both die: Richard of a "coronary" after his Peloton lightning, and Bofus to fatigue (Dr. Bees in Dried Blood: "not killed me regarding fatigue") |
-| [[Episodes/Season 5/107 - S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)\|S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)]] | Prototopics | Bob the Barbarian (a stacked Denim Gator on a nat 20) |
-| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | Prototopics (RealLifeFakeWizard) | Copycat and the Hunger (fused) |
+| [[Episodes/Season 5/107 - S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)\|S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)]] | RealLifeFakeWizard | Bob the Barbarian (a stacked Denim Gator on a nat 20) |
+| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | RealLifeFakeWizard | Copycat and the Hunger (fused) |
 | [[Episodes/Season 6/120 - S6 Ep4 — Tip to Tip - Part 1 (TTRPG One Shot)\|S6 Ep4 — Tip to Tip - Part 1 (TTRPG One Shot)]] | RealLifeFakeWizard | no deathmatch. The party ("Team B", later "Team 3D") defeats Skelman's lich grandfather and finds Thea. Skelman v Richard Knottley is set for next week. |
 | [[Episodes/Season 6/121 - S6E5, Tip to Tip - Part 2 (Richard Knottley v Richard S. Skelman, the leadership Deathmatch)\|S6E5, Tip to Tip - Part 2 (Richard Knottley v Richard S. Skelman, the leadership Deathmatch)]] | RealLifeFakeWizard | Richard S. Skelman. Knottley fades away ("ascends") on his fifth fatigue. Skelman becomes leader and names the team "Team D". |
 
@@ -30,7 +30,7 @@ First appears in [[Episodes/Season 5/104 - S5E6 — American Amphibian — King 
 - Died of a "coronary"/"pulmonary" after his Peloton lightning heroic surge. Left a dead man's switch recording.
 
 ### [[Episodes/Season 5/107 - S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)|S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist)]]
-(Prototopics). An old man, "87" by his own claim and "98" by Thea's.
+(RealLifeFakeWizard). An old man, "87" by his own claim and "98" by Thea's.
 - **Back from death:** he died last time of a heart attack on his Peloton after 45 cheeseburgers, "about three weeks ago."
 - **Look:** a removable, lopsided "real" mustache (Hercule Poirot style), an aluminum foil hat and sunglasses.
 - **Running for president** on the "Peloton party":
