@@ -6,7 +6,7 @@ tags: [episode, season-5]
 
 | | |
 |---|---|
-| Champions and players | Cucumber as Tormiir; a guest introduced as "Blue Buffin" and called "Luna"/"Lulu" by Caustic Phoenix as Granny Edith (name uncertain |
+| Champions and players | Cucumber (PerceptionStudio) as Tormiir; Luboffin as Granny Edith |
 | Result | none. Both champions die from a fifth fatigue in the final exchange. |
 | Arena | the Chinchilla Forest |
 | Hosts | Mudcat (narration, the Lord of Fate); Caustic Phoenix (Thea, chaos events, rulings) |

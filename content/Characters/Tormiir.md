@@ -9,7 +9,7 @@ First appears in [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest �
 ## Deathmatch record
 | Episode | Played by | Result |
 |---|---|---|
-| [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith\|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] | Cucumber | none. Both champions die from a fifth fatigue in the final exchange. |
+| [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith\|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] | Cucumber (PerceptionStudio) | none. Both champions die from a fifth fatigue in the final exchange. |
 
 ## Appearances
 

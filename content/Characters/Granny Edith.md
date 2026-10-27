@@ -8,6 +8,7 @@ First appears in [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest �
 ## Deathmatch record
 | Episode | Played by | Result |
 |---|---|---|
+| [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith\|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] | Luboffin | none. Both champions die from a fifth fatigue in the final exchange. |
 | [[Episodes/Season 5/106 - S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso\|S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso]] | Luboffin | Granny Edith (a boulder-sized loaf of bread knocks Teddy off a tombstone into the lava) |
 
 ## Appearances

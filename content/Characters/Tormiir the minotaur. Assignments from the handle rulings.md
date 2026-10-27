@@ -8,5 +8,5 @@ First appears in [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale),
 ## Deathmatch record
 | Episode | Played by | Result |
 |---|---|---|
-| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | PerceptionStudio (by elimination) | Copycat and the Hunger (fused) |
+| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | Cucumber (PerceptionStudio) | Copycat and the Hunger (fused) |
 
