@@ -18,7 +18,7 @@ tags:
 
 ## Story
 
-Beans arrived at [[The Dread Fortress]] through the third portal of the night, cheerfully announcing himself: "Hey guys, how's it going? I'm here! Yes, we are here, Precious." [[Grandmaster Elusia Skypiercer|The Grandmaster]] offered him a high chair, which he refused with great dignity as his wings fluttered and sparkling pixies appeared to dance in a line behind him. He then grabbed the camera to plead, "help me. I don't know what I'm doing here." He was put on a team with the snake-man Solid and the reeking centaur [[Grog the Malodorous]]. When asked about Grog's smell, Beans said it "Smells like glorious purpose." Things got darker when the mammoth [[Pyxis]] arrived and explained he was hunting the killers of his family: "a little fairy, a strange centaur person, and a cobra of some kind." Beans, measured at two foot four, was mostly delighted to learn his height: "Woohoo! I'm tall!"
+Beans arrived at [[The Dread Fortress]] through the third portal of the night, cheerfully announcing himself: "Hey guys, how's it going? I'm here! Yes, we are here, Precious." [[Grandmaster Elusia Skypiercer|The Grandmaster]] offered him a high chair, which he refused with great dignity as his wings fluttered and sparkling pixies appeared to dance in a line behind him. He then grabbed the camera to plead, "help me. I don't know what I'm doing here." He was put on a team with the snake-man [[Solid]] and the reeking centaur [[Grog the Malodorous]]. When asked about Grog's smell, Beans said it "Smells like glorious purpose." Things got darker when the mammoth [[Pyxis]] arrived and explained he was hunting the killers of his family: "a little fairy, a strange centaur person, and a cobra of some kind." Beans, measured at two foot four, was mostly delighted to learn his height: "Woohoo! I'm tall!"
 
 The opening gauntlet ran through three rooms of the fortress, and Beans was the brains of Team A. In the kitchen, faced with a feast that had to be eaten entirely, he shrank the food with magic and fed it to Grog. When Grog flagged, Beans stood behind him cheering "You can do it" while his pixies formed a dance line, and the food went down. In the room of sleeping [[Chinchillas]], each cuddling a kitchen knife, he tiptoed across "very Scooby Doo style" and led Grog behind him "like you teach little kids how to dance." Unfortunately, the overfed Grog let out a fart with every step. Beans's attempt at diplomacy ("Ask it to be quiet! I'm being asked to ask you") failed, and the chinchillas woke up and stabbed everyone. Beans's parting words to them were "I hope you have nightmares." [[The Acolytes]] loved "the place where your heart is at, Beans," and sent him blessings.
 
@@ -45,7 +45,7 @@ He was a druid of the Circle of the Stars. In his starry form he became a floati
 ## Relationships
 
 - [[Grog the Malodorous]]: teammate he fed and coached through the gauntlet; Grog adored him ("I'm going to have to take this beans guy home. He's pretty funny") and mourned him in his own last words.
-- Solid: teammate who wanted him to stop talking to the monster and punch it.
+- [[Solid]]: teammate who wanted him to stop talking to the monster and punch it.
 - [[Perry]]: shoved him into the Box of Chaos, then killed him with a dying shovel swing; they died together.
 - [[Pyxis]]: hunted a fairy, a centaur and a cobra for killing his family; Beans nearly flattened him with starlight.
 - [[Dave the Doom Duck]]: trapped him in hellfire; Beans returned the favor with a wall of fire of his own.

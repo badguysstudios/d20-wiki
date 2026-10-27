@@ -20,7 +20,7 @@ tags:
 ### A Smell You Can Feel
 Grog arrived in the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)]] full of swagger and short on details: "Dang, brother. All I'm going to say right now is that nobody's got a chance… Grog's here to play. He's playing for keeps. Wait, where am I again?" Someone pointed him to the shower down the hall, and he politely declined: "A little zest in your life." When he stretched out, his tunic rode up and his natural essence made eyes water across the room. He loved it. [[Grandmaster Elusia Skypiercer|The Grandmaster]] did not: "It's a smell that you can feel. That is something I never wanted in my life."
 
-He was put on a team with [[Beans the Terrible]] and Solid, and the three got a frosty welcome from [[Pyxis]], a mammoth who had come looking for "a little fairy, a strange centaur person, and a cobra of some kind" who had killed his loved ones. The first challenge was a kitchen whose tables had to be cleared before anyone could move on, and that was Grog's kind of challenge. Beans shrank the food and fed it to him while his pixies danced in a line and cheered him through the hard parts. "I don't know who this is, but I like his style. I love food," Grog said, and a friendship was born.
+He was put on a team with [[Beans the Terrible]] and [[Solid]], and the three got a frosty welcome from [[Pyxis]], a mammoth who had come looking for "a little fairy, a strange centaur person, and a cobra of some kind" who had killed his loved ones. The first challenge was a kitchen whose tables had to be cleared before anyone could move on, and that was Grog's kind of challenge. Beans shrank the food and fed it to him while his pixies danced in a line and cheered him through the hard parts. "I don't know who this is, but I like his style. I love food," Grog said, and a friendship was born.
 
 ### The Chinchillas and the Worm
 The next room held a nest of sleeping [[Chinchillas]], each cuddling a kitchen knife, and the team had to sneak through without waking them. Grog's belly was now very full, and the shrinking magic had worn off. Every step let out a fart, each one louder than the last, until the chinchillas woke "with murder in their eyes" and stabbed all three champions with a flurry of tiny blades. A chinchilla in a hard hat, cigarette in mouth, urged the others on.
@@ -45,7 +45,7 @@ In a fight he relied on raw power. He charged off his bionic leg with a war hamm
 
 ## Relationships
 - [[Beans the Terrible]]: teammate who fed and cheered him through the gauntlet; Grog's favorite, the friend he wanted to "meet" again as he died.
-- Solid: teammate in the gauntlet who wanted to "cast reflect missiles" at Grog's farts.
+- [[Solid]]: teammate in the gauntlet who wanted to "cast reflect missiles" at Grog's farts.
 - [[Pyxis]]: a mammoth hunting a fairy, a centaur and a cobra who he said had killed his family.
 - [[Perry]]: a fellow champion Grog killed with the trident, apologizing as he did it.
 - [[Dave the Doom Duck]]: the hell duck Grog hoped to eat, and who killed him with a fireball.

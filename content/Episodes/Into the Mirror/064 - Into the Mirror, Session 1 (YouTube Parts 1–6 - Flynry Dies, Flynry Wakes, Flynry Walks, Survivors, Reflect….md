@@ -171,7 +171,7 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 
 ### Places
 - **The dream village**: a countryside village with an ancient oak, a river and a market square. It turned to sand.
-- **The green-sand desert / "the in-between"**:
+- **[[Places/The Sands of Eternity|The green-sand desert / "the in-between"]]**:
   - Mirror-green, cold sand under a black sky of nebulas, with sand-fingers that rise to form stars.
   - You can't reach the horizon, and time is indiscernible (years or decades for Flynry).
   - **The sand is made of completely destroyed souls; its magic is "evil in nature."** It has a name not yet given; few return from it.

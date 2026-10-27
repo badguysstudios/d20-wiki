@@ -4,6 +4,9 @@ type: place
 region: A realm of the dead apart from every other underworld, reachable only through mirrors
 first_appearance: Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)
 summary: A vast desert afterlife of cold blue sand, once open to the living, where souls bound to it arrive after death and where dying a second time is final.
+aliases:
+- The green-sand desert
+- The in-between
 tags:
 - place
 ---
@@ -58,6 +61,9 @@ Vythorn's soul did escape the Sands, only to be sidetracked by [[Fil]]. In S4E14
 - [[Cerys]]: a traveler of these realms who helped bring the party to the Sands.
 - [[The Arbiter|Vythorn]]: recognized the Sands and knew their history, and later escaped them.
 - The guard captain: a centuries-old resident who found the Sands "comfortable" enough.
+
+## The Green-Sand Desert
+The Sands of Eternity first appeared, unnamed, in [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1]], where [[Flynry]] woke after his death in what the party then knew only as a desert of cold, mirror-green sand, "the in-between." A stinging wind blew across it, there was nothing in any direction for hundreds of miles, and fingers of sand rose from the dunes into a black sky of nebulas and planets to form new stars. The horizon could never be reached and time was impossible to judge: for Flynry, what passed there might have been years or decades. The sand, they learned, is made of completely destroyed souls, the magic of the place is "evil in nature," and few who end up there ever return. The desert had a proper name that hadn't been given yet. In the next session, Elianna recognized it from books, scrolls and whispers: the Sands of Eternity.
 
 ## Appearances
 - [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]]

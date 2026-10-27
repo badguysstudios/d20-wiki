@@ -161,6 +161,7 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Grog the Malodorous\|Grog the Malodorous]] | JJ (Jonathan, Wounded Warrior Project staff) | Dave the Doom Duck (last one standing; "captured the flag") |
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Perry\|Perry]] | Keon (brotherkeon) | Dave the Doom Duck (last one standing; "captured the flag") |
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Pyxis\|Pyxis]] | Anthony Joyce Rivera | Dave the Doom Duck (last one standing; "captured the flag") |
+| × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Solid\|Solid]] | Dan / Nat1Fun | Dave the Doom Duck (last one standing; "captured the flag") |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Grimnar Stormclaw\|Grimnar Stormclaw]] | Mudcat | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Muffy\|Muffy]] | JustSeum ("Sam") | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Nehebka\|Nehebka]] | CriticalBard | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
