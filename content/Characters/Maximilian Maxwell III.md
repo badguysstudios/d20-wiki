@@ -1,17 +1,50 @@
 ---
-title: "Maximilian Maxwell III"
-tags: [character]
+title: Maximilian Maxwell III
+type: character
+aka:
+- Max
+role: champion
+played_by: Charles
+first_appearance: Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III
+status: alive
+summary: A wealthy New Yorker in white gloves who bought his way into the Deathmatch, paid the audience to fight for him, gave half his life to his opponent, and still walked away the winner.
+aliases:
+- Max
+tags:
+- character
 ---
 
-First appears in [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]]. Appears in 1 episode.
+**Maximilian Maxwell III** was a rich New Yorker with spotless white gloves, a white Louis Vuitton belt and a firm promise to his mother to keep both clean. He fought [[Ringmaster Talon]] at the Full Sail Hall of Fame 2025 live show and solved most of his problems the way he solved everything else: with money. He paid the crowd to fight for him, paid [[Grandmaster Elusia Skypiercer|the Grandmaster]] to bring his opponent back to life, and gave away half of his own life. He still won.
+
+## Story
+
+Max arrived in [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]] to a mock-forgetful introduction from [[The Arbiter|the Arbiter]], who claimed he couldn't recall the name. "I just like to say that to make myself feel important," the Arbiter admitted. He took one look at Max's white gloves and warned him, "You're going to get a lot of blood on those gloves." Asked why anyone dressed like that would sign up for a blood deathmatch, Max gave his reason:
+
+> "I promised my dear mother that I would not get any blood on my white Louis Vuitton belt."
+
+Max had not earned his place in the arena so much as purchased it. He **bought his way onto the stage**, and once the fight began he kept his wallet out. He paid [[The Acolytes|the Acolytes]] to roll the dice for him, take hits for him and defend him, turning the audience into a hired bodyguard. He also claimed he trained with Olympic athletes, naming Tonya Harding as one of them.
+
+The strangest turn came when Max paid the Grandmaster to revive Ringmaster Talon. Then he went further and, through the Arbiter, **gave up half of his own life to Talon**. Few champions have spent so much to help the person they were trying to kill. It didn't cost him the match. The Grandmaster declared, "Every death means a victor… our winner, our Maximilian Maxwell III!" Max celebrated with a cry of "Death by SpaghettiOs!" in honour of his mother's dinner plans and thanked the crowd. The Arbiter sent everyone off with a reminder: "Go home, get out of here! You can't have your money back."
+
+## Personality and Abilities
+
+Max was a creature of the main streets of New York City, where he said he liked to hang out, and a devoted fan of the Radio City Rockettes. His look was luxury on a budget. The white gloves and white Louis Vuitton belt were the showpieces, and his suit was a $23 scotch-guarded number from Macy's at the Millennium Mall. He was named after his "great daddy." His father left, and his mother still wired him money and was making SpaghettiOs for him that night.
+
+He did little of his own fighting. Max's real weapon was his checkbook. He hired the Acolytes to do his rolling, take his hits and guard him, and he bought favours from the Grandmaster herself. The life he handed over to Talon showed he would spend more than money when he wanted to.
+
+## Relationships
+
+- [[Ringmaster Talon]]: His opponent. Max paid to have Talon revived, gave him half his life, and still beat him.
+- [[Grandmaster Elusia Skypiercer|The Grandmaster]]: He paid her to revive Talon, and she crowned him the winner.
+- [[The Arbiter]]: Introduced Max with a joke and carried out the transfer of half Max's life to Talon.
+- [[The Acolytes]]: His paid help, hired to roll the dice, take hits and defend him.
+- Jesse: A friend of his.
+
+## Memorable Quotes
+
+- "I promised my dear mother that I would not get any blood on my white Louis Vuitton belt." (Full Sail Hall of Fame 2025)
+- "Death by SpaghettiOs!" (Full Sail Hall of Fame 2025)
+- "Thank you, Hall of Fame! This has been D20 Deathmatch!" (Full Sail Hall of Fame 2025)
 
 ## Appearances
-
-### [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]]
-(guest, player name not stated).
-- A rich New Yorker who "hangs out on the main streets of New York City." Fan of the Radio City Rockettes.
-- Wears a white Louis Vuitton belt and white gloves. His $23 scotch-guarded suit came from Macy's at the Millennium Mall.
-- Named after his "great daddy"; his father left. His mother wires him money and is making SpaghettiOs tonight.
-- **Bought his way onto the stage** and pays Acolytes to roll, take hits and defend. Claims to train with Olympic athletes (Tonya Harding).
-- Paid the Grandmaster to revive Talon, then gave up half his life to him via the Arbiter. Won the fight.
-- Friend of Jesse.
+- [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]]

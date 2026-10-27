@@ -1,217 +1,155 @@
 ---
 title: Doug the Pug
-aliases: [Doug]
-tags: [character]
+type: character
+aka:
+- Doug
+- The goodest boy
+- The gem of the castle
+- The beloved dog of the arena
+role: pet
+species_class: Undead cyborg pug
+played_by: Caustic Phoenix
+first_appearance: S1E7 — Wild Magic — Strako v Zayliss
+status: alive
+affiliations:
+- Grandmaster Elusia Skypiercer
+- The Dread Fortress
+summary: The Grandmaster's beloved undead cyborg pug, who rolls for chaos events, judges champions and routinely outrolls the Arbiter.
+aliases:
+- Doug
+- The goodest boy
+- The gem of the castle
+- The beloved dog of the arena
+tags:
+- character
 ---
 
-**Doug the Pug** is [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s beloved pug and "the beloved dog of the arena."
+**Doug the Pug** is [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s pug, "the beloved dog of the arena" and, by one account, "the absolute symbol of D20 Deathmatch." He is small, round, wheezing and visibly falling apart: an undead cyborg pug with one good eye and one metal one. From his little throne beside the Grandmaster he rolls for chaos events, blesses or bites champions as he sees fit, and makes a sport of humiliating [[The Arbiter]], who cannot stand him. The Arbiter once died to save him anyway.
 
-- An **undead cyborg pug**, with one good eye and one metallic cyborg eye that scans with a red infrared beam.
-- He rides in a little wagon on a purple pillow, sometimes in a tiny crown, and he judges champions. His approval matters ("It's a bone day today").
-- He has his own official sanctioned cheese, with twelve refrigerators of it in the Fortress basement. His desire for blood is greater than his desire for cheese.
-- He rolls for chaos events, and often rolls higher than [[The Arbiter]], who openly dislikes him ("Fucking Doug").
-- In the Season 3 finale the Arbiter died stepping in front of [[The Shadow King]]'s attack on Doug. "I saved his life once."
-- Nobody insults Doug. "He can't even breathe correctly."
+## Story
 
----
-*Everything below is compiled from the episode pages, in show order.*
+### Season 1
+
+Doug was introduced in [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] as a very old, sleepy pug who has "always" lived in [[The Dread Fortress]] with the Grandmaster, looked after by the fortress goblins. He has his own throne beside hers in the stands, where he eats popcorn and snacks. His health works as an omen. Some days he has no bones and simply collapses. If he stays standing when he is stacked up, it is a **"bone day,"** and that is good luck. He rolls dice with his mouth, and in his first outing he beat the Arbiter in four of five roll-offs. He also sprouted tiny wings and a head bubble to fly, started a game of tag in the arena, and gave the doomed [[Zayliss]] a "final snuggle." Someone even called him "the bone daddy."
+
+His powers grew quickly. In [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]], his barking, joined by the barking of the hieroglyph dogs, silenced all spoken magic in the arena. He blessed [[Lord Xiren]] and spat out the die for the final chaos event, and a bones day was declared mid-match. The dragon battle royale fell on a no-bones day, but Doug still fired a "laser eye" to trigger the final change of the battlefield, and Wes Wolf commissioned a painting of him. He got so excited during [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]] that he licked the fallen [[Milliac]]'s face. In later episodes he went wild for thrown dog treats and was declared "the goodest boy."
+
+His great moment came in the season finale, [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire]]. Doug went to check the front door before the attack. Then the "small undead pug" **flew into the arena and held the Southern Gate alone**, and he survived it.
+
+### Season 2
+
+Season 2 settled Doug into his routine, and into his feud with the Arbiter. When [[Lethe]] and [[Sorry]] fought, the victor won the right to pet and walk him, which left him with "double the walkies." In [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]], his barking echoed through the forest and magically turned both champions into beasts. He ate a dog-friendly cupcake and fetched [[Gordy Gotta Get Em]]'s emerald in his mouth. During [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love]], the Grandmaster explained that her undead dog could safely eat chocolate: "what is it gonna do, kill him again." He hid behind the throne with the candy wrappers, and she made it official that her chaos die is "what Doug will roll."
+
+The Arbiter's distaste for him only made Doug bolder. He picked [[Veronica]] to be "it" in a game of tag, sank when he landed "like he's got a few holes in him," barked three times to set off the tag explosion, and farted at the Arbiter, who called him a jerk. When the Arbiter bullied him, he hid under the throne, then laughed (or coughed) at the Arbiter's terrible roll of a 1 and rolled a 12 to bail him out. By [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets]] he was "the gem of the castle," with a squeaky foam die and a big fluffy red pillow couch, and he rolled in place of the Arbiter whenever the Arbiter rolled badly. He was also sensitive about his height.
+
+He moved up to his own small floating pedestal beside the throne. In [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|S2E12 — Blood Cookies]], he was ordered to roll over and responded by biting [[Martin Messiah Malenko]], drawing the first blood of the match, before choosing to stay with the Grandmaster for a treat. He pounced on [[Chancy]] when a butterfly-shaped [[Buli]] urged him to, and he apparently "knows many dogs in the realm." He nursed a retired lion and glowed "with ethereal ability," his chair floating higher than the Arbiter's head. [[Snoop & Dog|Snoop]] called him a "non-dog" and a "very cute lizard." He hates baths, and once escaped one still soapy and sat dripping by the Grandmaster, afraid to move in case he got another.
+
+### Battle for the Crown
+
+When the Arbiter tried to seize the throne with an army of resurrected champions, Doug sat beside the Grandmaster wearing **a small crown**. Veronica suggested he should be Grandmaster instead. The Grandmaster said they "have considered it," but Doug "likes to live the responsible-free life." He licked [[Cosmonius]]'s pixie dust, and the victors of the second round stood beside him at the throne. In the final round he beat the Arbiter's roll with a chewed squishy die. Once the coup had failed, Doug appeared in a tuxedo-like outfit with a rose and **led the Arbiter away on a leash**.
+
+### Season 3
+
+Doug missed the live show at GCX Orlando 2022, where the Arbiter called "our wonderful D20 Dread Fortress mascot" "a dick" and an Acolyte rolled in his place. Back home for Season 3, he sat on a fancy cushion in a collar, on a mini Grandmaster's throne set higher than the Arbiter's, and outrolled the disgraced Arbiter with a plush die again and again. He exchanged a respectful nod with Maximus and volunteers at Maximus's shelter on Mondays, Wednesdays, Fridays and Sundays. When the Arbiter barked at him, Doug did a booty shake.
+
+His powers became steadily stranger. He summoned champions by chasing his tail, rolled a natural 20 for a chaos event with his squeaky toy, and plays in the kitchen pool. He also turned out to be touchy about his appearance: he is undead, but he dislikes being called a zombie dog. According to the Arbiter, Doug is "literally a cyborg zombie," and Doug doesn't know it. He appears whenever his name is said, rolls "when he wants to roll," and once took [[Captain Fable]]'s bone and never gave it back. A bone-fuelled fart rocket-launched him back to his throne, and later he flew on green fart gas and left both champions one-handed for a round with his fart cloud. He was frightened by the monster book and by a sudden natural 20, and he cried when his plush die fell in the mud. By then he looked "a little beaten and worn," but he was still handing out blessings and inspiration.
+
+In the [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|Season 3 finale]], Doug rode in the Grandmaster's wings and peed on [[Huey Leatherface]]'s shoe. Then [[The Shadow King]] returned. When the Shadow King struck at Doug, **the Arbiter stepped in front of the attack and died in his place**. The last anyone saw of Doug, he was in chains alongside the Arbiter.
+
+### Under the Shadow King
+
+For most of Season 4, while the Grandmaster ruled in name only, Doug was missing. She told the arena she bet he was alive somewhere. During [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown]], the fortress made a point of noting that "Doug has not been replaced," although there were many dogs in the fortress. In [[Episodes/Vythorn's Return/098 - S4E17 (Season Finale) - Vythorn's Return Part 3|Vythorn's Return Part 3]], the truth came out. Doug had been there all along, disguised in a goblin costume the goblins had made for him, and the Shadow King never noticed. Vythorn exposed the wheezing, short-snouted dog and shackled him to go with Elusia.
+
+### The Season of Fate
+
+In the Season of Fate, the vision of rule that only the Arbiter lived through, Doug was kept shackled in the dungeons. In [[Episodes/Season 5/110 - S5E12 — Imitation Game — Kopy Katt v Ragu|S5E12 — Imitation Game]], he wore a sloth onesie "with no bones." He chortled at the Lord of Fate's baby photo and was banished for it, until the Acolytes' **"Free Doug"** chant brought him back in a floating, spinning cage.
+
+### Season 6
+
+Back in the real timeline, Doug returned to the dice. In the Ether Drifts, his collar granted pug swiftness. In the [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|season finale]], the tiny pug with one cyber eye yelled, ate the receipts, rolled his toy die, farted, and peed on the tallest thing in the arena.
+
+### Season 7
+
+In the Season of Vigilance, Doug rides in a wagon on a purple pillow, wearing a tiny crown. In [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree]], he "doesn't have bones today," and it was explained that he "has no bones… has been neutered." He was a charmer with Clementine. The Arbiter, who "doesn't even like Doug," admitted, "I saved his life once." Doug's metallic eye now scans champions with a red infrared beam, and his approval matters. In [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White]], he clapped on two feet for a champion he liked ("It's a bone day today") and ate Cheese Prof's head.
+
+He has his own **official sanctioned cheese**, offered as a prize in [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese]], and twelve refrigerators of it in the fortress basement. Even so, his "desire for blood is greater than his desire for the cheese." He hauled the arena's new metal chairs on a rope. Nobody is allowed to insult him: "He can't even breathe correctly." In [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms]], he was caught asleep in the Arbiter's seat and shoved out. He was back in time for popcorn after the break in [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare]].
+
+## Personality and Abilities
+
+Doug is a tiny, fat, round pug in an advanced state of undeath. His skin is falling off his face, he sinks when he lands as if he has a few holes in him, and he can't breathe properly. He has one good eye and one cyborg eye that scans with a red infrared beam. He has worn a collar, a tiny crown, a tuxedo with a rose, a goblin costume and a sloth onesie. He is vain about his looks, touchy about his height, hates baths, and scares easily, usually with flatulent results. He is also a ping pong ace. Whether he has bones on a given day is treated as an omen for the whole arena.
+
+His real job is rolling. He rolls dice with his mouth or throws his squeaky green plush die, usually stepping in after the Arbiter rolls badly and usually rolling higher. Beyond that, his abilities are unpredictable. His bark has silenced spoken magic, turned champions into beasts and set off explosions. His eye fires lasers. He can fly on tiny wings, on green fart gas or by fart rocket. He grants blessings and inspiration, and he held a gate against an invasion by himself. He loves treats, cupcakes, eggs and cheese, but he loves blood more.
+
+## Relationships
+
+- [[Grandmaster Elusia Skypiercer]]: his owner, who adores him, sits him on a throne beside her own and calls him "the goodest boy."
+- [[The Arbiter]]: his bitter rival, whom he outrolls, farts at and once led on a leash; the Arbiter still died taking a blow meant for him.
+- [[The Shadow King]]: struck at Doug at the end of Season 3, then never noticed him hiding in a goblin costume.
+- [[Veronica]]: Doug picked her as "it" in tag, and she later nominated him for Grandmaster.
+- [[Martin Messiah Malenko]]: bitten by Doug for ordering him to roll over.
+- [[Chancy]]: pounced on by Doug at [[Buli]]'s urging.
+- [[Zayliss]]: received a "final snuggle" from Doug.
+- [[Huey Leatherface]]: Doug peed on his shoe.
+
+## Memorable Quotes
+
+- "what is it gonna do, kill him again" (the Grandmaster, S2E8 — Father's Love)
+- "Doug rolls when he wants to roll." (S3E4 — Crypto Monkeys)
+- "One day, Doug" (the Arbiter, S3E4 — Crypto Monkeys)
+- "Doug has not been replaced" (S4E11 — Beatdown)
+- "I saved his life once." (the Arbiter, S7E2 — Under the Oil Tree)
+- "He can't even breathe correctly." (S7E5 — Rock and a Hard Place)
 
 ## Appearances
-
-### [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]]
-A very old, sleepy pug who has "always" lived in the Dread Fortress with the Grandmaster.
-- The goblins look after him.
-- Some days he has no bones and collapses. If he stands when stacked up, it's "bone day," a good omen.
-- Has his own throne beside the Grandmaster's in the stands. Eats popcorn and snacks.
-- **Rolls d20s with his mouth** and beat the Arbiter in four of five roll-offs. The Arbiter won with a 15 and a nat 20.
-- Can sprout tiny wings and wear a head bubble to fly.
-- Started the game of tag. Gave Zayliss a "final snuggle."
-- Also called "the bone daddy."
-
-### [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]]
-The Grandmaster's pug, who naps with her and decides bones days.
-- **His barking (plus the barking hieroglyph dogs) silenced verbal magic.**
-- Likes praise; blessed Xiren.
-- Spat out the d20 for the final chaos event.
-- "Bones day" was declared mid-episode.
-
-### [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]]
-The Grandmaster's pug, at her seat. Decides bone day / no bones day (a no bones day tonight). Adds +7 with a "laser eye" to trigger the final map change. Subject of a painting commissioned by Wes Wolf.
-
-### [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]]
-The Grandmaster's pug. He gets excited during the fight and licks the fallen Milliac's face.
-
-### [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]]
-sits by the GM's throne seat in the stands.
-
-### [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]
-sits beside the Grandmaster's seat. He rolls a chaos die (a 12) and gets excited by the thrown dog treats.
-
-### [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]]
-The Grandmaster's dog. He sits beside her seat in the sky and rolls the round-end d20 with the Arbiter. The GM calls him "the goodest boy."
-
-### [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]]
-- A "small undead pug" with his own small throne beside the Grandmaster's.
-- Beats the Arbiter's rolls. Went to check the front door before the attack.
-- **Flew into the arena and held the Southern Gate alone.** Survived.
-
-### [[Episodes/Season 2/026 - S2E2 — Prize Fight — Asena v Ralzamon|S2E2 — Prize Fight — Asena v Ralzamon]]
-the GM's pug. He had "a bones day" and rolled a chaos event.
-
-### [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]]
-Sits by the GM's throne. The victor gets to pet and walk him, so now he gets "double the walkies."
-
-### [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]]
-Lies on a throne as large as the Grandmaster's beside her ("bones day or not"). He rolls d20s with his mouth for the Arbiter. **His barking echoed through the forest and magically wild-shaped both champions.**
-
-### [[Episodes/Season 2/029 - S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em|S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em]]
-Sits beside the GM and had a dog-friendly cupcake. He fetched Gordy's emerald in his mouth.
-
-### [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]]
-The Grandmaster's seatmate.
-
-### [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]]
-The GM's **undead dog**; "he can eat chocolate… what is it gonna do, kill him again." He hides behind the throne with the candy wrappers. **The GM's chaos die is "what Doug will roll."** He doesn't like the Arbiter. The GM throws him a bone.
-
-### [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]]
-the GM's pug.
-- Picked Veronica as "it." Sinks when he lands, "like he's got a few holes in him."
-- Farted at the Arbiter, who calls him a jerk.
-- Barks three times to trigger the tag explosion.
-
-### [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]]
-Sits beside the GM. His "skin is falling off his face." He hid under the throne when the Arbiter bullied him, then laughed or coughed at the Arbiter's 1 and rolled a 12 to help him.
-
-### [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]]
-(Caustic Phoenix). "The gem of the castle."
-- Has a squeaky foam d20 and a big fluffy red pillow couch.
-- **Rolls in place of the Arbiter.** His 6 let the Arbiter trigger a chaos event.
-- Sensitive about his short stature. Got a cookie.
-
-### [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko]]
-Now has his own small floating pedestal-stage beside the GM's throne and rolls a squeaky plush d20 for the Arbiter's bad rolls.
-- Wisdom 1 (GM).
-- Was commanded to roll over, then bit Martin for it: first blood of the match.
-- Chose to stay with the Grandmaster for a treat.
-
-### [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]]
-- The Grandmaster's pug. He got a raw egg (no cookies), has a green D20 squish toy, and wants a turn rolling.
-- He sat in "his throne above."
-- He pounced on Chancy at butterfly-Buli's urging.
-- "Knows many dogs in the realm."
-
-### [[Episodes/Season 2/037 - S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog|S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog]]
-(Caustic Phoenix). Sits beside the Grandmaster on a fluffy pillow and pedestal and rolls a **green plushy D20** when the Arbiter rolls badly. He "glows with ethereal ability"; his chair floats higher than the Arbiter's head. He nursed the retired lion. Snoop calls him a "non-dog" and a "very cute lizard"; the Arbiter says Doug "rolled like shit" last week.
-
-### [[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary]]
-The Grandmaster's pug, "the absolute symbol of D20 Deathmatch." He hates baths, escaped still soapy, and sat by the GM wet, afraid to move in case he got another bath.
-
-### [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee]]
-Sits beside the Grandmaster. Growls at the Arbiter and sticks out his dry-tipped tongue.
-
-### [[Episodes/Battle for the Crown/046 - S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …|S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …]]
-sits beside the Grandmaster wearing **a small crown**. Veronica wants him as Grandmaster; the GM says they "have considered it," but he "likes to live the responsible-free life."
-
-### [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …]]
-Licked Cosmonius's pixie dust; the victors stand beside him at the throne.
-
-### [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]]
-- Sits beside the Grandmaster and rolls a chewed squishy d20, beating the Arbiter.
-- At the end he wears a tuxedo-like outfit with a rose and leads the Arbiter on a leash.
-
-### [[Episodes/Live Shows/049 - Live | GCX Orlando 2022 — Lord Snacc v The Showman|Live | GCX Orlando 2022 — Lord Snacc v The Showman]]
-"our wonderful D20 Dread Fortress mascot," absent this time. An Acolyte rolled in his place. The Arbiter calls him "a dick."
-
-### [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]]
-("our pug").
-- Sits on a fancy cushion by the Grandmaster's throne and wears a collar. He rolls a plushie D20 after the Arbiter's end-of-round rolls (13, 10) and beats him both times.
-- Exchanged a respectful nod with Maximus. Volunteers at Maximus's shelter Mon/Wed/Fri/Sun.
-
-### [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]]
-(Caustic Phoenix). Rolls a plush D20 for the Arbiter (13, then 10), does a booty shake, and is not intimidated by the Arbiter's bark. His throne is a mini Grandmaster throne set higher than the Arbiter's.
-
-### [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]]
-He plays in the kitchen pool and summoned the champions by chasing his tail. He rolled the nat 20 chaos roll with his squeaky toy. **He is undead and dislikes being called a zombie dog; he got huffy about his looks.**
-
-### [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]]
-The Grandmaster's tiny round pug, who appears when his name is said.
-- Befriends Mort and shares a toy with him. Rolls a 17 on his own. "Doug rolls when he wants to roll."
-- The Arbiter threatens him ("One day, Doug").
-
-### [[Episodes/Season 3/054 - S3E5, Edge Lords - Captain Fable v Verryn Ruth|S3E5, Edge Lords - Captain Fable v Verryn Ruth]]
-(the GM's dog). Breed not stated; pug-fart and Frenchie jokes.
-- Sits at the GM's feet. Took Fable's bone and didn't return it.
-- **A bone-fuelled fart rocket-launched him back to the throne**, and he farted at the Arbiter for insulting him.
-- Owns a plush d20 squeaky toy and gave the Arbiter one.
-
-### [[Episodes/Season 3/055 - S3E6, Homunculus - Coen v Alfucius|S3E6, Homunculus - Coen v Alfucius]]
-The Grandmaster's fat pug. He plays fetch with a plushy D20, gnaws Alfucius's toe, and "approved" the deathmatch. The Arbiter says Tuesdays are his training days.
-
-### [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|S3E7 — Severed Limbs — Cress v Chedrick McDougan]]
-Rides under the Grandmaster's arm and farts a small cloud. Has a cushioned platform beside her throne and a squishy green D20 plushie, which he throws to beat the Arbiter's rolls.
-
-### [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]]
-a pug who laughs at the Arbiter's bad roll with "a little pug chuckle" (0:56:21). Whether he is in-world is unclear.
-
-### [[Episodes/Season 3/058 - S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý|S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý]]
-a cyborg zombie pug and a ping pong ace who farts at the Arbiter.
-- Throws his squeaky D20 toy for round-end rolls.
-- Hid behind the Grandmaster's chair when the natural 20 scared him.
-
-### [[Episodes/Season 3/059 - S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth|S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth]]
-Scared of the monster book. Per the Arbiter, Doug is "literally a cyborg zombie," which Doug doesn't know. He farted in fear and did a potty dance.
-
-### [[Episodes/Season 3/060 - S3E12 — Blood Puppets — Basil Herringbone v Befferfoot|S3E12 — Blood Puppets — Basil Herringbone v Befferfoot]]
-Sits beside the Grandmaster. Throws his own squeaky d20 and barks cheers.
-
-### [[Episodes/Season 3/061 - S3E14 — Magic Duel — Talbot Cage v Seth Kaiser|S3E14 — Magic Duel — Talbot Cage v Seth Kaiser]]
-The GM's pug. He flies on green fart gas, nests in bones and rolls a D20 plush, beating the Arbiter (19). His fart cloud made both champions one-handed for a round.
-
-### [[Episodes/Season 3/062 - S3E15 — Sunday Slam — Belet v Derick|S3E15 — Sunday Slam — Belet v Derick]]
-The Grandmaster's pug, "a little beaten and worn." He grants blessings and inspiration, rolls a plush D20 at round ends, and chews a bone. He cried when his plush D20 fell into the mud.
-
-### [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface]]
-The Grandmaster's pug, who rides in her wings.
-- Peed on Huey's shoe in the arena.
-
-### [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]]
-The dog. "Doug has not been replaced"; there are many dogs in the fortress.
-
-### [[Episodes/Vythorn's Return/098 - S4E17 (Season Finale) - Vythorn's Return Part 3|S4E17 (Season Finale) - Vythorn's Return Part 3]]
-- A four-legged, short-snouted dog with breathing problems, disguised in a goblin costume made by goblins.
-- Agdrel never noticed him. Vythorn exposed him and **shackled him to go with Elusia**.
-
-### [[Episodes/Season 5/110 - S5E12 — Imitation Game — Kopy Katt v Ragu|S5E12 — Imitation Game — Kopy Katt v Ragu]]
-Kept shackled in the dungeons.
-- Wore a sloth onesie "with no bones."
-- Chortled at the Lord of Fate's baby photo and was banished.
-- **The "Free Doug" chant got him back in a floating spinning cage.**
-
-### [[Episodes/Season 6/119 - S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)|S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)]]
-The Grandmaster's pug; he rolls dice. His collar grants pug swiftness.
-
-### [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]
-A tiny pug with one cyber eye who yells, ate the receipts, rolls a toy d20, pees on the tallest thing in the arena and farts.
-
-### [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]]
-Rides in a wagon on a purple pillow, wearing a tiny crown.
-- "Doesn't have bones today" / "has no bones… has been neutered."
-- A "charmer" with Clementine. The Arbiter says he once saved Doug's life.
-
-### [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]]
-has one good eye and one **metallic cyborg eye with a red infrared scanner**. He approves of champions and claps on two feet ("It's a bone day today"). The Arbiter "doesn't even like Doug." He ate Cheese Prof's head.
-
-### [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]]
-"the beloved dog of the arena." His **official sanctioned cheese** was offered as a prize, and he has **12 refrigerators of cheese in the Dread Fortress basement**. His "desire for blood is greater than his desire for the cheese."
-
-### [[Episodes/Season 7/133 - S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble|S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble]]
-Pulled the set of new metal chairs on a rope. "He can't even breathe correctly."
-
-### [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]]
-seated beside the Grandmaster.
-
-### [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]
-Sleeping in the Arbiter's seat; shoved out.
-
-### [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
-Present for popcorn after the break.
+- [[Episodes/Battle for the Crown/046 - S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …|S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …]]
+- [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …]]
+- [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]]
+- [[Episodes/Live Shows/049 - Live - GCX Orlando 2022 — Lord Snacc v The Showman| GCX Orlando 2022 — Lord Snacc v The Showman|Live | GCX Orlando 2022 — Lord Snacc v The Showman]]
+- [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]]
+- [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]]
+- [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]]
+- [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]]
+- [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]]
+- [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]
+- [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]]
+- [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]]
+- [[Episodes/Season 2/026 - S2E2 — Prize Fight — Asena v Ralzamon|S2E2 — Prize Fight — Asena v Ralzamon]]
+- [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]]
+- [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]]
+- [[Episodes/Season 2/029 - S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em|S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em]]
+- [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]]
+- [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]]
+- [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]]
+- [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]]
+- [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]]
+- [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko]]
+- [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]]
+- [[Episodes/Season 2/037 - S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog|S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog]]
+- [[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary]]
+- [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee]]
+- [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]]
+- [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]]
+- [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]]
+- [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]]
+- [[Episodes/Season 3/054 - S3E5, Edge Lords - Captain Fable v Verryn Ruth|S3E5, Edge Lords - Captain Fable v Verryn Ruth]]
+- [[Episodes/Season 3/055 - S3E6, Homunculus - Coen v Alfucius|S3E6, Homunculus - Coen v Alfucius]]
+- [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|S3E7 — Severed Limbs — Cress v Chedrick McDougan]]
+- [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]]
+- [[Episodes/Season 3/058 - S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý|S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý]]
+- [[Episodes/Season 3/059 - S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth|S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth]]
+- [[Episodes/Season 3/060 - S3E12 — Blood Puppets — Basil Herringbone v Befferfoot|S3E12 — Blood Puppets — Basil Herringbone v Befferfoot]]
+- [[Episodes/Season 3/061 - S3E14 — Magic Duel — Talbot Cage v Seth Kaiser|S3E14 — Magic Duel — Talbot Cage v Seth Kaiser]]
+- [[Episodes/Season 3/062 - S3E15 — Sunday Slam — Belet v Derick|S3E15 — Sunday Slam — Belet v Derick]]
+- [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface]]
+- [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]]
+- [[Episodes/Season 5/110 - S5E12 — Imitation Game — Kopy Katt v Ragu|S5E12 — Imitation Game — Kopy Katt v Ragu]]
+- [[Episodes/Season 6/119 - S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)|S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)]]
+- [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]
+- [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]]
+- [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]]
+- [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]]
+- [[Episodes/Season 7/133 - S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble|S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble]]
+- [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]]
+- [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]
+- [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
+- [[Episodes/Vythorn's Return/098 - S4E17 (Season Finale) - Vythorn's Return Part 3|S4E17 (Season Finale) - Vythorn's Return Part 3]]

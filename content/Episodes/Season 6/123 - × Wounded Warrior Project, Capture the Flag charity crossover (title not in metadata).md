@@ -255,7 +255,7 @@ tags: [episode, season-6]
   - Got a shadow-made **Vorpal Sword** from the Box ("just so you stop talking to me"), then was shoved into the Box by Perry's swarm and came out with a **Hat of Vermin**.
   - Hit Pyxis for 72. Killed by Perry's dying shovel blow; died struggling with Perry "in eternity."
 
-**[[Characters/Solid|Solid]]** (Dan / Nat1Fun). A 5'6" **Yuan-ti**, "well-trained in close quarters combat," "all about espionage."
+**Solid** (Dan / Nat1Fun). A 5'6" **Yuan-ti**, "well-trained in close quarters combat," "all about espionage."
 - **Appearance:** missing an eye; wears an eye patch with glasses over it. Fangs. "Green guy" / "cobra" / "old snake."
 - **Abilities:** monk (flurry of blows, Step of the Wind, Open Hand, Evasion, Slow Fall, stunning strike). Advantage on saves against magic.
 - **Background:** calls out to "Otacon" on arrival. **Admits he killed Pyxis's family**; Pyxis says he took Solid's eye "last time."
@@ -272,7 +272,7 @@ tags: [episode, season-6]
 - **Powers:** a Swarmkeeper with a firefly swarm. Faerie fire, Detect Poison and Disease, rabbit hop.
 - **In this episode:** **solved the vial puzzle first** (drink blue, mix red and green). Drank a potion of giant strength from the Box. Shoved Beans into the Box. Killed by Grog; killed Beans with his last swing.
 
-**[[Characters/Thea (Plintos)|Thea]]** (Bec). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
+**[[Characters/Thea|Thea]]** (Bec). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
 - **A tiny pink imp** with frantic wings and a tail, boxing gloves and a steak knife.
 - **The Arbiter transformed her into her "true form": a giant purple worm, "the Abyss Devourer,"** with multiple tongues and rotating layered teeth. Gargantuan, 30–40 ft.
 - Turned away from eating Grog because of his taste. Split one tongue on a stalagmite.
@@ -299,7 +299,7 @@ tags: [episode, season-6]
 - They sleep cuddling kitchen and steak knives and kick shins.
 - One wears a hard hat and smokes ("Get them, boys!"). One gets up at night for hot milk.
 
-**[[Characters/Other figures|Other figures:]]**
+**Other figures:**
 - **The mimic**: the dustless chest in Team A's alchemy room.
 - **The camera crew / documentarians**: they follow the Grandmaster and Arbiter "all the time."
 - **"The Chuck Norris"**: a parking-lot guy who trains chinchillas to kick.
@@ -308,14 +308,14 @@ tags: [episode, season-6]
 - **Donating Acolytes**: Joss/Jess/Just Baker, Great To Be A Gator, M. Walker Hall, Hoopla Chick (Texas), Dolly and Hoopla, Anonymous.
 
 ### Places
-- **[[Places/The Dread Fortress Castle (phase one)|The Dread Fortress Castle (phase one):]]**
+- **The Dread Fortress Castle (phase one):**
   - a hall with champion tables laden with food (the kitchen), open to the sky under the floating grandstand;
   - **the sleeping chinchillas' room**;
   - **the alchemy room**: three tables of RGB vials, books, chests (one a mimic), a throne-like chair, an end table with a skull, and a stone portal with pink and yellow flames.
   - The Dread Fortress has a shower down the hall.
-- **[[Places/The mini-boss cave|The mini-boss cave]]**: a large cave split by a chasm, with stalagmites.
-- **[[Places/The Dread Fortress grounds (phase two)|The Dread Fortress grounds (phase two):]]** a worn path; a torrential river full of rocks and rapids with its bridge missing; a 20-ft tree barrier, lowered to 5-ft shrubs; a well that looks like a toilet.
-- **[[Places/Hell|Hell]]**, Dave's place of origin, with "rivers of lava."
+- **The mini-boss cave**: a large cave split by a chasm, with stalagmites.
+- **The Dread Fortress grounds (phase two):** a worn path; a torrential river full of rocks and rapids with its bridge missing; a 20-ft tree barrier, lowered to 5-ft shrubs; a well that looks like a toilet.
+- **Hell**, Dave's place of origin, with "rivers of lava."
 
 ### Items
 - The Vorpal Sword (purple, shadow-made)

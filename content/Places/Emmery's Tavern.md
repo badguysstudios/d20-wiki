@@ -1,20 +1,56 @@
 ---
-title: "Emmery's Tavern"
-tags: [place]
+title: Emmery's Tavern
+type: place
+aka:
+- our favorite distributor
+region: The Void, past the Dread Fortress and the moon called the Vendolyn
+first_appearance: S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes
+summary: A small, dirty tavern somewhere in the Void that supplies the Dread Fortress with drink and keeps getting turned into a Deathmatch arena.
+aliases:
+- our favorite distributor
+tags:
+- place
 ---
 
-First appears in [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]]. Appears in 4 episodes.
+**Emmery's Tavern** is a small, grimy drinking hole somewhere out in [[The Void]], past [[The Dread Fortress]] and past the moon known as the Vendolyn. It has the Dread Fortress's bar tab on file and a bartender who has clearly seen worse. It also has a habit of becoming a battlefield. Champions have fought inside it, wrecked it, thrown up in it and, on one occasion, arrived through the roof at nearly the speed of light.
+
+## Description
+
+The tavern is small and dirty. It has stone floors and a fireplace with a giant skull mounted over it. A spot on the bar has been worn smooth by years of elbows and rags. A hearth and chimney keep the place warm. The cellar holds barrels marked "number two," and a storage room sits out back. The facilities are a single overflowing toilet with no parchment to be found. Anyone who comes for the cheese should know that the only cheese on offer is processed.
+
+Behind the bar works a large bartender who is very hard to impress. When two champions crashed through the ceiling and knocked every patron unconscious against the wall, he kept rubbing down the bar with his rag and greeted them anyway. When the tavern serves as an arena, its ceiling can turn transparent or disappear entirely, so [[The Acolytes]] get a clear view of the carnage from above.
+
+## History
+
+### Identity Crisis
+
+The tavern first appeared as the arena for [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]], where Kopy Katt fought [[Professor Alonzo Quixote Cervantes]] among its stone floors and skull-topped fireplace. At the end of the fight the ceiling vanished, opening the room up to the watching Acolytes.
+
+### The Hunt for #2
+
+The tavern returned in the Season of the Trials as the Dread Fortress's liquor supplier. In [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]], Frigidoom, [[Bob the Barbarian]] and [[The Duke]] were grouped as Team C. Their job was to visit "our favorite distributor over at Emmery's Tavern," which already knew "our typical bill," and bring the alcohol back safely. Frigidoom summed up the brief: "Cervezas, yes, done." Along the way the team faced [[Billy]].
+
+The mission ended where it began. In [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]], [[Grandmaster Elusia Skypiercer|the Grandmaster]] sent the three teammates back to Emmery's Tavern to fight one another in the season finale. By the time it was over, the room held a werewolf corpse, a fair amount of vomit and a transparent ceiling. Frigidoom had also smashed up a good deal of the place.
+
+### The Cheese
+
+In [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]], the tavern hosted the fourth round of the fight between [[Sila]] and [[Ol' Pumpernicklejack]], who did not exactly walk in. [[The Arbiter]] wound up and punched both champions forward at almost light speed. They shot across the emptiness of the Void like meteors, past the Dread Fortress and past the Vendolyn, then straight down through the tavern's roof. The patrons were thrown against the wall and knocked out cold. In the corner, the bartender did not even look up from his rag:
+
+> "Welcome to Emmery's Tavern."
+
+For a fight called "The Cheese," the menu was a letdown, since the tavern stocks only processed cheese. The roof still has a hole in it.
+
+## Notable Figures
+
+- [[Emmery]]: the changeling whose name the tavern bears.
+- [[Professor Alonzo Quixote Cervantes]]: fought in the tavern's first Deathmatch.
+- [[Bob the Barbarian]]: Team C member sent there on the liquor run, and later back for the finale.
+- [[The Duke]]: Bob's teammate on the same run, and his rival in the finale.
+- [[Sila]]: crashed through the roof by way of the Arbiter's fist.
+- [[Ol' Pumpernicklejack]]: arrived the same way, at the same speed.
 
 ## Appearances
-
-### [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]]
-small and dirty, with stone floors, a fireplace with a giant skull over it, and a worn spot on the bar. Its ceiling vanishes for the Acolytes at the end.
-
-### [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]]
-_Mentioned._
-
-### [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]
-the arena. Werewolf corpse, vomit, transparent ceiling. Smashed up by Frigid Doom.
-
-### [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]]
-a small tavern somewhere past the moon "the Vendolyn." It has a hearth and chimney, "number two" barrels, one overflowing toilet with no parchment, a storage room, and only processed cheese. Its roof is now holed.
+- [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]]
+- [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]]
+- [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]
+- [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]]

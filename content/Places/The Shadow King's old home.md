@@ -1,11 +1,29 @@
 ---
-title: "The Shadow King's old home"
-tags: [place]
+title: The Shadow King's old home
+type: place
+first_appearance: S4E1 — Shadows Reign — Atalantos v Kaja
+summary: The blood-soaked arena of the Season 4 opener, where Atalantos faced Kaja on ground the Shadow King once called home.
+tags:
+- place
 ---
 
-First appears in [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]]. Appears in 1 episode.
+**The Shadow King's old home** was the arena for [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]], the first Deathmatch of Season 4. With [[The Shadow King]] back in power, the season opened in a place built in his own grim taste: an obelisk strangled by thirsty vines, standing over a pool of blood with the dead floating in it. It made an unsubtle welcome mat for his reign.
+
+## Description
+
+At the centre of the arena stood an **obelisk covered in red vines that drank blood**. Around it lay a pool of blood, with corpses floating on the surface and blood worms moving through it. Anyone fighting here did so with something hungry at their back and something dead at their feet.
+
+Pillars ringed the space, and they were more than decoration: they served as lightning rods for the night. A railing ran through the arena too, the one ordinary-looking feature in the place.
+
+## History
+
+The arena hosted the match between [[Atalantos]] and [[Kaja]] in the Season 4 opener. The pairing was a pointed one. Centuries earlier, Atalantos and Kaja had stood beside the Grandmaster when the three of them defeated the Shadow King. Kaja, who had been the Grandmaster's love, had since died of old age, and the Shadow King brought her back for this fight. For his first Deathmatch, he chose two of the heroes who had brought him down and set them against each other in his old home.
+
+## Notable Figures
+
+- [[The Shadow King]]: the place was once his home, and it hosted the first Deathmatch of his return.
+- [[Atalantos]]: one of the two champions who fought here.
+- [[Kaja]]: the other champion, brought back by the Shadow King for this fight.
 
 ## Appearances
-
-### [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]]
-an obelisk covered in blood-drinking red vines, with a pool of blood, floating corpses, blood worms, pillars (lightning rods for the night) and a railing.
+- [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]]

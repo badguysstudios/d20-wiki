@@ -1,135 +1,84 @@
 ---
-title: "Flynry"
-tags: [character]
+title: Flynry
+type: character
+role: champion
+species_class: Shifter monk
+played_by: BDTeej
+first_appearance: S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)
+status: dead
+affiliations:
+- Team Grandmaster (Battle for the Crown)
+summary: A homeless shifter monk who helped expose the Arbiter, died for the Grandmaster in the Battle for the Crown, and then wandered the Sands of Eternity for what felt like an age, sword of Truth in hand.
+tags:
+- character
 ---
 
-First appears in [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]]. Appears in 11 episodes.
+**Flynry** is a big, bearded shifter monk who spent his whole life on the road and never once had a home. With [[Toddleheim]] and [[Locket]] he hunted [[The Arbiter|the Arbiter]] through Fate of the Arbiter and helped unmask him before [[Grandmaster Elusia Skypiercer|the Grandmaster]]. He then gave his life for her in the Battle for the Crown. His story did not end there. His soul woke in a desert afterlife, and his long, strange walk through it became the spine of Into the Mirror, a story about a man who wanted nothing more than somewhere to belong.
 
-## Deathmatch record
-| Episode | Played by | Result |
-|---|---|---|
-| [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)\|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] | BDTeej | none. The party "kills" the Arbiter, but this is revealed to be a deception. The Arbiter frames the party and throws them into the arena. |
-| [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)\|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]] | BDTeej | none. The champions refuse to fight each other, survive the Arbiter's monsters and escape with Lyrus. |
-| [[Episodes/Fate of the Arbiter/045 - S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster\|S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster]] | BDTeej | none. The party defeats a sludge elemental, reaches the Grandmaster and exposes the Arbiter. The Grandmaster and the Arbiter agree to a tournament for the Grandmaster title in one week. |
-| [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins\|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]] | BDTeej | "Thornabub (Team Arbiter) wins the fight as the last one standing. The Acolyte vote goes to Flynry & Prof. Stabbz. The Grandmaster wins Battle for the Crown 4–2 and keeps her crown." |
-| [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…\|Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…]] | BdTeej | n/a (no deathmatch; a fight with sand scorpions starts at the end) |
-| [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)\|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]] | BdTeej | n/a (party encounter; the party destroys the sand scorpions and the giant scorpion, then Locket is killed) |
-| [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)\|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)]] | BdTeej | none (non-Deathmatch session). Party wins a skirmish against four desert "outlanders" |
-| [[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside\|Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside]] | BdTeej | n/a. The party kills the ice dragon (Cerys lands the killing blow) |
-| [[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar\|Into the Mirror 14 — The Scholar]] | BdTeej | n/a (no combat this episode; it opens just after the dragon fight ends) |
-| [[Episodes/Into the Mirror/088 - Into the Mirror 15–16, Old Friends - Sky\|Into the Mirror 15–16, Old Friends - Sky]] | BdTeej | none. The fight with Sky's raiders is unresolved when the file ends |
-| [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out\|Into the Mirror 17, The Way Out]] | BdTeej | n/a. The party survives Sky's ambush by surrender, then holds off the Oasis guardians. Vythorn escapes alone through the orrery. |
+## Story
+
+### Fate of the Arbiter
+
+Flynry first appeared in [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]]. He was a shifter who could not return to his homeland, carrying a short bow and a bracelet his aunt had made. His mum had told him to find a nice lady. He introduced himself simply: "I like to punch things." He was a hustler from the start. He won 7 gold off the goblin [[Kenny]] by claiming a contagious "condition" he did not have, and he pocketed 8 gold, 4 silver and 3 copper on his way through the fortress.
+
+From the Box of Chaos he drew a scroll that hardened his skin like a dragon's. He told no one and used it on himself. In the fight that followed, Flynry landed the crushing blow that bloodied the Arbiter and tore off his hands. The victory was a lie. The "Arbiter" they had beaten was only a visage, and the real one framed the party as traitors and threw them into the arena.
+
+In [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]], he called himself a "humble traveler" who had left his old life to see the world, and said, "I've not got another name." He gave up his aunt's bracelet to the Box. It was the same bracelet he had once nearly lost gambling and won back with his "condition" trick. In return he got a breastplate that guarded against necrotic harm and fit his beast form, a form he loved so much that he wished everyone kept theirs. He was plainly smitten with Locket's feral shape. The champions refused to fight each other, beat back the Arbiter's monsters with Flynry's fists burning blue, and escaped with [[Lyrus]]. Along the way Flynry saved Toddleheim on the tiles. [[The Seer]] gave him the Atlas of Endless Horizons, a compass-rose necklace, and Flynry repaid him by teasing him about being blind.
+
+The trip reached the Grandmaster in [[Episodes/Fate of the Arbiter/045 - S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster|S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster]]. Before setting out, Flynry went shopping. He bought studded gauntlets for himself, a mood bracelet for Kenny and a giant spoon for [[Frank]] the chef. Then came the hall of mirrors, which went straight for his deepest wound. Flynry had never had a home, and the mirrors showed him being celebrated, belonging, and finally sitting at a family feast with his grandchildren. A mirror caught him in its tether, and Toddleheim and Locket had to pull him free. The party then beat a sludge elemental, reached the Grandmaster and exposed the Arbiter. That forced the tournament for the title of Grandmaster.
+
+### Battle for the Crown
+
+In [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]], Flynry fought for Team Grandmaster beside [[Professor Stabbz|Prof. Stabbz]], against [[Thornabub]] and [[Mcswiggins]]. By then he had become something of a poet, writing verses about his journey with Locket and Toddleheim on the Grandmaster's behalf while they pursued the Arbiter. He mentioned a visit to the temple at [[The Eastern Outpost]] with [[Orin]]. He also claimed to hear the ancestral cries of an angry Scottish wizard who protected ducks. Before the fight he flicked a small golden coin to the Grandmaster.
+
+The match was not dignified. A tome sharpened his mind and quickened his hands, and then his tongue got stuck to Mcswiggins's beer tomb. The end came in a storm of meteors. As Flynry died, Orin's spirit embraced him, and he said one word: **"Home."** Thornabub was left as the last one standing. [[The Acolytes]] still voted for Flynry and Prof. Stabbz, and the Grandmaster won the Battle for the Crown 4–2 and kept her crown. Afterwards Flynry's ghost stood in robes beside her chair.
+
+### Into the Mirror
+
+[[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1]] picked up with the meteor that killed him. Flynry woke in a desert carrying memories of a life he never lived. In that dream he had won the Battle for the Crown with Prof. Stabbz and retired from the Grandmaster's service, honored with a place at her court. He had a wife named Lillian, a son named Orin and a home in a village. In the real desert he pulled a greatsword wreathed in blue flame out of the sand. It cooled to a mirror finish with "truth" inscribed in gold, and it guided his wandering. By his own reckoning he walked [[The Sands of Eternity]] for years, maybe decades, before his friends arrived, and in that wild place he sometimes shifted too far into something more animal.
+
+By [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9]], the years had changed him. He was grayer and leaner, his big beard was gone, and even his voice was different. He wore a rich black cloak and armor "of the sand." Only in his sword's reflection could he still see the old Flynry, long-haired and beastish in a velvet cloak. The brawler now fought with a new acrobatic grace. His blade, Truth, burned aqua and turned sand creatures to glass. He had struggled with "a certain form of psychosis," and because his life here was "based on lies," he doubted the reunion was real. He told his friends he had been "engulfed in flame and death" to get there. The party destroyed the sand scorpions and their giant, and then Locket was killed.
+
+Grief cut deep. In [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios]], he partly shifted in mourning and blamed [[Cerys]] for Locket's death. He named Toddleheim "his best friend, number one." He kept a soul gem fragment from the first sand minotaur he had killed, and he could sometimes bend the sand, though never on purpose. The party fought off four desert outlanders on the way to [[Mortaurios]]. In [[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4]], after perhaps a century in the waste, he ate for the first time in ages and found he could still taste. He wore [[Elianna]]'s glass remembrance stone on a leather strap around his neck. In the snowy mirror realm his sand powers failed him and his sword lost its guiding pull, but he fought on with blade and fists. He even cast an illusion of Kenny as the party brought down an ice dragon.
+
+In [[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14 — The Scholar]], his sword's flames answered the orrery, and Flynry trusted it completely. He stayed wary of touching arcane things, reasoning, "We all know what the king looked like." He was newly impressed by Cerys in battle. He also woke the young Arbiter from his trance with a touch on the shoulder. The meeting soured in [[Episodes/Into the Mirror/088 - Into the Mirror 15–16, Old Friends - Sky|Into the Mirror 15–16, Old Friends - Sky]]. Flynry had known the Arbiter longer than the others, and he blamed him for killing his friends, for betraying everything he knew and for "my loss." The Arbiter's answers were that he "didn't kill" him, a mention of "the meteor," and a comment on Flynry's new hairstyle. The sword of Truth showed Vythorn his true, full-powered self. Flynry swore a blood oath to Cerys that he would protect the party. He was knocked down by an orc in the fight with [[Sky]]'s raiders and healed back up.
+
+In [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], the party survived Sky's ambush only by surrendering, and Flynry paid her toll with his shortbow. He turned his sword's revealing reflection on Sky. He drew on what he had read in "the large book" about a Golden Lady statue and an eye-shaped pendant with a red gem. He traded the Atlas of Endless Horizons for a periapt that closes wounds. Back on his old monk footing, he helped hold off the guardians of [[The Oasis]] and took a giant's rock meant for Toddleheim. Vythorn escaped alone through the orrery. Flynry, who wanted only to return to "the living," was still in the Sands.
+
+## Personality and Abilities
+
+Flynry started out hulking: six foot two, 250 pounds, long brown hair, a big beard and a red cloak. Years in the Sands left him grayer, beardless, cloaked in black and armored in sand. He is strong, showy and a little prickly, but he insists he is no center-of-attention type. He can't dance and has never been to a party, and he calls himself "not the leader of anything besides maybe lunch." Underneath the swagger is one longing, a home, and it runs through every chapter of his story, from the mirrors' family feast to his last word in the arena.
+
+He fought first as a weaponless pugilist, all flurrying fists, rushing footwork and arrow-swatting gauntlets. Later his fists burned with blue fire. He could slip through shadows, wrap himself in silence and darkness, and wither foes with a necrotic touch. His "condition" is real: he shifts into a beast form, anything from one clawed arm to a full transformation, and he shrugs off poison and disease. In the Sands he took up Truth, a mirror-bladed greatsword that burns aqua or cerulean, shows a person's true self or urges, and once guided his steps. He carries it in a back sheath with a cup for the point. Even so, he always ends up back on his fists.
+
+## Relationships
+
+- [[Toddleheim]]: Companion since Fate of the Arbiter and "his best friend, number one." He freed Flynry from the mirrors, and Flynry later took a giant's rock for him.
+- [[Locket]]: Fellow traveler and the subject of his poetry. Flynry was smitten with her feral form, and her death in the Sands left him shifting in grief.
+- [[The Arbiter]]: The enemy he hunted, framed by and ultimately blamed for "my loss." In the Sands he woke the young Vythorn and showed him his true self.
+- [[Grandmaster Elusia Skypiercer|The Grandmaster]]: The ruler he exposed the Arbiter to and died fighting for. His ghost stood beside her chair.
+- [[Orin]]: Visited the Eastern Outpost temple with him, and Orin's spirit embraced Flynry as he died.
+- [[Cerys]]: He blamed her for Locket's death and distrusted her, then grew impressed by her and swore her a blood oath to protect the party.
+- [[Kenny]]: A goblin he swindled at gambling on his first day and later bought a mood bracelet for.
+- [[Frank]]: The chef he bought a giant wooden spoon for.
+
+## Memorable Quotes
+
+- "I like to punch things" ([[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]])
+- "I've not got another name." ([[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]])
+- "Home." ([[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]])
+- "I haven't had a reason to doubt my sword yet." ([[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14 — The Scholar]])
+- "We all know what the king looked like" ([[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14 — The Scholar]])
 
 ## Appearances
-
-### [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]]
-(BDTeej)
-- A shifter who can't return to his homeland. Burly, with long brown hair, a beard and a red cloak. Carries a short bow.
-- A monk ("I like to punch things"): unarmed strikes, Flurry of Blows, Step of the Wind, Deflect Missiles through his monk gauntlets.
-- Shadow powers: shadow-stepping, Pass Without Trace, Silence, Darkness, granting darkvision by touch, Inflict Wounds (necrotic).
-- Seeking a nice lady per his mum. His aunt made his bracelet.
-- **Won the goblin's 7 gold with a fake contagious "condition."** Took 8 gp 4 sp 3 cp from the fortress.
-- Got the **scroll of Dragon's Skin** from the Box, kept it secret, and used it on himself. Dealt the crit that bloodied the Arbiter and snapped off the Arbiter's hands.
-
-### [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]]
-(BDTeej). A shifter monk: flurries, Step of the Wind, Minor Illusion, Inflict Wounds, Deflect Missiles. **Beast form**, which he loves and wishes everyone kept.
-- A "humble traveler" who left his old life to see the world; "I've not got another name."
-- Gave the box a **bracelet from his home world** (once almost lost gambling, then won back by claiming "a condition"). Got **armor of resistance (necrotic)**, a breastplate that fits his beast form.
-- Clearly smitten with Locket's feral form.
-- **Blue-fire fists.** Saved Toddleheim on the tiles.
-- From the Seer: the **Atlas of Endless Horizons** (a compass rose necklace).
-- Teases the Seer about being blind.
-
-### [[Episodes/Fate of the Arbiter/045 - S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster|S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster]]
-(BDTeej). A traveler with "a condition": he shifts into a beast form, from a clawed arm up to a full shift.
-- **Immune to disease and poison.** Fights as a monk (unarmed strikes, Flurry of Blows, ki).
-- 6'2", 250, built.
-- Bought +1 studded gauntlets, the mood bracelet (given to Kenny) and the giant spoon (given to Frank).
-- Carries a book with Arcane Gate, perhaps mixed up "from the blind dragon."
-- **Has never had a home.** The mirrors showed him being celebrated and belonging, then a family feast with grandchildren. **Toddleheim and Locket freed him** from a mirror's tether.
-
-### [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]]
-(BDTeej), Team Grandmaster.
-- **Background:**
-  - A large monk/pugilist with no weapons.
-  - A traveler who never had a home.
-  - **Writes poetry chronicling his journey with Locket and Toddleheim**, on the Grandmaster's behalf and "pursuing the Arbiter."
-  - Has been to the **Eastern Outpost** temple "with Orin."
-  - Hears ancestral cries of an angry Scottish wizard who protected ducks.
-- **Gear and powers:**
-  - Cloak of Shadows, Silence, Inflict Wounds and Bestial Shift (a beast form).
-  - Immune to poison.
-  - A short bow.
-  - Carries a wooden spoon and **a small golden heroic coin**, which he flicked to the Grandmaster as his hero point.
-- **In this episode:**
-  - Gained +2 Int and +2 Dex from a Tome of Clear Thought.
-  - His tongue got stuck to Mcswiggins's beer tomb.
-  - Died in the Meteor Swarm, embraced by Orin's spirit: "Home."
-  - Appeared afterwards as a robed ghost beside the Grandmaster's chair.
-
-### [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…]]
-(BdTeej).
-- **Died in the Battle for the Crown, hit by a meteor** while fighting for the Grandmaster.
-- Has a beast form; in the desert he **over-shifts into something more animal.** Uses claws, unarmed strikes, flurry and Inflict Wounds.
-- Hulking and bearded. **Nomadic, never had a home, and home is his theme.** Not a center-of-attention guy. Can't dance.
-- **Carries memories of a dream life he never lived:** retired from the Grandmaster's service after winning the Battle for the Crown with Prof. Stabbz, honored and given a place in her court, wife Lillian, son Orin, a village home.
-- **Pulled a blue-flame greatsword from the sand.** It cooled to a mirror finish, has "truth" inscribed in gold, guides his travel, and now burns with aqua flame.
-- **Wandered the desert for years or decades** (by his reckoning) before his friends arrived.
-- Inferred: he is in the plane where the mirror-taken piece of his soul went (from the Arbiter's 1:33:11 line and the shared desert).
-
-### [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]]
-(BdTeej)
-- Trapped in the Sands of Eternity for what feels like years to him; months for his friends.
-- **Appearance has changed**: different hair color and stature, grayer, no longer has his very large beard, changed voice. He wears a rich black cloak and armor "of the sand."
-- In the sword he still sees his old self: velvet cloak, slightly beastish visage, long brunette hair and beard.
-- Used to fight with his fists. Now wields **Truth**, a mirror shaped like a greatsword, which burns with **aqua flame** and turns the sand creatures to glass.
-- **Resistant to poison.**
-- Has battled "a certain form of psychosis." His origins here are "based on lies," so he doubts this reunion is real.
-- Says he "was engulfed in flame and death" to get here.
-- Bought a wooden spoon for Frank the chef before leaving home base.
-- Fights with new acrobatic grace.
-
-### [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)]]
-(BdTeej). He has been in the Sands for years ("an eon").
-- He carries a **greatsword with a mirror surface** that shows a person's true inner self. It manifested right after he killed his first sand creature, and it can burst into **blue flame**.
-- He wears it on a backboard sheath with a cup for the point.
-- He has a beast-like side ("primitive beast-like roots from the real world") and partially shifted in grief.
-- He can sometimes manipulate the sand, but uncontrollably.
-- He keeps a quarter-sized soul gem fragment from the first sand minotaur.
-- **Toddleheim is "his best friend, number one."** He holds Cerys responsible for Locket's death.
-- He remembers Kenny's gambling game from his first day.
-
-### [[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside]]
-(BdTeej).
-- Has been in the waste for possibly a hundred years or more. **He ate for the first time in ages and found he could taste.**
-- Distrusts Cerys. Calls Toddleheim "old friend."
-- **Wears Elianna's glass remembrance stone on a leather strap around his neck.**
-- His sword ignites in the mirror realm but has lost its compass quality. His sand powers don't work on snow.
-- Fights with greatsword and monk strikes, and cast the Kenny illusion.
-- Remembers causing Toddleheim and Locket distress in an earlier hall of mirrors, and that they saved him.
-
-### [[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14 — The Scholar]]
-(BdTeej)
-- Carries a sword on his back. The sword's flames glow in response to the orrery, and he trusts it: "I haven't had a reason to doubt my sword yet."
-- Knows Elvish.
-- Woke up somewhere else in this desert-dream realm when he first arrived, which he describes as a dream, trance or hell.
-- Wary of touching arcane items ("We all know what the king looked like").
-- Newly impressed by Cerys's combat prowess.
-- Wakes the young Arbiter from his trance with a touch on the shoulder.
-
-### [[Episodes/Into the Mirror/088 - Into the Mirror 15–16, Old Friends - Sky|Into the Mirror 15–16, Old Friends - Sky]]
-(BdTeej)
-- **History:** Has known the Arbiter longer than the others; the Arbiter says he "didn't kill" him. He blames the Arbiter for killing his friends, betraying all he knew, and "my loss." The Arbiter mentions "the meteor" and a new hairstyle.
-- **Time in the Sands:** has been in the Sands a long and painful time.
-- **Gear:** carries the **sword of truth**, which shows Vythorn his true (full-power) self and can ignite with cerulean, sand-colored flame.
-- **Character:** strong, showy and prickly. Fights hand-to-hand with Flurry of Blows. Swore the party's protection to Cerys in a blood oath. Downed by the orc, healed back up.
-
-### [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]]
-(BdTeej)
-- Former monk who reverts to monk technique: Flurry of Blows, ki points, Stunning Strike, magical fists, Opportunist. He also casts Inflict Wounds.
-- **Carries a sword whose reflection shows a person's true nature or urges** (the "Sword of Truth" in his player's words). He used it on a guard before and on Sky this episode. Uses a greatsword in the fight.
-- Knows from "the large book" about **the Golden Lady statue** and **an eye-shaped pendant with a red gem**.
-- **Traded the Atlas of Endless Horizons for the Periapt of Wound Closure.** Lost his shortbow to Sky's toll.
-- Wants to return to "the living."
-- Never been to a party; "not the leader of anything besides maybe lunch."
-- Took the giant's rock for Toddleheim.
+- [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]]
+- [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]]
+- [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]]
+- [[Episodes/Fate of the Arbiter/045 - S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster|S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster]]
+- [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…]]
+- [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]]
+- [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)]]
+- [[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside]]
+- [[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14 — The Scholar]]
+- [[Episodes/Into the Mirror/088 - Into the Mirror 15–16, Old Friends - Sky|Into the Mirror 15–16, Old Friends - Sky]]
+- [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]]

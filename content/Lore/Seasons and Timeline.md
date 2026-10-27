@@ -75,7 +75,7 @@ Everything in the order it happened on the show. Mini-series, one-shots and live
 - [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]]
 
 ## Live Shows
-- [[Episodes/Live Shows/049 - Live | GCX Orlando 2022 — Lord Snacc v The Showman|Live | GCX Orlando 2022 — Lord Snacc v The Showman]]
+- [[Episodes/Live Shows/049 - Live - GCX Orlando 2022 — Lord Snacc v The Showman|Live - GCX Orlando 2022 — Lord Snacc v The Showman]]
 
 ## Season 3
 - [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]]

@@ -1,0 +1,77 @@
+---
+title: The Playtests
+type: arc
+episode_count: 6
+champions_of_note:
+- Silky Slim
+- Escanor the Echo
+- Atlas
+- Bromir
+- Brunhilda Doogle
+- White Hat H03
+- Mudcat Mahomes
+- Thunk
+- Bawser
+- Grakas
+summary: Before D20 Deathmatch officially launched, six trial bouts introduced the Grandmaster, the Arbiter, the floating crowds and the anthem, along with oiled bugbears, lightning horses, octopus timelines and a headless golem who just wanted a hug. The matches ended in two clean victories, a double death, a two-winner after-party, a tearful turtle triumph and a no-death walkout, while the Arbiter quietly snatched the fallen Bromir from the abyss for purposes of his own.
+tags:
+- arc
+---
+
+**The Playtests** are the six pre-launch Deathmatches that came before the show proper. In them, [[Champions|champions]] were first torn from their homes to bleed for [[Grandmaster Elusia Skypiercer|the Grandmaster]] and her weary, easily bored court. The rules were loose and the arenas were rainy, and the results ran from noble sacrifice to a minotaur pretending to poop on a trapped bugbear. Three bouts were hosted by the Grandmaster and [[The Arbiter|the Arbiter]] in full pageantry. The other three were bare-knuckle trial runs where the two of them stepped into the mud as champions themselves. Rough as they were, these fights set down the show's foundations: the anthem, the chaos events, the Grandmaster's whims, and the Arbiter's habit of doing things behind her back.
+
+## Background
+
+The opening narration set the scene. "Far beyond the forgotten realms and all of known existence, beyond a dark void that stretches for eternity lies a plane outside of space and time." This is [[The Void|the Void]], home of the Grandmaster, "weary from eons of absolute power." To give her "momentary respite from all the dull droning of boredom," she tasked the Arbiter, "her servant in all things," with curating a series of games in her honor. Champions "of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena." By the fourth playtest she was already complaining about earlier entertainment that had included a pig, a spider and "a small little boy who really did not belong here at all."
+
+## The Story
+
+### Playtest 1: Silky Slim v Escanor the Echo
+
+The first bout, [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]], opened in a subterranean castle. The Arbiter, in black and white robes and eight glowing golden rings, promised his bored mistress blood. He then opened a portal to the Forest of Death, a muddy, trap-strewn woodland. "I know, not a clever name," the Grandmaster admitted. "I didn't come up with it. I just found it." [[Silky Slim]], a bugbear barbarian with "luxuriously oiled fur" and a glaive named Bernice (played by EndlessChad), faced [[Escanor the Echo]], a minotaur fighter and world-class hide-and-seek player who could split off copies of himself (played by TheShortNord). The fight got strange fast. Silky's hip-swaying "hips and nips" dance entranced the whole stadium. The Grandmaster stripped away his rage by demanding "emotional diversity." Lightning left Escanor's horns sparking for the rest of the bout, and Escanor's second echo emerged from under his robes as "the cream of Escanor." Eight ducklings washed into the arena under the Grandmaster's personal protection. Escanor carefully refused to step on the runt even after Silky turned it against him, and she rewarded him with a healing potion. When a dam broke, she blew the runt a kiss and it grew huge enough to carry both champions out of the flood. Escanor finished Silky with a teleporting swap and three sword strikes. The Grandmaster declared Silky "damn sexy" and spared his life, but she would not let him leave the Void "until you win your victory." Escanor was crowned Champion of the Death Forest.
+
+### Playtest 2: Atlas v Bromir
+
+In [[Episodes/Playtests/005 - Playtest 2 (Pre-Launch) — Atlas v Bromir|Playtest 2 (Pre-Launch) — Atlas v Bromir]], the action moved to Reaper's Rock, a frozen mountainside littered with the leftovers of an abandoned mine. [[Atlas]] was a stoic warforged built by a monastery of priests to defend justice (played by DeadAussieGamer). He summoned Halifax, a horse of crackling lightning. [[Bromir]] was a flexing, snow-rubbing powerhouse who called everyone "brother" (played by Jared). He enlarged himself and promptly threw the pony. The Grandmaster pumped Bromir full of supplements until he towered over the cliffs, and a blizzard drove both champions to huddle by braziers. Bromir eventually asked to be shrunk back down so he could face Atlas "on equal footing." Their mutual respect grew into teamwork against the Arbiter's two-faced ice elemental, which looked "like a twisty ice cream cone." Atlas used his waist as a catapult to launch Bromir at it. Then Bromir made the episode's defining choice. Hanging over a bottomless chasm, he blasted the cliff edge and took the elemental down with him. On the way he saluted Atlas with Atlas's own sword and threw it back, and he flexed at the Grandmaster as he fell. The Grandmaster and the entire crowd flexed back. Atlas was crowned and sent home to continue his charge, with a promise that he would return for "a true fight." Far below, unseen by anyone, the Arbiter caught the falling Bromir by the throat:
+
+> "You may have fallen on the field, but I still have a use for you."
+
+### Playtest 3: Brunhilda Doogle v White Hat H03
+
+[[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03]] had no hosts. The Arbiter and the Grandmaster's own creators took the field as champions in a rainy forest of cliffs, ravines and berry bushes. [[Brunhilda Doogle]] was a nature-loving snake-tailed archer (played by Caustic Phoenix). [[White Hat H03]] was a vaguely southern gunslinging machine "founded on the principles of fair economics in the oil trade" (played by Mudcat). Brunhilda knocked his hat off the cliff, and the crowd started calling him "White Hat Ho." He answered with "Nobody calls me a hoe but me" and sprayed oil into the front row "like front row SeaWorld." She got through the fight by eating suspicious purple berries and summoning a giant screwdriver with angry eyebrows to terrify him. Along the way she befriended a constrictor snake, which he shot to pieces. He found his hat in the mud and dusted it off with his pocket square, while the rain slowly rusted him. In the end Brunhilda lifted White Hat by the neck with her tail. Her squeezing made his hand jerk the trigger and shoot her in the stomach. Moments later, rain poured into his crushed throat and he short-circuited. It was "mutually assured destruction," and the match was a tie.
+
+### Playtest 4: Mudcat Mahomes v Thunk
+
+The hosts returned for [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]], set in [[The Isolated Keep]]. This circular platform was "stowed away from time and space" and ringed by four portals: fire, blood, nature and time. [[Mudcat Mahomes]] was a catfish-man in a fedora and a trench coat with nothing underneath, eager to get back to Kansas City (played by CaptainRobear). [[Thunk]] was a gentle brute with a necklace of fingers from everyone he'd killed (played by Radiomang). Mudcat curved an arrow into the Grandmaster's own arm. She snapped it and made him eat a rat. Thunk won the crowd by declaring "You should not have shot at lady." Mudcat killed Thunk, so the Grandmaster pulled a younger Thunk out of the time portal. Mudcat killed him too, and she was furious about the child. Next she summoned Octothunk, an eight-armed Thunk from another timeline, who smashed her brand-new wall. Then came a blood elemental she named Hamster, a dryad, a fire snake and her pet dinosaur Helena. Octothunk dabbed with all eight arms, and she removed six of them: "Don't you ever dab here again." By the end the two champions were planning an after-party at Mudcat's townhome with Budweiser and *The Program* on VHS. The Grandmaster spared them both on one condition: that she be invited. She had both recorded in the ledger as winners.
+
+### Playtest 5: Bawser v Grakas
+
+In [[Episodes/Playtests/008 - Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)|Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)]], the creators returned to the same rainy forest as champions. [[Bawser]], "with an A… legally distinct from any other intellectual property," was a huge yellow brute with a green shell (played by Caustic Phoenix). He landed like a comet and claimed the map. [[Grakas]] was a blue-haired, inhaler-puffing fencer with a master's degree in computer science and crushing student debt (played by Mudcat). He hid in a tree. The bully's identity soon fell apart. Grakas out-wrestled him and out-hid him, and Bawser's fire breath came out as a matchstick puff. "No! I'm supposed to be the strong one!" Bawser fled in tears, and then his own tears swept him away when the dam broke. The weeping crowd rallied him. Grakas, touched, offered him a free hit, and Bawser hugged him and threw him twenty feet in the air. Their last clash came in a burning tree. Grakas yielded ("You win, you win, you win"), and Bawser carried him out and buried him in medicinal dirt up to his head. That night a hand burst from the ground: "I am Baby Bow-Bow!" Grakas walked off toward Bawser's castle to be his pet, his hair now blazing orange.
+
+### Playtest 6: Michael v Victoro Cassalanter
+
+The last trial, [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]], used the forest one more time. [[Michael]] was a blind, deaf, headless iron golem who spoke through mouths in his palms (played by Caustic Phoenix). [[Victoro Cassalanter]] was a coin-loving half-elf in enormous butterfly pants (played by Mudcat). Victoro tried to recruit Michael with 401k matching. Michael danced through pillars of fire, threw trees, and tasted the air with his hand-tongues to find his foe. He also "hugged" with his fists, because he didn't know how to open his hands. Victoro turned into a Tyrannosaurus rex, still wearing the pants, and later summoned a barbed devil named Barbara, who had been soaking her feet. Michael picked her up and declared her his new best friend. Finally Victoro banished the golem and walked out, off to "the pants store" to buy the largest, fattest pants he could find. Nobody died, so the match was a shared victory. Michael came back to an empty battlefield, where the barking dog from the chaos event found him and licked him. "Puppy? Puppy!" Michael now had a dog.
+
+### Running Threads
+
+**The Grandmaster's whims.** The Grandmaster ruled her arena by mood. "In my game, in my arena, it's my rules and whatever they feel like at that time." She protected ducklings, healed the merciful, injected growth hormones, blessed champions she liked, and punished a dab with amputation. Her mercy was as capricious as her cruelty. She spared Silky Slim for being sexy, spared Mudcat Mahomes and Thunk for their "budding romance," and honored Bromir's death rather than prevent it.
+
+**The Arbiter behind her back.** The pair's working relationship was already gloriously strained. She praised him, and he flipped her off the moment she turned away. In the next bout she called him "you suck," and he rolled his eyes where she couldn't see. He insisted he was her best friend; she reminded him that she doesn't pay her best friends. She threatened him with overtime, a quarterly performance review and replacement ("I have two options already in front of me"). His grandest secret was his last act in Playtest 2, when he spirited Bromir out of the abyss without anyone knowing.
+
+**The anthem and the crowd.** Every hosted bout opened with the champions kneeling for "our traditional cultural anthem." The Arbiter performed it with a musician's liberties: a higher bridge one week, the whole tune taken down a minor third the next. The Grandmaster tactfully insisted "the heart was there." The crowd watched from floating grandstands and bleachers, with "every imaginable type of life" getting drunk on dollar hot dogs. The Arbiter hailed them as "the [[The Acolytes|acolytes]] of the double ampersand." Drunk spectators sometimes fell to their deaths in their excitement.
+
+**Chaos in the weather.** The arena loved to turn on its occupants. Lightning struck in four of the six bouts. It charged Escanor's horns, broke Brunhilda's invisibility, and set Bawser and Grakas's forest ablaze. Floods and burst dams swept champions off cliffs in three. Some chaos events were sweeter, like the ducklings and the barking dog, and some were stranger, like the singing portals and the two-faced ice elemental.
+
+**Strange mercies.** For a show about fighting to the death, the playtests were full of unexpected tenderness. Escanor protected the ducks. Bromir and Atlas saved each other over the chasm. Thunk and Mudcat became drinking buddies. Bawser adopted the foe who let him win, and Michael ended alone but for a dog.
+
+## Aftermath
+
+The playtests left a scattering of loose ends across the Void and beyond. Silky Slim remained trapped in the Void, forbidden to leave until he won a victory of his own. Atlas went home to bring justice where it was needed, carrying the Grandmaster's promise that he would one day return to "kiss death." Bromir was gone from the field, but he was not simply dead: the Arbiter had a "use" for him, and no one else knew. Thunk and Mudcat Mahomes headed off to their after-party, with the Grandmaster bringing the beer. Octothunk was promised a return to his octopus world, eventually with all eight arms. Baby Bow-Bow walked toward Bawser's castle, Victoro turned up at JCPenney, and Michael kept his puppy.
+
+## Episodes
+- [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]]
+- [[Episodes/Playtests/005 - Playtest 2 (Pre-Launch) — Atlas v Bromir|Playtest 2 (Pre-Launch) — Atlas v Bromir]]
+- [[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)]]
+- [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]]
+- [[Episodes/Playtests/008 - Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)|Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)]]
+- [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]]

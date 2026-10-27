@@ -1,27 +1,44 @@
 ---
-title: "Chade (Chaedillion) Chadian"
-tags: [character]
+title: Chade (Chaedillion) Chadian
+type: character
+aka:
+- Chade
+- Chaedillion Chadian
+role: champion
+species_class: half-orc
+played_by: Joel
+first_appearance: S3E3 — Couples Therapy — Chade v Kairen
+status: alive
+summary: A huge, mustachioed half-orc stay-at-home husband and father of seven who entered the arena against his own elf wife, Kairen.
+aliases:
+- Chade
+- Chaedillion Chadian
+tags:
+- character
 ---
 
-First appears in [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]]. Appears in 1 episode.
+**Chade (Chaedillion) Chadian** is a very large, square-jawed, mustachioed half-orc, played by Joel. He wears full armor and swings an enormous greatsword, and over all of it he wears a pink apron. He is a stay-at-home husband raising seven children, and he came to the Void to fight his own wife, Kairen, in a Deathmatch the show called "Couples Therapy."
+
+## Story
+
+Chade arrived in [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]] as a family man first. Back at the family hut he looks after the children, cooks tofu and cinnamon rolls, keeps a set of knives worth 3,000 gold pieces, and does his own DIY. He and Kairen used to go adventuring together. These days his outings are the gym "with the boys" and Cassandra's spin class. He doesn't eat meat, yet he once cooked the family's pet bunny for Kairen, which says a lot about how devoted (or how worried) a husband he is.
+
+The romance came into the arena with him. For their anniversary, Chade had bought Kairen a two-foot purple tentacle-like massager at a toy party. He also revealed the couple's safe word: he said pineapple first, then settled on mango. When [[The Box of Chaos]] demanded its price, Chade gave up his trousers in exchange for a red velvet rope of climbing. That left him fighting in a banana-hammock thong with a goblin face on it, and the thong then ripped.
+
+Under the jokes there was a quieter thread. Chade pointed out that Kairen, an elf, will outlive him by thousands of years. That is a heavy thing to say in an arena built to celebrate death. In the end nobody died, so husband and wife shared the victory and left the Void as a tied record and, presumably, still a couple.
+
+## Personality and Abilities
+
+Chade is a mountain of a half-orc with a jaw like a block of masonry and a mustache to match. He fights in full armor and chainmail with an enormous greatsword. The pink apron goes over the top: Kairen gave it to him around the birth of their first child, and he wears it every day.
+
+Off the battlefield he is a devoted homemaker. He cooks, he fixes things, and he keeps up a gym routine with his friends. He is sentimental, a little hapless, and willing to give up his dignity (and his trousers) when the moment calls for it.
+
+## Relationships
+
+- **Kairen**: his elf wife, former adventuring partner and mother of their seven children, and his opponent in the arena.
+- **Margaret**: his neighbor and friend.
+- **Cassandra**: runs the spin class he attends.
+- [[The Box of Chaos]]: took his trousers in exchange for a red velvet rope of climbing.
 
 ## Appearances
-
-### [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]]
-(Joel). A very large, square-jawed, mustachioed **half-orc**.
-- **Class and gear:**
-  - Full armor/chainmail and an enormous greatsword.
-  - A **pink apron**, a gift from Kairen around the birth of their first child, which he wears every day.
-- **Home life:**
-  - **A stay-at-home husband caring for seven children at their hut.**
-  - Cooks tofu and cinnamon rolls, owns 3,000-gp knives, and does DIY.
-  - **Doesn't eat meat**, but cooked the family's pet bunny for Kairen.
-  - Goes to the gym "with the boys" and takes **Cassandra's spin class**.
-  - Friends with neighbor Margaret.
-  - Used to adventure with Kairen.
-- **This episode:**
-  - Bought a two-foot purple tentacle-like massager at a toy party as an anniversary gift.
-  - **Sacrificed his trousers to the Box of Chaos for a red velvet rope of climbing.**
-  - Wears a banana-hammock thong with a goblin face; it ripped.
-  - Calls their safe word mango (after first saying pineapple).
-  - Says Kairen, an elf, will outlive him by thousands of years.
+- [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]]

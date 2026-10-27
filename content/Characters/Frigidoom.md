@@ -1,64 +1,86 @@
 ---
-title: "Frigidoom"
-aliases: ["Frigid Doom", "Frigidum"]
-tags: [character]
+title: Frigidoom
+type: character
+aka:
+- Frigid Doom
+- Frigidum
+role: champion
+species_class: An atomic, irradiated refrigerator powered by radiation and rotten food
+played_by: Kyle Calrissian
+first_appearance: S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom
+status: revived
+affiliations:
+- Triforce Dong Danglers (formerly Team C)
+summary: A radioactive refrigerator full of living, carnivorous leftovers who lost his first Deathmatch to a samurai, found a brother in a soda-powered automaton, and finally got his longed-for touchscreen as a founding member of the Triforce Dong Danglers.
+aliases:
+- Frigid Doom
+- Frigidum
+tags:
+- character
 ---
 
-First appears in [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]]. Appears in 4 episodes.
+**Frigidoom** is a sentient refrigerator monster who survived nuclear testing and came out the other side with bat wings, gelatinous tentacle arms, and a door that opens onto a pulsating, carnivorous mass of pizza, casserole and teeth. He is gross, smelly and frequently on fire with radiation, and he is also one of the sweetest champions ever pulled into the Void. A creature who had never been hugged or complimented, he spent his Deathmatches looking for friendship as often as he looked for a meal. Along the way he lost his collectible rainbow magnet mustache, became a pepperoni-nippled wrestler, lived for a while in a bottle, and at last achieved his dream of being "a modern fridge, a cool fridge."
 
-## Deathmatch record
-| Episode | Played by | Result |
-|---|---|---|
-| [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom\|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]] | Kyle Calrissian | Kyle Stoddard (Frigidoom dies of a sixth fatigue during the second chaotic event) |
-| [[Episodes/Season 5/109 - S5E11 — Appliance Adversaries — Atlas v Frigidoom\|S5E11 — Appliance Adversaries — Atlas v Frigidoom]] | Kyle (KidCalrissian) | Atlas (Frigidoom is not killed; he ends up bottled inside Atlas's chest) |
-| [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy\|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]] | Kyle | the party. Billy the werewolf is killed by Bob's "Ultimate Denim Gator". |
-| [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke\|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]] | Kyle | Bob the Barbarian (the last one fading at the final chaotic event; the Grandmaster revives him and declares him winner). He names the team the "Triforce Dong Danglers" |
+## Story
+
+### Frigid Fedoras (Season of Fate)
+Frigidoom's first Deathmatch took place during the Season of Fate. [[Thea]] pulled him and [[Kyle Stoddard]], a fedora-wearing samurai devoted to "Princess Sakura," into the [[The Dread Fortress|Dread Fortress]] before the Lord of Fate. Thea had found them "out in the wild," where "people were already running away from them." Frigidoom introduced himself with a résumé: "I am Frigidoom. I have survived nuclear testing, your mother's Thanksgiving dinner, and the leftovers you forgot about three weeks ago. I am here to consume and keep your food fresh." Asked for a winner's wish, he wanted pig's feet. He then dragged himself through the portal to an asteroid ringing a purple planet, leaving a trail of old grease and leaking oil behind him.
+
+The fight opened with manners. Kyle offered a ceremonial Mountain Dew, and Frigidoom chilled it with two ice cubes "of questionable color." When Thea asked for flavored ice of her own, his patented ice machine fired a perfect blast of multicolored crushed ice from his eye slit. It went into overdrive and froze her solid inside a giant popsicle. ("That doesn't always happen. Is she gonna be okay?") He repaid Kyle's gift with a container of spoiled lo mein marked "Chan's," which Kyle politely ate and which began dissolving him from the inside. Then Frigidoom opened his door fully to show where his mouth was. Inside, a living mass of food with teeth and maybe an eye announced: "Everything that is goes in here and comes out again eventually."
+
+The trouble began when he spat a "chunky salsa of acid and radioactive oil" onto Kyle's Princess Sakura shirt. He tried to clean it with his cleaning cycle and his acidic jello arm, and that only made it worse. Kyle answered with swing after carefully re-sheathed swing, and Frigidoom's luck collapsed. He fumbled his defenses again and again, and Kyle sliced his beloved rainbow magnet mustache in half. Frigidoom vowed revenge: "You have stolen my joy from me, and now I will steal everything from you. Your Doritos, your Fritos, your UwUs, your anime, your waifus. I will devour them all." He grew morning-star arms out of chicken wings and stale pizza crust. He then hid by pulling all his slime inside and posing as a pristine, ordinary fridge, until Kyle covered him in cheap vinyl stickers ("I don't even have hands").
+
+When [[The Box of Chaos]] arrived, Frigidoom traded it the stickers for a small blue pill. The pill doubled and hardened his chrome shell and burst his door open in a fresh wave of tentacles. It did not save him. After a mechanical bull ride shook up his insides, the cans in his fridge turned out to be knockoff Mountain Lightning, which he fired at Kyle as a "radioactive Mountain Lightning vomit cannon." The next chaos event asked both champions to hold in their bowels after all that soda. Frigidoom could not. "The water lines are clogged." His last thought was regret: "I should have never eaten that damn blue pill. It didn't last four hours." Thea unplugged him and yeeted him back through the portal to the Dread Fortress, where a team of [[Goblins|goblins]] in hazmat suits cleaned him up. Afterward he declared, "I feel like a brand new fridge man."
+
+### Appliance Adversaries (Season of Fate)
+Frigidoom returned to face [[Atlas]], a logical automaton with no mouth, in [[The Chinchilla Forest]]. His mustache had been glued back together with old yogurt. His first question on meeting Thea's herd of [[Chinchillas|chinchillas]] was "Are these snacks?" He opened by turning a Kraft single into a cheese shuriken. When Atlas dodged it and remarked that "fridges are supposed to be cool," Frigidoom covered his face, overwhelmed: nobody had ever complimented him before. He decided he might have a friend and went in for an acidic hug: "As we are both two beings made of metal, perhaps we need not meet as enemies, but friends." Atlas hugged back with magnetic lightning, and the Lord of Fate had to tell them to stop hugging and kill each other.
+
+What followed was a very violent friendship. Atlas punched into Frigidoom's heart and got stuck in "pudding," while Frigidoom reached into Atlas's chest and shook the canister he found there. It turned out to be [[Double Sun Cola]], and it made Atlas "10 times more radical." Atlas answered with a nuclear-scale geyser of cola that shattered Frigidoom's pastel-blue casing. Frigidoom drank it all and rose from the crater as a Tang-orange muscle man. He then became a full wrestling persona with golden spaghetti hair, pepperoni nipples, a Speedo and frosting-trimmed boots, while a Geiger counter ticked out of control in the distance. His attacks came with pepper ratings for spiciness, including twenty-pepper "ballpark nunchucks" made of hot dogs. When Atlas tried to finish him with a second geyser, Frigidoom simply opened wide, absorbed it, and glowed neon, "almost a sun."
+
+Then Frigidoom noticed that Atlas had lost his rad and gone back to being logical. "Atlas, stop acting like you don't have a mouth and speak from your heart." With a chinchilla's help, he poured all his borrowed Double Sun energy back into Atlas's cola heart. He saved his friend and drained himself down to a sickly green ooze in the process. "You tried to save me from that hamster, and I'm going to save you from yourself." His last request was that Atlas win for them both and "kick that weeaboo samurai's ass" for him. Atlas poured one out for the homies, bottled his brother, and placed the bottle beside his own heart until he could rebuild the fridge body. The Lord of Fate eventually counted it as a win for Atlas. Frigidoom's final words, from inside Atlas's chest: "Pour one out for your homies."
+
+### The Hunt for #2, Part 1 (Season of the Trials)
+In the real timeline, this reality's Frigidoom (who introduced himself as Frigidum) was the first champion Thea recruited for Team C. The Fortress's entire supply of alcohol had vanished down the throats of goblins, chinchillas and Thea. Frigidoom offered a long-expired beer from his insides. [[The Arbiter]] declared it "exquisitely fermented" and poured it over Thea's head. Frigidoom was teamed with [[Bob the Barbarian]] and [[The Duke]], a rat magician. When [[Grandmaster Elusia Skypiercer|the Grandmaster]] offered them full employment as "the sword of the Dread Fortress," Frigidoom asked for a new shell with a touchscreen. The Duke dug around in his hat and produced a tablet.
+
+At [[Emmery's Tavern]], [[Emmery]] explained that his "patented number two ale" had been delivered, but someone was ravaging the town and his bar. Frigidoom swore an oath "in the name of fermentation and spoiled things everywhere." He gave a one-eyed fox a swollen grape for an eye and lost a drinking contest to it badly. He discovered that lighting a Zippo near him might make his whole body explode, and he suffered the indignity of being dropped by a drunk dragonborn. When he said he needed a smaller fridge shell, Bob lifted him up: "You are seen, brother." A single tear fell from Frigidoom's ice dispenser. Then a dragonborn named [[Tabitha]] and her companions pointed the team toward the culprit, [[Billy]].
+
+Billy was a werewolf hiding in the back room. Frigidoom walked over on tentacle stilts, Tabasco-slapped him blind, and rammed a fist of toxic bile down his throat. His chicken-wing morning star, crushed-ice gatling and borrowed shotgun all missed ("I just realized I don't have fingers"). His real contribution came during the team huddle. After briefly suggesting they ask Thea to destroy the moon, he remembered that Billy feared light: "I have a light inside of the fridge." Bob opened Frigidoom's door, and a radioactive glare burst out and seared the werewolf, setting up Bob's finishing "Ultimate Denim Gator." Earlier, Frigidoom had promised Thea, "You will always have five stars in my eyes," and given her the gold star off his own door. Thea then announced that the three teammates would fight each other to decide who led the team.
+
+### The Hunt for #2, Part 2 (Season of the Trials)
+Fresh from a week's vacation in Duval, where he picked up a jaguar magnet, Frigidoom arrived at the season finale with snacks for everyone ("ignore the nacho cheese. It's still moving"). The rematch was held in the wrecked Emmery's Tavern. Frigidoom opened with a perfect jello spear to Bob's chest, a turkey-leg club, gatling ice that left Bob slippery for the rest of the night, and a horde of spoiled-fruit minions. In return he was invaded by Bob's trouser snake, crammed full of Florida swingers, nuked twice by the Duke's rat artillery, and had his ice maker filled with crystal meth. Through a chaos event led by [[Doug the Pug]] he stayed perfectly calm, since the pug's farts smelled "like home." He realized he was missing a can of dog food.
+
+Pushed to the brink, he woke up "like some hellish hermit crab made of casserole and body parts and crystal meth." He ran his self-patented cleaning cycle until he shone like new, and he threw Bob's eyes full of "hot dust." Then he ate the legless Duke, and the Duke's rats came along to infest his insides. Speaking from the grave and already inside the fridge, the Duke gave him a tune-up: Gundam weaponry, all controlled from a "new and improved smart touch screen." Frigidoom was overjoyed: "At long last, my touchscreen has come."
+
+It came down to fridge versus man, and both were felled by the final chaos event, a gang of children in the corner hurling insults. ("They're so mean. Bob, they're so mean. I'm just a fridge.") Frigidoom died content, dreaming of the team name he would have chosen: "the leftovers." Bob held out a moment longer and was declared the winner. The Grandmaster revived Frigidoom and the Duke beside him, and Bob named the team the Triforce Dong Danglers. In the locker room afterward, Frigidoom reported that his warranty sticker had melted away. "Our stomachs are full, our hearts are beating."
+
+## Personality and Abilities
+
+Frigidoom is an irradiated stainless-steel or retro pastel-blue fridge, depending on the day. He is "the omni appliance that's gone wrong," with knob feet, bat wings, slit eyes that double as an ice dispenser, a fridge light, a radiator on his back and a collection of magnets. His signature rainbow mustache was cut once and glued back with yogurt. A child's drawing on his door is by "a victim that loved Frigidoom," and there was a birthday cake. He leaves a sizzling trail of grease and ooze wherever he goes. Inside lives the mutated mass of Thanksgiving dinner and leftovers that he calls his inner self, and it eats whatever goes in.
+
+For a monster built to devour, he is gentle and earnest. He offers gifts, toasts, hugs and spare grape eyes, and he takes compliments hard because he has had so few. His favorite food is Chinese takeout long past its due. He has only ever had off-brand sodas, and between matches he refills himself at the Fortress concession stand. His great dream was a touchscreen. His running complaint is an expired warranty. His great fear is fire: "my whole body is going to explode."
+
+In a fight he improvises with whatever is inside him. His moves have included pizza-roll lava, Tabasco slaps, bile fists, chicken-wing morning stars, hot dog nunchucks, crushed-ice gatlings, armies of spoiled-food minions and a deadly fridge light. His signature move is his "self-patented cleaning cycle," which makes him shine like new and usually makes things messier for everyone else.
+
+## Relationships
+
+- [[Kyle Stoddard]]: The "weeaboo samurai" who beat him and cut his mustache, and the target of a lasting grudge.
+- [[Atlas]]: His mechanical "brother," who showed him the rad side. Frigidoom gave up his own power to restore Atlas and ended up bottled beside his heart.
+- [[Thea]]: Friend and frequent recruiter. He froze her by accident, gave her his gold star, and admired the way she eats.
+- [[Bob the Barbarian]]: Teammate and "kin," who told him "You are seen," then fought him to the end in the finale.
+- [[The Duke]]: Teammate who gave him his first tablet and, from inside his stomach, his touchscreen. Frigidoom ate him.
+- [[Doug the Pug]]: The pug whose farts smell "like home" to Frigidoom.
+
+## Memorable Quotes
+
+- "I am Frigidoom. I have survived nuclear testing, your mother's Thanksgiving dinner, and the leftovers you forgot about three weeks ago. I am here to consume and keep your food fresh." (Frigid Fedoras)
+- "Everything that is goes in here and comes out again eventually." (Frigid Fedoras)
+- "I should have never eaten that damn blue pill. It didn't last four hours." (Frigid Fedoras)
+- "Atlas, stop acting like you don't have a mouth and speak from your heart." (Appliance Adversaries)
+- "You will always have five stars in my eyes." (The Hunt for #2, Part 1)
+- "They're so mean. Bob, they're so mean. I'm just a fridge." (The Hunt for #2, Part 2)
 
 ## Appearances
-
-### [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]]
-(Kyle Calrissian). A **sentient refrigerator monster** (blurb), all one unit with no separate freezer.
-- **An atomic fridge powered by radiation and rotten food.** Survived nuclear testing. Has bat wings, chrome exterior and knob feet, and leaves a slime trail of grease and oil.
-- Has gelatinous (jello, acidic) tentacle arms and a **patented ice machine** that shoots ice from the eye slit.
-- **Inside is a living, carnivorous mass of food with teeth, an eye and a mouth.** "Everything that is goes in here and comes out again eventually."
-- Has a cleaning cycle, and is "the omni appliance that's gone wrong."
-- Lost his **collectible rainbow magnet "mustache"** to Kyle.
-- A child's drawing on his door is by "a victim that loved Frigidoom" (there was a birthday cake).
-- Wanted pig's feet if he won.
-- Took the Box of Chaos blue pill.
-- **Died of a sixth fatigue after soiling himself during the Mountain Lightning chaotic event.** Thea unplugged him and threw him back to the Dread Fortress, where goblins in hazmat suits cleaned him up.
-
-### [[Episodes/Season 5/109 - S5E11 — Appliance Adversaries — Atlas v Frigidoom|S5E11 — Appliance Adversaries — Atlas v Frigidoom]]
-(Kyle / KidCalrissian). A giant, irradiated **retro 1950s pastel-blue refrigerator** full of a living, gelatinous food mass.
-- **Body and habits:**
-  - Green jello arms and acidic tendrils.
-  - A rainbow mustache, which a "smelly samurai" cut in his last battle; he glued it back with old yogurt.
-  - Leaves a sizzling trail. Smelly and gross, and had never been complimented or hugged before.
-  - Has had off-brand sodas like "Doctor Lightning," never Double Sun Cola before this fight.
-- **Transformations this episode:**
-  - His casing was shattered.
-  - He became a Tang-orange muscle man, then a pizza-like wrestler with spaghetti hair, pepperoni nipples, a Speedo and frosting-trimmed boots, radioactive.
-  - The slushy turned him pukey green; then neon and sun-like; then he drained to a green ooze, now in a bottle inside Atlas.
-- **Grudge:** wants Atlas to beat "that Kyle… weeaboo samurai" and his princess wife ("Princess Sokka," "uwu princess wife").
-
-### [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]]
-(Kyle). **A refrigerator exposed to radioactive waste**, with slimy green tentacles of gelatinous waste and tiny slit eyes. His ice-cube dispenser is where his eyes are and can cry.
-- **Inside him:** rotting food, expired beers and sodas, months-old nacho cheese, and "the mutated mass of Thanksgiving dinner and leftovers that's now become a living creature." He carries a hardening paste.
-- **Body:** a fridge light, an ice maker, a radiator on his back, a gold star on his fridge (now given away), and a "rainbow mustache on my front cover."
-- **Wants** a touchscreen/LCD shell; the Duke gave him a tablet. Says his warranty is expired. Can form five fingers, but can't fire a shotgun.
-- **Moves:** tentacle stilts, a Tabasco slap, a bile fist down the throat, a chicken-wing morning star arm, and a crushed-ice gatling.
-- Fears flame ("my whole body is going to explode"). Feels he may need a smaller shell.
-
-### [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]
-(Kyle). An irradiated, nuclear-powered stainless steel fridge.
-- **Body and powers:**
-  - Jello arms and tentacles, an eye slit, and an ice maker and dispenser (now full of crystal meth).
-  - A stomach full of spoiled food he can animate into minions.
-  - A "self-patented cleaning cycle" signature move. Later a "hermit crab" mass of limbs with Dorito teeth.
-- **Likes and habits:**
-  - Favorite food: Chinese takeout long past its due. Doug's farts smell "like home."
-  - He's missing a can of dog food.
-  - He refills at the Dread Fortress concession stand (Dried Blood). His warranty sticker has melted off.
-- Brought snacks, including moving nacho cheese. Holds the jaguar magnet from Jacksonville. Ate the Duke, his rats, and Bob's tenders.
-- **His dream was a touchscreen to be "a modern fridge, a cool fridge."** He got it (and Gundam weaponry) from the Duke's ghostly boon.
-- His team-name idea was "the leftovers." He died to the children's insults and was revived.
+- [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]]
+- [[Episodes/Season 5/109 - S5E11 — Appliance Adversaries — Atlas v Frigidoom|S5E11 — Appliance Adversaries — Atlas v Frigidoom]]
+- [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]]
+- [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]]

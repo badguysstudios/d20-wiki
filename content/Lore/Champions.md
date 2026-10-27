@@ -3,7 +3,7 @@ title: Champions
 tags: [lore]
 ---
 
-Every champion who has fought in D20 Deathmatch, in order of first appearance. Click a name for their full page.
+Every champion who has fought in D20 Deathmatch, in order of first appearance. Click a name for their story.
 
 | First episode | Champion | Played by | Result that episode |
 |---|---|---|---|
@@ -39,7 +39,7 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | S1E7 — Wild Magic — Strako v Zayliss | [[Characters/Zayliss\|Zayliss]] | HeyLochNess | Strako (cleaves Zayliss with two reckless axe hits) |
 | S1E8 — Fireballs — Grorx v Lord Xiren | [[Characters/Grorx\|Grorx]] | TimothiustheGr8 (Tim) | none. Both champions survive, but the Grandmaster fuses them into one two-headed body |
 | S1E8 — Fireballs — Grorx v Lord Xiren | [[Characters/Lord Xiren\|Lord Xiren]] | DadGotGameTV (Dad) | none. Both champions survive, but the Grandmaster fuses them into one two-headed body |
-| S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon | [[Characters/Narfi the lemonade vendor\|Narfi the lemonade vendor]] | feisty_viking | the Dracohydra (Narfi), who kills the Amethyst Dragon last |
+| S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon | [[Characters/Narfi\|Narfi]] | feisty_viking | the Dracohydra (Narfi), who kills the Amethyst Dragon last |
 | S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon | [[Characters/Vashon\|Vashon]] | CaptainRobear | the Dracohydra (Narfi), who kills the Amethyst Dragon last |
 | S1E10 — The Bear — Diamond Joe v Milliac | [[Characters/Diamond Joe\|Diamond Joe]] | ramjiv (Ramji) | Diamond Joe (Milliac falls to his own black-powder bear bomb) |
 | S1E10 — The Bear — Diamond Joe v Milliac | [[Characters/Milliac\|Milliac]] | NVNGpodcast (Jared) | Diamond Joe (Milliac falls to his own black-powder bear bomb) |
@@ -47,7 +47,6 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | S1E11 — Gift Horse — Cosmonius v El Hada Rocha | [[Characters/El Hada Rocha\|El Hada Rocha]] | DeadAussieGamer | none. Double KO: both champions die on the same exchange. |
 | S1E12 — Feast — Potato v Dinkledink | [[Characters/Dinkledink\|Dinkledink]] | EndlessChad | Dinkledink. Potato/Starfall is killed by the cake elemental's slam. Dinkledink kills the elemental and is left standing ("presumably the victor"), and the Grand |
 | S1E12 — Feast — Potato v Dinkledink | [[Characters/Potato\|Potato]] | JonKoe | Dinkledink. Potato/Starfall is killed by the cake elemental's slam. Dinkledink kills the elemental and is left standing ("presumably the victor"), and the Grand |
-| S1E13 — Snow-clad — Highfrost v Bryltyn | [[Characters/Bryltyn. Confirmed by Mudcat\|Bryltyn. Confirmed by Mudcat]] | Ahnubyss ("Anubis") | Bryltyn (axe slash to Highfrost's chest on the docks) |
 | S1E13 — Snow-clad — Highfrost v Bryltyn | [[Characters/Highfrost\|Highfrost]] | BDTeej ("Teej") | Bryltyn (axe slash to Highfrost's chest on the docks) |
 | S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale) | [[Characters/Lucien\|Lucien]] | Timothiusthegr8 | none. The Deathmatch was interrupted in round 5 when an army attacked the Dread Fortress. Both champions survived and fought the invaders together, and the Gran |
 | S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale) | [[Characters/Monteclaire Dufresne\|Monteclaire Dufresne]] | theshortnord ("Mike") | none. The Deathmatch was interrupted in round 5 when an army attacked the Dread Fortress. Both champions survived and fought the invaders together, and the Gran |
@@ -59,7 +58,7 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | S2E3 — A Lovers' Quarrel — Lethe v Sorry | [[Characters/Lethe\|Lethe]] | pi_sharp | none. Both champions are declared victors ("today, love will win") |
 | S2E3 — A Lovers' Quarrel — Lethe v Sorry | [[Characters/Sorry\|Sorry]] | stellaluna | none. Both champions are declared victors ("today, love will win") |
 | S2E4 — Antsy — Glub Glub v Geril-Lee | [[Characters/Geril-Lee\|Geril-Lee]] | winterstales (AJ) | Geril-Lee (two critical Flurry of Blows strikes while an ant crawls into Glub Glub's butthole) |
-| S2E4 — Antsy — Glub Glub v Geril-Lee | [[Characters/Glub Glub\|Glub Glub]] | carefulcantrip (Dave) | Geril-Lee (two critical Flurry of Blows strikes while an ant crawls into Glub Glub's butthole) |
+| S2E4 — Antsy — Glub Glub v Geril-Lee | [[Characters/Glub Glub the Glorious\|Glub Glub the Glorious]] | carefulcantrip (Dave) | Geril-Lee (two critical Flurry of Blows strikes while an ant crawls into Glub Glub's butthole) |
 | S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em | [[Characters/Dan Kowalski\|Dan Kowalski]] | endlesschad | Dan Kowalski (puts Gordy to sleep with a 5th-level sleep, then kills him with Thunder Step) |
 | S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em | [[Characters/Gordy Gotta Get Em\|Gordy Gotta Get Em]] | theshortnord (called "Mike"/"Mikey" at the table) | Dan Kowalski (puts Gordy to sleep with a 5th-level sleep, then kills him with Thunder Step) |
 | S2E7 - Hand to Hand Combat, Bargo v Carn | [[Characters/Bargo\|Bargo]] | Chunkerrific | Bargo (finishes Carn with Magic Missile, slits his throat and saws off his head) |
@@ -83,12 +82,9 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | Coriander Society, Fate of the Faithful Part 1 (A Crossover) | [[Characters/John Carmichael\|John Carmichael]] | NinjaManMat1 (Matt) | n/a. John, Asena, Lyrus and Lyrus's militia defeat the fake "Grandmaster's forces" in the market |
 | Coriander Society, Fate of the Faithful Part 1 (A Crossover) | [[Characters/Lyrus\|Lyrus]] | Mudcat | n/a. John, Asena, Lyrus and Lyrus's militia defeat the fake "Grandmaster's forces" in the market |
 | S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & … | [[Characters/Veronica\|Veronica]] | mendarii | Team Grandmaster (Toddleheim and Veronica). Ralzamon and Glub Glub die. One point to the Grandmaster; the Acolyte popular vote stays open. |
-| S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins | [[Characters/Prof. Stabbz\|Prof. Stabbz]] | and Thenoirenigma | "Thornabub (Team Arbiter) wins the fight as the last one standing. The Acolyte vote goes to Flynry & Prof. Stabbz. The Grandmaster wins Battle for the Crown 4–2 |
-| Live / GCX Orlando 2022 — Lord Snacc v The Showman | [[Characters/Lord Snacc\|Lord Snacc]] | BDTeej | Lord Snacc (two glaive hits in round 7 finish The Showman after his faked death) |
-| Live / GCX Orlando 2022 — Lord Snacc v The Showman | [[Characters/The Showman\|The Showman]] | RogueExMachinca | Lord Snacc (two glaive hits in round 7 finish The Showman after his faked death) |
+| Live - GCX Orlando 2022 — Lord Snacc v The Showman | [[Characters/Lord Snacc\|Lord Snacc]] | BDTeej | Lord Snacc (two glaive hits in round 7 finish The Showman after his faked death) |
+| Live - GCX Orlando 2022 — Lord Snacc v The Showman | [[Characters/The Showman\|The Showman]] | RogueExMachinca | Lord Snacc (two glaive hits in round 7 finish The Showman after his faked death) |
 | S3E2 — The Student and the Master — Alma v Ahyan | [[Characters/Alma\|Alma]] | Erica (handle unknown) | Alma (kills Ahyan with a single Quickened Magic Missile to the heart) |
-| S3E2 — The Student and the Master — Alma v Ahyan | [[Characters/Capt Fable\|Capt Fable]] | "Hamna" (name as heard, handle unknown) as Ahyan. The YouTube cast list (sensei_suplex | Alma (kills Ahyan with a single Quickened Magic Missile to the heart) |
-| S3E2 — The Student and the Master — Alma v Ahyan | [[Characters/a copy-paste error\|a copy-paste error]] | and is treated | Alma (kills Ahyan with a single Quickened Magic Missile to the heart) |
 | S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade | [[Characters/Ignacio Marchade\|Ignacio Marchade]] | Karim Cheese | none. Double death: Ignacio is killed by K-Boom's fireball, then the water weird drags both champions into the pit. |
 | S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade | [[Characters/K-Boom\|K-Boom]] | BrandontheDM | none. Double death: Ignacio is killed by K-Boom's fireball, then the water weird drags both champions into the pit. |
 | S3E5, Edge Lords - Captain Fable v Verryn Ruth | [[Characters/Captain Fable\|Captain Fable]] | sensei_suplex | Captain Fable (decapitates Verryn Ruth) |
@@ -116,9 +112,7 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… | [[Characters/Elianna\|Elianna]] | ParallaxStella | n/a (no deathmatch; a fight with sand scorpions starts at the end) |
 | S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface | [[Characters/Huey Leatherface\|Huey Leatherface]] | BonusStageRob | Huey Leatherface. Soot falls into the Cube of Annihilation and dies. Huey is declared the winner, then dropped 40 ft by the Grandmaster. Whether he survived the |
 | S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface | [[Characters/Soot Mustam\|Soot Mustam]] | WintersTales (called "AJ" at the table) | Huey Leatherface. Soot falls into the Cube of Annihilation and dies. Huey is declared the winner, then dropped 40 ft by the Grandmaster. Whether he survived the |
-| Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside | [[Characters/a player character\|a player character]] | Cerys played by speaker 04 (inferred Miss_Magitek. Locket is listed on YouTube but does not appear | n/a. The party kills the ice dragon (Cerys lands the killing blow) |
 | S4E2 — Under the Bottom — Richardo v Evah | [[Characters/Evah\|Evah]] | imkattkatt (Kat) | Evah drops Richardo, then the Shadow King kills her. Both champions die. |
-| S4E2 — Under the Bottom — Richardo v Evah | [[Characters/Richardo Over the Top Johnson\|Richardo Over the Top Johnson]] | Danotage | Evah drops Richardo, then the Shadow King kills her. Both champions die. |
 | S4 Ep3, Swindlers - Griff v Cappin Fodder | [[Characters/Cappin Fodder\|Cappin Fodder]] | QuincysTavern (Quincy) | Griff (Flame Strike on a held Fodder) |
 | S4 Ep3, Swindlers - Griff v Cappin Fodder | [[Characters/Griff\|Griff]] | Critical_Dice (Jason) | Griff (Flame Strike on a held Fodder) |
 | S4E4 — Death Dealers — The Scourge v Bone Daddy | [[Characters/Bone Daddy\|Bone Daddy]] | johnnystantoniv (Johnny Stanton) | The Scourge (smites and constricts Bone Daddy; Bone Daddy is carried by Darcy off the platform into the void) |
@@ -148,24 +142,18 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman | [[Characters/Killy Yesman\|Killy Yesman]] | Yang (Dungeon Scrollers) | Killy Yesman (Atlas rips out his own brain on a nat 1) |
 | S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes | [[Characters/Copycat\|Copycat]] | Kat | Kopy Katt. Emmery, a changeling, takes the form of Cervantes's mother and slaps him with a slipper into the fireplace. |
 | S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes | [[Characters/Professor Alonzo Quixote Cervantes\|Professor Alonzo Quixote Cervantes]] | Rogue | Kopy Katt. Emmery, a changeling, takes the form of Cervantes's mother and slaps him with a slipper into the fireplace. |
-| S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger | [[Characters/Robbie Clark\|Robbie Clark]] | Cinder (Cinderblock Sally) | Robbie Clark and the Hunger (they consume Ruby Rust's biomass) |
+| S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger | [[Characters/Robbie Clark and the Hunger\|Robbie Clark and the Hunger]] | Cinder (Cinderblock Sally) | Robbie Clark and the Hunger (they consume Ruby Rust's biomass) |
 | S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger | [[Characters/Ruby Rust\|Ruby Rust]] | Rob (Robert Hartley GM) | Robbie Clark and the Hunger (they consume Ruby Rust's biomass) |
 | S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith | [[Characters/Granny Edith\|Granny Edith]] | Luboffin | none. Both champions die from a fifth fatigue in the final exchange. |
 | S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith | [[Characters/Tormiir\|Tormiir]] | Cucumber (PerceptionStudio) | none. Both champions die from a fifth fatigue in the final exchange. |
 | S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom | [[Characters/Frigidoom\|Frigidoom]] | Kyle Calrissian | Kyle Stoddard (Frigidoom dies of a sixth fatigue during the second chaotic event) |
 | S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom | [[Characters/Kyle Stoddard\|Kyle Stoddard]] | Banzai Kyle | Kyle Stoddard (Frigidoom dies of a sixth fatigue during the second chaotic event) |
-| S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley | [[Characters/King Man Frog Bofus\|King Man Frog Bofus]] | Dr. Bees | none. Both die: Richard of a "coronary" after his Peloton lightning, and Bofus to fatigue (Dr. Bees in Dried Blood: "not killed me regarding fatigue") |
+| S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley | [[Characters/King Bofus\|King Bofus]] | Dr. Bees | none. Both die: Richard of a "coronary" after his Peloton lightning, and Bofus to fatigue (Dr. Bees in Dried Blood: "not killed me regarding fatigue") |
 | S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley | [[Characters/Richard Knottley\|Richard Knottley]] | RealLifeFakeWizard | none. Both die: Richard of a "coronary" after his Peloton lightning, and Bofus to fatigue (Dr. Bees in Dried Blood: "not killed me regarding fatigue") |
 | S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian | [[Characters/Bob the Barbarian\|Bob the Barbarian]] | Big Papa Drak (@bigpoppadrockrsl) | unclear. The fight ends when Robbie breaks free of the Hunger and the Hunger dissolves. The Lord of Fate says "somebody technically died." Dried Blood gives Rob |
 | S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso | [[Characters/Teddy Oso\|Teddy Oso]] | Chunk (YouTube @PerceptionStudio) | Granny Edith (a boulder-sized loaf of bread knocks Teddy off a tombstone into the lava) |
-| S5E10 — BoneBound Brawl — King Bofus v Bone Daddy (and Darcy) | [[Characters/King Bofus\|King Bofus]] | Dr. Bees (DoctorBees) | none. A tie on the heroic surge gives both champions their fifth fatigue, and the bone wave buries them both. |
 | S5E12 — Imitation Game — Kopy Katt v Ragu | [[Characters/Ragu\|Ragu]] | Big Cheese | Ragu (Kopy Katt kills herself with her own can opener on a natural 1) |
-| S5E13 — Bone Rust — Ruby Rust v Bone Daddy | [[Characters/Bone Daddy. Names come from the transcript\|Bone Daddy. Names come from the transcript]] | Johnny Stanton (Johnny Stanton IV) | Ruby Rust (swallows and crushes Bone Daddy), then restored to a non-sentient python and released into the Void |
-| S5E15 — Cosmic Collision — Teddy Oso v Ragu | [[Characters/Ragu. The YouTube description lists no guest cast\|Ragu. The YouTube description lists no guest cast]] | guest (speaker 02) | Teddy Oso (a spinning roundhouse kick cracks Ragu's jaw off its hinges; Ragu floats frozen into orbit) |
-| S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way) | [[Characters/Bobby Clark\|Bobby Clark]] | Cinderblocksally | Copycat and the Hunger (fused) |
-| S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way) | [[Characters/Tormiir the minotaur. Assignments from the handle rulings\|Tormiir the minotaur. Assignments from the handle rulings]] | Cucumber (PerceptionStudio) | Copycat and the Hunger (fused) |
 | S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery) | [[Characters/Cornelius Antonio C.A. Bunga\|Cornelius Antonio C.A. Bunga]] | three guests, names not in the description. Speaker 03 | no fight winner. The murder is solved by the Arbiter's "time eyes": Iris killed Thea. Iris then kills her resurrected husband Tony with a rocket launcher. Skelm |
-| S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission) | [[Characters/Robbie Clark & The Hunger\|Robbie Clark & The Hunger]] | Cinder (inferred | no deathmatch this episode. The mission succeeds when Atlas's self-destructing Unstoppable Force, boosted by the Box of Chaos, kills Theresa and the crystal is  |
 | S6 Ep4 — Tip to Tip - Part 1 (TTRPG One Shot) | [[Characters/Richard S. Skelman\|Richard S. Skelman]] | Joel | no deathmatch. The party ("Team B", later "Team 3D") defeats Skelman's lich grandfather and finds Thea. Skelman v Richard Knottley is set for next week. |
 | S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy | [[Characters/The Duke\|The Duke]] | Sensei Suplex | the party. Billy the werewolf is killed by Bob's "Ultimate Denim Gator". |
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Beans the Terrible\|Beans the Terrible]] | North Wolf | Dave the Doom Duck (last one standing; "captured the flag") |
@@ -173,12 +161,9 @@ Every champion who has fought in D20 Deathmatch, in order of first appearance. C
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Grog the Malodorous\|Grog the Malodorous]] | JJ (Jonathan, Wounded Warrior Project staff) | Dave the Doom Duck (last one standing; "captured the flag") |
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Perry\|Perry]] | Keon (brotherkeon) | Dave the Doom Duck (last one standing; "captured the flag") |
 | × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Pyxis\|Pyxis]] | Anthony Joyce Rivera | Dave the Doom Duck (last one standing; "captured the flag") |
-| × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata) | [[Characters/Solid\|Solid]] | Dan / Nat1Fun | Dave the Doom Duck (last one standing; "captured the flag") |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Grimnar Stormclaw\|Grimnar Stormclaw]] | Mudcat | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Muffy\|Muffy]] | JustSeum ("Sam") | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
 | Pieces of a King Ep 1 — DӒMMERUNG | [[Characters/Nehebka\|Nehebka]] | CriticalBard | n/a. The squad destroys a construct patrol, then retreats with the goblins under artillery cover |
-| Pieces of a King Ep 2 — THE WAR COUNCIL | [[Characters/Grimnar\|Grimnar]] | Mudcat | n/a (roleplay session) |
-| Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III | [[Characters/Maximilian Maxwell III. Player names are not stated\|Maximilian Maxwell III. Player names are not stated]] | unnamed guest | Maximilian Maxwell III (Talon killed by a barrage of soup cans) |
 | Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III | [[Characters/Ringmaster Talon\|Ringmaster Talon]] | unnamed guest | Maximilian Maxwell III (Talon killed by a barrage of soup cans) |
 | S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage | [[Characters/Andy Gammage\|Andy Gammage]] | Jay Foster (whoisjayfoster) | Andy Gammage (wins the rock-paper-scissors mega chaos event, then drives his soup ladle through DeeDrah's eye) |
 | S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage | [[Characters/DeeDrah\|DeeDrah]] | MrsBettierage | Andy Gammage (wins the rock-paper-scissors mega chaos event, then drives his soup ladle through DeeDrah's eye) |

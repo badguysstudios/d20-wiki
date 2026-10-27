@@ -1,82 +1,101 @@
 ---
-title: "S5 Ep17 — Vythorn's Return Part 4"
-canon: 115
-tags: [episode, vythorn-s-return]
+title: S5 Ep17 — Vythorn's Return Part 4
+type: episode
+episode_code: S5E17
+arc: Vythorn's Return
+winner: No winner
+summary: In a vision, Vythorn visits the imprisoned Grandmaster as Lord of Fate and realizes he has built a prison for them both. Back in the moment of his choice, he rejects Fil, frees Elusia from her shackles, and the two vow before the Acolytes to fight fate itself.
+tags:
+- episode
+youtube: https://youtu.be/yaUy8gnKnO4
+canon_order: 115
 ---
 
-| | |
-|---|---|
-| Champions and players | Mudcat as Vythorn / the Arbiter |
-| Result | none (story episode) |
-| Arena | none (no Deathmatch). Scenes are the abandoned dungeons of the Dread Fortress (Season of Fate vision), then the storm-lashed memory scene left unfinished at the end of Part 3 |
-| Hosts | Caustic Phoenix (narration, Fil, Grandmaster Elusia Skypiercer) |
-| Watch | [YouTube](https://youtu.be/yaUy8gnKnO4) |
+[Watch on YouTube](https://youtu.be/yaUy8gnKnO4)
 
-## What happens
-### Season of Fate (Vythorn's vision): the dungeon visit
-*The post-show (0:22:31–0:23:48) states that this whole scene, like the whole of Season 5, takes place inside Vythorn's vision. Only Vythorn experiences it.*
+There was no Deathmatch and no champion, only a choice that had been left hanging since the end of Part 3. In the surprise fourth chapter of a story everyone thought was a trilogy, **Vythorn**, [[The Arbiter|the Arbiter]], walked down into the dungeons of [[The Dread Fortress|the Dread Fortress]] as the Lord of Fate to visit the woman he had overthrown. Then he opened his eyes in the rain with a dagger at her throat and decided who he really was. It is a quiet, strange and surprisingly tender episode, and it rewrites everything that came before it.
 
-1. **0:00:12 — The forgotten halls.** Bec narrates a rarely travelled part of the **Dread Fortress**. It is abandoned and cold, with cobwebs on the walls and corners, and "only spiders call this place home." **Vythorn, "our new Lord of Fate,"** walks down into the dungeons on steps he has not used "in ages."
-2. **0:00:51 — Vythorn's mood.** He walks the halls in deep contemplation. His **newly crafted leather boots** clack and echo. The deeper he goes, the more solemn and sad he becomes. He thinks over:
-   - the last season of Deathmatches and the time since he took power;
-   - **the frustration of his new assistant**;
-   - the challenges of leadership;
-   - the constant infighting and rebellion;
-   - being responsible for so many bickering people.
-   
-   He feels nostalgic "for the way things used to be."
-3. **0:02:14 — The door.** He stops before a door with "only one face" behind it: a prison holding someone he has not seen "in a season's time." He hesitates, unsure whether he should be there. Then, moved by "this feeling of almost sorrow," he unlocks it and pushes the chamber open.
-4. **0:03:24 — Elusia in her cell.** The light is dim, and the prisoner squints at him. Her first word is "**Agdrel?** No, what am I saying? Vythorn."
-5. **0:03:41** Vythorn hopes the accommodations "haven't been too terrible." She answers with her old sharp tongue: "my stay has been delightful." The cell is dark and damp but has candlelight, **books in the corner and a humble bed mat**. Vythorn notes to himself that she looks worn and tired. He admits he doesn't really know why he came.
-6. **0:04:49** She invites him to sit, since she hasn't had company in a long time. **He magically pulls a chair over**, smooths his robes and preens a little, then sits "like a lord."
-7. **0:05:16 — The chains.** Up close he sees that **Elusia is still in chains**, but she moves freely in them, as if they were "bangles jewelry." She asks what could possibly bother the Lord of Fate.
-8. **0:05:48 — Loneliness.** Vythorn admits he is lonely and misses their conversations. She points out that he controls everyone's fate and could twist anyone into a friend or mentor. He replies that his acquaintances are "all hollow." He can never truly know who is a real friend and who is under his influence. He corrects himself: he does know, but "it's not as fun when you have to force it."
-9. **0:07:05 — Elusia's judgement.** She seizes on the word "fun." His friends are hollow "because they're not real." When he became Lord of Fate it was never about real relationships. He had a plan, and when you make your will that of everyone else, "it's going to be lonely."
-10. **0:07:49** He wonders what she would do in his place. She says she understands the temptation, and would have expected herself, not him, to crave such power. He was a victim of fate being controlled: "**Have you not become what Agdrel was to you?** A controlling mastermind who decided how you'll fit in at the void of the role that you will play."
-11. **0:08:00–0:09:06 — Why she trusted him.** "**I know that you will overthrow me time and time again.** I let those risks grow. They're opportunities for you to have choice." Being around others with their own will is a risk, but it is also how they can shape your future "to become something greater or better that you couldn't envision on your own."
-13. **0:10:18** Elusia: if he can't accept that people make mistakes, he will be lonely, his success minimal and his impact meaningless. She chose to take in the flaws along with the beauty and joy of letting everyone choose their lives "side by side rather than alone." She asks how that loneliness feels.
-14. **0:11:27 — "A prison for us both."** "I feel trapped. I feel more trapped than I ever did when I was your arbiter." He tried to take fate into his own hands so that neither he nor those around him would suffer again, "but it seems I've made a prison for us both."
-15. **0:12:12 — The bed.** Elusia: "Yours does have a comforting bed that is nicer than mine." Vythorn: "It is very nice. In fact, **it was yours**."
-16. **0:12:25** She concedes they may not have communicated well or been the best for each other. If she could go back she would change some things, "but **I wouldn't change my trust in you**." She would also "deck out all the dungeons with comfortable beds in case I ever found myself here." Vythorn: "Very wise."
-17. **0:13:01 — The exhale.** Vythorn hangs his head and lets her words cut to his core. He realizes he is "the architect of his own fate." "Well then I know what I have to do." **He opens his eyes and exhales.**
+## The Story
 
-### Main timeline: the choice
-18. **0:14:05 — Back in the memory.** He is back in a familiar scene: disrupted ground, angry clouds and a downpour of rain. It is "a memory that has not yet been completed." **Fil, the God of Fate**, whispers in his ear and asks again: "Who are you going to become?"
-19. **0:14:45 — The answer.** "**I will be who I have always been. I am the arbiter of the Grandmaster. I am the other side of her coin. And together we will overcome fate.**"
-20. **0:15:09** Fil objects: "That's not what we outlined. That was not your desire." Vythorn says he thought it through to its logical conclusion. Controlling his own fate means choosing for himself, "whether I kill the Grandmaster or join her." "You will not tempt me, pull the strings… This is my choice."
-21. **0:15:59** Fil mocks him as "a man of titles." She asked him so many times who he is, he wanted to become something greater, and he chose "to stay with the Arbiter"? Vythorn: "**The only title that matters to me is friend.**"
-22. **0:16:32 — The debt.** "Okay, friend. Interesting. Well, we had our deal. **The book was given. The void laid out in front of you.** Vythorn. **We will have to come to collect.**" Vythorn, looking at the frozen Elusia: "**We'll be ready for you.**"
-23. **0:17:02** Fil chuckles with a **Cheshire Cat smile**. The laugh echoes as she disappears. With her gone, the rain starts to fall again, soaking Vythorn's clothes and hair. **Elusia starts to move.** She is still in that moment of fear, holding on to **the choker**.
-24. **0:17:44 — The dagger.** Seeing her fear, Vythorn **draws the dagger downward, channels chaos energy through it and shatters the shackles around her neck.** "It's good to see you."
-25. **0:18:05** Elusia: "I hate to admit it, but I didn't know what you were going to do there for a second." Vythorn: "**That makes two of us, I think.**" "What?" "Nothing."
-26. **0:18:16 — The embrace.** She is glad he is back by her side. "The Shadow King at least is not here, but we have so much we have to do and I cannot do it alone." **She runs to hug him.** The narration notes that a surprise hug "is not something that has occurred often between the two of them, typically cold and stature," but it is welcome. She pulls back: "We are going to change things. We are going to be ready." She has noticed many threats in the Void.
-27. **0:18:58** Vythorn: "**There are even more threats beyond the void that you aren't even aware of yet.**" They agree they must prepare, and Vythorn says "together we must be ready to **fight fate itself**." She likes the phrase.
-28. **0:19:13 — The Acolytes.** The Acolytes have watched the fight, the Shadow King's disappearance, and the Arbiter putting a dagger to Elusia's throat only to free her. They wait cautiously, unsure what to make of it all. **Elusia opens her wings and addresses them:**
-    - "The time of corruption is over. Chaos for chaos sake is not enough anymore."
-    - Chaos is what binds them and draws them to the Void, "but we are not victims of it. It is in our blood, in our essence."
-    - "This chaos energizes us and it is ours to wield, not for others to wield over us."
-    - She declares "a new era." Together they will strengthen their ranks, minds and bodies so that, looking at the Arbiter, "**we may be the masters of our own fate.**"
-29. **0:20:19** Sign-off: "Welcome and good night."
+### The Forgotten Halls
+The episode opened in a part of the Dread Fortress that almost nobody visits. It was abandoned and cold, with cobwebs strung across the walls and corners, and "only spiders call this place home." Down steps he had not used "in ages" came Vythorn, "our new Lord of Fate," in a pair of newly crafted leather boots that clacked and echoed through the empty halls.
 
-## Post-show
-There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the YouTube length (0.36 h ≈ 21:36) matches where the talk begins. Everything below is out of character.
-- **Recorded in secret, in advance.** This was "the surprise recording of episode four." The series was billed as three parts "because we like lying to you all." It was recorded about seven months before release, before the rest of Season 5 aired, and planned for release after the season ends "in December." They had to avoid referencing anything that would happen in the meantime, apart from generic things: "Of course, the assistant. We know her place in here. We know that the season was going on under the reign of Vythorn."
-- **Ruling on Season 5:** the whole season is "a mere imagination… Unreal."
-  - Drew: a dream sequence. At the end, or in the middle, of Part 3, Vythorn closes his eyes to consider who he will become, and the entire season happens in that moment, "in kind of the blink of an eye." He imagines what would happen if he overthrew the Grandmaster and became Lord of Fate. "This entire season is nothing. It's all non-canon."
-  - Bec: "It doesn't matter, but it kind of does matter… it's not real to anyone else except for Vythorn… **This is the longest breath he's ever taken.** Inhale, starts the dream sequence, exhales all over." It's real to him because he lived it.
-  - Drew: the dungeon scene was "very nice… even though **it wasn't really her, it was just him talking to himself**."
-  - Bec asks whether to call it a dream or "a glimpse into the many pathways of future that a God of Fate in the Void would have." Drew: "we could call it a look at a possible future, perhaps." Bec: "We're not multiversing this… I don't have the energy to write a multiverse story."
-  - Bec: as a user of time stepping into the Lord of Fate role, Vythorn can see the options in front of him, and this was one of the major choices. Drew: "especially with this new power from **Morir's Cataclysm**," it may fuel his ability to see through choices across time and space. Bec: it isn't enough power to see all options, but the one "he was doting upon becomes a reality for him to experience."
-  - Drew: whatever it was, it influenced his decision not to betray the Grandmaster and to see the two of them as "two sides of a coin." He was "ultimately a loyal friend." He expects "a whole season of everyone hating the Arbiter." Bec: "People are going to be taking back their sentences."
-- **Threats ahead (Bec):** "a new villain, villains, on the horizon. **Shadow King is up in the air. His pieces of body scattered around the hells.** Phil, Philomena, our God of Fate. They will be coming for Vythorn and the Void." Deathmatches will continue "for a new and revised fresh reason."
-- Drew: the Shadow King "is weakened and gone, but he's still out there somewhere, could come back." He looks forward to the old dynamic between the Arbiter and the Grandmaster and how they face the new threats.
-- **Story philosophy:**
-  - Inspirations named in the Kickstarter: WWE for the Deathmatches themselves, and *Mystery Science Theater 3000* for the overall story, where "there is movement, but also nothing ever changes."
-  - They must keep returning to "our core of Grandmaster, Arbiter energy," telling a story "in a circle… more like a spiral."
-  - Drew: the aim is to reskin the formula, introduce lore beyond the Deathmatches, and not become predictable ("the Arbiter is going to betray the Grandmaster every season… that gets old").
-- Bec thanks the community and the guest talent. Drew: "See you. Get out of here. Go away."
+He walked in deep contemplation, and the deeper he went, the sadder he grew. He thought about the last season of Deathmatches and the time since he had taken power. He thought about the frustrations of his new assistant, [[Thea]], and the burdens of leadership. He thought about the constant infighting and rebellion and the endless task of being responsible for so many bickering people. Above all, he felt nostalgic "for the way things used to be."
 
-## Who and what appears
+### The Prisoner
+He stopped before a door with only one face behind it, a prisoner he had not seen "in a season's time." For a moment he hesitated, unsure whether he should be there at all. Then, moved by something close to sorrow, he unlocked the door and pushed it open.
+
+In the dim light, the prisoner squinted at him. It was [[Grandmaster Elusia Skypiercer|the Grandmaster]], and her first word was the name of her uncle, [[The Shadow King|Agdrel]]: "Agdrel? No, what am I saying? Vythorn."
+
+Vythorn hoped the accommodations "haven't been too terrible." Her tongue was as sharp as ever: "Yes, my stay has been delightful." The cell was dark and damp but lit by candles, with books in the corner and a humble bed mat. She looked worn and tired. Vythorn admitted he didn't really know why he had come.
+
+She invited him to sit, since she had not had company in a long time. He magically pulled a chair across the floor, smoothed his robes, preened a little and sat down "like a lord." Up close he saw that she was still in chains, though she wore them easily, as if they were bangles.
+
+### A Prison for Us Both
+She asked what could possibly trouble the Lord of Fate. Vythorn confessed that he was lonely and missed their conversations. She pointed out that he controlled everyone's fate and could twist anyone into a friend or a mentor. That was exactly the problem, he said. His acquaintances were "all hollow," and he could never be sure who was a real friend and who was just under his influence. Then he corrected himself: he did know, but "it's just not as fun when you have to force it."
+
+The Grandmaster pounced on the word "fun." His friends were hollow, she told him, "because they're not real." Becoming Lord of Fate had never been about real relationships. He had a plan, and when you make your will everyone else's will, "it's going to be lonely." She understood the temptation and said she would have expected herself to crave that kind of power, not him. He had been the victim of someone else controlling his fate. "Have you not become what Agdrel was to you?"
+
+Then she told him why she had trusted him all along:
+
+> "I know that you will overthrow me time and time again. I let those risks grow. They're opportunities for you to have choice." — **Grandmaster Elusia Skypiercer**
+
+Living among people with wills of their own was a risk, she said, but it was also how they could shape your future into something greater than you could imagine alone. If he could not accept that people make mistakes, he would be lonely, his success would be small and his impact would mean nothing. She had chosen to take the flaws along with the beauty and joy of letting everyone live their lives "side by side rather than alone." So how did the loneliness feel?
+
+"I feel trapped," Vythorn said. "I feel more trapped than I ever did when I was your arbiter." He had tried to take fate into his own hands so that neither he nor anyone around him would suffer again, "but it seems I've made a prison for us both."
+
+The Grandmaster lightened the moment. "Yours does have a comforting bed that is nicer than mine." Vythorn agreed: "It is very nice. In fact, it was yours." She conceded that they might not have communicated well or been the best for each other. If she could go back she would change some things, "but I wouldn't change my trust in you." She would also deck out every dungeon with comfortable beds, just in case she ever ended up in one. "Very wise," said Vythorn.
+
+He hung his head and let her words cut to the core. He was the architect of his own fate. "Well then I know what I have to do." He opened his eyes and exhaled.
+
+That exhale was the point. The whole Season of Fate, including his reign, his assistant, his rebellions and this visit to the cell, had unfolded in a single moment inside Vythorn's mind. It was the longest breath he had ever taken. Afterward, at the table, the players admitted that the woman in the cell was never really her: it was Vythorn talking to himself.
+
+### The Question Asked Again
+Vythorn was back in a familiar place: torn-up ground, angry clouds and a downpour of rain. It was a memory that had not yet been completed. [[Fil]], the God of Fate, whispered in his ear and asked her question once more: "Who are you going to become?"
+
+This time he had an answer.
+
+> "I will be who I have always been. I am the arbiter of the Grandmaster. I am the other side of her coin. And together we will overcome fate." — **Vythorn**
+
+Fil was not pleased. "Overcome fate? That's not what we outlined. That was not your desire." Vythorn told her he had followed the idea through to its logical conclusion. Controlling his own fate meant choosing for himself, whether he killed the Grandmaster or joined her. "You will not tempt me, pull the strings… This is my choice."
+
+Fil mocked him as "a man of titles." She had asked him so many times who he was, he had wanted to become something greater, and now he would stay the Arbiter? Vythorn thought about it. "Well, I suppose when I think about it, the only title that matters to me is friend."
+
+"Okay, friend. Interesting," Fil replied. A deal was a deal. "The book was given. The void laid out in front of you." That book was [[Morir's Cataclysm]], the power she had handed him. "We will have to come to collect." Vythorn looked at the frozen Grandmaster and answered simply: "We'll be ready for you." Fil smiled a Cheshire Cat smile, and her chuckle echoed as she vanished.
+
+### The Dagger
+With Fil gone, the rain began to fall again, soaking Vythorn's clothes and hair, and the Grandmaster began to move. She was still caught in that moment of fear, clutching the choker locked around her neck. Vythorn drew the dagger downward, channelled chaos energy through it and **shattered the shackles around her throat**. "It's good to see you."
+
+"You know, I hate to admit it, but I didn't know what you were going to do there for a second," she said. "That makes two of us, I think," said Vythorn. "What?" "Nothing."
+
+She was glad to have him back at her side. The Shadow King, at least, was gone, but there was so much to do, and she could not do it alone. Then she **ran to hug him**, which almost never happened between these two, usually so cold and formal, but the hug was welcome. Pulling back, she told him they were going to change things and be ready, because she had noticed many threats in [[The Void|the Void]]. Vythorn warned her that there were even more threats beyond the Void that she didn't know about yet. Together, he said, they must be ready "to fight fate itself." "Fight fate. What an interesting phrase," she said. "But I like it."
+
+### A New Era
+[[The Acolytes]] had seen all of it: the fight, the Shadow King's disappearance, and the Arbiter putting a dagger to the Grandmaster's throat only to set her free. They waited cautiously, unsure what to make of it. The Grandmaster opened her wings and spoke to them.
+
+"Acolytes. The time of corruption is over. Chaos for chaos sake is not enough anymore." Chaos was what bound them and drew them to the Void, she said, but they were not its victims: it was in their blood and their essence. "This chaos energizes us and it is ours to wield, not for others to wield over us." She declared a new era. Together they would strengthen their ranks, their minds and their bodies so that, as she turned to look at the Arbiter, "we may be the masters of our own fate."
+
+Welcome, and good night.
+
+## Notable Moments
+- The entire Season of Fate turned out to be one breath: Vythorn's inhale started the vision and his exhale ended it.
+- The Lord of Fate preened, smoothed his robes and sat "like a lord" on a chair he had magically pulled across a prison cell.
+- The bed Vythorn sleeps in as Lord of Fate used to be the Grandmaster's.
+- Vythorn turned down godlike destiny for a single title: "friend."
+- Fil left with a Cheshire Cat grin and a promise to come and collect.
+- The Grandmaster and the Arbiter shared a hug, a rare thing between them.
+
+## Memorable Quotes
+- **Vythorn:** "I can never truly know who is my real friend and who is just under my influence."
+- **Grandmaster Elusia Skypiercer:** "Have you not become what Agdrel was to you?"
+- **Vythorn:** "I feel trapped. I feel more trapped than I ever did when I was your arbiter."
+- **Grandmaster Elusia Skypiercer:** "Yours does have a comforting bed that is nicer than mine."
+- **Vythorn:** "It is very nice. In fact, it was yours."
+- **Vythorn:** "Well, I suppose when I think about it, the only title that matters to me is friend."
+- **Fil:** "Well, we had our deal. The book was given. The void laid out in front of you. Vythorn. We will have to come to collect."
+- **Vythorn:** "That makes two of us, I think."
+
+## Who and What Appears
 ### Characters
 **[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
 - **Season of Fate (vision):**
@@ -126,17 +145,17 @@ There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the
 - Witnessed the fight, the Shadow King's departure and the freeing.
 - Addressed by Elusia.
 
-**[[Characters/Vythorn's new assistant|Vythorn's "new assistant"]]** (vision)
+**Vythorn's "new assistant"** (vision)
 - Unnamed. A source of frustration.
 
 ### Places
 - **[[Places/The Dread Fortress|The Dread Fortress]]**: abandoned, cobwebbed upper halls and the dungeons below. Elusia's cell in the vision.
-- **[[Places/The memory scene|The memory scene]]**: disrupted ground, angry clouds and rain. It is where Part 3's choice was left unfinished.
+- **The memory scene**: disrupted ground, angry clouds and rain. It is where Part 3's choice was left unfinished.
 - "The hells": named in the post-show as where the Shadow King's pieces are scattered.
 
 ### Items
-- **[[Items/The dagger|The dagger]]** Vythorn used to shatter Elusia's shackles.
-- **[[Items/The choker|The choker]]** (shackles around Elusia's neck).
+- **The dagger** Vythorn used to shatter Elusia's shackles.
+- **The choker** (shackles around Elusia's neck).
 - **"The book"** given in Fil's deal. Drew names "Morir's Cataclysm" as Vythorn's new power in the post-show. That the book and Morir's Cataclysm are the same thing is *inferred* from 0:16:32 together with 0:27:22.
 - Elusia's former bed, now Vythorn's (vision).
 - Vythorn's newly crafted leather boots (vision).
@@ -147,41 +166,50 @@ There is no "Welcome to Dried Blood" opener. The sign-off is at 0:20:19, and the
 - There are threats beyond the Void that Elusia doesn't know about (Vythorn).
 - Elusia: chaos "is in our blood, in our essence… ours to wield, not for others to wield over us."
 
-## Quotes by character
-**Vythorn / the Arbiter**
-- 0:05:48 "Well, to be honest with you, I'm a little... I'm a little lonely, as it were. It's just not the same. I miss our conversations." *(Season of Fate)*
-- 0:06:25 "I can never truly know who is my real friend and who is just under my influence." *(Season of Fate)*
-- 0:06:58 "It's just not as fun when you're, when you have to force it, you know?" *(Season of Fate)*
-- 0:11:27 "I feel trapped. I feel more trapped than I ever did when I was your arbiter." *(Season of Fate)*
-- 0:11:27 "It seems I've made a prison for us both." *(Season of Fate)*
-- 0:12:17 "It is very nice. In fact, it was yours." *(Season of Fate)*
-- 0:14:45 "I will be who I have always been. I am the arbiter of the Grandmaster. I am the other side of her coin. And together we will overcome fate."
-- 0:15:20 "You will not tempt me, pull the strings… This is my choice."
-- 0:16:16 "Well, I suppose when I think about it, the only title that matters to me is friend."
-- 0:16:55 "We'll be ready for you."
-- 0:18:11 "That makes two of us, I think."
-- 0:18:58 "There are even more threats beyond the void that you aren't even aware of yet."
-- 0:19:06 "Together we must be ready to fight fate itself."
+## Full Round-by-Round
+> [!abstract]- Every beat of the episode, with timestamps (click to expand)
+> ### Season of Fate (Vythorn's vision): the dungeon visit
+> *The post-show (0:22:31–0:23:48) states that this whole scene, like the whole of Season 5, takes place inside Vythorn's vision. Only Vythorn experiences it.*
+>
+> 1. **0:00:12 — The forgotten halls.** Bec narrates a rarely travelled part of the **Dread Fortress**. It is abandoned and cold, with cobwebs on the walls and corners, and "only spiders call this place home." **Vythorn, "our new Lord of Fate,"** walks down into the dungeons on steps he has not used "in ages."
+> 2. **0:00:51 — Vythorn's mood.** He walks the halls in deep contemplation. His **newly crafted leather boots** clack and echo. The deeper he goes, the more solemn and sad he becomes. He thinks over:
+>    - the last season of Deathmatches and the time since he took power;
+>    - **the frustration of his new assistant**;
+>    - the challenges of leadership;
+>    - the constant infighting and rebellion;
+>    - being responsible for so many bickering people.
+>
+>    He feels nostalgic "for the way things used to be."
+> 3. **0:02:14 — The door.** He stops before a door with "only one face" behind it: a prison holding someone he has not seen "in a season's time." He hesitates, unsure whether he should be there. Then, moved by "this feeling of almost sorrow," he unlocks it and pushes the chamber open.
+> 4. **0:03:24 — Elusia in her cell.** The light is dim, and the prisoner squints at him. Her first word is "**Agdrel?** No, what am I saying? Vythorn."
+> 5. **0:03:41** Vythorn hopes the accommodations "haven't been too terrible." She answers with her old sharp tongue: "my stay has been delightful." The cell is dark and damp but has candlelight, **books in the corner and a humble bed mat**. Vythorn notes to himself that she looks worn and tired. He admits he doesn't really know why he came.
+> 6. **0:04:49** She invites him to sit, since she hasn't had company in a long time. **He magically pulls a chair over**, smooths his robes and preens a little, then sits "like a lord."
+> 7. **0:05:16 — The chains.** Up close he sees that **Elusia is still in chains**, but she moves freely in them, as if they were "bangles jewelry." She asks what could possibly bother the Lord of Fate.
+> 8. **0:05:48 — Loneliness.** Vythorn admits he is lonely and misses their conversations. She points out that he controls everyone's fate and could twist anyone into a friend or mentor. He replies that his acquaintances are "all hollow." He can never truly know who is a real friend and who is under his influence. He corrects himself: he does know, but "it's not as fun when you have to force it."
+> 9. **0:07:05 — Elusia's judgement.** She seizes on the word "fun." His friends are hollow "because they're not real." When he became Lord of Fate it was never about real relationships. He had a plan, and when you make your will that of everyone else, "it's going to be lonely."
+> 10. **0:07:49** He wonders what she would do in his place. She says she understands the temptation, and would have expected herself, not him, to crave such power. He was a victim of fate being controlled: "**Have you not become what Agdrel was to you?** A controlling mastermind who decided how you'll fit in at the void of the role that you will play."
+> 11. **0:08:00–0:09:06 — Why she trusted him.** "**I know that you will overthrow me time and time again.** I let those risks grow. They're opportunities for you to have choice." Being around others with their own will is a risk, but it is also how they can shape your future "to become something greater or better that you couldn't envision on your own."
+> 13. **0:10:18** Elusia: if he can't accept that people make mistakes, he will be lonely, his success minimal and his impact meaningless. She chose to take in the flaws along with the beauty and joy of letting everyone choose their lives "side by side rather than alone." She asks how that loneliness feels.
+> 14. **0:11:27 — "A prison for us both."** "I feel trapped. I feel more trapped than I ever did when I was your arbiter." He tried to take fate into his own hands so that neither he nor those around him would suffer again, "but it seems I've made a prison for us both."
+> 15. **0:12:12 — The bed.** Elusia: "Yours does have a comforting bed that is nicer than mine." Vythorn: "It is very nice. In fact, **it was yours**."
+> 16. **0:12:25** She concedes they may not have communicated well or been the best for each other. If she could go back she would change some things, "but **I wouldn't change my trust in you**." She would also "deck out all the dungeons with comfortable beds in case I ever found myself here." Vythorn: "Very wise."
+> 17. **0:13:01 — The exhale.** Vythorn hangs his head and lets her words cut to his core. He realizes he is "the architect of his own fate." "Well then I know what I have to do." **He opens his eyes and exhales.**
+>
+> ### Main timeline: the choice
+> 18. **0:14:05 — Back in the memory.** He is back in a familiar scene: disrupted ground, angry clouds and a downpour of rain. It is "a memory that has not yet been completed." **Fil, the God of Fate**, whispers in his ear and asks again: "Who are you going to become?"
+> 19. **0:14:45 — The answer.** "**I will be who I have always been. I am the arbiter of the Grandmaster. I am the other side of her coin. And together we will overcome fate.**"
+> 20. **0:15:09** Fil objects: "That's not what we outlined. That was not your desire." Vythorn says he thought it through to its logical conclusion. Controlling his own fate means choosing for himself, "whether I kill the Grandmaster or join her." "You will not tempt me, pull the strings… This is my choice."
+> 21. **0:15:59** Fil mocks him as "a man of titles." She asked him so many times who he is, he wanted to become something greater, and he chose "to stay with the Arbiter"? Vythorn: "**The only title that matters to me is friend.**"
+> 22. **0:16:32 — The debt.** "Okay, friend. Interesting. Well, we had our deal. **The book was given. The void laid out in front of you.** Vythorn. **We will have to come to collect.**" Vythorn, looking at the frozen Elusia: "**We'll be ready for you.**"
+> 23. **0:17:02** Fil chuckles with a **Cheshire Cat smile**. The laugh echoes as she disappears. With her gone, the rain starts to fall again, soaking Vythorn's clothes and hair. **Elusia starts to move.** She is still in that moment of fear, holding on to **the choker**.
+> 24. **0:17:44 — The dagger.** Seeing her fear, Vythorn **draws the dagger downward, channels chaos energy through it and shatters the shackles around her neck.** "It's good to see you."
+> 25. **0:18:05** Elusia: "I hate to admit it, but I didn't know what you were going to do there for a second." Vythorn: "**That makes two of us, I think.**" "What?" "Nothing."
+> 26. **0:18:16 — The embrace.** She is glad he is back by her side. "The Shadow King at least is not here, but we have so much we have to do and I cannot do it alone." **She runs to hug him.** The narration notes that a surprise hug "is not something that has occurred often between the two of them, typically cold and stature," but it is welcome. She pulls back: "We are going to change things. We are going to be ready." She has noticed many threats in the Void.
+> 27. **0:18:58** Vythorn: "**There are even more threats beyond the void that you aren't even aware of yet.**" They agree they must prepare, and Vythorn says "together we must be ready to **fight fate itself**." She likes the phrase.
+> 28. **0:19:13 — The Acolytes.** The Acolytes have watched the fight, the Shadow King's disappearance, and the Arbiter putting a dagger to Elusia's throat only to free her. They wait cautiously, unsure what to make of it all. **Elusia opens her wings and addresses them:**
+>     - "The time of corruption is over. Chaos for chaos sake is not enough anymore."
+>     - Chaos is what binds them and draws them to the Void, "but we are not victims of it. It is in our blood, in our essence."
+>     - "This chaos energizes us and it is ours to wield, not for others to wield over us."
+>     - She declares "a new era." Together they will strengthen their ranks, minds and bodies so that, looking at the Arbiter, "**we may be the masters of our own fate.**"
+> 29. **0:20:19** Sign-off: "Welcome and good night."
 
-**Grandmaster Elusia Skypiercer**
-- 0:03:24 "Agdrel? No, what am I saying? Vythorn." *(Season of Fate)*
-- 0:04:04 "Yes, my stay has been delightful." *(Season of Fate)*
-- 0:07:05 "You're right that they're hollow. It's because they're not real, Vythorn." *(Season of Fate)*
-- 0:08:00 "Have you not become what Agdrel was to you?" *(Season of Fate)*
-- 0:08:00 "I know that you will overthrow me time and time again. I let those risks grow. They're opportunities for you to have choice." *(Season of Fate)*
-- 0:12:12 "Yours does have a comforting bed that is nicer than mine." *(Season of Fate)*
-- 0:12:25 "I wouldn't change my trust in you. And then I would make sure that I deck out all the dungeons with comfortable beds." *(Season of Fate)*
-- 0:18:05 "You know, I hate to admit it, but I didn't know what you were going to do there for a second."
-- 0:18:16 "The Shadow King at least is not here, but we have so much we have to do and I cannot do it alone."
-- 0:19:13 "Fight fate. What an interesting phrase. But I like it."
-- 0:19:13 "Acolytes. The time of corruption is over. Chaos for chaos sake is not enough anymore."
-- 0:20:19 "This chaos energizes us and it is ours to wield, not for others to wield over us… May be the masters of our own fate."
-
-**Fil, the God of Fate**
-- 0:14:05 "Who are you going to become?"
-- 0:15:09 "Overcome fate? That's not what we outlined. That was not your desire."
-- 0:15:59 "A man of titles. How many times did I ask you who you are and you wanted to become something greater and you decide to stay with the Arbiter?"
-- 0:16:32 "Okay, friend. Interesting. Well, we had our deal. The book was given. The void laid out in front of you. Vythorn. We will have to come to collect."
-
-## Canon notes
-- The hells exist both inside the Void and outside it, because realms have collided. "Scattered around the hells" and "scattered across the Void" are both true.
