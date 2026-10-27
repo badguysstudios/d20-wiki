@@ -14,9 +14,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header:
-        name: Metal Mania
-        weights: [400]
+      header: Rubik
       body: Rubik
       code: IBM Plex Mono
     colors:
@@ -101,9 +99,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
     options:
-      header:
-        name: Metal Mania
-        weights: [400]
+      header: Rubik
       body: Rubik
       code: IBM Plex Mono
   - source: "@quartz-themes/core"

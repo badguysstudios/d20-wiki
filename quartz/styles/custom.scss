@@ -75,9 +75,9 @@ body {
 
 // Article titles: metal gradient like the logo
 .article-title {
-  font-family: var(--headerFont);
-  font-weight: 400;
-  font-size: 2.6rem;
+  font-family: $nodesto;
+  font-weight: 700;
+  font-size: 3rem;
   line-height: 1.15;
   letter-spacing: 0.02em;
   background: linear-gradient(180deg, $yellow 0%, #fe669b 55%, $pink 100%);
@@ -133,7 +133,7 @@ table {
 img.hero-logo {
   display: block;
   margin: 0 auto 0.5rem;
-  max-height: 170px;
+  max-height: 340px;
   width: auto;
   filter: drop-shadow(0 0 18px rgba(255, 57, 214, 0.35));
 }
