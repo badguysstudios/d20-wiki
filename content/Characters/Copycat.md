@@ -11,6 +11,7 @@ First appears in [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Kat
 |---|---|---|
 | [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes\|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]] | Kat | Kopy Katt. Emmery, a changeling, takes the form of Cervantes's mother and slaps him with a slipper into the fireplace. |
 | [[Episodes/Season 5/110 - S5E12 — Imitation Game — Kopy Katt v Ragu\|S5E12 — Imitation Game — Kopy Katt v Ragu]] | Cat | Ragu (Kopy Katt kills herself with her own can opener on a natural 1) |
+| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | Iamkatt (imkattkatt) | Copycat and the Hunger (fused) |
 | [[Episodes/Season 6/118 - S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission)\|S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission)]] | unnamed player ("her mic's muted") | no deathmatch this episode. The mission succeeds when Atlas's self-destructing Unstoppable Force, boosted by the Box of Chaos, kills Theresa and the crystal is recovered |
 | [[Episodes/Season 6/119 - S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)\|S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)]] | guest possibly addressed as "Kat" (inferred) | Robbie Clark and the Hunger (named team leader; team named "the Unbreakable Redacted Friends") |
 

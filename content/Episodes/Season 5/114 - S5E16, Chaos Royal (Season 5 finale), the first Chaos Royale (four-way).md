@@ -6,7 +6,7 @@ tags: [episode, season-5]
 
 | | |
 |---|---|
-| Champions and players | four guests (blurb: @Cinderblocksally, @imkattkatt, @PerceptionStudio, @Prototopics; which handle plays which champion is not stated) as Tormiir the minotaur, Bobby Clark and the Hunger, Copycat, and Richard Knottley ("Dick Twist" / "Dick Okio") |
+| Champions and players | Cinderblocksally as Bobby Clark and the Hunger; Iamkatt (imkattkatt) as Copycat; Prototopics (RealLifeFakeWizard) as Richard Knottley; PerceptionStudio (by elimination) as Tormiir the minotaur. Assignments from the handle rulings ("Dick Twist" / "Dick Okio") |
 | Result | Copycat and the Hunger (fused) |
 | Arena | the front door of the Dread Fortress (the skull-shaped open mouth) in the surrounding lava fields |
 | Hosts | Mudcat (Mudcat) as the Lord of Fate, plus mechanics; Caustic Phoenix (BeccaGodsey / Caustic Phoenix) as Thea the pink imp, plus chaos events and narration |

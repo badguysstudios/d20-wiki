@@ -10,7 +10,6 @@ First appears in [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest �
 | Episode | Played by | Result |
 |---|---|---|
 | [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith\|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] | Cucumber | none. Both champions die from a fifth fatigue in the final exchange. |
-| [[Episodes/Season 5/114 - S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)\|S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way)]] | which handle plays which champion is not stated) | Copycat and the Hunger (fused) |
 
 ## Appearances
 

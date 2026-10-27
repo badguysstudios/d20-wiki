@@ -8,12 +8,12 @@ First appears in [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ric
 ## Deathmatch record
 | Episode | Played by | Result |
 |---|---|---|
-| [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)\|S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)]] | realdavidgrace (David) | Spider (Traxton). Destructive Wave turns Ricky to dust. The Shadow King then turns Spider into a tarantula and kicks him out of the arena. |
+| [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)\|S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)]] | RealLifeFakeWizard (Prototopics) | Spider (Traxton). Destructive Wave turns Ricky to dust. The Shadow King then turns Spider into a tarantula and kicks him out of the arena. |
 
 ## Appearances
 
 ### [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)|S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)]]
-(realdavidgrace)
+(RealLifeFakeWizard)
 - Claims to be a red dragon ("Chromatic Red") cursed into a human body after partying too hard at a techno concert. Wants his scales back, and Elusia called that "absolutely doable" as the prize.
 - Says he is 6,012 years old. Wears **sunglasses (from Costco)**, flip-flops and a top with pockets, but no pants. Carries **fake beards** in his pockets and never washes them.
 - **Terrified of the dark.** Colorblind. A "dragon that goes to raves." Has a political career to uphold "one day."

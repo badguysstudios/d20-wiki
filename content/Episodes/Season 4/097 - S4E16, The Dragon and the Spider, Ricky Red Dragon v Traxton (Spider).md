@@ -6,7 +6,7 @@ tags: [episode, season-4]
 
 | | |
 |---|---|
-| Champions and players | realdavidgrace (David) as Ricky Red Dragon; theshortnord (Mike) as Traxton, "Spider" |
+| Champions and players | RealLifeFakeWizard (Prototopics) as Ricky Red Dragon; theshortnord (Mike) as Traxton, "Spider" |
 | Result | Spider (Traxton). Destructive Wave turns Ricky to dust. The Shadow King then turns Spider into a tarantula and kicks him out of the arena. |
 | Arena | a forest clearing with a glowing purple ritual of portal circles (the Shadow King's "potential Coachella ground") |
 | Hosts | Caustic Phoenix (Grandmaster Elusia Skypiercer); Mudcat narrates and plays the Shadow King |
@@ -128,20 +128,20 @@ tags: [episode, season-4]
 84. **1:52:50** The Shadow King rises into the air, arms wide: "**Acolytes! What a season! I hope you were entertained. And let me make it clear to you. While I'm around, there will be death in the arena.** Welcome and good night to D20 Deathmatch!"
 
 ## Dried Blood (after-show)
-- Drew hosts "the last one of season four." Guests are **David from Prototopics** (realdavidgrace, Ricky) and **the Short Nord** (Mike, Spider). Nord's hair is longer ("It's grown on me").
+- Drew hosts "the last one of season four." Guests are **RealLifeFakeWizard** (Prototopics; Ricky) and **the Short Nord** (Mike, Spider). Nord's hair is longer ("It's grown on me").
 - Mike built Spider while talking to his **19-year-old nephew**, as "just a Gen Z kid." The nephew is 6'5" and "has everything I never had."
 - Bec was tempted to say "Ricky Bobby" every time.
-- David was glad to "play the heel" so Spider could have an arc. The concept, a dragon trapped in a human body, let Ricky be pompous with a built-in excuse. When asked "But are you a dragon?" he first says no ("It's a fantasy game"). Drew: "The only reason that we've been playing D&D with you is because we thought you were a dragon." Bec: "Short Nord is an actual Nord." David then says "I am a dragon."
-- On the crossing fireballs, David: "**The most passionate and potentially satisfying encounter that this show has ever had.**" Mike: "a real awakening moment." Jokes about MTV's Next, BuzzFeed, and a D&D episode of The Button.
-- Mike: in a campaign the two would have "cool uncle-nephew vibes." "I actually love this character. I don't want to hurt him." David: "To be the man, you gotta beat the dragon." Bec calls it a Black Widow move. Mike: "You're the Colin Jost to my Scarlett Johansson."
-- **This was David's first Deathmatch.** He expected to get "walloped" for mouthing off and kept escalating (the dial-up jokes) waiting for a thunderbolt. Bec: "**You can insult me. It's when you insult my arena that I get real pissed.**"
-- Parting advice (character voice unclear). Mike: "If you meet a cool, cool guy that parties a lot with sunglasses, he'll make a man out of you. So talk to him." David: "**Live dangerously.**" ("The longer the nods go, the wider the beard.")
-- **David's unused twist:** if Ricky had died earlier, he would have revealed "I'm not a dragon. I've been cursed that every time I die, I come back as a level one wizard." Bec: "Short Nord, why didn't you murder him earlier?" Never played, so not canon.
+- RealLifeFakeWizard was glad to "play the heel" so Spider could have an arc. The concept, a dragon trapped in a human body, let Ricky be pompous with a built-in excuse. When asked "But are you a dragon?" he first says no ("It's a fantasy game"). Drew: "The only reason that we've been playing D&D with you is because we thought you were a dragon." Bec: "Short Nord is an actual Nord." RealLifeFakeWizard then says "I am a dragon."
+- On the crossing fireballs, RealLifeFakeWizard: "**The most passionate and potentially satisfying encounter that this show has ever had.**" Mike: "a real awakening moment." Jokes about MTV's Next, BuzzFeed, and a D&D episode of The Button.
+- Mike: in a campaign the two would have "cool uncle-nephew vibes." "I actually love this character. I don't want to hurt him." RealLifeFakeWizard: "To be the man, you gotta beat the dragon." Bec calls it a Black Widow move. Mike: "You're the Colin Jost to my Scarlett Johansson."
+- **This was RealLifeFakeWizard's first Deathmatch.** He expected to get "walloped" for mouthing off and kept escalating (the dial-up jokes) waiting for a thunderbolt. Bec: "**You can insult me. It's when you insult my arena that I get real pissed.**"
+- Parting advice (character voice unclear). Mike: "If you meet a cool, cool guy that parties a lot with sunglasses, he'll make a man out of you. So talk to him." RealLifeFakeWizard: "**Live dangerously.**" ("The longer the nods go, the wider the beard.")
+- **RealLifeFakeWizard's unused twist:** if Ricky had died earlier, he would have revealed "I'm not a dragon. I've been cursed that every time I die, I come back as a level one wizard." Bec: "Short Nord, why didn't you murder him earlier?" Never played, so not canon.
 - Drew: "We'll see you all on the next season of D20 Deathmatch."
 
 ## Who and what appears
 ### Characters
-**[[Characters/Ricky Red Dragon|Ricky Red Dragon]]** (realdavidgrace)
+**[[Characters/Ricky Red Dragon|Ricky Red Dragon]]** (RealLifeFakeWizard)
 - Claims to be a red dragon ("Chromatic Red") cursed into a human body after partying too hard at a techno concert. Wants his scales back, and Elusia called that "absolutely doable" as the prize.
 - Says he is 6,012 years old. Wears **sunglasses (from Costco)**, flip-flops and a top with pockets, but no pants. Carries **fake beards** in his pockets and never washes them.
 - **Terrified of the dark.** Colorblind. A "dragon that goes to raves." Has a political career to uphold "one day."
