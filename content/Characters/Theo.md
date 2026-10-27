@@ -2,7 +2,7 @@
 title: Theo
 type: character
 aka:
-- Theo
+- Theo Thracklebolt Thermompolus Thuundar Thed
 role: NPC
 species_class: Worm of the Hollow, piloting a homemade warforged mech suit; later reshaped into a hand-only imp
 played_by: RealLifeFakeWizard
@@ -11,17 +11,18 @@ status: dead (his ghost lives in a crystal orb)
 affiliations:
 - The Hollow
 summary: Thea's little brother, a worm of the Hollow who spent eleven years searching for her in a badly built robot suit, helped her try to kill the Arbiter, got hands, and blew himself up twice.
-aliases: []
+aliases:
+- Theo Thracklebolt Thermompolus Thuundar Thed
 tags:
 - character
 ---
 
-**Theo** is [[Thea]]'s little brother, a worm from the Hollow with bulbous eyes and no arms. The worms sent him across the Void to find his sister and bring her home, sealed inside a seven-foot warforged mech suit they had built themselves. Worms have no thumbs or hands, so the suit looked impressive and was no good at all. Theo couldn't turn it around, so he walked everywhere backwards, staring at whoever he had just left without ever breaking eye contact.
+**Theo** (in full, **Theo Thracklebolt Thermompolus Thuundar Thed**) is [[Thea]]'s little brother, a worm from the Hollow with bulbous eyes and no arms. The worms sent him across the Void to find his sister and bring her home, sealed inside a seven-foot warforged mech suit they had built themselves. Worms have no thumbs or hands, so the suit looked impressive and was no good at all. Theo couldn't turn it around, so he walked everywhere backwards, staring at whoever he had just left without ever breaking eye contact.
 
 ## Story
 
 ### The Search
-In [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]], Theo knelt before the worms' council in an asteroid belt, accepted his mission and backed into a portal. He came out knee-deep in the candy sludge of [[Sugar Hills]]. He went around the town with a huge scroll showing his own drawing of his sister: a line with two eyes and a smirk, labelled "WORM," spelled W-Y-E-M. Everyone who saw it read it as a dick with a pube. "Have you seen this dick with a pube?" he asked a respectable gentleman. Then he tripped backwards into a candied hot dog stand and tried to get a kobold candied. The cook, Frank, would only candy a person if you were rich, and Theo was "rich in spirit and in character."
+In [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]], Theo knelt before the worms' council in an asteroid belt, accepted his mission and backed into a portal. He came out knee-deep in the candy sludge of [[Sugar Hills]]. He went around the town with a huge scroll showing his own drawing of his sister: a line with two eyes and a smirk, labelled "WORM," spelled W-Y-E-M. Everyone who saw it read it as a dick with a pube. "Have you seen this dick with a pube?" he asked a respectable gentleman. Then he tripped backwards into a candied hot dog stand and tried to get a kobold candied. The cook, [[Frank]], would only candy a person if you were rich, and Theo was "rich in spirit and in character."
 
 His search had taken eleven years, five months, thirty-something days and twenty-seven seconds. He had spent seven months stuck in a vending machine he mistook for [[The Dread Fortress]], and thirty-seven days fighting a pigeon named Sean. It ended when Thea ran him over with a stolen 1994 Pontiac Bonneville. She pulled him out of the icing and recognized his eyes: "I know those balls from anywhere. Theo?" The suit's head and chest popped open. "Thea, it's me!"
 
