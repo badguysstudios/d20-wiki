@@ -141,13 +141,13 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 - Says yes and follows stronger voices. The GM had never met him.
 - Chosen leader of Team 3D, then recalled by Double Sun Cola HQ for two months of retraining.
 
-**[[Characters/Thea|Thea]]** (Bec). A small neon-pink imp that glows like a glow stick (she eats glow sticks).
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A small neon-pink imp that glows like a glow stick (she eats glow sticks).
 - Created by the Arbiter, who signs her pay paperwork weekly. Loves the Deathmatches and stays pink from rolling in champions' blood. Unbearably loud.
 - Tracked by the Arbiter's tablet.
 - Her tail works as a phone.
 - Was lured to the mausoleum for hide-and-go-seek by the lich grandfather.
 
-**Skelman's lich grandfather** (Drew, inferred). He is unnamed.
+**Skelman's lich grandfather** (Mudcat, inferred). He is unnamed.
 - Fungus-ridden, with an unhinged jaw, earlobes to his nipples and long bejeweled fingers.
 - Turned the family mausoleum into his retirement dungeon and is the disembodied corridor voice (inferred from his "trial run" and "my corridors" lines plus 1:19:35).
 - Powers: necrotic fists, damage absorption, a force choke.
@@ -163,11 +163,11 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 
 **Auntie Ethel and the poltergeists**. Skelman's family ghosts on the stairs ("Stop hitting yourself!").
 
-**Double Sun Cola HQ** (Bec). Disapproves of free giveaways; runs retraining seminars; "the Sunkola."
+**Double Sun Cola HQ** (Caustic Phoenix). Disapproves of free giveaways; runs retraining seminars; "the Sunkola."
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). Has a tablet tracker that never works ("Fucking Stuart"). Hung out in the ski ball room. Recruited "a couple of guys." "I've killed lots of my friends."
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). Has a tablet tracker that never works ("Fucking Stuart"). Hung out in the ski ball room. Recruited "a couple of guys." "I've killed lots of my friends."
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Offered benefits (a chinchilla, PTO, sabbatical, resorts, "You won't die"). Her face can replace the moon in the sky.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Caustic Phoenix). Offered benefits (a chinchilla, PTO, sabbatical, resorts, "You won't die"). Her face can replace the moon in the sky.
 
 ### Places
 - **Dread Fortress dungeons**; a **ski ball room** in the Dread Fortress.
@@ -183,12 +183,12 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 ### Lore statements
 - The Grandmaster is preparing champions for the Shadow King's eventual return: "common knowledge."
 - Team B / Team 3D gets a name once a leader is chosen; the leadership is to be decided by Deathmatch.
-- Champions on the payroll "won't die" (GM; Bec in Dried Blood: "you will be reborn").
+- Champions on the payroll "won't die" (GM; Caustic Phoenix in Dried Blood: "you will be reborn").
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — Thea is missing
-> 1. **0:07:11** Table banter: the Grandmaster admits the intro runs "three seconds longer" than it should, and the Arbiter agrees with her. "It is in recording… the grandmaster was correct." Narrated by Bec: "With my newfound sense of rightness, we enter into the Dread Fortress with a sense of pride."
+> 1. **0:07:11** Table banter: the Grandmaster admits the intro runs "three seconds longer" than it should, and the Arbiter agrees with her. "It is in recording… the grandmaster was correct." Narrated by Caustic Phoenix: "With my newfound sense of rightness, we enter into the Dread Fortress with a sense of pride."
 > 2. **0:07:40** **The Grandmaster walks down deep into the Dread Fortress dungeons.** They are cold, empty and strangely tidy, with everything "where it's supposed to be." She calls out looking for "any sort of chaos."
 > 3. **0:08:04** **The Arbiter pokes his head out of the ski ball room** and asks if she has seen **Thea**. She hasn't. Nothing is messy, so Thea clearly hasn't been there. The Arbiter had told Thea to talk to the Grandmaster about the Deathmatch: get the champions and set everything up.
 > 4. **0:08:42 — The tracker.** The GM asks whether he has a tracker on her. He does. **He pulls up a tablet and smacks it: "Fucking Stuart. This thing never works."** He complains of bad reception in the fortress. **Thea's location reads as the mausoleum, "all the way over in the Shadowlands."** The Arbiter: "She's been kidnapped. There's no way" she'd go alone, "especially not on Deathmatch Day. She loves the Deathmatches."
@@ -218,7 +218,7 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 > ### The Midnight Mausoleum — zombies
 > 25. **0:21:42** A second portal opens and cold, autumn-like air flows through. They step into **the Midnight Mausoleum: a graveyard under a full moon, fog rolling around their feet, graves and crypts in the distance.** Mettle save. Skelman: "Is it because they're creepy and undead? Because I am creepy and undead." Knottley: "You are more than just creepy and undead." "Well, not really."
 > 26. **0:22:36** **The Acolytes watch from grandstands high above, thousands cheering.** Skelman passes. **Zombified hands burst up through the dewy grass and grab the legs of Killy and Knottley.** Both take damage and are held until they use an action to clear it. More zombies approach. Initiative: Killy 17, Knottley 16, Skelman 9. One zombie gets 18 and one gets 2.
-> 27. **0:24:24 — Josephine.** The first zombie comes at Skelman. "Do I recognize them?" Instinct 12. Drew: "**Jilted Lover.**" Skelman: "**Hello, Josephine! It's been a while. I scarcely remember the last we met, where I buried you alive.**" Her jaw hangs slightly unhinged. "Undeath do be becoming of you. Perhaps we should call this whole thing off."
+> 27. **0:24:24 — Josephine.** The first zombie comes at Skelman. "Do I recognize them?" Instinct 12. Mudcat: "**Jilted Lover.**" Skelman: "**Hello, Josephine! It's been a while. I scarcely remember the last we met, where I buried you alive.**" Her jaw hangs slightly unhinged. "Undeath do be becoming of you. Perhaps we should call this whole thing off."
 > 28. **0:25:30** He pleads to rekindle "what we once had" so she won't kill his new friends. **She swipes at his face.** Their rolls tie and both gain fatigue. She swings again and misses ("very slow"). Then she gets angry, lets out a soft roar, and **flings her own arm across the distance into his face.** "Where did you learn such techniques, Josephine?"
 > 29. **0:27:31** Her claws leave a festering, infectious sludge on his bones, but it has no effect on a skeleton. "A clean set of bones is much easier to live the afterlife in." Skelman tells the team: "I cannot reason with Josephine… Do what you must." Killy: "But, but must we?" "I think we might must."
 > 30. **0:28:28 — Killy described.** **Big muscles; his pecs undulate with each breath. He sips soda through straws from his hat, which holds two Double Sun Cola bottles. His legs are surprisingly thin.** He whispers to the hands: "yo, help a brother out here. I'm trying to just… make a living, sell some soda, and you're making me look really bad in front of the audience."
@@ -254,7 +254,7 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 > 54. **0:55:54** Before the break, the statue tells Knottley: "**I'm going to start carving into a piece of stone. I'm going to meet you with these coordinates at the third full moon of the year.**" Knottley: "I will be there." **It flaps its stone wings but is too heavy to fly. It skips across the ground knocking over gravestones.** A single tear rolls down Dick Twist's face. GM: "Now you both have cried today."
 >
 > ### After the break — the corridor of three traps
-> 55. **0:56:46** "Welcome back, Acolytes!" Team B ("name to be determined still") stands at the foot of the stairs in a tunnel. **Many torches are lit, and freshly: someone has been here recently.** Bec stumbles on "wicks," and Skelman repeats it in character: "The wicks on these torches have not been burned very far at all." GM: "Let's just double down and make sure Caustic's embarrassed."
+> 55. **0:56:46** "Welcome back, Acolytes!" Team B ("name to be determined still") stands at the foot of the stairs in a tunnel. **Many torches are lit, and freshly: someone has been here recently.** Caustic Phoenix stumbles on "wicks," and Skelman repeats it in character: "The wicks on these torches have not been burned very far at all." GM: "Let's just double down and make sure Caustic's embarrassed."
 > 56. **0:58:00** Who goes first? Killy: "you're the one who's already dead." Skelman: "I really just wanted to laugh at someone else getting hurt." He likes pie "because it sticks to the ribs." **Knottley volunteers:** "I will accept responsibility when it is thrust upon me." **Skelman pats him on the back with Josephine's arm, and the GM rules that Josephine's arm grants advantage.** "Two dicks, one Josephine's hand." "She's got great grip." The Arbiter: "This moment brought to you by Double Sun Cola."
 > 57. **1:00:17 — The voice.** As Knottley lifts his foot, a voice echoes: "Is this on?… **This is my home. Welcome**… Why is no one smiling?" It asks them to name themselves. Knottley needs the bathroom. There is confusion over "Team B or Team D." The voice: "Don't come down here. We don't have our shots."
 > 58. **1:01:10** Skelman asks after a small, loud, obnoxious imp. Voice: "**There's a lot of imps, oddly enough, that come by the mausoleum**… I've got one. They're deep down in here, but we don't just give our imps away for free." Knottley just starts walking. "Wait… I didn't tell you the full part… **This is the least curious group in the world.**" Rocks fall from the ceiling in its anger.
@@ -288,7 +288,7 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 > 78. **1:26:00 — The grandfather's round.**
 >     - He powers up **a necrotic fist glowing ethereal purple** and swings at Killy. **Killy leans in and takes it on the chin, and the fist "gives no purchase"** while he sips soda through his hat straws. Grandfather: "**Damn you… I hate being embarrassed.**"
 >     - The second powered strike ties, a nat 20 against a nat 1, and both gain fatigue. "Now he's just fucking infuriat[ed]."
->     - In blind rage he swings twice more and lands one. **His signature move absorbs that damage as health: his holes start closing, with "very uncomfortable moaning sounds."** Drew: "your grandfather's getting hard." Skelman: "it runs in the Skelman family."
+>     - In blind rage he swings twice more and lands one. **His signature move absorbs that damage as health: his holes start closing, with "very uncomfortable moaning sounds."** Mudcat: "your grandfather's getting hard." Skelman: "it runs in the Skelman family."
 >     - **He tries to force-choke Dick Twist: "You have such a pretty neck."** It misses. Knottley: "I'm into that, damn it." Grandfather: "I don't want this to be one of your weird kinks." Knottley: "**I feel really empowered right now.**"
 > 79. **1:29:49 — Killy's round.**
 >     - **He takes off his hat and jams it onto the grandfather's head, spending all three status effects on a permanent one. It hits (inferred nat 20 from "regain a point of fighting spirit… for that nat 20").** Grandpa is **permanently blinded**: "**My eyes. I can't see anything.**" Killy: "**You're only supposed to drink the soda. Never get it to your eyes.**" Knottley: "Is that what this rash is from?… Does double sun cola make you itchy?"
@@ -300,17 +300,17 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 >     - Killy goes limp and rests against the bottle: "You've done me a great service today, Dick." Knottley: "**there may be two Richards here, but to me, there's three dicks in this party.**" Killy: "That means a lot to me to be a fellow dick."
 > 81. **1:38:08** The Acolytes, the Grandmaster and the Arbiter **watch from above ground, seeing through the earth magically**, and the crowd goes bonkers.
 > 82. **1:38:33 — Round 2.** Grandfather: "This is not how you treat your elders." "**We're all dicks. That's the family name.** Even Dick Arena." Skelman: "**Ah, yes, my dearest sister.**"
-> 83. **1:38:55 — The Bonetron.** Skelman uses a **heroic surge** to "recover my two friends" and opens a second Bone Zone. He "detach[es] myself… to double dickify myself" and builds **the Bonetron**, an amalgamation with **Killy in the center powering it with sodas**. "**The bonetron stomps forward, blasting away with sodas, conspiracy theories, bones, and the slimes.**" It hits. "**No match for the bonetron! It's so big! It's literally double the size of any dick that's dicked before!**" **The grandfather's torso is blown open, leaving a giant hole in his chest.** Drew: "you can write his obituary."
-> 84. **1:41:51** They power up one more beam: "**Let's all shake one bottle together.**" "One big bottle for the road, grandfather." Skelman likens it to a Megazord with a big gun made of one of the bottles. Drew: "like seeing someone get blasted in the face with a fire hose." **The stream evaporates the grandfather: "You all are too much dick in this moment."**
+> 83. **1:38:55 — The Bonetron.** Skelman uses a **heroic surge** to "recover my two friends" and opens a second Bone Zone. He "detach[es] myself… to double dickify myself" and builds **the Bonetron**, an amalgamation with **Killy in the center powering it with sodas**. "**The bonetron stomps forward, blasting away with sodas, conspiracy theories, bones, and the slimes.**" It hits. "**No match for the bonetron! It's so big! It's literally double the size of any dick that's dicked before!**" **The grandfather's torso is blown open, leaving a giant hole in his chest.** Mudcat: "you can write his obituary."
+> 84. **1:41:51** They power up one more beam: "**Let's all shake one bottle together.**" "One big bottle for the road, grandfather." Skelman likens it to a Megazord with a big gun made of one of the bottles. Mudcat: "like seeing someone get blasted in the face with a fire hose." **The stream evaporates the grandfather: "You all are too much dick in this moment."**
 > 85. **1:43:00 — The button.** All that remains is his forearm, and **its fingers inch over to a small red button.** Killy: "No, that's not good." It's pushed. Silence, then **a bright neon sign drops: "Congratulations! You've won!" A chest pops up with t-shirts for everyone that say "you be dick" [?].** They wear them over their clothes. GM: "he was a cheap old man… But they have good quality."
 >
 > ### Aftermath — Team 3D
-> 86. **1:44:09** Thea pouts in the corner: "Aw, man, you guys won. I was wanting to get one of those t-shirts." **The Arbiter and the Grandmaster walk into the dungeon.** GM: "You were supposed to prepare a deathmatch." Thea: "Oh, yeah. **I picked out a really great Team B**… Oh, no. That was what I missed." (speakers inferred; Bec voices both)
+> 86. **1:44:09** Thea pouts in the corner: "Aw, man, you guys won. I was wanting to get one of those t-shirts." **The Arbiter and the Grandmaster walk into the dungeon.** GM: "You were supposed to prepare a deathmatch." Thea: "Oh, yeah. **I picked out a really great Team B**… Oh, no. That was what I missed." (speakers inferred; Caustic Phoenix voices both)
 > 87. **1:44:39 — The name.** Arbiter: "this is Team B now." Thea: "They look more like Team D." Killy: "**Team 3D.**" Thea: "Ew, that's a gross name, but okay." (Line at 1:44:56 "You all are weird." is speaker uncertain.)
 > 88. **1:44:59 — The leader.** The GM says they need a leader, "the biggest strongest dick of you all." Killy: "**I'm really good at just saying yes and just following a stronger voice.**" **Knottley votes for Killy.** Knottley: "we should start a gardening company. **Three dicks trim the best bush.**" Killy: "**this is the first time in my life where I feel like something's more important to me than double sun cola.**"
 > 89. **1:46:19** Group hug. Line at 1:46:20, "I have aluminum foil hats for each of you" (speaker uncertain). "Three of you embrace getting a trio of crowns [?] with your matching shirts."
 > 90. **1:46:29 — Thea's tail rings.** **Thea's tail lights up like a phone.** It's **Double Sun Cola HQ** asking for Killy. Thea: "it's also coming in through my butt and I have to poop soon." GM: "The end of the tail… she's not talking out of her ass." Arbiter: "like a tin can attached to a string." Skelman pats Killy with Josephine's arm: "You're the leader of Team 3D." Killy: "Maybe we could be like a commune."
-> 91. **1:48:08 — HQ (Bec):** "**you've been giving away a lot of free soda lately and we do not approve of that**… [your job] is to promote so that we can sell soda so that we can make money." The voice is so loud that Thea's butt cheeks vibrate. Killy: "Yeah, the money-making part… I knew I forgot something." **HQ signs him up for retraining: a two-month-long seminar process, pickup in one minute. "If you reject this, we'll kick you out of the Sunkola."**
+> 91. **1:48:08 — HQ (Caustic Phoenix):** "**you've been giving away a lot of free soda lately and we do not approve of that**… [your job] is to promote so that we can sell soda so that we can make money." The voice is so loud that Thea's butt cheeks vibrate. Killy: "Yeah, the money-making part… I knew I forgot something." **HQ signs him up for retraining: a two-month-long seminar process, pickup in one minute. "If you reject this, we'll kick you out of the Sunkola."**
 > 92. **1:49:43 — Killy's goodbye:** "**It means goodbye for now, but not forever.** … I think I'm not good enough for the two of you. But I'm going to get better. I'm going to go through employee training, and I'm going to come back with better sodas and a better ability to sell." Knottley: "Just like the government for reeducation." Skelman: "**these two dicks are going to come get you out.**" "Team 3D shall return together." **Thea hugs Killy's thin calf: "I'll miss you and your skinny legs."**
 > 93. **1:50:57 — Deathmatch called.** The Arbiter: "we still need one of them to be a leader, though, right?" The GM agrees: "Deathmatch." "**Dick to dick! Tip to tip!**" Skelman: "But our friendships." Arbiter: "**You can be friends. I've killed lots of my friends.**" GM: "true friendship is beating dicks… We'll figure it out." Skelman to Knottley: "we shall have to do dick battle and decide the biggest swinging dick." Knottley: "Dick dick goose." A final hug with Killy, "Even though we just met maybe an hour ago."
 > 94. **1:52:00** The Grandmaster walks away with the Arbiter: "This was truly something… I think it'll be something promising." The Acolytes scream yes. "We'll see you all next Sunday." **"Welcome and good night to D20 Deathmatch!" (1:52:35)**
@@ -323,14 +323,14 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 >
 > **Out of character, creator notes**
 > - They joke about demonetization from the number of times they said "dick," and about a jelly-bean-jar style count.
-> - **Drew says Killy is probably the first person to successfully land a permanent status effect.** Yangyang: "When I saw that nat 20 hit… all the stars aligned."
+> - **Mudcat says Killy is probably the first person to successfully land a permanent status effect.** Yangyang: "When I saw that nat 20 hit… all the stars aligned."
 > - **Final fighting spirit: Killy 10, Skelman 11, Dick Twist 11.**
 > - **The grandfather had his own heroic surge, four power-ups, some status effects, and life absorption on one attack per round.** He would have used the surge had he survived.
-> - Drew calls it "one of the most wholesome episodes in a strange way", with the friendships, the statue and Dick, and the hugging. "One of my favorite episodes in a while."
+> - Mudcat calls it "one of the most wholesome episodes in a strange way", with the friendships, the statue and Dick, and the hugging. "One of my favorite episodes in a while."
 > - **Yangyang (Killy) and RealLifeFakeWizard (Knottley) played these characters "in the previous season."** **Skelman is new to the full show.** Joel played him in "the murder mystery", and his artwork was done days ago by **Young Khan [?]**, the show's continuing artist.
 > - Joel: "we have to move past the family plot." Battling a friend will be tough.
-> - Bec: "Remember, you will be reborn. Death is not actually the worst thing… more like beating them in a game of ping pong."
+> - Caustic Phoenix: "Remember, you will be reborn. Death is not actually the worst thing… more like beating them in a game of ping pong."
 > - RealLifeFakeWizard's idea: open next show with Skelman using the gelatinous ooze on Knottley "so that it's a bone battle." Joel: "now we're just doing spoilers."
 > - Yangyang: **Killy was originally built just for a one-shot** with one shtick. He credits "Joel and RealLifeFakeWizard" as excellent improvisers, and wanted Killy to be "more than just dick jokes and soda shaking."
-> - Bec: Killy returned "instead of just as an opponent, you worked alongside teammates."
+> - Caustic Phoenix: Killy returned "instead of just as an opponent, you worked alongside teammates."
 

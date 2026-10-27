@@ -126,24 +126,24 @@ Revived for the after-show interview, Lumos took her death gracefully: "It was w
 - Can fly. Sleeps in her bed with his head on the pillow, so he's ruled "humanoid enough" for Charm Person. Has +2 Wisdom ("a smart dog," "a good boy").
 - He likes cheese. Charmed and bribed, he bit Lumos.
 - **Inherits her fortune as "the world's first quadrillionaire dog" and opens a dog shelter, run with Doug's help.**
-- Bec in Dried Blood: "a small dog deity of his own."
+- Caustic Phoenix in Dried Blood: "a small dog deity of his own."
 
 **[[Characters/Doug the Pug|Doug the Pug]]** ("our pug").
 - Sits on a fancy cushion by the Grandmaster's throne and wears a collar. He rolls a plushie D20 after the Arbiter's end-of-round rolls (13, 10) and beats him both times.
 - Exchanged a respectful nod with Maximus. Volunteers at Maximus's shelter Mon/Wed/Fri/Sun.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Chained at wrists and ankles, in plain cloth clothes and spectacles instead of his black robes, doing the Grandmaster's paperwork and taxes.** The chains are blamed for his bad rolls and slow bathroom trips. Why he's chained is not explained in this episode.
 - Says Ferndell's hero-point deal "might be one of the better ones I've ever seen." Carried Lumos off by the ankle. Charged with the local-yogurt vendor contracts.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Sleeps in to 9 PM on Sundays.
 - **Bought 203 chinchillas, one per goblin, to prevent a goblin uprising.**
 - Fears the IRS, has filed for extensions three times, and claims to be "illiterate" / bad at math.
 - Overruled Gerald to double Ferndell's reward. Played tag through a chaos-event hug ("You're it"). Gave Lumos d4 inspiration.
 - **Decreed that D20 Deathmatch and the Dread Fortress arena will only use local yogurt vendors.**
 
-**[[Lore/The Box of Chaos|Gerald, the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|Gerald, the Box of Chaos]]** (Mudcat).
 - Shadowy hands, glowing yellow eyes, foul-mouthed. "Don't tell me how to be a box of chaos." He keeps items "laying around."
 
 **The 203 chinchillas**.
@@ -182,7 +182,7 @@ Revived for the after-show interview, Lumos took her death gracefully: "It was w
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Arbiter in chains
-> 1. **0:00:02** "Acolytes, we have returned. From where? No one will ever know. It's magic." Drew's narration moves through **the halls of the Dread Fortress**. The walls are damp with moisture and steam from the lava outside, and **pictures of the Grandmaster hang all around the halls**.
+> 1. **0:00:02** "Acolytes, we have returned. From where? No one will ever know. It's magic." Mudcat's narration moves through **the halls of the Dread Fortress**. The walls are damp with moisture and steam from the lava outside, and **pictures of the Grandmaster hang all around the halls**.
 > 2. **0:00:40** In the Grandmaster's throne room there is **only the Arbiter, sitting at a desk**.
 >    - He is **in chains at the wrists and ankles**.
 >    - Instead of his normal black robes he wears **plain cloth clothing**, and he has **spectacles** on.
@@ -444,14 +444,14 @@ Revived for the after-show interview, Lumos took her death gracefully: "It was w
 > - **1:38:29** Lumos used to print notes ("whoever's taking my yogurt, can you not?"). Ferndell: "**And it's me responding with a smiley face.**"
 > - **1:40:24–1:40:51 Maximus's future.**
 >   - Ferndell coins "Maximus the Bounty Hunter."
->   - Bec: "**Maximus is a dog. He's going to become a small dog deity of his own.**"
+>   - Caustic Phoenix: "**Maximus is a dog. He's going to become a small dog deity of his own.**"
 >   - Lumos: he's "overcompensating for how crappy his owner was," rescuing every animal nearby.
 >   - Ferndell thanks her because "it brought an amazing shelter… **You did not die in vain whatsoever.**"
 > - **1:40:59 Lumos:** she was "sitting on quadrillion, quadramillions of dollars," never funded nonprofits, and "probably like invested in **Uber or WeWork**." "If I have the option to come back… a lot of like things I'll have to change about my life."
->   - Ferndell and Bec: "**You could have been Big Yogurt**… You're stealing from her company."
+>   - Ferndell and Caustic Phoenix: "**You could have been Big Yogurt**… You're stealing from her company."
 > - **1:45:02 Parting words.**
 >   - Ferndell: "**Don't support big yogurt.**" GM: "Local, every time."
 >   - Lumos: "**you cannot live with that anger. It will literally kill you**… learn from my lesson, you will die. **And the only thing left from you will be yogurt.** And if you're lucky, you'll have a dog that can at least like atone for your life."
 > - **1:45:55 Taxes.** Lumos: "**Arbiter, he might need some help with taxes since you're doing taxes and stuff.**" Arbiter: "Get in line."
->   - "**The IRS is part of our world.**" Bec: "**We've made that official.** I don't know why we entered such an evil organization." "We've done terrible things."
+>   - "**The IRS is part of our world.**" Caustic Phoenix: "**We've made that official.** I don't know why we entered such an evil organization." "We've done terrible things."
 

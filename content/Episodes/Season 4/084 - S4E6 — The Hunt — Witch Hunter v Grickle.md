@@ -120,7 +120,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
   - Wields **his grandmother's glaive** and wears heavy chainmail.
   - Lost one nipple to Grickle's scimitar. The other was clipped by Iron Fang, then turned into a piercing "nipple dagger."
 - **Quirks:**
-  - Played World of Warcraft (Bec: "canon").
+  - Played World of Warcraft (Caustic Phoenix: "canon").
   - **Allergic to the red dye in healing potions.**
   - Once had a gluten intolerance, cured by becoming a paladin.
   - Never learned to swim; had no father figure.
@@ -138,7 +138,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
   - His ledger count was ½ → 1.5 → 2.5.
   - Tried to rescue Witch Hunter, then was **crushed by the Shadow King's boot**.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat).
 - **In the Dread Fortress:**
   - Bowls with goblins and has "a big tournament this weekend."
   - Calls Elusia **"my niece"** and tightens the **shadowy chains** he keeps on her ("It's because I love you").
@@ -147,10 +147,10 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 - **His powers in the arena:**
   - Keeps **the master logbook of deaths**, "a log of everything for everyone."
   - Primed the Box of Chaos with Glass Flippers' soul and summoned the freezing storm.
-  - **Bec: "He used to be the box."**
+  - **Caustic Phoenix: "He used to be the box."**
 - **The finish:** he ended the match by crushing Grickle with a giant black boot.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Elusia, the Grandmaster "but only a name"]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia, the Grandmaster "but only a name"]]** (Caustic Phoenix).
 - Under the Shadow King, she does the real work of running the Deathmatch.
 - **Her hair is falling out in patches and her left eye twitches.**
 - **She summons portals by cutting her hands on her amulet; her hands are scarred from it.**
@@ -185,7 +185,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 
 ### Lore statements
 - Elusia is the Shadow King's niece (stated by him).
-- **The Shadow King "used to be the box"** (Bec, in table banter).
+- **The Shadow King "used to be the box"** (Caustic Phoenix, in table banter).
 - There is a Deathmatch every Sunday evening. The goblins help bring the Acolytes.
 - Hero points are the Acolytes' energy, hopes and fighting spirit, gifted to the champions.
 - The arena has "a tradition of hibiscus lube."
@@ -211,7 +211,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 > 13. **0:08:17 — To the arena.** Elusia grips the amulet again. **A blue portal opens**. Witch Hunter: "**Centaurs first.**" He trots in.
 >
 > ### The arena — the Frozen Lake
-> 14. **0:08:24** It is **a tundra miles from anything else**. The cold wind rips across their skin, and Grickle's "outer shell. Carapace!" (Drew: "Carapace is a simple word.") Elusia: "**Carapaces don't have… goosebumps.**"
+> 14. **0:08:24** It is **a tundra miles from anything else**. The cold wind rips across their skin, and Grickle's "outer shell. Carapace!" (Mudcat: "Carapace is a simple word.") Elusia: "**Carapaces don't have… goosebumps.**"
 > 15. **0:09:04** Elusia asks whether thri-kreen have eyelids. Grickle: "No." So the wind pulls the moisture from his eyes and **he cries as if something sad and awful has happened**, yet stands bold.
 > 16. **0:09:21** Elusia: "I welcome you. **To the frozen lake. It's not creatively named**, you know, after a while we just got tired with things." **Something is moving deep beneath the ice.** "I want you to make sure that this landscape is painted in red."
 > 17. **0:09:33** She opens her wings. The gust is so fierce that **Witch Hunter has to stake his spear into the ground**. She flies up, and **where the sky should be, the Acolytes sit high above in a coliseum**, cheering and screaming.
@@ -223,16 +223,16 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 > 21. **0:14:05** Shadow King: "Interesting start before the match has even begun… **Acolytes, are you ready to see some blood?**" The crowd spills beers and punches each other.
 >
 > ### Round 1
-> 22. **0:14:41 — Initiative.** Witch Hunter rolls 18. **Grickle rolls a natural 20.** Bec: "Wait, aren't you nat1fun? … **This is not on brand. You have to roll again.**" He still goes first.
+> 22. **0:14:41 — Initiative.** Witch Hunter rolls 18. **Grickle rolls a natural 20.** Caustic Phoenix: "Wait, aren't you nat1fun? … **This is not on brand. You have to roll again.**" He still goes first.
 > 23. **0:15:16** Grickle: "**Now you see me?**" **He makes the beetle's wings open and flutter and hides behind them.** His stealth is 26. Witch Hunter's perception is 8: "**He didn't bring his glasses.**" Elusia: he's entranced by Grickle's jaw. Witch Hunter: "His wings are so strong." **Grickle vanishes behind the wings "like a magician."**
-> 24. **0:17:51 — Scimitars from the wings.** The beetle closes to 5 ft. The first scimitar misses Witch Hunter's AC 18. Then **the wings part and two scimitars come flying straight out of them**: a hit with sneak attack (Drew counts the mount as an ally), **21 damage**. Grickle has the Mobile feat, so he **hops back onto the beetle and scatters 35 ft across the ice** without an opportunity attack.
-> 25. **0:19:51 — "Grickle the Gek Gek Gek."** Bec keeps mangling the mount's name. Drew: "It's Grickle the Gek Gek Gek, I don't understand why you're so, why is it so difficult for you?"
+> 24. **0:17:51 — Scimitars from the wings.** The beetle closes to 5 ft. The first scimitar misses Witch Hunter's AC 18. Then **the wings part and two scimitars come flying straight out of them**: a hit with sneak attack (Mudcat counts the mount as an ally), **21 damage**. Grickle has the Mobile feat, so he **hops back onto the beetle and scatters 35 ft across the ice** without an opportunity attack.
+> 25. **0:19:51 — "Grickle the Gek Gek Gek."** Caustic Phoenix keeps mangling the mount's name. Mudcat: "It's Grickle the Gek Gek Gek, I don't understand why you're so, why is it so difficult for you?"
 > 26. **0:20:33** Witch Hunter: "**You got blood all over my mouth.**" Grickle: "Naked Bruce." Witch Hunter: "Blood all in his butt cheeks."
 > 27. **0:20:39 — The paladin and the rogue.** Witch Hunter "**did play an unhealthy amount of World of Warcraft. So I, as a paladin, know very well how it is to fight a rogue.**" Elusia: "I'm also imagining this is canon that your character played WoW." Witch Hunter: "**We play humans in households.**" Elusia: "Wait, that's called Sims."
 > 28. **0:21:36 — Bruce away!** "Oh, you slippery devil, you, try this on for size." Witch Hunter **slaps Bruce's butt cheeks**. They "shake and jiggle"; "**every time he runs, those cheeks be clapping.**"
 > 29. **0:22:54 — The natural 1.** **The glaive goes into the ground. Witch Hunter and Bruce flip over. He is dismounted, Bruce is prone, and Bruce's "Ding-a-ling" is splayed out in the snow.** The Shadow King: "**I prefer Ding-a-ling, actually. The scientific term.**"
 > 30. **0:23:24 — The smite.** "**May Maliki be with me.**" His second attack hits (19). He adds a **Divine Smite** ("Smite his ass"), 25 more. Elusia: "Paladin abilities? Did you learn that in WoW?" "Exactly." Elusia: "**WoW leveling up levels is up in real life. I believe this firmly.**" **Grickle parries** with a superiority die and knocks off part of the smite.
-> 31. **0:26:01 — The ledger of deaths.** Drew: "Don't shame him. The public school system here sucks." Grickle: "**I'm a bug. I don't do math. I kill people.**"
+> 31. **0:26:01 — The ledger of deaths.** Mudcat: "Don't shame him. The public school system here sucks." Grickle: "**I'm a bug. I don't do math. I kill people.**"
 >     - Elusia asks how he keeps count. **The Shadow King holds up a blood-smeared journal, "the master logbook of deaths… a log of everything for everyone."**
 >     - **It says Grickle has killed "one half."** Grickle: "**That book is lying!**" Elusia: "I thought you were an experienced killer." Grickle: "I've read a few books." Witch Hunter: "I think you're doing great."
 > 32. **0:27:30** Witch Hunter **pulls his glaive from Grickle's abdomen.** Elusia asks Witch Hunter's count: **69** ("Nice!"). "**But most of that's an orphanage, so. Not my fault. Didn't mean to happen. Still counts, unfortunately.**"
@@ -244,7 +244,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 > 34. **0:29:41** Grickle attacks; Elusia notes "Grickleback" refers to himself in the third person. "What are pronouns?" The hit (26) **slices Witch Hunter's nipple right off "like a pepperoni."** Grickle: "I'm so sorry about that." Witch Hunter: "It's fine. It happens."
 > 35. **0:30:22 — Food for the Acolytes.** **The nipple flies into the stands and the Acolyte Divinity D&D snatches it in their mouth.** Elusia: "**Food for the Acolytes!**" Witch Hunter: "It's refreshing, frankly." Elusia: "You've been sweating, so it's a little salty too."
 > 36. **0:30:47** Grickle runs away again ("You'll bravely run away") and digs through his "carapace pockets" for his bow.
-> 37. **0:31:34 — The beetle dies.** **Grickle slips on the ice. His arrow goes straight up with a comical whistle and comes down to kill his own rhinoceros beetle (nat 1).** **The ledger updates to 1.5 deaths.** Witch Hunter: "**It do be like that sometimes.**" Elusia: "No sadness, no regret as you murder your pet." Drew suggests hiding inside the corpse "like a Tauntaun."
+> 37. **0:31:34 — The beetle dies.** **Grickle slips on the ice. His arrow goes straight up with a comical whistle and comes down to kill his own rhinoceros beetle (nat 1).** **The ledger updates to 1.5 deaths.** Witch Hunter: "**It do be like that sometimes.**" Elusia: "No sadness, no regret as you murder your pet." Mudcat suggests hiding inside the corpse "like a Tauntaun."
 > 38. **0:32:48** Grickle action-surges and angrily shoots again: "**That was clearly your fault!**" The shot misses and **hits the Acolyte Glass Flippers in the left arm. The Acolytes are now angry at him.**
 > 39. **0:33:26** Witch Hunter: "**Swiggity-swoogity, I'm coming for the booty.**"
 >
@@ -256,7 +256,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 > 42. **0:34:46** Shadow King: "**The Box of Chaos is primed with a soul. You can make a sacrifice to it as a free action. And in exchange, you'll get a magic item of some unknown rarity.**" Elusia: the rarity "will be known once you get it."
 > 43. **0:35:12 — Hero points.** Elusia: "**These are gifts from the Acolytes. Their energy, their hopes, their fighting spirit is poured within these hero points**… so that at one point in time, you can go super saiyan… But the one thing you absolutely should not do is forget to frickin' use it, man!"
 >     - Shadow King: "**Something like Super Saiyan, but legally distinct. Our lawyers are having a field day.**"
->     - Grickle: "I will go **super geck geck**." Witch Hunter: "Super geck geck times 10." Drew: "See you in five weeks."
+>     - Grickle: "I will go **super geck geck**." Witch Hunter: "Super geck geck times 10." Mudcat: "See you in five weeks."
 > 44. **0:36:35 — Lay on Hands.** Witch Hunter heals 50 by "**caressing myself gently**… **with oil.**" Elusia: it makes the Acolytes "slightly uncomfortable, but also slightly aroused."
 >     - Shadow King: "What kind of oil? **Because we have a tradition of hibiscus lube in this arena.**"
 >     - Witch Hunter: "Natural… organic. **It's from the flowers that bloom for me**… It's a recycle process." Grickle: "So you use your own fluids. That's great. We do that too."
@@ -271,14 +271,14 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 >     - Horrified, **she puts the face back, then puts a trash bag over it.**
 > 50. **0:43:17 — The nipple dagger.** Witch Hunter to Grickle: "**Is it weird that my singular nipple is hard?**" "Yes, that's weird!"
 >     - Elusia rules that it **is now sharp enough to pierce: "a small piercing nipple dagger,"** because the Shadow King's face turned him on.
->     - Drew: "Some people are into Cthulhu face… I'm judging a little bit… **King shame is my king shame.**"
+>     - Mudcat: "Some people are into Cthulhu face… I'm judging a little bit… **King shame is my king shame.**"
 >
 > ### Round 3
 > 51. **0:44:23** Grickle runs again ("Go, go, Gadget Legs"; "a tactical retreat"). **The crowd has a "coward's corner" of little white-flag wavers.** He takes an opportunity hit on the way to the box.
 > 52. **0:45:43 — The bread trade.** The shadowy figure claws out of the box, confused: "**What do you want? What do you have to trade?**" Grickle: "**I have bread?**" "I like bread." A d2 makes it **stale bread, "hard as a rock"**; Grickle "use[s] it as a bludgeoning weapon." "I'm not picky."
 >     - The figure takes it and slams the lid. Grickle hopes for "**23 wolves**." Elusia: "**There needs to be, because that's chaos. Noted.**"
 > 53. **0:47:31 — Iron Fang.** The pink-and-yellow column fires again, a magical fire with no heat. **A war pick floats out to him: the Iron Fang** (+2 to hit, an extra d8 thunder). It's two-handed, "but you can wield something else in your other two hands," since he has four arms.
->     - Elusia: when it hits, **"sparkle damage"** comes out. Witch Hunter suggests "glitter damage." **Grickle gets to name the effect himself** later. Drew: "How about piercing or bludgeoning? What's wrong with that?"
+>     - Elusia: when it hits, **"sparkle damage"** comes out. Witch Hunter suggests "glitter damage." **Grickle gets to name the effect himself** later. Mudcat: "How about piercing or bludgeoning? What's wrong with that?"
 >     - Elusia: "You can throw anything. You just don't always get it back."
 > 54. **0:49:22 — The thrown pick.** "Yeah, buddy, let's do this." **He holds his scimitar hands out to the sides, raises Iron Fang overhead with the other two, and throws it with an awful screech (Menacing Attack).**
 >     - It's a glancing blow and **clips "just the tip of his other nipple."**
@@ -289,8 +289,8 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 >     - Grickle sprints away 40 ft: "Get me 40 feet away from this thing."
 > 56. **0:54:58 — Spear fishing.** "Leave me alone." Witch Hunter: "**I regret to inform you that I am a centaur.**" He follows; his glaive has reach ("like spear fishing"). He leaves Iron Fang (great weapon fighting). Grickle: "That box was looking pretty tantalizing." Elusia: "You should have thrown Iron Fang… in the box."
 > 57. **0:56:17 — Matching ACs.** He hits Grickle's AC 18 exactly: a glancing blow. Elusia: "**You all are twins. It's like this was fate bringing the two of you together.**" Witch Hunter: "**Love story for the ages. Do you feel something?**" Grickle: "**Yeah, I feel my carapace breaking.**"
-> 58. **0:56:56 — "Witch King."** Elusia slips and calls him Witch King. Witch Hunter: "I like that name." Drew: "**Battlefield promotion. All the way to king… Everyone else died. You're the last guy.**"
-> 59. **0:57:18** **Searing Smite** at 2nd level ("White hot, like your love for him"). Witch Hunter: "**Do you think we have an OnlyFans?**" Bec: "Excuse me while I make that into an advertisement."
+> 58. **0:56:56 — "Witch King."** Elusia slips and calls him Witch King. Witch Hunter: "I like that name." Mudcat: "**Battlefield promotion. All the way to king… Everyone else died. You're the last guy.**"
+> 59. **0:57:18** **Searing Smite** at 2nd level ("White hot, like your love for him"). Witch Hunter: "**Do you think we have an OnlyFans?**" Caustic Phoenix: "Excuse me while I make that into an advertisement."
 >     - His next attack (a "dirty 20") hits; **he stabs and twists**. Grickle: "**Oh, dick twist! The old dick twist.**"
 >     - Grickle can't use his skirmisher reaction because Witch Hunter ended his turn just outside 5 ft. Witch Hunter: "I do have Misty Step, so if I wanted to."
 > 60. **0:59:47 — Ricardo.** Shadow King: "Is your first name Witch?" Witch Hunter: "**My actual name is Ricardo.**"
@@ -312,14 +312,14 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 >     - **He runs into the nipple dagger and takes 3 piercing.** "**My eye!**" Elusia: "Well, I said a dagger! You chose your eye." **Grickle loses an eye** (1:14:23: "Well, now you only have one").
 > 66. **1:05:14** Witch Hunter swings at disadvantage and misses. Grickle scatters 40 ft and uses **Second Wind** (12 back).
 > 67. **1:06:49** Bruce Bruce, still curled in a ball, whimpers.
-> 68. **1:07:17 — The cockroach.** Grickle: "**Like a cockroach, I'm going to lie to the ground and suck myself really close to the ground.**" Elusia: "I don't know how blind people try to stealth." Drew: "How do cockroaches try to stealth?"
+> 68. **1:07:17 — The cockroach.** Grickle: "**Like a cockroach, I'm going to lie to the ground and suck myself really close to the ground.**" Elusia: "I don't know how blind people try to stealth." Mudcat: "How do cockroaches try to stealth?"
 >     - **Natural 20 (33).** "It turns out being blind is your strength." He's completely immersed in the icy lake surface.
 > 69. **1:08:18** Witch Hunter turns toward the Shadow King's voice: "**Is this because I'm a centaur?**" Shadow King: "That's really a question for her. **I don't discriminate.**"
 > 70. **1:08:31** Witch Hunter casts **Cure Wounds** (11), "as I caress myself once more." Elusia: "Now you are slick and shiny, ready for a photo shoot yet again."
 >     - He casts **Shield of Faith**, a shimmering field. The crowd chants "Do it, do it, do it. **Kick his ass, Seabass.**"
 > 71. **1:10:33** He tries to run where Grickle bumped into him; two d4s don't match and **he heads north**. "I take the square root of this. Pythagoras here."
 > 72. **1:12:06 — The musk.** He **sniffs aggressively for "the musk of Grickrick."** Grickle: "**I smell wonderful.**" Insight 16: he senses Grickle is near the Box of Chaos.
-> 73. **1:13:00** Elusia reminds him Bruce Bruce could be his eyes, "but his face currently is up his butt… He's trying to keep warm!" Witch Hunter: "Well, he's on break." Drew: "**Bruce is completely waxed.**"
+> 73. **1:13:00** Elusia reminds him Bruce Bruce could be his eyes, "but his face currently is up his butt… He's trying to keep warm!" Witch Hunter: "Well, he's on break." Mudcat: "**Bruce is completely waxed.**"
 > 74. **1:13:27** Witch Hunter **throws a spear** at triple disadvantage (Grickle, rules-lawyering: "because I'm prone"). Rolls 27, 23, 17; the 17 misses.
 > 75. **1:14:23** Elusia: "I don't know much about the biology of a Thrakeen." Grickle: he had only two eyes.
 >
@@ -327,7 +327,7 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 > 76. The Shadow King rolls 7, then 12. Elusia: "**This is your turn. Make a mess. And I will allow your chaotic event of your own making to take place.**"
 > 77. **1:15:13** Shadow King: "**I'm a little bit warm in this space.**" He raises a hand. **Clouds roll in, thunder rolls, and freezing rain, sleet and snow begin to fall** as the temperature drops. **Both take cold damage at the start of every round.** The blindness ends.
 > 78. **1:15:57 — Bruce Bruce freezes.** Elusia: **Bruce Bruce takes double cold damage because he is naked** ("and clean-shaven, except for that mustache").
->     - Drew: "**The condensation from his breath has now stuck his face in there permanently.** I think he's just stuck… Like licking a flagpole."
+>     - Mudcat: "**The condensation from his breath has now stuck his face in there permanently.** I think he's just stuck… Like licking a flagpole."
 >     - Witch Hunter: "**The job market's hard nowadays, you know? We gotta get things where we can.**"
 >
 > ### Round 5
@@ -350,15 +350,15 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 >
 > ### Round 6 — the ice
 > 88. **1:30:41** Grickle: "**That book was a complete lie, by the way. That book was a complete lie. I know what I'm doing.**" He pops around the pillar with his bow. The box gives no cover ("It's like at your knees at the best"). One shot misses; another is a glancing blow with a superiority die.
-> 89. **1:32:39** Grickle asks whether the box looks explosive. Drew: "The box is not explosive." Elusia: "**The Shadow King would know. He used to be the box.**" Witch Hunter: "It says not explosive on the side." Shadow King: "**It's explosive, but not in that way.**"
+> 89. **1:32:39** Grickle asks whether the box looks explosive. Mudcat: "The box is not explosive." Elusia: "**The Shadow King would know. He used to be the box.**" Witch Hunter: "It says not explosive on the side." Shadow King: "**It's explosive, but not in that way.**"
 > 90. **1:33:15 — Breaking the ice.** Grickle: "**He's a centaur. He's super heavy on this ice. I'm a little bug.**" He spends his **hero point** to shoot the ice at Witch Hunter's feet (18 with advantage). **The ice cracks all around. Witch Hunter fails his Dex save and falls into the icy water.** Misty Step isn't a reaction.
 > 91. **1:35:12** Grickle, with "one good eye," sees only cracking ice; Witch Hunter is now behind the Box of Chaos. Witch Hunter: "**There's blood pooling around the cold water… that happens sometimes.**"
 > 92. **1:35:19 — The rescue.** Grickle: "**I'm going to play into the story we've created.**" **He runs over and tries to pull Witch Hunter out of the ice.**
->     - "I have four arms!" Drew: "But you're standing on ice with no leverage." "**My feet have, like, claws on them.**"
+>     - "I have four arms!" Mudcat: "But you're standing on ice with no leverage." "**My feet have, like, claws on them.**"
 >     - Athletics 16, plus Witch Hunter's strength save. "Are you wanting to be saved? I'm confused. **Like Titanic.**"
 >     - Witch Hunter: "He has to grab my kidney, put that back in…" **It's too cold, slippery and wet. He keeps slipping and can't be pulled out.**
 > 93. **1:37:15** Grickle looks around: "**Oh, man, my mom's gonna kill me.**" Elusia: "She'll have a higher death count than you." "**Probably because I'm only two years old. If you don't know anything about Thri-kreen, we don't live that long.**"
-> 94. **1:37:56** Witch Hunter's insight (12): he is confused, but understands Grickle was trying to help and wouldn't turn him away. Drew warns that he'll take damage if he's still in the water at the end of his turn.
+> 94. **1:37:56** Witch Hunter's insight (12): he is confused, but understands Grickle was trying to help and wouldn't turn him away. Mudcat warns that he'll take damage if he's still in the water at the end of his turn.
 > 95. **1:39:27** Elusia: "**The Acolytes from high above watch intensely, quietly, with breaths held, wondering… who will rise from the icy tundra to claim the title of champion, and who will sink to the bottomless depths below, frozen in time.**"
 > 96. **1:39:51 — The last hero point.** Witch Hunter spends it to climb out. **It's a messy flailing: he tries to help too, and they keep smacking each other's hands away.** Grickle: "It's like trying to rescue a deer from the black ice." Elusia: "**This is the most awkward thing of a rescue mission.**"
 > 97. **1:40:53 — Elusia believes.** She looks at the Shadow King. "We all believe in him. Let this be to you! **Oh, Witch Hunter Ricardo! Do not give up this fight tonight! Survive!**" Grickle: "**Sounds like a really good song.**" She grants advantage.
@@ -371,15 +371,15 @@ Afterward, Witch Hunter's player promised to write fanfic about the pair's relat
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > - D'Angelo: "**I'm gonna write fanfic about our relationship.**" Dan on the ending: "**Why is this emotional?** … D'Angelo just has the ability to pull heartstrings from nowhere." Both are writers; D'Angelo flirted with the character because "if I'm going to play with someone so good looking…"
-> - **Why no Misty Step out of the water:** D'Angelo had used all his 2nd-level spell slots. Dan: a hero point could have bought the slot back. Bec: every player wonders "can I ask this?"
+> - **Why no Misty Step out of the water:** D'Angelo had used all his 2nd-level spell slots. Dan: a hero point could have bought the slot back. Caustic Phoenix: every player wonders "can I ask this?"
 > - **D'Angelo always plays an Oath of the Ancients paladin**, usually an orc. **This was his first centaur.**
-> - Dan: the mount's name started as a bug sound, and "I named my animal literally my name, but a little bit longer." Drew: the other mount was "a human named Bruce."
-> - **Drew's Box of Chaos table:** 95+ on the d100 was a potion of greater healing, and 2–50 was a regular potion. Witch Hunter rolled a 1 on the d10 both times and got both potions.
-> - D'Angelo has played TTRPGs since 2008 and rarely gets to be a player, so he goes weird. Dan picks unusual races; Drew notes **Dan "was a giff last time"**: "you've been making your way through the Spelljammer book."
-> - Bec on how players' descriptions (allergies, juggling) give DMs things to play with, and on PvP letting players see their opponent "as a person."
+> - Dan: the mount's name started as a bug sound, and "I named my animal literally my name, but a little bit longer." Mudcat: the other mount was "a human named Bruce."
+> - **Mudcat's Box of Chaos table:** 95+ on the d100 was a potion of greater healing, and 2–50 was a regular potion. Witch Hunter rolled a 1 on the d10 both times and got both potions.
+> - D'Angelo has played TTRPGs since 2008 and rarely gets to be a player, so he goes weird. Dan picks unusual races; Mudcat notes **Dan "was a giff last time"**: "you've been making your way through the Spelljammer book."
+> - Caustic Phoenix on how players' descriptions (allergies, juggling) give DMs things to play with, and on PvP letting players see their opponent "as a person."
 > - Dan: D'Angelo was super nice to his character, so Grickle had a change of heart mid-game. "The fact that he's super young" fed into the rescue.
-> - D'Angelo compares it to the WWE/ECW antagonist style. Drew mentions **the TikTok arm-wrestler who whispers encouragement**; Drew imitates him: "You're so strong. You're a big guy."
-> - **Casting:** Drew says they look for guests who know each other. Dan and D'Angelo have played together before. They discuss table cohesion, vetting, the pre-show boundaries form, "lines and veils," and "good losers." Bec mentions Reddit horror stories, session zero, and Game of Thrones on uncomfortable content. They joke about pitching a panel on trust.
+> - D'Angelo compares it to the WWE/ECW antagonist style. Mudcat mentions **the TikTok arm-wrestler who whispers encouragement**; Mudcat imitates him: "You're so strong. You're a big guy."
+> - **Casting:** Mudcat says they look for guests who know each other. Dan and D'Angelo have played together before. They discuss table cohesion, vetting, the pre-show boundaries form, "lines and veils," and "good losers." Caustic Phoenix mentions Reddit horror stories, session zero, and Game of Thrones on uncomfortable content. They joke about pitching a panel on trust.
 > - **Closing advice:**
 >   - Dan: content creators are people; "**always be your best self.**"
 >   - D'Angelo: play flawed characters with depth. He lists Witch Hunter's traits: "**he did have celiac disease and he became a paladin, no longer has that**" and "**has romantic feelings towards bug people**." Player-stated, so treated as canon for Witch Hunter.

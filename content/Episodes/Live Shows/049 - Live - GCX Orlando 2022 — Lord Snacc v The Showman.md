@@ -158,12 +158,12 @@ There was no sign for round seven ("Honestly, I thought they'd be dead by now").
 - The backpack man.
 - The sign-breaker, sent to the corner and then promised fro-yo by the GM.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). A shadowy figure who crawls out of the Box of Chaos, his fingers hanging over its side. **His name was his father's, "and it was his mother's."**
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). A shadowy figure who crawls out of the Box of Chaos, his fingers hanging over its side. **His name was his father's, "and it was his mother's."**
 - **Grants boons for sacrifices:** a healing potion for the horn, a neck-shield for Phoebe.
 - **Wants to paint and start a family, have "a couple of shadowy kids, make some shady deals."** No one had ever asked him what he wanted.
 - "Kind of a Phoebe guy."
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Forgot to bring champions to GCX; he only packed a toothbrush because of checked-bag fees.
 - Opens the portal by slamming his hands down. Flies up into the sky to watch.
 - Flirted with Lord Snacc about fro-yo, then called it creepy.
@@ -171,7 +171,7 @@ There was no sign for round seven ("Honestly, I thought they'd be dead by now").
 - **Is putting a new wing on the Dread Fortress without permits.** Says money is tight because of the remodels.
 - Dragged the bodies off stage.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Brought the Dread Fortress "from further North Orlando."
 - Flies with her wings.
 - **"I'm the only one that can wear a crown around here."**

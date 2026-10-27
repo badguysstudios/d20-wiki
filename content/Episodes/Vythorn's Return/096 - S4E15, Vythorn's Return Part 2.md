@@ -128,7 +128,7 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|Vythorn (the Arbiter)]]** (Drew)
+**[[Characters/The Arbiter|Vythorn (the Arbiter)]]** (Mudcat)
 - Introduces himself as "right hand to the Grandmaster of the Void, or Arbiter."
 - **Barefoot after losing his Italian leather boots in the swamp.**
 - Abilities shown:
@@ -143,7 +143,7 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 - Vows to unravel the Shadow King and then control fate across the Void. **Fil backs him and grants the Testaments of Morir's Cataclysm.**
 - Called a "demon" by himself. Race: "doesn't really have a race" (table talk).
 
-**[[Characters/Fil|Fil, the God of Fate]]** (Bec; "Phil" in the transcript)
+**[[Characters/Fil|Fil, the God of Fate]]** (Caustic Phoenix; "Phil" in the transcript)
 - Brown chestnut hair. Her "home" is the silent forest.
 - Shapes Ise and Biff from dirt.
 - Runs tests: those who fail "hang out with me for the rest of eternity," as dirt or in "sleep of the ages."
@@ -170,13 +170,13 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 - Protected Kuro and reunited him with his mother.
 - **Refused to be Fil's pet and chose to return to the dirt** ("free grung"). Loves lemon drops.
 
-**Kuro** (Bec)
+**Kuro** (Caustic Phoenix)
 - A thin, frail tabaxi child with blonde fluffy hair.
 - Was travelling to "the academy" with his mother; his carriage was full of beginner magic books.
 - Stabbed Vythorn in the neck from hiding. Loves eating.
 - Has no shapeshifting magic, "not capable of that yet" (per his mother).
 
-**Kuro's mother** (Bec)
+**Kuro's mother** (Caustic Phoenix)
 - A tabaxi, about 5'5"–5'8".
 - **A guide who knows the woods' magical shortcuts.** Her hand glows yellow, red, then green to light a path.
 - Commanded the carriage horses to stay.
@@ -189,7 +189,7 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 - Foundry names: **Frank, Sarah, Kevin (the perceptive one), Henrietta (the finicky one)**.
 - Some fled with the pups. They fear ghosts, ghost frogs and "cave frogs."
 
-**[[Characters/Master Skreca|Master Skreca]]** (Bec)
+**[[Characters/Master Skreca|Master Skreca]]** (Caustic Phoenix)
 - An old aarakocra with faded red, blue and green feathers, a monocle and **metal claws for hands**.
 - **Morir's scribe and the real author of the Testaments.** He lost his hands to them.
 - Now keeper, maintenance worker and cook of the ruins.
@@ -288,9 +288,9 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 > 39. **0:48:48 The leader.** A gnoll almost seven feet tall, broad-shouldered, with a snarl and facial scars, stands sharpening knives. **Ise turns into him exactly**, clothes and all, and leans against a rock opposite him in the shadows. He studies the details: **the right shoulder sags lower and is fluffier, and the left foot is missing a toe**. Biff: "Oh my god, you are so confusing."
 > 40. **0:51:12** Vythorn, "extremely invisible," walks straight through the middle of camp toward the cage. **He is barefoot: his Italian leather boots were lost in the swamp.**
 > 41. **0:52:23** The leader rolls a nat 1 and notices nothing. **One gnoll's snout moves side to side at a new scent, "something that smells like it's bathed recently."** Vythorn turns back time to step around it. The reroll makes it worse: **the déjà vu itself alerts the gnoll**. Ears up, hackles raised, it nudges a companion: "**Something is here.**" The second drops to all fours to track footprints. Vythorn is now being hunted.
-> 42. **0:54:39** Biff doesn't know Vythorn is invisible and thinks they got lucky. "Just in case… I've got a thing I can do. You ready?" He strains. **His shadow detaches from his feet, crawls up the wall and becomes a 3D void: his Echo Knight manifests.** "All right, now there's two of us. Somehow I feel like I've made this worse." Bec admits she thought from his face that Biff was about to fart. Jess: "You can fart as a free action."
+> 42. **0:54:39** Biff doesn't know Vythorn is invisible and thinks they got lucky. "Just in case… I've got a thing I can do. You ready?" He strains. **His shadow detaches from his feet, crawls up the wall and becomes a 3D void: his Echo Knight manifests.** "All right, now there's two of us. Somehow I feel like I've made this worse." Caustic Phoenix admits she thought from his face that Biff was about to fart. Jess: "You can fart as a free action."
 > 43. **0:56:37** More gnolls gather. One goes to the cage: "You said you traveled alone, right?" The woman refuses to answer. **Another gnoll herds the pups into a tent.**
-> 44. **0:58:04 The illusion.** Vythorn casts *minor illusion* to lay a false trail. **The footprints are Biff's, "because those are the last feet he can remember seeing."** Bec: "You son of a bitch." The pancake prints seem to make sound and puff dust. A gnoll pounces on them and finds nothing: "**Ghost here!**" Others pile on. The leader moves toward the fire.
+> 44. **0:58:04 The illusion.** Vythorn casts *minor illusion* to lay a false trail. **The footprints are Biff's, "because those are the last feet he can remember seeing."** Caustic Phoenix: "You son of a bitch." The pancake prints seem to make sound and puff dust. A gnoll pounces on them and finds nothing: "**Ghost here!**" Others pile on. The leader moves toward the fire.
 >
 > ### The fight in the cave
 > 45. **0:59:51** Ise, in the leader's exact form, acts first. He summons a **shadow blade** behind the leader: "**Yenogu won't smile upon your treachery. You won't lead our people astray any longer.**" Two hits, with green-flame blade, sneak attack and smites, **kill the leader in a single blow**. He stands over the body screaming.
@@ -298,24 +298,24 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 > 47. **1:03:41** His performance is middling. He looks, sounds and smells right, but the rhythm is off, and **the real leader always ended every charge with a howl** he doesn't give. The gnolls stay skeptical. Ise: "**My primary export is violence.** It's good to specialize… I'm fully prepared to kill every gnoll in this cave."
 > 48. **1:04:25** A gnoll snaps at him to test him. **Ise stands perfectly still and lets its jaws clamp on his armor without getting through.** "You're not leader material."
 > 49. **1:06:24** Ise activates **bladesong**: a giant gnoll suddenly swirling, moving nothing like the leader. "**Your weakness is your undoing. Your bloodline cannot be allowed to dilute our pack.**" The shadow blade "doesn't cut him. There's no blood. Just like slices through his soul." "**You have turned away from Yenogu. You have backed the traitor. You die a coward's death.**" Second gnoll dead.
-> 50. **1:08:48** The camp bands together, smelling blood: "**We are who we are!**" Ise wants to *message* the tabaxi woman, but Bec holds off: his focus is on the gnolls gathered before him, "a bit like your own concert." Ise: "I'm going to gnoll surf on these guys."
-> 51. **1:10:26** The crowd is too thick to slip through. **Vythorn drops invisibility and casts a quickened slow on six gnolls.** Three are slowed, including one beside the cage. The guard holding the cage resists: it now knows its prey may be moved. A second fails narrowly; Drew reaches for new dice. Vythorn *mind slivers* the gnoll second-closest to the cage ("Gnolls are known for their intelligence." Ise: "It's a hurtful stereotype.") and moves toward the cage.
+> 50. **1:08:48** The camp bands together, smelling blood: "**We are who we are!**" Ise wants to *message* the tabaxi woman, but Caustic Phoenix holds off: his focus is on the gnolls gathered before him, "a bit like your own concert." Ise: "I'm going to gnoll surf on these guys."
+> 51. **1:10:26** The crowd is too thick to slip through. **Vythorn drops invisibility and casts a quickened slow on six gnolls.** Three are slowed, including one beside the cage. The guard holding the cage resists: it now knows its prey may be moved. A second fails narrowly; Mudcat reaches for new dice. Vythorn *mind slivers* the gnoll second-closest to the cage ("Gnolls are known for their intelligence." Ise: "It's a hurtful stereotype.") and moves toward the cage.
 > 52. **1:14:52 Biff's turn.** Having just watched Ise burst two guys, he is "feeling wonderfully insecure." He rushes the nearest gnoll with both hands on the glaive, "coming up under the rib cage," screaming **"the well-known battle cry of the grung."** He gets a second stab ("The cave frogs! No mercy!"): "I'm having a nice time." The gnoll is left heaving with blood in its lungs. "Tell me, how do you like poison?" **Biff, a poisonous tree frog, spits poison in its eyes and kills it.** He pulls his glaive out of its ribs triumphantly and turns to the next one: "**I've got a glaive!**"
 > 53. **1:19:22** The gnolls panic: "**It's got a glaive!**" One flees to the back, isolating itself.
 > 54. **1:19:48** Biff action-surges. **His Echo grows arms and pancake feet, its glaive gleams, and it cleaves the gnoll nearest the cage.** "There's more glaives over here!" The gnolls believe **cave frogs** are reclaiming their caves. Biff: "We're very real!" A gnoll: "Cave frogs aren't real, they can't hurt you." Biff: "They are."
-> 55. **1:21:55** Foundry has auto-named the gnolls **Frank, Sarah, Kevin** and (Bec's pick) **Henrietta**.
+> 55. **1:21:55** Foundry has auto-named the gnolls **Frank, Sarah, Kevin** and (Caustic Phoenix's pick) **Henrietta**.
 >     - **Frank:** "we bow down to no one, we regret nothing." His longbow warning shot misses Ise.
 >     - **Sarah** bites at Biff to avenge her friend. Biff shrieks "No!" so piercingly that her focus breaks, and she misses.
 >     - **Kevin**, the perceptive one, lunges at Vythorn: "**This is the ghost!**" **Vythorn pulls the jaws back in slow motion with time magic**, and they snap just past his arm. "Where do you think you're going?"
 >     - **Henrietta**, the finicky one, bites at Ise. He turns just enough: "**You don't deserve the taste of my blood.**"
 > 56. **1:25:35 The spear.** The cage guard realizes what they're after: "**What good will she be for you if she's dead?**" It drives a spear through the cage slats. **Biff's Echo uses Shadow Martyr, teleports in front of the cage and takes the attack.** It misses and chips the cage corner. Gnolls fear ghosts, ghost frogs, and especially "ghost frogs with glaives." **The Echo flips the gnoll off, in shadow form.**
 > 57. **1:28:29 The fireball.** Six gnolls stand, surrounding Ise. "**I offered you mercy. Now burn.**" **He fireballs four gnolls and catches Vythorn in it.** Vythorn uses Lucky, "seeing them in slow motion as I adjust my trajectory," miscalculates, trips back into the blast, and does worse. All four fail. **Ise: "You might say fate intervened."** Biff: "Isi, not cool." "Literally not cool." Two die.
-> 58. **1:32:16** Ise: "**Run fools, take the cubs and flee.**" A gnoll that never touched him tucks its tail, **grabs the pups** and escapes with the one Biff terrified. Ise ends his turn. Bec: "Are you sure you didn't want to murder some more?" "It's really more up to them."
+> 58. **1:32:16** Ise: "**Run fools, take the cubs and flee.**" A gnoll that never touched him tucks its tail, **grabs the pups** and escapes with the one Biff terrified. Ise ends his turn. Caustic Phoenix: "Are you sure you didn't want to murder some more?" "It's really more up to them."
 > 59. **1:33:32** **Vythorn's chaos bolt**: he slows time, watches the gnoll that bit at him chomp down and shake its head, **forms an orb of multicolored chaos lightning, puts it in its mouth and blows out the back of its head**. It splatters on the cage, and the woman inside screams. He *mind slivers* the last gnoll across the cave ("ten points of emotional damage"). It backs to the fire, alone.
 > 60. **1:36:21** Biff: "**We can do this the easy way or the hard way. You've seen the hard way. I'd run! Get out of here!**" It flees after the others and the pups. The camp is clear.
 >
 > ### The mother
-> 61. **1:37:35** The cage is just tied: gnolls aren't familiar with mechanical contraptions. Bec: "you're a soft handed book boy." Vythorn saws through the rope: "I don't have a lot of time. Let's go."
+> 61. **1:37:35** The cage is just tied: gnolls aren't familiar with mechanical contraptions. Caustic Phoenix: "you're a soft handed book boy." Vythorn saws through the rope: "I don't have a lot of time. Let's go."
 > 62. **1:38:33** The tabaxi woman's **foot is mangled**: "I can't walk." "Have you seen my son?" Biff: "He's back at the carriage. He's safe." "You left him at the carriage?"
 > 63. **1:39:34** **Ise turns into Kuro** ("more accurately, you left him at the carriage") and asks "Mother, may I?" with his hands toward her leg. She saw him change: "**Kuro doesn't have that magic. He's not capable of that yet.**" He takes her own face: "**I'm whoever circumstances require. Do you ever want to walk again or not?**" Terrified, she rips a piece of wood from the cage to fend him off. Ise: "She doesn't seem very grateful," and turns back into a gnoll. Biff tries: "we're on a quest from a lady that sort of doesn't have your head."
 > 64. **1:40:56** Vythorn: "I don't have time for this." **He casts hold person on her.**
@@ -336,7 +336,7 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 >     - **Biff:** "**I came with a group… We were all to go home together as heroes. I sacrificed myself so that the others may achieve our prize.** But I suppose that was not what Phil had intended… It was achieving the goal, I guess. We all failed."
 >     - **Vythorn smiles wryly: "I think I understand the test now."** Ise: "Our fate cannot be taken from us. It is a gift." Vythorn: "the reason you failed the test, though, is because you didn't take your fate… into your own hands." Biff: "**But remember, you always have time.**"
 > 76. **1:59:04** Vythorn stops: "Always. You keep saying that. What does it mean?" He asks for the egg timer.
-> 77. **1:59:45 The cloaca digression.** Biff explains eggs: "a shelled construct that usually comes from the cloaca of a bird." Ise: "I'll never eat eggs again." Biff wonders whether grungs have a cloaca. Ise grabs Biff's hands: "**Do not check.**" The table checks; frogs do. **Bec awards Biff +1 Intelligence "for learning a little bit more about yourself today."** Biff: "I'm a better person now." **Biff moves through the cave staring at his own junk and screaming**, and the echo fills the tunnel.
+> 77. **1:59:45 The cloaca digression.** Biff explains eggs: "a shelled construct that usually comes from the cloaca of a bird." Ise: "I'll never eat eggs again." Biff wonders whether grungs have a cloaca. Ise grabs Biff's hands: "**Do not check.**" The table checks; frogs do. **Caustic Phoenix awards Biff +1 Intelligence "for learning a little bit more about yourself today."** Biff: "I'm a better person now." **Biff moves through the cave staring at his own junk and screaming**, and the echo fills the tunnel.
 > 78. **2:01:46** Vythorn, with Biff's words ringing in his ears, suspects the test is rigged. He examines the hourglass (using a Lucky). **It isn't flawless: it has been mended "time and time again," held together by binding magic.** **He casts dispel magic and it shatters. The sand spills through his fingers.** Ise: "I don't know if that was positive." Vythorn: "**Well, at least the time is in my own hands now.**" Biff: "That's a joke. That's very funny, because your hands are covered in sand."
 >
 > ### The door of Giant's Breath
@@ -359,7 +359,7 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 > 90. **2:26:05** Skreca: "There was one particular party, but here's the thing… **You get one item and one item only. That is the blood price paid. And if multiple items are taken, then everyone is taken… If they cannot choose one, then they do not go.**" Ise, hand on Biff's shoulder: "Sorry, friend." Biff: "That was a long shot." Ise: "There's some value in closure," looking at Vythorn.
 > 91. **2:27:03** Vythorn: "**I seek the tome, Morir's Cataclysm.**" Skreca: "Oh, his testaments… those pages belong here." "**These are the homes of Morir.** I mentioned I was a scribe. I was his. Can you imagine who wrote the testaments?" Ise: "Morir." "**No, it was me!**" Ise needles Vythorn: "You're supposed to be learned. This is the part where you show off." Skreca: "Your hands have clearly touched ink and not much else." Biff: "**He's got baby hands.**" Vythorn: "If you two keep talking, you won't have hands at all." Ise: "one thing I do not fear is your blade."
 > 92. **2:28:52** Skreca raises his metal claws: "That is not something to joke about… **it's the testaments themselves in which I lost my hands.**"
-> 93. **2:29:23 The mimic chairs.** Three chairs scoot up. **They are mimics, which turn into chairs: "I've trained them, don't worry."** Biff gets a juvenile one, sized for him. Ise: "Keep an eye on your cloaca, Biff." Ise sits and **bleeds all over his mimic's arms on purpose**: "The first taste is free, friend." Its tongue licks out and it hums with a strange vibration. Ise: "Do I have a cloaca?" Bec: "You awaken something within you in this moment."
+> 93. **2:29:23 The mimic chairs.** Three chairs scoot up. **They are mimics, which turn into chairs: "I've trained them, don't worry."** Biff gets a juvenile one, sized for him. Ise: "Keep an eye on your cloaca, Biff." Ise sits and **bleeds all over his mimic's arms on purpose**: "The first taste is free, friend." Its tongue licks out and it hums with a strange vibration. Ise: "Do I have a cloaca?" Caustic Phoenix: "You awaken something within you in this moment."
 >
 > ### The story of Morir
 > 94. **2:31:23** Skreca tells it:
@@ -388,19 +388,19 @@ After the show, the table shared what was going on beneath the surface. Kuro was
 > 106. **2:47:36** Fil: "Because you said so. **I should have turned you into a parrot.**" She looks at Ise ("No offense," to Master Skreca). "Such confidence, ego, desire. I have to say I love it. It's enough for me to back you. **I think you're a winning bet until you're not. You'll have your testament, your book, your tome.**" "**Remember, do not disappoint, or I will take it all away. And you will be mine forever.**" Vythorn's eyes grow heavy and close, and **he is moved back deep into the Void.**
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Bec thanks "B. Dave and Jess, Dr. B's on Twitter."
-> - **Drew:** he didn't expect the lore drop that the Shadow King killed Vythorn's parents, since Vythorn believed he had done it. Killing the Shadow King is now personal. It's "not just fate, it's… the Shadow King manipulating fate." It's still selfish, but "a different kind of selfish."
-> - **Bec:** Vythorn believed his uncontrolled magic killed them as a child. That "created this first moment of isolation… those that get close to you die," so he has few close people. Drew: "not much of a reprieve… the die is already cast." Vythorn has been shaped into "some sort of monster from his perspective" and will do monstrous things.
-> - **Bec: Kuro was meant as a small parallel to Vythorn**: a young boy with budding magic who could have ended up parentless, alone and helpless. Drew: Vythorn was too focused on the hourglass and himself to see it. "He can't even see himself because he's focused on himself."
-> - **Bec on the test (creator ruling):** the companions tested his resolve. The real test was "how do you break the system… **If you want to be the god of fate, you don't work within the boundaries of others. Any god will make their own rules.**" She urged him to "keep playing with it" in the hourglass, and dispel magic broke it.
-> - On the bowl: there were "a million ways" to fill it, such as everyone donating a little or sacrificing Biff. Bec saw Jess's fear that Biff would be the one. Ise volunteering and rolling it dice by dice "was very telling." Drew: from breaking the hourglass on, Vythorn is "almost dead-eyed… it's a puzzle he's solving."
-> - **Creator lore (Bec):**
+> - Caustic Phoenix thanks "B. Dave and Jess, Dr. B's on Twitter."
+> - **Mudcat:** he didn't expect the lore drop that the Shadow King killed Vythorn's parents, since Vythorn believed he had done it. Killing the Shadow King is now personal. It's "not just fate, it's… the Shadow King manipulating fate." It's still selfish, but "a different kind of selfish."
+> - **Caustic Phoenix:** Vythorn believed his uncontrolled magic killed them as a child. That "created this first moment of isolation… those that get close to you die," so he has few close people. Mudcat: "not much of a reprieve… the die is already cast." Vythorn has been shaped into "some sort of monster from his perspective" and will do monstrous things.
+> - **Caustic Phoenix: Kuro was meant as a small parallel to Vythorn**: a young boy with budding magic who could have ended up parentless, alone and helpless. Mudcat: Vythorn was too focused on the hourglass and himself to see it. "He can't even see himself because he's focused on himself."
+> - **Caustic Phoenix on the test (creator ruling):** the companions tested his resolve. The real test was "how do you break the system… **If you want to be the god of fate, you don't work within the boundaries of others. Any god will make their own rules.**" She urged him to "keep playing with it" in the hourglass, and dispel magic broke it.
+> - On the bowl: there were "a million ways" to fill it, such as everyone donating a little or sacrificing Biff. Caustic Phoenix saw Jess's fear that Biff would be the one. Ise volunteering and rolling it dice by dice "was very telling." Mudcat: from breaking the hourglass on, Vythorn is "almost dead-eyed… it's a puzzle he's solving."
+> - **Creator lore (Caustic Phoenix):**
 >   - The ruins are "a graveyard… of massive giants, a world here that had been ripped out of time and space itself because of the damage."
 >   - **Master Skreca lost his hands because writing down the testaments' words unraveled them**: the spell "is so dangerous that to even write them begins to eat at the reality that we know." It wasn't Morir's doing.
 >   - **Morir was described as humble, "never as a wizard or a sorcerer… in his emotions, he found magic."**
 >   - **Vythorn is "thousands of years old"** and a real magic user, so he may wield the tome better than Morir. "The dice will tell."
-> - Drew: Vythorn doesn't care about the consequences now; "the puzzle is revenge."
+> - Mudcat: Vythorn doesn't care about the consequences now; "the puzzle is revenge."
 > - The gnolls did zero damage; "B-Dave came out of the swing and killed their leader in one shot."
-> - Drew: Ise is "not much different than the Arbiter," and Biff and Ise were "two sides of a coin… very annoying to the Arbiter." Bec: being annoyed is the only channel through which the Arbiter lets people interact with him; that is part of his development.
-> - Drew wonders how Vythorn's acceptance of his chaotic nature will affect the Grandmaster and the Void, and "if he's even able to defeat the Shadow King." Bec: what the God of Fate waits for is the results. "Ready for episode three."
+> - Mudcat: Ise is "not much different than the Arbiter," and Biff and Ise were "two sides of a coin… very annoying to the Arbiter." Caustic Phoenix: being annoyed is the only channel through which the Arbiter lets people interact with him; that is part of his development.
+> - Mudcat wonders how Vythorn's acceptance of his chaotic nature will affect the Grandmaster and the Void, and "if he's even able to defeat the Shadow King." Caustic Phoenix: what the God of Fate waits for is the results. "Ready for episode three."
 

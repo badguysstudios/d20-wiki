@@ -105,7 +105,7 @@ He replaced his mask and gave his name: **[[The Physician]]**. His mother had ju
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Grimnar Stormclaw|Grimnar]]** (Drew)
+**[[Characters/Grimnar Stormclaw|Grimnar]]** (Mudcat)
 - A bear-like Void Knight of the Dread Fortress, about 20 years in its service, with burned fingers.
 - A devotee of chaos ("the wheel of chaos"; Nehebka calls him "the acolyte of chaos"). He holds that chaos is not evil: "It can be wielded… trying to hold on to too much will lead to ruin."
 - **Can mimic others' abilities**: he copied Nehebka's tremorsense and the Physician's magic resistance. He senses chaos visions and crackles with chaos lightning.

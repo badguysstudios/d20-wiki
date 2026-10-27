@@ -151,24 +151,24 @@ Only Grog and the duck remained. Grog threw his trident, then the Vorpal Sword, 
 - **Powers:** a Swarmkeeper with a firefly swarm. Faerie fire, Detect Poison and Disease, rabbit hop.
 - **In this episode:** **solved the vial puzzle first** (drink blue, mix red and green). Drank a potion of giant strength from the Box. Shoved Beans into the Box. Killed by Grog; killed Beans with his last swing.
 
-**[[Characters/Thea|Thea]]** (Bec). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Arbiter and Grandmaster's helper: "she works for us," and she's the one who cleans up.
 - **A tiny pink imp** with frantic wings and a tail, boxing gloves and a steak knife.
 - **The Arbiter transformed her into her "true form": a giant purple worm, "the Abyss Devourer,"** with multiple tongues and rotating layered teeth. Gargantuan, 30–40 ft.
 - Turned away from eating Grog because of his taste. Split one tongue on a stalagmite.
 - **Killed by Beans's Wall of Fire** and slid back into the ravine. Later called "Thea the Imp" again (1:52:14).
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - "Not a young man anymore."
 - **Opened Perry's portal by slamming his wings together, rippling time and space.**
 - Bet on Dave. **Claims to have battled ducks "more times than you would believe."** Doesn't clean up poop anymore because of Thea.
 - Transformed Thea. Called for the free-for-all.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **10 feet tall, "the tallest person in this room."** Not fluent in duck, with duck on her Duolingo. Always asks champions about their bowels.
 - Favored Perry and Team A. Gave Dave Bless. **Shrank the trees to shrubbery.** Ruled double damage.
 - "Ruler of a world."
 
-**[[Lore/The Box of Chaos|The Box of Chaos]]** (Drew). A chest with shadowy fingers and two yellow eyes.
+**[[Lore/The Box of Chaos|The Box of Chaos]]** (Mudcat). A chest with shadowy fingers and two yellow eyes.
 - Demands something before it gives something, and wants "a sacrifice."
 - Fell from the sky like a comet in pink and yellow flames.
 - Gave out a Vorpal Sword, a Trident of Fish Command, a Hat of Vermin and a potion of giant strength. Rule: one item per champion.

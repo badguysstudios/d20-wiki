@@ -156,7 +156,7 @@ Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done
   - **Bony**, inherited from Glub Glub.
   - The Grandmaster lifted her up to the Acolytes as the winner.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Throws a dagger between the eyes of her **great-great-grandfather Skypiercer's** portrait. She hated him, but he loved a good fight.
 - Recalls growing up in the arena, battling and practicing daily for her legacy.
 - Writes champions' histories "among the wall."
@@ -164,7 +164,7 @@ Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done
 - Calls herself "a man of science."
 - Blesses Glub Glub's walrus butthole and calls a med break for a splinter.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Rips a portal open with one finger.
 - Employs a crow guy, **Terry**, who is "out of business" because of the recession.
 - Flares his wings to raise the flood.
@@ -208,7 +208,7 @@ Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Grandmaster's chambers
-> 1. **0:00:00** Drew opens with "Welcome back to the Thunderdome. I'm sorry, the Dread Fortress." He then sets the scene: the subterranean castle in a field of lava, deep underground, and the Grandmaster's chambers.
+> 1. **0:00:00** Mudcat opens with "Welcome back to the Thunderdome. I'm sorry, the Dread Fortress." He then sets the scene: the subterranean castle in a field of lava, deep underground, and the Grandmaster's chambers.
 > 2. **0:00:43 — The portrait.** Elusia stands studying an old oil-style painting. She **takes three steps back and throws a dagger that lands dead between the portrait's eyes.** The painting shows a being very like her with vast open blue wings.
 > 3. **0:01:13** She asks whether the Arbiter knows who it is. He cocks his head ("Maybe if I stand upside down") and says he doesn't. Elusia: "**No, of course you wouldn't, no, because you haven't been here that long.**" She explains it is **her great-great-grandfather Skypiercer**: "**He's an ugly motherfucker, so don't tell me that I look like him.**"
 > 4. **0:01:58** The Arbiter "assumed you were kind of just always in existence." Elusia explains the birds and the bees: "When a Mr. Skypiercer and a Mrs. Skypiercer love each other very dearly, they come together and they make a baby Skypiercer." The Arbiter: "**You know what I understand, Grandmaster, is deathmatches.**"
@@ -219,7 +219,7 @@ Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done
 > ### The champions present themselves
 > 8. **0:04:06 — Glub Glub:** "**Me name am Glubglub, smartest of Hobgoblin tribe, smarter than Chieftain. Me make wheel, me make claw, but Glubglub make no friend.** No matter, me show in ring, no need for friend, especially weak little halflings." The Arbiter: "Well, that's something of a scientist, then."
 > 9. **0:04:44 — Geril-Lee** is timid and confused: "Please, mister. Uh, I think there's been a mistake… I'm a little bit of a fighter… Where are we?" The Arbiter is exasperated. They had "a whole conversation in the portal on the way here. You're embarrassing me in front of the Grandmaster."
-> 10. **0:05:24** The Grandmaster walks between them and rests a hand on each champion's shoulder while staring straight ahead. Glub Glub asks, "Where'd a bird lady come from?" (inferred as Glub Glub, since the line is merged into Bec's in the transcript). Then: "**Kneecaps on small one look like clockwork. I break and make new.**"
+> 10. **0:05:24** The Grandmaster walks between them and rests a hand on each champion's shoulder while staring straight ahead. Glub Glub asks, "Where'd a bird lady come from?" (inferred as Glub Glub, since the line is merged into Caustic Phoenix's in the transcript). Then: "**Kneecaps on small one look like clockwork. I break and make new.**"
 > 11. **0:05:59** The Grandmaster: not here. "These stones are sacred and it takes a lot of effort to get the blood out of them." The Arbiter: "You wouldn't believe the cost of cleaning stones." She tells them to win "with flair to make it memorable that **I may write your histories among the wall** to be worthy of even my great-grandfather's viewing."
 > 12. **0:06:36** Glub Glub: "**I will challenge everyone for Arbiter Birdlady.**" The Arbiter: "It's an attitude of a champion right there." The Grandmaster, of Geril-Lee: "**Sweet and timid in nature, but something tells me a little more fierceness lurks below on this surface.**"
 > 13. **0:06:49 — The arena choice.** She wants "a little wild, a little vast… **my great-grandfather's old hunting grounds**." The Arbiter asks, "Is it near the waterfall?" Yes: "The roaring sound will fill their ears… hopefully encouraging them to be just as unforgiving as the floodgates itself." **The Arbiter summons magical energy, then simply rips a portal open with one finger.**
@@ -322,15 +322,15 @@ Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done
 > 85. **1:50:05** Held at eye level with the Acolytes, Geril-Lee hears: "Those who have witnessed your greatness today… now know to never underestimate you… **when your opponent had his name spouting from the mouths of Acolytes. It is you who have actually survived.** You are our winner tonight." The crowd throws food and keys onto the field ("Who needs to go home?"). "**Dear Acolytes, remember tonight, and of course, protect your buttholes as you move throughout the week.**" "Welcome, and good night! The D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew introduces it as Season 2, "DM Dave versus Winter's Tale, Glub Glub versus Geril-Lee."
-> - AJ, on winning: "Confused… post-fight very ashamed of what I did… a lot of guilt." Bec: "now you have to raise Boney because you killed his… friend." AJ: she's in charge of Glub Glub's Bony and will teach him to "**aim better… Strike true, strike hard.**" (Light, semi-in-character banter about Geril-Lee raising Bony. Whether this is canon is flagged below.)
+> - Mudcat introduces it as Season 2, "DM Dave versus Winter's Tale, Glub Glub versus Geril-Lee."
+> - AJ, on winning: "Confused… post-fight very ashamed of what I did… a lot of guilt." Caustic Phoenix: "now you have to raise Boney because you killed his… friend." AJ: she's in charge of Glub Glub's Bony and will teach him to "**aim better… Strike true, strike hard.**" (Light, semi-in-character banter about Geril-Lee raising Bony. Whether this is canon is flagged below.)
 > - Dave on Glub Glub: an intellectual in a tribe that didn't understand him, with no friends. "Regardless if he won or not, **he finally made that friend that he's always been looking for.**"
-> - Dave: "we finally know that whales do not have cloacas." Drew: "**It's not about blood and death. It's about knowledge.**"
+> - Dave: "we finally know that whales do not have cloacas." Mudcat: "**It's not about blood and death. It's about knowledge.**"
 > - **AJ's plan:** she meant to pants him every strike, but Glub Glub had no pants, so she suggested light butt tickling. "Dave turned it into ball tickling," and it escalated from there. She picked **Annoyance** for creative options: an ant, a sneeze, or an unpleasant odor. She skipped the odor because Glub Glub already smelled. Dave: "Very vinegary."
 > - Dave: "don't put this on the internet… I'm engaged now… First knuckle."
 > - Lesson (Dave): "Try everything twice… the second time, that ant crawls into your butthole. And you need a good friend or combatant to fish it out for you."
 > - Parting words:
 >   - Dave: "**Practice your kegels because you never know when an ant, a weasel, or an unseen servant might tickle your balls.**"
 >   - AJ: "get creative… make them as horrifying as possible." Dave: "Consent is important." AJ: "Maybe check your opponent first."
->   - Drew: "an eye-opening or brown-eye-closing match." Dave: "**She turned my brown eye blue.**"
+>   - Mudcat: "an eye-opening or brown-eye-closing match." Dave: "**She turned my brown eye blue.**"
 

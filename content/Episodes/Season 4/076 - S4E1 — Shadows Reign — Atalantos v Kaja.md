@@ -136,14 +136,14 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 - Speaks of "my mistress" (who is not said). **Lost an ear to Atalantos.** Branded with the symbol of Cor'thun.
 - Killed Atalantos. Pierced the Shadow King with a flame Sword of Cor'thun. **Her head was twisted off by the Shadow King.**
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew). Elusia's uncle, back in power over the Dread Fortress; this is his "first time" hosting a Deathmatch.
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat). Elusia's uncle, back in power over the Dread Fortress; this is his "first time" hosting a Deathmatch.
 - Raised Atalantos and Kaja with cursed magic and studied "what became of everyone after our little spat years ago."
 - Gave Elusia the cursed plane-opening amulet. Calls the obelisk arena "my home." Imported its door "from France… an age ago."
 - **Rebuilt the Box of Chaos by putting Robert Hartley's soul in an empty box.**
 - Can turn incorporeal and teleport through shadow, and controls the blood.
 - Rolled a nat 1 on his first chaos roll. Killed Kaja as Elusia's "birthday gift."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Bec). A captive: weights on her ankles, wrists and neck, gold rune bracelets, **no crown**.
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Caustic Phoenix). A captive: weights on her ankles, wrists and neck, gold rune bracelets, **no crown**.
 - Her restraints also limit what she can say. Her feet froze when she tried to approach her friends.
 - **Today is her birthday. Something bloody happened on her 13th.**
 - Calls the Box of Chaos the Shadow King's former job ("You were the box of chaos").
@@ -153,7 +153,7 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 
 **Robert Hartley ("Rob")** — an Acolyte whose soul the Shadow King ripped out to power the new Box of Chaos. "I was sold in a box." His soul is weak and may last only one match. Gave out the robe of eyes.
 
-**Prince Vegeta** — an Acolyte stabbed in the heart by the thrown Sword of Cor'thun. Possibly alive (Bec, Dried Blood). Pronouns are unclear: Bec says "she."
+**Prince Vegeta** — an Acolyte stabbed in the heart by the thrown Sword of Cor'thun. Possibly alive (Caustic Phoenix, Dried Blood). Pronouns are unclear: Caustic Phoenix says "she."
 
 **Earl** — of the Caffeine Clan, Kaja's tea-joke "warrior." Atalantos wants to fight him.
 
@@ -184,7 +184,7 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Void in turmoil
-> 1. **0:05:34** Bec narrates. The Void "looks different this time around." **Storms brew across the land: fire and hail pour from the sky, tornadoes destroy crops and homes, earthquakes rumble, and lightning of every colour dances across the sky.** The volcanic eruptions around **the Dread Fortress** are volatile and constant. "Nothing dares fly or walk these lands; only mere magic now gets you inside these walls."
+> 1. **0:05:34** Caustic Phoenix narrates. The Void "looks different this time around." **Storms brew across the land: fire and hail pour from the sky, tornadoes destroy crops and homes, earthquakes rumble, and lightning of every colour dances across the sky.** The volcanic eruptions around **the Dread Fortress** are volatile and constant. "Nothing dares fly or walk these lands; only mere magic now gets you inside these walls."
 > 2. **Elusia clanks down the hallway with heavy weights on her ankles, wrists and neck.** She has been summoned by **her uncle, the Shadow King**. She barges into the room, which is now decorated in his own theme. "What is it that you want?"
 > 3. **0:06:53** The Shadow King: "**Elusia. Happy birthday.**" She holds up her wrists to show the **gold bracelets inscribed with magical runes** that weigh on her. He tells her not to be sour: "You're another year older. And maybe wiser. I'm not sure. We'll find out." Elusia refuses the party hat, and **she is "sans crown" this time.**
 > 4. **0:07:39 — The amulet.** The Shadow King offers "the continuation of your little Deathmatch." Elusia refuses. She says **the amulet he gave her is cursed magic** ("You don't open or walk through planes with that"). **She throws it at his feet and spits**: "No one's that desperate, except for you." **He snaps his fingers and the amulet reappears around her neck.**
@@ -206,7 +206,7 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 > ### Round 1
 > 17. **0:18:46** Both roll low on initiative (Elusia: "I just gave you the best hype speech I possibly could"). Kaja asks for advantage because she's inspired. The narration: "**Unfortunately, she doesn't make the rules here anymore.**" The Shadow King steps into the shadows and reappears beside Elusia.
 > 18. **0:19:47 — Atalantos opens.** He looks over the blood-soaked field and asks Kaja what she makes of it: "A mockery of the past… They seem to make us fight as if we are animals caged here… shall we make this quick and easy and forgettable? The choice is yours." Kaja: "**When have I ever done anything plainly and without elegance? Of course, let's put on a dance.**"
-> 19. **0:20:56** He slams his spear into the ground. Familiar electricity crackles over his arm, torso and helmet as **his Crimson Rite** (Blood Hunter) activates, **then freezes over: the Rite of the Frozen.** "Take your best shot." **He takes the Dodge action and lets her strike first.** Drew: "That is a first." Elusia: "I love the energy, Atalantos. You never lost it for a second." Atalantos: "I will gain many stars in this fight, and all of them… will lead to what I truly wish for, their head at the end of my weapon."
+> 19. **0:20:56** He slams his spear into the ground. Familiar electricity crackles over his arm, torso and helmet as **his Crimson Rite** (Blood Hunter) activates, **then freezes over: the Rite of the Frozen.** "Take your best shot." **He takes the Dodge action and lets her strike first.** Mudcat: "That is a first." Elusia: "I love the energy, Atalantos. You never lost it for a second." Atalantos: "I will gain many stars in this fight, and all of them… will lead to what I truly wish for, their head at the end of my weapon."
 > 20. **0:23:25 — Kaja's Form of Dread.** She circles him, trailing a hand along his arm: "**They say that the more experienced dancer should lead.**" **Shadows writhe up her body into a dress; spectral ghostly hands form pauldrons, a robe and a cloak. One hand crawls up her face, and her skin melts away into a visage of pure undeath.** She moves 30 ft toward the stairs and dances "with a practiced grace of someone who's seen many a ballroom."
 > 21. **0:25:00** Atalantos points his spear at her and **casts Blood Curse of the Eyeless**: her vision goes null for a moment. **All three of her Eldritch Blasts miss.** "The shadows are just tickling you, I guess." Atalantos jokes about their bones creaking as they get used to their bodies again.
 > 22. **0:27:15 — Tea service.** Elusia ("Oh, my hip") claps her hands, and **a small goblin runs out carrying a tray with freshly brewed tea for Kaja.** It stands at the side as her serving table. "They're not to be hit. **That's Theodore, and he's very nice.**" The Shadow King asks whether she always interferes. Elusia: "We don't even have wolves in this map." "Would you like some?" "No, no." Kaja takes a final sip and sets it aside.
@@ -214,7 +214,7 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 >
 > ### Chaos event — the door that wants a knock
 > 24. **0:30:08** Atalantos rolls a 5. A voice rumbles from deep in the ground: "**You didn't knock. Everybody knocks.**" **The eye in the door turns vibrant purple with flames, burns red at the centre and fires laser beams** ("Clearly it's an eyesore"). Atalantos rolls a **nat 20** on the Dex save and gets a bonus reaction. **Without even looking, he deflects the laser off his shield; his eyes never leave Kaja**, and he goes on waiting for her to hit him. Kaja takes fire damage. The door rattles: "No one has knocked!"
-> 25. **0:33:25** The Shadow King: "**You know that door was imported from France, right? I had it put in an age ago.**" Bec can't do the accent, so it becomes Belgium and then **Bangladesh**. Atalantos breaks focus: "Wait, Bangla, what? Whatever. Focus, battle, yes."
+> 25. **0:33:25** The Shadow King: "**You know that door was imported from France, right? I had it put in an age ago.**" Caustic Phoenix can't do the accent, so it becomes Belgium and then **Bangladesh**. Atalantos breaks focus: "Wait, Bangla, what? Whatever. Focus, battle, yes."
 >
 > ### Round 2
 > 26. **0:34:06** Atalantos bangs his spear on his shield, walking, then jogging, then sprinting: "If you wish to run and hide, then let the battle come towards you." **His jab almost takes off Kaja's ear**, and the blood freezes as the rite kicks in. Kaja's player confirms it: **"You take off one of their ears."** His second, a slashing arc, cuts her leg: "Keep your eyes on the battlefield. You can flee, but you will meet your fate all the same." So far he has given her "**two lessons… two scars.**"
@@ -274,11 +274,11 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 > - Atalantos: "I will make sure to stab them again **with two spears rather than one**. Then it will work, I'm sure." The table riffs that everyone needs spears ("Why didn't Cor'thun think of this earlier?"; Elusia: put spears on the bottoms of feet and on arms; "Brilliant, Elusia").
 >
 > Creator notes (out-of-character):
-> - Drew: "this whole thing was just one big fucked up birthday party for the Grandmaster." Bec: "There's nothing worse than bringing your dead friends back to life and then killing them again."
-> - **Bec: "I want us to remember the Sword of Cor'thun is now here in the Void. One of the Acolytes has it."** Drew: Prince Vegeta has it through their chest. Bec: "Surely they're not dead. I think she's alive still."
+> - Mudcat: "this whole thing was just one big fucked up birthday party for the Grandmaster." Caustic Phoenix: "There's nothing worse than bringing your dead friends back to life and then killing them again."
+> - **Caustic Phoenix: "I want us to remember the Sword of Cor'thun is now here in the Void. One of the Acolytes has it."** Mudcat: Prince Vegeta has it through their chest. Caustic Phoenix: "Surely they're not dead. I think she's alive still."
 > - Stella's favourite moment: Atalantos's throws and mobility, a dynamic battle. Sensei: he likes "little stupid anime fights" and how a battle evolves like a story. His favourite was Kaja's flaming-sword strike at the Shadow King. Kaja: "Just wanted to leave a scar on the Shadow King in honor of Atalantos."
-> - **Drew: the strike let him remind chat "that the Shadow King is now ten times more powerful than he ever was."** He enjoyed tying the Shadow King in after Skypiercer: "you had the victory at the end of Skypiercer but then you get to be resurrected and figure out that like oh it's not much of a victory now." Will they be resurrected again? "Maybe."
-> - Sensei: if Kaja is ever resurrected she should have just one ear. Stella: "Carry that scar." Bec: "Deal."
-> - **Bec imagines a yellow Death Club crop top falling to the ground like a flag as the arena empties.** Merch joke.
+> - **Mudcat: the strike let him remind chat "that the Shadow King is now ten times more powerful than he ever was."** He enjoyed tying the Shadow King in after Skypiercer: "you had the victory at the end of Skypiercer but then you get to be resurrected and figure out that like oh it's not much of a victory now." Will they be resurrected again? "Maybe."
+> - Sensei: if Kaja is ever resurrected she should have just one ear. Stella: "Carry that scar." Caustic Phoenix: "Deal."
+> - **Caustic Phoenix imagines a yellow Death Club crop top falling to the ground like a flag as the arena empties.** Merch joke.
 > - Final words. Stella: "Throw yourself into what you love… Love fiercely and without end." Sensei: like Atalantos, use obstacles "to motivate you to try even harder."
 

@@ -141,13 +141,13 @@ Buli was still falling. Since he would never hit the bottom, he kept fighting fo
 - **Spells:** Blade Ward, Fire Bolt, Vicious Mockery, Fireball (×4), Polymorph, Mind Sliver, Greater Invisibility, Cure Wounds, Cloud of Daggers, and a Fae Touched Misty Step. Also uses Cutting Words.
 - **Winner.**
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Bakes cookies for the Acolytes in an apron reading "Grandmaster."
 - Brought Doug to the stands and left at the break to comfort him.
 - Granted Buli Bless for trying hard, and stopped the fight with "Enough!"
 - Doesn't visit this arena often. She covered the castle's portraits.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Tried to steal a cookie and was smacked.
 - Claims to be Chancy's superfan (a concert tee pulled from his chest, Chancy's name "carved on my bones").
 - "Aged like a fine wine."
@@ -171,10 +171,10 @@ Buli was still falling. Since he would never hit the bottom, he kept fighting fo
 - **Story:** she searches for Frederick, who did not show up on the day of their wedding.
 - **Powers:** her voice fills the whole space. She dispels polymorph ("that's not who you really are"), uses a wind-push, a necrotic touch, passes through bodies, and screeches like a thunderclap.
 - **Fate:** last seen strangling Frederick as they fade into the distance.
-- **Name:** auto-assigned by the VTT, per Bec.
+- **Name:** auto-assigned by the VTT, per Caustic Phoenix.
 
 **Frederick.**
-- Christina's groom, seen as "a ghoul" peeking around corners. He hides behind a tree and in the bushes. Bec: "You coward."
+- Christina's groom, seen as "a ghoul" peeking around corners. He hides behind a tree and in the bushes. Caustic Phoenix: "You coward."
 - Strangled by Christina at the end. Whether he is undead is only implied by "ghoul."
 
 **The queen, the queen's sister, the king, the queen's dog.** Figures in Chancy's claims, all unnamed.
@@ -246,7 +246,7 @@ Buli was still falling. Since he would never hit the bottom, he kept fighting fo
 >     - The Acolytes summon it. **A purple box with pink and yellow flames slams down from the sky**, and **a small shadowy figure works his way out the side with a small claw**.
 >     - It lands **at the bottom of a 10-ft drop below the cliff**. It stays in one place and either champion can use it.
 >     - Using it means sacrificing something, as a free action.
-> 22. **0:16:39** Bec makes "a small little secret roll."
+> 22. **0:16:39** Caustic Phoenix makes "a small little secret roll."
 > 23. **0:16:46 — Initiative.** Chancy goes first (18). Buli gets 14 even with advantage, and claims he is letting Chancy go first: "**Buli is fair**… so that when I destroy you, it will be that much sweeter!"
 > 24. **0:17:30 — The intimidation spat.**
 >     - Chancy: "Come out, come out wherever you are… you're probably just hiding from me because you're too scared."
@@ -375,7 +375,7 @@ Buli was still falling. Since he would never hit the bottom, he kept fighting fo
 > 72. **1:12:00** To Buli: "**You, that's not who you really are.**"
 >     - **The polymorph melts away, leaving Buli in his burned-feather form**, still flapping his arms like a butterfly.
 >     - "**You're also not Frederick!**" He is thrown 10 ft toward the castle.
-> 73. **1:13:15** **Christina the ghost** enters initiative. Bec: "We do not choose the names for some of these automatically listed."
+> 73. **1:13:15** **Christina the ghost** enters initiative. Caustic Phoenix: "We do not choose the names for some of these automatically listed."
 >
 > ### Round 5 — the truce
 > 74. **1:14:02** Chancy makes eye contact with Buli: "**Are we working together just for a moment?**… let's attack this first."
@@ -507,19 +507,19 @@ Buli was still falling. Since he would never hit the bottom, he kept fighting fo
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **In-character / near-canon (mark Dried Blood):**
-> - **Buli's eternal fall.** Bec: Buli is in an eternal fall, so he can make death saves "post-show credits."
->   - At 2:31:00 Drew reports "two saves, one fail," then: "**As per our rules, you are back up with one HP. Falling down the well.**" Bec: "The deathless. Falling. Unmurderable."
+> - **Buli's eternal fall.** Caustic Phoenix: Buli is in an eternal fall, so he can make death saves "post-show credits."
+>   - At 2:31:00 Mudcat reports "two saves, one fail," then: "**As per our rules, you are back up with one HP. Falling down the well.**" Caustic Phoenix: "The deathless. Falling. Unmurderable."
 > - The table riffs that **at the bottom of the well Buli might find the shiny loot** and come back for vengeance. They picture him with two feathers regrown, **eating bugs to survive**.
 > - BunnyDreadful: they are "**tiny owlbears**," so they eat what owlbears eat: "**humans… meat, flesh, squirrels.**"
 > - **Chancy's final words:** "May you always find yourself defeating 10,000 dragons because there's always, I don't know, something inside your heart. Think of something and pretend like I said it."
 > - **Buli's final scene:** the screen fades to black, then back to a dark chasm. "**You see a small fluffy, used to be fluffy thing falling and you just see an eye open. 'I'll be back.'**"
 >
 > **Out-of-character creator notes:**
-> - Mac enjoyed fighting a friend in PvP. Chancy's inspiration was **the bard from The Witcher**; Bec: "burn, Witcher, burn."
+> - Mac enjoyed fighting a friend in PvP. Chancy's inspiration was **the bard from The Witcher**; Caustic Phoenix: "burn, Witcher, burn."
 > - Mac kept casting Fireball because most of Chancy's spells used saves Buli kept making.
 > - BunnyDreadful doesn't usually play barbarian. Relentless Rage with a +7 Con save kept Buli alive: "technically I'm not dead."
-> - BunnyDreadful made **artwork of Buli**; Bec asks for a "fried chicken version." "Spicy Buli."
-> - Drew: the bardic inspirations saved Chancy many times. Mac spent them all because "I didn't know you get to hit three times."
-> - Drew: **the longest fight they've had, round 12 or more** (they've been to round 10 before). Mac: Chancy would brag about having the longest fight.
-> - If Chancy hadn't flown them out of the well, the DMs hadn't decided what would happen ("probably would have intervened… more ghosts"). Bec: the players interacted with Christina "in a way I did not plan."
+> - BunnyDreadful made **artwork of Buli**; Caustic Phoenix asks for a "fried chicken version." "Spicy Buli."
+> - Mudcat: the bardic inspirations saved Chancy many times. Mac spent them all because "I didn't know you get to hit three times."
+> - Mudcat: **the longest fight they've had, round 12 or more** (they've been to round 10 before). Mac: Chancy would brag about having the longest fight.
+> - If Chancy hadn't flown them out of the well, the DMs hadn't decided what would happen ("probably would have intervened… more ghosts"). Caustic Phoenix: the players interacted with Christina "in a way I did not plan."
 

@@ -142,12 +142,12 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 - **Died to a roundhouse kick and froze in orbit.** His wife is **Prego** ("Tell my wife, Prego, I tried").
 - Called "Mr. Pizza Sauce" and "Mr. Marinara" by Teddy.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew; Vythorn in the Season of Fate).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat; Vythorn in the Season of Fate).
 - Wears **"Italian leather" shoes** (Thea says cacti leather).
 - Fired Thea for sleeping in his throne, then put her on probation. Kept her on "for logistics" after the match and returned her clipboard.
 - Wants firmer hygiene in the Dread Fortress. Has **white wings**. Announced the first Royal Rumble.
 
-**[[Characters/Thea|Thea]]** (Bec). The Lord of Fate's assistant.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Lord of Fate's assistant.
 - **Slept and drooled in his throne** ("I put a towel down first"). Says she can't read minds.
 - Booked both fighters as returning favorites. Keeps a clipboard, but wrote notes on her hand while he had it.
 - The **resident chinchilla hair expert**. Fainted at Teddy's pose. Kept her job.
@@ -173,7 +173,7 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 ### Lore statements (Season of Fate)
 - The Acolytes trigger chaotic events by "demanding blood."
 - The Box of Chaos trades magical items for offerings, and the shadowy figure inside judges their value.
-- Each event "hits harder": Drew rules 1, then 2, then 3 damage on a failed save.
+- Each event "hits harder": Mudcat rules 1, then 2, then 3 damage on a failed save.
 - A tie at four fatigues kills both champions (rule as stated).
 - This was the longest fight of the season (nine rounds).
 
@@ -181,7 +181,7 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Dread Fortress throne room
 > 1. **0:05:22** Cold open with shouting: "Welcome to D20 Deathmatch, everyone, where we are loud for no reason and you can all suck it. That's it, that's the show, good night." Thea objects that they have more planned "besides just the Lord of Fate screaming his head off." The Lord of Fate: "we have more planned, but it's not going to be any good."
-> 2. **0:05:58** The **walls of the Dread Fortress are moist with condensation where the lava meets the cool air inside.** The **Lord of Fate's Italian leather shoes** clack across the cold stone. Bec says they're fake, **"cacti leather"**. He insists they're handcrafted. She replies: "Cacti leather is still handcrafted."
+> 2. **0:05:58** The **walls of the Dread Fortress are moist with condensation where the lava meets the cool air inside.** The **Lord of Fate's Italian leather shoes** clack across the cold stone. Caustic Phoenix says they're fake, **"cacti leather"**. He insists they're handcrafted. She replies: "Cacti leather is still handcrafted."
 > 3. **0:06:30** He is searching for **Thea, "because she's never where she needs to be."** He hears noises from the throne room and finds **Thea asleep in his throne**. He tiptoes up and puts his face right into hers: "Are you enjoying your nap?" She flutters away, **wiping drool "pouring from her mouth like a waterfall."** "I'm fine!"
 > 4. **0:07:32 — Fired.** "I could put up with a lot of bullshit, but this is the last straw… It's sleeping in my throne… **You're fired.**" Thea: "**Are you gonna burn me?**" He points out that she thought it inappropriate to put her feet where his feet have been, "but not to put your butt cheeks where my butt cheeks have been." Thea: "**Oh, uh, I put a towel down first.**"
 > 5. **0:08:26 — The clipboard.** "Hand in your clipboard." She hands it over, but points out that she has put together a match "**super, like, butt cheek impression good**… some seasons just cup your butt cheeks nicely." He: "I don't need to hear you talk about butt cheeks anymore."
@@ -194,7 +194,7 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 >
 > ### The arena — the rings of the gas giant
 > 12. **0:12:47** Thea claps again and the Dread Fortress fades away. They stand on rocky ground in **open space, "literal space"**: "the vast void now becomes greater." Infinite stars fill the sky, and a **giant purple gaseous planet** roars nearby, its **thunderous storms** audible. The battle takes place **on its orange rings, "the meteorite's ring."** Thea: "**I brought you here because I thought the two of you were out of this world.**" Ragu boos.
-> 13. **0:13:37 — The retcon.** Bec, "as a DM," declares that the audience goes wild laughing at Thea's joke. Drew, "as the other DM," **retcons all of that.** In revenge, **Thea gives both champions disadvantage on initiative "because fuck you both for not laughing at my good joke."** Teddy: "You did not instruct when laughter should begin." Thea: "everything Thea says is gold."
+> 13. **0:13:37 — The retcon.** Caustic Phoenix, "as a DM," declares that the audience goes wild laughing at Thea's joke. Mudcat, "as the other DM," **retcons all of that.** In revenge, **Thea gives both champions disadvantage on initiative "because fuck you both for not laughing at my good joke."** Teddy: "You did not instruct when laughter should begin." Thea: "everything Thea says is gold."
 > 14. **0:15:09** Ragu: "**Pimp smack your ass, bitch.**" He rolls a 2, so **Teddy goes first**. Teddy: "**Praise me! Adore me!**"
 > 15. **0:15:33 — The crowd.** The Acolytes scream "Teddy, Teddy," rip off their shirts and spill **blue slushies**. **The concession stands have started selling Teddy Oso shotguns, and the Acolytes are firing them wildly into the air.**
 >
@@ -273,7 +273,7 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 > ### Round 9 — the roundhouse
 > 67. **1:22:40** "**This is the furthest we've gone this season.**" Thea: "No one has had this level of endurance." Ragu is at 3 fighting spirit.
 > 68. **1:23:00** Teddy **jumps, fakes a kick, then lands a real roundhouse to the face**, applying a **bloody face** status. He lands and immediately spins into another. Ragu: "It's the GG's."
-> 69. **1:24:02 — The kill (Bec).** "**In that moment slow motion does indeed happen** as it begins to spin, your leg coming in for that second kick. **It hits in the jaw, dislodging that gorgeous manscaped face. Ragu completely cracking it off its hinges.** The crowd also in slow motion… Blue slushies spilling everywhere." Asked what goes through his mind, Ragu: "**It's officially still a bitch though. You suck.**" "A voice echoes from beyond the grave."
+> 69. **1:24:02 — The kill (Caustic Phoenix).** "**In that moment slow motion does indeed happen** as it begins to spin, your leg coming in for that second kick. **It hits in the jaw, dislodging that gorgeous manscaped face. Ragu completely cracking it off its hinges.** The crowd also in slow motion… Blue slushies spilling everywhere." Asked what goes through his mind, Ragu: "**It's officially still a bitch though. You suck.**" "A voice echoes from beyond the grave."
 > 70. **1:25:12** **Ragu floats into orbit, his body freezing "just like the chinchilla that he failed to save earlier."** Ragu: "**Yeah, I died to a fucking roadhouse kick. Tell my wife, Prego, I tried.**" His tongue sticks out and freezes as he drifts into space.
 > 71. **1:25:49 — Victory.** "Teddy Oso, you are victorious, taking another life today! **30,001!**" Thea: "Don't I earn my job, Lord of Fate?" He: "**We're this far into the season. I really can't afford to replace you right now.** So it's more of a logistics thing, but sure… **Here's your clipboard.**"
 > 72. **1:26:43** Thea **grabs Teddy by the stomach and swings him around in a victory swirl.** **Teddy wins the Chevy Impala**: "A brand new car!"
@@ -291,9 +291,9 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 > - **1:36:56** Ragu's lesson: "**Protect your areolas, man**… I need shields… I even had a shield and I lost it… I need to go and resurrect them." Thea: "a private story for Ragu, his own mini-adventure to find his own areolas." Ragu: "Sounds like a one-shot to me. **Diary of an areola-is-less.**"
 >
 > **Out-of-character (creator notes):**
-> - 1:29:06 Drew: this was the last regular-season match of the season, before the first Royal Rumble next week.
-> - Bec on the dice: many nat 20s and a few nat 1s; strong first half, low rolls in the second.
-> - Teddy took it slow in the first half so he wouldn't "finish this whole thing before the break." Bec: the pose belongs "in a Target advertisement."
-> - Drew: "You didn't die to a pun this time" (refers to Teddy's previous outing).
-> - 1:37:38 Drew: "We'll see you all on the final episode of D20 Deathmatch."
+> - 1:29:06 Mudcat: this was the last regular-season match of the season, before the first Royal Rumble next week.
+> - Caustic Phoenix on the dice: many nat 20s and a few nat 1s; strong first half, low rolls in the second.
+> - Teddy took it slow in the first half so he wouldn't "finish this whole thing before the break." Caustic Phoenix: the pose belongs "in a Target advertisement."
+> - Mudcat: "You didn't die to a pun this time" (refers to Teddy's previous outing).
+> - 1:37:38 Mudcat: "We'll see you all on the final episode of D20 Deathmatch."
 

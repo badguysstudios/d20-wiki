@@ -140,33 +140,33 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
   - Offered to be Seavold's knight protecting all undead and was rejected.
   - Realized "have I become the thing I was fighting against?" He passed the torch to TD and died as dust.
 
-**[[Characters/Thea|Thea]]** (Bec)
+**[[Characters/Thea|Thea]]** (Caustic Phoenix)
 - **A little pink, illiterate creature.** The Arbiter calls her "a mindless worm that I plucked from the soil to do my bidding" and his "ward."
 - Loots organs in his secret lab for "the army." Opens his mail.
 - Insists on calling him Daddy, and settles for **Papa**.
 - Summons champions with a fart portal. Volunteered "as tribute." She has had a lot of Tooth Fairy money via "a good dental program."
 - Polymorphed into a **pink T-Rex**, she body-slammed and gnawed the Wall of Force, then napped by the fountain.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Has a **secret lab of cadavers in the Dread Fortress** ("I'm using that").
 - Wears (probably fake) Italian leather shoes. Denies being anyone's father; known to call himself "daddy" and "Dice Daddy."
 - Interfered to give Jerry the Box of Chaos.
 - Threatened both champions with his metal chair.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Chose TD as champion. Offended by "Dread Hut."
 - Set the pizza-buffet prize and protected the baby ducks.
 - **Owner of the orc skull at the Dread Fortress** and keeper of its name.
 - Ruled double damage via the "agony" and delivered TD's pizza.
 
-**[[Characters/Seavold|Seavold]]** (voiced by Bec; spelling uncertain)
+**[[Characters/Seavold|Seavold]]** (voiced by Caustic Phoenix; spelling uncertain)
 - **The giant orc skull outside the Dread Fortress**, owned by the Grandmaster. "No one has ever asked its name before."
 - Has a soul Jerry could commune with, with history glimpsed in flashes. Its eyes glow, and **a jaw rose from the ground to complete it**.
 - **First time anyone has seen the Dread Fortress speak or move.**
 - Calls Jerry "an ant," looks down on both champions, and called the match "a farce."
 - Attacked as a chaos event with insults ("calculator").
 
-**[[Lore/The Box of Chaos|The Box of Chaos]]** (Drew)
+**[[Lore/The Box of Chaos|The Box of Chaos]]** (Mudcat)
 - Black inky tendrils; yellow and pink fire.
 - Took Jerry's bones ("I'm building something") and gave the wand of polymorph.
 - **"Mr. Box was my father. He's dead now."** (speaker inferred: the Box)
@@ -197,12 +197,12 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
 - **The Dread Fortress has a giant orc skull** outside it, which belongs to the Grandmaster and is named Seavold. It can speak and move, and the Acolytes had never seen that before.
 - The Arbiter keeps "an army" (Thea's gift is for it).
 - The Arbiter can transport the arena by clapping; Seavold's pull also shifted the fight to the fortress lawn.
-- In Dried Blood, Drew calls the Arbiter "master of all time and space."
+- In Dried Blood, Mudcat calls the Arbiter "master of all time and space."
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the secret lab (Father's Day)
-> 1. **0:00:46** Cadavers lie about in an **open lab deep inside the Dread Fortress**. Bec first says "castle," then corrects herself to "fortress." **Thea, "a little pink thing," hops from body to body looting organs**: hearts, livers, a few gallbladders, and strings of intestine. She wraps them into **a bouquet of internal organs**. "Intestines!… **The army's gonna love this!**"
+> 1. **0:00:46** Cadavers lie about in an **open lab deep inside the Dread Fortress**. Caustic Phoenix first says "castle," then corrects herself to "fortress." **Thea, "a little pink thing," hops from body to body looting organs**: hearts, livers, a few gallbladders, and strings of intestine. She wraps them into **a bouquet of internal organs**. "Intestines!… **The army's gonna love this!**"
 > 2. **0:02:10** The Arbiter's **Italian leather shoes ("probably fake")** click down the stone as he comes looking for Thea. Someone shouts "You're not supposed to be here!" (speaker uncertain). The Arbiter: "What are you doing in my lab?… **This is my secret lab. No one's supposed to know about this place.**"
 > 3. **0:02:32** Thea unveils the falling-apart bouquet: "**Happy Father's Day!**" The Arbiter: "Number one, that's fucking disgusting… Number two, I am not your father." Thea: "But some people call you daddy." He asks whether she's been reading his mail. Thea: "**You know I'm illiterate**, so that's not true. But I have been opening it!" She says the bouquet "looks just like you" and shoves it into his hands.
 > 4. **0:03:26** The Arbiter slumps to the ground: "**You are a mindless worm that I plucked from the soil to do my bidding.** That's it. It's a business relationship." Thea: "But I'm going to call you daddy." He tells her she's not old enough for him to explain. They settle on **"Papa"** ("Fine, whatever").
@@ -338,7 +338,7 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
 >     - He switches the moxie-fueled fist to **force damage**: "**Turns out that punching that wall of force taught me how to punch back with force.**" GM: "Look at you, learning with force."
 >     - "Like an instant speed spell in Magic the Gathering," his **Frightful Avatar** triggers. **TD fails and is frightened**: "**How do the kids say, egads, I am shaking in my bones.**"
 > 78. **1:45:51** The second punch is a 19–20 crit with max damage. "His bones channeling just raw force energy as Seavold continues to empower him."
-> 79. **1:47:09 — Mirrored Agony.** As Jerry thinks of his lost bone men, **TD makes him blink. Instead of bone men he sees training denizens lying on the ground, struggling under "blow after blow" from warriors who beat them down for their own success.** "**The agony that we feel will always be paramount. Reaction: mirrored agony.**" (Drew says "Heroic Surge" here; unclear.)
+> 79. **1:47:09 — Mirrored Agony.** As Jerry thinks of his lost bone men, **TD makes him blink. Instead of bone men he sees training denizens lying on the ground, struggling under "blow after blow" from warriors who beat them down for their own success.** "**The agony that we feel will always be paramount. Reaction: mirrored agony.**" (Mudcat says "Heroic Surge" here; unclear.)
 > 80. **1:47:44 — The Grandmaster's ruling (in-world).** "**This agony is devastating for both of you. The two of you are here because you have survived when your fellows have not. From here on out, every hit will do double damage.**"
 > 81. **1:48:16** TD forces a Wisdom save. Jerry: "**Oh no, have I become the thing I was fighting against?**" He rolls **a natural 20 and overcomes it.** TD: "If he could smile, you see a smile start to form because **the training is soon to be complete.**" The GM asks if the mold cracks; TD: "Just a little bit… **It almost feels Cheshire.**"
 > 82. **1:50:15** Jerry, clutching TD with his fist cocked: "**There's always another way, there's always another option, but the acolytes have a craving, and the Arbiter, the Grandmaster won't let any of us out. So maybe, just maybe, if one of us gets out of this alive, we can make a change.**" TD: "**Perhaps we can.**"
@@ -352,7 +352,7 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
 >     - Jerry: "**I'm realizing now that Jerry, like, has no utility.**"
 > 86. **1:57:27** He tries Armor of Agathys again, but his "black magic" needs **a nap** first ("These bones are getting a little creaky"). Instead he **braces** with his third moxie for temporary HP and crouches in a defensive stance.
 > 87. **1:59:16 — The prayer.** "Grandmaster, remind me… our orc skull man's name." "**Seavold, I need you to see me right now. Please see me, please, please… For all the bones, for all the bones, please see me.**" With a dirty 20 on persuasion, **the skull's eyes light up and a jaw emerges from the ground, snapping shut to finish the skull.**
-> 88. **2:00:19 — Seavold speaks** (Bec). Jerry: "**Seavold, grant me the power to defeat my enemies, and my life is yours.**" Seavold: "**You would serve me.**" Jerry: "**I wish to be the baddest bones in the Dread Fortress.**" Seavold: "**If you cannot win this fight, why would I want you as a pawn? What good are you to me?**" Jerry: "**I would choose not to be a pawn, but I would choose instead to be a knight. A knight that will defend all undead, protect all bones, all skeletons, even the ones inside of the people that have flesh still.**"
+> 88. **2:00:19 — Seavold speaks** (Caustic Phoenix). Jerry: "**Seavold, grant me the power to defeat my enemies, and my life is yours.**" Seavold: "**You would serve me.**" Jerry: "**I wish to be the baddest bones in the Dread Fortress.**" Seavold: "**If you cannot win this fight, why would I want you as a pawn? What good are you to me?**" Jerry: "**I would choose not to be a pawn, but I would choose instead to be a knight. A knight that will defend all undead, protect all bones, all skeletons, even the ones inside of the people that have flesh still.**"
 > 89. **2:01:09** Seavold counters the persuasion: "**Seavold. You are but an ant to me.**" The eyes go out.
 > 90. **2:01:43 — Silvery Barbs.** TD intervenes for Jerry: "**One can't train if they don't have a chance to grow and you are stifling this one's potential. You sound like just like every other adventurer out there who sees this as nothing more as numbers in their next level up.**" The eyes light up again, turned on both of them. Seavold: "**I will look down on whoever I want. This match is a farce.**" He rerolls; the exchange ends with Seavold not granting Jerry power (exact result unclear). Jerry: "TD, I appreciate the assist, buddy… that kind of took the wind out of my sails."
 >
@@ -362,7 +362,7 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
 > 93. **2:06:11 — Round 9, the Arbiter's ultimatum.** "**All damage is tripled. Somebody needs to fucking die.**" **The Arbiter stands and pulls out his metal chair:** "**If one of you guys doesn't die, I'm gonna come down there and fucking kill you both.**"
 >
 > ### The end
-> 94. **2:06:40** TD to Jerry: "**There's a lesson to be had here, right? What can we learn from this? Only one.**" It casts **Psychic Lance ("Raulothim's")** on Jerry. Jerry fails the Intelligence save ("there's no matter in here"). He leads **a "Bonesman!" chant in the crowd**, and Drew joins in. With triple damage and the adrenaline crit, it comes to **204 damage**.
+> 94. **2:06:40** TD to Jerry: "**There's a lesson to be had here, right? What can we learn from this? Only one.**" It casts **Psychic Lance ("Raulothim's")** on Jerry. Jerry fails the Intelligence save ("there's no matter in here"). He leads **a "Bonesman!" chant in the crowd**, and Mudcat joins in. With triple damage and the adrenaline crit, it comes to **204 damage**.
 > 95. **2:08:43 — The Grandmaster's question.** "**For the first time and the last time in your life, you're able to calculate this faster than anyone else. You're able to see that death is actually at your door.** What is going through your mind?"
 > 96. **2:09:12 — Jerry's enlightenment.** "Seavold had rejected both Jerry and TD… Jerry, running the math, does one more calculation… **no, he's the right one. He'll make this right. He can do it. He'll stop this from ever happening again** and that's how it should be… **sometimes somebody else has to take the torch.**"
 > 97. **2:10:06 — The joined hands.** TD: "At his core, **his directive is to protect**." In the last moment, **a bony hand and a metallic hand connect: "the skeletons and the dummies of the world."** "**He's doing this because while you are dead, you are not gone. And someone still has to pay.**" Then Jerry dies.
@@ -374,13 +374,13 @@ Afterward, the players looked back on how badly matched the two had been. Kyle s
 > [!abstract]- Full Dried Blood notes (click to expand)
 > - Crit Bard's **first official Deathmatch**. CB: "**I've been in the lore of the world, but not in the PvP aspect.**" The GM asks how it felt to defeat "one of your DMs in your past" (Kyle). CB: "I felt like **Nehepta** was a problem." It's unclear what this refers to.
 > - CB on PvP: they grew up watching **Celebrity Deathmatch** and sports.
-> - Bec praises the RP moments: who built TD, singing happy birthday, the fallen skeletons. "The characters were hilariously not well matched."
+> - Caustic Phoenix praises the RP moments: who built TD, singing happy birthday, the fallen skeletons. "The characters were hilariously not well matched."
 > - **Kyle's favorite moment:** the misty step and TD's "psych"; Jerry's "big shonen power up moment." The Wall of Force saga "felt like five episodes of Dragon Ball Z."
-> - Drew: the show is tongue-in-cheek and doesn't play strictly by the rules, so it was funny to see mechanics "run as intended." CB: **everything on TD was RAW.** CB expected the Wall of Force to last one turn ("you got Misty Step, right?") but couldn't say so: "I'm a literal training denizen."
+> - Mudcat: the show is tongue-in-cheek and doesn't play strictly by the rules, so it was funny to see mechanics "run as intended." CB: **everything on TD was RAW.** CB expected the Wall of Force to last one turn ("you got Misty Step, right?") but couldn't say so: "I'm a literal training denizen."
 > - **Kyle forgot Misty Step bypasses Wall of Force.** When TD dropped it, he had been planning to **dig under the dome, "cartoon shovel his way out."**
 > - CB on Jerry's arc: his brethren are discarded by adventurers, and he's still learning how to match them. Kyle: it would have been "supremely disingenuous" to make an undead character who knows everything. Jerry is "a low-level adventurer in that sort of mental sense."
-> - Bec calls Jerry "our bone salesman." Kyle (possibly in Jerry's voice): "**Bone sales. Hey, you got broken bones? We got new ones for you right here.**"
-> - **Seavold was improvised.** Kyle: "And now we have more lore about the Dread Fortress." Drew: "**I'm already done with our first lore project. Now I gotta… come up with a backstory for all this shit… Where'd the giant orc come from?**" Bec: "**We just liked his skull. We're like snails… we just found the bigger one and we moved into it… Or hermit crabs.**"
+> - Caustic Phoenix calls Jerry "our bone salesman." Kyle (possibly in Jerry's voice): "**Bone sales. Hey, you got broken bones? We got new ones for you right here.**"
+> - **Seavold was improvised.** Kyle: "And now we have more lore about the Dread Fortress." Mudcat: "**I'm already done with our first lore project. Now I gotta… come up with a backstory for all this shit… Where'd the giant orc come from?**" Caustic Phoenix: "**We just liked his skull. We're like snails… we just found the bigger one and we moved into it… Or hermit crabs.**"
 > - CB's closing quote, TD's through-line: "**The training does not end when the adventure begins.**" TD = "the training dummy, I mean denizen."
 > - Shout-outs:
 >   - **CB:** twitch.tv/SirPfeffers (Tuesdays and Saturdays), twitch.tv/CaptainRobear (Thursdays), twitch.tv/ChristianChronicles (Fridays).

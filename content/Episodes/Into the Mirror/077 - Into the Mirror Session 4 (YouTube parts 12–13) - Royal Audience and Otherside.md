@@ -17,8 +17,11 @@ arena: None; the city of the dead and a snowy mirror realm
 summary: Queen Cantressa of the city of the dead sends the party through a palace mirror to find the Orrery of Dreams, a rumored way back to the living. In a frozen mirror realm they cut into an ice cave and kill its dragon, with Cerys landing the final blow, though the Orrery is still not found.
 tags:
 - episode
+youtube: https://youtu.be/rd3ksGZbrP0
 canon_order: 77
 ---
+
+Watch on YouTube: [Part 1](https://youtu.be/rd3ksGZbrP0) · [Part 2](https://youtu.be/PavC1ebN2ok)
 
 There was no arena and no Deathmatch this time. **[[Flynry]]**, **[[Elianna]]**, **[[Toddleheim]]** and their new and not-quite-trusted companion **[[Cerys]]** were granted an audience with the rulers of the city of the dead, and they left with a quest, a mystery about the king and a pair of hand-made keepsakes. The session ended in a frozen realm on the far side of a mirror, with a dragon's blood spilling over its own gold.
 
@@ -100,7 +103,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 
 ## Who and What Appears
 ### Characters
-**Queen Cantressa** (Drew), queen of the city of the dead.
+**Queen Cantressa** (Mudcat), queen of the city of the dead.
 - Older, silver-white hair, poised and healthy-looking. Her crown is made of glowing jade-green soul gems.
 - **Her reflection matches her exactly.**
 - Welcomed Cerys into the city hundreds of years ago.
@@ -108,7 +111,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 - Laws are unwritten. Troublemakers are made outlanders and wander the sands forever.
 - Elianna senses she is truthful but holding things back.
 
-**King Quintol** (spelled "Quentil" once by Drew). Very old and frail, with cataracts, sitting statue-like.
+**King Quintol** (spelled "Quentil" once by Mudcat). Very old and frail, with cataracts, sitting statue-like.
 - **His reflection is a young, black-haired, bearded, robust warrior in fine silver armor, cheerful with a goblet of wine.**
 - Per Cantressa, he went searching for the Orrery himself and "was returned to me" with sand sickness.
 - He showed a flicker of recognition when Flynry addressed him.
@@ -143,9 +146,9 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 - Keeps his remembrance stone in his pocket.
 - In the fight: shrank the dragon with Reduce, then Fire Bolt and werewolf form.
 
-**The servant(s)** (Drew). Led the party to the mirror. Has never been through one himself and knew nothing of mirror murders.
+**The servant(s)** (Mudcat). Led the party to the mirror. Has never been through one himself and knew nothing of mirror murders.
 
-**The ice dragon** (Drew). A large dragon with an ice breath that also resealed the cave mouth, lair actions (falling icicles), and a strong Charisma save. Killed by Cerys, and turned to snow before hitting the ground.
+**The ice dragon** (Mudcat). A large dragon with an ice breath that also resealed the cave mouth, lair actions (falling icicles), and a strong Charisma save. Killed by Cerys, and turned to snow before hitting the ground.
 
 **[[Characters/Kenny|Kenny]]**. Appears only as Flynry's illusion: one-armed, greedily pocketing gold.
 
@@ -236,7 +239,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 >     - He points out that the guard they questioned assumed sand sickness, and that sand sickness also "took the king." "I think it might be something worth noting."
 > 22. **0:26:31 The drawing.** Elianna shows Toddleheim her drawing of the king's reflection. Toddleheim: "Very robust belly on that man."
 >     - Elianna: "He is, as some would call, a big boy."
->     - Drew chimes in: "I believe the word is rotund… I prefer robust" (speaker uncertain: DM aside or an NPC voice).
+>     - Mudcat chimes in: "I believe the word is rotund… I prefer robust" (speaker uncertain: DM aside or an NPC voice).
 >     - Elianna: "Robust is nice. Rotund is like, oh. It's like Kirby."
 >     - Toddleheim: "it would seem quite odd for him to be returned in the state that he's in, given the prowess that he appeared to have had."
 > 23. **0:27:28** Elianna: "I don't think the queen is lying, but there's definitely more she's not telling us… we might run into a lot of trouble for this, and we just met them." Toddleheim: "You and me both. Hope you're ready for some more adventures."
@@ -260,7 +263,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 >
 > #### The remembrance stones
 > 29. **0:34:15** Elianna knows that heated sand makes glass. She has sand with her: **the sand remains of Flynry and Toddleheim's friend** (a "her," not named in this episode).
-> 30. **0:35:08** She heats the sand in a stone cup in the giant fireplace to cast **two small glass gems "so that they can carry their friend around as a remembrance stone."** Toddleheim offers his mason's tools ("I am a dwarf, so I can probably help"). Drew lets her book knowledge carry it.
+> 30. **0:35:08** She heats the sand in a stone cup in the giant fireplace to cast **two small glass gems "so that they can carry their friend around as a remembrance stone."** Toddleheim offers his mason's tools ("I am a dwarf, so I can probably help"). Mudcat lets her book knowledge carry it.
 >     - She casts the glass into a rough oval, not smooth or flat, in two small pieces.
 >     - It is very shiny and reflective, in a color **similar to the soul gems** being traded in the city, though not as bright: "an echo of something of that nature."
 > 31. **0:38:21 Flynry's thanks.** She hands one piece each to Flynry and Toddleheim. Flynry is taken aback by the thoughtfulness from someone he met so recently. He takes her hand: "**thank you for keeping what's left of her safe for so long.**" He ties a leather-strap harness around the stone and wears it around his neck, then sits, nods and thinks.
@@ -286,7 +289,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 > ### Part 13: Otherside (inferred to start ~0:49:38)
 >
 > #### The snowy ruins
-> 40. **0:49:38** They arrive at **snow-covered ruins of some past structure, with stairs leading up the mountainside into the mountain**, surrounded by trees. Drew: "straight ripped out of Skyrim."
+> 40. **0:49:38** They arrive at **snow-covered ruins of some past structure, with stairs leading up the mountainside into the mountain**, surrounded by trees. Mudcat: "straight ripped out of Skyrim."
 > 41. **0:50:18** Flynry: "**the queen could have told us to pack a coat.**" Toddleheim: "Did anybody ask how we get back?"
 >     - **The mirror is gone. In the blink of their crossing it scattered into sand, which became snow.**
 >     - Toddleheim suggests saying the name of the city. Cerys: "it worked in the other location. I think it should work here as well." Toddleheim: "We'll find out in time."
@@ -314,9 +317,9 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 > 51. **1:03:38 Breath weapon.** The dragon goes first. It lands before them with a roar and breathes **an icy cold breath**.
 >     - Elianna fails the save: "with your lack of battle experience, not quite as fast, not quite as hardy." She takes the full blast, is "knocked on my ass" and is bloodied.
 >     - The others dodge for half.
->     - **The breath hits the ice wall behind them and refreezes the doorway they melted, sealing them in.** Flynry: "So we're not going to run is what you're telling me." Drew: "sometimes I'm a genius by mistake."
->     - Toddleheim: "To be fair, I can teleport, so… I might see you guys later." Drew: he'd be "spending the rest of his life on this mountainside. Leo DiCaprio style."
-> 52. **1:07:04 Toddleheim shrinks the dragon.** Drew rules that **Reduce** will halve its claw and bite damage, though not the breath. The dragon fails its save. Toddleheim describes it:
+>     - **The breath hits the ice wall behind them and refreezes the doorway they melted, sealing them in.** Flynry: "So we're not going to run is what you're telling me." Mudcat: "sometimes I'm a genius by mistake."
+>     - Toddleheim: "To be fair, I can teleport, so… I might see you guys later." Mudcat: he'd be "spending the rest of his life on this mountainside. Leo DiCaprio style."
+> 52. **1:07:04 Toddleheim shrinks the dragon.** Mudcat rules that **Reduce** will halve its claw and bite damage, though not the breath. The dragon fails its save. Toddleheim describes it:
 >     - He summons energy from within, his hands turn blue, and it concentrates into a ball of light as the snow whips around him.
 >     - He shoots it at the dragon, which staggers "like in Skyrim when you shoot it with a bow and arrow while it's flying."
 >     - **Its wings crack and shrink, and it yelps in pain** as it becomes smaller, "but not as small as I would like."
@@ -335,11 +338,11 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 > 56. **1:18:49 The dragon finds Kenny.** It rears up with its wings and stomps.
 >     - The cave shakes and **icicles and shards of ice rain down on "Kenny,"** passing through and shattering the illusion. It realizes it has been duped and is angry.
 >     - It turns on Cerys with claw and bite. **Both miss**: in its rage it **slips on the shifting gold**, its feet unsteady as a pile slides beneath it.
->     - Drew: avoiding that lair action "was huge."
+>     - Mudcat: avoiding that lair action "was huge."
 > 57. **1:21:18 Toddleheim.** He considers making Elianna invisible, and doesn't want to be "cornered with an afraid dragon in his lair."
 >     - He casts **Fire Bolt**, a glancing hit for half damage, but **the fire works as intended**.
->     - He asks whether his **werewolf form** resists cold. It doesn't; it resists physical damage. **Drew rules he can still cast spells as a werewolf**, so **Toddleheim transforms**.
->     - Flynry: "Do you in the mirror realm, baby?" and wishes Toddleheim could keep "his little hat" as a werewolf. Drew: "Get some artwork done. Don't worry, I'm working on it."
+>     - He asks whether his **werewolf form** resists cold. It doesn't; it resists physical damage. **Mudcat rules he can still cast spells as a werewolf**, so **Toddleheim transforms**.
+>     - Flynry: "Do you in the mirror realm, baby?" and wishes Toddleheim could keep "his little hat" as a werewolf. Mudcat: "Get some artwork done. Don't worry, I'm working on it."
 > 58. **1:23:54 Flynry's flaming greatsword.** He closes distance and goes for a leg ("I'm not quite going to go for the jaws. I'm not that brave"), hoping to slow it.
 >     - **His burning sword cuts deep and singes the flesh.** Two hits leave **the dragon bloodied**.
 >     - He asks about "Pokemon rules" (fire against ice). No bonus, but it works.
@@ -349,7 +352,7 @@ Then Cerys stepped in beside Flynry and struck perfectly, twice. She gave Flynry
 >     - **Shield of Faith** on Flynry: "this glowing cross kind of like flashes in front of his chest… it just like encases Flynry in this like glowing yellow light… fades out a little bit just so it doesn't like block his vision… this like warm, pleasant light."
 > 60. **1:30:50 Cerys kills the dragon.** She moves into melee beside Flynry.
 >     - **Her first strike is a natural 20, and she adds Divine Smite.** Her second attack also comes up big ("Are you kidding?… I have ascended"; inferred to be another natural 20, not stated).
->     - Drew: "Cerys. Write its obituary."
+>     - Mudcat: "Cerys. Write its obituary."
 >     - **She looks at Flynry, gives a little smirk, and strikes into the dragon's neck.** A glimpse of **the same divine light Flynry saw when he first met her** flashes as she strikes.
 >     - **The dragon's blood pours over the gold. It staggers, and before it can hit the ground, it becomes snow.**
 > 61. **1:34:23** End of file. There is no sign-off, and the Orrery has not been found yet.

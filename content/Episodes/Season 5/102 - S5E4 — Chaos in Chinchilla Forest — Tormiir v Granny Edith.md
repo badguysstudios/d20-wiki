@@ -139,17 +139,17 @@ In the recovery room, both champions were revived, their cuts and bruises healin
 - **Sayings:** "stressed is desserts spelled backwards," "all you need is loaves," "where there's a whisk, there's a way," "life is what you bake it."
 - Favorite food: her great-grandma's bread and butter pudding.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). Came into "this seat of power rather abruptly… not everyone's happy about it," and worries about optics.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat). Came into "this seat of power rather abruptly… not everyone's happy about it," and worries about optics.
 - Keeps a **report** on Thea; draws stars on her forehead in ink.
 - **Reverses time** to heal Thea. **Splits into two winged duplicates** with metal chairs. Summons the Box of Chaos.
 - Always sits on a folding chair. **Outlawed tuna juice.** Threatened to have Doug roll for Thea.
 
-**[[Characters/Thea|Thea]]** (Bec). The Lord of Fate's imp assistant, "an admin, not a champion."
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Lord of Fate's imp assistant, "an admin, not a champion."
 - Packs picnics, creates the doughnut portal, and dodges like a matador.
 - Ate a whole bag of Doritos, bag included. Told she's "a lord now."
 - Ends the episode with **five ink stars on her forehead.**
 
-**The Box of Chaos's shadowy figure** (Drew). Trades items for offerings: Granny's brownie, Tormiir's spit (inferred). Calls Tormiir "mama's boy."
+**The Box of Chaos's shadowy figure** (Mudcat). Trades items for offerings: Granny's brownie, Tormiir's spit (inferred). Calls Tormiir "mama's boy."
 
 **Others:**
 - **[[Characters/Doug the Pug|Doug]]**: mentioned as a potential roller, not present.
@@ -311,7 +311,7 @@ In the recovery room, both champions were revived, their cuts and bruises healin
 > ### Round 5 — the udders
 > 54. **1:01:41** Tormiir, at four fatigue ("I'm not doing great"; Thea: "you never look good to begin with"), uses the box.
 >     - The figure: "**What do you want, mama's boy?**" Tormiir: "I don't talk about my mama."
->     - **He apparently pays in spit**: the figure "licks the spit off his face." Thea: "That's disgusting." *(Inferred from "as he licks the spit off his face" and Drew's "Yes" to "was this give the spit?")*
+>     - **He apparently pays in spit**: the figure "licks the spit off his face." Thea: "That's disgusting." *(Inferred from "as he licks the spit off his face" and Mudcat's "Yes" to "was this give the spit?")*
 > 55. **1:02:48 — The onyx blade.** **The sword he never used ("I forgot I had a weapon") turns from silver to black, an onyx blade that sings as it slices the air.** It gives +1 bloodlust to all his abilities.
 >     - Thea's warning: **on a natural 1 attack "the blade will be destroyed, but so will probably you."**
 >     - "Thank you, little gobble baby." **He kisses the figure on the forehead.** "Gross." It wipes off the kiss, and the box shuts and flies back into the sky.
@@ -381,7 +381,7 @@ In the recovery room, both champions were revived, their cuts and bruises healin
 > **Out-of-character (creator notes):**
 > - Cucumber thought from the start he'd die of fatigue because he forgot about power-ups; "thank God for that wonderful water break."
 > - The Granny player: "those dice were rigged… so many 10s"; she felt confident until fatigue caught up "in such a lovely narrative moment."
-> - Drew: with brand-new characters, "You guys really told a whole fucking arc."
+> - Mudcat: with brand-new characters, "You guys really told a whole fucking arc."
 > - **Cucumber has played Tormiir in D&D before** and had more fun with him here.
-> - Tormiir's player's closing message, "separate from anything we're doing tonight": "You never know what anybody's going through. Be kind." Bec echoes it.
+> - Tormiir's player's closing message, "separate from anything we're doing tonight": "You never know what anybody's going through. Be kind." Caustic Phoenix echoes it.
 

@@ -130,7 +130,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 - Rejected the blue pill ("I only take red pills"). Wore the Arbiter's blue ring wrapped in a mustache.
 - Died of a "coronary"/"pulmonary" after his Peloton lightning heroic surge. Left a dead man's switch recording.
 
-**[[Characters/Thea|Thea]]** (Bec). An imp, formerly "a virginal worm."
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). An imp, formerly "a virginal worm."
 - The Lord of Fate made her an imp and gave her a bedroom. He calls her a 1099 independent contractor with no PTO. She got a 1099-NEC, with the acolytes helping her with the paperwork.
 - Has stars carved into her forehead by the Lord of Fate (she claims seven). Still missing her thumb.
 - Opens portals by farting (pink dust, purple glitter; a whale-sized portal smelling of Oreos, burritos and nacho cheese).
@@ -138,7 +138,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 - Planned PTO for February. Briefly declared herself "a people" and ate nine hot dogs. Has a notebook ("Get more eyes").
 - Was thrown as a javelin and caught by a frog tongue.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat).
 - Watches protesters from windows and breathes heavily. Insists watching people "is my job."
 - Admits he forgot the Deathmatch day.
 - Has white wings. Twists Thea into a pretzel with a snap.
@@ -147,7 +147,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 
 **[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**: not present. Imprisoned by the Lord of Fate "at the very start of the season"; protesters' signs are about her. Thea: "everybody wants the Grandmaster back."
 
-**The Box of Chaos's shadowy figure** (voiced by Drew): yellow eyes, claws out over the lid, chomps a sacrificed frog like a shark. Critiques Richard's beard.
+**The Box of Chaos's shadowy figure** (voiced by Mudcat): yellow eyes, claws out over the lid, chomps a sacrificed frog like a shark. Critiques Richard's beard.
 
 **Bully ghost**: a white wisp, one of many who died in the Crimson Keep. It made both champions hit themselves.
 
@@ -257,7 +257,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 >
 > ### Round 4 — the Box of Chaos (1:10:34)
 > 62. **The Lord of Fate claps; thunder cracks and the Box of Chaos slams down. A column of pink and yellow fire shoots up and a shadowy figure with yellow eyes claws its way out over the lid.** Bofus: "Take all my actions. Give me the shiny shit."
-> 63. **1:11:36 — Richard and the box.** "Hello in there." The figure (Drew): "**I can hear you and I can see your shitty beard.**" "Do you grant wishes?" "No, but just give me something cool." **Richard hands over something very sweaty that he uses for Peloton instruction (the item isn't named) and that "smells like cheeseburgers."**
+> 63. **1:11:36 — Richard and the box.** "Hello in there." The figure (Mudcat): "**I can hear you and I can see your shitty beard.**" "Do you grant wishes?" "No, but just give me something cool." **Richard hands over something very sweaty that he uses for Peloton instruction (the item isn't named) and that "smells like cheeseburgers."**
 > 64. **1:12:34 — The blue pill (roll 8).** Thea: one of the most rolled items. **A hand of blackened soul floats out a small blue pill: "This should keep you going all night long." It raises the fatigue death limit from five to six, "and if your deathmatch lasts longer than four hours, then that's your problem."** Richard asks whether he chews or swallows it. Thea: "**It's a suppository.**" Richard: "More things on the orifices… **I only take red pills… I'm not taking your sissy blue pill!**" **He throws it back into the box** (a second sacrifice, costing a fatigue).
 > 65. **1:14:08 — The Arbiter's blue ring (roll 10).** "You know what this pretty boy needs? Some jewelry." **The figure hands him "a blue ring, once belonging to the Arbiter, aka the Lord of Fate." Wearing it, he is master of time and space for one round, and all his opponent's attacks are at disadvantage.** He puts it on. **He wraps a mustache around the ring "to solidify that it is mine."** The Lord of Fate: "I really wish you wouldn't do that… **I want that back when this is done. I've been looking for that.**" Richard holds the ring up like a finger gun ("Ring of power… activate"). It's purely defensive, so he punches with it instead and misses.
 > 66. **1:16:53 — Bofus feeds the box.** **He pulls three different-colored frogs from under the mask ("Dias colors… If anybody gets that meme"), salutes one ("thank you for your service") and drops it in. The shadowy figure chomps it like a shark.** Roll 2: **the fire returns, with the smell of tea offered by "those who have died in there," plus a small vial of black ethereal liquid that screams when opened. Consuming the soul inside lets him swap his bloodlust and instinct for one round.** He holds on to it; it isn't seen used.
@@ -266,7 +266,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 >
 > ### Round 5 — the Peloton
 > 69. **1:23:12** Richard: "You think I was teleported here via a portal. That is not true. **I drove here on my Peloton bike**." **He picks up the bike and throws it at Bofus (a power-up).** Bofus defends with **a natural 20 and catches the Peloton**, gaining more fighting spirit and a second adrenaline. Thea: "**You literally have had more fighting spirit than I think anyone in the arena has ever had.**" Bofus: "I'm just feeding off of this man's incompetence… let them come find me. I'm clearly fucking ready."
-> 70. **1:24:43 — Keep-away.** Bofus holds the bike over Richard's head. Richard: "I'm like six foot! How are you this tall?" Bofus: "**He's a respectable five foot two. He's just got really long arms… they come down to just below his knees.**" Bofus asks whether he can make a Donald Trump joke; Drew says no. Richard: "**I'm 5'10 and a half.**" "My mother says I'm six foot." Only one of the Peloton's wheels spins. Richard's grab misses. Bofus: "At this point this just feels like bullying." The Lord of Fate: "Don't worry, he deserves it."
+> 70. **1:24:43 — Keep-away.** Bofus holds the bike over Richard's head. Richard: "I'm like six foot! How are you this tall?" Bofus: "**He's a respectable five foot two. He's just got really long arms… they come down to just below his knees.**" Bofus asks whether he can make a Donald Trump joke; Mudcat says no. Richard: "**I'm 5'10 and a half.**" "My mother says I'm six foot." Only one of the Peloton's wheels spins. Richard's grab misses. Bofus: "At this point this just feels like bullying." The Lord of Fate: "Don't worry, he deserves it."
 > 71. **1:27:02 — On Thea's shoulders.** Thea jumps for the bike too; she reckons she and Richard are the same height. **Richard climbs onto Thea's shoulders and gets the bike back.** Thea: "**My head is flat now.**" Richard: "**I gotta get down. I'm afraid of heights.**" Thea collapses; he "lands gracefully on the bike."
 > 72. **1:28:29 — The insult.** Richard used the full name, so Bofus takes offense ("Very un-Christian of you"). Then: "**You keep your peloton. You'll never go anywhere on it anyway.**" Thea suggests making it a status effect, "stinging damage… mentally haunt him." It's "vicious mockery" through "millimeter thick tin foil." **A tie: both take a fatigue (both now at four).** Richard: "I'm gonna win this race."
 > 73. **1:30:04** Bofus forgets the second box sacrifice costs fatigue ("I am a benevolent king"). **Thea coats his hand with poison**, but too much makes him slip on the punch. He circles to hit the back of Richard's head while Richard pedals: "**You can't pedal away from this problem, sir.**" "Peloton powers activate." He tries to rip off the tinfoil hat and misses. "**Now I know how you feel.**" Finally he goes for the eyes, "**Minsc and Boo style**," and **rips off Richard's sunglasses** (a hit). "That was a lot for one point."
@@ -282,7 +282,7 @@ After the match, Bofus's player offered a half-apology for the smack talk, which
 > 80. A recording of Richard plays: "**In the unlikely event of my death, this is what I call a live man switch. As in, if I die, it goes live.**" The list:
 >     - Walt Disney is still alive; every eight months they unfreeze him and feed him small Cuban children.
 >     - The moon landing was faked, and the moon itself is a hologram.
->     - Leprechauns control the world's gold supply. (This line is tagged to Drew's speaker ID; it's probably mis-diarized.)
+>     - Leprechauns control the world's gold supply. (This line is tagged to Mudcat's speaker ID; it's probably mis-diarized.)
 >     - Earth is flat, "but so is every other planet. **It's called pancake space.**"
 >     - Avocado toast is an alien mind-control device targeting millennials.
 >     - Traffic jams are caused by invisible parades.

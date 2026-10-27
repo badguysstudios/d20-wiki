@@ -14,8 +14,11 @@ arena: The Gilded Thresh Hollow and the back of a dragon
 summary: In the very first Deathmatch, the old axe-swinging Ditch Em' Darrell is charmed and tricked by the snake-woman Eshrinn atop a waking dragon, but he blasts her dead to become the first champion. Afterwards the Arbiter secretly carries her body to his hidden lair and brings her back to life.
 tags:
 - episode
+youtube: https://youtu.be/kHbOuDPSSaA
 canon_order: 10
 ---
+
+[Watch on YouTube](https://youtu.be/kHbOuDPSSaA)
 
 The first ever Deathmatch pitted **[[Ditch Em' Darrell]]**, a grizzled old axe-man with a barbecue-sauced mustache, against **[[Eshrinn]]**, a snake-woman and self-styled master of spells and poisons. They fought in a secret cavern of gold that turned out to have a dragon sleeping under it. Their clash went from runway show to friendship to doomed romance to murder, all before [[Grandmaster Elusia Skypiercer|the Grandmaster]] and her [[The Acolytes|Acolytes]]. Afterwards [[The Arbiter|the Arbiter]] quietly began a scheme of his own.
 
@@ -112,7 +115,7 @@ The night had one more secret. While the Grandmaster addressed the crowd, the Ar
 ## Who and What Appears
 **[[Characters/Ditch Em' Darrell|Ditch Em' Darrell]]** (endlesschad). Old (50-some years), walrus mustache full of KC Masterpiece barbecue sauce, chews tobacco; battleaxe **Ramona** that he plays like an electric guitar and fires a brown Eldritch Blast from; paladin/warlock (lay on hands, cure wounds, Eldritch Blast). Loves trinkets, rings and shiny things; calls the Grandmaster "manager" and the Arbiter "assistant manager." Has a granny with sayings. Fell for Eshrinn, then killed her. **First champion of D20 Deathmatch.**
 
-**[[Characters/Eshrinn|Eshrinn]]** (BDTeej). Snake-woman (Bec and TJ say yuan-ti) "pretty much snake from the shoulders up," cobra hood with ornate patterns, forked tongue, tail; hooded cloak; bag of colored vials; blowgun. Rogue/spellcaster, "master of spells and poisons"; immune to poison. Charmed and befriended Darrell; dressed in gem beetles; ate one. Invokes "Hocum and Grocom." **Killed; secretly revived by the Arbiter**, one of his recruits.
+**[[Characters/Eshrinn|Eshrinn]]** (BDTeej). Snake-woman (Caustic Phoenix and TJ say yuan-ti) "pretty much snake from the shoulders up," cobra hood with ornate patterns, forked tongue, tail; hooded cloak; bag of colored vials; blowgun. Rogue/spellcaster, "master of spells and poisons"; immune to poison. Charmed and befriended Darrell; dressed in gem beetles; ate one. Invokes "Hocum and Grocom." **Killed; secretly revived by the Arbiter**, one of his recruits.
 
 **[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Elusia Skypiercer). Bored; bocce for one; paintings of herself everywhere; gold and black silvery dress; black feathered wings; a staff; throws chairs at the Arbiter. "Victory may hurt, but it lets us know that we are alive." Retired from battle (intro).
 
@@ -123,7 +126,7 @@ The night had one more secret. While the Grandmaster addressed the crowd, the Ar
 **Gem beetles.** Iridescent beetles living in the gold; poisonous to eat.
 
 ### Places
-- **[[Places/The Dread Fortress|Dread Fortress]]**: lava field, rock skull with an open mouth leading to an underground castle; paintings of the Grandmaster; meeting rooms and feast halls; the throne room (iron door, throne of metal and bone, hearth), the seat of the Grandmaster's power and her home (Drew).
+- **[[Places/The Dread Fortress|Dread Fortress]]**: lava field, rock skull with an open mouth leading to an underground castle; paintings of the Grandmaster; meeting rooms and feast halls; the throne room (iron door, throne of metal and bone, hearth), the seat of the Grandmaster's power and her home (Mudcat).
 - **The Gilded Thresh Hollow**: a secret golden cavern with gold waterfalls, piles of gems, pillars, ledges; a dragon sleeping under the gold.
 - **The Arbiter's secret lair** beneath the Hollow (beakers, arcane equipment).
 - **Snowy mountains** the dragon flies over.
@@ -160,7 +163,7 @@ The night had one more secret. While the Grandmaster addressed the crowd, the Ar
 > 22. **2:17:36 — The Grandmaster** floats down: **"Victory may hurt, but it lets us know that we are alive."** Darrell: "My granny always said you can't make the biscuits without buying the bread." "Help me congratulate and welcome **our first champion, Ditch Em' Darrell**." Snacks fly ("We'll pick that up later. I know that's littering").
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - First Dried Blood, with BDTeej ("Big Daddy Teej") and EndlessChad. Out-of-character: Chad riffed everything (the axe-guitar, tobacco-spit blast, the love-story ending); TJ planned "kill them with kindness" and the ring trick; the dragon was Drew's planned "secret roll" threshold event; the map is an animated Patreon map.
+> - First Dried Blood, with BDTeej ("Big Daddy Teej") and EndlessChad. Out-of-character: Chad riffed everything (the axe-guitar, tobacco-spit blast, the love-story ending); TJ planned "kill them with kindness" and the ring trick; the dragon was Mudcat's planned "secret roll" threshold event; the map is an animated Patreon map.
 > - **Darrell's farewell (in character):** "Old Ditch Em Darrell, he didn't expect to find love. He expect to find glory… his 50 some odd years living… life has twists and turns… this would be one thing that he wished he couldn't have ditched, but he has to."
 > - **Canon epilogue (2:27:20):** while the Grandmaster addresses the crowd, **the Arbiter walks to Eshrinn's body, snaps his fingers, and it sinks through the gold into a secret lair** full of beakers and arcane equipment. He taps her chest, **bringing her back to life: "I've got a plan for you."** (Transcript says "the Grandmaster and the body begin to sink"; context means the Arbiter.)
 

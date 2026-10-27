@@ -134,17 +134,17 @@ The Grandmaster summoned him for a eulogy. "You have lived a good life and made 
 - **Style:** deputizes the crowd with badges ("posse" / "cult"). He was on keto.
 - **Outcome:** died in the arena after his fifth natural 1 (five fatigues). The Grandmaster said she would carry him to his grave.
 
-**Clucky Cheese** (Bec calls it "Fluffy Cheese").
+**Clucky Cheese** (Caustic Phoenix calls it "Fluffy Cheese").
 - The Sheriff's chicken mount. Nimble, wears Converse.
 - A gift from "a great wizard in the Frontier named Amazon," who also gave a mystical egg for a second Clucky Cheese.
 - **Killed by Lief Tover in round 2** (one eye first), then used as a weapon by the Sheriff.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Italian leather boots. Says he played bingo with both champions a couple weeks ago.
 - Has "a whole slew of unionized chinchillas."
 - Bet on the Sheriff and lost.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - "She who shattered the Shadow King." Has giant white wings.
 - Refuses to fight the Arbiter because she would embarrass him.
 - Rules "this kingdom" with her "big gold balls."
@@ -169,8 +169,8 @@ The Grandmaster summoned him for a eulogy. "You have lived a good life and made 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the halls of the Dread Fortress
-> 1. **0:00:06** The show opens: "Welcome to D20 Deathmatch." Drew welcomes Full Sail back and asks who was there last year: "Every year I gotta say the same things."
-> 2. **0:00:35** Narration: "We find ourselves deep in the halls of the **Dread Fortress in the subterranean lava field** in the halls of the Grandmaster as **the Arbiter clacks his Italian leather boots** down the hallways." Drew makes the clack sound and admits, "I'm not good at sounds."
+> 1. **0:00:06** The show opens: "Welcome to D20 Deathmatch." Mudcat welcomes Full Sail back and asks who was there last year: "Every year I gotta say the same things."
+> 2. **0:00:35** Narration: "We find ourselves deep in the halls of the **Dread Fortress in the subterranean lava field** in the halls of the Grandmaster as **the Arbiter clacks his Italian leather boots** down the hallways." Mudcat makes the clack sound and admits, "I'm not good at sounds."
 > 3. **0:00:55** The Arbiter calls for the Grandmaster. She asks whether she needed to be somewhere ("Did you need me for something?"). He shouts that they're doing a show, and she asks, "Can I use my indoor voice again?"
 > 4. **0:01:11** The Grandmaster likes a live show. She looks over the crowd, picks out one Acolyte ("Okay, she can stay"), and says she only wants people "ready for blood." Call and response follows: **"Blood!" "Violence!" "Chaos!"** She replies, "This is who I want!"
 > 5. **0:01:43** The Arbiter introduces her: "**she who shattered the Shadow King, to she who pierces the sky, the Grandmaster, Elusia Skypiercer!**" He tells one overexcited fan to have a drink before he "bust[s] a blood vessel."

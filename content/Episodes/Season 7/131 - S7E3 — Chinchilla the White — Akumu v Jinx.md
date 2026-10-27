@@ -151,7 +151,7 @@ Afterward, Jinx's pocket chinchilla got a name: Wicked. Because Jinx kept him sa
 - Sacrificed 396 channel points for a fire-resistance potion.
 - Killed by Eldritch Blast. Worms pulled her body underground.
 
-**Chinchilla the White** (Bec). Formerly **Chinchilla the Gray**, the chinkilla Akumu kicked into the sun (which one isn't certain). It returns **shining platinum, staff in hand, about 15 ft tall**, revives Jinx, and is grateful to Akumu for its journey. The GM banishes it to the Dread Fortress "at least temporarily."
+**Chinchilla the White** (Caustic Phoenix). Formerly **Chinchilla the Gray**, the chinkilla Akumu kicked into the sun (which one isn't certain). It returns **shining platinum, staff in hand, about 15 ft tall**, revives Jinx, and is grateful to Akumu for its journey. The GM banishes it to the Dread Fortress "at least temporarily."
 
 **Wicked**: the chinchilla Jinx kept warm. It bit her mid-combo, then helped finish her revival by changing her hair. Named in Dried Blood.
 
@@ -162,7 +162,7 @@ Afterward, Jinx's pocket chinchilla got a name: Wicked. Because Jinx kept him sa
 
 **[[Characters/Stuart|Stuart]]**: works the stream's screens from a hot little closet in the Dread Fortress basement. The Arbiter blames him for weird music and visuals. He has PTO.
 
-**[[Characters/Thea|Thea]]** (Bec): **the pink imp**, now in charge of champions, who wrote the champion profiles.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix): **the pink imp**, now in charge of champions, who wrote the champion profiles.
 - Tasted the vodka first.
 - Tripped while bringing Akumu's weapons, then threw her a bottle from a safe distance.
 - Gave Cheese Prof's head to Doug.
@@ -172,15 +172,15 @@ Afterward, Jinx's pocket chinchilla got a name: Wicked. Because Jinx kept him sa
 
 **Cheese Prof**: an Acolyte or staff member whose head is a cheese wheel; currently headless.
 
-**The Box of Chaos figure** (Drew): a shadowy figure with long tendrilly claws and yellow eyes. Drank grandma Bailey ("silky smooth").
+**The Box of Chaos figure** (Mudcat): a shadowy figure with long tendrilly claws and yellow eyes. Drank grandma Bailey ("silky smooth").
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew):
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat):
 - **Motto "When you can, you should," tattooed across his nipples, of which he has three** ("Across all three of them." "Yep").
 - Was doing acid in the Grand Canyon during the break. Revisits Vietnam at any point in time except the present; has spent "a lot of time in 1950s Vietnam."
 - Says he once "was in charge" and levied taxes while the GM was absent. Had land, plans for it, and a marketing person.
 - Resents the GM's praise of Thea: "I should have left you in Cor'thun."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec):
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix):
 - **Wears an eyepatch** after scratching her eye playing darts with Thea; a memo told everyone not to mention it.
 - Bought the goblins a foam pit. Wants premium insurance for staff. Promises a marketing person "next year."
 - Says she has saved the Arbiter's life more than once.
@@ -189,7 +189,7 @@ Afterward, Jinx's pocket chinchilla got a name: Wicked. Because Jinx kept him sa
 ### Places
 - **Dread Fortress basement / dungeon**: Stuart's screen closet.
 - **The GM's throne room**: no fighting there, so the chinchillas' fur stays clean.
-- **The orange asteroid**: in space, with a big planet and a distant sun. Rubble, old champions' bones, and worms that drag the dead underground. Inferred to be the Ether Drifts (Drew's Dried Blood remark).
+- **The orange asteroid**: in space, with a big planet and a distant sun. Rubble, old champions' bones, and worms that drag the dead underground. Inferred to be the Ether Drifts (Mudcat's Dried Blood remark).
 - **The sun**: two chinchillas were kicked into it, and Akumu claims a "colony." Chinchilla the White came from there.
 - "**Tinkula / Chinkilla Forest**" (unclear, mentioned by the GM).
 
@@ -343,16 +343,16 @@ Afterward, Jinx's pocket chinchilla got a name: Wicked. Because Jinx kept him sa
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **In-character / canon content**
 > - **Jinx's chinchilla is named Wicked** (1:52:02). The GM says Jinx essentially adopted it by keeping it safe and giving scritches, "a clear sign that they have now bonded to you." Whitney shows a plush chinchilla as Wicked. He needs a haircut, can barely see, and has one visible eye. Wicked: "**Mom, why am I here? Oh, but scratches though… I guess it's okay, mom.**" (voiced by Whitney; in-character status uncertain).
-> - **Akumu's grandmother**: Sachi says Akumu carried her "**my whole life… She's been with me since I was a wee one.**" Drew jokes about a Kickstarter for a printed genealogy tome of Akumu's lineage needing "four or five million."
+> - **Akumu's grandmother**: Sachi says Akumu carried her "**my whole life… She's been with me since I was a wee one.**" Mudcat jokes about a Kickstarter for a printed genealogy tome of Akumu's lineage needing "four or five million."
 > - Akumu's final word: "Where's the vodka at?" Jinx's final word is the same sound she used in the fight (not transcribed).
 >
 > **Out-of-character, creator notes**
-> - Drew: "We lose track after, like, 200 episodes… They're not all technically episodes. Some are like limited series." Bec: "Expanding universe."
+> - Mudcat: "We lose track after, like, 200 episodes… They're not all technically episodes. Some are like limited series." Caustic Phoenix: "Expanding universe."
 > - **Jinx's inspiration (Whitney):** a running bit of poking fun at Sachi. Jinx is an e-streamer, "Sachi-coded," inspired by **Mei's new e-streamer mythic skin in Overwatch**. The rat echo plays off Sachi's community turning her into a rat.
 > - **Akumu's inspiration (Sachi):** nothing was planned. She went for "the worst thing I could do," alcoholism: "I woke up in a ditch because I'm alcoholic." **A friend built the character sheet.** She plays to the stats: low INT means "the first bad thought that pops into my mind is the thing I will do." Her other ideas were to put the chinchilla in her armor, build it a fire, or give it alcohol.
-> - Builds: Akumu is 6 paladin / 4 warlock; Jinx is 10 fighter. Jinx picked scimitars (d6) for "lots of little cuts" so the fight would last longer. Jinx would redo her as a fire giant lineage for more fire strikes. Sachi would smite sooner; the brief said not to go hard out of the gate. **Drew was "beefing you guys up the whole time,"** with +3 or +4 to rolls most of the fight. A min-max fight is planned someday.
-> - Sachi is "really good at playing cards"; Bec says a card chaos event exists and would have given her advantage. "Next time."
-> - Bec: "This cannot be the last time the two of you all fight." What they'd do differently: Jinx, "Bigger sword"; Akumu, "use smite a lot sooner… I'm sorry, Captain Morgan."
+> - Builds: Akumu is 6 paladin / 4 warlock; Jinx is 10 fighter. Jinx picked scimitars (d6) for "lots of little cuts" so the fight would last longer. Jinx would redo her as a fire giant lineage for more fire strikes. Sachi would smite sooner; the brief said not to go hard out of the gate. **Mudcat was "beefing you guys up the whole time,"** with +3 or +4 to rolls most of the fight. A min-max fight is planned someday.
+> - Sachi is "really good at playing cards"; Caustic Phoenix says a card chaos event exists and would have given her advantage. "Next time."
+> - Caustic Phoenix: "This cannot be the last time the two of you all fight." What they'd do differently: Jinx, "Bigger sword"; Akumu, "use smite a lot sooner… I'm sorry, Captain Morgan."
 > - Plugs: Smokingglueguns has a "Reparations" listing on her website. Chat (Cookiemon Steve) asks for chinchilla dice, and a D20 collab is floated. Versachiko is "everywhere on the internet." Sachi: "please drink water." Whitney: the first ingredient in Dr. Pepper is water ("not sponsored").
 > - Sachi mentions a past PvP battle royale where the two POC players allied (table talk).
 

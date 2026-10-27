@@ -102,7 +102,7 @@ Then Lyrus landed the blow the knight couldn't parry, and the knight fell. His u
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Lyrus|Lyrus]]** (Drew). A **Goliath who is also a werebear**, and stays in bear form "all the time now" in memory and honor of his father.
+**[[Characters/Lyrus|Lyrus]]** (Mudcat). A **Goliath who is also a werebear**, and stays in bear form "all the time now" in memory and honor of his father.
 - **Background:**
   - His father **Orin** was turned as a child in an attack on his village that killed his family. **The Arbiter saved Orin from that attack.**
   - **The Arbiter later killed Orin**; Lyrus heard of the death only secondhand.
@@ -138,7 +138,7 @@ Then Lyrus landed the blow the knight couldn't parry, and the knight fell. His u
 - Stays at base because "Elder Evil threatens everything we hold dear" if the party fails.
 - Holds Asena's blood.
 
-**[[Characters/The Seer|The Seer / the sage]]** (Drew). An NPC of the Faithful, apparently a craftsman as well as a seer.
+**[[Characters/The Seer|The Seer / the sage]]** (Mudcat). An NPC of the Faithful, apparently a craftsman as well as a seer.
 - Admires the artwork and helped the divination with no trouble at all.
 - **Ralzamon's presence "has certainly clouded my vision."**
 - **Forged Chester's rainbow Damascus knife.** Gave a parting vision (a stored 12).
@@ -218,7 +218,7 @@ Then Lyrus landed the blow the knight couldn't parry, and the knight fell. His u
 ### Lore statements
 - **The Void has no direct connection to normal cosmology.** Fragments of ethereal, astral and shadow planes cling to the realms that were brought into it (Lawrence's theory).
 - **Champions are returned home by the Grandmaster. The Arbiter handles losers, and has kept echoes of fallen champions and "harvested" them, fusing them with their originals at the moment of death** (Lawrence's theory, supported by Lyrus).
-- **The Void has things "that would rival the early Titans"** (stated by Drew as Lyrus's player). Their portents make trees come alive and watch.
+- **The Void has things "that would rival the early Titans"** (stated by Mudcat as Lyrus's player). Their portents make trees come alive and watch.
 - The Shadowlands were the Shadow King's realm, and the Arbiter draws shadow creatures from them.
 
 ## Full Round-by-Round
@@ -307,8 +307,8 @@ Then Lyrus landed the blow the knight couldn't parry, and the knight fell. His u
 > ### The Shadowlands manifest (1:03:01)
 > 48. All four make Wisdom saves (Circe rerolls with inspiration) and all pass.
 >    - **John** sees shadows coalesce along the ground and crawl up the trees and rocks "**like regenerating flesh, like the flesh of the Void Dragon that you carry with you this very day**." He hears "a deep, rumming hatred that seems to resonate from the very depths of this void itself, calling out to the elder evils."
->      - The GM asks Mudcat whether the Void has elder evils. Drew: "**there are things here that exist of that nature… Things that would rival the early Titans.**" A small portent would show as "**the twisted trees and forests themselves… come to life… as the trees almost bend to watch as they walk through the woods.**" John hears the trees **whispering "in a language you should not be able to understand."** Then it's gone.
->    - **1:07:06 — Lyrus** sees **his father's bones making up the whole place: "His death is the very foundation."** His father hangs impaled on the dead trees, is nailed to the door, has his head on a spike on the battlement. Drew: Lyrus looks at "**his father, Orin, who wasn't there to witness his death**," imagining the thousand ways it could have been, having heard of it only secondhand. **He gives a deep bear growl: "Get out of my head."**
+>      - The GM asks Mudcat whether the Void has elder evils. Mudcat: "**there are things here that exist of that nature… Things that would rival the early Titans.**" A small portent would show as "**the twisted trees and forests themselves… come to life… as the trees almost bend to watch as they walk through the woods.**" John hears the trees **whispering "in a language you should not be able to understand."** Then it's gone.
+>    - **1:07:06 — Lyrus** sees **his father's bones making up the whole place: "His death is the very foundation."** His father hangs impaled on the dead trees, is nailed to the door, has his head on a spike on the battlement. Mudcat: Lyrus looks at "**his father, Orin, who wasn't there to witness his death**," imagining the thousand ways it could have been, having heard of it only secondhand. **He gives a deep bear growl: "Get out of my head."**
 >    - **1:08:41 — Asena** sees **Josiah Parsons standing before the gate.** A voice says: "**He cannot know… If he does not know, he can take no vengeance.**" No one else sees it, and the vision is gone.
 >    - **1:10:27 — Circe** grips her ray gun at something that isn't there, puts on her goggles, scans and relaxes: "Just in my head. It's fine… **The data and the evidence weren't aligned, but now they are, so we're fine.**"
 > 49. **1:11:52** John half-notices (insight 15) that Asena was seeing something different from the others.

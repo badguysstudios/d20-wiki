@@ -144,7 +144,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 - **Fear:** **the aliens found no fear in her.**
 - **Name she proposed:** "Redacted."
 
-**[[Characters/Thea|Thea]]** (Bec). A tiny pink imp.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A tiny pink imp.
 - The Arbiter says he "created" her ("an idiot"). She says she has no brain cells and has at least five eyeballs.
 - **The Arbiter uses the divot in her head as a popcorn bucket.**
 - Her email password is "…is the best" plus ~20 exclamation points; Stuart resets it for her.
@@ -166,13 +166,13 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 - Theresa's sibling(?), who built an "empire". The Hollow "turned to ashes" when he died.
 - He left a 20-step book of instructions for after his death.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Watches pirated Dune 2 from the future. Owns extra Italian shoes.
 - "Saved" the GM from the Shadow King "temporarily," but didn't kill him.
 - Copycat dubbed him "Arbiter J. Wilkinsmith the Third" and Robbie took him for a triplet.
 - **The mission's mineral turned out to be salt for his fries.**
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Building an army and teams against the Shadow King.
 - Founded Team A, with leadership to be decided in a Deathmatch.
 - Says revival is assured ("we'll bring them back") and that "death isn't permanent."
@@ -330,7 +330,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 > 46. **0:40:06 The good arm.**
 >     - "Maybe I should use my good arm." He launches the other fist, **forgetting that it still holds the clump of dirt with Theresa in it.**
 >     - She rides inside a protective bubble but suffers the G-forces.
->     - The door cracks and bursts open. Drew reminds him how physics works: **the worm comes to a very forceful stop.** Atlas: "I liked Theresa, she was really cute."
+>     - The door cracks and bursts open. Mudcat reminds him how physics works: **the worm comes to a very forceful stop.** Atlas: "I liked Theresa, she was really cute."
 > 47. **0:41:20 The key.**
 >     - Theresa flies in unconscious. **A crowd of neon worms** gathers around her: "How could you do this? Why did you break down the door? **You couldn't just use the key!**"
 >     - **The key was on top of the doorframe the whole time.** Robbie: "What a mysterious place to hide a key."
@@ -426,7 +426,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 >     - "**That is what I am hungry for.**" Robbie squints with tentacle eyes too. What she points at is never revealed.
 >
 > ### The geode and Theresa's return
-> 80. **1:15:50 The descent.** It gets colder, damper and darker, and they feel their way along the walls. Bec's audio glitches ("Stuart!"). A low rumble grows louder.
+> 80. **1:15:50 The descent.** It gets colder, damper and darker, and they feel their way along the walls. Caustic Phoenix's audio glitches ("Stuart!"). A low rumble grows louder.
 > 81. **1:16:59 The crystal.** **Inside what is like a geode, a large chunk of white, glowing, humming crystal** is half stuck in the ground. It is unlike the surrounding orange rock.
 > 82. **1:17:42 Who can test it.**
 >     - Robbie asks whether Atlas has a scanner. Atlas is glazed over, **coasting on wheels with "update at 78%… do not reset"** because "they turned him off and on again." Copycat: "Windows, dang it."
@@ -451,15 +451,15 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 >     - She **spews toxic orange Double Sun Cola bile on Atlas**. It cleans his metal and soaks in, **pushing his update from 79% to 98%**.
 >     - She lurches at Cat: "**Give me that bag!**" Cat hip-thrusts and dodges: "You can't take this bag." Theresa: "No, no, I used to carry my groceries." Cat: "I'm not the one you want to hurt."
 > 89. **1:27:42 Copycat becomes Timothy.**
->     - She uses her attack to **transform into Timothy**: "You wouldn't want to hit your… sibling." Drew: "Psychological damage."
->     - Theresa attacks and rolls a **nat 1**, losing Fighting Spirit, gaining fatigue and taking damage. "**I'm sorry, Timothy.**" "It's okay, sister. I forgive you." Bec narrates her as "**Mayor Timothy**."
+>     - She uses her attack to **transform into Timothy**: "You wouldn't want to hit your… sibling." Mudcat: "Psychological damage."
+>     - Theresa attacks and rolls a **nat 1**, losing Fighting Spirit, gaining fatigue and taking damage. "**I'm sorry, Timothy.**" "It's okay, sister. I forgive you." Caustic Phoenix narrates her as "**Mayor Timothy**."
 > 90. **1:29:12 Persuading her sister.**
 >     - Copycat steps in front of the others. "Sister, why have you turned out this way?"
 >     - Theresa: "**When we lost you, the empire you built was destroyed. The Hollow just turned to ashes.** We thought with you, all our dreams disappeared."
 >     - Copycat: "This is not the way that I would want my legacy to continue." Theresa wins the roll.
 > 91. **1:30:38 The mayor's book.**
 >     - Theresa: "**You left a whole book that said, in case of my death, here's exactly what you're supposed to do.** And we followed the rules one through 18. We didn't get all the way to 20 because we haven't gotten there yet."
->     - Bec narrates that the mayor was "very detailed in his note taking." Bec says the name as "Mayor Tempathy" here.
+>     - Caustic Phoenix narrates that the mayor was "very detailed in his note taking." Caustic Phoenix says the name as "Mayor Tempathy" here.
 > 92. **1:31:12 The password.**
 >     - Copycat claims brain fog and asks for rules 19 and 20.
 >     - Theresa: "**Step two** [says] we're not allowed to do anything unless the people confirm… the password. Do you remember the password of the worms?"
@@ -482,7 +482,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 >     - **The Box of Chaos smashes through the ceiling in a burst of pink and yellow flame.**
 >     - "**A small little piece of Thea's skull is ripped out from her and thrown inside of this box.**" An even tinier impish hand reaches out: "If you want anything, you let me know."
 >     - Thea apologises to the Arbiter: "I tried to do the typical." Arbiter: "**Not everyone can whisper sexually.**" Thea had planned "a dark smoker voice."
->     - Then, as the box (speaker uncertain, Drew): "**Yeah, what the fuck do you want?**"
+>     - Then, as the box (speaker uncertain, Mudcat): "**Yeah, what the fuck do you want?**"
 >     - Champions can sacrifice an action to it for a magical item.
 >
 > ### Combat round 2
@@ -498,7 +498,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 > 101. **1:41:33 Theresa attacks Robbie.** She is furious and hits him twice. "Ow, **my second favorite eyeball**." She spews bile and rolls another **nat 1**. **The acid corrodes the geodes in the ceiling, which fall on her.**
 > 102. **1:43:01 Copycat's crazy idea.**
 >      - "I think I've got the worm bumps." Still as Timothy: "Sister, lend me your ear… **maybe we take it with us. And deposit it somewhere else.**"
->      - Drew applies the disadvantage he forgot, as "double disadvantage." The tie leaves both exhausted. Drew: "**Debate is exhausting.**"
+>      - Mudcat applies the disadvantage he forgot, as "double disadvantage." The tie leaves both exhausted. Mudcat: "**Debate is exhausting.**"
 > 103. **1:44:45 Theresa refuses.** Theresa: "I kind of like this crystal here." Copycat tries again and fails. Theresa: "**NEVER! I WILL WRAP MY DEAD BODY AROUND THIS BEFORE YOU HAVE IT!**" She elongates and coils around the crystal.
 > 104. **1:45:41 The solstice.**
 >      - Copycat: "**Stop this at once! Don't make me tell mother or father what you did on the summer solstice 25 centuries ago!**"

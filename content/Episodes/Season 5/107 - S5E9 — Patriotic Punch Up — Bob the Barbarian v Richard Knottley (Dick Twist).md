@@ -151,13 +151,13 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 - **Robbie:** had Robbie imprisoned with a remnant of the Hunger, which ate Robbie on his death. He blames "guys who work for other guys who work for some black suits."
 - **This episode:** killed by Bob. His ghost was netted by Thea and is being sewn back into his body by mages.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat).
 - **Look:** Italian leather shoes and white wings. Portraits of himself line the Dread Fortress halls.
 - **[[Characters/Thea|Thea:]]** says he **created Thea**, who has been sentient for about two months.
 - **Powers seen:** reality tears, snapping tricycles and jorts into being, removing Thea's star, and multicolored chaos-storm lightning. He fried the Peloton.
 - **Politics:** would never vote for Dick Twist but thinks he could win.
 
-**[[Characters/Thea|Thea]]** (Bec). The high-pitched host who summons the champions through pink portals.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The high-pitched host who summons the champions through pink portals.
 - **Claims:** says she visited Marco Polo through a magic portal.
 - **Fight-night behavior:**
   - Rides an adorable tricycle; won one heat of the race and threw the trike at Bob.
@@ -170,7 +170,7 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 
 **[[Characters/The Hunger|The Hunger]]**. Richard's people "picked up a remnant of the hunger after the end of [Bob's] last battle."
 
-**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Mudcat).
 - **Bracelets:** collects them (WWJD, Livestrong, now Jort Daddy).
 - **[[Characters/Richard S. Skelman|Richard:]]** didn't remember him at first ("You're the guy with the frogs in your ass"). Wears his mustache like a merkin.
 
@@ -395,9 +395,9 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 > - **1:41:15** Bob: "**To the Acolytes, never be afraid to let the Denim cover you. You've seen its power. Embrace the gators. And to my boy, my sweet boy, Robbie, I won't let the hunger take you again, son. Bet on it.**" Thea: "Promises, promises." The Lord of Fate: "We'll see how that plays out as we move forward in the season."
 >
 > ### Out-of-character (creator notes)
-> - Drew first calls it Episode 8; Bec corrects it to Season 5 Episode 9.
+> - Mudcat first calls it Episode 8; Caustic Phoenix corrects it to Season 5 Episode 9.
 > - Bob's player was new to tabletop games a few weeks earlier and is now **2–0**. He jokes about buying a giant d20, a lottery ticket and going to Vegas. He counts three or four nat 20s.
 > - **Richard Knottley is 0–2.** Richard's player blames Foundry VTT for his rolls because he canceled his subscription.
-> - Drew breaks down the final hit: 1 (status effect) + 3 (power-up) + 2 (Denim Gator) + 1 (nat 20) = 7. The nat 20 also healed Bob back to his starting 16. Bob also gained a fatigue for reaching three adrenaline.
-> - Bec says Richard's player hyped the fight beforehand with a **tweet/Instagram post** about the presidential campaign.
+> - Mudcat breaks down the final hit: 1 (status effect) + 3 (power-up) + 2 (Denim Gator) + 1 (nat 20) = 7. The nat 20 also healed Bob back to his starting 16. Bob also gained a fatigue for reaching three adrenaline.
+> - Caustic Phoenix says Richard's player hyped the fight beforehand with a **tweet/Instagram post** about the presidential campaign.
 

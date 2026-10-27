@@ -145,14 +145,14 @@ Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "
 
 **The God of Fate**: unnamed in this episode. Has a "throne"; Decima wants the role and Nonamatt wants to kill them.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat).
 - Ordered thousands of tacos and numbers the goblins instead of naming them. Last cared about calendars "before the Gregorian calendar."
 - Says he "didn't even kill" the Grandmaster when he came back; calls her necklace "for your own good."
 - **Picks Box sacrifices from the crowd at random.**
 - Hurt Kesa, started a piercing taco food fight, and tried to feed Nonamatt to Kyle.
 - Spared Nonamatt because the Grandmaster is "like a daughter to me."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Wears an amulet or necklace that cuts her hand each time she opens a portal. She calls it "not a shackle," sarcastically.**
 - Knows the goblins' names and is called "a ranger herself." (Her "their nieces and nephews" line at 1:34:24 is about other people's families, not hers.)
 - Says the Shadow King runs the shows through her because the Acolytes don't know him.
@@ -218,13 +218,13 @@ Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "
 >     - The Grandmaster goes bright red: "**I am so sorry. These are not from around here.**" She **shucks all the beef tacos out the window.**
 >     - The Shadow King: "**Derek, is that you?**" She: "No, not Derek. And his sister, Casey. We waited for Derek to pass peacefully first, and then…" He: "**That's why he's so gamey.**"
 >     - Nonamatt loses his appetite.
-> 13. **0:10:58 — Tacos for the crowd.** Decima squishes two vegan tacos together in one hand and shoves them in their mouth: "These are really good." The audience asks for tacos, so **Decima shoves a whole tray at the crowd.** Acolytes cheer: "**Decima for president! Give the people what they want!**" Drew awards Decima **a d4 bless on their first roll.**
+> 13. **0:10:58 — Tacos for the crowd.** Decima squishes two vegan tacos together in one hand and shoves them in their mouth: "These are really good." The audience asks for tacos, so **Decima shoves a whole tray at the crowd.** Acolytes cheer: "**Decima for president! Give the people what they want!**" Mudcat awards Decima **a d4 bless on their first roll.**
 > 14. **0:11:52 — The tray (Chekhov's tray).** Nonamatt takes one of the trays: a **beautiful silver platter, embroidery etched in, two handles, about five pounds.** He struggles with it ("I'm just a weak little boy") and tucks it under his arm. The Grandmaster: "**It's a family heirloom, please destroy it.**"
 > 15. **0:12:37 — Family.** Decima: "Guess you don't like your family very much, huh?" The Grandmaster: "**Have you met them?**" and points at the Shadow King.
 >     - He: "That's just rude. I've taken great care of you here. **I didn't even kill you when I came back.**"
 >     - She: "**And this necklace is really just for looks and it's not a shackle.**"
 >     - He: "That's for your own good. We all know how children can be." She: "**Children? I've lived a hundred. Never mind.**"
-> 16. **0:12:57** She opens another portal: "We're not fighting where the tacos are." On the walk, **Decima leans in and whispers to Nonamatt: "I thought *we* had family drama."** Nonamatt: "I'm still going to fight… But yeah, I think we might have it better." Decima: "Weirdly enough, yeah." Drew: "I don't care enough to roll."
+> 16. **0:12:57** She opens another portal: "We're not fighting where the tacos are." On the walk, **Decima leans in and whispers to Nonamatt: "I thought *we* had family drama."** Nonamatt: "I'm still going to fight… But yeah, I think we might have it better." Decima: "Weirdly enough, yeah." Mudcat: "I don't care enough to roll."
 >
 > ### The arena: the glowing forest
 > 17. **0:13:51** They come out in a **lavender, purple and teal forest of fluffy trees**, "as if it is Horton Hears a Who all over again."
@@ -246,7 +246,7 @@ Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "
 > 25. **0:22:48 — Ball bearings.** Nonamatt pulls a **bag of ball bearings** and throws them down in a 10-ft square. They are tiny and half-sunk in the fuzzy grass.
 >     - He slams his staff and **casts Magic Stone on three bearings, which glow bright gold.**
 >     - Then he scurries backwards: "I'm dressed like a noble… but I'm very much out of my comfort zone." "**I'm not much of a fighter, but I think I'm an okay tactician.**"
-> 26. **0:24:48** The Grandmaster, sincerely: "**Don't worry, retreat is a great strategy! Get good positioning!**" Bec notes that Elusia, **a ranger herself**, thinks it's the ideal way to start a fight. The Shadow King: "**I just think you're a coward.**" She says only the Acolytes get to heckle.
+> 26. **0:24:48** The Grandmaster, sincerely: "**Don't worry, retreat is a great strategy! Get good positioning!**" Caustic Phoenix notes that Elusia, **a ranger herself**, thinks it's the ideal way to start a fight. The Shadow King: "**I just think you're a coward.**" She says only the Acolytes get to heckle.
 >
 > ### Chaos event: the Box of Chaos and Lady Magdala (0:25:38)
 > 27. The Shadow King rolls 14 ("more better than a 10"). The Grandmaster and the Shadow King argue over who summons the Box.
@@ -330,17 +330,17 @@ Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "
 >     - Decima regains three quarters of their health and **wears the shadows as a shield (+2 AC) and over their weapons (+2 to hit).**
 >     - **Decima is thrown out, and the Box lies dormant.**
 > 53. **1:05:37** The largest shadow is **Lady Magdala, who circles Decima's head like a circlet.** Decima's **eyes are completely yellow, with yellow spirit-wisps leaking from their mouth.** Still under the mind whip, they can only charge to stand right in front of Nonamatt.
->     - His hero point first asks to **augment Chronal Shift, split timelines, and become the one who took the power.** Bec hesitates because it takes away Decima's agency: "that's super fucking badass."
->     - **Nonamatt revises it: he pulls in the Nonamatt from the timeline where *he* took the power**, as his ally. Bec accepts it as an echo. **The other-timeline Nonamatt is covered in shadows, with glowing yellow eyes.**
+>     - His hero point first asks to **augment Chronal Shift, split timelines, and become the one who took the power.** Caustic Phoenix hesitates because it takes away Decima's agency: "that's super fucking badass."
+>     - **Nonamatt revises it: he pulls in the Nonamatt from the timeline where *he* took the power**, as his ally. Caustic Phoenix accepts it as an echo. **The other-timeline Nonamatt is covered in shadows, with glowing yellow eyes.**
 > 55. **1:10:10** The Grandmaster to the Acolytes: "**This truly becoming a 2v2 fight, a way in which hero points have never been used before… not only do the Acolytes look down upon you favorably, but so does the Grandmaster. You truly are creating greatness before our eyes.**"
-> 56. **1:11:41 — The furniture attacks.** The ball-bearing ban doesn't cover other items, so **Nonamatt casts Animate Objects on the silver tray from the opening and on the now-dormant Box of Chaos.** Hamna: "Chekhov's gun returns!" Bec: "**Beauty and the Beast where it's the end fight scene and the furniture's just attacking?**"
+> 56. **1:11:41 — The furniture attacks.** The ball-bearing ban doesn't cover other items, so **Nonamatt casts Animate Objects on the silver tray from the opening and on the now-dormant Box of Chaos.** Hamna: "Chekhov's gun returns!" Caustic Phoenix: "**Beauty and the Beast where it's the end fight scene and the furniture's just attacking?**"
 >     - The Box hits Decima for 10 and the tray glances for 3.
 >     - Nonamatt: "**Decima, please, we don't need to do this. If you're already corrupt by this power, how do you think you can be able to handle the throne of the God of Fate?**"
 > 57. **1:15:01 — Threads of fate.** Decima, facing the echo-Nonamatt, says nothing. **The shadows on their back spin into thread, "like the threads of fate itself,"** and snake toward Nonamatt's feet. Over one shoulder: "**This is not corruption, if I'm right.**"
 > 58. **1:16:00 — Rage.** **Decima rages, hoisting the axe: "This is for Morta."** Their eyes glow brighter and the shadows boil off them.
 >     - **The echoes of the consumed Acolytes, "these warriors of the past," attack Nonamatt** while Decima takes on Nonamatt's echo.
 >     - Nonamatt pulses again on the first strike and destroys Decima's echo before the rest can land.
-> 59. **1:17:27 — Linked through time.** Drew rules that because the echo came from a hero point, it gets a Con save. **Nonamatt rolls a natural 20** with the breastplate's advantage.
+> 59. **1:17:27 — Linked through time.** Mudcat rules that because the echo came from a hero point, it gets a Con save. **Nonamatt rolls a natural 20** with the breastplate's advantage.
 >     - "**The Echo is intrinsically linked to you through time.**" It stays standing, but **Nonamatt takes half of its damage.**
 > 60. **1:19:04 — The scar.** **Decima's axe slices through the echo's wrists where it holds its staff.** The shadow pulses through the axe, through the echo, and into Nonamatt's hands.
 >     - Nonamatt: "**almost like looking at a time lapse of a wound healing, the wound appears on my hand, but it also just immediately heals over and scars over as if this was a wound given to me many, many years ago.**"
@@ -428,16 +428,16 @@ Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "
 > ### In-character (canon, Dried Blood)
 > - **Nonamatt's final thoughts (2:12:31)**, carrying Decima "**back home for a proper burial**": "**tell the people you love that you love them because you don't know when you won't have the chance to do that ever again.**"
 > - **Decima's final thoughts (2:13:18)**: "if you believe in something strong enough, you should be willing to back it with your full chest, whole ass, go all the way with it. **No half-assing your beliefs or your values.**"
-> - Drew (2:01:51): "Everyone's crying, but **Kyle's hungry**, so who's the real villain here?" Nonamatt's player: "I'm so sorry, Kyle." This is a joke, so in-character status is unclear.
+> - Mudcat (2:01:51): "Everyone's crying, but **Kyle's hungry**, so who's the real villain here?" Nonamatt's player: "I'm so sorry, Kyle." This is a joke, so in-character status is unclear.
 >
 > ### Out-of-character (creator notes)
-> - Bec is still crying. Both players were asked back as returning storytellers.
+> - Caustic Phoenix is still crying. Both players were asked back as returning storytellers.
 > - The players agreed in advance on **twins who love each other but are ideologically opposed. One of their other siblings (Morta) was killed, and they blame the God of Fate.** They had no childhood backstory beyond "**we are twins and we had an older brother named Morta**."
 > - Drac didn't expect to win. Hamna "rolls like ass."
 > - Drac built late: a wizard against a barbarian, "exact opposites, exact parallels for twins," using only non-physical spells.
 > - Hamna realized midway "**I think this is Nana's game**," and that Decima dying was the more satisfying narrative. They weighed leaning into corruption against a sacrifice that forces Nonamatt to decide, and chose the sacrifice in the moment.
 > - Drac credits Hamna with reading Nonamatt's indecisiveness and constant apologizing, then demanding he finally decide.
-> - Drew on the hero point: "**We've had people sacrifice the Box of Chaos before, but nobody has specifically asked to consume the Box of Chaos. And it works for us this season because the souls are taken from the Acolytes. It used to be the Shadow King's soul.**" He praises choosing the story over winning.
+> - Mudcat on the hero point: "**We've had people sacrifice the Box of Chaos before, but nobody has specifically asked to consume the Box of Chaos. And it works for us this season because the souls are taken from the Acolytes. It used to be the Shadow King's soul.**" He praises choosing the story over winning.
 > - The tray was a "classic Drak move": plant a minor detail early and pay it off later. "Ball bearings in Animate Objects": "if 10 die, you just cast it again on another 10."
 > - Player advice: "If you're a wizard, carry ball bearings." Hamna: get creative with your character sheet, "okay, hear me out."
 

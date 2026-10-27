@@ -14,8 +14,11 @@ arena: The Grandmaster's abandoned abbey
 summary: Stage magician Mageic outlasted the fire genasi Amren Scorsia in the Grandmaster's abandoned abbey after Amren melted into a lava floor. Before she could harden into a statue, the Arbiter secretly remade her from the lava and spirited her away.
 tags:
 - episode
+youtube: https://youtu.be/Xp2sSpXWTLM
 canon_order: 11
 ---
+
+[Watch on YouTube](https://youtu.be/Xp2sSpXWTLM)
 
 Red versus blue: a muscle-bound stage magician who thought he'd been booked for a show in Neverwinter, against a proud fire genasi who would rather die than be called his assistant. **[[Mageic]]** and **[[Amren]]** Scorsia tore the Grandmaster's abandoned abbey apart with illusions, fire and ice. Along the way they picked up a cursed porcelain doll, a thrown grandmother and an exploding cathedral. The fight ended in lava, and with a secret bargain the audience was never meant to see.
 

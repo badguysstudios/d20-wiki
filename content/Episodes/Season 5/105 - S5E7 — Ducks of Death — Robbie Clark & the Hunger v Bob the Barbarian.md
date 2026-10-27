@@ -135,12 +135,12 @@ In the after-show, Robbie passed on his lesson: sometimes something that seems l
 - **Probed by aliens and now can't hold in farts.** Got the Blade of Shadow by sacrificing a piece of his jorts.
 - Wants children someday. **Promised to raise Robbie in Florida.**
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). The former Arbiter, who has "usurped" the throne and still struggles with the title.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat). The former Arbiter, who has "usurped" the throne and still struggles with the title.
 - **White wings.** Has a private reserve of champagne, which Thea says was the Grandmaster's.
 - Carves stars into Thea's forehead as rewards and can heal them away as punishment. Keeps a report and file on her and claims to pay her.
 - Snapped away the champagne towel because Robbie is a child. **Says he remembers Robbie getting new shoes on his seventh birthday.**
 
-**[[Characters/Thea|Thea]]** (Bec). A tiny pink imp with glittery wings.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A tiny pink imp with glittery wings.
 - Two months an imp, a worm for longer. Insists "Thea is people." Says she was "people" for five minutes, chanting and getting tattoos with the Acolytes.
 - Licked up the spilled champagne and licked Bob's leg sweat ("spice"). Speaks with animals.
 - Gave Robbie New Balance shoes. Her hug was rejected by the Hunger, and she cried.
@@ -176,7 +176,7 @@ In the after-show, Robbie passed on his lesson: sometimes something that seems l
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Dread Fortress
-> 1. **0:06:12** "Welcome to D20 Deathmatch!" The scene is **the halls of the Dread Fortress, far below ground in the subterranean lair**. Drew slips and calls himself the Arbiter, then corrects to **the Lord of Fate**. "When you usurp a throne, it just doesn't feel right for a while." Thea: "I also struggle with my own name."
+> 1. **0:06:12** "Welcome to D20 Deathmatch!" The scene is **the halls of the Dread Fortress, far below ground in the subterranean lair**. Mudcat slips and calls himself the Arbiter, then corrects to **the Lord of Fate**. "When you usurp a throne, it just doesn't feel right for a while." Thea: "I also struggle with my own name."
 > 2. **0:06:53 — Thea's entrance.** A bumbling, clanking noise comes down the hall. **Thea, a tiny pink imp with glowing, glittery tiny wings**, bursts through two doors in a poof of pink dust. She is dragging **a bottle and two champagne glasses** along the floor. "I brought her drinks!"
 > 3. **0:07:19** The Lord of Fate: "You're like two months old. How are you drinking?" Thea: **"Two months as an imp, but I've been a worm a lot longer than that."** The goblins downstairs told her it was "a nice drink," so she repeated it and brought it up to celebrate the Deathmatch.
 > 4. **0:08:05 — The private reserve.** It was from **the Lord of Fate's private reserve**, which he was saving for a celebration. "This is going on your report." Instead he **snaps, and one of the stars carved into Thea's forehead fades away and heals.** Thea: "**I worked so hard for those friggin' stars!**"
@@ -307,12 +307,12 @@ In the after-show, Robbie passed on his lesson: sometimes something that seems l
 > - **1:49:20 Bob's message** to "his boy, Robbie, his Florida boy" and the Acolytes: Robbie has now ridden the fan boat, seen gators and rubbed his nipples a bit, "**But it only gets better from here, my friend. Because now we're gonna go to Publix and get delicious fried chicken tenders.**" He tells every Acolyte to try them. (Inferred from these lines: after the fight Robbie and Bob went to Florida together.)
 >
 > **Out-of-character (creator notes)**
-> - Drew: this was Big Papa Drak's debut, not only on D20 Deathmatch but in any tabletop RPG. Drak has an acting and improv background (New York). He was nervous but had a blast.
-> - Drew: Robbie Clark & the Hunger are now separated, with "one loss, one win this season."
+> - Mudcat: this was Big Papa Drak's debut, not only on D20 Deathmatch but in any tabletop RPG. Drak has an acting and improv background (New York). He was nervous but had a blast.
+> - Mudcat: Robbie Clark & the Hunger are now separated, with "one loss, one win this season."
 > - Cinderblock's original concept: "what if it was Pokemon but in Eldritch Horror." He didn't expect this much of a story arc. Robbie's future: finding his own fighting-style niche "amongst the Everglades," learning a bit from Bob.
 > - Cinderblock did not plan the Hunger becoming the villain; he leaned in once the box sacrifice became "horrible." The Bob/Robbie connection grew from something Drak did, plus the similar names. **If the dice had gone differently, the Hunger would have retaken Robbie and mind-wiped him "and just keeping on keeping on."**
 > - Drak planned only the name Bob; all the Florida Man material was improvised just before the start. He says the Robbie bond was spontaneous: "there was a life and death of a child… someone who could be like a son."
-> - Drew: this episode is "up there in one of my favorites" across five seasons.
-> - Bec explained the "Florida man horoscope" (Google "Florida man" plus your birth date).
+> - Mudcat: this episode is "up there in one of my favorites" across five seasons.
+> - Caustic Phoenix explained the "Florida man horoscope" (Google "Florida man" plus your birth date).
 > - Plugs: Cinderblock Sally streams D&D homebrew on YouTube and makes shorts. Big Papa Drak streams Warzone and Raid Shadow Legends on YouTube and Twitch.
 

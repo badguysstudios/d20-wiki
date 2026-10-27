@@ -126,7 +126,7 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 - **What he gave up:** returned the Sun Sword to the box. Lost his armor, shield and hammer to the magnet.
 - **Outcome:** won by downing Glassy and taking **Jerry's soul** by infernal contract. He's expecting her (and Jerry) at Christmas. Left for a pub crawl with the Arbiter via Luskan.
 
-**[[Characters/Glassy|Glassy / Glacia ("Glassy Bear")]]** (Ms. Magitek / Tracy). Thornabub's **18-year-old** daughter (her race isn't stated in the episode; Drew calls the two champions tieflings in Dried Blood).
+**[[Characters/Glassy|Glassy / Glacia ("Glassy Bear")]]** (Ms. Magitek / Tracy). Thornabub's **18-year-old** daughter (her race isn't stated in the episode; Mudcat calls the two champions tieflings in Dried Blood).
 - **Name:** named after a lord of the Nine Hells.
 - **Her life now:** she left the Nine Hells and **lives in Luskan on the material plane**. She has **new purple hair**.
 - **Jerry/Gary:** her boyfriend, a wizard (or "just an electrician"). He taught her lightning magic (Lightning Lure, Lightning Bolt).
@@ -145,14 +145,14 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 
 **Mahadi**. A rakshasa businessman with connections to Asmodeus. Glassy's arranged fiancé. "Tiger freak," "very limber."
 
-**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Mudcat).
 - **Now housed in a new box commissioned by the Acolytes.** It throws cool purple, pink and yellow flame, and Gerald is a small shadowy silhouette.
 - He talks: he enjoys blood but wants variety, and says "I have a soul."
 - **He gave the Sun Sword, the Helm of the Gods and a +1 breastplate.** He got angry at Thornabub returning the sword and favored Glassy.
 - **He now keeps undead raccoons or squirrels in the box as pets; one is named Francisco.**
 - Dried Blood: he's paid in table scraps and drops of blood. He had a girlfriend who fought in a Deathmatch "a little while back"; she now **works on the bee farm with her memory of him modified**.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Found the GM asleep, and plans tourism flyers.
 - Sided with Thornabub: "people don't respect their elders."
 - Gambling: "I'm going to lose a lot of money" on a short fight.
@@ -160,7 +160,7 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 - Believes magnets are magic and the earth is flat.
 - Went for drinks with Thornabub. **Dried Blood: confides he has been trying to overthrow the Grandmaster "for years."**
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Thrown by daylight saving time; slept from 5 p.m. Realized she can ignore it as ruler.
 - **Her bed chamber has a David Copperfield poster.** She curated the forest arena as her wild garden.
 - Sat with Doug.
@@ -290,7 +290,7 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 > 46. **0:56:58** With her Action Surge she casts **Spider Climb** and dashes about **40 ft up the cliff** above the rune ("theater of the mind"). **She sticks her tongue out at him**, though she can't see him.
 > 47. **0:58:07** Thornabub: "I could easily crush you right now. But the Grandmaster and Arbiter insist on making it slow. So I will give them the show they want." He casts **Aura of Vitality** on himself (the GM: "self-care is really important"), then **Toll the Dead**: "The end is coming for you, daughter." She fails ("Thankfully I'm very wise. No thanks to you"). "**Do you hear that bell, daughter? It's mommy calling you home again.**"
 > 48. **0:59:24** Glassy: "Can you take this stupid blindness off of me and make this an actual fair fight?" Thornabub instead **lets Aura of Vitality drop after one use to keep concentrating on the blindness**. "**You will stay blind until you accept defeat and come home to the Nine Hells.**" The Arbiter: "That's petty and I like it."
-> 49. **0:59:48 — Bargaining with Gerald.** Thornabub sidles up to the box: "Let's say you and me got off on the wrong foot… I did give you my blood." **Gerald (Drew): "Yeah, but I've already tasted your blood. What else you got?"** Thornabub's Persuasion fails ("Now I have to make a stat card for Gerald"). Gerald: "**I do enjoy blood, but maybe give me a second option.**"
+> 49. **0:59:48 — Bargaining with Gerald.** Thornabub sidles up to the box: "Let's say you and me got off on the wrong foot… I did give you my blood." **Gerald (Mudcat): "Yeah, but I've already tasted your blood. What else you got?"** Thornabub's Persuasion fails ("Now I have to make a stat card for Gerald"). Gerald: "**I do enjoy blood, but maybe give me a second option.**"
 > 50. **1:01:02 — Zombie raccoons.** Thornabub offers to make Gerald a zombie. There are no humanoid bodies. The GM points at the one crawling out of the box; Gerald: "**You can't make me a zombie. I'm not dead.**" **Thornabub casts Animate Dead on dead forest animals, and a few undead raccoons or squirrels scamper over and leap into the box.** Gerald: "**I've always wanted a pet… I will name him Francisco.**" "**Listen, I have a soul and now I have a raccoon zombie.**" Thornabub: "One day someone's going to open the box and a bunch of undead squirrels are just going to leap out." The GM will be "adding details about Gerald's squirrels later." Meanwhile, Glassy pats the rocks to work out where she is.
 > 51. **1:03:13** Gerald is "running low on supplies, but this is the best I got": **a +1 metallic breastplate**, stacked on top of his armor. It's not his size. **It makes him look fat, his flesh popping out at weird angles. "It's a shmedium. I used to be a shmedium back when I was interning for Asmodeus."** GM: "You look great." "Yes, I know I look great." Thornabub: "I like this color palette."
 > 52. **1:04:16** The GM calls a 10-minute breather. When they return, the magnet is about to trigger. The Arbiter adds that **a third chaos event has been triggered**: "I think the Acolytes are trying to kill you all."
@@ -337,9 +337,9 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > ### In-character lines (canon, Dried Blood)
-> - **1:41:13** Jerry's soul was taken but he is "kinda alive-ish" (Bec). Glassy (Tracy): "He wasn't using it anyway?" Arbiter: "He was an electrician. Do they even have souls?"
-> - **1:51:24** The bar is "a little seedy dive bar… with neon signs" (Bec). Thornabub asks whether Gerald is union. The Arbiter: "**We pay him in… table scraps and stuff… drop of blood here, drop of blood there.**"
-> - **1:51:42** Arbiter: "**He had a girlfriend. She was in the Deathmatch a little while back. She rubbed me the wrong way.**" Then (tagged 02, probably Drew): "**She works on our bee farm now, but I modified her memory so she doesn't remember him.**" Then: "I didn't care for the way that she talked to me." Drew also says, out of character at 1:51:03, that "He had a girlfriend who doesn't remember him now."
+> - **1:41:13** Jerry's soul was taken but he is "kinda alive-ish" (Caustic Phoenix). Glassy (Tracy): "He wasn't using it anyway?" Arbiter: "He was an electrician. Do they even have souls?"
+> - **1:51:24** The bar is "a little seedy dive bar… with neon signs" (Caustic Phoenix). Thornabub asks whether Gerald is union. The Arbiter: "**We pay him in… table scraps and stuff… drop of blood here, drop of blood there.**"
+> - **1:51:42** Arbiter: "**He had a girlfriend. She was in the Deathmatch a little while back. She rubbed me the wrong way.**" Then (tagged 02, probably Mudcat): "**She works on our bee farm now, but I modified her memory so she doesn't remember him.**" Then: "I didn't care for the way that she talked to me." Mudcat also says, out of character at 1:51:03, that "He had a girlfriend who doesn't remember him now."
 > - **1:52:02** Thornabub: "You can go far in the Nine Hells… **We can get you set up with like a 401k, benefits.**" The Arbiter has never been.
 > - **1:52:14** **Arbiter: "Listen, between you and me, I've been trying to overthrow the Grandmaster for years. For years."** Thornabub: "**We could help with that. We have infernal legions that my daughter's gonna give birth to in a few years.**" Glassy (Tracy): "Oh my god!"
 > - **1:49:23** Tracy: "**Adam is my brother.**" George: "The brother that I was beating with the Sun Sword." This makes the "son's sword" joke a named brother, Adam. Whether it's canon is ambiguous.
@@ -349,15 +349,15 @@ At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter 
 >   - The GM: "**I will be your benefactor… You're going to have the nicest armor out there.**"
 >
 > ### Out-of-character (creator notes)
-> - **The river was acidic** (Bec, 1:47:15). George had forgotten that Charger could push Glassy 10 ft into it. He jokes "We never taught her how to swim… not a lot of swimming happening in the Nine Hells"; Bec says there are no community pools down there.
-> - **The pit was meant to hold spiders** ready to web the champions; it went unused. Drew didn't expect the magnet to be used that way and called it a cool finish.
+> - **The river was acidic** (Caustic Phoenix, 1:47:15). George had forgotten that Charger could push Glassy 10 ft into it. He jokes "We never taught her how to swim… not a lot of swimming happening in the Nine Hells"; Caustic Phoenix says there are no community pools down there.
+> - **The pit was meant to hold spiders** ready to web the champions; it went unused. Mudcat didn't expect the magnet to be used that way and called it a cool finish.
 > - **Jerry's name was George's improvisation.** Tracy said yes-and to it. The contract at the end was also unplanned. Tracy is known for signing contracts in their D&D games.
-> - **Glassy's build:** a warlock/sorcerer. The **warlock power comes from her infernal heritage and pacts with her dad; the sorcerer magic is "my own… independence."** Bec compared her to Todoroki. Tracy held back **Banishment**, meant to send her dad back to the Nine Hells. George: Thornabub has −1 Charisma.
+> - **Glassy's build:** a warlock/sorcerer. The **warlock power comes from her infernal heritage and pacts with her dad; the sorcerer magic is "my own… independence."** Caustic Phoenix compared her to Todoroki. Tracy held back **Banishment**, meant to send her dad back to the Nine Hells. George: Thornabub has −1 Charisma.
 > - George's combo: Crusher and Charger feats, wings for 60 ft charges, and Channel Divinity Touch of Death. He used his hero point early because he expected the magnet to strand him in his plate. He had planned a last-ditch "You'll always be my Glassy Bear" plea with a single tear, then Death Ward.
-> - Drew had never played Curse of Strahd except the offshoot Tracy DM'd on her channel ("Strahd Ask"?), so he read the Sun Sword on the fly. Magic item rolls on that table are hit or miss.
-> - Bec wants dead raccoon art for Francisco. George suggests Forgotten Adventures ghost tokens. Drew: "You wouldn't believe how much lore we're building out about the Box of Chaos… He's got a name, it's Gerald. He had a girlfriend who doesn't remember him now."
+> - Mudcat had never played Curse of Strahd except the offshoot Tracy DM'd on her channel ("Strahd Ask"?), so he read the Sun Sword on the fly. Magic item rolls on that table are hit or miss.
+> - Caustic Phoenix wants dead raccoon art for Francisco. George suggests Forgotten Adventures ghost tokens. Mudcat: "You wouldn't believe how much lore we're building out about the Box of Chaos… He's got a name, it's Gerald. He had a girlfriend who doesn't remember him now."
 > - Idea floated: **a Christmas one-shot at the Thornabub household** ("Momo play your mother"), possibly for Patreon. Also a possible rematch with Glassy as a paladin.
-> - **This was George's first time on someone else's channel.** He worried about crossing lines while playing a devil. Drew: "We do not support domestic violence on D20 Deathmatch." George played "the heel," citing the WWE comparison.
-> - **Ms. Magitek is 0–2 in the arena.** She previously lost to Adam when chat summoned "the floor is lava." Drew joked it will be 0–3 "once the Arbiter kills Locket": **her Tabaxi ranger Locket is in Fate of the Arbiter**, with Big Daddy Teej and Anubis. Drew: one-shots "explored the Arbiter's treachery… against the Grandmaster." Tracy: "There's a whole resistance."
-> - George compared the show to MST3K, a "whole iceberg of lore." Drew and Bec recently saw MST3K live.
+> - **This was George's first time on someone else's channel.** He worried about crossing lines while playing a devil. Mudcat: "We do not support domestic violence on D20 Deathmatch." George played "the heel," citing the WWE comparison.
+> - **Ms. Magitek is 0–2 in the arena.** She previously lost to Adam when chat summoned "the floor is lava." Mudcat joked it will be 0–3 "once the Arbiter kills Locket": **her Tabaxi ranger Locket is in Fate of the Arbiter**, with Big Daddy Teej and Anubis. Mudcat: one-shots "explored the Arbiter's treachery… against the Grandmaster." Tracy: "There's a whole resistance."
+> - George compared the show to MST3K, a "whole iceberg of lore." Mudcat and Caustic Phoenix recently saw MST3K live.
 

@@ -145,7 +145,7 @@ Captain Fable left the Acolytes with a sermon. Strength never comes from outside
 - Pressed into Fable's crew with a pirate hat. Fired a short bow, then a short sword.
 - Lost a hand when Fable regrew. **Destroyed by the bats**; Fable eulogized him.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Now a chained prisoner in the Grandmaster's Dread Fortress.**
 - Says he is **"four, four and a half thousand years old,"** yet "**timeless and has no birthday**."
 - **Powers:** claps portals open with visible sound waves; giant glowing white wings; rewinds time (the plush d20 gag); summons bats.
@@ -154,7 +154,7 @@ Captain Fable left the Acolytes with a sermon. Strength never comes from outside
 - Flirts with the "mom who's into my chains."
 - Does the body cleanup.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Shopping for **five thrones**; picks a **Doja Cat bust throne** to be sculpted, and uses it temporarily in the arena.
 - Plans an Acolyte vote on the throne. Keeps the Arbiter in chains as "ankle weights."
 - Protects Doug. Has a closet and a whole basement of plush d20s.
@@ -195,14 +195,14 @@ Captain Fable left the Acolytes with a sermon. Strength never comes from outside
 
 ### Lore statements
 - **The Arbiter is a chained prisoner of the Grandmaster in the Dread Fortress.**
-- **The Arbiter's stated age: about 4,000–4,500 years.** The GM jokingly says "400,000 whatever years." Drew says he is "timeless and has no birthday."
+- **The Arbiter's stated age: about 4,000–4,500 years.** The GM jokingly says "400,000 whatever years." Mudcat says he is "timeless and has no birthday."
 - The Acolytes include children; the arena is "family-friendly."
 - The Box of Chaos can be fed from range ("keyword attempt"), and Gerald can leave it.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the Dread Fortress and the five thrones
-> 1. **0:00:10** The show opens with the Arbiter out of breath ("Not a young man anymore"). The GM asks how old he is. **Arbiter: "four, four and a half thousand years old."** She thought he'd say four and a half *years*, and muses about celebrating his birthday ("but who cares?"). Drew: "**Despite the fact that he does have an age, he's also timeless and has no birthday.**" Asked where he came from: "Don't ask questions."
+> 1. **0:00:10** The show opens with the Arbiter out of breath ("Not a young man anymore"). The GM asks how old he is. **Arbiter: "four, four and a half thousand years old."** She thought he'd say four and a half *years*, and muses about celebrating his birthday ("but who cares?"). Mudcat: "**Despite the fact that he does have an age, he's also timeless and has no birthday.**" Asked where he came from: "Don't ask questions."
 > 2. **0:00:49** In the halls of Elusia Skypiercer in **the Dread Fortress**, **the Arbiter walks the hallway with chains clanking behind him, "a prisoner in this domain now of the Grandmaster's."** He follows the commotion to the giant wooden doors of the **throne room** and peeks in.
 > 3. **0:01:40** The GM says she sent a raven hours ago because she needs his opinion. He asks her to remove the chains so he can move faster. She refuses: "just get stronger… You got like weak little chicken legs." The chains are "a gift… like ankle weights," and he should do sprints up the staircase. "**It's like you skipped leg day for those 400,000 whatever years you've been alive.**"
 > 4. **0:02:29 The thrones.** **Five different thrones stand at the front of the throne room**, because she couldn't decide which to get:
@@ -398,11 +398,11 @@ Captain Fable left the Acolytes with a sermon. Strength never comes from outside
 >
 > ### Out-of-character: creator notes
 > - Sensei is returning; this is Matt's first time on. **Matt stepped away from Twitch for two years.** The show reminded him of **watching WWE at a wing shop** with friends.
-> - **Drew: the show's influences are professional wrestling, Celebrity Deathmatch and Mystery Science Theater 3000.** He stresses building a real narrative inside PvP, and would watch both characters in a dark "edgelord campaign."
+> - **Mudcat: the show's influences are professional wrestling, Celebrity Deathmatch and Mystery Science Theater 3000.** He stresses building a real narrative inside PvP, and would watch both characters in a dark "edgelord campaign."
 > - Matt: both characters were "uncannily edgy": "the most stereotypical liners from the dark, moody characters… but then we got two of them." The GM: "You get a shadow. You get a hex. Here's a dead guy. Here's darkness."
 > - **Sensei is taking the ship into his own campaign.** He says **"Martin, the previous character"** once referenced the show in his campaign ("Is this the arena? Where's the Arbiter?").
 > - **Verryn is from a campaign where he was higher level and has died several times.** Matt compares the arena to **Goku's afterlife tournament in Dragon Ball Z**: a temporary stop before he is thrown back into the world to resume his **hedonism**. Verryn is "emotionally unhealthy."
-> - Drew, on "this isn't my first life": "**we need a prequel one-shot, a very origin story.**"
+> - Mudcat, on "this isn't my first life": "**we need a prequel one-shot, a very origin story.**"
 > - **Matt's Kickstarter: "Beyond the Game Dice" from Dice Roll Studios**, a feature documentary about tabletop RPG players.
 >   - Goal: $65,000. Talks with Amazon and Netflix.
 >   - Five segments: cosplayers/LARPers, homeless shelters and prisons (maybe library programs for children), collectors, the community, celebrities.

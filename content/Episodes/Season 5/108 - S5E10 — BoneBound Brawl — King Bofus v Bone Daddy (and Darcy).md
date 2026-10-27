@@ -142,7 +142,7 @@ In the arena locker room, goblins pulled chunks of bone out of both revived cham
 
 **Bone Mother / Bone Mummy**. Bone Daddy's mother, in the stands beside the goblins and Thea, wearing a tooth pom-pom hat. She pucks Totino's 50 yards and rides his shoulder in the surge. She no longer speaks to Craig.
 
-**Craig ("Bone Daddy Daddy")**. Bone Daddy's father and Bofus's ex. He appears in the stands through Bofus's failed portal, endorses Bofus punching his son, rides the surge, delivers the safe-word warning, and shares the final kiss with Bofus. Drew said "Craig Dennison?"; his surname is uncertain.
+**Craig ("Bone Daddy Daddy")**. Bone Daddy's father and Bofus's ex. He appears in the stands through Bofus's failed portal, endorses Bofus punching his son, rides the surge, delivers the safe-word warning, and shares the final kiss with Bofus. Mudcat said "Craig Dennison?"; his surname is uncertain.
 
 **Tina the Tooth Fairy**. Bone Daddy's ex. Bofus tried twice to summon her; the only result was a single tooth.
 
@@ -174,12 +174,12 @@ In the arena locker room, goblins pulled chunks of bone out of both revived cham
 - Every Dread Fortress goblin gets a chinchilla and pet insurance. Richard Knottley believed the chinchillas have a government.
 - The Box of Chaos can give powers, not only items, and a second use costs a fatigue (a game mechanic).
 - **The Arbiter's rings can turn up in the Box of Chaos** ("once belonged to the Arbiter").
-- In the Dried Blood creator note, Drew says the Arbiter gained Morir's Cataclysm in Vythorn's Return on his way to becoming Lord of Fate.
+- In the Dried Blood creator note, Mudcat says the Arbiter gained Morir's Cataclysm in Vythorn's Return on his way to becoming Lord of Fate.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Dread Fortress attic
-> 1. **0:05:53** The file opens with a misheard "Welcome to D20 Chess Box!" (almost certainly "D20 Deathmatch"). **0:06:03** Drew narrates: **the Lord of Fate searches the Dread Fortress for Thea**. He moves through the kitchen, the brewery, **the Grandmaster's old bedroom**, his own bedroom and **Thea's old bedroom, "which is now an office"**, then climbs a large keep up to **the attic**.
+> 1. **0:05:53** The file opens with a misheard "Welcome to D20 Chess Box!" (almost certainly "D20 Deathmatch"). **0:06:03** Mudcat narrates: **the Lord of Fate searches the Dread Fortress for Thea**. He moves through the kitchen, the brewery, **the Grandmaster's old bedroom**, his own bedroom and **Thea's old bedroom, "which is now an office"**, then climbs a large keep up to **the attic**.
 > 2. **0:06:42** The attic is a chaotic maze of boxes. Inside it **a line of goblins is being bundled up for the cold** in cute, mismatched scarves, mittens and hats (patterns, checkers, polka dots). Thea is making sure "the goblins are ready for today's deathmatch" and warns one to wear its gloves "or you're gonna lose your fingers when you step outside."
 > 3. **0:07:38** Thea puts a goblin-sized scarf on the Lord of Fate, where it looks like "a small kind of like thin thread", and tries to force a child-sized glove onto his hand. He refuses: "I'm the Lord of Fate. I don't need to wear gloves outside." Thea: "You can still get frostbite."
 > 4. **0:08:38 — Attic contents.** Asked where all the clothing came from, Thea says "Boxes." The attic also holds **a horse, some photo albums, and a whole box of crowns**, all too big for Thea's head.
@@ -197,7 +197,7 @@ In the arena locker room, goblins pulled chunks of bone out of both revived cham
 >
 > ### The pom-pom hats
 > 14. **0:16:45** Thea hands each champion a pom-pom hat that **transforms into the wearer's dream hat**. One spare hat grows until **its pom-pom becomes a portal** to "the mountaintop yet again". Thea flies through on **impish pink wings, leaving a trail of glitter**. Bofus defers to the daddy by flapping his arms.
-> 15. **0:17:48 — Bone Daddy's hat.** He steps through on pale, spindly legs. **His pom-pom is made of teeth** ("Baby teeth," says Drew). Thea: are Bone Daddy and the Tooth Fairy the same? Bone Daddy: "**The Tooth Fairy is my ex.** Complicated woman, but I'm a complicated man."
+> 15. **0:17:48 — Bone Daddy's hat.** He steps through on pale, spindly legs. **His pom-pom is made of teeth** ("Baby teeth," says Mudcat). Thea: are Bone Daddy and the Tooth Fairy the same? Bone Daddy: "**The Tooth Fairy is my ex.** Complicated woman, but I'm a complicated man."
 > 16. **0:19:02 — Bofus's hat.** Bofus hops through on all fours. **His hat sits on his crown, which sits on the mask, and it transforms into "the wide… girth of Bone Daddy's mother", with the pom-pom as her head.** He "took a frog nap and dreamt of your mother." He calls Thea "the Flapping Demon, whose name I have completely forgotten."
 > 17. **0:20:03 — Bone Mother.** Bone Daddy sees **his mother in the stands next to the goblins, also wearing a tooth pom-pom hat**, and winks at her. He complains that Thea didn't ask Darcy about a hat. **Thea bursts into tears: literal crocodiles drip from her eyes** ("This is how crocodiles are made"). She gives Darcy **a present wrapped in green with a red ribbon: a hat with three pom-poms**, which Darcy tears open with her long bone claws (the transcript also says "a pumpkin being, like, a pom-pom"; unclear). **0:22:00** Darcy has two thumbs, "pointing right at daddy." "We're gonna only point with thumbs from here on out."
 >
@@ -237,11 +237,11 @@ In the arena locker room, goblins pulled chunks of bone out of both revived cham
 > 44. **1:00:00 — The signature move.** "Bofus, Bofus, Bofus, more like **Dingus, Dingus, Dingus**." Bone Daddy: "**Death Armor Reborn in the Combat Yard. D-A-R-C-Y, Darcy!**" **Her rib cage opens to engulf him, her arms enlarge, and bones rise from the soil to add to her form until she is a bone mech around him.** His stats switch, and the table chants "Do it!"
 > 45. **1:01:38 — Daddy's Girl.** His powered-up signature attack, "**Daddy's Girl**", hits: **the giant fist comes down and Bofus's head disappears into his body.** Bone Daddy scrapes "this gooey mess of Bofus" off his foot. The second attack ties. "You just won't die, Bofus… **You're a worthy match**… It won't last long, though."
 > 46. **1:03:27 — The Frog Splash.** **Bofus pushes his thumb into his head cavity; with a pop and a ribbit his body re-inflates and he pops off Bone Daddy's shoe.** "It'd be a real shame if someone would have… **frog splash your stats**." He runs up a jagged rock on his feet paddles, twists in midair and **slams down on the mech with his signature move, the Frog Splash**. It hits: an earthquake shudder **shrinks the mech, crushing Bone Daddy slightly**, and his stats shift again.
-> 47. **1:05:57 — The ex.** Perched on the mech "**master blaster**" style, Bofus tries to **summon the Tooth Fairy through a portal from another dimension** so she can witness Bone Daddy's humiliation ("Darcy, look away"). **Bone Daddy defends with a natural 20.** Bec: instead **Bofus's own ex falls through the portal into the stands**. It's **Bone Daddy's father, "Bone Daddy Daddy"**. Bone Mother sits on the opposite side of the stadium "because they don't talk anymore."
+> 47. **1:05:57 — The ex.** Perched on the mech "**master blaster**" style, Bofus tries to **summon the Tooth Fairy through a portal from another dimension** so she can witness Bone Daddy's humiliation ("Darcy, look away"). **Bone Daddy defends with a natural 20.** Caustic Phoenix: instead **Bofus's own ex falls through the portal into the stands**. It's **Bone Daddy's father, "Bone Daddy Daddy"**. Bone Mother sits on the opposite side of the stadium "because they don't talk anymore."
 > 48. **1:08:15** Bone Daddy: "**My parents separated when I was four years old.**" Bofus: "I might have some home truths for you, son." "Did you fuck both my mother and my father?" "**I left your mother alone. I went after your dad.**" Bone Daddy: "I did learn everything I know from my father." Thea: "Or the femur from the skeleton in this case."
-> 49. **1:09:19 — Craig.** Bofus calls up: "How are you doing up there? **Craig?**" (Drew: "Craig Dennison?") Craig is fine, and remembers Bofus as "a frog prince!" Bofus: "**I got a promotion.**" He asks whether he may punch Craig's son in the head; **Craig endorses it**.
+> 49. **1:09:19 — Craig.** Bofus calls up: "How are you doing up there? **Craig?**" (Mudcat: "Craig Dennison?") Craig is fine, and remembers Bofus as "a frog prince!" Bofus: "**I got a promotion.**" He asks whether he may punch Craig's son in the head; **Craig endorses it**.
 > 50. **1:10:19** The first punch misses ("Not even having my own father on your side can distract me"). **The second punch is a natural 20**, putting Bofus at 11 to Bone Daddy's 12. "I can feel my ex-lover's eyes on me."
-> 51. **1:11:24** He tries the Tooth Fairy again (Drew: "**Don't bring Tina into this.**") and fails: **a single tooth falls from the sky**. Bone Daddy: "**who do you think made me this hat, huh? Tina** and I had a great relationship." Bofus: "I've scraped my knuckles against it… she made it with love and resilience." He jumps down into a frog squat to defend.
+> 51. **1:11:24** He tries the Tooth Fairy again (Mudcat: "**Don't bring Tina into this.**") and fails: **a single tooth falls from the sky**. Bone Daddy: "**who do you think made me this hat, huh? Tina** and I had a great relationship." Bofus: "I've scraped my knuckles against it… she made it with love and resilience." He jumps down into a frog squat to defend.
 > 52. **1:12:45** Thea rolls a 10: "adequate." "No one says no to adequate."
 >
 > ### Round 4 — the basketball special and the Box of Chaos
@@ -270,21 +270,21 @@ In the arena locker room, goblins pulled chunks of bone out of both revived cham
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **Out-of-character (creator notes):**
-> - Drew: Bone Daddy returns from a previous season, "maybe the only champion to come back from a previous season in this current season."
-> - Bec: "three pairs of sunglasses." Johnny: "future so bright I need shades."
+> - Mudcat: Bone Daddy returns from a previous season, "maybe the only champion to come back from a previous season in this current season."
+> - Caustic Phoenix: "three pairs of sunglasses." Johnny: "future so bright I need shades."
 > - Dr. Bees admired Bone Daddy's ready-made supporting cast (mom, Darcy, the Tooth Fairy). Johnny loved how Bofus's stat-swapping signature move countered his own. He built "Daddy's Girl" with Mudcat.
-> - Drew: the Darcy mech was the move Bone Daddy pulled at the end of his previous season.
-> - A striped cat appears on Johnny's camera. Bec says **Lubofan's two cats fought on the couch behind her during her deathmatch**, "a deathmatch in a deathmatch."
-> - **Bofus has "tied his way to a death twice now."** Drew: ties and nat 1s each cause fatigue, so tie deaths are more common than people expect, and there were more early in the season.
+> - Mudcat: the Darcy mech was the move Bone Daddy pulled at the end of his previous season.
+> - A striped cat appears on Johnny's camera. Caustic Phoenix says **Lubofan's two cats fought on the couch behind her during her deathmatch**, "a deathmatch in a deathmatch."
+> - **Bofus has "tied his way to a death twice now."** Mudcat: ties and nat 1s each cause fatigue, so tie deaths are more common than people expect, and there were more early in the season.
 > - Stat spreads: **Bofus 1-1-4** (kept from his previous fight, for more actions). Bone Daddy started 1-2-3, which became 3-2-1.
 > - Dr. Bees: "if there is a big box of chaos that costs me health and a fatigue to do the thing again you fucking bet your ass I'm going back in there." Johnny: "Pressing the button is what makes entertaining actual plays."
-> - Drew: "I wrote this system specifically… for storytelling" (Champions of Chaos).
+> - Mudcat: "I wrote this system specifically… for storytelling" (Champions of Chaos).
 > - **Bofus's original name was going to be "Frankenfrog."** Dr. Bees: "A classic reimagining of the princess and the frog," and Craig is the one who made him king.
-> - **Drew's lore note:** "Dr. Bees was in our **Vythorn's Return** series, which is how the Arbiter became the Lord of Fate. And in doing so, he had to gain an item called **Morir's Cataclysm**, a tome," the same tome Bofus pulled from the box. Bec adds that **in Vythorn's Return Dr. Bees played a different frog** who couldn't read anything except Giant ("Different frog. They weren't related").
+> - **Mudcat's lore note:** "Dr. Bees was in our **Vythorn's Return** series, which is how the Arbiter became the Lord of Fate. And in doing so, he had to gain an item called **Morir's Cataclysm**, a tome," the same tome Bofus pulled from the box. Caustic Phoenix adds that **in Vythorn's Return Dr. Bees played a different frog** who couldn't read anything except Giant ("Different frog. They weren't related").
 > - Dr. Bees: **King Bofus is "a leader of a frog nation somewhere"**; everything else (Craig, the attraction to Bone Daddy) was improvised, apart from the callbacks to Richard Knottley. Johnny: Bone Daddy's divorced parents, his "dom ways" learned from his dad, and the Tooth Fairy ex were all improvised.
 >
 > **In-character (canon, Dried Blood):**
-> - **1:53:01** Drew frames the final words in **the arena locker room, "as goblins are pulling chunks of bones out of your bodies that have been revived."** Both champions are revived.
+> - **1:53:01** Mudcat frames the final words in **the arena locker room, "as goblins are pulling chunks of bones out of your bodies that have been revived."** Both champions are revived.
 > - King Bofus: "**If you can, always be at least 50% man, 50% frog, and 100% Bad at potentially maths… 50% Peloton.**"
 > - Bone Daddy: "**Never forget to say thank you, daddy.**" Everyone signs off "Good night, daddies."
 

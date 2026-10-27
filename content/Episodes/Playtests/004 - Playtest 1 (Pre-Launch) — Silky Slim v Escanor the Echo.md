@@ -14,8 +14,11 @@ arena: The Forest of Death
 summary: Minotaur Escanor the Echo and his echo-twin Cream outlasted the oiled bugbear Silky Slim in a flooded, duckling-filled Forest of Death. The Grandmaster spared the fallen Silky but bound him to the Void until he wins a victory of his own.
 tags:
 - episode
+youtube: https://youtu.be/SgFsqyQFIzQ
 canon_order: 4
 ---
+
+[Watch on YouTube](https://youtu.be/SgFsqyQFIzQ)
 
 Before the Deathmatches had a season to call their own, there was a minotaur, a bugbear and a forest full of mud. In this first playtest, **Escanor the Echo** and his lovingly named echo-twin faced **Silky Slim**, a bugbear barbarian with luxuriously oiled fur and a glaive called Bernice. They fought for the amusement of [[Grandmaster Elusia Skypiercer|the Grandmaster]] in the rain-soaked Forest of Death. Between the lightning, the hibiscus lube and eight very precious ducklings, the match set the tone for everything that followed.
 
@@ -106,9 +109,9 @@ Escanor was crowned **Champion of the Death Forest**. The Grandmaster spread her
 
 **[[Characters/Escanor the Echo|Escanor the Echo]]** (TheShortNord). Minotaur fighter (Echo Knight); world-class hide-and-seek player; longsword and three hand axes. Horns charged with lightning after the chaos event. Echo named **Cream** ("the cream of Escanor"), whom he treats as a twin brother; matching "fam"/"illy" tattoos; "the power of family." Protected the Grandmaster's ducklings. **Winner, Champion of the Death Forest.**
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). "Weary from eons of absolute power." Watches from a high perch; fighting stops when she's on the field. Loves the ducklings; made the runt giant. Says she has nieces and nephews (1:19:39). Has wings; rain avoids her.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Caustic Phoenix). "Weary from eons of absolute power." Watches from a high perch; fighting stops when she's on the field. Loves the ducklings; made the runt giant. Says she has nieces and nephews (1:19:39). Has wings; rain avoids her.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). Black and white robes; eight golden rings of fluorescent colors; mage hand and prestidigitation; opens portals; triggers chaos events; performs the anthem. Fills the Grandmaster's calendar and buys family birthday presents. Flips her off behind her back.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). Black and white robes; eight golden rings of fluorescent colors; mage hand and prestidigitation; opens portals; triggers chaos events; performs the anthem. Fills the Grandmaster's calendar and buys family birthday presents. Flips her off behind her back.
 
 **The runt duckling.** Rescued by the Grandmaster, later grown giant to save both champions.
 
@@ -116,7 +119,7 @@ Escanor was crowned **Champion of the Death Forest**. The Grandmaster spread her
 
 ### Places
 - **The Forest of Death**: rainy, muddy arena of trees, hills, a cavern, a fire pit, a column, an aquifer that floods, hunters' bear traps; burned every three years.
-- **The Grandmaster's throne room**, described here as the lowest level of a "subterranean castle": the Dread Fortress (Drew).
+- **The Grandmaster's throne room**, described here as the lowest level of a "subterranean castle": the Dread Fortress (Mudcat).
 - **The Crooked Rose**: where Silky's women are (Silky's home world, not the Void).
 
 ### Groups
@@ -128,8 +131,8 @@ Escanor was crowned **Champion of the Death Forest**. The Grandmaster spread her
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
-> 1. **0:01:10 — Opening narration (Bec):** "Far beyond the forgotten realms and all of known existence, beyond a dark void that stretches for eternity lies a plane outside of space and time. Here we find the Grandmaster, weary from eons of absolute power." She has tasked the Arbiter, "her servant in all things," to curate a series of games "to commemorate her greatness and provide momentary respite from all the dull droning of boredom." Champions "of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena."
-> 2. **0:02:14 — The throne room.** The Arbiter, in **black and white robes**, walks down through the dungeons to "the lowest level of this subterranean castle" where the Grandmaster sits drumming her fingers, bored. (Bec wears a crown.) "You asked for blood, and I will provide."
+> 1. **0:01:10 — Opening narration (Caustic Phoenix):** "Far beyond the forgotten realms and all of known existence, beyond a dark void that stretches for eternity lies a plane outside of space and time. Here we find the Grandmaster, weary from eons of absolute power." She has tasked the Arbiter, "her servant in all things," to curate a series of games "to commemorate her greatness and provide momentary respite from all the dull droning of boredom." Champions "of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena."
+> 2. **0:02:14 — The throne room.** The Arbiter, in **black and white robes**, walks down through the dungeons to "the lowest level of this subterranean castle" where the Grandmaster sits drumming her fingers, bored. (Caustic Phoenix wears a crown.) "You asked for blood, and I will provide."
 > 3. **0:03:39 — The champions.** **Escanor the Echo**, a minotaur fighter and "world-class hide-and-seek player": "Escanor has all the power. Escanor will crush this weak little man." **Silky Slim**, a bugbear barbarian, calls Escanor "Bessie the milk cow," brags about his "luxuriously oiled fur" (oiled daily by genasi from "the Thor coast") and introduces his glaive, **Bernice**.
 > 4. **0:05:53 — The arena: the Forest of Death.** The Grandmaster: "I know, not a clever name… I didn't come up with it. I just found it." Rain-soaked, muddy, trees and hills, leftover hunters' traps. Later the Arbiter says they burn it down every three years to promote new growth, and it's mostly clay, some granite and limestone (1:36:43).
 > 5. **0:06:45 — The Arbiter's rings.** He opens the portal with both hands, wearing **eight golden rings of varying bright fluorescent colors**.

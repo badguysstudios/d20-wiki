@@ -151,7 +151,7 @@ After the show the voices of the dead food taunted everyone to keep eating: "You
 - **The father-son bond:** he reluctantly became Starfall's father ("I just want to get away from this kid"). Tiamat charged him with raising Starfall. He buried and eulogized his son.
 - **The win:** he won the bout. Per the GM's ruling, **the Arbiter will take him on a fried fish date** if he won.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Found the champions in the Santa line at the mall, where he had been drunk. He was in line "for ironic reasons" and owns a 5×8 photo of the three of them on Santa's lap.
 - Uses mage hand. Wanted schnapps or Fireball but was "working."
 - Prepared the feast arena.
@@ -159,7 +159,7 @@ After the show the voices of the dead food taunted everyone to keep eating: "You
 - Calls the Grandmaster "my boss" and insists theirs is a "purely business relationship."
 - Doug outrolled him on a chaos roll.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Decorated the Dread Fortress with goblins and celebrates "whatever holiday that she wants." She dislikes Caroline the Canadian.
 - **Wanted a giant magnet installed in the arena.**
 - Recalls "mother said never to play with your food."
@@ -237,7 +237,7 @@ After the show the voices of the dead food taunted everyone to keep eating: "You
 > 29. **0:24:19** He **climbs the cake with short stubby claws, "almost like a badger."** The thick topping slides away, so he digs in wrist-deep. **The cake is strawberry inside.** "**The most dangerous of flavors.** You don't realize Dinkledink's allergic." His Constitution save leaves him only a little itchy.
 > 30. **0:26:14** He takes his paws to his head and **rages**. He **throws a hand axe** at the stuck Potato for a glancing blow. (He first rolled two battle axes by mistake: "Just launching battle axes.")
 > 31. **0:28:01 — The mother taunt.** "**When Dinkledink kills you, he's gonna find your mother, take her out to a nice fried fish dinner, never call her again.**" Potato: "**I don't even know my mother.**" GM: "He'll find her, don't you worry. **You're gonna meet your mom and your new stepdad at the same time.**" Potato: "**I have a family now?**" Dinkledink: "Just a few minutes."
-> 32. **0:28:29 — The fondue cake.** Bec said "fondue" for "fondant" and leans into it. **It is officially a strawberry cake covered in fondue.** "**They've never actually heard of a real cheesecake before… So they took a cake and they poured cheese over it.**" "You better thank **Richard and the rest of the goblin chefs**." Then chocolate on top, then fruit. "**They just don't have Pinterest… We don't exactly have great internet access down here.**"
+> 32. **0:28:29 — The fondue cake.** Caustic Phoenix said "fondue" for "fondant" and leans into it. **It is officially a strawberry cake covered in fondue.** "**They've never actually heard of a real cheesecake before… So they took a cake and they poured cheese over it.**" "You better thank **Richard and the rest of the goblin chefs**." Then chocolate on top, then fruit. "**They just don't have Pinterest… We don't exactly have great internet access down here.**"
 >
 > ### Chaos events 1 & 2 — the food fight and the turkey (0:30:06)
 > 33. **The food fight.** "You remember that food you brought? Well, it is time for a food fight!" **The Acolytes hurl their potluck at the champions**: hot dogs raining from the sky, Doritos, **actual potatoes** ("Your very distant potato cousins are raining from the sky." Potato: "More me?"), a waterfall of boiling "stinky cheese hot soup" that sizzles on the table, pierogies, and **dog treats, which get Doug very excited**. Both champions save for half "food damage." The GM suggests "a little bit of mental damage" for Potato as his own kind rains down.
@@ -312,18 +312,18 @@ After the show the voices of the dead food taunted everyone to keep eating: "You
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **In-character (Dried Blood, canon):**
-> - 1:58:37 Bec, as a joke voice of the dead food (speaker uncertain as to character): "Keep eating all of this gross food. You'll never kill us."
+> - 1:58:37 Caustic Phoenix, as a joke voice of the dead food (speaker uncertain as to character): "Keep eating all of this gross food. You'll never kill us."
 > - 2:00:09 Starfall (JonKoe): "No, I killed them all. Right? Yes, father."
 > - 2:00:20 Dinkledink (EndlessChad): "Yeah, sure, why not?"
 >
 > **Out-of-character (creator notes):**
-> - Drew: none of it was planned. The father-son bond, the fight in the giant's mouth and the team-up against the cake monster all came from the players.
-> - Bec: the bond was an odd response to "I'm going to meet your mom… and never call her again." JonKoe: "I don't know my mom, you do."
+> - Mudcat: none of it was planned. The father-son bond, the fight in the giant's mouth and the team-up against the cake monster all came from the players.
+> - Caustic Phoenix: the bond was an odd response to "I'm going to meet your mom… and never call her again." JonKoe: "I don't know my mom, you do."
 > - EndlessChad pitched a one-shot: Dinkledink finds the mother, says sorry for killing her kid, and asks if she likes fried catfish.
-> - Drew: he gave the giant a Con save when its tongue was hit, so it spat them out.
-> - Bec: "fried fish is not a fancy dinner." JonKoe: "For a potato, it's super fancy." The joke riffs on candles, a $12 bottle of wine, styrofoam plates, white bread and fancy sweet pickles.
+> - Mudcat: he gave the giant a Con save when its tongue was hit, so it spat them out.
+> - Caustic Phoenix: "fried fish is not a fancy dinner." JonKoe: "For a potato, it's super fancy." The joke riffs on candles, a $12 bottle of wine, styrofoam plates, white bread and fancy sweet pickles.
 > - Eating the cake: they didn't think about it being once-chewed food ("baby birding ourselves"). Healing by eating would have been allowed earlier. JonKoe: "I'm immune to disease." EndlessChad: "I'm a rat."
-> - Drew on the placemat burial: EndlessChad hid the body like dirt under a rug.
-> - Prequel joke: they were in line with the mall Santa for maybe six hours, played Magic and discussed Ready Player One. Drew: "We could do a whole prequel for it." This is a joke, not canon.
-> - Bec: "And go to family therapy, got it."
+> - Mudcat on the placemat burial: EndlessChad hid the body like dirt under a rug.
+> - Prequel joke: they were in line with the mall Santa for maybe six hours, played Magic and discussed Ready Player One. Mudcat: "We could do a whole prequel for it." This is a joke, not canon.
+> - Caustic Phoenix: "And go to family therapy, got it."
 

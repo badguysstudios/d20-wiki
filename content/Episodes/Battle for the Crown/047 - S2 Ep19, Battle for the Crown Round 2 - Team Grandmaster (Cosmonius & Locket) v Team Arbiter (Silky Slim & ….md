@@ -138,7 +138,7 @@ The Grandmaster drifted down and sent the Kraken back into the deep with a wave.
   - She dislikes being near people and claims rocks.
 - **Item:** owns a **Helm of the Gods** (a gift, barely used), used to cast Dissonant Whispers.
 - **In this episode:**
-  - Drew first blood.
+  - Mudcat first blood.
   - Ignited Slim's lube with a nat 20.
   - Killed Silky Slim, apologizing and blaming the Arbiter. Slim's ghost now haunts her.
   - Survived and won.
@@ -161,7 +161,7 @@ The Grandmaster drifted down and sent the Kraken back into the deep with a wave.
 - **Personality:** tried rebranding from cackling to "servitor noises," then went back to screaming.
 - **In this episode:** fell to the altar, woke the Kraken and played dead. Revealed as a slimy, disfigured baby with one cybernetic arm. Dying words condemn the Grandmaster and Arbiter "bicker[ing] over something as trivial as a throne while gambling with our lives." Last words: "Why the long face?"
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Now insists "I don't work for you anymore." Lounged on the GM's throne smoking.
 - Accuses Gerald of cheating last week.
 - "I should have just stabbed you in my throne room."
@@ -170,7 +170,7 @@ The Grandmaster drifted down and sent the Kraken back into the deep with a wave.
 - Winced at Slim's death.
 - **His event:** collapsed the ground into holes and blew the champions with his breath.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Owns the throne (its card reads "Belongs to the Grandmaster").
 - Expected a Google invite from the Arbiter.
 - Has goblins wheel a curtain for her champions.
@@ -218,7 +218,7 @@ The Grandmaster drifted down and sent the Kraken back into the deep with a wave.
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the Dread Fortress
-> 1. **0:00:27** Drew frames the night: Battle for the Crown number two. **The Arbiter is down one point in the standings.** The scene is the Dread Fortress.
+> 1. **0:00:27** Mudcat frames the night: Battle for the Crown number two. **The Arbiter is down one point in the standings.** The scene is the Dread Fortress.
 > 2. **0:00:45** Near start time, **the Grandmaster runs through the fortress in a panic, heels in one hand and her dress in the other**, yelling "Arbiter, where are you?"
 > 3. **0:01:13** She finds **the Arbiter on her throne**. He sits sideways with his legs over the arm and his feet on the table, **smoking a cigarette**: "What do you want?"
 > 4. **0:01:27** The GM: "Feet off, butt off. That is mine until you actually try to earn it." **The back of the throne has a card that reads "Belongs to the Grandmaster."** She complains that she **didn't get his Google invite** for tonight's Deathmatch.
@@ -289,8 +289,8 @@ The Grandmaster drifted down and sent the Kraken back into the deep with a wave.
 > 50. **1:33:49** **Slim's hibiscus bottle rolls from his hand, and he pulls lavender lube from his trunk** and takes a large scoop. **With his hero point he uses Second Wind** to "fight off death, just barely."
 > 51. **1:34:50 Cosmonius** steps to catch Locket, sees she's fine, and keeps his momentum. "Living up to my name as the Galloping Grappler," he **grapples the Baron**, carries him off the rock (monk slow fall) and **drags him to a hole**. The Baron's Sentinel opportunity attack misses ("I can't roll for shit"). Rather than throw him, **Cosmonius gallops into the hole holding him, "like the scene from Lord of the Rings," then Misty Steps back to the top in a burst of fey sparkles.** Locket: "Cosmo, you scared me. I thought I just lost my teammates."
 > 52. **1:37:29** **The Baron falls 30 ft and lands smack in the middle of an altar** in a chasm below. Cosmonius: "at least we've split them up, partner." GM: "Just stay from above and throw rocks down at him." Locket: "I prefer the high ground."
-> 53. **1:39:23 The cavern** (Bec): broken stones and **once-tall pillars that held up the ceiling**. Their crumbling is why the holes caved in. Trees grow below, light comes only through the holes, and to one side lies **water that is unnaturally calm: "Not a single ripple."**
-> 54. **1:40:14** (The Arbiter fixes the order: it's Slim's turn.) **Slim** retreats ("nope, enough of this, bye") and searches for help. The GM rules that **because so much has decayed into the soil, it's full of nutrients, so eating it could help.** He **holds his lavender lube to his nose and shovels handfuls of dirt into his mouth**: dry ash and dust, but it heals him. Cosmonius: "the sound of scraping… scraping the bottom of a barrel." Bec: "Listen, we've all been there as DMs." Arbiter: "**One of those children that were raised by wolves.**" He **hides in the brush "Homer Simpson style,"** and **his burn scarring blends with the scorched trees**.
+> 53. **1:39:23 The cavern** (Caustic Phoenix): broken stones and **once-tall pillars that held up the ceiling**. Their crumbling is why the holes caved in. Trees grow below, light comes only through the holes, and to one side lies **water that is unnaturally calm: "Not a single ripple."**
+> 54. **1:40:14** (The Arbiter fixes the order: it's Slim's turn.) **Slim** retreats ("nope, enough of this, bye") and searches for help. The GM rules that **because so much has decayed into the soil, it's full of nutrients, so eating it could help.** He **holds his lavender lube to his nose and shovels handfuls of dirt into his mouth**: dry ash and dust, but it heals him. Cosmonius: "the sound of scraping… scraping the bottom of a barrel." Caustic Phoenix: "Listen, we've all been there as DMs." Arbiter: "**One of those children that were raised by wolves.**" He **hides in the brush "Homer Simpson style,"** and **his burn scarring blends with the scorched trees**.
 > 55. **1:43:38 The Baron**, below, pushes himself up coughing: "**I don't have lungs anymore.**" Parched, he dips a hand in the still lake. **Bubbles, a gurgling growl and a long tentacle flash up and vanish.** "I was hoping for buffing magic, but no." **The back of his armor bursts open like a VTOL jet as he casts Fly**, and he rises from the hole behind Cosmonius and Locket, crackling with lightning, to metal music. Cosmonius: "Looks like he won't be a problem for us anymore." He lands on the southwest outcrop.
 > 56. **1:46:20** Baron: "**I was way more happy with my old brand. We're going back to it. Are you ready for the screaming?**" Fists to the clouds: "**I channel the lightning!**" He drops **Call Lightning** between Cosmonius and Locket. **Locket rolls a nat 20 and takes nothing**; Cosmonius halves it with Evasion: "I'm shocked that you managed to get out of that pit so quickly." The Baron used his hero point to cast two spells this turn and re-raises his artificer shield.
 >

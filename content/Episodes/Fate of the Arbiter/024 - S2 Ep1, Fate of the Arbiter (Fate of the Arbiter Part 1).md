@@ -142,14 +142,14 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 - **Won the goblin's 7 gold with a fake contagious "condition."** Took 8 gp 4 sp 3 cp from the fortress.
 - Got the **scroll of Dragon's Skin** from the Box, kept it secret, and used it on himself. Dealt the crit that bloodied the Arbiter and snapped off the Arbiter's hands.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Taken by the Tarrasque (which Toddleheim knew was an illusion or conjuration). Found apparently free in a cathedral chamber of the dwarven fortress, claiming he'd been "stuck here for weeks."
 - **Openly declares he wants the Dread Fortress and to overthrow the Grandmaster ("Elusia will rue the day").**
 - Grew giant, shielded himself with orbiting stones, turned back time (chronal shift), reflected Magic Missile, threw chaos bolts and chaos lightning, wore a psychic memory-splitting aura, and **disintegrated Orin**.
 - Wears eight prismatic rings, cursed against anyone else.
 - **His "death" was a deception.** He reappeared disguised as the Grandmaster, framed the party as would-be murderers, and portaled them into the arena.
 
-**[[Characters/Orin|Orin]]** (Drew)
+**[[Characters/Orin|Orin]]** (Mudcat)
 - A werebear who prefers bear form, with a one-eyed Goliath human form. Commander of the Eastern Outpost.
 - Talkative, sarcastic, a self-described smasher, not a strategist. Bad at housekeeping.
 - Infected as a boy when werebears destroyed his village. **The Arbiter avenged his family, and later appointed him to the outpost for the Grandmaster.**
@@ -242,7 +242,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 >    - She scans the surroundings and ignores the men. They decide she doesn't find either of them attractive. Locket: "**I'm right here. I can hear your conversations.**" Then: "Shall we move forward?"
 >
 > ### Crossing the gap
-> 9. **0:10:08** Drew stresses that falling into the lava means certain death. Under the ash it is dim in the middle of the day, the lava glow tints everything orange, and there are stark shadows.
+> 9. **0:10:08** Mudcat stresses that falling into the lava means certain death. Under the ash it is dim in the middle of the day, the lava glow tints everything orange, and there are stark shadows.
 > 10. **0:11:58** Toddleheim plans to use **Benign Transposition** to teleport across. **Flynry shadow-steps**: he warns the others that "a man evaporates into thin air like that," then **poofs from one shadow to a pillar's shadow 60 ft away**, smiling and waving: "See, it wasn't going long."
 > 11. **0:12:33** Locket has no magic. Toddleheim suggests she hop across ("very high risk"). She proposes a rope swing, and Toddleheim leaves "the theatrics to the both of you."
 > 12. **0:15:42** Locket **ties the rope to an arrow and shoots it** into the ground beside Flynry. Flynry: "When we discussed this, you did not say you'd be shooting it with a bow and arrow." He braces, wraps the rope around his elbows and offers to "reel you in like a little fish." Locket to Toddleheim: "If anything happens, will you catch me? Just kidding."
@@ -254,7 +254,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > 16. **0:23:31** Ahead stands **an old temple-pyramid, a ruin of an ancient society repurposed as the Eastern Outpost, on the border of the Grandmaster's lands**. The land cools here. From the top you can see the landscape change drastically just beyond.
 > 17. **0:25:10** Toddleheim's history roll (8) only tells him it must be the outpost, since it's the only thing out here for miles. "Tally ho." Flynry adds: "But it could be a trap."
 > 18. **0:26:06** The ground shakes from shifting magma, and artifacts and runes are scattered around. **Hundreds if not thousands of the Grandmaster's soldiers are camped outside**, among singed trees where the land turns to woods. They look battle-ready but have settled in for the night. Bridges cross the lava here.
-> 19. **0:29:10** The party get stares and snarls. **Drew describes the army as kitted out for a full siege**, while the party look very different. From the back, a soldier jeers: "**hey Joe, you see these losers over here**." Flynry pegs him as a rude **New Jersey** man.
+> 19. **0:29:10** The party get stares and snarls. **Mudcat describes the army as kitted out for a full siege**, while the party look very different. From the back, a soldier jeers: "**hey Joe, you see these losers over here**." Flynry pegs him as a rude **New Jersey** man.
 > 20. **0:30:46** Soldier: "**Hey, I got your mission right here, buddy**," with an obscene gesture. Toddleheim: "**Well, I believe you can hold my balls, good sir.**" The soldier decides Toddleheim is okay: "You've earned his respect with your quick wit."
 > 21. **0:31:18 The stairs.** Locket ignores everyone and climbs the pyramid's deceptively steep stairs, barely making it look easy in the sulfurous air. **Flynry nearly has to crawl**: "I think I could use… maybe a water." Toddleheim: "**Maybe work on your cardio… try some time on the elliptical.**"
 > 22. **0:33:55** Inside are the higher-ranked warriors, "the inner circle of the war council," and more lava. Toddleheim: "There seems to be a recurring theme."
@@ -307,7 +307,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > 51. **1:22:56** Orin stands pondering the dragon skulls, "he sees them every day, but he still just ponders them." Flynry approaches politely.
 > 52. **1:23:53** **Orin gives each of them an opalescent pearl that glows green in the light: a 4th-level cure wounds trapped inside, used by throwing it at your feet.** "Now, don't lose those."
 > 53. **1:24:39** "**This is where we safeguard a certain box**… the **Box of Chaos**, which you may or may not have seen in the arena. It does demand a sacrifice." The pearl can be sacrificed for a gamble. He opens wooden doors **under the dragon skulls** into a literal inferno, with the Box at the end. "I think the Grandmaster would approve."
-> 54. **1:28:24 Flynry's gamble.** "I like to be in the dark a lot and I don't get hurt very often." The Box's lid opens on **green, pink and purple flames that give off no heat**. Flynry waves his hand through them, and Drew jokes it's just paper-flame fans. Flynry drops the pearl in, and the lid slams and rumbles. Flynry: "I don't think I like the way the box is talking to me." Toddleheim: "I do believe the box hit you with the Owen Wilson."
+> 54. **1:28:24 Flynry's gamble.** "I like to be in the dark a lot and I don't get hurt very often." The Box's lid opens on **green, pink and purple flames that give off no heat**. Flynry waves his hand through them, and Mudcat jokes it's just paper-flame fans. Flynry drops the pearl in, and the lid slams and rumbles. Flynry: "I don't think I like the way the box is talking to me." Toddleheim: "I do believe the box hit you with the Owen Wilson."
 > 55. **1:31:40** **A plain paper scroll floats out: a scroll of Dragon's Skin**, a 6th-level spell giving AC 20 and immunity to one of acid, cold, fire, lightning or thunder. **Flynry tells no one what it is.** He nods and smiles "like… your grandmother's Christmas card" and pockets it. Toddleheim: "Disloyal fool-ass."
 > 56. **1:34:06 Locket's gamble.** She prays: "**Please, just give me a new bow.**" Instead **a small vial rises with swirling white and black colors and flickering lightning inside: a potion of storm giant strength.** Locket: "Is that all?" Orin: "**It's a magic box. He just gave you a magic item, what do you mean?**"
 > 57. **Toddleheim keeps his pearl.**
@@ -315,7 +315,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > ### The ride and the back gate
 > 58. **1:36:09 Montage.** Given mounts, they ride all day and into night. **The land beyond is dark, sinister, cool and "almost dead in a different way," in deep blues.** After days in the volcanic heat, the cool mountain air feels like an ethereal sheet of ice. **The dwarven fortress has columns and pillars built into the mountainside in the shape of an old man's face.**
 > 59. **1:38:11** Orin: "**I won't say good luck because I know that you're not going to need it… we'll meet you in the rear.**" The army goes east, the party west.
-> 60. **1:38:27** From the cliffs, they spot **sleeping drakes** that blend into the rock. Before the door stand **two large armored guards** with swords on their backs and **huge clawed metal fists bigger than their torsos**. Drew later calls them golems, statues and **shield guardians**.
+> 60. **1:38:27** From the cliffs, they spot **sleeping drakes** that blend into the rock. Before the door stand **two large armored guards** with swords on their backs and **huge clawed metal fists bigger than their torsos**. Mudcat later calls them golems, statues and **shield guardians**.
 > 61. **1:41:24** **Flynry casts Pass Without Trace.** Toddleheim: "Flyn, how confident are you feeling?" Flynry: "I have a few more tricks up my sleeves." **Toddleheim casts invisibility on himself and Locket.**
 > 62. **1:45:39** Flynry nearly steps into **two more sleeping drakes**' nest and stops just in time. He sneaks behind a column. The invisible pair slip past the guardians to the door, **which is locked**.
 > 63. **1:48:18** Flynry sees he is visibly *not* invisible, unlike his "sci-fi shimmery cloak friends," so he **squeezes through a broken section of wall**. Locket: "Oh dear. Hope he'll be all right." Toddleheim: "He can handle himself."
@@ -323,7 +323,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > 65. **1:52:09** **Flynry casts Silence on himself.** Toddleheim (a somatic-only spell) **raises Mold Earth outside as a barrier between the guardians and the door.** Teej: "Anubis, the GM is literally being your computer when you're about to erase your hard drive. Are you sure?"
 > 66. **1:54:37** **Flynry slides the bar back in total silence. Toddleheim and Locket slip in, and Locket slides the bar closed again.** The guardians feel the earth move, smash through the barrier, and work out "something fishy." **Their spiked knuckles punch through the door, silently.**
 > 67. **1:58:18** The hall is demolished and full of rubble. Suits of armor line a staircase, and there are open doorways north and south. Unseen voices to the south talk among themselves. **Flynry considers Darkness but keeps the Silence up, since dropping it would let the pounding be heard.** The party regroup in a corner outside the sphere.
-> 68. **2:02:16** Flynry can't tell which invisible friend is which ("I'll look at Toddy and say, Locket"). He proposes taking the large side door away from the voices. On a nat 1, Drew rules **the guards are too wrapped up in their conversation**. The table jokes they're discussing *Real Housewives*: "That's canon."
+> 68. **2:02:16** Flynry can't tell which invisible friend is which ("I'll look at Toddy and say, Locket"). He proposes taking the large side door away from the voices. On a nat 1, Mudcat rules **the guards are too wrapped up in their conversation**. The table jokes they're discussing *Real Housewives*: "That's canon."
 >
 > ### The trap halls
 > 69. **2:04:27** An empty corridor. Locket checks for pressure plates and finds nothing. Flynry: "I think we should let the kitty go first." Toddleheim: "**They do have nine lives as opposed to us. I've only got one.**"
@@ -331,17 +331,17 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > 71. **2:07:39** **Locket, an expert in designing traps**, senses stones that have been lifted and reset: "It could be booby trapped." Toddleheim spots **a thin track between the pillars**.
 > 72. **2:09:26 The dwarven carving.** Flynry finds an old carving. **Toddleheim reads Dwarvish**: "**something about the hammer that resides in the mountain… something about the treasure of the east**." The rest is worn away; the fortress has long been abandoned. Flynry asks if it says "speak friend and enter" (speaker uncertain). Toddleheim: "Not quite."
 > 73. **2:12:11** **Flynry rolls one of the goblin's gold coins across the track.** It triggers the trap, and **spinning blades shoot up on either side of Locket**: "**I'm trapped!**" Toddleheim: "Have you noticed my stature? My jump distance is not quite far."
-> 74. **2:14:06** Flynry shadow-steps across. **Locket studies the blades' rhythm for 30 seconds and darts through cleanly. Toddleheim teleports, then passes a Dexterity save.** No one is hurt. Drew: "This is exactly what I had planned the whole time." Toddleheim: "That's awfully suspicious." Flynry: "My friends, I think that God is lying to us."
+> 74. **2:14:06** Flynry shadow-steps across. **Locket studies the blades' rhythm for 30 seconds and darts through cleanly. Toddleheim teleports, then passes a Dexterity save.** No one is hurt. Mudcat: "This is exactly what I had planned the whole time." Toddleheim: "That's awfully suspicious." Flynry: "My friends, I think that God is lying to us."
 > 75. **2:17:26** **On a nat 20, Locket finds two common potions of healing in a room of bedrolls** that was used within the day.
 > 76. **2:18:24** A newer table that has been moved in holds dice, tankards and coin pouches. **Flynry takes 8 gold, 4 silver and 3 copper**, enough for weeks of lodging. Whoever was here seemingly left in a hurry when the siege began.
-> 77. **2:20:14** Toddleheim finds nothing wrong with the next corridor and crosses it. Everyone follows nervously. Drew: "I've set you guys up for so much suspense… you're going to destroy yourselves." Flynry: "The anxiety will kill us alone."
+> 77. **2:20:14** Toddleheim finds nothing wrong with the next corridor and crosses it. Everyone follows nervously. Mudcat: "I've set you guys up for so much suspense… you're going to destroy yourselves." Flynry: "The anxiety will kill us alone."
 >
 > ### The bookcase puzzle
 > 78. **2:21:38** A smaller room has a pit, empty side rooms and **a large iron gate bolted from the outside**, "indicating there's something in there that nobody wants to be let out." Toddleheim: "I have absolutely zero interest in opening that gate." Flynry: "Perhaps they're trying to keep the Arbiter in there."
 > 79. **2:23:46** Toddleheim: "**Wait!**" There are **three floating, spinning crystals**. His arcana roll is a 2: magic, but he doesn't know what kind. "**They may kill each and every one of us.**" Flynry: "I'm not touching the shit."
 > 80. **2:25:16** At the **bookcase**, Flynry finds one book slightly more worn and pulls it. **One of the gate's three bolts slides open.** "There's always three." Excited, **Flynry throws a whole shelf of books on the floor, and the other two bolts open.**
 > 81. **2:27:50** **Toddleheim walks across the middle and a rusty whirling blade pops out, slashing his back or leg**, and blood flings on the wall. "That's fucking me up." Locket: "**You're gonna need a tetanus after that one.**"
-> 82. **2:29:37** The squealing gate opens. In the distance: **siege machinery striking stone, explosions**, and the clanking of **the two shield guardians tracking them** (Drew: "There may or may not have been an alarm spell"). Toddleheim: "This is the most sophisticated security in any game ever."
+> 82. **2:29:37** The squealing gate opens. In the distance: **siege machinery striking stone, explosions**, and the clanking of **the two shield guardians tracking them** (Mudcat: "There may or may not have been an alarm spell"). Toddleheim: "This is the most sophisticated security in any game ever."
 >
 > ### The Arbiter
 > 83. **2:31:02** A cathedral-like chamber with pews, tall columns and soft purple light. **The Arbiter stands in the middle.** "Arby!" Toddleheim: "This feels a little bit sus."
@@ -358,7 +358,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 > 90. **2:40:50 The Arbiter transforms.** He sucks the air of the room toward himself. **He grows huge** as an ethereal portal of swirling cosmic energy rips open at his feet. **Chunks of floor and wall lift and orbit him as a shield (five boulders).** Wisdom saves are rolled against his aura. Toddleheim: "Flyn, you don't suppose he's compensating for something?"
 > 91. **2:43:11 Round 1.**
 >     - **Flynry** (a monk) charges with unarmed strikes, but **each hit lands on a boulder, which crumbles instead**. Two boulders are gone, three remain.
->     - **Toddleheim** tries Sleep ("it's time for you to go to sleep, good sir"). The Arbiter has too many hit points, so Drew lets him change spells. His **Magic Missile** ("Abada bing, abada boom") weaves around the rocks into the Arbiter's chest.
+>     - **Toddleheim** tries Sleep ("it's time for you to go to sleep, good sir"). The Arbiter has too many hit points, so Mudcat lets him change spells. His **Magic Missile** ("Abada bing, abada boom") weaves around the rocks into the Arbiter's chest.
 >     - **Locket drinks the potion of storm giant strength**: "I just become a Hulk." She **climbs a column for high ground** and hits with an arrow. **On a nat 1 the swirling debris nearly pulls her off the column.**
 > 92. **2:52:25 The Arbiter's reply.** Looking at Toddleheim, he **pulls the Magic Missile's energy out of his chest and slings it back at a higher level**, hitting like a freight train. Toddleheim: "**Taste of your own medicine, but I never thought it'd be like this.**" The Arbiter stands with arms open, laughing: "**Is there anything else that you would like to do before I kill you?**"
 > 93. **2:54:56 Locket pleads:** "**Arbiter, please, this is not the way. You and the Grandmaster were like this. You were friends.**" The Arbiter: "**There's no helping me. Unless you'd like to help me kill the Grandmaster.**" "Then do what you've come to do!" Locket: "Rescue you." The vortex grows and starts pulling stone off the walls.

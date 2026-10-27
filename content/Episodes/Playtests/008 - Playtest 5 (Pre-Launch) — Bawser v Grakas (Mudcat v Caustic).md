@@ -14,8 +14,11 @@ arena: A rainy forest with a cliff, mushroom ledges and tall trees
 summary: A huge shelled brute and an asthmatic, debt-ridden swordsman fought through rain, flood and fire in a forest arena until Grakas yielded. Bawser buried him in healing dirt, renamed him Baby Bow-Bow, and claimed him as a pet for his castle.
 tags:
 - episode
+youtube: https://youtu.be/qtv__Ond6Dw
 canon_order: 8
 ---
+
+[Watch on YouTube](https://youtu.be/qtv__Ond6Dw)
 
 **[[Bawser]]**, a towering yellow brute with a green shell, and **[[Grakas]]**, a wheezing, blue-bearded swordsman who never wanted to be there, met in a drizzly forest arena. Bawser expected to be the scary one. Instead he got out-muscled, out-hidden and out-scared, and spent part of the fight sobbing behind a rock. It ended with a flood, a forest fire, a hug, a burial and a rebirth, and it may be the most tender way any fight to the death has ever finished.
 
@@ -108,9 +111,9 @@ That night, a hand shot up out of the hole. **"I am Baby Bow-Bow!"** The buried 
 - **Grakas:** "I am Baby Bow-Bow!"
 
 ## Who and What Appears
-**[[Characters/Bawser|Bawser]]** (Bec). "With an A… legally distinct." Huge, yellow body, green shell, claws, scales; Bec calls him "a full dragonborn. Ish," a dragonborn with a shell (and jokes about turtles). Barbarian (rage, frenzy, intimidating presence), greataxe, spear, javelin, breath weapon. Calls himself **"Bao Bao" / "Bow-Bow."** Hates leaves. Has a **castle** and a mother ("Mama Bowser"). Insists on being the strong one; cries when he isn't; plays to the crowd. **Winner.** Took Grakas as his "pet."
+**[[Characters/Bawser|Bawser]]** (Caustic Phoenix). "With an A… legally distinct." Huge, yellow body, green shell, claws, scales; Caustic Phoenix calls him "a full dragonborn. Ish," a dragonborn with a shell (and jokes about turtles). Barbarian (rage, frenzy, intimidating presence), greataxe, spear, javelin, breath weapon. Calls himself **"Bao Bao" / "Bow-Bow."** Hates leaves. Has a **castle** and a mother ("Mama Bowser"). Insists on being the strong one; cries when he isn't; plays to the crowd. **Winner.** Took Grakas as his "pet."
 
-**[[Characters/Grakas|Grakas]]** (Drew). Half-elf hexblade warlock / College of Swords bard; two short swords; **blue hair and blue beard**; asthmatic (inhaler); took fencing and tumbling lessons; **master's degree in computer science** and student debt; cowardly but deadly. Spells: vicious mockery, hexblade's curse, wrathful smite, shield, misty step, blur, Armor of Agathys, lightning lure, booming blade, eldritch smite. Lost, survived, buried and **renamed "Baby Bow-Bow"**; rose with flaming orange hair and beard and headed to Bawser's castle.
+**[[Characters/Grakas|Grakas]]** (Mudcat). Half-elf hexblade warlock / College of Swords bard; two short swords; **blue hair and blue beard**; asthmatic (inhaler); took fencing and tumbling lessons; **master's degree in computer science** and student debt; cowardly but deadly. Spells: vicious mockery, hexblade's curse, wrathful smite, shield, misty step, blur, Armor of Agathys, lightning lure, booming blade, eldritch smite. Lost, survived, buried and **renamed "Baby Bow-Bow"**; rose with flaming orange hair and beard and headed to Bawser's castle.
 
 ### Places
 - The rainy forest arena (same map as Playtest 3): a cliff with giant mushroom ledges, a 30-ft tree, rocks; flooded, then set on fire. The dirt is medicinal.

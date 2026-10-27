@@ -154,13 +154,13 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 - Sacrificed to the Box of Chaos, where she got a welcome party.
 - Fused with Sam: "We are all Dolores." "Dolores will live on within my penis."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Locked herself (accidentally) in the Dread Fortress pantry during prep for the monthly employee party. Frazzled all episode.
 - Her amulet cuts her weekly to open the portal.
 - Gave Sam Bane, pelted him with Hydro Flasks, and called the raccoon rain on him for calling her "baby."
 - Defends the staff's benefits and loves Henrietta.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat).
 - Makes keys from shadow fingers. Has killed five to ten therapists. Ate all the cake and spiked the punch.
 - Botched the taxes and blames Vythorn.
 - Killed the Acolyte Aether Flux to prime the box. His throne collapsed and he sat on a goblin pyramid.
@@ -204,7 +204,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — locked in the pantry
-> 1. **0:00:01** Drew opens with "Welcome to D20 Toughball! Welcome to D20 Deathmatch." **The Grandmaster is nowhere to be found.** The Shadow King calls out for Elusia.
+> 1. **0:00:01** Mudcat opens with "Welcome to D20 Toughball! Welcome to D20 Deathmatch." **The Grandmaster is nowhere to be found.** The Shadow King calls out for Elusia.
 > 2. **0:00:23** **Elusia is knocking from behind a wooden door: she is locked in the pantry/closet.** She had gone in to put away **party supplies for the employee appreciation party**, which is held **at the end of every single month**. It is **April 30th, May is tomorrow**, so this one was "a huge **goblin and chinchilla employee party**." She asks if he locked the door behind her and where the key is.
 > 3. **0:00:54** The Shadow King doesn't carry keys: "Who's going to rob me? I'm the ruler of this entire place." She tells him to "just do your little weird magic thing… Come on, magic boy," and kicks the door.
 > 4. **0:01:16** "It's been a while since I've had to make a key." **The Shadow King's fingers extend into shadowy ethereal tendrils that form a key.** He fidgets with the lock and the door pops open. "There! Get out of the pantry. **I'm trying to get Doritos.**"
@@ -251,7 +251,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 >
 > ### Chaos event — the alien abduction (0:18:40)
 > 29. A zooming sound. **A metallic disc lowers from the heavens, humming, with colored lights all around "as if it's a streamer's LED lights."** A bright green beam opens from its middle: "They are aliens here to abduct you." Each can try to resist being sucked up "for a little alien experimentation."
-> 30. **0:19:41** Ben: "I'm not trying to get probed here." Bec: "No one ever is, but it happens."
+> 30. **0:19:41** Ben: "I'm not trying to get probed here." Caustic Phoenix: "No one ever is, but it happens."
 > 31. **0:20:11 — Sam gives in.** "**This ain't my first fucking rodeo, boys. I'm going to try to seduce the alien.** I'm going to try to make allies with my new alien friends to help me jump this nerd."
 > 32. **0:20:22** Ben clings to the broken stones, but they give way, and **both are lifted up.** Sam: "That's right, come to daddy."
 > 33. **0:21:05** Sam tries "to clap [cheeks]." He fails badly: "What if the aliens don't have cheeks?" **They have none. They are completely flat, like sheets of paper in the wind**, and move aimlessly. "You do nothing for them."
@@ -266,7 +266,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 >     - The Grandmaster: "I'm not touching that one." The Shadow King: "Keep your monkeys to yourselves."
 >     - The arms smash their cymbals together in response.
 > 37. **0:27:21** **The cymbal arms land an unarmed strike** ("dirty 20"). Sam makes a sound when he's hit ("Hit me again"), and the Grandmaster throws another Hydro Flask at him for fun.
-> 38. **0:28:19 — "Baby."** The Grandmaster asks whether he prefers Cletus or Sam. Sam: "**Baby, you call me whatever you want as long as you call.**" Bec: "**No one calls the Grandmaster, baby!**" She invites the Acolytes to empty their pockets at him. **Raccoons and hot dogs with eyeballs rain from the sky**, along with **red solo cups of beer poured down like a waterfall** and raining popcorn.
+> 38. **0:28:19 — "Baby."** The Grandmaster asks whether he prefers Cletus or Sam. Sam: "**Baby, you call me whatever you want as long as you call.**" Caustic Phoenix: "**No one calls the Grandmaster, baby!**" She invites the Acolytes to empty their pockets at him. **Raccoons and hot dogs with eyeballs rain from the sky**, along with **red solo cups of beer poured down like a waterfall** and raining popcorn.
 > 39. **0:29:15** Sam: "**I am scared of no damn audience members. I'm also going to catch all these pet raccoons.**" To the Grandmaster's dismay, **he ends up with cups of ramen noodles, beer, popcorn, a ton of water ("you need to hydrate"), potatoes thrown in by Dazzle, and one raccoon.**
 > 40. **0:30:38 — Sam's turn.** He tosses the popcorn at Ben's feet as difficult terrain, **launches the raccoon at Ben's chest**, and goes for Ben's other eye with a finger from each hand.
 > 41. **0:31:14 — Dolores.** The Grandmaster insists the raccoon be named. "**This here's Dolores.**" She is sure it's his grandma's name. Sam: "My grandma's name is Mrs. Meemaw. I already told you."
@@ -299,7 +299,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 > 56. **0:45:39** "I gotta get this fucking raccoon off my face." **Ben uses Step of the Wind to get past Sam and runs like hell up the throne steps to the box**, raccoon still on his face.
 > 57. **0:46:23** **Ben pulls Dolores off his face and holds her over the box.** Sam: "**You fucking wouldn't.**" Ben: "You gave me rabies with this fucking raccoon that I didn't ask for… Box, I don't know, **take this raccoon.**" Shadow King: "I would love to have a raccoon." **The box's shadowy fingers wrap around the raccoon and pull it inside**, shutting the lid. Ben: "This is all on you, Sam." Sam: "I'm gonna get my raccoon back."
 > 58. **0:47:15 — A 100.** The box rolls **its best possible result.** It shakes loudly and small raccoon sounds escape, "not panicked ones," but conversational, **as if those in the box are throwing a welcoming party for her.** "**They've always wanted a pet.**"
-> 59. **0:48:00** The lid flips open in another heatless pink-and-yellow column. **The shadowy figure climbs out, this time wearing a raccoon-skin hat.** Bec: "That's very counter to what I described." Drew: "I didn't say it was the same raccoon." Ben: "So there's Dolores merch inside of the box now?"
+> 59. **0:48:00** The lid flips open in another heatless pink-and-yellow column. **The shadowy figure climbs out, this time wearing a raccoon-skin hat.** Caustic Phoenix: "That's very counter to what I described." Mudcat: "I didn't say it was the same raccoon." Ben: "So there's Dolores merch inside of the box now?"
 > 60. **0:48:51 — The Raccoon of Annihilation.** Ben describes the object: **a cute little raccoon-head charm.** It is **a Raccoon of Annihilation, a sphere of annihilation.**
 >     - **If you squeeze its little stomach, its eyes pop out and it squeaks.** Squeeze too hard and it activates.
 >     - "This is not the time to skip to the bottom and say, I've read it." "It is truly a dangerous item, despite its cute, fluffy outer shell."
@@ -350,7 +350,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 >     - **They are unionized.**
 >     "We care extensively… he doesn't even know any of their names." **The Shadow King: "You're telling me we've been spending money on all of this the whole time?… As of today, at this moment, we no longer offer healthcare or any other benefits."** "That is not true."
 > 80. **1:10:12 — Meemaw's sponsor.** Sam announces that "Meemaw got sponsored": an adult-toy site (Bad Dragon), with a code for 20% off. "My Meemaw was having issues with intimacy due to the sort of nasty nature of denizens of the swamp down there in the deep woods… **Love you, Meemaw.**"
-> 81. **1:10:53 — Henrietta.** "Let Henrietta roll." **A small, adorable goblin with bright blonde hair** rolls a 14. Sam: "That's the most attractive goblin I've ever seen." The Grandmaster: "**Please stop and don't harass our employees. I love you, Henrietta.**" Henrietta hides behind the goblin chair. Drew: "Hide your employees, hide your wives."
+> 81. **1:10:53 — Henrietta.** "Let Henrietta roll." **A small, adorable goblin with bright blonde hair** rolls a 14. Sam: "That's the most attractive goblin I've ever seen." The Grandmaster: "**Please stop and don't harass our employees. I love you, Henrietta.**" Henrietta hides behind the goblin chair. Mudcat: "Hide your employees, hide your wives."
 >
 > ### Round 3 — the Jolly Chimp
 > 82. **1:11:26 — Natural 20.** From the box, **Ben has the arms fan out as wide as they can. Behind his head appear the eyes and the widening smile, and the two arms crash together, the cymbals flattening Sam.** Maximum damage plus the roll.
@@ -367,7 +367,7 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 >     - **Sam uses his alien-enhanced intelligence**, "gravity, physics, leverage" ("Are you just naming categories out of STEM?"). "I'm 16 intelligence now, you can't tell me shit."
 >     - **Ben counters with the wisdom of the Jolly Chimp:** "**The ancient malice of the Jolly Chimp leers down over you** with its wide, pulsating eyes, and you know that there is only insidious, bloodthirsty intelligence behind those eyes." Sam: "I'd be afraid if I wasn't so gosh darn horny every time that thing rises up."
 >     - Sam's Intelligence check works: "**I have created a pivot point between my leg and your ass, boy.**" It gives him advantage.
-> 89. **1:21:13** Sam wins the contest. Drew: "**This is the dumbest fight I've ever seen.** You successfully tackle him using a pivot point and… all the power of science." Sam: "I have a 10 strength. **This was nothing except folding laundry.**" **Both fall into the Box of Chaos together**, Sam chanting "raccoon nightmare."
+> 89. **1:21:13** Sam wins the contest. Mudcat: "**This is the dumbest fight I've ever seen.** You successfully tackle him using a pivot point and… all the power of science." Sam: "I have a 10 strength. **This was nothing except folding laundry.**" **Both fall into the Box of Chaos together**, Sam chanting "raccoon nightmare."
 >
 > ### Inside the Box of Chaos — the lamp
 > 90. **1:21:42** Inside, besides the spirits in the tornado, is **the Acolytes' second chaotic event: a small, beat-up, bent-in golden lamp** sitting in the empty space. The box is full of smoke.
@@ -376,8 +376,8 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 >     - The Grandmaster: "**This can do an exorcism, it can't do a vaccination for you.** Rabies ain't going nowhere, you earned that." Ben: "So regardless of what happens here, I'm dead."
 > 91. **1:23:45** Sam: "Sometimes when I've been bad, the rest of the family would call me **Cooter**," in case they don't like "Clitoris."
 > 92. **1:24:03 — The lamp strike.** **Sam hits Ben with the lamp**: "**I hope you got ass-whooping insurance because I'm about to take me a big-ass deductible, boy.**" "**And on the first swing, the Lord said, let there be light.**"
->     - The lamp strike shouldn't carry rabies damage, so Sam argues the lamp is drenched in his sweat and blood: "like when you're playing basketball with a big guy… you're gonna get wet." Drew: "Sounds like a really interesting Space Jam fanfiction." Sam: "**I do write Space Jam fan fictions down in the woods.** Sometimes I'm usually fighting with Lola Bunny to help take over Toontown." ("Shout out to Brandon the DM.")
->     - Bec allows the extra damage: "**I am a sprinkler of justice.**" A double-handed overhead slam.
+>     - The lamp strike shouldn't carry rabies damage, so Sam argues the lamp is drenched in his sweat and blood: "like when you're playing basketball with a big guy… you're gonna get wet." Mudcat: "Sounds like a really interesting Space Jam fanfiction." Sam: "**I do write Space Jam fan fictions down in the woods.** Sometimes I'm usually fighting with Lola Bunny to help take over Toontown." ("Shout out to Brandon the DM.")
+>     - Caustic Phoenix allows the extra damage: "**I am a sprinkler of justice.**" A double-handed overhead slam.
 > 93. **1:26:18** The Grandmaster: "I still miss Dolores." Ben: "You are Dolores." Sam: "**We are all Dolores. Do you hear me, Acolytes? We are all Dolores.**"
 > 94. **1:26:37** Ben worries they'll fuse "like a John Carpenter's thing." Sam: "**Maybe we should Megazord together and beat the shit out of the two people running this show.**" Ben's contribution would be "my boyish charm." Sam: "After you die, I'm bringing your body back." Ben: "Yeah, no, I'm out of here." Sam: "I think I broke the deal."
 > 95. **1:27:26 — The sweatband.** **Sam wipes his forehead with "one of those cool Nike bands" and wraps it around his fists. This doubles his rabies damage** ("I'm leaking rabies"). "Waste not, want not, son of a bitch… **It's hammer time.**"
@@ -387,13 +387,13 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 > 97. **1:28:53** Sam still has the lamp: "**I got two arms, one for eating, one for beating.**" Which one holds it is never settled.
 > 98. **1:29:58** Ben goes for the lamp with the chimp arms, hoping for a way out of the box or "a genie and it can cure my rabies."
 > 99. **1:30:40 — Tipsy Sway.** Sam misdirects the grab: **the giant ape hand gets "a handful of raccoon penis instead of the beautiful, wonderful golden lamp."** "**You ain't never gonna get this lamp, boy.**" **The Jolly Chimp's grin turns into an utterly unrecognizable frown.** "It wanted the shiny. Instead, it got a handful of raccoon dick."
-> 100. **1:32:02 — Retractable?** Sam asks whether raccoon testicles retract, citing the zoo books from elementary school. **Drew googles it: 50 pounds of force ruptures a testicle. Bec rules they are not retractable.** Ben: "According to Google, we're going to break your balls now." **The chimp squeezes.** Sam: "**That's a Saturday night, bitch.** That would normally cost 40 gold pieces in a backwoods alleyway district… Or free at your mom's house!"
+> 100. **1:32:02 — Retractable?** Sam asks whether raccoon testicles retract, citing the zoo books from elementary school. **Mudcat googles it: 50 pounds of force ruptures a testicle. Caustic Phoenix rules they are not retractable.** Ben: "According to Google, we're going to break your balls now." **The chimp squeezes.** Sam: "**That's a Saturday night, bitch.** That would normally cost 40 gold pieces in a backwoods alleyway district… Or free at your mom's house!"
 > 101. **1:33:13** "Now you're talking about its mom." **Ben spends ki on a Flurry of Blows into Sam's nuts, "like a speed bag."**
 > 102. **1:33:50 — Ben's hero point.** "**The Jolly Chimp has taken over Ben Zappa.**" It fully manifests around him: **Ben is now a giant man-sized Jolly Chimp, cymbals in hand, "going full JoJo's Bizarre Adventure."** Ben's own arms join the chimp's, punching from above and below: "**we're making biscuits out of these balls here. This is a puree, these are mashed.**" It's a critical hit. Sam: "I don't know if I should roll a death saving throw, or just see if I cum."
 > 103. **1:35:45 — Sam's request.** Sam wants to spend his hero point to **sever the "hideous magical abomination raccoon dick"** so the damage goes to it, not him. "It's the dick or me." The ruling: Ben's hero point shouldn't be negated, so **if Sam survives the "dick punching of a century," he can disconnect without extra damage and keep his hero point.**
 > 104. **1:37:46** **He survives the crits.**
 > 105. **1:38:32 — Inches.** Sam asks "to see of the 12 original inches how much there is left." **A d12: ten inches remain.** "He polished off about two whole inches. **Meemaw's gonna be very upset.**" It's flat now, "like a dolphin's."
-> 106. **1:39:16 — The genie.** **Sam rubs the lamp with his damaged penis.** The lamp shimmers and **a genie appears**. Bec says pink; Sam asks for another color ("one of the only colors I can't do"), so it becomes **a red genie**, lighting up the sky.
+> 106. **1:39:16 — The genie.** **Sam rubs the lamp with his damaged penis.** The lamp shimmers and **a genie appears**. Caustic Phoenix says pink; Sam asks for another color ("one of the only colors I can't do"), so it becomes **a red genie**, lighting up the sky.
 >     - Genie: "I woke up. **You've summoned me. This is terrible timing.**"
 >     - Sam: "You sound just like **my cousin Darla**. So this guy beat my dick off." Genie: "That sounds like a Sunday night activity."
 >     - "Look at this dick." "No, I really don't want to." "Hey, who summoned who here?"
@@ -430,17 +430,17 @@ Back at the table, StakeTCC said that if Sam Cletus ever came back, he'd live in
 > [!abstract]- Full Dried Blood notes (click to expand)
 > - **Box of Chaos.**
 >   - Stake: "If I come back, I'm also going to live in the box again. I like the box… I thought it would be safer."
->   - Bec: there has been "a huge fascination with the Box of Chaos this season," including someone who gave their own body and soul.
->   - Drew: "Maybe last episode, episode before, we hollowed someone out and then the soul in the box inhabited their body as a meat suit for the second half."
-> - **The empty map.** Bec liked that the final fight happened inside the box with nothing on the map: "Ditch all of that. Let's just have the two of you."
+>   - Caustic Phoenix: there has been "a huge fascination with the Box of Chaos this season," including someone who gave their own body and soul.
+>   - Mudcat: "Maybe last episode, episode before, we hollowed someone out and then the soul in the box inhabited their body as a meat suit for the second half."
+> - **The empty map.** Caustic Phoenix liked that the final fight happened inside the box with nothing on the map: "Ditch all of that. Let's just have the two of you."
 > - **Stake on Sam Cletus:**
 >   - Built for roleplay, not combat: "a drunk that gets in fights at bars… a redneck who's come out of his comfort zone into the big league unprepared."
 >   - He wanted long tangents about the backstory and some animal interaction ("You can't fucking go wrong with raccoon").
 >   - Both players built "shitty" monks and ended up "monk versus monk." Stake's abilities are better for team fights.
 >   - Kyle went for "the monk that just sounded the most visually cool."
-> - **Art.** Bec says the were-coon is the artwork she now most wants, "a before and after": "Sam Cletus, Sam Cletus Were-coon, Samantha Cletus." There's a joke about a lewd D20 Deathmatch fan-art site, DeviantArt and gnoll art. Stake's gnoll main character is on "the Cantrip cast."
-> - **Bec googled whether raccoon testicles are retractable.**
+> - **Art.** Caustic Phoenix says the were-coon is the artwork she now most wants, "a before and after": "Sam Cletus, Sam Cletus Were-coon, Samantha Cletus." There's a joke about a lewd D20 Deathmatch fan-art site, DeviantArt and gnoll art. Stake's gnoll main character is on "the Cantrip cast."
+> - **Caustic Phoenix googled whether raccoon testicles are retractable.**
 > - **Meemaw (player-stated; possibly partly in Meemaw's voice, so marked uncertain).** Stake says Meemaw is "actually very proper." She does not approve of what Sam Cletus gets into and has been "trying to guide him from a distance… **sometimes when you love things, you have to let them go.**" She has cancer "from all the spit tobacco. She does dip." Stake suggests playing Meemaw in the arena someday.
-> - **The live show.** Drew notes Kyle has played a live show that hasn't aired yet. Kyle prefers live ("the exhilaration"). For that show they settled on **Chef GPT**; his other idea was a briefcase-carrying rules lawyer. Stake pitches a butler ("I would like to apologize for getting this blood upon your floor…") or a "murder hobo" who brought rocks and an actual gun.
+> - **The live show.** Mudcat notes Kyle has played a live show that hasn't aired yet. Kyle prefers live ("the exhilaration"). For that show they settled on **Chef GPT**; his other idea was a briefcase-carrying rules lawyer. Stake pitches a butler ("I would like to apologize for getting this blood upon your floor…") or a "murder hobo" who brought rocks and an actual gun.
 > - **Advice.** Kyle: "not everything has to be… serious heroic fantasy… let your imagination run wild." Stake tells "a joke that Meemaw taught me" (the horse and the chicken in Meemaw's mud pit; "when you're hung like a horse, you don't need a pickup truck to pick up chicks"). It's told as Stake, so it's treated as table talk.
 

@@ -154,12 +154,12 @@ After the show, Bargo left the Acolytes with a creed: "When times get tough, don
 - **His steed:** a capybara.
 - **Fate:** rejected by the Acolytes, then decapitated by Bargo. **The Arbiter secretly sewed his head back on ("I might have use for you")**, and he left a glitter rainbow as he flew away.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Let "the traitors" who planned to overthrow the Dread Fortress escape "the other day,"** and is under the Grandmaster's orders to fix it.
 - Triggered his own event, a thunderclap that collapsed the cavern.
 - **Secretly took Carn's body and head out of the arena and stitched them together** with a magical needle and thread.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Watched a ball game on a goblin-tuned television and kicked the TV over.
 - Angry at the Arbiter over the traitors: "I thought I brought you in because you're competent."
 - Sits next to **Doug the Pug** at the arena.
@@ -350,7 +350,7 @@ After the show, Bargo left the Acolytes with a creed: "When times get tough, don
 > 53. **0:50:59 The first "bitch."**
 >     - **Carn uses his psionic mind ability to say "bitch" straight into Bargo's brain.** Intimidation 19 vs Insight 5.
 >     - Bargo is intimidated and gets disadvantage on his next attack.
->     - Someone wonders aloud, "Am I a bitch? Am I a bitch?" The line is labeled as Bec, possibly voicing Bargo's self-doubt, and Drew answers "No. I could be." GM: "That self-doubt is creeping in. See if you can shake that **imposter syndrome**."
+>     - Someone wonders aloud, "Am I a bitch? Am I a bitch?" The line is labeled as Caustic Phoenix, possibly voicing Bargo's self-doubt, and Mudcat answers "No. I could be." GM: "That self-doubt is creeping in. See if you can shake that **imposter syndrome**."
 >
 > ### Round 5
 > 54. **0:51:57** **Carn "unhinges his jaw" and blasts his radiant gem-dragon breath weapon** in Bargo's face. Bargo saves for half: "Bargo much more better than you."

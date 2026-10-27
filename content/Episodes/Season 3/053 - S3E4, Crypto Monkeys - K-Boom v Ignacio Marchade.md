@@ -148,19 +148,19 @@ After the match, K-Boom explained that he never had much love as a child and los
 - Befriends Mort and shares a toy with him. Rolls a 17 on his own. "Doug rolls when he wants to roll."
 - The Arbiter threatens him ("One day, Doug").
 
-**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Drew). Pink and purple, with shadowy fingers and yellow eyes.
+**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Mudcat). Pink and purple, with shadowy fingers and yellow eyes.
 - Took Mort ("I kinda wanted that thing").
 - Has "200,000 in my savings account." Offered to buy four K-Boom coins, then **deadbolted the box from inside** after K-Boom's nat 1.
 
 **The water weird**. Rises from the lake's deep pit as the Arbiter's special chaos event. Speed 60 in water. **Dragged both champions' bodies into the pit.**
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Currently imprisoned. His hands are shackled, and he wears Italian leather boots awarded for good behavior in his prison cell.**
 - Now does the grocery shopping. Running anger-management mantras ("I am centered… I am the best me"; "My self-worth is not tied to dice rolls").
 - Has memorized Independence Day ("he also has it memorized," Dried Blood).
 - Recovered the bodies from the lake.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Runs goblin band tryouts. Gave both champions a d4 inspiration. "I am the law!"
 - Claims "Dogecoin with Doug's face on it" rules here (Doug coin). Stomped the NFT trinkets.
 - Had hiccups after the break.
@@ -285,19 +285,19 @@ After the match, K-Boom explained that he never had much love as a child and los
 > [!abstract]- Full Dried Blood notes (click to expand)
 > ### In character (canon, source: Dried Blood)
 > - **1:38:11 K-Boom's backstory (Brandon, describing his character):** "K-Boom never had a lot of love when he was a child, so he tries to… externalize that love by growing attachments with other people." He "**lost my family when I was very young due to an arson accident that is definitely not my fault legally**." He makes up for it by getting people to fall in love with him and buy his merchandise.
-> - **1:38:43 The sack (K-Boom, likely in character):** "It's non-existent right now… I'm still trying to pull out the pieces." Bec: the javelin in it is "ready to toast that like a marshmallow."
-> - **1:55:33 Ignacio's final words:** "**I have died, but my soul lives on.**" Drew: "Post-credits scene… the Marvel effect."
-> - **1:55:50 K-Boom's final pitch:** KBoomCoin is on sale "at KBoomCoin.com slash… BTS coin, XY47… **$4,000 a piece. They're currently worth… twice that**," and "**pretty soon we will have the Ignacio NFTs**." Bec: "This stream is not sponsored by K-Boom coins. I paid 50,000 for them though." (Unclear whether that's the Grandmaster in character.) K-Boom: the value has tanked "because… K-Boom died in the match." Ignacio: "**Send my percentage to my family.**"
+> - **1:38:43 The sack (K-Boom, likely in character):** "It's non-existent right now… I'm still trying to pull out the pieces." Caustic Phoenix: the javelin in it is "ready to toast that like a marshmallow."
+> - **1:55:33 Ignacio's final words:** "**I have died, but my soul lives on.**" Mudcat: "Post-credits scene… the Marvel effect."
+> - **1:55:50 K-Boom's final pitch:** KBoomCoin is on sale "at KBoomCoin.com slash… BTS coin, XY47… **$4,000 a piece. They're currently worth… twice that**," and "**pretty soon we will have the Ignacio NFTs**." Caustic Phoenix: "This stream is not sponsored by K-Boom coins. I paid 50,000 for them though." (Unclear whether that's the Grandmaster in character.) K-Boom: the value has tanked "because… K-Boom died in the match." Ignacio: "**Send my percentage to my family.**"
 >
 > ### Creator notes (out of character)
-> - Karim: "K-Boom ended up turning out to be the love of my life." Bec: "Very soap opera-y."
-> - Drew: the show proves RP and PvP combat can coexist. The WWE-style theatrics work "because 5e is not balanced."
-> - Brandon's favorite moments: the banter and relationship, the death scene with the NFT, and the Cloud of Daggers → Misty Step → re-enter → Shocking Grasp combo. Drew calls the combo "super meta." Bec: "Total dickish. I loved it… This is chess."
+> - Karim: "K-Boom ended up turning out to be the love of my life." Caustic Phoenix: "Very soap opera-y."
+> - Mudcat: the show proves RP and PvP combat can coexist. The WWE-style theatrics work "because 5e is not balanced."
+> - Brandon's favorite moments: the banter and relationship, the death scene with the NFT, and the Cloud of Daggers → Misty Step → re-enter → Shocking Grasp combo. Mudcat calls the combo "super meta." Caustic Phoenix: "Total dickish. I loved it… This is chess."
 > - Karim's favorite: bringing Mort, then selling him to the Box of Chaos, then rolling three nat 20s. Chat was shocked; usually brought pets "play a whole big part." Karim: "I love Mort, but… I need a win here, Box of Chaos."
-> - **Box of Chaos history (Drew):** people have sacrificed their opponents, their souls, blood and family heirlooms, and "We've seen somebody fall in love with a box of chaos." This was the first time anyone **named their price**, and Bec says the first nat 1 on it. Gerald thought about it inside, then just bolted the door. "It's been three seasons, almost a year of deathmatches." Bec: "Failures tell such good stories."
+> - **Box of Chaos history (Mudcat):** people have sacrificed their opponents, their souls, blood and family heirlooms, and "We've seen somebody fall in love with a box of chaos." This was the first time anyone **named their price**, and Caustic Phoenix says the first nat 1 on it. Gerald thought about it inside, then just bolted the door. "It's been three seasons, almost a year of deathmatches." Caustic Phoenix: "Failures tell such good stories."
 > - Brandon "prayed into the void for a nat 1 on that box": a sleazy shill giving "practically a bitcoin" to the box and getting locked out was poetic.
-> - **This was Karim's first real D&D game as an adult.** His tattoo artist runs D&D on Fridays at a tattoo parlor in **Boston**. He and Drew know each other "since Mixer days." Drew met Brandon when Brandon playtested "your stuff." Brandon asked to "play a heel… the sleazy asshole."
-> - **The double death:** Drew normally unsummons monsters at the end ("Like the perky dragon" is said here; meaning unclear), but with a crypto shill "this is just too perfect." **Drew believes it's the first time both champions died.** Before this, once, when both were about to die from a fireball, **the Grandmaster merged them into one body instead**, and they weren't happy about it.
-> - Brandon expected the final fireball to only "fuck them up" and leave the water weird to even things out. Drew says it rolled **42** (four 6s, three 5s, a 4, a 2) and calls it a crit roll; the in-episode total was 45. Drew enjoyed teaching Karim Disengage, knowing the weird (60 ft speed) would catch him anyway.
-> - Drew has the Independence Day speech memorized and used to do it on stream for tips. Brandon asked what the realm was called so he could swap it in: "The Void." A tangent of Kung Pao quotes follows. The music is from Epidemic Sound (Drew's folder of "slow jams, death music"). Joke t-shirt line: "I didn't want to put that lance through your sack, man."
+> - **This was Karim's first real D&D game as an adult.** His tattoo artist runs D&D on Fridays at a tattoo parlor in **Boston**. He and Mudcat know each other "since Mixer days." Mudcat met Brandon when Brandon playtested "your stuff." Brandon asked to "play a heel… the sleazy asshole."
+> - **The double death:** Mudcat normally unsummons monsters at the end ("Like the perky dragon" is said here; meaning unclear), but with a crypto shill "this is just too perfect." **Mudcat believes it's the first time both champions died.** Before this, once, when both were about to die from a fireball, **the Grandmaster merged them into one body instead**, and they weren't happy about it.
+> - Brandon expected the final fireball to only "fuck them up" and leave the water weird to even things out. Mudcat says it rolled **42** (four 6s, three 5s, a 4, a 2) and calls it a crit roll; the in-episode total was 45. Mudcat enjoyed teaching Karim Disengage, knowing the weird (60 ft speed) would catch him anyway.
+> - Mudcat has the Independence Day speech memorized and used to do it on stream for tips. Brandon asked what the realm was called so he could swap it in: "The Void." A tangent of Kung Pao quotes follows. The music is from Epidemic Sound (Mudcat's folder of "slow jams, death music"). Joke t-shirt line: "I didn't want to put that lance through your sack, man."
 

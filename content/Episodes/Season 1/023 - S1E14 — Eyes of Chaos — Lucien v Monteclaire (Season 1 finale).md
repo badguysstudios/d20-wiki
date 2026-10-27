@@ -134,13 +134,13 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
   - Banished the horned devil.
   - Sides with the turkey dragon while being terrified of it.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - **Rule:** sits on the Iron Throne in the throne room deep in the Dread Fortress. Keeps a secret ruler's handbook.
 - **[[Lore/The Acolytes|The Acolytes:]]** wants "I am a delight. People like me" sewn in her clothes. Asked the Acolytes to fight for the first time.
 - **The turkey dragon:** dislikes chickens and turkeys, yet **created the turkey dragon** and keeps it locked behind the triple-locked Northern Gate.
 - **The attack:** refused to flee. Lost the Arbiter to the Tarrasque and vowed to rebuild for Season 2.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Took notes on how rulers behave. Sent mage hands to sew for the Grandmaster.
 - **Used time magic to hold the Tarrasque for the whole battle.** Was swallowed whole, alive, and carried off.
 - Locked the Northern Gate with multiple locks (the Grandmaster blames him).
@@ -198,7 +198,7 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the throne room
-> 1. **0:00:02 — Setting the scene.** Drew opens the finale. "Deep in the bowels of this hellish castle lies the throne room where the Grandmaster sits atop **Her Iron Throne**." The Arbiter's feet clack on the stone as he opens the giant doors.
+> 1. **0:00:02 — Setting the scene.** Mudcat opens the finale. "Deep in the bowels of this hellish castle lies the throne room where the Grandmaster sits atop **Her Iron Throne**." The Arbiter's feet clack on the stone as he opens the giant doors.
 > 2. **0:00:50 — The ruler's handbook.** The Grandmaster is sitting and drinking from a glass: "That's what rulers do. You sit on a throne and you drink out of a glass and you rule."
 >    - The Arbiter asks if there's a handbook. She says it is **a secret handbook passed only from ruler to ruler**: "You would know this if you're a ruler, but you are not."
 >    - **The Arbiter takes out a small notepad and notes that rulers sit and drink.**
@@ -217,7 +217,7 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 >    - The GM: "For this ending, I take you to no far off location… **this is our grand coliseum in the cool of night with the stars overlooking your grand battle.**"
 >    - The Acolytes encircle it. The columns may give cover or a launch point.
 > 8. **0:06:22 — The GM thanks her Acolytes.** She flies up and thanks them for "the energy, the food, **the grandmothers you have sacrificed week after week**." She promises "nothing short of greatness tonight." She takes her seat high above, and **Doug appears at her side**.
-> 9. **0:07:17 — Placement.** Both champions roll the same d4 spot, so Drew starts them on **opposite sides of a 20-ft stone column** ("Peek-a-boo"). Initiative: Monteclaire 17, Lucien 8.
+> 9. **0:07:17 — Placement.** Both champions roll the same d4 spot, so Mudcat starts them on **opposite sides of a 20-ft stone column** ("Peek-a-boo"). Initiative: Monteclaire 17, Lucien 8.
 >
 > ### Round 1
 > 10. **0:09:39 — Monteclaire's background.** "I am royalty myself, having been **a lord of a town. I was kicked out. We're not going to talk about that.**" Then: "He's got the gift of the gab, but **I got the gift of the stab.**"
@@ -319,8 +319,8 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 >    - **Two sparkling purple vials** restore them fully, as if after a long rest.
 >    - **She summons their lost weapons up from the sand.** "Do not let go of them."
 >    - A mound of sand reveals **a large pink chest ringed in magical fire**: "**a secret gift of this arena. A loot chest**." The fire only burns those who enter it, and it's there so their opponents can't reach the chest.
->    - **Kills earn blood points, and blood points open the chest.** Drew: each kill is one point, three points buy one roll, and points can be shared. **Chat grants one reroll.**
->    - Drew calls it "**a box of chaos**" and "this magical chaos box". Touching it sends chaotic energy surging through the body.
+>    - **Kills earn blood points, and blood points open the chest.** Mudcat: each kill is one point, three points buy one roll, and points can be shared. **Chat grants one reroll.**
+>    - Mudcat calls it "**a box of chaos**" and "this magical chaos box". Touching it sends chaotic energy surging through the body.
 > 49. **1:07:26 — The Northern Gate.** "I leave you to defend while I go grab one more for this battle." She moves to **the Northern Gate**, which is fastened with multiple locks: "**Arbiter, what locks have you put on this?**" He's too busy straining under the Tarrasque to help.
 > 50. **1:08:50 — Doug returns.** **Doug flies into the arena and guards the Southern Gate**, barking his head off. More waves are coming.
 >
@@ -420,7 +420,7 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 >    - "Welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew: the episode was a **playtest of "our brand new mode in the arena… Horde mode and the Box of Chaos."**
+> - Mudcat: the episode was a **playtest of "our brand new mode in the arena… Horde mode and the Box of Chaos."**
 > - **Mike (theshortnord):**
 >   - His third time on the show: he playtested before the show started, then "a big, burly fighter," now "a small, not-so-big fighter."
 >   - **Monteclaire was built for a "Tasha's" one-shot.** He's "an absolute asshole," made "all fluff and pompous." Lucien's kindness made him feel like more of one.
@@ -432,9 +432,9 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 >   - Chaos events keep him paying attention. He mentions **Robear's games** and **"Brucie,"** another of his characters.
 >   - DM advice: "reskin things… fuck the CR rating. Just make it fair." Final wisdom: try the game once.
 > - **Chaos events and the turkey dragon:**
->   - Drew credits the chaos events to Bec, including the turkey dragon.
->   - **Bec drew the turkey dragon for Thanksgiving.** Drew homebrewed "the cranberry and gravy breath." Its stats are comparable to **an ancient amethyst dragon**, and it is "bigger than a red dragon."
->   - Bec is "still working my way to 20" chaos events, aiming for 100, and changes the table so no one knows what a 13 is. All chaos events are reskinnable ("a hamster in a ball").
-> - **The horned devil was meant to be the final wave.** After it was commanded and banished, Drew brought in the red dragon.
-> - Bec: "Shoredward was about to rage quit on the clown." Drew: "I can just keep bringing out monsters until you're dead."
+>   - Mudcat credits the chaos events to Caustic Phoenix, including the turkey dragon.
+>   - **Caustic Phoenix drew the turkey dragon for Thanksgiving.** Mudcat homebrewed "the cranberry and gravy breath." Its stats are comparable to **an ancient amethyst dragon**, and it is "bigger than a red dragon."
+>   - Caustic Phoenix is "still working my way to 20" chaos events, aiming for 100, and changes the table so no one knows what a 13 is. All chaos events are reskinnable ("a hamster in a ball").
+> - **The horned devil was meant to be the final wave.** After it was commanded and banished, Mudcat brought in the red dragon.
+> - Caustic Phoenix: "Shoredward was about to rage quit on the clown." Mudcat: "I can just keep bringing out monsters until you're dead."
 

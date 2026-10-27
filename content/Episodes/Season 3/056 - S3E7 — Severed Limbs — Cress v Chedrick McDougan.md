@@ -143,25 +143,25 @@ After the fight, Cress repeated that this was not her final form. She promised "
 - Pecked the Boggart's ankles.
 - **Became the super spinning penguin drill that killed Cress.**
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The shadowy demon in the Box of Chaos: clawed shadow hands, yellow eyes.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The shadowy demon in the Box of Chaos: clawed shadow hands, yellow eyes.
 - Gave the Mind Blade for grapes and apples. Clawed Chedrick for hitting him.
 - Gave Cress a healing potion out of spite.
 - Has a "hand collection."
 - Gave Cress the Mass Healing Word scroll for Chedrick's hand, then traded the hand back for Cress's foot along with a sewing kit. Puppeted the sewn hand.
 - "I'm a demon in a box, not a monster."
 
-**Sir Shadow Ten the Third, Knight of the Night** (Drew). A shadow ghast the Arbiter shaped from the Boggarts and the Shadowlands' shadows.
+**Sir Shadow Ten the Third, Knight of the Night** (Mudcat). A shadow ghast the Arbiter shaped from the Boggarts and the Shadowlands' shadows.
 - Partly incorporeal, long tongue(s), paralyzing claws, necrotic bite.
 - Resisted Chedrick's mind control.
 - Banished and shot through the heart by the Grandmaster.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - **Arrives with chains clanking on his ankles and wrists.** Lightheaded.
 - Opens portals with a clap (visible ripples) and summons the Box of Chaos with a snap. Has giant wings.
 - Chose the Shadowlands, thinking she'd like it, and suggested building her a shrine there.
 - Keeps losing his end-of-round rolls to Doug.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Made a rat charcuterie with goblin help; "I am a good cook." Kicked over a goblin in a huff.
 - **Hates the Shadowlands.** Floats rather than touch the ground there.
 - Has an oath bow. Banished the ghast and gave both champions advantage. Handed out rainbow beans.
@@ -258,7 +258,7 @@ After the fight, Cress repeated that this was not her final form. She promised "
 > 33. **0:39:11 — Silver blood.** The Grandmaster asks Chedrick's blood colour. Chedrick: "**Vibranium color. T-1000… Terminator blood.**" **Bright silver blood pours out, mirror-like, reflecting both of them in the ground.** The Arbiter holds up a Polaroid: "Have you seen this boy?" The Grandmaster: "You're an android?" Chedrick: "Fifty shades of gray blood."
 > 34. **0:39:54** **Cress's second swing chops Chedrick's hand clean off.** "My strong hand." Cress is free to move, **but the severed hand is still clasping hers until the end of the round**.
 > 35. **0:40:32 — "Quit hitting yourself!"** The Arbiter asks, "You gonna slap him with his own hand?" With Flurry of Blows, **Cress slaps Chedrick with his own severed hand**. The blows miss, but **one splatters blood across his face** ("Tasting my own vibranium blood"). The dead hand's grip makes it awkward.
-> 36. **0:41:44** **Cress backflips 10 ft up onto a rock** (Acrobatics 22 after a reroll Bec allowed because the die was ambiguous).
+> 36. **0:41:44** **Cress backflips 10 ft up onto a rock** (Acrobatics 22 after a reroll Caustic Phoenix allowed because the die was ambiguous).
 > 37. **0:42:29** Chedrick skips the opportunity attack. Cress: "You took my toe." Chedrick: "We're not even. **I only took one piece, you took five, literally.**" Cress: "You're the one that was after my feet, bro." Chedrick wonders whether he can regenerate. The Arbiter would let Second Wind reattach the fresh hand, but Cress still holds it.
 > 38. **0:43:29 — The Mind Blade stump.** "**I'm going to attach this mind blade to my chopped off hand.** I'm coming after you, Cress. I'm going to get my hand, and I'm going to take the rest of your feet off." Cress taunts that he can't reach her. Chedrick: "**I am the bungee cord.** My legs will take me anywhere I need to go." The Arbiter: "Who gave it to you? Why do they hate you?" The Grandmaster: "If you have a nickname, that probably means you have friends." Chedrick: "I'm disoriented, okay? I'm just losing blood."
 > 39. **0:44:46** The Arbiter calls it "that **evil dead arm**." **Chedrick climbs the rock** (Athletics 12) and the Mind Blade hits.
@@ -271,7 +271,7 @@ After the fight, Cress repeated that this was not her final form. She promised "
 >
 > ### Chaos event — the Boggarts (0:52:34)
 > 44. The Arbiter rolls 11. After a math muddle he settles on event 53 ("What a nerd"). **Two shadows seep from the ground, one in front of each champion, read their deepest fears and transform: Boggarts.**
-> 45. **0:53:43 — Chedrick: heights.** Bec: "Heights!… don't give me heights. I can't make it a height." It becomes one anyway: **his Boggart rises beneath him, grips his feet, and lifts him "like a cheerleader to the top of the pyramid," 30 feet up.**
+> 45. **0:53:43 — Chedrick: heights.** Caustic Phoenix: "Heights!… don't give me heights. I can't make it a height." It becomes one anyway: **his Boggart rises beneath him, grips his feet, and lifts him "like a cheerleader to the top of the pyramid," 30 feet up.**
 > 46. **0:54:13 — Cress: a Karen.** (Cress had joked "a retail job.") Hers becomes **a pale Karen with short blonde hair, spiky at the back and longer in front, and a giant purse.** She **cartwheels her shopping cart** toward Cress. She wants to return everything for cash, though she paid by credit card in someone else's name, and she has no receipt. Cress: "She's definitely the one that tries to **return a hot dog at a Stein Mart** with no receipt." The Grandmaster: "It's had a couple bites in it."
 > 47. **0:56:00** Chedrick: "I have no wisdom." He fails. **He runs 15 ft off the Boggart, falls 30 ft to land right above the chest, and his ankle snaps a little.** Fear was not lifted; he was "just pecking at the ankles of this Boggart."
 > 48. **0:57:18 — The foot as a cushion.** Chedrick reveals he **picked up Cress's severed foot and landed on it**: "**I'd rather crack hers than mine.**" Cress: "That's fine, I got plans, don't worry."
@@ -282,11 +282,11 @@ After the fight, Cress repeated that this was not her final form. She promised "
 > 51. **1:00:54 — The senzu bean.** Cress asks to "senzu bean" her hero point to regrow her foot and toe. She needs above 17 on a D20 and fails ("You ain't no lizard"). **The ankle grows back, ending in tiny toes and no foot**, and she heals. The crowd cheers "**Goku, no, sorry, Cress, Cress, Cress.**" Chedrick: "Orange Namekian now." The Grandmaster: "**Twinkle Toes.**" Chedrick: "You got a little rascal's ankle."
 > 52. **1:03:01 — Javelins.** Cress throws javelins from her rock. Chedrick: "Your accuracy decreases by 20% because you're on one foot." The Arbiter: "**This guy, he's been playing D&D all of an hour and thinks he's a DM now.**" The first javelin glances off him.
 > 53. **1:05:02 — Feeding the box his hand.** **Cress uses telekinesis to drag the willing Box of Chaos 5 ft closer** ("Gerald's up for a free ride"). Then she **throws Chedrick's severed hand into it**: "That is my gift to you." Gerald: "**Oh yeah, this will go great with my hand collection.**" The Grandmaster: "Sorry, Chedrick. I don't think you'll be getting your hand back." The d100 comes up 64 ("Nintendo 64"). The Arbiter: "**Uh-oh. This is an uh-oh for Chedrick.**" He has to find a list, then has Cress roll a d12: a 3.
-> 54. **1:07:12 — The scroll.** Gerald floats out **a scroll of a ninth-level spell: Mass Healing Word at 9th level** ("It's close to the wish spell though"). The table jokes about which foot she should get: dragon, tiefling, goblin, "the Subway foot." Chedrick wants a dragon foot to jump higher, and they point out he's afraid of heights. **Cress heals a large amount and her foot regrows fully.** The Arbiter's description: "**it's like a skin sweatpants**." Bec: "I'm actually imagining something else that it could look like… I'm so sorry!" She later says, "It's fun to make everyone uncomfortable."
+> 54. **1:07:12 — The scroll.** Gerald floats out **a scroll of a ninth-level spell: Mass Healing Word at 9th level** ("It's close to the wish spell though"). The table jokes about which foot she should get: dragon, tiefling, goblin, "the Subway foot." Chedrick wants a dragon foot to jump higher, and they point out he's afraid of heights. **Cress heals a large amount and her foot regrows fully.** The Arbiter's description: "**it's like a skin sweatpants**." Caustic Phoenix: "I'm actually imagining something else that it could look like… I'm so sorry!" She later says, "It's fun to make everyone uncomfortable."
 > 55. **1:11:23** Chedrick now holds "a foot that doesn't matter anymore." The Arbiter: "It's a **souvenir foot**." The Grandmaster: "Put it as a keychain. It'll bring you luck." The Arbiter: "I fought to the death and all I got was this foot."
 > 56. **1:11:44** Cress's **Kensei's Shot** javelin misses. The Grandmaster: "**You're kind of looking like a Krillin out there.**" The Arbiter: "Better a Krillin than a Yamcha." The Grandmaster: "If you miss this next one, you're a Yamcha."
 > 57. **1:12:53 — Foot for hand.** Chedrick: "It seems to me that **my hand gave Cress the most powerful healing spell of all time**. Let's see what this stinky foot could do." He throws Cress's foot into the box: "Unlike you, I was nice to the box." **Gerald peeks at the foot, reaches back into the chest, and holds out Chedrick's hand: a trade.** Chedrick: "Get my damn hand." Cress: "That's how you talk to them when they give you your hand back?" Chedrick: "I'm grateful. I'm very grateful."
-> 58. **1:14:21 — The sewing kit.** Gerald takes the foot and **tosses Chedrick a sewing kit** to sew his own hand back on (Sleight of Hand 13; Bec "was really hoping for a nat 1"). **It's on the right limb and the right way round, but weak: "This is no longer your strong hand for sure."**
+> 58. **1:14:21 — The sewing kit.** Gerald takes the foot and **tosses Chedrick a sewing kit** to sew his own hand back on (Sleight of Hand 13; Caustic Phoenix "was really hoping for a nat 1"). **It's on the right limb and the right way round, but weak: "This is no longer your strong hand for sure."**
 > 59. **1:15:35 — "Stop hitting yourself."** Chedrick says the hand is "already at disadvantage. It's slapping me." The Grandmaster takes the idea, and **his first attack with the hand is against himself. He slaps himself so hard it leaves a mark.** **Gerald's shadow hand is sticking out of the box "like commanding the hand, like he cursed it."** Chedrick: "Hey, hey, leave me alone… **It's got a mind of its own.**"
 > 60. **1:18:17** Chedrick: "Hey, Cress, about that ankle of yours, I'm aiming for it." **He throws a hand axe left-handed at Cress's ankle.** It slices but doesn't sever.
 > 61. **1:19:20 — Blue blood.** Cress: "**My blood's blue.**" It mixes "beautifully with this silver alloy" from Chedrick. Cress: "Got that Quicksilver going."
@@ -295,7 +295,7 @@ After the fight, Cress repeated that this was not her final form. She promised "
 > 64. **1:21:34** **Chedrick rolls a nat 1.** His Boggart, "giggling, laughing," lifts him another 10 ft. **He jumps off willingly and takes fall damage again.** "What is going on?"
 >
 > ### Round 5 — Sir Shadow Ten the Third, Knight of the Night
-> 65. **1:22:53 — The Arbiter's chaos event.** The Arbiter's 18 triggers his event. **He pulls the Boggarts and other shadowy things out of their hiding places and shapes them into a shadow ghast between the champions.** It is partly incorporeal, pours smoke and shadow, and has a long whipping tongue (or tongues). "Wife is a very lucky lady" (speaker uncertain, probably Drew). Chedrick: "Is that plural? Like tongues?"
+> 65. **1:22:53 — The Arbiter's chaos event.** The Arbiter's 18 triggers his event. **He pulls the Boggarts and other shadowy things out of their hiding places and shapes them into a shadow ghast between the champions.** It is partly incorporeal, pours smoke and shadow, and has a long whipping tongue (or tongues). "Wife is a very lucky lady" (speaker uncertain, probably Mudcat). Chedrick: "Is that plural? Like tongues?"
 > 66. **1:24:00** Both champions try to hold still and hide. Cress rolls 6 and is seen. **Chedrick rolls double nat 20s: "Maybe because you've been bleeding so much, you just look like a silvery background in this space."** He is hidden for two rounds.
 > 67. **1:25:30** Cress checks that her Kensei weapons count as magical and **hits the ghast with a javelin**.
 > 68. **1:26:50 — Blown cover.** Chedrick yells at the ghast: "Hey, but she just hit you. What you going to do about that? **I mean, you can't see me**, so I ain't worried about it." **It turns toward his voice and his stealth is gone.** The Grandmaster: "You talked directly to it. Whoops." Cress: "Fear is mad." **Cress holds her action** behind the rock ("She's playing the long game").
@@ -319,7 +319,7 @@ After the fight, Cress repeated that this was not her final form. She promised "
 > 82. **1:52:48 — Chedrick.** "First I dodge… then I will use my **super spinning penguin drill**. Hence why I have my friend Fear with me. **I got the penguin for a reason.**" He spins ten times and throws Fear in a drilling position through her torso.
 > 83. **1:53:16** Cress, eyes glowing, lowers her gaze from the sky to him: "**What makes you think I can't move this as you move?**" Chedrick: "Because you have to focus your whole attack while your hand is up… you're going to see a pinwheel drill straight through your torso." Cress: "**Waving my hand is the controller, baby.**" Chedrick: "You can't control it when you're dead." The beam grows larger, and **Fear spins so fast he becomes "a gray blur of fire."**
 > 84. **1:54:16 — 40d6 each.** Cress rolls 143: "that fiery heat burns hotter… almost turning white." Chedrick first rolls 1d6 plus 40, then 5d8 ("He's panicking!"), and finally gets 40d6 ("This penguin is building up even more so. He starts to scream"). **He wins by ten points.**
-> 85. **1:56:36 — Death of Cress.** "**Chedrick's penguin pushes through, blue, supersonic blast, destroying the fiery flames from Cress and pummeling through her, creating a tunnel through her body.**" (Bec first says "The victor is dead," then corrects: "Victory is yours!") **Cress looks down at a penguin-sized hole through her stomach.** Her last words: "**This isn't even my final form.**"
+> 85. **1:56:36 — Death of Cress.** "**Chedrick's penguin pushes through, blue, supersonic blast, destroying the fiery flames from Cress and pummeling through her, creating a tunnel through her body.**" (Caustic Phoenix first says "The victor is dead," then corrects: "Victory is yours!") **Cress looks down at a penguin-sized hole through her stomach.** Her last words: "**This isn't even my final form.**"
 > 86. **1:57:31** The Grandmaster descends, feet still not touching: "**Arbiter, remove our Yamcha.**" **The Arbiter lands with his giant wings folded and slings Cress's body over his shoulder by putting his arm through the hole**, then flies away. The Grandmaster: "Don't worry, she'll probably be back… **Death is just the beginning.**"
 > 87. **1:58:26 — Chedrick abandoned.** She holds her hand out to Chedrick. **Instead, a water bottle he throws hits her in the face as she tries to catch it.** "**Fine. Have it your way. I always hated this place anyway.**" She rises: "**I gift you your wish, but I'm going to leave you here in this place.**" To the acolytes: "We've given you a battle to remember. Each time we come back, we come back stronger." **She claps, and everyone is back in the kitchen, without Chedrick, who has been left in the Shadowlands.** "Drinks on me! And welcome and good night to D20 Deathmatch!"
 
@@ -334,7 +334,7 @@ After the fight, Cress repeated that this was not her final form. She promised "
 > - **Cheese's plan was to take the player's shoes.** Reck is "always rocking some Jordans," and he meant to tie them up and throw them over the clotheslines. Hence "I'm taking your shoes," and then the feet. "It all started with a pinky toe" (a Proud Family reference).
 > - **Reck built Cress on Dragon Ball Z.** The name was chosen like a Saiyan vegetable name. The ultimate move was based on **Gears of War's Hammer of Dawn**. There's a tangent on Gears of War (Cole Train, Dom's storyline) and crying over it.
 > - **Fear is based on Cheese's friend, who streams on Twitch as a penguin character.** The penguin drill came from their goofy ideas. Reck pictured Naruto's Gatsuuga (Kiba and Akamaru).
-> - Drew: "I'm always looking for the gut punch… find the emotional gut punch and then just keep punching it."
-> - Bec: D&D should be playable by anyone; "if a game is fun, it's because the people are fun… None of us know all the rules."
+> - Mudcat: "I'm always looking for the gut punch… find the emotional gut punch and then just keep punching it."
+> - Caustic Phoenix: D&D should be playable by anyone; "if a game is fun, it's because the people are fun… None of us know all the rules."
 > - Closing: Reck and Cheese play up "D&D beef" ("This would be great for our engagement").
 

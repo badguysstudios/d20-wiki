@@ -140,7 +140,7 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
   - Rolled five natural 1s.
   - Was disarmed and killed with his own sickle; the wind carried his body away.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat).
 - **Running the Fortress:**
   - Back in power; doing the taxes (1099s) for the first time and sorting receipts by size. His tower always had an intern for the taxes.
   - Wants "a full accounting" of what Elusia did while he was gone.
@@ -148,7 +148,7 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
 - **Cruelty:** murdered the Acolyte Blissful Dwarf to prime the Box of Chaos, and turned the arena water to acid.
 - **With the champions:** offered Toocher the "sign guy" job. Gave Toocher a victory lap that included an acid dip.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Her captivity:** opens portals by clenching an amulet around her neck. It draws her blood, and her palms are now scarred from it.
 - **At the Fortress:** her hair widens with stress, and she directs the goblin employees.
 - **In the arena:**
@@ -156,11 +156,11 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
   - Shot Toocher for a pun, then secretly healed him; the Shadow King caught her.
   - Voiced the wind spirit (inferred) and "the old man."
 
-**The old man in the top hat** (Bec): worn, patched top hat, large ears, white hair, teacup. He rises from the water and swaps the champions ("Change places!"). The Grandmaster says he's "mad," holds tea parties at random times, "sometimes a bunny shows up." Toocher calls him "Uncle Pennybags."
+**The old man in the top hat** (Caustic Phoenix): worn, patched top hat, large ears, white hair, teacup. He rises from the water and swaps the champions ("Change places!"). The Grandmaster says he's "mad," holds tea parties at random times, "sometimes a bunny shows up." Toocher calls him "Uncle Pennybags."
 
 **[[Characters/Blissful Dwarf|Blissful Dwarf]]**: an Acolyte in the crowd, dismembered by the Shadow King. His black soul primed the Box of Chaos, and it crawled out confused ("Where am I?! What am I?!") to trade with Sho Nin.
 
-**The wind voice**: unidentified. It says "Look to the stars," "Look to the north," "I've got you, my child." Bec is improvising its lore ("no idea what lore I'm building").
+**The wind voice**: unidentified. It says "Look to the stars," "Look to the north," "I've got you, my child." Caustic Phoenix is improvising its lore ("no idea what lore I'm building").
 
 **Heather and Tophne**: goblin employees at the Fortress who take the tax papers.
 
@@ -237,20 +237,20 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
 > 35. **0:37:53 — The pose.** He strikes "a very obnoxious pose" (Performance 16). **The wind blows past at that exact moment, giving him an ethereal look**, and everyone screams at his beauty. Sho Nin: "**I'm 15! I prefer cool!**" GM: "That's never stopped anyone fangirling over those K-pop stars." The table riffs: "Remember that time you elbowed a 15-year-old in the chest?" Toocher: "The crowd's cheered, so I'll take it. We're all accomplices here." GM: "A 15-year-old against a toad." Toocher: "**It's a frog.**" Sho Nin: "It's like Wind in the Willows."
 > 36. **0:39:55 — The leg press.** Toocher braces with his hands, gets his powerful legs under the crane, and does "the strongest squat that anyone has witnessed" (Athletics 28). **The crane flies and nearly hits the front row**, and spectators cheer and try to grab it like a prize. He points at the crane, then at Sho Nin: "**That's gonna be you in a moment, kid.**"
 > 37. **0:41:58** "**Psych!**" **He leaps frog-style, limbs splayed, onto Sho Nin's head and grapples him** (30 vs 17). "You have a frog on your face." Sho Nin: "**Oh God, you're slimy.**"
-> 38. **0:43:09** Toocher: "**Hey, remember this, kid?**" **He pulls Sho Nin's dart out of his own chest and stabs Sho Nin with it.** It's a glancing blow, plus a sneak attack (his inquisitive insight from before the fight), plus poison. Sho Nin is **poisoned again and grappled**. GM: "A boy fights with his fists, a man fights with his mind." Drew: "And a better man fights with a sword or a gun." Sho Nin: "What are you fighting with again? Your excretions?" Toocher: "Excretions plus your own dart."
+> 38. **0:43:09** Toocher: "**Hey, remember this, kid?**" **He pulls Sho Nin's dart out of his own chest and stabs Sho Nin with it.** It's a glancing blow, plus a sneak attack (his inquisitive insight from before the fight), plus poison. Sho Nin is **poisoned again and grappled**. GM: "A boy fights with his fists, a man fights with his mind." Mudcat: "And a better man fights with a sword or a gun." Sho Nin: "What are you fighting with again? Your excretions?" Toocher: "Excretions plus your own dart."
 > 39. **0:46:03 — The bracers.** Toocher **rips the dart out, glances at Sho Nin's blood on it, and tosses it into the box** ("The gift of my opponent"). A shadowy hand floats out **Bracers of Defense**. **They look like his red scarf, wrapped around his wrists with long trailing red tails.** Sho Nin: "You have scarves for your arms?" Toocher: "**Now I do. Thanks, Sho Nin. Arm scarf… These are functional.**" GM: "**Scarf Boy.**"
 >
 > ### Chaos event — butterfly butts (0:47:36)
-> 40. "You feel an odd sensation starting in your butt?" Drew: "Is it puberty?" "It's not puberty." **Both champions' butt cheeks grow bigger, wider and flatter and sprout into butterfly wings.** For two rounds they can fly at their walking speed. "**I make no apologies for the events I create.**" Their "ass wings" lift them 30 ft into the air. The Shadow King rolls 18.
+> 40. "You feel an odd sensation starting in your butt?" Mudcat: "Is it puberty?" "It's not puberty." **Both champions' butt cheeks grow bigger, wider and flatter and sprout into butterfly wings.** For two rounds they can fly at their walking speed. "**I make no apologies for the events I create.**" Their "ass wings" lift them 30 ft into the air. The Shadow King rolls 18.
 >
 > ### Round 3
 > 41. **0:49:36** Sho Nin is still grappled in the air. He describes his cheeks as "very well clothed and completely opaque. For legal reasons." GM: "**censored out, giant black blocks around them.**" He tries to "emerge from this toad-like cocoon to be a gorgeous butterfly" but fails to break the grapple (Toocher rolls 31). "Might try cutting his arms off first."
-> 42. **0:51:47 — The wind's origin.** Sho Nin "approaches the bench." He uses **Warding Wind plus his hero point to blast them apart**. Asked where the wind comes from: "It comes from inside me without being from inside me." Drew: "It's a fart, isn't it?" "**It's not from betwixt the cheeks.**" The lore: **these wind energies were passed down to him and skipped a generation. They've only now fully settled into his body, and he is beginning to understand the power within, but nobody has explained it to him yet. He is on a quest to understand "the wind within… not his ass," and perhaps his mother has answers.** She "is not a windy lady"; she is "**the musky maiden.**" "It's a weird family, don't ask."
-> 43. **0:54:14** The wind throws them 10–15 ft apart and the grapple breaks. **Sho Nin hears a voice in the wind: "Look to the stars."** (inferred to be Bec as the voice; the line is diarized to 01). It's daylight, so **he looks at the sun** ("The sun is a star"). Sho Nin: "**Oh man, that was stupid! Oh man, what are these spirits trying to tell me?**" Half-blind with sunspots, he flies off erratically like a moth, Brownian motion, about 40 ft. He shakes off the poison.
+> 42. **0:51:47 — The wind's origin.** Sho Nin "approaches the bench." He uses **Warding Wind plus his hero point to blast them apart**. Asked where the wind comes from: "It comes from inside me without being from inside me." Mudcat: "It's a fart, isn't it?" "**It's not from betwixt the cheeks.**" The lore: **these wind energies were passed down to him and skipped a generation. They've only now fully settled into his body, and he is beginning to understand the power within, but nobody has explained it to him yet. He is on a quest to understand "the wind within… not his ass," and perhaps his mother has answers.** She "is not a windy lady"; she is "**the musky maiden.**" "It's a weird family, don't ask."
+> 43. **0:54:14** The wind throws them 10–15 ft apart and the grapple breaks. **Sho Nin hears a voice in the wind: "Look to the stars."** (inferred to be Caustic Phoenix as the voice; the line is diarized to 01). It's daylight, so **he looks at the sun** ("The sun is a star"). Sho Nin: "**Oh man, that was stupid! Oh man, what are these spirits trying to tell me?**" Half-blind with sunspots, he flies off erratically like a moth, Brownian motion, about 40 ft. He shakes off the poison.
 > 44. **0:56:41** Toocher looks back at his own butt: **elongated and flat, "like two giant pairs of frog feet."** He flexes, finds buoyancy, and "**makes a straight behind towards Sho Nin**" (GM: "You can't make a beeline, you're a butterfly").
 > 45. **0:57:29 — The great bougie clap.** **Toocher turns around, spreads his butt cheeks and claps them together around Sho Nin as a grapple.** GM: "**The great bougie clap of 2023 begins!**" It works (24). Toocher grabs Sho Nin's head over his shoulder and **flips to piledrive him from 30 ft**. The attack misses: **Sho Nin wiggles free, and Toocher piledrives himself into the ground.** "**I'm not used to using my butt as a grapple attack quite yet… I need to train harder.**"
 > 46. **0:59:15** Toocher describes his cheeks: "like two flat frog's feet," because he can't recall if frogs have butt cheeks. The table debates which animals have buttholes; the answer is octopi don't. "**The Acolytes start screaming everything that has a butthole… a long list.**" Toocher: "A very educated crowd."
-> 47. **1:01:00** The GM gives Toocher a psychic unarmed strike for "the old hiney hold." Sho Nin: "**like getting pushed out between two large slices of ham**… freshly sliced ham when it's still a bit damp." Sho Nin: "**Two slices of ham!**" He fails the Con save (4) and is **poisoned again**: residue from the cheeks drips into "his own face cheeks." Drew: "Cheek on cheek action… Dancing cheek to cheek." Sho Nin: "Tenderly." Shadow King rolls 11.
+> 47. **1:01:00** The GM gives Toocher a psychic unarmed strike for "the old hiney hold." Sho Nin: "**like getting pushed out between two large slices of ham**… freshly sliced ham when it's still a bit damp." Sho Nin: "**Two slices of ham!**" He fails the Con save (4) and is **poisoned again**: residue from the cheeks drips into "his own face cheeks." Mudcat: "Cheek on cheek action… Dancing cheek to cheek." Sho Nin: "Tenderly." Shadow King rolls 11.
 > 48. **1:03:29** Break: "I need a small break while I go look up every animal that has a butthole."
 >
 > ### After the break — credits
@@ -267,8 +267,8 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
 > 57. **1:13:50 — The monologue.** "**All you're good for is running away, kid. I'm gonna take your hopes, I'm gonna take your dreams, and I'm gonna put this in a tiny bowl**… into a little treasure chest… into a little trash can… send it to the dump where it's going to get crushed, buried, and forgotten."
 > 58. **1:14:31** He hurls a crate (Tavern Brawler) and misses. Far away, **Sho Nin hears only fuzzy wind**: "your projection's not great. Something to work on." A whisper in the wind: "**Look to the north.**" (speaker uncertain, inferred to be the wind voice). Survival 11: **he looks northwest.** "Quick spin."
 > 59. **1:17:08** Second crate, "**filled with small potatoes**": it hits with a sneak attack, explodes, and potatoes go everywhere, stuck in the gears. GM: "**Potato mash!**" and "the Shadow King doesn't know how to do math." **Toocher heroically leaps into the water and dives 10 ft down.**
-> 60. **1:18:44 — The Shadow King's chaos: acid.** "**You know, this fight's been a little clean for my liking… Trash it up a little bit.**" **All the water turns acidic, green and bubbling.** Toocher, underwater, is burned at once and will be at the start of his turns. Initiative is rerolled: Toocher 13, **Sho Nin a natural 1** ("This is your fourth nat one!"). Drew: "I love that you dove in the water right before this."
-> 61. **1:20:23 — The wings end.** The butt wings shrivel "as if Botox was injected… it's firm, it's young." **Sho Nin falls 30 ft** onto what's left of the crane, which is corroding in the acid air. **A sweep of wind negates the fall.** GM (as the wind, inferred): "**I've got you, my child.**" Bec, out of character: "I have no idea what lore I'm building out for you right now." Sho Nin: "**That wind is bait, man. That's an abusive entity.**" Then "**Look at the sun. You should eat more carbs.**" (speaker uncertain: possibly the wind mocking him).
+> 60. **1:18:44 — The Shadow King's chaos: acid.** "**You know, this fight's been a little clean for my liking… Trash it up a little bit.**" **All the water turns acidic, green and bubbling.** Toocher, underwater, is burned at once and will be at the start of his turns. Initiative is rerolled: Toocher 13, **Sho Nin a natural 1** ("This is your fourth nat one!"). Mudcat: "I love that you dove in the water right before this."
+> 61. **1:20:23 — The wings end.** The butt wings shrivel "as if Botox was injected… it's firm, it's young." **Sho Nin falls 30 ft** onto what's left of the crane, which is corroding in the acid air. **A sweep of wind negates the fall.** GM (as the wind, inferred): "**I've got you, my child.**" Caustic Phoenix, out of character: "I have no idea what lore I'm building out for you right now." Sho Nin: "**That wind is bait, man. That's an abusive entity.**" Then "**Look at the sun. You should eat more carbs.**" (speaker uncertain: possibly the wind mocking him).
 >
 > ### The new round (counter reset to "one")
 > 62. **1:22:09** Toocher takes more acid and **leaps out of the water howling** (the howl was loud enough that "I broke the mic"). **He finds his butt wings gone, thinks they melted, and is sad because he loved flying.** He notices Sho Nin's butt is small too ("An adolescent's butt"; GM: "Why didn't you notice his eyes first?").
@@ -287,15 +287,15 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
 > 75. **1:42:20** Shadow King: "**An incredible showing!**" **He fades into shadow and reappears inside the vortex, now a black cloud.** "**Well, champion, let's take a victory lap.**" **He flies Toocher by the hand over the Acolytes, dips his body into the acid as they pass over the water, then pulls up into the middle of the crowd and raises his arm, "but only your arm," into the sky.** (inferred: the acid dip left little more than the arm; not stated outright). "**Welcome and goodnight to D20 Deathmatch!**"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew opens "another episode of Dried Blood."
-> - Forgeling: "There was a curse… He died the way he lived." Toocher's player: "**I didn't lose. The dice made me lose.**" Bec: "That's me."
+> - Mudcat opens "another episode of Dried Blood."
+> - Forgeling: "There was a curse… He died the way he lived." Toocher's player: "**I didn't lose. The dice made me lose.**" Caustic Phoenix: "That's me."
 > - Toocher's player's favorite moment was the pre-fight shoulder tap: very pro-wrestling behind-the-scenes, and it let him prime sneak attack. **Intent: poison attacks plus a "toxic personality" that gets in your head and talks smack.** Forgeling "played the reverse Uno card" by making Sho Nin 15.
-> - Bec: Toocher wouldn't have minded dying if Sho Nin had risen to "that 9,000 level." Toocher's player: Toocher is "**the perfect antagonist for an anime protagonist to discover their inner strength.**"
-> - **Sho Nin rolled five nat 1s.** Bec praised how Forgeling roleplayed through them. Forgeling's favorite was the crane: "If something like that happens, let that be it… It just played out very anime." Drew: "the anime stories they don't put on Crunchyroll… where the protagonist gets murked."
-> - Favorite anime characters: Toocher's player picked Hisoka (Hunter x Hunter, bungee gum) as villain and Guts (Berserk) as hero. Forgeling picked Buggy (One Piece) and Kamina (Gurren Lagann). Bec: "a hero is defined by how good their villain is… tonight, you were each other's villains."
+> - Caustic Phoenix: Toocher wouldn't have minded dying if Sho Nin had risen to "that 9,000 level." Toocher's player: Toocher is "**the perfect antagonist for an anime protagonist to discover their inner strength.**"
+> - **Sho Nin rolled five nat 1s.** Caustic Phoenix praised how Forgeling roleplayed through them. Forgeling's favorite was the crane: "If something like that happens, let that be it… It just played out very anime." Mudcat: "the anime stories they don't put on Crunchyroll… where the protagonist gets murked."
+> - Favorite anime characters: Toocher's player picked Hisoka (Hunter x Hunter, bungee gum) as villain and Guts (Berserk) as hero. Forgeling picked Buggy (One Piece) and Kamina (Gurren Lagann). Caustic Phoenix: "a hero is defined by how good their villain is… tonight, you were each other's villains."
 > - Final words ("from you or your characters", so in-character status unclear):
 >   - Forgeling: "100 push-ups, 100 sit-ups, and 10 kilometers per day."
 >   - Toocher's player: "Don't panic if your butt suddenly turns into big ass wings. Just keep saying yes and rolling with it."
->   - Bec: "And it won't even be your final evolution."
-> - Bec mentions "a small sandstorm on a camera."
+>   - Caustic Phoenix: "And it won't even be your final evolution."
+> - Caustic Phoenix mentions "a small sandstorm on a camera."
 

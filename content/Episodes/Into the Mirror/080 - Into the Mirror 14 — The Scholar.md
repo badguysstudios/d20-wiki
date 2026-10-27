@@ -128,7 +128,7 @@ He looked younger than they remembered, and his hair and mustache were different
 - Directs the search for the orrery ("I command").
 - Has never been to the new location.
 
-**The muttering man / the Arbiter (younger)** (Drew)
+**The muttering man / the Arbiter (younger)** (Mudcat)
 - Found trapped in a knowledge-seeking loop in the sunken library. The books he touches turn to sand.
 - Seven to eight feet tall, black wings, hair pulled back with shaved sides, large mustache, blue and black leathers and robes.
 - He looks younger than the Arbiter the party knows, with different facial and head hair.

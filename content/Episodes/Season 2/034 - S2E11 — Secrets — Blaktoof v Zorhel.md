@@ -134,22 +134,22 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 - All three cast Hellish Rebuke as they died. The Arbiter wheelbarrowed their bodies off.
 - Glam says the names come from Warhammer's orc gods.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The Box of Chaos, with two flame eyes in a black void.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The Box of Chaos, with two flame eyes in a black void.
 - **He now has a golden grill made of Blaktoof's ancestral teeth.**
 - "I'm not running the convenience store here." He found Zorhel's sister story boring.
 
-**[[Characters/Doug the Pug|Doug the pug]]** (Bec). "The gem of the castle."
+**[[Characters/Doug the Pug|Doug the pug]]** (Caustic Phoenix). "The gem of the castle."
 - Has a squeaky foam d20 and a big fluffy red pillow couch.
 - **Rolls in place of the Arbiter.** His 6 let the Arbiter trigger a chaos event.
 - Sensitive about his short stature. Got a cookie.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Promised Blaktoof riches. Produced duct tape and threw a rock at Blaktoof out of jealousy over Doug.
 - Calls himself "a shadow connoisseur."
 - Triggered the acid flood. Carted off the dead goblins in a wheelbarrow.
 - Rolled 1, 1, 2 and a nat 1.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Drinks Mountain Dew Major Melon. Owns a small coffee machine.
 - Her chainmail dress has no pockets, and she means to talk to her tailor.
 - Dislikes daylight savings.
@@ -183,7 +183,7 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Dread Fortress kitchen
-> 1. **0:00:16** The Arbiter goes down into **the lower third of the Dread Fortress**. Drew says it is "divided into thirds, in case you didn't know." In **the kitchen** he finds the Grandmaster standing by the pantries and the fridge.
+> 1. **0:00:16** The Arbiter goes down into **the lower third of the Dread Fortress**. Mudcat says it is "divided into thirds, in case you didn't know." In **the kitchen** he finds the Grandmaster standing by the pantries and the fridge.
 > 2. **0:00:50 — Major Melon.** She is trying "this new potion some of our team picked up": a bright pink vial labelled **Mountain Dew Major Melon**, with "a very angry melon… of some sort of military look" on the label. She hopes it will make her feel better.
 >    - The Arbiter: "Major melon… implies the existence of a minor melon." Glam: "Definitely more legal."
 >    - She cracks it open with a hiss and wafts the smell. "Are you sure you're not smelling the taste?"
@@ -220,7 +220,7 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 >     - popcorn, robots, soccer balls, hot dogs, an octopus, beer, a crack of Doritos, a snowball, and "a mole or a rat or… whatever that thing is."
 > 15. **0:12:58** **Zorhel rolls a nat 20** on the Dex save and dodges it all "like it is a dance that you came prepared for."
 > 16. **0:13:56** **Blaktoof runs face-first into every item.** Pizza smacks him across the face, and **a tiny goblin whacks him and scurries off the map**. Zorhel: "Are you okay?… **The raccoon, I think, left a mark.**"
->     - Blaktoof takes a little damage (Bec says "Zorhel" here, a slip). Zorhel is glad it didn't take Blaktoof out before the fight.
+>     - Blaktoof takes a little damage (Caustic Phoenix says "Zorhel" here, a slip). Zorhel is glad it didn't take Blaktoof out before the fight.
 > 17. **0:14:51** The GM calls it a warm-up: "no one goes into a workout without warming up."
 >
 > ### The Box of Chaos and placement
@@ -353,7 +353,7 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 >     - The GM thinks Mork looks "on the brink of death" and throws him **two vials**, which heal a good chunk.
 > 65. **1:19:20 — Dreadful Scream.** **Shadowtoof screams.** Every goblin fails the Wisdom save (Gork with a nat 1), and **all three are frightened**.
 >     - The GM rolls for the Acolytes: **they are frightened too. The front row stampedes up to the higher stands.**
->     - Glam: "The goblins are going all [knobby knees]." [speaker uncertain, voiced in Drew's ID]: "I don't know if we signed up for this, guys."
+>     - Glam: "The goblins are going all [knobby knees]." [speaker uncertain, voiced in Mudcat's ID]: "I don't know if we signed up for this, guys."
 >     - Blaktoof 2.0 holds its claw attack for any goblin that comes within reach.
 > 66. **1:24:21 — Gaz's charge and the nards kick.**
 >     - Gaz charges and swings at disadvantage, missing. Gork giggles. Mork: "**Take this seriously! You look stupid out there!**"
@@ -368,7 +368,7 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 >     - Only **Mork** fails. Shadowtoof fails, but Zorhel's aura of protection saves it.
 >     - **Water pours in from above and fills the cavern. It's acid water that eats at their clothes.** Mork is washed out into it and takes the full burn; everyone else takes half.
 >     - **Initiative is reshuffled** in the chaos.
-> 69. **1:32:05 — Where the names come from (table talk).** Bec makes a "Mork and Mindy" connection. Glam: "They're all just directly stolen from Warhammer… **Mork and Gork are the gods of the orcs in Warhammer.**" GM: "**And here are three tiny gods.**"
+> 69. **1:32:05 — Where the names come from (table talk).** Caustic Phoenix makes a "Mork and Mindy" connection. Glam: "They're all just directly stolen from Warhammer… **Mork and Gork are the gods of the orcs in Warhammer.**" GM: "**And here are three tiny gods.**"
 >     - The token names in the VTT are "childish, repetitive and trashy." GM: "These are my trashy children."
 >     - Glam: "**Gaz is the tank and Mork is the mage.**"
 >
@@ -399,17 +399,17 @@ At the table afterwards, both players were celebrated as first-time champions. Z
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > Out-of-character unless marked.
-> - **1:51:12** Drew: Glam and Drak are **both on the show for the first time**.
+> - **1:51:12** Mudcat: Glam and Drak are **both on the show for the first time**.
 > - **1:51:34** Drak is one of the "rare people who really enjoy PvP." He says the rolls "told a story… with the roles of the items."
 > - **1:52:13** Glam: "I just right off the bat **wanted to play three goblins in a trench coat**… so then I invented, we invented Blaktoof." Glam didn't expect to win or lose.
-> - **1:55:45** Drew: Glam has been waiting to play the goblins "**since season one when you made the character**."
+> - **1:55:45** Mudcat: Glam has been waiting to play the goblins "**since season one when you made the character**."
 > - The reveal was timed for a big dramatic hit, "a good collaborative effort."
-> - **1:52:54** Bec: one-shots allow ridiculous characters that would be hard to RP in a long campaign. She imagines everyone at a dive bar afterwards (Drew: "If some of you weren't dead").
-> - **1:53:29** Drew: "how much lore we get… We got Zorhel's whole backstory about his sister crafting the sword… and then Gerald didn't give a shit about it."
+> - **1:52:54** Caustic Phoenix: one-shots allow ridiculous characters that would be hard to RP in a long campaign. She imagines everyone at a dive bar afterwards (Mudcat: "If some of you weren't dead").
+> - **1:53:29** Mudcat: "how much lore we get… We got Zorhel's whole backstory about his sister crafting the sword… and then Gerald didn't give a shit about it."
 > - **1:54:25** Glam: the goblins speak in perfect unison as one voice. Drak: "Like a [barbershop] quartet, but a trio."
 > - **1:56:03** Drak's favorite moment: the stinger, and Blaktoof bragging "I snuck it on my foot."
-> - **1:56:41** Drew's half-joking "deep lore": Blaktoof was extra excited because it's hard for three goblins in a trench coat to bend down and tie their shoes.
-> - **1:57:03** Bec wrote down "if you run out of blood, you're probably dead" as wisdom.
+> - **1:56:41** Mudcat's half-joking "deep lore": Blaktoof was extra excited because it's hard for three goblins in a trench coat to bend down and tie their shoes.
+> - **1:57:03** Caustic Phoenix wrote down "if you run out of blood, you're probably dead" as wisdom.
 > - **1:57:20 Player-stated, about Zorhel:** "As a blood mage… he definitely **learned from past fellow students that ended up drawing a bit too much blood**." Drak jokes that blood mages are anemic and Zorhel was lightheaded when he spun and fell.
 > - **1:58:05** Riffs: a blood weapon against a vampire ("Are you trying to fight me or serve me dinner?", "sir, this is a Wendy's"). Three tiny vampires pretending to be **Strahd** while he's on a business trip.
 > - **1:59:39** Final words. It is unclear whether these are in character.

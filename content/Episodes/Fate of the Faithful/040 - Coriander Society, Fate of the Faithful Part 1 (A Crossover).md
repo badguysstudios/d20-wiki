@@ -124,7 +124,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Lyrus|Lyrus]]** (Drew)
+**[[Characters/Lyrus|Lyrus]]** (Mudcat)
 - **Appearance:** a 7–8 ft white-furred **werebear** in grey and black plate armor over furs.
 - **Weapons:** two light-swallowing black **void swords**. A cut can open a singularity that sucks the victim in, or a portal that sends limbs or halves elsewhere.
 - **Portals:** slices portals in space to dodge, teleport, dive through enemies' chests, and let allies attack through them.
@@ -133,7 +133,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 - **Other powers:** paladin powers (smites, lay on hands, an aura of protection); green flame blade that burns with black fire.
 - **Family and past:** son of **Orin**. The Arbiter saved Orin as a child when his village burned, and later betrayed and murdered him.
 - **The rebels:** leads Orin's former men from **the Eastern Outpost**, who deserted the Grandmaster's forces to serve her "from the shadows." Many are wanted for treason.
-- **Personality:** calls himself "servant of the Grandmaster" ("in a way"). Old-fashioned about looting the dead. Rambles a little "like an old man" (Drew). "Not a tactician… a soldier." His inner struggle is living up to his father's legacy.
+- **Personality:** calls himself "servant of the Grandmaster" ("in a way"). Old-fashioned about looting the dead. Rambles a little "like an old man" (Mudcat). "Not a tactician… a soldier." His inner struggle is living up to his father's legacy.
 - **In this episode:** killed Hathim by decapitating him through a portal.
 
 **[[Characters/John Carmichael|John Carmichael]]** (NinjaManMat1)
@@ -223,7 +223,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 - 190 gp (spent on spoons).
 
 ### Lore statements
-- **The Grandmaster's troops wear gold-plated armor with turquoise blue-green gems**, sometimes with black chest plates (Drew, 0:13:32).
+- **The Grandmaster's troops wear gold-plated armor with turquoise blue-green gems**, sometimes with black chest plates (Mudcat, 0:13:32).
 - **Void magic** "comes from the void… almost a living being." Void portals feel cold and jagged, without astral mist, and take hours of concentration to master. Faulty portals are dangerous.
 - Champions rarely visit the Void's lands "after the matches." The arena is "here… there… everywhere."
 - Magic and "witchcraft" from other planes exist in the Void but are not common.
@@ -235,7 +235,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 > 1. **0:00:00** Gnomes opens the stream as "Coriander Society Adventures and also… D20 Deathmatch!" and introduces Mudcat as the special guest star.
 > 2. **0:02:37 Recap of Coriander Society.** John Carmichael and Asena come from two different worlds and met in another universe. They have been tracking **Ralzamon, "Master of the Unknown"**, who "turned out to be a figure from Asena's past long ago." Ralzamon was on the verge of defeat when **"a gateway ripped open behind Ralzamon's psychic shade. A hand reached through, said, *I still have need of you*, and dragged him into the void."** John and Asena leapt in after him, into a conduit "beyond the astral plane itself, beyond this dimension, beyond the multiverse."
 > 3. **0:04:00** Chat effects are explained: channel points and Streamloots. The Coriander Society deck has four special D20 Deathmatch cards: **the Arbiter, the Grandmaster, Doug the Pug, and the Box of Chaos**. Matt asks what Doug the Pug does. Gnomes: "Don't worry about it."
-> 4. **0:05:30** Gnomes: this is the first time John has gone to "a completely alien world." John arrives with 11 hit points. Drew: "You're already dead. You just don't even know it yet."
+> 4. **0:05:30** Gnomes: this is the first time John has gone to "a completely alien world." John arrives with 11 hit points. Mudcat: "You're already dead. You just don't even know it yet."
 >
 > ### Arrival in Prexmarin, the Hanging City
 > 5. **0:06:03 The crossing.** John, Asena and "the wizened old **Lawrence Booker Green**, another visitor from another universe," jump into the tear. Asena can usually manipulate portals and break out of astral conduits. This one goes "through the astral and beyond it. Beyond time and space, an impossible, paradoxical, infinite distance." They are hurled head over heels, like the *Doctor Strange* out-of-body scene.
@@ -250,12 +250,12 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 >
 > ### The market circle
 > 14. **0:12:48** The market circle is beautiful: intricate carvings in the marble floor and copper and bronze metalwork in geometric patterns.
-> 15. **0:13:32 The Grandmaster's uniform (Drew).** The Grandmaster's troops wear **gold-plated armor, heavy and pristine, adorned with bluish-green turquoise gems**, sometimes with black chest plates, "but always kind of this gold and blue and green." There is no insignia as such.
+> 15. **0:13:32 The Grandmaster's uniform (Mudcat).** The Grandmaster's troops wear **gold-plated armor, heavy and pristine, adorned with bluish-green turquoise gems**, sometimes with black chest plates, "but always kind of this gold and blue and green." There is no insignia as such.
 > 16. **0:13:57 The impostors.** Hulking figures with faint purplish-grey skin, completely hairless, lumpy heads and pointed ears are overturning stalls and growling. They wear only bits and pieces of the gold, green-and-blue and black armor.
 > 17. **0:14:44** John's gun **Krontaka** (spelling uncertain) pulses. John asks it to stay alert but do nothing yet. It senses **fey traces ("like an offshoot")** from the brutes and **a lingering fiendish presence** from their leader.
 > 18. **0:15:26** The air of the place is "incredibly refreshing," and Asena heals (a chat card). Matt: "I didn't know I walked by an oxygen bar." This leads to a table tangent about Vegas and the "aqua sarcophagus."
 > 19. **0:16:33 Hathim.** The brutes' leader wears **high-tech power armor and wields two axes glowing with red energy**, "power axes." John recognizes him: **Hathim, an agent of Tiamat from Lacunas, from her "elite hit squad."** Later he is called "the blood berserker of Tiamat." His power armor has been re-done in gold trim, a black breastplate and green and blue "RGB gamer style highlights" so that he matches the impostors.
-> 20. **0:18:20 Lyrus charges in (Drew).** Lyrus comes from the south with a band of fighters ("a small band of thieves," joking "50 or 60 men"). He is **a seven-to-eight-foot white-furred werebear in huge grey and black plate armor with furs underneath** ("it gets cold places"). He wields **two giant black swords "like a void in space," which suck in the light around them** and pulse with dark, gloomy void energy.
+> 20. **0:18:20 Lyrus charges in (Mudcat).** Lyrus comes from the south with a band of fighters ("a small band of thieves," joking "50 or 60 men"). He is **a seven-to-eight-foot white-furred werebear in huge grey and black plate armor with furs underneath** ("it gets cold places"). He wields **two giant black swords "like a void in space," which suck in the light around them** and pulse with dark, gloomy void energy.
 > 21. **0:19:55** Lyrus cuts into an enforcer. **The void sword opens a singularity at the center of the victim, who is sucked inside it.** Lyrus kicks his way forward and shouts: **"Move into position!"** Several enemies are "cutscene owned."
 > 22. **0:20:40 The Knights.** Knights block the north and south exits. They wear full plate with an odd bluish tint and wield enormous swords that thrum and rumble, and they are unusually light on their feet. John guesses they are **Knights of Terra Nimbus**, from his reading in "Merlin world." They share the impostors' color scheme.
 > 23. **0:21:42 Asena's opener.** Asena runs straight into the brutes and asks whether they've seen Ralzamon. **The moment Lyrus slices another enforcer "into the negative zone," every gold-wearing person on the battlefield turns to look at Asena.** She tries again: "I don't know if you can help me because you look like you have some like Lacunas type stuff, but do you know where Ralzamon is?" Hathim pauses.
@@ -310,7 +310,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 > 64. **1:48:41** Gnomes recaps: the strangers met "a group of individuals claiming to work for somebody called the Grandmaster."
 > 65. **1:49:22** Asena passes through Lyrus's people: thieves, rogues, people in old armor and disguises with improvised or hidden weapons, "all designed to blend in and to hide." She returns to fight. **The knights fly "a couple inches above the ground." No wings.** Her second punch **spins a knight's helmet around on his head**, but her later blows are sloppy. Pods: **Asena is breaking down, thinking about how close she was to taking Ralzamon down.** Matt: "It's almost as if there's cracks in Asena's armor right now."
 > 66. **1:52:58** Lawrence steps across an inflatable raft and hits the levitating knight with **Word of Radiance**, but it keeps concentration.
-> 67. **1:54:00** Ralzamon's presence lashes out at each of them in turn. It **crushes the mind of one of John's mirror images**, starts to "destroy the mind" of Lawrence, and hits Asena with psychic damage. Lyrus is spared. Drew: "**Lyrus takes off all his armor.**" Gnomes: "Please, take me out!"
+> 67. **1:54:00** Ralzamon's presence lashes out at each of them in turn. It **crushes the mind of one of John's mirror images**, starts to "destroy the mind" of Lawrence, and hits Asena with psychic damage. Lyrus is spared. Mudcat: "**Lyrus takes off all his armor.**" Gnomes: "Please, take me out!"
 > 68. **1:55:24** John crawls along the ground just above it, still levitating.
 > 69. **1:56:35 Krontaka wants blood.** John shoots the fey-like **brute leader** (with **Island's Bane**, which does extra damage to fey) and rolls a natural 1. John is fine with the miss; **Krontaka is not. The gun drags him 10 ft toward the target "like some kind of invisible dog."** He fans the hammer for a double tap, and **"burbling black blood blossoms forth from the brutish belligerent,"** which survives. "This is big Chungus," their leader.
 > 70. **1:59:34** The two remaining knights see Lyrus's militia closing in and **withdraw 45 ft straight up.** The levitate ends, and John plops a few inches down.
@@ -371,6 +371,6 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 > 115. **3:00:40 No way in.** "**The Arbiter keeps her at a distance, keeps her locked up in the Dread Fortress, so to speak. Not that he can keep her locked up, but he keeps her away from prying eyes. Our messengers, our scouts, always seem to disappear** every time we send a delegate." Magic won't work: "**The Arbiter… is a master of time, space, and magic, probably much like your Ralzamon… Who knows how old he is? Thousands of years?** … keeps a tight lock on the Dread Fortress, and **the Grandmaster has no reason not to trust him** to this point."
 > 116. **3:02:09** No mobile device: "**She's a kind of a low tech sort of gal.**" No pigeons: "**Have you ever seen a pigeon fly hundreds of miles over a lava field in scorching heat?**" John: he once saw a swallow, "I don't know if it was African-European," do something similar over water. "If you want to eat cooked pigeon, that's the way."
 > 117. **3:03:17 The rebels' aims.** "**The Arbiter has been sending his forces to impersonate the Grandmaster's forces. I think he's trying to cause unrest in the region… so that when he assumes power, it will go smoothly for him.** … So we step in where we can and push back." John points out that they left no one to tell the townsfolk the attackers were the Arbiter's impostors, so the crowd saw a militia beat "the Grandmaster's forces." Lyrus: "**Many of us had to betray our oaths. Many here are wanted for treason.**"
-> 118. **3:04:55** John puts "a relatively small arm around a very big individual": "**Join me as I enlighten you as to the wonderful world of Shadow Warfare.**" He offers gossip, propaganda and getting Frank "away from the stews and… out into the marketplaces." Lyrus: "**I am not a tactician. I, I am a soldier. This position was thrust upon me.** … **my father's shoes were quite large.**" Drew: Orin's feet were "like size 20s."
+> 118. **3:04:55** John puts "a relatively small arm around a very big individual": "**Join me as I enlighten you as to the wonderful world of Shadow Warfare.**" He offers gossip, propaganda and getting Frank "away from the stews and… out into the marketplaces." Lyrus: "**I am not a tactician. I, I am a soldier. This position was thrust upon me.** … **my father's shoes were quite large.**" Mudcat: Orin's feet were "like size 20s."
 > 119. **3:06:23** The heroes long-rest. John wants to try a spoon but not Frank's stew. Gnomes: "Test spoon just melts." **Next time they'll be rested and ready to find out what happened to Ralzamon, help the resistance, and uncover the Arbiter's plot.** Gnomes says the crossover is about three episodes long and will stream Tuesdays 6 p.m. Pacific.
 

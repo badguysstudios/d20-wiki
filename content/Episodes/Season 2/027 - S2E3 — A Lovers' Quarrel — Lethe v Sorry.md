@@ -129,7 +129,7 @@ After the show, Sorry offered some advice. Therapy is great, but in the meantime
 - **Personality:** **cannot tell lies** (Lethe calls it a curse; she didn't know). An "aggressive crybaby" by default. Values hydration and self-care.
 - She found a potion of healing in the shop.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - **Before the fight:** bored of Hallmark Christmas romances on an old TV in the Dread Fortress, she knocked the TV over.
 - **The arena:** owns the winter town as her private retreat.
 - **[[Characters/Doug the Pug|Doug the pug:]]** sits beside her throne, and she voices his barking.
@@ -137,7 +137,7 @@ After the show, Sorry offered some advice. Therapy is great, but in the meantime
 - **Verdict:** knelt to the pair, named both champions and gave them the town as a home.
 - Talks often with the Arbiter's mom.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Brought the exes as "something more true to life."
 - "Had a girlfriend once… she went to a different school."
 - Chose the winter town.
@@ -300,14 +300,14 @@ After the show, Sorry offered some advice. Therapy is great, but in the meantime
 > - **1:45:57 Lethe's advice:** "Sometimes holding on to someone else's idea of who you think you are only buries you in a hole deeper and deeper. And you have to remind yourself who you want to be. **And sometimes that means saying sorry.**"
 >
 > ### Out of character (creator notes)
-> - Drew counts the season's one-shot as episode one, so this is S2E3.
-> - Drew jokes about "the sequel, whether the relationship lasts." It's a dual victory.
+> - Mudcat counts the season's one-shot as episode one, so this is S2E3.
+> - Mudcat jokes about "the sequel, whether the relationship lasts." It's a dual victory.
 > - pi_sharp enjoyed real combat flavored with "the inherent homoeroticism of leaning on each other's swords." Their approach: "I see your Deathmatch and I raise you emotional repression."
 > - Stella: the players agreed beforehand that the characters were exes with "little knives of secrets" about each other. Once the stream started, she realized Sorry would try to be nice while they were trying to kill each other.
 > - Neither player expected it to be so emotional. Stella: "I didn't have to answer all the questions because I could just try to stab you instead."
 > - Favorite moments:
->   - Drew: Sorry crying while still swinging the sword.
+>   - Mudcat: Sorry crying while still swinging the sword.
 >   - Stella: Lethe shielding her in the potion-shop explosion ("I know exactly what to do from here. I'm gonna be a crybaby").
 >   - pi_sharp: Sorry's breakdown, and the closing "nice look on you" line.
-> - Bec: "Very Hallmark… And they lived happily ever after."
+> - Caustic Phoenix: "Very Hallmark… And they lived happily ever after."
 

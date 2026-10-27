@@ -129,15 +129,15 @@ After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure,
 - **Abilities:** deflect missiles, walking on liquid and up walls, slow fall, "drunk(en) luck" (ki to cancel disadvantage), Tavern Brawler and Grappler, stunning strike, flurry of blows.
 - **In this episode:** he fought on after knocking himself unconscious under hold person.
 - **Death:** burned by the Sunburst and sucked into the black hole while laughing and giving the middle finger. "I'm gonna come for you in your nightmares!"
-- **Dried Blood canon (Drew):** Cass has become a Freddy Krueger figure, "burned alive in a different dimension."
+- **Dried Blood canon (Mudcat):** Cass has become a Freddy Krueger figure, "burned alive in a different dimension."
 
-**[[Lore/The Box of Chaos|Gerald, the Box of Chaos]]** (Drew). A shadowy figure with yellow beady eyes and claws who lives in the box ("my house"). Waist-high when standing in it.
+**[[Lore/The Box of Chaos|Gerald, the Box of Chaos]]** (Mudcat). A shadowy figure with yellow beady eyes and claws who lives in the box ("my house"). Waist-high when standing in it.
 - Cass dragged him around, slammed the lid on him, and told him "If I want to listen to an asshole, I'll fart."
 - **He could see the invisible Stabbz.** He told Cass "You need therapy."
 - Gave Stabbz an eighth-level Sunburst scroll without any sacrifice, out of spite for Cass.
 - Dismissed by the GM afterward: "you've done your duty."
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Spent last week fixing the Dread Fortress toilets in the sewers.
 - Wears Italian leather shoes (the GM: tap shoes).
 - Ran in with a dagger to "save" the GM, then enjoyed Doug's suffering.
@@ -145,7 +145,7 @@ After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure,
 - Opened the black hole: "a rift in space and time."
 - Walked unscathed into the black hole with Cass's boomerang.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Bathed Doug by hand, because prestidigitation doesn't get the oils out of his fur.
 - Has new marble sinks in her bathroom.
 - Took Stabbz's "Intervention" seriously (metal chairs), and renamed invisibility "Fuck this, I'm out."
@@ -188,12 +188,12 @@ After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure,
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the Arbiter's week and Doug's bath
-> 1. **0:00:00** The show starts late. The Arbiter has had quite a day "in the bowels of the Dread Fortress": he **spent all of last week in the sewer system fixing the toilets**. He has "risen above the shit" and is clacking through the halls again in his **Italian leather shoes**. Bec calls them **tap shoes**. Drew: "Italian men like… for you to know when they're coming."
+> 1. **0:00:00** The show starts late. The Arbiter has had quite a day "in the bowels of the Dread Fortress": he **spent all of last week in the sewer system fixing the toilets**. He has "risen above the shit" and is clacking through the halls again in his **Italian leather shoes**. Caustic Phoenix calls them **tap shoes**. Mudcat: "Italian men like… for you to know when they're coming."
 > 2. **0:00:57** The Arbiter enters the Grandmaster's throne room and calls out: "Grandmaster, are you home?" There is silence. On a perception check of 23 he hears **struggling far in the back, from the Grandmaster's master bedroom and bathroom**. It sounds like someone is being strangled ("would you stop?").
 > 3. **0:02:00** **The Arbiter draws a dagger and runs toward the noise.** He hears a shriek "more like a pterodactyl." The bedroom is empty, and the struggle is coming from the bathroom around the corner. The door is open, so he **bursts in with the dagger**. He slips on the wet tile but catches himself (Dex 15).
 > 4. **0:03:04 — Doug's bath.** The screamer is **Doug, "the absolute symbol of D20 Deathmatch,"** howling while **the Grandmaster, fully soaked, tries to hold the very angry pug in the bathwater**. "Would you just hold still? This would be over so much faster if you quit moving!"
 > 5. **0:03:46** **The Arbiter puts the knife away and stands there smiling at Doug's torture**: "Yes, perfect." She orders him to help. He says there's a Deathmatch to run. When she looks up, **Doug slips out of her hands and runs off, still full of soap**. "Thanks. Thanks a lot."
-> 6. **0:04:24** The Arbiter offers to clean Doug magically. She refuses: prestidigitation ("prestidigitization… too many sounds in it… the P spell") doesn't get the oils out of his fur, so it has to be done by hand. Drew: "You gotta do the P stuff by hand." She tells him to at least get the water off her.
+> 6. **0:04:24** The Arbiter offers to clean Doug magically. She refuses: prestidigitation ("prestidigitization… too many sounds in it… the P spell") doesn't get the oils out of his fur, so it has to be done by hand. Mudcat: "You gotta do the P stuff by hand." She tells him to at least get the water off her.
 > 7. **0:05:01 — The water portal.** **The Arbiter flicks the water off her, it lands on the wall and forms a water portal**, and he presents the champions: "None other than Professor Stabbz versus Mad Cass O Weary. **Welcome to the Grandmaster's bathroom, champions.**"
 >
 > ### The champions, in the bathroom
@@ -249,7 +249,7 @@ After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure,
 > 44. **0:40:33** Cass climbs the wall **one-armed, parkour style, dragging the box**. Someone says: "Jesus Christ!… It's like being hunted by **Chuck Norris**." [speaker uncertain, probably Stabbz] He didn't see Stabbz turn invisible, so **he slams the box down where Stabbz was last standing and throws it open.**
 > 45. **0:41:44 — Gerald.** **The lid flips and heatless flames shoot out. The shadowy figure stands up waist-high in the box**: "**You're a real fucking dick, you know?**" Cass: "You're kinda like my fucking mom." Gerald: "**Well, maybe your mom was on to something. You need therapy.**" **Gerald turns and looks straight at the invisible Stabbz. He can see him.** Cass, who can't, looks where the creature is looking. The Arbiter has Noir roll a d10, a d100, then a d20 (16), and needs a minute.
 > 46. **0:42:59** Meanwhile Cass takes another small lava singe. The GM: "**You're so hot.**" She adds a small group of cheerleaders fawning over him. Stabbz: "It's fucking bullshit… We can't even see him."
-> 47. **0:43:48 — The scroll.** "**As Gerald, the Box of Chaos, stands there staring at you: you know what? This guy's a dick. I'm gonna help you out.**" **He reaches into his box, pulls out a spell scroll and floats it into Stabbz's general area: an eighth-level Sunburst.** (In Dried Blood, Drew says the Gerald gift needed no sacrifice because Gerald was so angry at Cass.)
+> 47. **0:43:48 — The scroll.** "**As Gerald, the Box of Chaos, stands there staring at you: you know what? This guy's a dick. I'm gonna help you out.**" **He reaches into his box, pulls out a spell scroll and floats it into Stabbz's general area: an eighth-level Sunburst.** (In Dried Blood, Mudcat says the Gerald gift needed no sacrifice because Gerald was so angry at Cass.)
 > 48. **0:44:32 — The boomerang.** **Cass reaches behind him and pulls out a boomerang.** The GM: "**You Australian!**" He spends ki on **"drunk luck"** to cancel the disadvantage from Stabbz's invisibility. The GM rules that he is "so drunk" that it applies. Cass: "Getting drunk does not give you superpowers, it gives Cass superpowers." The GM: "Disclaimer for everyone, this is a unique instance." The Arbiter: "**He's trained his liver his entire life for this.**" Stabbz: "**The only superpower I get from booze is regret and tears.**"
 > 49. **0:45:41** **The boomerang clips Stabbz in the jaw** (he uses Uncanny Dodge for half), swings back into the air, and Cass catches it: "**Sixth time pin the tail on the asshole winner.**" The GM: "You don't have a mirror, but you know it's red." Stabbz: "I'm not an asshole." The Arbiter: Cass is "lacking a significant amount of anatomical knowledge about where tails actually go." Stabbz: "**He's so drunk, yet still so competently mean.**" GM: "He might have his own professorship going on here." Stabbz: "**I don't know if tenure is worth this!**" Cass takes the Dodge action.
 > 50. **0:47:26** The Arbiter's end-of-round roll is 11: "Adequate is what I'm aiming for." The GM wants to move on "because that is not entertaining enough."
@@ -302,21 +302,21 @@ After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure,
 > 85. **1:38:21** **Her hand engulfs his small goblin hand up to the elbow. Her long, spindly fingers yank him into the sky with wind-tunnel face. She throws him up into the air and catches him on her shoulders** ("you know, like good size butt cheek right there," a callback). She holds him out to the crowd: "**We have all sat within the lecture halls of battle. May you all have taken notes for one day the test may come for you all.** Thank you and welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> Mostly out-of-character; creator notes. In-character lines and Drew's canon ruling are marked.
+> Mostly out-of-character; creator notes. In-character lines and Mudcat's canon ruling are marked.
 >
-> - **1:39:36** Drew opens: "I don't know where the fuck I am after that battle ending in a black hole." **Dag, in Cass's voice (Dried Blood):** "Who the fuck is this? Where the fuck am I? Who the fuck are you, buddy? Don't I have to fight again?"
-> - Drew introduces **Dag as "a favorite of ours, an old friend from the playtests, even dating back way back to the beginning of D20 Deathmatch"**, and says he "has been in the arena a couple of times now." This is **Noir's first time.** Dag: "it sucks, but it's a good time to suck."
+> - **1:39:36** Mudcat opens: "I don't know where the fuck I am after that battle ending in a black hole." **Dag, in Cass's voice (Dried Blood):** "Who the fuck is this? Where the fuck am I? Who the fuck are you, buddy? Don't I have to fight again?"
+> - Mudcat introduces **Dag as "a favorite of ours, an old friend from the playtests, even dating back way back to the beginning of D20 Deathmatch"**, and says he "has been in the arena a couple of times now." This is **Noir's first time.** Dag: "it sucks, but it's a good time to suck."
 > - Noir got "a major assist from the chaos crew." **Monks are his favorite class. Professor Stabbz is an NPC from one of his home games.** Noir and Dag riff that "somewhere in the multiverse they could be friends": a high-school AU where the nerdy kid studies and Cass beats up whoever comes for his lunch money. Noir: "My lunch money belongs to him, damn it!"
-> - **Drew on Gerald:** you normally have to sacrifice to get an item, "but **Gerald was just so pissed at Cass** that he's like, fuck it, you take a spell scroll." The roll came up an eighth-level scroll, and a second roll picked the spell. Noir: "That fucking anime ending though."
-> - Bec: the fight turned at the betrayal, after which every move got the best counter. "The quickest game of tennis."
+> - **Mudcat on Gerald:** you normally have to sacrifice to get an item, "but **Gerald was just so pissed at Cass** that he's like, fuck it, you take a spell scroll." The roll came up an eighth-level scroll, and a second roll picked the spell. Noir: "That fucking anime ending though."
+> - Caustic Phoenix: the fight turned at the betrayal, after which every move got the best counter. "The quickest game of tennis."
 > - Noir: Defensive Flourish is more potent than he got to show. Dag answered his AC boost with athletics checks, since "athletics checks don't care how much AC you have." **Dag plays 10 to 15 games a week.**
-> - **Dag thought the Box of Chaos had despawned. Otherwise he planned to stuff Stabbz into the box, hold it shut and dive it into the lava, burying them both.** Drew: "**We've never had anybody try to bury Gerald before, especially not in lava.**"
-> - Drew's favorite moment: Stabbz's big escape followed by the nat 1 that pulled him 40 ft back. Noir: "I told y'all at the beginning, dice hate me."
-> - **Dag on Cass:** everyone plays monks as zen, but "**Cass is actually really dumb and not wise. He is legitimately a violent sociopath**." His monk skill is just how good he is at beating people. He isn't trying to stun; he hits you until you lose consciousness. Bec: "**He's the heart of a barbarian.**" Dag: "His name is Mad Cass… the epitome of like drunk redneck energy."
-> - **Canon ruling (Drew, 1:47:49):** "I'm just going to go ahead and retcon that **you have become Freddy Krueger now. Burned alive in a different dimension.**" Bec: "**You're dead, but you're still here. Forever.**" Noir: "Why would you do that to me? I was supposed to be the winner!"
-> - **Canon ruling (Drew, 1:48:35):** Dag pictures Stabbz up for days with coffee, playing the knife game, hearing laughter and slipping. Drew: "**I want that to be canon… It's canon. That happens. You hear the laughter from another dimension as you're dozing off later on.**" Dag: "Sleep well, Professor Stabbz." Noir (as Stabbz): "I will not!"
+> - **Dag thought the Box of Chaos had despawned. Otherwise he planned to stuff Stabbz into the box, hold it shut and dive it into the lava, burying them both.** Mudcat: "**We've never had anybody try to bury Gerald before, especially not in lava.**"
+> - Mudcat's favorite moment: Stabbz's big escape followed by the nat 1 that pulled him 40 ft back. Noir: "I told y'all at the beginning, dice hate me."
+> - **Dag on Cass:** everyone plays monks as zen, but "**Cass is actually really dumb and not wise. He is legitimately a violent sociopath**." His monk skill is just how good he is at beating people. He isn't trying to stun; he hits you until you lose consciousness. Caustic Phoenix: "**He's the heart of a barbarian.**" Dag: "His name is Mad Cass… the epitome of like drunk redneck energy."
+> - **Canon ruling (Mudcat, 1:47:49):** "I'm just going to go ahead and retcon that **you have become Freddy Krueger now. Burned alive in a different dimension.**" Caustic Phoenix: "**You're dead, but you're still here. Forever.**" Noir: "Why would you do that to me? I was supposed to be the winner!"
+> - **Canon ruling (Mudcat, 1:48:35):** Dag pictures Stabbz up for days with coffee, playing the knife game, hearing laughter and slipping. Mudcat: "**I want that to be canon… It's canon. That happens. You hear the laughter from another dimension as you're dozing off later on.**" Dag: "Sleep well, Professor Stabbz." Noir (as Stabbz): "I will not!"
 > - Dag praises Noir for matching big, loud energy while keeping the cowardly character.
-> - **Behind the scenes:** the show ran late because **the scheduled player had internet trouble and couldn't join**. **Dag stepped in about 10 minutes before the show, built his character and token, and "was mid-jog… sprinted home."** Noir credits Drew and Bec for redoing the show's layouts and character sheets on the fly. Bec: "D&D stops for no one… The bonds we have now are forged in improv."
+> - **Behind the scenes:** the show ran late because **the scheduled player had internet trouble and couldn't join**. **Dag stepped in about 10 minutes before the show, built his character and token, and "was mid-jog… sprinted home."** Noir credits Mudcat and Caustic Phoenix for redoing the show's layouts and character sheets on the fly. Caustic Phoenix: "D&D stops for no one… The bonds we have now are forged in improv."
 > - **Parting words:**
 >   - Noir thanks everyone. **As Stabbz (Dried Blood):** "I don't want to do this again. I don't have to do this again. I just want to stay home."
 >   - GM: "We'll just bring you in to train our own goblins, okay?" Stabbz: "**The first lesson is stab. The second lesson is don't get stabbed.**"

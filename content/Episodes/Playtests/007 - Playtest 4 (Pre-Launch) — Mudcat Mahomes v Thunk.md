@@ -14,8 +14,11 @@ arena: The Isolated Keep
 summary: A trench-coated catfish archer fought a finger-collecting goliath, and several more of him, across time in the portal-riddled Isolated Keep. Mudcat Mahomes killed the original Thunk and a younger one, and the Grandmaster spared him and the eight-armed Octothunk as joint winners in exchange for an invitation to their after-party.
 tags:
 - episode
+youtube: https://youtu.be/R3tgq6Mj5mY
 canon_order: 7
 ---
+
+[Watch on YouTube](https://youtu.be/R3tgq6Mj5mY)
 
 A catfish-man in a trench coat and a finger-collecting goliath were thrown into **[[The Isolated Keep]]**, the Grandmaster's secret arena, which is stowed away from time and space and riddled with portals. The fight did not stay one-on-one for long. Thanks to a time portal, [[Mudcat Mahomes]] ended up fighting three different versions of [[Thunk]], one of them with eight arms, while dodging a pet dinosaur and a blood elemental named Hamster. It is also the match where a champion shot the Grandmaster. It ended with nobody dead who wasn't already dead, and the two survivors arranging to watch *Top Gun* together.
 
@@ -131,11 +134,11 @@ The Grandmaster froze time. Moved by "this budding romance," she declared that "
 - **Kansas City** and **Mudcat's townhome** (his home world). **Thunk's mountain.** **The octopus world** (Octothunk's plane).
 
 ### Unresolved references
-- **"A pig, a spider, and a small little boy"**: the Arbiter's previous entertainment, a roleplay riff (Drew): canon as stated, never shown on screen.
+- **"A pig, a spider, and a small little boy"**: the Arbiter's previous entertainment, a roleplay riff (Mudcat): canon as stated, never shown on screen.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
-> 1. **0:00:03 — Opening narration (Bec):** the same as Playtest 1, but here she says "we find the **Game Master**, weary from eons of absolute power."
+> 1. **0:00:03 — Opening narration (Caustic Phoenix):** the same as Playtest 1, but here she says "we find the **Game Master**, weary from eons of absolute power."
 > 2. **0:01:11 — Grandmaster and Arbiter.** "The last entertainment you brought in here included **a pig, a spider, and a small little boy** who really did not belong here at all… That little boy was just crying. Also, I did not know pigs had that particular power." The Arbiter: "They bled, didn't they?" He has "fine specimen today, of nice breeding stock even"; she has no breeding facility ("It's a startup cost… I've already invested a lot in the arena").
 > 3. **0:02:41 — The champions.** **Thunk**: "I was picking berries before I was here… I spend a lot of time on the mountain destroying things. I have a collection of necklaces… They're fingers from everyone I've killed. I have more than I can count because Thunk can't [count] very well." **Mudcat Mahomes**, a catfish-man in a trench coat with nothing underneath and a "m'lady fedora": he wants to get back to **Kansas City** for "some subpar barbecue." He calls the Arbiter a roller-derby referee in his stripy shirt and asks if he's her best friend; the Arbiter says yes; the Grandmaster: "I don't pay my best friends… You are employed by me." The Arbiter: "I didn't fill out a W-2… you don't know the complexities of our relationship." The Grandmaster wants a finger necklace like Thunk's.
 > 4. **0:06:11 — The arena: the Isolated Keep.** "Stowed away from time and space… filled with portals that will grant you boons and bonuses, depending how lucky you are… There's more than one thing that may bite." A circular platform, walls about 15 feet high, a huge stone table, four portals. The Arbiter: "You can lead a horse to a portal, but you can't make him travel through interdimensional space"; he's writing "a short novel, some memoirs."

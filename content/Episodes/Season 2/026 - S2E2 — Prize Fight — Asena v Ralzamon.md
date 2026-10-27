@@ -162,12 +162,12 @@ In the after-show, Ralzamon left a final warning: "Do not trust in otherworldly 
   - He was killed by Asena.
   - **He was revived in secret by the Arbiter in the well as "a general for the days to come."**
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - He has just returned to the Dread Fortress after an absence ("I really miss this place"). The GM calls him her right-hand man.
 - He claims he and the GM were recently dragons.
 - **He secretly revived Ralzamon and recruited him: "We have much to plan for."**
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Wanted macaroni, bacon grease and soy sauce.
 - Was once "the most gorgeous **Topaz dragon**," then got killed ("they cheated," per the Arbiter).
 - Has been called "good or evil, hero or villain."
@@ -212,7 +212,7 @@ In the after-show, Ralzamon left a final warning: "Do not trust in otherworldly 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the throne room
-> 1. **0:00:16** Drew opens "season two of D20 Deathmatch": "Welcome back, Acolytes."
+> 1. **0:00:16** Mudcat opens "season two of D20 Deathmatch": "Welcome back, Acolytes."
 >    - The halls of the Dread Fortress are described with stone "loose and crumbling with age."
 >    - **The Arbiter struts down the hallways whistling.** He points at the cooks and helpers, "channeling his best Tobey Maguire from Spider-Man 3," and walks into the large throne room.
 > 2. **0:01:08 The meal order.** Elusia sits on her throne with **Doug the Pug**, frustrated, with **a huddle of goblins at her feet**.
@@ -401,7 +401,7 @@ In the after-show, Ralzamon left a final warning: "Do not trust in otherworldly 
 > - Asena's catchphrase, as Pods remembers it (1:25:27): "**cut the bullshit and tell me what you need to know**, or something like that." Tormented says that's not quite it, "but that just makes it more authentic."
 >
 > **Out of character (creator notes):**
-> - Drew calls it "season two, episode one" and says it's both guests' first time in the arena.
+> - Mudcat calls it "season two, episode one" and says it's both guests' first time in the arena.
 > - Pods: "I'm feeling great because I won… I do not have fun if I lose."
 > - **Background (player-stated):** Asena is from **Coriander Society**, another Casters and Castles campaign.
 >   - The first time she met Ralzamon, "he was just an absolute terror," entered her mind with a mind prison and went on to haunt her.

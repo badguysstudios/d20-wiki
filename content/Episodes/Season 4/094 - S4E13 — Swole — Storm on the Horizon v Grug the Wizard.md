@@ -130,14 +130,14 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 - He wanted Storm as his familiar and dreamed of a magic tower.
 - He died falling, smiling, believing he was the greatest wizard.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew).
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat).
 - He wears fancy leather boots with silver straps; **others secretly hung bells on them**.
 - He sits on the Dread Fortress throne and speaks of "the regime." The goblins and civilians "don't mean a lot to me."
 - He barely knew about the chinchillas or the cat army.
 - He ran the Box of Chaos with Iron Trout's soul and called the metal-chair event a "family activity" with Elusia. He saved Grug from drowning ("Try not to die too early").
 - He sent the victor into space with a spectral falcon.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - She **trains the chinchilla army of the Void** for Deathmatch and Fortress security, and to protect the goblins and civilians.
 - She is snarky toward the Shadow King.
 - She summons portals by cutting her fingers on **the amulet around her neck**.
@@ -183,7 +183,7 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the jingle-bell boy and the chinchilla army
-> 1. **0:00:07** The Acolytes zoom into the Dread Fortress. The **Shadow King walks the hallways in fancy leather boots with silver straps and tiny bells hooked on the back.** He didn't put the bells there. "The rest of us did, so we knew when he'd be coming close." Bec calls him **"this little jingle bell boy."**
+> 1. **0:00:07** The Acolytes zoom into the Dread Fortress. The **Shadow King walks the hallways in fancy leather boots with silver straps and tiny bells hooked on the back.** He didn't put the bells there. "The rest of us did, so we knew when he'd be coming close." Caustic Phoenix calls him **"this little jingle bell boy."**
 > 3. **0:01:19** The Shadow King asks what all this is. Elusia says it is training: "We want to make sure that our security is fully aware and ready to protect the Void against anything or anyone who might try to invade or disrupt the games."
 >    - He calls it "admirable… At least you're on board with keeping the regime safe."
 >    - She hears snark in that. He replies: "it's not like many are going to be attacking the Dread Fortress when I sit on the throne."
@@ -222,20 +222,20 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 > ### Round 1
 > 18. **0:11:41 — The boomerang.** Storm stays back and throws her **boomerang, "that slightly bent stick,"** at Grug's face. It knocks him square on the forehead and leaves a red line that may bruise.
 > 19. **0:12:32** Grug: "Is very nice looking with mark. Oh, how dare you! Such a pretty kitty indeed. **Now face the wrath as I summon my mythical magical energy.**" He goes "full stream magic" (a rage).
-> 20. **0:13:06** While he powers up, Storm hits him with the boomerang again. Bec: when they're "powering up" like Super Saiyans, "that's the prime time to hit them!"
+> 20. **0:13:06** While he powers up, Storm hits him with the boomerang again. Caustic Phoenix: when they're "powering up" like Super Saiyans, "that's the prime time to hit them!"
 >     - Storm: "Another mark very nice on you. You are doing a wonderful job."
->     - Bec: "**You now have an equal sign on your forehead.**"
+>     - Caustic Phoenix: "**You now have an equal sign on your forehead.**"
 > 21. **0:14:21** The boomerang zooms across the field. **The crowd accidentally does "a duck" instead of a wave** to avoid being hit.
 > 22. **0:14:48 — Grug wants a familiar.** "Oh, bad kitty. **Now you will see that you must bow down to me and I will graciously accept you as my familiar.**"
 >     - He bolsters his magic and **Wild Surges**. He says he "teleports" 20 ft, but the surge table roll is a 6: **multicolored protective lights surround him** (+1 AC).
 >     - He yells "**BRRRRR! … Blur.**" Elusia: "I've never heard these spell words before. I quite like them."
-> 23. **0:17:01 — "Death Touch!"** Grug punches Storm and yells the spell name. Bec: "Are you just naming your things? This finger's dead touch, this one's pickles." Grug: "No, this is, I'm a wizard. These are magical spells." Storm: "This one makes me a sandwich."
+> 23. **0:17:01 — "Death Touch!"** Grug punches Storm and yells the spell name. Caustic Phoenix: "Are you just naming your things? This finger's dead touch, this one's pickles." Grug: "No, this is, I'm a wizard. These are magical spells." Storm: "This one makes me a sandwich."
 >     - The punch hits for 9 bludgeoning. **Storm yowls like a cat whose tail has been stepped on.**
 > 24. **0:17:36 — Grug's curse (player, out of character).** Grug was **cursed by the wizard to think he is the most powerful magic user**. He uses no real magic, only accidental wild magic.
->     - Bec relays chat (Cranston): "**Grug is really Conan the Librarian.**"
+>     - Caustic Phoenix relays chat (Cranston): "**Grug is really Conan the Librarian.**"
 > 25. **0:20:11** Storm: "**I love Grug. I don't want to fight Grug. I want to be friends with Grug.** … He seems like he needs help." Elusia: "Don't we all?" Grug's feet are now wet from crossing the streams.
 > 26. **0:21:02** The Shadow King's end-of-round roll is a 9. Elusia: "Disappointing as ever… even though you are a sad disappointment to all of us…"
->     - The Acolytes are enthralled, so **both champions get a hero point**. Bec explains: "This is your plus ultra… over 9,000 going super Saiyan."
+>     - The Acolytes are enthralled, so **both champions get a hero point**. Caustic Phoenix explains: "This is your plus ultra… over 9,000 going super Saiyan."
 >
 > ### The Box of Chaos (0:22:41)
 > 27. The Shadow King snaps his fingers. **A yellow and pink box slams onto the battlefield like a meteor.**
@@ -258,7 +258,7 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 >     - Foundry briefly showed her taking 83 damage; it was really 9.
 >     - With his "magic," Grug once per round **shoves her 5 ft back**: "Cuz my spells are so powerful."
 > 36. **0:36:02 — W-I-Z-A-R-D.** The Shadow King: "I'm not sure they know what a wizard actually is." Grug spells it out: "**W for Wonderful, I for Intelligence, Z for Zap, U for Ultra, R for Radiant, D for Damage.**" Elusia: "You should have chosen a shorter word."
-> 37. **0:37:01 — The rock.** Between the two champions now stands "the fake Storm, the rock version… not Dwayne the Rock Johnson." Bec adds that his face is carved into it, "like a small little monument."
+> 37. **0:37:01 — The rock.** Between the two champions now stands "the fake Storm, the rock version… not Dwayne the Rock Johnson." Caustic Phoenix adds that his face is carved into it, "like a small little monument."
 >
 > ### Chaos event — the chicken wing siren (0:37:18)
 > 38. High in the sky, a figure walks down the steps between the Acolytes, singing a siren song: "**Chicken wing, chicken wing, hot dog and bologna.**"
@@ -279,14 +279,14 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 > 45. **0:44:34 — The item.** The pink and yellow fire column shoots up, producing no heat because it's magical.
 >     - Out rolls **a hairball much larger than hers, attached by two long leads to a chariot: a flying hairball chariot** (+1 AC and flight while riding).
 >     - The table compares the hairball to a Star Trek tribble. Storm, a **snow leopard**, describes it as white, so "it looks a little bit like clouds."
-> 46. **0:46:14 — Clouds.** Grug's history check suggests **he has never really noticed clouds**: "Like it makes sense, but it's like, oh, that's what they are." Drew: "Grug's whole life is gonna change when someday they just look up."
+> 46. **0:46:14 — Clouds.** Grug's history check suggests **he has never really noticed clouds**: "Like it makes sense, but it's like, oh, that's what they are." Mudcat: "Grug's whole life is gonna change when someday they just look up."
 > 47. **0:46:47** Storm flies the chariot to Grug but stays at the reach of her **iklwa** (a 10-ft-reach weapon; transcribed "Ikawa"), out of fist range.
->     - She lands **a nat 20**. Grug yells "**Stone skin!**" Bec imagines him pushing little pebbles into his skin.
+>     - She lands **a nat 20**. Grug yells "**Stone skin!**" Caustic Phoenix imagines him pushing little pebbles into his skin.
 >     - Her second hit lands too. "**Mage armor!**"
 >     - She spends ki on **Flurry of Blows**. The first is a glancing blow; the next hits, and Grug is "looking almost a little bloody."
 > 48. **0:51:10 — "Black tentacles!"** Grug's wild magic (1) lashes Storm with necrotic tendrils. She makes the save: "It's gross, do not like, no thank you."
 > 49. **0:52:20 — Books as boomerangs.** "Time to use stronger magic." With Tavern Brawler, **Grug throws his spell books** ("that's how you cast spells with your spell book, right?").
->     - "**Magic missile!**" Storm tries Deflect Missiles (it needs a 20) and fails. The book smacks her in the face. Bec: "Last time we got a really interesting game of hacky sack."
+>     - "**Magic missile!**" Storm tries Deflect Missiles (it needs a 20) and fails. The book smacks her in the face. Caustic Phoenix: "Last time we got a really interesting game of hacky sack."
 >     - The book comes back and hits his own head. He throws the second book: "**Fireball.**" It hits.
 >     - "The audience just stunned silence… that's not what boomerangs look like." Then "the crowd erupts… happy to know what a boomerang and fireball look like now." Grug: "**Fear my spells!**"
 > 50. **0:55:06 — The familiar offer.** Grug: "You can always surrender and become my familiar… **Soon I will get a magic tower. Because as you know, all wizards have magic towers.** … I will take good care of you. **You will have wet food all around.**"
@@ -299,12 +299,12 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 > 52. **0:57:44** Shadow King: "We are back for the finish… Blood will be spilled and maybe a few hairballs here and there." His roll is 19. Elusia: "Finally, something worth writing home about. I mean, I am already home."
 > 53. **0:58:32** Storm: "I don't wanna mess with the classics." **Another nat 20**, before she even needed her advantage: "My deception pays off real good."
 >     - Her **Stunning Strike** fails when Grug saves.
->     - Bec relays chat (Ray Ace): "**We've never seen a wizard take so many nat 20s and survive.**"
+>     - Caustic Phoenix relays chat (Ray Ace): "**We've never seen a wizard take so many nat 20s and survive.**"
 > 54. **0:60:50 — "Color spray!"** Grug's wild magic fires **a beam from his chest**. Storm saves.
 >     - She counters with **Shatter**. From somewhere in the stands, **a small dog barks and tries to get at the cat but is "quickly shunned away."**
 >     - Grug saves and takes half: "**My magic is so powerful. You think you can harm me with your spells kicking?**"
 > 55. **1:02:28** Grug declares "Mage Armor!" again. Shadow King: "**You can't just say Mage Armor! That's not how it works!**" Elusia: "**You can say Mage Armor whenever you want!**"
-> 56. **1:02:46** Storm flies her chariot **50 ft straight up**. Drew: "Grug has never looked up, so—" "This is going to be a game changer."
+> 56. **1:02:46** Storm flies her chariot **50 ft straight up**. Mudcat: "Grug has never looked up, so—" "This is going to be a game changer."
 > 57. **1:03:27 — The pecs.** Grug uses the chest beam as a bonus action: "Color spray!" **Storm fails and is blinded** until his next turn.
 >     - "From my muscles filled with magic as you see I remove my robe." "**Both pecs are now on display, quite blinding in nature. Many [Acolytes] have to put on their sunglasses.**"
 > 58. **1:05:44 — The sky.** Grug spends part of his turn just **looking up in awe**: "**So much sky, it's endless. If only I could be part of the sky.**" He uses Instinctive Pounce ("teleport!") but only rises 5 ft, "45 feet short."
@@ -313,7 +313,7 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 >     - In reality: "It's really just me jumping really high continuously." It's like a magic trampoline, "the double jump as Mario does."
 > 60. **1:08:03** He rolls athletics. Elusia: "your legs somehow go beyond their normal proportions… double jump, triple jump, quadruple jump to reach the 50… **Touchdown!**"
 >     - He is eye level with Storm and the front rows. **The Acolytes see his eyes, lose their minds and their language, start barking in madness at the beauty, and go blind. "Everyone is blind."**
-> 61. **1:09:33 — The Intelligence roll.** **Grug proposes an Intelligence roll to see whether he actually lands on the chariot.** Bec: "I've never seen anyone so willing to nerf their own hero point."
+> 61. **1:09:33 — The Intelligence roll.** **Grug proposes an Intelligence roll to see whether he actually lands on the chariot.** Caustic Phoenix: "I've never seen anyone so willing to nerf their own hero point."
 >     - He rolls a 10. "**I just jumped up in the air, I didn't actually jump up to anything, so I'm dropping 60 feet down.**" He takes 13 falling damage after halving.
 >     - "Grug, too, too close to sun, too much magic overload. **Icarus, my boy!**"
 >     - Grug: "**Too much magic, too strong.** … Mage armor on. No, it didn't hurt that bad."
@@ -327,7 +327,7 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 > 65. **1:14:53 — The Shadow King's dive.** "Nice hit, but let me show you how it's done."
 >     - **He leaps up on spectral wings of shadow and dive-bombs the river with his chair.** He lands like a meteor and brings it down on Grug's head for full metal-chair damage.
 >     - Then **he grabs Grug by the back of the collar: "Try not to die too early,"** and **throws him out of the river so he doesn't drown.** He reappears on his throne.
->     - Bec: "Shadow King should have thought this through. He didn't." The chair hit triggers Grug's wild magic.
+>     - Caustic Phoenix: "Shadow King should have thought this through. He didn't." The chair hit triggers Grug's wild magic.
 > 66. **1:16:11 — The buns of holiness.** Grug "accidentally flash[es] with my buns of holiness." **A beam of radiant light blasts out of his ass into the sky.**
 >     - "Two glossing buns fresh from the oven. Many of the acolytes swoon at the sight of such glory. Those tan cheeks are truly a thing to behold. **20 of them are knocked out.**"
 >
@@ -383,17 +383,17 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 >   - **Whenever he dies, the curse means he'll always have a happy ending in his head and die smiling, "saying, I was the greatest wizard."**
 > - **Grug's jump, as the player explained it:** "he muscled his way up into the… jumping on particles… So muscular, it looks like magic… He falls! Gravity, it works."
 > - **Last words to the Acolytes:**
->   - Grug: "**Always wash your hands.**" (Bec: "You don't want to dirty those spell books.")
+>   - Grug: "**Always wash your hands.**" (Caustic Phoenix: "You don't want to dirty those spell books.")
 >   - Storm: "**Is helpful to have knives for feet.**"
->   - Bec: "Remember, wash your hands and attach knives to your feet and you will live a half decent amount of time."
+>   - Caustic Phoenix: "Remember, wash your hands and attach knives to your feet and you will live a half decent amount of time."
 >
 > **Creator notes (out of character)**
 > - Grug is "a very lovable NPC" BanzaiBabee uses in a lot of their campaigns.
-> - Bec: "I now firmly believe as long as you declare mage armor, it is automatically cast." Drew: "**Grug is the Michael Scott of D&D.**"
-> - Drew: "When he said you were going to jump, I was like, please just jump and fall."
+> - Caustic Phoenix: "I now firmly believe as long as you declare mage armor, it is automatically cast." Mudcat: "**Grug is the Michael Scott of D&D.**"
+> - Mudcat: "When he said you were going to jump, I was like, please just jump and fall."
 > - Storm's player on the chariot dive: cats have sensitive ears and like to jump from high places. On having a cat on your lap: "Full lean."
-> - Drew on monk vs barbarian: she had to whittle him down, with "at least three" nat 20s. Storm's player jokes Foundry compensated for showing her nothing by giving her good rolls.
+> - Mudcat on monk vs barbarian: she had to whittle him down, with "at least three" nat 20s. Storm's player jokes Foundry compensated for showing her nothing by giving her good rolls.
 > - The table compares the fight to a dog (Grug, "I love you… you're supposed to be my friend") versus a cat.
-> - Bec on the familiar offer: "Not even apprentice… You're like, my familiar."
-> - Bec notes Grug never got to attack the chicken wing siren.
+> - Caustic Phoenix on the familiar offer: "Not even apprentice… You're like, my familiar."
+> - Caustic Phoenix notes Grug never got to attack the chicken wing siren.
 

@@ -124,7 +124,7 @@ Then he spoke to them. The Grandmaster was weak, he said. She could not defeat t
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Mudcat)
 - Returned to the Void from Giant's Breath by Fil.
 - **Gained the Testaments of Morir's Cataclysm's power.** The words burned into his flesh, and he combines Morir magic with chaos energy.
 - Powers shown this episode:
@@ -138,24 +138,24 @@ Then he spoke to them. The Grandmaster was weak, he said. She could not defeat t
 - Proclaimed himself the Void's rightful ruler "by the rules of our Deathmatches."
 - Stated aims: a unified Void, travel to new planes, challenging and conquering champions of every realm.
 
-**[[Characters/The Shadow King|The Shadow King / Agdrel]]** (Drew)
+**[[Characters/The Shadow King|The Shadow King / Agdrel]]** (Mudcat)
 - Appeared in the sky over the arena on a descending throne.
 - **Admits killing many parents of chaos-gifted children, fostering the orphans and siphoning their refined chaos energy.**
 - His body was torn away by the Morir maws, leaving a yellow-eyed shadow soul. **He escaped into the chaos storm clouds during Vythorn's hesitation.**
 - Fights with shadow blades from his arms and an ethereal shadow form.
 - Per the post-show, he doesn't know the goblins' names.
 
-**[[Characters/Fil|Fil / Philomena]]** (Bec)
+**[[Characters/Fil|Fil / Philomena]]** (Caustic Phoenix)
 - She and her side have "placed our bets" on Vythorn and brought him home as "a gift."
 - **She froze time** to urge him on. She wrote the contract making him Lord of Fate with full command of the Void.
 - **"We will be watching… or it will all go away. Because we can do that."**
 - She speaks as "we" throughout (the identity of the others is unstated).
 
-**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia Skypiercer]]** (Caustic Phoenix)
 - Present at the arena, still chained and wearing **a choker sunk deep into her throat**. She begged Vythorn to release her.
 - Says she defeated the Shadow King first and "somebody brought him back to life," and that Vythorn "was killed."
 - Shows fear for the first time.
-- **Dragged from the arena by goblins in Vythorn's old chains.** Bec says she will stay "only in the dungeon."
+- **Dragged from the arena by goblins in Vythorn's old chains.** Caustic Phoenix says she will stay "only in the dungeon."
 
 **[[Characters/Doug the Pug|Doug]]**
 - A four-legged, short-snouted dog with breathing problems, disguised in a goblin costume made by goblins.
@@ -226,7 +226,7 @@ Then he spoke to them. The Grandmaster was weak, he said. She could not defeat t
 >    - He explains that he **killed many parents of children with a proclivity for chaos** and fostered the children "under my tutelage." His aim was to one day "feast upon the fruits of their labor," **siphoning off the chaos energy they developed and refined over years.**
 > 10. **0:06:41** "But you, you were special… **A certain aptitude for chaos. I was saving you for last. Like a dessert.** Oh, thank you for serving yourself up on a platter for me."
 >
-> ### The fight (fully narrated by Drew)
+> ### The fight (fully narrated by Mudcat)
 > 11. **0:07:09** Vythorn's rage boils over in a burst of energy from the words on his skin.
 >     - He moves with "a speed we haven't seen before," **jumping through space and time and hurling lightning bolts**.
 >     - The Shadow King deflects them with **blades of shadow and ethereal energy growing from his arms**.

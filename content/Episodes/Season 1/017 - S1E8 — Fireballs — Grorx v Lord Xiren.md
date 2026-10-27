@@ -146,14 +146,14 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 - **Blew himself up with his own fireball** to end the match.
 - **Fused with Grorx.** He laments his lost legs ("hideous bowed and green").
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Carries a **cane**. Doesn't nap; time magic aside, "time waits for no one."
 - **Gifted Elusia a giant velour optical-illusion painting of Doug the Pug** (bones / no bones), carried in by two goblins.
 - Says the goblins are behind on the train ("public works").
 - Hands out giant magnifying glasses for the small print.
 - Loves the sounds of death ("the death rattle… blood in the windpipe… the bowels") but defers to the Grandmaster's ruling.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Takes a mandatory afternoon nap with Doug** and needs at least six hours of sleep ("beauty sleep").
 - Her **throne has a metal surface**. She has a **secondary throne** above the arena.
 - **Her crown "is not for sale. This is something that I have earned."** Acolytes wear gift-store replicas of it.
@@ -290,11 +290,11 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 > 25. **0:27:48 — The nat 20 javelin.** Unable to speak spells over the barking, Grorx pulls out a javelin: "**I'd say I'm sorry, but I really want ice cream.**"
 >     - Elusia admits the ice cream is "a verbal contract. I can break it."
 >     - **Nat 20.** Grorx: "He should probably look down right now." Xiren looks down just in time to see something flying out of the dark.
->     - Bec: "Pure desire in his eyes… in his tiny goblin body, **yeets that far high above him, stabbing straight through the shoulder of Lord Xiren.**" Arbiter: "It's just a flesh wound."
+>     - Caustic Phoenix: "Pure desire in his eyes… in his tiny goblin body, **yeets that far high above him, stabbing straight through the shoulder of Lord Xiren.**" Arbiter: "It's just a flesh wound."
 > 26. **0:29:55 — Grorx runs** to the far corner, under the shelving, as promised. Passing a seemingly closed doorway, he rolls a **nat 20 perception**.
 >     - **The door's locking mechanism was designed by his father.** He knows a pressure plate on the floor opens it. "Hey, that's my dad's door."
 > 27. **0:31:57 — Hiding fails.** He hides behind the lintel at disadvantage in heavy plate and rolls a **nat 1**.
->     - Bec: "Fate has called upon you and taken back what she owes."
+>     - Caustic Phoenix: "Fate has called upon you and taken back what she owes."
 >     - Grorx: "clink clink clink… you can just see little bits of me sticking out." Xiren has been staring straight at him the whole time.
 > 28. **0:32:57** The crowd loves "**the hit and run**… the patent move of Grorx" and chants both names over Doug's barks. **The Acolytes give each champion a hero point.**
 > 29. **0:34:18 — Xiren's turn.**
@@ -314,13 +314,13 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 > ### Round 2: the hidden chamber
 > 33. **0:41:36** Grorx **serpentines in front of the door until he finds the pressure plate.** A carved hieroglyph stone lifts into the ceiling and reveals **a larger ceremonial room** with **a large stone statue** at the far end.
 > 34. **0:42:27 — History.** "Is that also part of your childhood, reading lots of history books?" "No, I'm very dumb." He saw it "upside down" in a book: "I think you guys need to get your money back."
->     - Drew: "**With a 10, you recognize us as the set of The Mummy starring Brendan Fraser.**" Grorx: "**Where's Rachel Weisz?**… I'm gonna go in there in search of Rachel Weisz."
+>     - Mudcat: "**With a 10, you recognize us as the set of The Mummy starring Brendan Fraser.**" Grorx: "**Where's Rachel Weisz?**… I'm gonna go in there in search of Rachel Weisz."
 > 35. **0:43:44** Running in, Grorx taunts Xiren: "you're still late because you didn't hit me." Xiren: "Oh, I'm just biding my time, Grorx."
 > 36. **0:44:52 — The chamber.**
 >     - Sun beams onto the statue's carved humanoid face. Columns are broken and sand filters down from above.
 >     - **A large ceremonial plate covered in hieroglyphics sits under the statue.**
 >     - **Bones and bodies of long-buried "fast [past?] champions, attendants to this statue"** lie in the dirt.
-> 37. **0:45:49** "There's no dogs in here, right?… **So quiet, so peaceful.**" Grorx self-reflects and casts **Armor of Agathys**. Drew narrates the reflection "very literally: left foot, right foot."
+> 37. **0:45:49** "There's no dogs in here, right?… **So quiet, so peaceful.**" Grorx self-reflects and casts **Armor of Agathys**. Mudcat narrates the reflection "very literally: left foot, right foot."
 > 38. **0:47:13 — Xiren befriends Doug.** He flies five feet down from his perch and realizes "the other champion has left the building."
 >     - Elusia holds Doug up. "**Doug. I do appreciate your wonderful fur and that you take care of the Grandmaster so, so well. Thank you for all that you do. You're a good boy, no matter what the Grandmaster says about you.**"
 >     - Persuasion with advantage, 16. **Doug quiets for a moment and grants Xiren his blessing** (a d4 for one round). "Turns out he also likes praise." Xiren: "Lord Xiren is forever grateful."
@@ -331,12 +331,12 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 >
 > ### Round 3: Friends
 > 40. **0:53:50 — Befriending the mummy.**
->     - Xiren wants to "take a healing hands on the mummy and make it my friend." Healing hands would do nothing to a full-health mummy, so Drew points him to his **friends** cantrip. "Did you mistake the grapple for a hug?"
+>     - Xiren wants to "take a healing hands on the mummy and make it my friend." Healing hands would do nothing to a full-health mummy, so Mudcat points him to his **friends** cantrip. "Did you mistake the grapple for a hug?"
 >     - The touch-yourself jokes: "If you want to touch yourself, bud, you go…" "It's that kind of place."
 >     - Xiren: "this is my first time, and I'm, like, a little overwhelmed. There's, like, 500 things to read."
 > 41. **0:57:16 — The speech.** "**My, you have such smooth bandages. I do enjoy them. I also know that there's a guy named Granshain [Grorx, deliberately misnamed] over on the stairwell. That wishes to do you harm. And I do believe that if we were to team up, we could take him down.**"
 >     - Elusia: "So that's the recipe for friendship. A compliment of some sort and then a similar goal… Who uses sandpaper these days?"
->     - Drew warns that when the spell ends, the mummy will know it was manipulated. Elusia: "**That's also how friendship works.** When you manipulate people, they find out."
+>     - Mudcat warns that when the spell ends, the mummy will know it was manipulated. Elusia: "**That's also how friendship works.** When you manipulate people, they find out."
 >     - The mummy turns its eyes toward Grorx.
 > 42. **0:59:31** Xiren: "I wish to run and hide and touch myself." Elusia: "Making friends is hard, okay?" He hides behind the crumbled pillar (half cover) "while I lick my wounds."
 > 43. **1:00:19** Elusia needs a drink of water for her and Doug. She proposes a **"how to friend a mummy in a pyramid" 101 book**, and the Arbiter will talk to "our publisher". The break is cut ("Name That Monster!" bumper).
@@ -354,25 +354,25 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 > 47. **1:09:36 — MJ.** Xiren names the mummy **Michael Jackson, "for smooth criminal"**. "**I do believe I'm starting to turn Russian.**… I just needed some vodka for my shoulder." Elusia: "He's evolving. It's not even his final form yet."
 >
 > ### Chaos event 3: Dolly (1:10:15)
-> 48. Xiren(?) announces that the Acolytes demand a chaos event. The Arbiter rolls a 14. Elusia: "**A classic friend of the arena.**" Drew: "Oh, God."
+> 48. Xiren(?) announces that the Acolytes demand a chaos event. The Arbiter rolls a 14. Elusia: "**A classic friend of the arena.**" Mudcat: "Oh, God."
 >     - **A tiny sarcophagus rises from the dust.** Its hieroglyphics light up, it glows, the lid creaks open, and **a small doll pops up**.
->     - Drew: "She's always giant when I pull her up." Elusia: two of the same adjective "negate each other… I learned it in Hallmack [?]."
+>     - Mudcat: "She's always giant when I pull her up." Elusia: two of the same adjective "negate each other… I learned it in Hallmack [?]."
 >     - The doll, in her sweetest voice: "**Will you be my friend?**" Grorx: "This guy loves friends." Xiren: "**I do love friends. Oh my, another friend has joined the arena. I'm so happy.**"
 > 49. **1:12:55 — MJ attacks Grorx.**
 >     - Its **dreadful glare** fails (Wis save), so Grorx is immune to mummies' glare for 24 hours. "So does that include my mummy?" "Yes, you're immune to your own mummy." "She has a dreadful, dreadful glare."
 >     - **Grorx: "I mean, I may or may not have slain seven or eight of my siblings."** The Arbiter advises against confessing in public. Grorx: "**It was at home, so it doesn't count.**" Arbiter: "Of course. I forgot the law."
 >     - Xiren: "**Lord Xiren is a protector. I know great lawyers. I'll hook you up after this if I'm not dead.**" He forgot his cards; Grorx: "I'll get it off your dead body." Xiren: "Take it out of my wallet. With all the money, too."
 >     - The rotting fist lands a glancing blow (necrotic and bludgeoning). Grorx resists mummy rot.
->     - Grorx: "**This place is bad for you. There's probably a lot of asbestos.**" **MJ does a small moonwalk.** Drew: "and if you or somebody you know has been diagnosed with mesothelioma…"
+>     - Grorx: "**This place is bad for you. There's probably a lot of asbestos.**" **MJ does a small moonwalk.** Mudcat: "and if you or somebody you know has been diagnosed with mesothelioma…"
 > 50. **1:16:58 — The business card.** Xiren hands MJ his card "for that asbestos abatement." **MJ puts it in his mouth and bites off his own fingers trying to eat it, then gives a thumbs up as his thumb falls off.**
 > 51. **1:17:47 — Holding Dolly's hand.** Dolly is creepy and hovers. **Xiren takes her hand.**
 >     - Her fingers close in a death grip. A small circular burn forms in their shared palm, marking him as her friend, and **she will fight alongside him for three rounds.**
 >     - Xiren: "Listen, I'm full of charisma, I make all the friends, okay? I read the contract and didn't see Deathmatch in it!… **now I'm trying to make as many friends as I can!**"
->     - Armor of Agathys deals 10 ice damage to MJ, leaving him "bloody… thank goodness they've got smooth bandages." Drew: "**We murder people and we educate.**… We value friendship and blood." (01: "Bloody friends!")
+>     - Armor of Agathys deals 10 ice damage to MJ, leaving him "bloody… thank goodness they've got smooth bandages." Mudcat: "**We murder people and we educate.**… We value friendship and blood." (01: "Bloody friends!")
 > 52. **1:21:15 — The twinned magic missile.** Xiren spends sorcery points to **twin a 4th-level magic missile** at Grorx: eight darts, 31 damage.
->     - Grorx: "**I will show him what D&D is, and I'll cast Shield.**" Shield is the only counter to magic missile. Drew: "I fucking love D&D."
->     - Xiren: "**This is literally rigged!**" Drew: "You have two friends! What are you complaining about?"
->     - Grorx's shield: "It looks like a giant meme… Gandalf doing the head shake… every time the missile hits, the finger moves." Drew: "Fuck you, fuck you, fuck you…"
+>     - Grorx: "**I will show him what D&D is, and I'll cast Shield.**" Shield is the only counter to magic missile. Mudcat: "I fucking love D&D."
+>     - Xiren: "**This is literally rigged!**" Mudcat: "You have two friends! What are you complaining about?"
+>     - Grorx's shield: "It looks like a giant meme… Gandalf doing the head shake… every time the missile hits, the finger moves." Mudcat: "Fuck you, fuck you, fuck you…"
 > 53. **1:25:25 — Dolly's turn.** Her jaw drops eight inches, sharp teeth slide down, and she snaps at Grorx "for funsies." **She misses twice.** Her eyes glow in frustration and her hair floats up.
 >     - Elusia: "**Holding hands is a good way. Just start holding hands with people and that's how you make friends.**" Grorx: "Or get arrested… **If you look like me, get arrested.**"
 >     - The Arbiter rolls a 1, then rerolls a 5. Elusia: "Let me just freak out here and pull out the confetti."
@@ -380,17 +380,17 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 > ### Round 4
 > 54. **1:28:04** Grorx: "**I got clowns to the left of me, jokers to the right of me… I'm stuck in the middle, so I'm going to cast Misty Step.**"
 >     - He lands, then throws "his shield Captain America style" as **eldritch blast**: one beam at MJ, one at Xiren.
->     - Both hit. **Xiren fails concentration and MJ is no longer his friend.** Drew: "realized that it has been manipulated just like its mother used to do to him all the time. **Gaslit into friendship.** Forced into biting his own fingers off."
+>     - Both hit. **Xiren fails concentration and MJ is no longer his friend.** Mudcat: "realized that it has been manipulated just like its mother used to do to him all the time. **Gaslit into friendship.** Forced into biting his own fingers off."
 >     - Xiren: "**MJ, let's talk about this.**" MJ moonwalks toward him.
 > 55. **1:31:15 — MJ's revenge.** **A natural 20 rotting fist on Xiren for 47.** "Remember, friends take work."
 >     - MJ also punches **Dolly** (7 bludgeoning; necrotic doesn't affect her). Xiren: "Don't you touch Dolly."
->     - Drew suggests healing now ("that Lay on Hands might be a good time"). "Friendship is dead." "So is he. Yeah, basically."
+>     - Mudcat suggests healing now ("that Lay on Hands might be a good time"). "Friendship is dead." "So is he. Yeah, basically."
 > 56. **1:33:37** Xiren flies up to the top of the stairs: "**His wings are gone. But his charisma will never die.**"
->     - MJ's opportunity attack misses (13). Drew: "**Welcome to D&D, bitch!**" Xiren: "Dolly, you better charm that mother trucker."
+>     - MJ's opportunity attack misses (13). Mudcat: "**Welcome to D&D, bitch!**" Xiren: "Dolly, you better charm that mother trucker."
 > 57. **1:35:23 — Fireball 1.** A **5th-level fireball** at Grorx. **Grorx's shield (Shield Master) halves it**: the fire engulfs him and scorches around his shield for 20.
 > 58. **1:37:28 — The hero point Scorching Ray.** Xiren: "Grandmaster, I would plead for my life, but that is not the way of Lord Xiren. **I do hope that I've put on the performance that you wished. We're going out with the grandest spell that I can conjure.**"
 >     - He spends his **hero point** and sorcery points on a **twinned 5th-level scorching ray: 12 rays**.
->     - The Acolytes chant in hushed tones, "do it, do it, do it." Drew: "It's just like DBZ."
+>     - The Acolytes chant in hushed tones, "do it, do it, do it." Mudcat: "It's just like DBZ."
 >     - **Eight rays hit for 61 fire.** Grorx's shield can't withstand it: "You're gonna need some aloe."
 >     - **Stray rays bounce off Grorx's shield and burn MJ to a crisp.** "Murdered." "Burned your friend alive. Sorry, ex-friend." (01: "MJ, call my lawyer!")
 >
@@ -437,25 +437,25 @@ The Grandmaster descended. "Never! No!" Their fates were tied, she declared, "tw
 > 73. **2:05:53 — Sign-off.** "To my acolytes, my dearly beloved, **it is from you that I draw this wellspring of inspiration. It is for you that this heart of the arena still pumps blood**… Welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew opens: "Welcome back for another episode of Dried Blood… this is episode eight."
-> - **Tim's name:** "It's Timotheus, just think like Greek." Drew had been saying it wrong.
-> - **This was DadGotGame's ("of Mixer fame") first time ever playing D&D**, apart from prep with Drew. His character was "almost all verbal spells", so the barking event hit him hard. Tim: "If you really want to fuck your players, take out their verbal components."
+> - Mudcat opens: "Welcome back for another episode of Dried Blood… this is episode eight."
+> - **Tim's name:** "It's Timotheus, just think like Greek." Mudcat had been saying it wrong.
+> - **This was DadGotGame's ("of Mixer fame") first time ever playing D&D**, apart from prep with Mudcat. His character was "almost all verbal spells", so the barking event hit him hard. Tim: "If you really want to fuck your players, take out their verbal components."
 > - **Grorx had no backstory.** Tim plays one-shots pure "yes and" (the credit cards, siblings and so on were improvised). He's doing the same for Bruce's character in Wild Beyond the Witchlight ("Robert's game").
 > - **The fusion:**
 >   - Tim thinks of Quaid and Kuato from Total Recall.
 >   - Dad is "totally fine with it… I came out of this with a new friend."
->   - Drew was as surprised as the players.
->   - **Bec: "I had no idea what was going to happen if he flipped a two."**
->   - Drew jokes "It was always going to be two people in one body… we were going to railroad you." Flipping bodies or "parent trap action" were floated.
+>   - Mudcat was as surprised as the players.
+>   - **Caustic Phoenix: "I had no idea what was going to happen if he flipped a two."**
+>   - Mudcat jokes "It was always going to be two people in one body… we were going to railroad you." Flipping bodies or "parent trap action" were floated.
 >   - Dad: "I ended up with orc legs bro. I slaved over my character."
-> - **Bec: Xiren mispronounced Grorx's name on purpose the whole game and said it right only "at the very final end"** while dying.
+> - **Caustic Phoenix: Xiren mispronounced Grorx's name on purpose the whole game and said it right only "at the very final end"** while dying.
 > - **Dad's concept:** he took the protector idea literally: "this is a Deathmatch, but what if we don't die?" The mummy did more damage to Grorx than he did until the big spell. Then he aimed for "this dramatic place of mercy."
-> - **The self-fireball:** someone (speaker uncertain, labelled Bec) says "I had no idea there was a 20 foot radius," then "It was on purpose. It's always on purpose."
+> - **The self-fireball:** someone (speaker uncertain, labelled Caustic Phoenix) says "I had no idea there was a 20 foot radius," then "It was on purpose. It's always on purpose."
 > - **Grorx had 110 HP and took 109.** Tim had planned ahead: a passed save would have meant Xiren killed only himself, and against a lighter attack he would have used **Hellish Rebuke** to kill them both.
-> - **Rerolling initiative on map changes** happened by accident (Drew's setup didn't carry initiative over) and was kept on purpose. Tim compares it to older editions.
-> - Bec counts **three map changes and four chaos events**.
+> - **Rerolling initiative on map changes** happened by accident (Mudcat's setup didn't carry initiative over) and was kept on purpose. Tim compares it to older editions.
+> - Caustic Phoenix counts **three map changes and four chaos events**.
 > - **The guest whiteboard** has dozens of names, including Danny Trejo ("He hasn't answered any of my reach outs"). Tim reached out himself ("former touring musician"), though he was already on the list.
-> - **A return is planned:** "We'll have you both on again sometime… since you are survivors." Bec: "This is like the Chimera mix-up that will haunt people's dreams. I don't even know how we'll make this visually for a character."
+> - **A return is planned:** "We'll have you both on again sometime… since you are survivors." Caustic Phoenix: "This is like the Chimera mix-up that will haunt people's dreams. I don't even know how we'll make this visually for a character."
 > - **Final words:**
 >   - Tim: "**Play D&D. It's the way to Satan. And it's also the way to fun.**" The game saved his life twice; he mentions being 38. He has made lifelong friends through it.
 >   - Dad: find people who will guide you through your first game. He wants to play more.

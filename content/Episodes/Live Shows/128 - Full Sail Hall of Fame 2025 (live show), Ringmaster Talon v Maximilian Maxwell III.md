@@ -137,13 +137,13 @@ He collapsed with chicken noodle on his lips. "Every death means a victor," the 
 - Paid the Grandmaster to revive Talon, then gave up half his life to him via the Arbiter. Won the fight.
 - Friend of Jesse.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Loves bath bombs scented with roses and blood.
 - Says "That's my grandma, though" about a lich (joke). Mentions "my nephew."
 - Revives Talon by stopping, then restarting, his heart with his own scythe. **Sped up time around Max ("Eye of Makamoto is mine")** to trigger a bleed.
 - Says the Dread Fortress's unicorns murder people. Cut the Void Bucks by hand until 2 a.m.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - "Official arbiter of the deathmatches." Complains of a hostile workspace and needing sponsors. Mentions that his dad used to curse at him (joke).
 - **Can form black goo that transfers life force between champions.** Prints Void Bucks. Takes bribes for advantage from both sides.
 
@@ -251,7 +251,7 @@ He collapsed with chicken noodle on his lips. "Every death means a victor," the 
 > 44. **1:09:43 — The sleeves.** Max unbuttons his sleeves: "Maximilian is getting serious." Arbiter: "**Did you pay for an arm hair transplant?**" Max: "I pay for a lot of things I don't understand." Then: "Now it's time to throw you… **onto University Boulevard.**" He grabs Talon "in his many black layers of clothing." The Grandmaster riffs on Max's "this many" ("like when my nephew tweets to me"). **It's a tie: Talon goes to one fatigue and Max to three.** Arbiter: "How the turntables."
 >
 > ### Round 3 — Talon: the blood tsunami
-> 45. **1:12:02** The Grandmaster: "You're like glistening in the sun… the blood just really shines… Does that make you Krillin?" A Dragon Ball tangent follows (super saiyan stages, Bec's "rose gold" mix-up; Drew: "Quit embarrassing me, Grandmaster"). She offers a **heroic surge** with advantage: "your super saiyan moment… one mega hit." Max: "You want to hit a man with glasses?" Talon: "I definitely will."
+> 45. **1:12:02** The Grandmaster: "You're like glistening in the sun… the blood just really shines… Does that make you Krillin?" A Dragon Ball tangent follows (super saiyan stages, Caustic Phoenix's "rose gold" mix-up; Mudcat: "Quit embarrassing me, Grandmaster"). She offers a **heroic surge** with advantage: "your super saiyan moment… one mega hit." Max: "You want to hit a man with glasses?" Talon: "I definitely will."
 > 46. **1:13:38** Talon: "We got the ocean. It's really not that far. **I think it's time for a giant blood tsunami.**… a bunch of blood starting to pool slightly around your ankles… That skyline is covered in red… **these hundred foot waves** are ramping to you." The Grandmaster: "That crimson horizon upon us." With advantage he gets 17.
 > 47. **1:15:02 — The bidding war.** The Arbiter hints that Max could get advantage "but it won't be cheap." Max pays him, and Talon objects: "**Isn't that your money that he's just giving back to you?**" The Arbiter: "A spirit of heroism comes over you and blah, blah, blah. You get advantage as well." Then **Talon's Acolytes counter-bid**: "The battle of the bill has begun." Arbiter: "His stack is bigger than your stack… that's a thick boy… **I gotta go with the guy who's gonna hand me the big stack of money.**" The Grandmaster: "The Acolytes have spoken with their wallets… Roll with advantage." (It's unclear who kept advantage; Max does roll twice below.)
 > 48. **1:17:39 — Calling mom.** Max is broke. "**Mom. Can you wire me?**… Love you. Bye." Talon: "Some people's kids." Max pays **Matthew** (the Arbiter likes his jacket) to roll. Matthew gets **a dirty 20 on the first roll**, then rolls again and gets **another dirty 20, "back to back"**. The crowd chants "Matthew!" Talon: "It's rigged." **The tsunami is blocked.** Arbiter: "Your heroic surge was an absolute failure. **I guess he can swim.**" Grandmaster: "**Your hurricane is a bit of a washout.** Boo. Puns suck."

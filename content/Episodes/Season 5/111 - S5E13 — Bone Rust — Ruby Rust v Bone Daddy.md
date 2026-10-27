@@ -128,17 +128,17 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 - Ruby called her "nothing more than a table."
 - **A single finger bone of hers escaped the tavern unnoticed and survives.**
 
-**[[Characters/Thea|Thea]]** (Bec). The pink-winged imp running the show with the Lord of Fate.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The pink-winged imp running the show with the Lord of Fate.
 - Says she was "specially bred" by her loving family "to be an invincible worm" and was transformed into an imp. She can't die (per the Lord of Fate's "No, unfortunately"). Her family wanted her to get a college degree.
 - Brewed sun cola with goblins; lost and regrew her teeth (two human sets, then endlessly regrowing sharp ones).
 - Revived the champions and let Thomas the Goblin heal them; gave Ruby band-aids.
 - **Fart chaos event (pink glitter, tuna-pickle).** Summoned chinchillas and freed Ruby.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). Apparates, regrows teeth with a snap, and buys the crowd blue slushies.
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat). Apparates, regrows teeth with a snap, and buys the crowd blue slushies.
 - Says Thea doing his job would spare him "the paperwork and the taxes."
 - Promised Ruby restoration if he won. Summons the Box of Chaos.
 
-**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Mudcat).
 - Thinks the Lord of Fate is "kind of a cock" and the Acolytes "kind of idiots."
 - Took ten hammer shorts from Bone Daddy and an old patron's remaining life from Ruby.
 - "I just don't have as much shit as I used to."
@@ -190,7 +190,7 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 > 5. **0:09:51** Perception check (16): the cola has been **reduced to a thick orange sludge, syrup at best.** He turns off the burner.
 > 6. **0:10:17 — The punishment.** "You worked very, very hard on this… **We're gonna sit here until you eat it all.**" Thea doesn't take it as a punishment. **She gobbles it with claws and hands while the goblins spoon-feed her and let it drip in like syrup.** "This is delicious, I love it."
 > 7. **0:11:06 — Teeth.** **Thea's teeth erode away instantly from the sugar.** Thea: "I didn't need teeth and this leaves more room in my mouth for more food." He snaps his fingers and her teeth regrow.
-> 8. **0:11:28** Thea asks for teeth like a shark. "You want extra? Fucking fine." **He gives her a second row of teeth, but human ones, so she has two sets of human teeth.** Bec compares it to dogs photoshopped with human teeth: "Imps should not have human teeth." Thea wanted to be "a little piranha," but now she "can't stop smiling."
+> 8. **0:11:28** Thea asks for teeth like a shark. "You want extra? Fucking fine." **He gives her a second row of teeth, but human ones, so she has two sets of human teeth.** Caustic Phoenix compares it to dogs photoshopped with human teeth: "Imps should not have human teeth." Thea wanted to be "a little piranha," but now she "can't stop smiling."
 > 9. **0:12:14 — The champions.** Thea claps, and two giant portals open: "**Ruby Rust versus Bone Daddy!**"
 >
 > ### The champions arrive (both returning from death)
@@ -231,16 +231,16 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 >
 > ### Round 1
 > 30. **0:24:14** Bone Daddy: "Darcy here is gonna put you down in the ground… **Darcy, why don't you go put him in the fire?**" **Darcy scampers, bones flapping, to curl Ruby into the fireplace.** It misses: **her hands sink into Ruby like a tar pit, and he oozes out between her bones.** Ruby: "**I've picked up some new tricks since being assimilated into the hunger.**"
-> 31. **0:25:41** Bone Daddy uses his "**Bone Daddy Arcanum**" to **pull fire from the fireplace and shoot it out like a fire-breathing skull.** Bec: "Let's see how you measure up to Fire Lord Ozai." It hits (against Ruby's defense of 3).
+> 31. **0:25:41** Bone Daddy uses his "**Bone Daddy Arcanum**" to **pull fire from the fireplace and shoot it out like a fire-breathing skull.** Caustic Phoenix: "Let's see how you measure up to Fire Lord Ozai." It hits (against Ruby's defense of 3).
 >     - Ruby: "**Three is a magic number.**" This becomes a running gag.
 >     - **The wall of fire engulfs the oozing Ruby "as if the fiery dragon itself has come to life."** Thea: "That's real magic, not numbers. This isn't algebra."
 > 32. **0:27:08 — The Acolyte skeletons.** Bone Daddy calls skeletons "out of the stands" to pile on Ruby.
->     - **The bones are ripped directly out of Acolytes' bodies, leaving "bags of meat" in the stands.** Bec names the Acolytes: **Kelly** (from her feet), **Great to be Gator, Commodore Scrib, Cookie Monster, Saint Paulyboy.**
+>     - **The bones are ripped directly out of Acolytes' bodies, leaving "bags of meat" in the stands.** Caustic Phoenix names the Acolytes: **Kelly** (from her feet), **Great to be Gator, Commodore Scrib, Cookie Monster, Saint Paulyboy.**
 >     - The pile hits (another 3 for Ruby). Ruby: "Said it at the beginning and the dice are like, oh, okay."
 > 33. **0:28:00 — The bone cage.** **Bone Daddy fuses the bones into "a bone cage that only legend has heard of,"** with the bones always shifting so Ruby can't ooze through. It hits, and Ruby is trapped (a status effect).
 > 34. **0:29:31 — Names.** Thea: "Thank you, Daddy. That felt weird." Bone Daddy answers to "Bone, Bone Daddy, and Daddy."
 >     - Asked whether he had a name before Bone Daddy, he looks off wistfully, thinking of **his mother and his father, Charles**: "**Bone Daddy's always been Bone Daddy.**"
->     - Thea: "I'm so sorry." Drew interjects "Foster." (joke; meaning unclear).
+>     - Thea: "I'm so sorry." Mudcat interjects "Foster." (joke; meaning unclear).
 > 35. **0:30:26** **Ruby swirls java and poison in his mouth and spits it on the bones. The corrosive liquid dissolves the cage, and he slides out.**
 > 36. **0:30:43 — The ankle grab.** Ruby slithers between chair and table legs to stay out of sight. **He splits off a smaller splinter of himself made of black goo as a distraction, circles behind and grabs Bone Daddy's ankles.** It hits.
 > 37. **0:31:54** "Give him the squeeze." **Ruby wraps around Bone Daddy and slams his body against him**; it hits.
@@ -257,7 +257,7 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 > ### Chaos event (11): the morning coffee (0:35:30)
 > 42. Thea's nat 20 triggers a chaotic event. Ruby rolls an 11.
 >     - **Ruling for the night: no fatigue penalties on chaotic events, damage only.**
->     - Drew: "shaking and just like globs of acid… hitting against tables… **a dude sleeping on a table, you've just burned a hole in his neck and he's just bleeding out… just dies without even knowing it.**" Thea: "We revived him plenty of times, it's okay."
+>     - Mudcat: "shaking and just like globs of acid… hitting against tables… **a dude sleeping on a table, you've just burned a hole in his neck and he's just bleeding out… just dies without even knowing it.**" Thea: "We revived him plenty of times, it's okay."
 > 43. **0:37:11** "**Your morning coffee is giving you more than a burst of energy… Roll to not poop yourself.**" (Mettle save, DC 15.)
 >     - **Ruby fails (13): "There's a lot of poop coming out of that cloaca."** He takes a point of Fighting Spirit.
 >     - **Bone Daddy passes (16): "Bone Daddy knows how to hold his bowels through a lot of practice."** Lord of Fate: "this isn't even like the fifth time we've mentioned a cloaca on this show."
@@ -309,7 +309,7 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 > ### Chaos event (5): Thea's fart (0:59:05)
 > 66. Bone Daddy rolls a 5 (the event does two Fighting Spirit on a failed save).
 >     - **Thea walks between the champions, bends her knees and lets out "the longest, loudest fart you have heard in your entire life."**
->     - Bec attempts the sound effect at length. Ruby: it "sounds like when you go to the dentist and they're sucking the water out." Thea: "**Your butthole is weirdly shaped**… It makes a weird sound." Ruby: "she's somehow farting on the inhale… just getting more and more bloated." (The table refuses to move on until Bec does a better fart sound.)
+>     - Caustic Phoenix attempts the sound effect at length. Ruby: it "sounds like when you go to the dentist and they're sucking the water out." Thea: "**Your butthole is weirdly shaped**… It makes a weird sound." Ruby: "she's somehow farting on the inhale… just getting more and more bloated." (The table refuses to move on until Caustic Phoenix does a better fart sound.)
 > 67. **1:01:30** "**The longest, stinkiest, tuna pickle fart you've ever had.**" (Mettle save, DC 15.) **Bone Daddy (13) and Ruby (6) both fail and take two Fighting Spirit.**
 >     - **The fart dust is sparkly: both are coated in pink glitter.** "It's my special pocket." Bone Daddy: "She eats a lot of glitter." Lord of Fate: "A lot of paste too."
 >     - Ruby: "**The glitter is directly between my muscles and the tendons.** Now that I have no skin…"
@@ -411,10 +411,10 @@ Ruby kept growing and turned on his hosts: "Where are your protections now?" The
 > - Robert on Ruby:
 >     - In his first fight Ruby was "just a snake… turned sentient enough to do some coding."
 >     - After being assimilated by "an eldritch horror" (the hunger), he could "do anything" with Ruby's appearance.
->     - He'd planned to play reluctance (tendrils forcing him to fight) but used Drew's "if you win, we'll turn you normal" as the reason to fight.
-> - Robert's visual imagination: the opposite end of the aphantasia spectrum. He dislikes consuming horror but runs body horror in Halloween specials with content warnings. Drew's favorite image was the paintbrush.
-> - Drew recalls a past match: a reluctant cowboy gunslinger, "Bife" [?], whose sentient guns fell out and fired, against **Tiege** [?], a Destiny-style guardian resurrected by his ghost each time he died.
-> - Drew on the season format: recurring champions give viewers characters to latch on to (new people every week was "a logistical nightmare"). "The hunger having consumed you" gives storylines running through the season.
+>     - He'd planned to play reluctance (tendrils forcing him to fight) but used Mudcat's "if you win, we'll turn you normal" as the reason to fight.
+> - Robert's visual imagination: the opposite end of the aphantasia spectrum. He dislikes consuming horror but runs body horror in Halloween specials with content warnings. Mudcat's favorite image was the paintbrush.
+> - Mudcat recalls a past match: a reluctant cowboy gunslinger, "Bife" [?], whose sentient guns fell out and fired, against **Tiege** [?], a Destiny-style guardian resurrected by his ghost each time he died.
+> - Mudcat on the season format: recurring champions give viewers characters to latch on to (new people every week was "a logistical nightmare"). "The hunger having consumed you" gives storylines running through the season.
 > - Robert: "I'm glad I got to win again finally"; his previous loss was his first loss in any PvP TTRPG.
 > - Johnny is taking improv classes and focused on keeping a consistent character.
 > - **Art:** all season 5 tokens and the eight background pieces were done by **Young Khan** (Twitter), styled like Street Fighter/Mortal Kombat stages, with idle animations.

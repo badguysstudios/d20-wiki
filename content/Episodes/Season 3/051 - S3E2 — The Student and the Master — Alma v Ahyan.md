@@ -137,23 +137,23 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 - **Gear:** wears Gerald's **armor of resistance** (force resistance, +1 AC, a blue-lightning sleeveless chest piece). Their weapons went to the sky magnet; they ended the fight holding the tiny metal chair.
 - **In this episode:** first champion (per Gerald) ever to thank him. Gave Alma permission and died to the Magic Missile saying "I'm proud of you." Raised from the dead afterward (Dried Blood).
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Punished:** wears chains, must knock, and sits on a wooden crate with a deflated D20 cushion. He "tried to overthrow the Dread Fortress… like two months ago."
 - **Duties:** in charge of the budget; does the Grandmaster's taxes by coloring in the boxes.
 - **In the arena:** chair-dived Ahyan for 1, then hit him with the tiny chair for 4. Summoned the blizzard with his breath. Flashed a wolf face barking at Doug. A fan of the underdog who respects time magic.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Home life:** hosts a pre-show party. Doesn't know what a budget is; wants cotton candy renamed "cloud candy."
 - **The temples:** the Acolytes have built many temples to her; this one is to be rebuilt.
 - **Age:** "Not a day over 3000," according to the Arbiter.
 - **In the arena:** dove with a metal chair on Alma. Refused Ahyan's plea for mercy. Wore a parka in the blizzard.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The shadowy, yellow-eyed being in the Box of Chaos.
 - Took the ceremonial dagger and gave the armor of resistance; also gave a healing potion as "my business card."
 - Email: "Gerald1972 at yahoo.com."
 - Struck a Marilyn Monroe pose; plans to take the assassin academy job.
 
-**[[Characters/Doug the Pug|Doug the Pug]]** (Bec). Rolls a plush D20 for the Arbiter (13, then 10), does a booty shake, and is not intimidated by the Arbiter's bark. His throne is a mini Grandmaster throne set higher than the Arbiter's.
+**[[Characters/Doug the Pug|Doug the Pug]]** (Caustic Phoenix). Rolls a plush D20 for the Arbiter (13, then 10), does a booty shake, and is not intimidated by the Arbiter's bark. His throne is a mini Grandmaster throne set higher than the Arbiter's.
 
 **Thomas and Jerry** (goblins). Jerry is a vegetarian (carrots and celery); his mother had bunions. Jerry requested the sky magnet.
 
@@ -183,7 +183,7 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 - The Arbiter is the Grandmaster's "number two" and "last place."
 - The Dread Fortress staffs 203 goblins.
 - **The ground beneath the temple holds many undead, including old champions** (0:07:05).
-- Counterspell was used in the arena for the first time (Arbiter in-world at 1:08:23; Drew repeats it out of character).
+- Counterspell was used in the arena for the first time (Arbiter in-world at 1:08:23; Mudcat repeats it out of character).
 - Fallen champions can be raised afterward. Ahyan was "not expecting to be raised from the dead."
 
 ## Full Round-by-Round
@@ -222,7 +222,7 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 > 27. **0:22:23** Ahyan: "**Alma, we don't have to do this. You can forfeit, you know.**" Alma: "You think I will [forfeit to] you? Never! You just have to kill me!" Ahyan: "**I taught you everything you know, you fool! You don't think I know every one of your spells, your attacks, your strategies?**" Alma: "You don't know everything! I've got this under control." **Ahyan sighs "this deep ancestral sigh."** Grandmaster: "The exhale of a thousand ancients."
 > 28. **0:23:42 — The Box of Chaos** is summoned. It is "a gift of beauty from our acolytes," summoned from another plane. Past sacrifices are recalled: an opponent, a soul, a lock of hair, a treasured weapon, a drop of blood. **The Acolytes grant both champions a hero point** ("chugging that caffeinated drink"). "**the promotion that you're both vying for… don't die with it.**"
 > 29. **0:25:18** The Arbiter reminds her that the magnet is still pending. She wanted to slow-play it: "Oh my gosh, you ruined it… you're in timeout."
-> 30. **0:25:34 — The magnet pulls.** It is now huge, about the size of the medallion set in the arena floor. It is **sleek silver with rings like a tree**, "futuristic looking," and it hums and shakes. Alma has a dagger and elven armor. **Ahyan has a dagger, a small knife, a hammer, manacles and a steel mirror.** "My bones are made of metal, et cetera" (Drew). "You never go without a weapon."
+> 30. **0:25:34 — The magnet pulls.** It is now huge, about the size of the medallion set in the arena floor. It is **sleek silver with rings like a tree**, "futuristic looking," and it hums and shakes. Alma has a dagger and elven armor. **Ahyan has a dagger, a small knife, a hammer, manacles and a steel mirror.** "My bones are made of metal, et cetera" (Mudcat). "You never go without a weapon."
 > 31. **0:27:24** **The held Alma auto-fails and smashes body-first into the magnet in full armor** (5 bludgeoning). **Ahyan keeps their gear, fails the Strength save (12), and is dragged up by their weapons** (2 damage). "The play field is even now." **Both are stuck side by side, 5 ft apart, 10 ft in the air.** Ahyan keeps concentration on Hold Person: "a nice double binding." Alma: "**I'm just, I'm waiting to make my move. This is all, it's part of the plan.**"
 > 32. **0:30:01** The Grandmaster keeps the second chaos event secret and whispers it to the Arbiter. His d20 is a 13: "It could be better, but it could be worse."
 >
@@ -280,7 +280,7 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 > ### New round 1 (in the blizzard)
 > 70. **1:15:59** Alma heads for the light: "**Dimension Door for real this time**," into the temple. Alma: "**It's awfully cold out there in the darkness, isn't it, with all that snow? I know you never really liked snow anyway… The snow always bothered you.**" **Sickening Radiance** covers the whole outer courtyard. Ahyan fails and takes **26 radiant, a level of exhaustion and a dim green glow**. ("That's massive." "That's what she said?" "I'll allow it.") Ahyan stumbles back, nauseated and badly hurt.
 > 71. **1:18:39** **Ahyan misty-steps inside to the edge of the temple behind Alma: "It isn't very nice to treat your elders that way."** They cast **Vampiric Touch** again at 4th level. **Alma counterspells.**
-> 72. **1:19:47 — Time magic.** Ahyan uses **Restore Balance**: they feel the exhaustion flowing through their body and "**almost like turn time back a little inside of their body to before that sickening radiance had arrived**," just for this one check. That cancels the disadvantage, and **Ahyan beats the counterspell (24)**. Arbiter: "Grandmaster, time magic." "**Time is time magic. I love that, that's my thing**" (speaker 02, probably Drew/Arbiter). **Alma takes 16 necrotic and Ahyan regains 16**, leaning on the temple wall to stay upright.
+> 72. **1:19:47 — Time magic.** Ahyan uses **Restore Balance**: they feel the exhaustion flowing through their body and "**almost like turn time back a little inside of their body to before that sickening radiance had arrived**," just for this one check. That cancels the disadvantage, and **Ahyan beats the counterspell (24)**. Arbiter: "Grandmaster, time magic." "**Time is time magic. I love that, that's my thing**" (speaker 02, probably Mudcat/Arbiter). **Alma takes 16 necrotic and Ahyan regains 16**, leaning on the temple wall to stay upright.
 > 73. **1:21:15** Alma keeps concentration, then drops Sickening Radiance anyway.
 > 74. **1:22:12 — Redemption.** **The Arbiter rolls a nat 20: "Redeemed. I don't want to hear it. Suck it, Doug."** As a reward, **the Grandmaster hands him a tiny metal chair "like it belongs in a dollhouse."** "Really? Like this." A coin flip picks Ahyan. **He doesn't even fly down; he throws it like a boomerang. It blasts a hole through the temple ceiling and hits Ahyan in the head for maximum tiny-chair damage (4).** Ahyan: "ow!" "**Is it raining chairs out there?**"
 > 75. **1:23:51** **Ahyan picks up the dollhouse chair, now their one and only weapon.** "This seems to hurt a lot."
@@ -309,8 +309,8 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 > - **1:38:42** Alma hints at something "weird" in their first year ("it wasn't actually a teacher… nevermind"). Ahyan: "Those are secrets for another story." Grandmaster: "**The Diary of Alma.**" (in-character status uncertain)
 >
 > **Out-of-character (creator notes).**
-> - **1:35:47** Drew: one of the most creative matches in the Grandmaster's arena, and "**in now three seasons, it is the first time anyone has ever decided to use Counterspell**."
-> - **1:36:20** Erica was worried when she saw Ahyan's player had the spell too. Drew compares the darkness parting to Avatar.
-> - **1:37:40** Drew jokes he'll homebrew "Vampiric Suck." There are riffs on vampires with a Capri Sun straw.
+> - **1:35:47** Mudcat: one of the most creative matches in the Grandmaster's arena, and "**in now three seasons, it is the first time anyone has ever decided to use Counterspell**."
+> - **1:36:20** Erica was worried when she saw Ahyan's player had the spell too. Mudcat compares the darkness parting to Avatar.
+> - **1:37:40** Mudcat jokes he'll homebrew "Vampiric Suck." There are riffs on vampires with a Capri Sun straw.
 > - **1:39:38** Parting advice. Ahyan's player: "Don't be afraid to get creative with spells and use them in ways that they're not meant to be used." Erica: "don't be afraid to take some major L's early on."
 

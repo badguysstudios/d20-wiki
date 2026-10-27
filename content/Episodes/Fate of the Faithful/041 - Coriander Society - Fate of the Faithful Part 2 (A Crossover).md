@@ -110,7 +110,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Lyrus|Lyrus]]** (Drew). A leader of the Faithful, newly in leadership.
+**[[Characters/Lyrus|Lyrus]]** (Mudcat). A leader of the Faithful, newly in leadership.
 - Daily life: sleeps on his warped work table; eats Frank's food daily, "dead inside."
 - Background:
   - Wanted to be a cartographer; his strict father Orin made him a soldier. He draws the Faithful's maps himself.
@@ -141,13 +141,13 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 
 **[[Characters/Slakura|Slakura]]**. A small bouncing pink slime and blossom spirit, Asena's friend. It speaks Common but chooses not to. It smells floral and can become a bounce pad. Ganyu hungers for it.
 
-**[[Characters/The Seer|The Seer]]** (Drew). An ancient blind white Dragonborn blacksmith with missing teeth and a glowing turquoise crystal warhammer.
+**[[Characters/The Seer|The Seer]]** (Mudcat). An ancient blind white Dragonborn blacksmith with missing teeth and a glowing turquoise crystal warhammer.
 - Sees true natures, past and future, and has prophetic dreams. His sight has been "clouded as of late."
 - Usually roots out moles; found none.
 - Made the replica silver ewer for Lyrus and is forging Chester's knife.
 - Lyrus calls him "that old charlatan" who fakes blindness for sympathy.
 
-**[[Characters/Baptiste|Baptiste]]** (Drew). The Faithful's dagger-man, covered in dozens of daggers. He does stabbing practice until 9–9:30 and must escort guests outside. Flirtatious with John ("I will call you").
+**[[Characters/Baptiste|Baptiste]]** (Mudcat). The Faithful's dagger-man, covered in dozens of daggers. He does stabbing practice until 9–9:30 and must escort guests outside. Flirtatious with John ("I will call you").
 
 **[[Characters/Frank|Frank]]**. The Faithful's cook (the leather-and-pineapple stew).
 
@@ -165,7 +165,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 
 **[[Characters/Ralzamon|Josiah Parsons]]**. Resurrected and glowing blue, merged into Ralzamon. The heroes had set about destroying his cult.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew, vision only). See the vision description (1:32:57). Plans to rid the Void of the Grandmaster. His treachery is not yet public.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat, vision only). See the vision description (1:32:57). Plans to rid the Void of the Grandmaster. His treachery is not yet public.
 
 **[[Characters/Circe|Circe, Master of Magitek]]** (GM). "The most nefarious inventor in the city of Beacon."
 - Gear: ray gun of amazing transformation/transmogrification (patent pending), stupendous size-changing ray, gorgeous goggles of all seeing (truesight), baffling blouse of the elements (fire-proof), jet shoes.
@@ -219,7 +219,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >    - They arrived in **the hanging city of Prexmarin, which floats within the Void surrounding the Dread Fortress**.
 >    - There they met **Lyrus, "an important leader of the Faithful, a surreptitious organization that fights on the Grandmaster's behalf in a shadow war against the Arbiter's inevitable coup."**
 >    - They defeated foes "drawn from all over time and space," some familiar from earlier worlds, and reached the Faithful's home to take a long rest.
-> 2. **0:01:36 — Table talk.** Drew: life is "chaotic, just like inside the Dread Fortress." Pods says her boyfriend calls her "the chaos monster" and she lives "in a box of chaos." The GM explains that **the Box of Chaos in the Dread Fortress is full of magic items, "carefully held out of reach of everybody except during deathmatches."**
+> 2. **0:01:36 — Table talk.** Mudcat: life is "chaotic, just like inside the Dread Fortress." Pods says her boyfriend calls her "the chaos monster" and she lives "in a box of chaos." The GM explains that **the Box of Chaos in the Dread Fortress is full of magic items, "carefully held out of reach of everybody except during deathmatches."**
 >    - The GM announces a giveaway from Dr. Grordbort's (heard as "Grogbort's").
 >    - A planetary romance tangent follows (out of character).
 > 3. **0:04:46** Chat has already played a **malfunction card**. The GM swaps the stream music to something less extreme.
@@ -237,14 +237,14 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >    - Lyrus says he knows "enough magic to get by, but not anything like this."
 > 6. **0:10:03 — Baptiste.** John asks that "dagger person" not bother them overnight. Lyrus: **Baptiste "usually gets tired from all of the stabbing practice around 9, 9:30."**
 >    - The GM notes that John's Magitek phone automatically updates its clock as he moves between parts of the Void.
-> 7. **0:11:00** Thunder rolls in overnight. Weather in the Void: "You should expect anything at any time" (Drew; "like growing up in Missouri"). Chat has been "hard at work. Ruining everything."
+> 7. **0:11:00** Thunder rolls in overnight. Weather in the Void: "You should expect anything at any time" (Mudcat; "like growing up in Missouri"). Chat has been "hard at work. Ruining everything."
 > 8. **0:11:40** John asks about the blind Dragonborn he glimpsed earlier. Lyrus says that wasn't Frank; nobody has asked his name.
 >
 > ### Morning: Doug the Pug and Frank's stew
-> 9. **0:11:59 — Doug the Pug.** Chat plays the Doug the Pug card. Drew's roll comes up 1: **"Today is a bones day."**
+> 9. **0:11:59 — Doug the Pug.** Chat plays the Doug the Pug card. Mudcat's roll comes up 1: **"Today is a bones day."**
 >    - **"The robotic, the cyborg zombie doggo shines his blessings upon you."** The party gains the benefits of a hero's feast for 24 hours.
 >    - The GM adds that even a no-bones day isn't bad, "because self-care is important too."
-> 10. **0:14:41 — Breakfast.** Drew describes the smell, pungent leather "like a baseball glove": **Frank is stirring bits of tanned hide into the cauldron "for their nutritional value. It's high in fiber,"** along with beans and whatever meats he found at the market. There may be a rat that "scurried too close." There is also **pineapple** in it. The meal becomes "pineapple boots" / "the Hawaiian boot."
+> 10. **0:14:41 — Breakfast.** Mudcat describes the smell, pungent leather "like a baseball glove": **Frank is stirring bits of tanned hide into the cauldron "for their nutritional value. It's high in fiber,"** along with beans and whatever meats he found at the market. There may be a rat that "scurried too close." There is also **pineapple** in it. The meal becomes "pineapple boots" / "the Hawaiian boot."
 >     - **John uses prestidigitation to make it taste like steak** and offers the same to Asena.
 >     - **Asena: "I think this tastes great."** She has "a cast iron stomach."
 >     - **Lyrus, defeated and "dead inside," shovels it in without a word**, then goes back for a second bowl.
@@ -264,7 +264,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >     - **Krontaka sends John a pulse of indignation.** If the gun could roll its eyes and pull John back, it would. John feels "something touch my back."
 >     - John defends it: **"Krontaka, Island's Bane as he's also known… forged from the body of an ancient spear and the blood of a slain devil… a good friend, a dear friend."**
 >     - The Seer sees "micro cracks." He has "given up forging firearms. They're too unpredictable."
->     - Table aside (Drew): bronze is a weird metal for a gun. GM: it's hundreds of years old and fine.
+>     - Table aside (Mudcat): bronze is a weird metal for a gun. GM: it's hundreds of years old and fine.
 >     - John: "So it was just an insult." They trade winks, and the Seer winks back.
 > 16. **0:31:35 — Asena.** "You look like a Dargen." Seer: "Do you mean a dragon?… I am a dragonborn." John says Asena is "somewhat of a dragonborn as well."
 >     - **The Seer senses "the nature of a dragon. I do. Though not one from this plane."** Asena: "No, this plane is weird."
@@ -311,7 +311,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >     - Lyrus: **"The Arbiter has not revealed his treachery publicly yet,"** so the common folk won't know. John: "there are holes, and rats hide in holes."
 > 30. **0:59:50 — Kenny described.** "A small goblin, kind of a gambler." "He gambles, but not well." "You would know him if you saw him. He's very obnoxious."
 >     - John taps his ear: he'll stay "within range of our frequency."
-> 31. **1:01:54** Drew on city size: "a fairly mid-sized city… but as with everything in the void, all planes of existence, even though they're in different locations, you can walk one to another as if it's all connected, so theoretically it's infinite." The GM treats it as a metropolis.
+> 31. **1:01:54** Mudcat on city size: "a fairly mid-sized city… but as with everything in the void, all planes of existence, even though they're in different locations, you can walk one to another as if it's all connected, so theoretically it's infinite." The GM treats it as a metropolis.
 > 32. **1:02:33 — Unseen scrying.** John makes a flat Wisdom save: advantage from hero's feast, disadvantage "because of Hawaiian pizza." The GM: "Unless you have the ability to detect invisible scrying sensors, nothing is happening."
 >     - Pods rolls for a **plot twist card** chat played ("that is deployed").
 >
@@ -331,7 +331,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >     - Lyrus wonders whether the detection of their movements has anything to do with Ralzamon. Asena mimes "close to your chest."
 >
 > ### John's investigation
-> 38. **1:11:42** John moves through the rain from alley to alley in disguise after disguise. (Drew: there is no single thieves' guild here, just small bands, street urchins and black-market dealings.) John's checks come in around 30.
+> 38. **1:11:42** John moves through the rain from alley to alley in disguise after disguise. (Mudcat: there is no single thieves' guild here, just small bands, street urchins and black-market dealings.) John's checks come in around 30.
 > 39. **1:12:55 — The silver ewer of the Tumult.** Several people have been asking after **a magical silver ewer lost in the Tumult.**
 >     - **The Tumult is a planar region brought into the Void, made from the body of a dead god or titan, whose veins and blood are ethereal waves of light and mist.**
 >     - **Poured out, the ewer opens an ethereal curtain once a day. It can carry a whole strike team into the Ethereal Plane (and to the inner planes) and back, walking through walls and past defenses** (John's Arcana: natural 20).
@@ -342,13 +342,13 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 > 41. **1:17:33 — No mole.** Nobody in town knows of Ralzamon. John deduces that **Ralzamon's psychic powers, amplified when he arrived, are how the Children of the Void suddenly know everything; the timetables line up exactly.** "So there's no mole, it's just Ralzamon being Ralzamon." GM: "the Arbiter is using him to sniff them out."
 > 42. **1:18:44 — The knock.** John doesn't know the password, so he knocks "Shave and a Haircut." **Baptiste** opens: "Hurry, come in… Who taught you to knock?" John flashes Lyrus's face and winks.
 >     - Baptiste, with dozens of daggers in his belt and under his coat, asks how long the disguise lasts. **John runs a finger up Baptiste's longest dagger and taps the hilt: "Probably about as long as you could stick that within somebody."**
->     - Baptiste: "Very interesting. I will call you." John: "Don't call me, I'll call you." Drew: "playing hard to get, I like it."
+>     - Baptiste: "Very interesting. I will call you." John: "Don't call me, I'll call you." Mudcat: "playing hard to get, I like it."
 > 43. **1:21:09 — The spar.** In the map room, with the table pushed to the walls, **Lyrus has taken off his sword and armor ("just in his pants and bare chest. Get it?")**, pounding his chest: "Go ahead. Shoot me. I can take it… First one's free." (The GM calls for disadvantage on the pun.)
 >     - **John walks in as Asena's smart laser announces "target locked."** Asena: "We did this once, remember? You taught me all those spell things." Lyrus: "I can take it." John sits on a box with his feet up.
 >     - **One burst hits Lyrus in the chest and singes his hair: "That's pretty good. I've seen better."** He doesn't even use his stone's endurance.
 >     - John: "Give him the full haul." Laser: "Fire systems ready… Target locked… Tracking… Pull trigger to fire." Lyrus quickly changes the subject: "Did you learn anything?" Laser: "Deactivating."
 > 44. **1:25:16 — Box of Chaos card.** The GM: the box "is well secured in **the Eastern Stronghold**, so obviously it's not actually here." In battles it gives random magic items, but you must give it something.
->     - Drew: **"Gerald is not picky. It can be literally anything. We've had souls, daggers, blood, cryptocurrency, opponents."** What goes in "doesn't come back out."
+>     - Mudcat: **"Gerald is not picky. It can be literally anything. We've had souls, daggers, blood, cryptocurrency, opponents."** What goes in "doesn't come back out."
 >     - The ruling: **the heroes may sacrifice components or magic items to influence the cat knife's properties.** This is deferred (1:50:18).
 >
 > ### The Soulgaze
@@ -358,7 +358,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 >     - **Both men's eyes swirl into silvery, milky vortexes.** John learns that **the ewer is a replica, not magic, made to swap for the original and keep it out of nefarious hands.** He glimpses the Tumult and pieces of Kenny's secret mission to find it.
 >     - The Seer's sight has been clouded (John may assume by Ralzamon).
 > 47. **1:31:46 — The vision doesn't break.** Because John has felt this power before, and Asena (bound to them) fought Ralzamon in this world, "a new piece of context has been added to the tapestry of fate." **Asena's mind is drawn in too, through her bond with Ralzamon.**
-> 48. **1:32:57 — The Arbiter, seen (Drew).** An enormous chamber with an **icy throne**.
+> 48. **1:32:57 — The Arbiter, seen (Mudcat).** An enormous chamber with an **icy throne**.
 >     - **A large man, taller than Orin**, with **huge, glowing pure-white wings**, clad in **black and white leathers and robes** covered in spikes and skulls. He has a long beard, long black hair, and **eight rings of various colors**.
 >     - He reaches into an opening in space and time, and does it with ease: "like buttering toast."
 > 49. **1:34:09 — Josiah Parsons and Ralzamon.** Beside the Arbiter stands **Josiah Parsons in the flesh, resurrected, his body glowing with blue psychic radiance.**
@@ -401,7 +401,7 @@ The Acolytes offered the Glory of [[Grandmaster Elusia Skypiercer|the Grandmaste
 > 64. **2:00:48** John tells Asena to watch for "a white van." Asena: "I don't think they have cars here." Lyrus: **"There are vehicles of all sorts of types in the void."** Asena: "We'll watch out for white vans."
 >     - Lyrus: "Make sure to lose… Kenny always loses… sometimes he wins, but then he usually gets cheated out of it later." John: "Kenny sucks."
 > 65. **2:04:05 — Inconspicuous.** **Asena walks "normal," which makes it not normal**, with arms stiff at her sides ("T-posing to assert dominance"). **Lyrus puts his hands in imaginary pockets and whistles**: "Mostly I just kind of kick down the door and portal in and kill things." Asena: "I normally prefer a direct approach, but… we can always learn new skills."
-> 66. **2:05:28 — Ninjas.** "Your ninja sense is tingling." Shadows run beneath the bridge and across rooftops, arms held behind them. **More than four of them surround the party.** Drew: "one of them does a sexy clone jutsu."
+> 66. **2:05:28 — Ninjas.** "Your ninja sense is tingling." Shadows run beneath the bridge and across rooftops, arms held behind them. **More than four of them surround the party.** Mudcat: "one of them does a sexy clone jutsu."
 >     - Asena: "You don't have ninjas here, do you?" Lyrus: "Probably." John: "Ninjas are everywhere."
 >     - Asena: "I didn't see them, but I felt them." John hides "in a pile" (two barrels).
 >     - (A table joke about John's "pile" of inspiration: it turns out he has exactly two.)

@@ -117,7 +117,7 @@ At the gate, Nehebka asked whether she should make things "more permanent just t
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Drew)
+**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Mudcat)
 - A massive white polar bear and acolyte of the Grandmaster. He wears the Dread Fortress skull as a belt buckle.
 - Chaos lightning blackens his eyes. He floats like an electromagnet, and his mimicry trait copies an opponent's trait (here, necrotic resistance) through chaos energy.
 - Believes in being a vessel for chaos, not controlling it. He knows the Shadow King's face from his recent return, at the Deathmatches and the Dread Fortress.

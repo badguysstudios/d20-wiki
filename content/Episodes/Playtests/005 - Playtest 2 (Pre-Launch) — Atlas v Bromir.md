@@ -14,8 +14,11 @@ arena: Reaper's Rock, a frozen mountainside
 summary: The warforged Atlas and the wrestler Bromir fought through a blizzard, rock slides and a chasm, then teamed up against the Arbiter's ice elemental. Bromir sacrificed himself to destroy it, Atlas was crowned winner, and the Arbiter secretly snatched Bromir from the abyss.
 tags:
 - episode
+youtube: https://youtu.be/9HVO0CJ1-xc
 canon_order: 5
 ---
+
+[Watch on YouTube](https://youtu.be/9HVO0CJ1-xc)
 
 On the frozen slopes of Reaper's Rock, a towering warforged named **[[Atlas]]** squared off against **[[Bromir]]**, a snow-rubbing, pony-throwing wrestler with boulders for fists. What began as a brawl full of nipple jokes and growth hormones slowly became something stranger: a fight between two [[Champions|champions]] who would rather respect each other than kill each other. It ended with one of the most honorable deaths the arena had seen, and with a secret only [[The Arbiter|the Arbiter]] knew.
 
@@ -121,7 +124,7 @@ The Grandmaster raised a small mountain beneath Atlas and named him winner of Re
 **The dead miners.** Died in the rock slide area earlier; one left a healing potion.
 
 ### Places
-- **Reaper's Rock**: a frozen, snowy mountainside arena; a precipice, a ladder, three braziers, a rock wall, a bottomless chasm under a snow bridge, remains of miners. (Probably the same place as Kirken's Mine from S1E4, per Drew; no mine is named here.)
+- **Reaper's Rock**: a frozen, snowy mountainside arena; a precipice, a ladder, three braziers, a rock wall, a bottomless chasm under a snow bridge, remains of miners. (Probably the same place as Kirken's Mine from S1E4, per Mudcat; no mine is named here.)
 - **The abyss** under Reaper's Rock: Bromir falls past "galaxies and stars."
 
 ### Show details

@@ -168,11 +168,11 @@ Each champion was pulled away to a separate demiplane to train. Isha left with a
 
 **The lamp genie ("weenie," per Dried Blood).** Green smoke in a deceptively sharp gold lamp; he takes payment in blood. He is touchy about being called a shrub or bush, and is a knockoff genie with limited powers. He granted Isha's wish to return to the starting points.
 
-**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Drew). Laid-back ("Just hanging out in the box, dealing chaos"). He collects "all kinds of shit" and is **starting a teeth jar**. When Havoc struck the box he retaliated with a hellish rebuke of pink and purple fire.
+**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Mudcat). Laid-back ("Just hanging out in the box, dealing chaos"). He collects "all kinds of shit" and is **starting a teeth jar**. When Havoc struck the box he retaliated with a hellish rebuke of pink and purple fire.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). Reads Doug monster stories under a blanket. Promises the winner may return home. **Froze both champions mid-blow**, promised Isha her wish, and told Havoc to choose a side. She ordered them sent to separate planes to train.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix). Reads Doug monster stories under a blanket. Promises the winner may return home. **Froze both champions mid-blow**, promised Isha her wish, and told Havoc to choose a side. She ordered them sent to separate planes to train.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). Still a chained prisoner of the Grandmaster. He opens portals by slamming his chains, and has white wings.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). Still a chained prisoner of the Grandmaster. He opens portals by slamming his chains, and has white wings.
 
 **[[Characters/Doug the Pug|Doug the Pug.]]** Scared of the monster book. Per the Arbiter, Doug is "literally a cyborg zombie," which Doug doesn't know. He farted in fear and did a potty dance.
 
@@ -196,14 +196,14 @@ Each champion was pulled away to a separate demiplane to train. Isha left with a
 
 ### Lore statements
 - **The Grandmaster says champions who don't disappoint "may return home."**
-- **Wishes in the arena are dangerous:** a previous wisher was morphed into one body with someone (Dried Blood, Drew).
+- **Wishes in the arena are dangerous:** a previous wisher was morphed into one body with someone (Dried Blood, Mudcat).
 - **Gerald retaliates when the Box of Chaos is attacked.**
 - **The Grandmaster can freeze champions in place and pause a Deathmatch** to continue later.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Dread Fortress throne room
-> 1. **0:00:53** "We have returned to the Dread Fortress! Chaos is home." The Arbiter comes in through the **subterranean entrance**, his **chains still clanking at his ankles and wrists**. Drew interrupts his own narration: "We get it. You have chains. You describe it every single week." The Arbiter: "**I'm still a prisoner.**"
+> 1. **0:00:53** "We have returned to the Dread Fortress! Chaos is home." The Arbiter comes in through the **subterranean entrance**, his **chains still clanking at his ankles and wrists**. Mudcat interrupts his own narration: "We get it. You have chains. You describe it every single week." The Arbiter: "**I'm still a prisoner.**"
 > 2. **0:01:22** The Grandmaster suggests he **bedazzle the chains**, perhaps with real gems from "some treasuries somewhere in the dungeon." The Arbiter: "I'm going to definitely put a pin in that one."
 > 3. **0:02:00** The **throne room** is dark. Only moonlight comes through the windows, every candle is snuffed out, and a cold breeze raises goosebumps. **Elusia sits on her throne under a giant blanket pulled over her head, with Doug the Pug on her lap.** She is reading him an ancient, worn **book of monsters** from woods, deserts and sky. Doug shivers at every page.
 > 4. **0:02:53** She points out a zombie, with sunken undead eyes and a jaw hanging askew. To the Arbiter: "**Come, you're a bit of a monster yourself. Tell Doug about the zombies.** You should know firsthand experience. You look like one." The Arbiter points at Doug, "**who is literally a cyborg zombie**." The Grandmaster covers Doug's ears: "**He doesn't know that.**"
@@ -257,7 +257,7 @@ Each champion was pulled away to a separate demiplane to train. Isha left with a
 >
 > ### Round 2
 > 41. **0:44:11** Isha: "**Havoc, you always were one to run away from your problems**, and here I stand… **Hiding is what kept me alive all these years.**" Havoc: "Then I'm glad you did it, Isha." "You won't be glad for very long."
-> 42. **0:45:05 — The teeth.** Isha goes to the box. Gerald: "What's up?" "Nothing much. What about you?" "Nothing. Just hanging out in the box, dealing chaos." She can't offer a soul, because "**I don't have one because I became a vampire.**" Instead she offers her teeth: "I guess I only need four. **I never got my wisdom teeth out so you can have them.**" **She reaches into her mouth and pulls out her own wisdom teeth.** Gerald: "Perfect. **This will go create my teeth jar.**" Bec wonders whether this makes Gerald a tooth fairy.
+> 42. **0:45:05 — The teeth.** Isha goes to the box. Gerald: "What's up?" "Nothing much. What about you?" "Nothing. Just hanging out in the box, dealing chaos." She can't offer a soul, because "**I don't have one because I became a vampire.**" Instead she offers her teeth: "I guess I only need four. **I never got my wisdom teeth out so you can have them.**" **She reaches into her mouth and pulls out her own wisdom teeth.** Gerald: "Perfect. **This will go create my teeth jar.**" Caustic Phoenix wonders whether this makes Gerald a tooth fairy.
 > 43. **0:47:22** The lid flips open again with a column of magic fire that gives off no heat. Gerald floats over a dagger: "**I found this. I'm not using it.**" It is **Tinderstrike**, an uncommonly sharp flint dagger with **sparks cascading off its edge**, which makes its wielder resistant to fire.
 > 44. **0:49:24** Isha **picks up the gold lamp** and scouts the hut. She sees only curtains, not the barricades behind them; the chimney is on the far side.
 > 45. **0:50:33 — The Molotov.** Isha takes **the tinderbox and an oil-soaked cloth from her explorer's kit** and lights it with Tinderstrike's sparks. "I'm going to smoke you out." In the doorway: "You wanted me to face you, you wanted me to fight you. **I'm going to make you regret it.**" **She throws the Molotov on the ground in front of her and steps through the flames into the house.** The old, dried-out wood starts to catch.
@@ -299,7 +299,7 @@ Each champion was pulled away to a separate demiplane to train. Isha left with a
 > ### The pack
 > 77. **1:40:40** The Arbiter: "You guys want to go somewhere else to kill each other, that's fine by me… **but they're going to want to come too.**" **Dozens of werewolves Havoc recognizes climb onto the rooftops and come out of the alleys.**
 > 79. **1:41:38** Isha: "**Are these the ones you call family now?**" Havoc: "Yes… **They're not evil like we think they are. There was a reason they slaughtered our village. They were hungry. Vampires were chasing them out of hunting territory.**"
-> 80. **1:41:57** Pack: "**We're a pack. You can't leave or lie to us.**" Havoc: "I never thought you'd find out… the girl is not a problem. She is not a threat." Pack (Drew): "**Oh, we know she's not a threat. Because you're going to finish it. Or we will.**"
+> 80. **1:41:57** Pack: "**We're a pack. You can't leave or lie to us.**" Havoc: "I never thought you'd find out… the girl is not a problem. She is not a threat." Pack (Mudcat): "**Oh, we know she's not a threat. Because you're going to finish it. Or we will.**"
 > 81. **1:42:31** Havoc turns back. Isha: "**I'll do it.**" For the first time, **Havoc cries**, and lifts the maul again: "**Isha, I'm sorry.**" Isha: "**Took you long enough.**" Havoc: "**Then let's die together**," and she hauls the maul back to slam it down.
 >
 > ### The freeze
@@ -313,19 +313,19 @@ Each champion was pulled away to a separate demiplane to train. Isha left with a
 > - **2:00:25** **Havoc, for the first time, looks deeply conflicted** as she is pulled away, looking at her werewolf family, who want her to kill the Lycan hunter "that's been stalking all of werewolf kind": "**A blood debt, like I said, Isha, must be paid in blood, but if the brokers are corrupt, why do I swing my maul?**"
 >
 > ### Out of character — creator notes
-> - **1:47:05** Drew: this is **"our first two-parter"**, the first *organic* one; Battle for the Crown was planned as multi-part.
+> - **1:47:05** Mudcat: this is **"our first two-parter"**, the first *organic* one; Battle for the Crown was planned as multi-part.
 > - Connie and Lexi had orbited each other in tabletop for ages but had never played a streamed game together. Both see themselves as story-first players; Lexi calls them both screenwriters.
 > - **Plans that changed:**
->   - **The town originally held hidden hunters** (Bec: "Are they vampire hunters?"). The perception rolls were checking whether the champions' noise drew them.
->   - The plan was a later map change back to the square with the hunters as a chaos event. **The fire made Bec drop it** ("we don't need people interfering").
->   - **The wolf pack reveal was decided mid-show**, with Bec and Drew typing in the background.
-> - **The genie (Bec, a creator ruling on lore):** "It's actually a **knockoff genie**… he's called a **weenie** instead." He has limited powers: ask for a cool weapon and you'd get a balloon weapon; ask for a companion and you'd get a stuffed animal. Lexi: sending them back to the first initiative spots was the most magic he's spent in years. Bec: "he's gonna go back in there and sleep for a very long time." Bec felt bad that the genie disrupted the mood.
-> - **Drew: "the last time somebody tried to get some sort of wish granted in the arena, they ended up morphed together in the same body."** (Bec: it would have become a psychic battle; Lexi: "the get along shirt.")
-> - Bec worried werewolf v vampire is a familiar tale, but praised the fresh relationship.
+>   - **The town originally held hidden hunters** (Caustic Phoenix: "Are they vampire hunters?"). The perception rolls were checking whether the champions' noise drew them.
+>   - The plan was a later map change back to the square with the hunters as a chaos event. **The fire made Caustic Phoenix drop it** ("we don't need people interfering").
+>   - **The wolf pack reveal was decided mid-show**, with Caustic Phoenix and Mudcat typing in the background.
+> - **The genie (Caustic Phoenix, a creator ruling on lore):** "It's actually a **knockoff genie**… he's called a **weenie** instead." He has limited powers: ask for a cool weapon and you'd get a balloon weapon; ask for a companion and you'd get a stuffed animal. Lexi: sending them back to the first initiative spots was the most magic he's spent in years. Caustic Phoenix: "he's gonna go back in there and sleep for a very long time." Caustic Phoenix felt bad that the genie disrupted the mood.
+> - **Mudcat: "the last time somebody tried to get some sort of wish granted in the arena, they ended up morphed together in the same body."** (Caustic Phoenix: it would have become a psychic battle; Lexi: "the get along shirt.")
+> - Caustic Phoenix worried werewolf v vampire is a familiar tale, but praised the fresh relationship.
 > - **Inspiration:** Lexi mentions **Darren Shan's Cirque du Freak** and recent vampires-and-werewolves talk. They went for conflict between iconic monsters made personal. Connie: "Let's make this lesbian drama."
 > - **Plans for part 2:**
 >   - Connie: she expected a one-shot, hence the heavy exposition. In part 2, Havoc must choose between "this love that they thought they lost and this new family they found that their love hates", and the pack did kill their village.
 >   - Lexi: Isha "is not a good person"; she killed many werewolves and "probably still doesn't see that killing those other werewolves was bad." She is "almost stunned," waiting for Havoc's choice to push her. Both see their characters as **neutral evil**.
->   - Bec: the werewolves have been an "easy otherization" for Isha, but they are Havoc's family. Bec closes: "We're going to reveal more in episode the blood feud two."
-> - Drew notes it's odd that nobody died, then asks for final words.
+>   - Caustic Phoenix: the werewolves have been an "easy otherization" for Isha, but they are Havoc's family. Caustic Phoenix closes: "We're going to reveal more in episode the blood feud two."
+> - Mudcat notes it's odd that nobody died, then asks for final words.
 

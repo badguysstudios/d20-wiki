@@ -149,7 +149,7 @@ The Arbiter kept his word. He brought Diamond Joe to a large room full of scrap 
 
 **Honey Boo Boo**. Milliac's conjured polar bear. The Arbiter's chaos event duplicated it, giving **"Honey Boo Boo Prime"** (killed by Lightning Bolt) and the copy (killed by the fart tornado).
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Has a secret lab in the Dread Fortress catacombs.** It holds potions, specimens in jars, and a book of plans.
 - **Monologues about "phase three" and "This entire castle will be mine."** He hid it all from the Grandmaster.
 - Handles the vendors (the lemonade guy, blue raspberry slushies).
@@ -157,7 +157,7 @@ The Arbiter kept his word. He brought Diamond Joe to a large room full of scrap 
 - Refused to dance for the Grandmaster, though she says he does the Macarena well.
 - **Secretly revived Milliac.**
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Champions flyers as a recruiting tool.
 - Gave the acolytes satchels of black powder.
 - Owns **Doug the Pug** ("boneless").
@@ -195,7 +195,7 @@ The Arbiter kept his word. He brought Diamond Joe to a large room full of scrap 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Arbiter's lab
-> 1. **0:00:20** Drew sets the scene deep inside the **Dread Fortress**. They go past "the Grandmaster's Barrow" [spelling uncertain], past the hearths, halls and merriment, and down into the **dungeons and catacombs**, where **the Arbiter keeps his lab**. It is dark, lit by wall sconces. Beakers and glassware hold liquids and potions, some boiling and moving, some still. Jars hold unfamiliar creatures preserved in formaldehyde and other fluids.
+> 1. **0:00:20** Mudcat sets the scene deep inside the **Dread Fortress**. They go past "the Grandmaster's Barrow" [spelling uncertain], past the hearths, halls and merriment, and down into the **dungeons and catacombs**, where **the Arbiter keeps his lab**. It is dark, lit by wall sconces. Beakers and glassware hold liquids and potions, some boiling and moving, some still. Jars hold unfamiliar creatures preserved in formaldehyde and other fluids.
 > 2. **0:01:12 — The Arbiter's scheme.** Hunched over a table, the Arbiter reads a book feverishly, scribbles notes and swirls potions. "**And then phase three is going to be… Yes… This is going to work! My time is coming! This entire castle will be mine.** The power. All of it. The fame. The glory. The prestige. The women. Well, we can worry about that later."
 > 3. **0:02:01** Heels clack down the halls from far away, echoing through the catacombs "almost as a bit of a warning sign." The Grandmaster calls "Arbiter!" before she appears: "What are you doing down here?"
 > 4. **0:02:29 — The cover-up.** Just before she enters, **the Arbiter slams the book shut and waves his arm over the table, making many of the contraptions vanish.** He claims he was checking that things were prepped for the Deathmatch: back-end work, talking to the vendors, "the lemonade guy." The GM adds "**the blue raspberry slushies**," and he confirms they are "in effect for today."
@@ -302,7 +302,7 @@ The Arbiter kept his word. He brought Diamond Joe to a large room full of scrap 
 > 82. **1:53:33** Both fail. "**We just see two polar bears like flying up in the air, their legs flailing.**" They're blown 10 ft up and slammed down. With fall damage and double damage, **the second Honey Boo Boo is destroyed and Milliac is knocked out of bear form, alive but barely.** GM: "It smells terrible right now… **this is pie farts.**"
 > 83. **1:55:21 — Milliac's last stand.** Milliac spends his hero point: "**Milliac doesn't go out like this.**" **"In honor of Honey Boo Boo,"** he uses **Mold Earth** to gather every fragment of black powder into the shape of a flaming bear and drop it like a fireball on the whole area, himself included.
 > 84. **1:56:26 — The black-powder bear.** GM: **the powder sifts out of every barrel and clay pot into a fuzzy, gigantic black bear, its eyes shimmering from specks of dust.** It roars, and Milliac roars for it. **It has a little nub of a tail that works as a lighter.** The tail fizzes as it rampages forward, and **the bear bomb lands in the middle.** Joe reacts with **Absorb Elements**. Arbiter: "I'm the bear hammer."
-> 85. **1:58:13** GM: five d12, because "there's a lot that you're pulling from… Not enough were destroyed before this," then doubled. **Milliac saves and takes half, which drops him to dying.** Drew rolls Joe's save for him because Joe's Foundry is reloading ("Sorry, I failed you"). Joe fails, but **Absorb Elements halves it and he survives.** GM: "a heck of a way to go out."
+> 85. **1:58:13** GM: five d12, because "there's a lot that you're pulling from… Not enough were destroyed before this," then doubled. **Milliac saves and takes half, which drops him to dying.** Mudcat rolls Joe's save for him because Joe's Foundry is reloading ("Sorry, I failed you"). Joe fails, but **Absorb Elements halves it and he survives.** GM: "a heck of a way to go out."
 > 86. **2:00:08 — The lesson.** Joe looks down at the unconscious Milliac: "**this, ladies and gentlemen, is one of the key problems of going when you bring the bear back.**" Milliac: "**Oh, never go full bareback.**" Joe: "**Always, always use protection. That's why I always carry Absorb Elements.**" He adds: "The FDA has not approved [Absorb Elements] as a concept. Off-label uses may apply."
 >
 > ### Aftermath
@@ -313,7 +313,7 @@ The Arbiter kept his word. He brought Diamond Joe to a large room full of scrap 
 > 91. **2:03:27 — The final words.** Joe: "**All right, but can I get a bit of a handjob while I'm at it, huh?**" **The Grandmaster drops his hand and he falls back down to the ground.** "**Sometimes you ask for too much.** Welcome and good night."
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - **Lore drop (Ramji, stated "for lore purposes"; treat as Dried Blood canon pending Drew):** after the match **the Arbiter takes Diamond Joe to where Steely Dan is: "a large room full of a lot of scrap metal and junk,"** and Joe is free to sort through it for Steely Dan's parts. Drew: "**He's in here somewhere.**" Bec: "You've done it once. Might as well do it again." (So Joe can rebuild Steely Dan.)
+> - **Lore drop (Ramji, stated "for lore purposes"; treat as Dried Blood canon pending Mudcat):** after the match **the Arbiter takes Diamond Joe to where Steely Dan is: "a large room full of a lot of scrap metal and junk,"** and Joe is free to sort through it for Steely Dan's parts. Mudcat: "**He's in here somewhere.**" Caustic Phoenix: "You've done it once. Might as well do it again." (So Joe can rebuild Steely Dan.)
 > - Ramji: Diamond Joe "will probably have forgotten his win about 30 seconds from now and be searching around going why am I here again."
 > - **In-character farewells (Dried Blood):**
 >   - Milliac: "**Milliac, I had a grand time, and always remember… Use protection when dealing with fire damage.**"

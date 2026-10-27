@@ -177,9 +177,9 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
   - Served as her steed and lover: carried her, ran hand in hand with her, dove to take fire for her.
 - **The Arbiter's claim:** "I invented Gerald."
 - **Fate:** erased from Veronica's mind and arm.
-- (Bec calls the box's flames "he." The Box itself rolled away in the sandstorm.)
+- (Caustic Phoenix calls the box's flames "he." The Box itself rolled away in the sandstorm.)
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - Tells a false bee fact.
 - Rolls poorly to the GM's disappointment and feuds with Doug the Pug.
 - Unleashes the sandstorm.
@@ -191,7 +191,7 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 - Was eating nachos.
 - Has wings.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Has taken up **Zumba**. She "hasn't picked up her bow in a long time."
 - **Declared Sunday Deathmatch Day.**
 - Has acquired the bazaar land, which needs renovation.
@@ -339,7 +339,7 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 >     - GM: "How did we not see this coming?" Arbiter: "I'm a believer now."
 > 35. **0:31:31 — Veronica's friendly approach.** Veronica walks up unarmed, dancing too ("Am I doing this right?"). She suggests Rosa try the box herself, and pats the bee costume's shoulder like an "old pal."
 >     - Her stealth is 13. Rosa's insight is another nat 20: "She sees the vileness behind your actions." Arbiter: "She sees God in me."
->     - A line follows: "I'm gonna swing my ass around and I'm gonna swing my dagger in your direction." It's labeled as Bec, but is probably Rosa (speaker uncertain).
+>     - A line follows: "I'm gonna swing my ass around and I'm gonna swing my dagger in your direction." It's labeled as Caustic Phoenix, but is probably Rosa (speaker uncertain).
 > 36. **0:33:33 — Tagging Rosa.** Veronica drops the pretense. "Touch to touch… tip to tip… Just the tip."
 >     - Static from the fuzzy bee costume had caught on her fingers when she patted it. She casts **Shocking Grasp** and rolls a **natural 20**.
 >     - **Little blue sparks pass the "it" to Rosa, with a little whisper: "it."** Rosa: "Ow!" Veronica: "it's not about the damage, it's about… the little love tap."
@@ -367,12 +367,12 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 >     - The box's interest gives her +2.
 >     - Veronica: "These must be some really complicated nuts."
 > 44. **0:46:51 — The Ring of Evasion.** A second fiery hand offers **a Ring of Evasion** with three charges.
->     - GM: "**He liked it, so he put a ring on it.**" Bec credits the joke to Tigertron in chat.
+>     - GM: "**He liked it, so he put a ring on it.**" Caustic Phoenix credits the joke to Tigertron in chat.
 >     - Veronica: "Guys, can we wrap this up? **I got a hot date later.**"
 >     - The box spits her out, and she faintly hears "**call me.**" She finger-guns as she puts the ring on.
 > 45. **0:48:07 — Rosa's prize.** Rosa sacrificed her opponent, which is "a first and rather grand," so she rolls with advantage.
 >     - She gets **an Ioun Stone of Absorption**: a pale lavender stone that lifts and orbits her head and can cancel spells cast at her.
->     - Drew cuts it to two uses. The GM: once spent, it can be thrown, or worn as a necklace or headpiece.
+>     - Mudcat cuts it to two uses. The GM: once spent, it can be thrown, or worn as a necklace or headpiece.
 >     - Veronica: "**We can have matching rings.**" The GM offers a jewelry-making session at the tables.
 > 46. **0:51:44** Rosa: "How was it?" Veronica: "You tied these knots all wrong." Rosa: "I got you in there, didn't I?"
 > 47. **0:52:16 — Tag goes to the box.** The GM rules that shoving Veronica in passed "it" to her.
@@ -409,7 +409,7 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 >     - Later (1:10:43) the GM jokes that Henry has bulked up "only in the cheeks," and Veronica imagines "Machine gun Henry" spitting seeds and nuts.
 >
 > ### Round 4
-> 58. **1:08:05 — The bee cannon.** Rosa, mounted on her bee, summons **a ball of bees in her hands and slingshots it at Veronica**: Drew rules it her sling cannon, "a bee cannon." It's a glancing hit. GM: "This is what I like, pain."
+> 58. **1:08:05 — The bee cannon.** Rosa, mounted on her bee, summons **a ball of bees in her hands and slingshots it at Veronica**: Mudcat rules it her sling cannon, "a bee cannon." It's a glancing hit. GM: "This is what I like, pain."
 > 59. **1:10:13 — The Talons card.** Rosa draws from the Deck of Many Things and pulls **the Talons**: every magic item she carries disintegrates.
 >     - **Her Ioun stone disintegrates, and the Deck itself, an artifact, vanishes.**
 >     - Rosa: "But I'm not a giant bee, so it's okay." The bee illusion falters for a moment and she realizes it's a horse, then she goes back to believing.
@@ -434,7 +434,7 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 >     - It lands and the oil explodes. Veronica jumps clear of most of it.
 > 66. **1:23:10 — Gerald's dive.** **Gerald does a slow-motion dive to take the fire for her.** Mid-dive he stops and "realizes that he's made of fire": "never mind."
 >     - Veronica: "**You look good, babe. Hot, even.**"
-> 67. **1:24:24** Rosa flies her bee closer. Someone makes the "Bzzz" sound effect (speaker uncertain; the "Juilliard" reply is Drew). The GM: "You're a natural bee." Arbiter: "**That's why I went to Juilliard.**"
+> 67. **1:24:24** Rosa flies her bee closer. Someone makes the "Bzzz" sound effect (speaker uncertain; the "Juilliard" reply is Mudcat). The GM: "You're a natural bee." Arbiter: "**That's why I went to Juilliard.**"
 > 68. **1:25:12 — "Time we finish this."** Veronica: "**You know, darling, it's been a lot of fun dancing around each other. But I think it's time we finish this.**"
 >     - She pats Gerald ("thanks, babe") and walks through the embers.
 >     - She **plucks a strand of her hair like a string; it coalesces into a Ray of Frost**, which she hurls at Rosa as she draws her rapier.
@@ -542,12 +542,12 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 > **Out of character (creator notes):**
 > - Both players are "very sweaty." The music during the show included "Sandstorm."
 > - **Veronica's planned arc:** convince her opponent she was on their side, attack "the other people" together, then kill the opponent once their health was low. She almost did it when both were brought up top; Rosa was at 13 HP. She didn't because "that's sad," and Rosa was "in her happy little bee costume."
-> - Rosa's player forgot halfling Lucky (rerolling nat 1s). Bec: not playing optimized is fine; "it always adds to the story." The player has ADHD and finds tracking features hard.
-> - Drew had to work out "bee damage" on the fly. Insect Swarm would have been easier. Rosa is a **rogue**; the player "did some rogue stuff once."
-> - Bec and Drew had hoped Rosa would pick Gerald too, for "two Geralds on the field."
-> - **Drew on the ending:** the Arbiter can't kill them or the Grandmaster would be pissed, so he asked himself "what can I do to really get under their skin." The charm DC was 21.
-> - **Drew on stats:** the Arbiter and Grandmaster are "modified bosses," based on level 20 with lair actions. "We've had the one shot go through where they've had to deal with the Arbiter." The Arbiter "has some crazy stuff I didn't use."
+> - Rosa's player forgot halfling Lucky (rerolling nat 1s). Caustic Phoenix: not playing optimized is fine; "it always adds to the story." The player has ADHD and finds tracking features hard.
+> - Mudcat had to work out "bee damage" on the fly. Insect Swarm would have been easier. Rosa is a **rogue**; the player "did some rogue stuff once."
+> - Caustic Phoenix and Mudcat had hoped Rosa would pick Gerald too, for "two Geralds on the field."
+> - **Mudcat on the ending:** the Arbiter can't kill them or the Grandmaster would be pissed, so he asked himself "what can I do to really get under their skin." The charm DC was 21.
+> - **Mudcat on stats:** the Arbiter and Grandmaster are "modified bosses," based on level 20 with lair actions. "We've had the one shot go through where they've had to deal with the Arbiter." The Arbiter "has some crazy stuff I didn't use."
 > - Veronica keeps the Ring of Evasion ("who is this from?"). Rosa has nothing left but "the power of friendship… and bees."
-> - The Deck: Drew expected something crazy (fighting Death, unimaginable wealth); "I just lost it all."
-> - Player advice (Rosa's player): "**you can never play your character wrong.**" Bec: race and class "should never limit how you want to create your character."
+> - The Deck: Mudcat expected something crazy (fighting Death, unimaginable wealth); "I just lost it all."
+> - Player advice (Rosa's player): "**you can never play your character wrong.**" Caustic Phoenix: race and class "should never limit how you want to create your character."
 

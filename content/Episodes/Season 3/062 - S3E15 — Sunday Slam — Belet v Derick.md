@@ -119,17 +119,17 @@ After the fight the Arbiter revealed that the Dread Fortress is proudly pro-unio
 - **Wore his brother Larry's armor**; Larry "was much better at this… He was a fighter."
 - **In this episode:** got Gerald's +3 blunderbuss, and was given +2 AC by the Arbiter out of pity. Killed by Belet; to be remembered with hippo cookies.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Believes in procedure: business is done only on business days, 9 to 5, with agendas. Plans to **abolish daylight savings time on the plane on Monday**.
 - Threw mud at Derick. Promises medical insurance, a retirement fund, a gym membership and PTO.
 - Proposed hippo steaks, then retracted it for hippo cookies.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Clanks chains while wandering the fortress on Sunday nights. Makes champions sign release forms.
 - Knows the feeling of everyone trying to kill him.
 - Took pity on Derick (+2 AC). Rolled a nat 1 and "cast modify memory" on the crowd.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). Lives in the Box of Chaos; yellow eyes and shadowy fingers.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). Lives in the Box of Chaos; yellow eyes and shadowy fingers.
 - Wanted to see Les Mis and took Belet's coupons.
 - Got high on Derick's pipe weed and his eyes went red. Fired the blunderbuss by accident.
 - Drifted off on the smoke "to Les Mis"; expected back with a souvenir cup, T-shirt and flag.
@@ -203,10 +203,10 @@ After the fight the Arbiter revealed that the Dread Fortress is proudly pro-unio
 >     - Belet's squire is **Shala**, "People who do not speak my language pronounce his name as Charlie." He is in the stands wearing a T-shirt with her face on it.
 >     - **She rescued him from "a small town known as Greenest"**, which had been "pretty much destroyed." She told the scrawny kid he could be super buff and fight dragons. **He learns sword fighting from her, but mostly shines her armor.**
 >     - **She picked him because he has a big nose like hers**: "you got to join the big nose club."
->     - Behind Shala, a group of other big-nosed people cheer: **the Big Nose Club**. "It's a support group. It's a movement." Bec: it has been gaining momentum on social media and **holds meetings every Tuesday at 6 p.m.** Belet: smaller noses are welcome too, "If you feel like it's big for you."
+>     - Behind Shala, a group of other big-nosed people cheer: **the Big Nose Club**. "It's a support group. It's a movement." Caustic Phoenix: it has been gaining momentum on social media and **holds meetings every Tuesday at 6 p.m.** Belet: smaller noses are welcome too, "If you feel like it's big for you."
 > 28. **0:28:52** "Oh, that's right. I'm playing D&D, not just talking shit." Belet gives Derick **"the eyeballs"** (intimidation 15). Derick has seen "a few in my time" and gives them right back.
 > 29. **0:29:48 — Derick's turn.** **Derick pulls the javelin out of his chest plate.** He raises his lance to the sky ("**Give me power**") and has already forgotten Belet's name. Belet: "Do we need a name tag system for this show or something?"
-> 30. **0:30:32 — The teacup.** He casts **spiritual weapon**, which takes the shape of **a giant cup of tea**: metal, oversized, "decorated with the finest of filigree," inlaid platinum. Drew has no teacup token and uses a hammer.
+> 30. **0:30:32 — The teacup.** He casts **spiritual weapon**, which takes the shape of **a giant cup of tea**: metal, oversized, "decorated with the finest of filigree," inlaid platinum. Mudcat has no teacup token and uses a hammer.
 > 31. **0:31:39 — Spill the tea.** Belet invents a rule: "**If you're gonna attack me with a teacup, you have to spill some tea about you.**" The Grandmaster upholds it ("Everyone knows that rule," says the Arbiter). Derick has no tea: "**I left my tea on the ship. I figured I'd be back before brunch.**" The Grandmaster: "If you live, you will be."
 > 32. **0:32:27** Instead she asks his favorite color. "**Bronze, of course.**" The Grandmaster: "Ugh, okay, yeah, that's disgusting." Belet: "**Bronze, third place color?**" The Grandmaster: "you're not winning tonight." Derick: "We will regret those words."
 > 33. **0:32:56** "Spiritual weapon, ho!" The teacup misses. Derick clears the barricade (athletics 17).
@@ -268,21 +268,21 @@ After the fight the Arbiter revealed that the Dread Fortress is proudly pro-unio
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **Lore drop (tone between in- and out-of-character; flagged):**
-> - **1:35:25 Drew:** "**At the Dread Fortress, we do have several unions. We have a chinchillas union. There's a goblin union.** There may be one other union… we're a pro union at the Dread Fortress." Bec adds that the unions "are healthy and advocate for their individuals. So that's why we have so many good benefits." Drew: "**The leader of the chinchilla union is kind of a dick though.**"
-> - **1:34:27 Bec**, continuing the PTO joke about Gerald: "**we do have a great PTO program, so Belet, you will get advantage of that**":
+> - **1:35:25 Mudcat:** "**At the Dread Fortress, we do have several unions. We have a chinchillas union. There's a goblin union.** There may be one other union… we're a pro union at the Dread Fortress." Caustic Phoenix adds that the unions "are healthy and advocate for their individuals. So that's why we have so many good benefits." Mudcat: "**The leader of the chinchilla union is kind of a dick though.**"
+> - **1:34:27 Caustic Phoenix**, continuing the PTO joke about Gerald: "**we do have a great PTO program, so Belet, you will get advantage of that**":
 >   - at least three extra days each week;
 >   - an extra-long weekend once a month;
 >   - a required two weeks off at some point in the year.
->   - Friday: "I should hope that I would get two weeks off after getting shot in the fucking gut." Bec: "You still have that splinter too."
+>   - Friday: "I should hope that I would get two weeks off after getting shot in the fucking gut." Caustic Phoenix: "You still have that splinter too."
 >
 > **Creator notes (out-of-character):**
 > - Friday: fighters don't scale without magic items, and D&D is "totally not balanced for a PvP." She likes improvising with the environment, and generally doesn't play casters.
-> - Drew: flipping the cart was brilliant, "**we haven't had a hero point to flip a cart onto an old man yet so that's a first for the show.**"
+> - Mudcat: flipping the cart was brilliant, "**we haven't had a hero point to flip a cart onto an old man yet so that's a first for the show.**"
 > - Dan: Derick was purely reactive. He burned prayer of healing and all his Lay on Hands in two rounds, and the gun was "one last grand hurrah." He forgot to add +3 to the blunderbuss damage. He blew his early nat 20 on a ranged attack, so he couldn't smite.
-> - Drew: the show plays at level 10 and very non-traditionally to stay balanced. "You have a plan and it just goes out the fucking window."
-> - Drew on the storm giant potion: "I didn't give shit… Gerald gave… I honored the dice."
+> - Mudcat: the show plays at level 10 and very non-traditionally to stay balanced. "You have a plan and it just goes out the fucking window."
+> - Mudcat on the storm giant potion: "I didn't give shit… Gerald gave… I honored the dice."
 > - Dan pictured the blunderbuss like the three-barrel World of Warcraft one.
-> - **Dan meant to play the heel.** Derick was capitalism against Belet's unionizing; he wanted Derick to be rich and hated, and to want to kick the dog. Drew: "It's hard to play the heel when you're just getting the [crap] kicked out of you."
-> - Bec: "I like that Belet's character comes from a rich background but only offered coupons." Friday: "I'm the rebel rich kid."
+> - **Dan meant to play the heel.** Derick was capitalism against Belet's unionizing; he wanted Derick to be rich and hated, and to want to kick the dog. Mudcat: "It's hard to play the heel when you're just getting the [crap] kicked out of you."
+> - Caustic Phoenix: "I like that Belet's character comes from a rich background but only offered coupons." Friday: "I'm the rebel rich kid."
 > - Final words. Dan: "I'm the nat one guy… if you roll a one in real life, know that there's some way… you can turn it around." Friday: "if you want to DM, you should try DMing."
 

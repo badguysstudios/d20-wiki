@@ -154,14 +154,14 @@ After the fight, the Arbiter congratulated Granny on actually not dying this tim
 - Has "beef" with Thea. Enjoyed beating up an old person.
 - **In this episode:** died in the lava with a thumbs-up.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat).
 - Has white wings and keeps Egyptian cotton sheets on his bed. Thea decorated his room for Halloween.
 - **Says he created the Box of Chaos and that "it contains part of my soul."**
 - Says he created Thea out of a worm. He removes stars from her forehead and threatens her paycheck.
 - **Rips Thea's wings off** after the laxative corn dogs.
 - Wants Thea to do the taxes. Has Thea roll dice "for no reason at all" (he says).
 
-**[[Characters/Thea|Thea]]** (Bec). An imp the Lord of Fate "created out of a worm."
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). An imp the Lord of Fate "created out of a worm."
 - **Body:**
   - Has wings, pink feet, a very low body temperature (icy hands) and stars on her forehead.
   - Says she trained as a small worm lifting d4s up to d20s.
@@ -174,7 +174,7 @@ After the fight, the Arbiter congratulated Granny on actually not dying this tim
 - **Allegiances:** sided openly with Granny; was thrown at her by Teddy.
 - **After the break:** lost teeth (her lisp, she says) and her wings, which she had to duct tape back on.
 
-**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew). Yellow eyes, grasping hands ("gimme, gimme, gimme").
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Mudcat). Yellow eyes, grasping hands ("gimme, gimme, gimme").
 - Keeps sacrificed heads on a shelf "next to the other ones."
 - "I would never do this to my grandma."
 - Had never been given a cookie: "**I'm a piece of a soul trapped in a box.**" It feasted on Granny's cookies and milk.
@@ -481,15 +481,15 @@ After the fight, the Arbiter congratulated Granny on actually not dying this tim
 >     - "Oh my God. I'm done… **Welcome and good night to D20 Deathmatch!**"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew opens: episode 8 of Season 5, "Granny Edith returning versus our new challenger, Teddy Oso. We got **Chunk**, we got **Lubuffin**." To Luboffin: "**You actually didn't die this time.**"
-> - Luboffin says the tide turned once she remembered the baking puns. Bec suggests making a pun her hero move. Drew: the dice "oddly did seem" to shift after the puns started.
-> - **Chunk admits he isn't an energy drinker, a motorcyclist, or a gun owner**, and has never beaten up an old person: "I'm just a really good actor." Drew: "Well, now I just feel fucking lied to."
-> - Chunk wanted to be "gentle with Granny" at first, so he went for her kneecaps instead of her face. His favorite moment was the *image* of flipping the shotgun in the air and catching it backwards. Drew: "The execution was a whole different story."
-> - Luboffin enjoyed living on the fatigue edge again. Drew calls fatigue "the nightmare of our system." Teddy's low Instinct gave him fewer actions, so half his turns went to clearing fatigue.
-> - **Lore numbers are now canon (creator ruling):** Teddy killed "somewhere between 7 and 12,000" zombies; Granny has 69 great great grandchildren. Drew: "if you come back and play again as these characters, these are now lore numbers and you're responsible for remembering them." Bec: "This shit is canon now." Drew: "These are all canon, whoops."
+> - Mudcat opens: episode 8 of Season 5, "Granny Edith returning versus our new challenger, Teddy Oso. We got **Chunk**, we got **Lubuffin**." To Luboffin: "**You actually didn't die this time.**"
+> - Luboffin says the tide turned once she remembered the baking puns. Caustic Phoenix suggests making a pun her hero move. Mudcat: the dice "oddly did seem" to shift after the puns started.
+> - **Chunk admits he isn't an energy drinker, a motorcyclist, or a gun owner**, and has never beaten up an old person: "I'm just a really good actor." Mudcat: "Well, now I just feel fucking lied to."
+> - Chunk wanted to be "gentle with Granny" at first, so he went for her kneecaps instead of her face. His favorite moment was the *image* of flipping the shotgun in the air and catching it backwards. Mudcat: "The execution was a whole different story."
+> - Luboffin enjoyed living on the fatigue edge again. Mudcat calls fatigue "the nightmare of our system." Teddy's low Instinct gave him fewer actions, so half his turns went to clearing fatigue.
+> - **Lore numbers are now canon (creator ruling):** Teddy killed "somewhere between 7 and 12,000" zombies; Granny has 69 great great grandchildren. Mudcat: "if you come back and play again as these characters, these are now lore numbers and you're responsible for remembering them." Caustic Phoenix: "This shit is canon now." Mudcat: "These are all canon, whoops."
 > - Luboffin says it's fine if Granny forgets everything. She tweeted the wrong name that day: "Randy Evelyn's coming to the battle."
-> - Bec's TTRPG tip: play a forgetful character or a habitual liar.
+> - Caustic Phoenix's TTRPG tip: play a forgetful character or a habitual liar.
 > - Last words. The speakers are invited to answer "as yourself or as your character", so their canon status is uncertain:
 >   - Granny/Luboffin: "**Good things come to those who bake.**"
->   - Teddy/Chunk: "Confidence is important… sometimes it's okay to put it aside and not be so overconfident." Bec: "Lose the confidence." Teddy: "Come in feeling terrible for yourself… Smart boy. Best policy."
+>   - Teddy/Chunk: "Confidence is important… sometimes it's okay to put it aside and not be so overconfident." Caustic Phoenix: "Lose the confidence." Teddy: "Come in feeling terrible for yourself… Smart boy. Best policy."
 

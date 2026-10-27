@@ -125,21 +125,21 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 - **Has been in the sands longer than the others and brought them to the city (Mortorios).** "That's all I knew."
 - Gave a torch, rations and a shield to Sky; received a **+2 longsword with holy damage**.
 
-**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Mudcat)
 - Travels with the party.
 - **Surrendered to Sky by throwing down a ceremonial dagger, then urged Sky to kill the party.** Sky: "There's something wrong with you."
 - Noticed the library's dampening fade and stayed silent.
 - **Deciphered and worked the Oasis mechanism with Toddleheim's help** while hasted.
 - **Used the orrery as a one-person portal and abandoned the party: "Nothing personal, the Grandmaster has to be saved."** Sky's reflection showed Sky picking Vythorn's pocket.
 
-**[[Characters/Sky|Sky]]** (Drew; also spelled Skye)
+**[[Characters/Sky|Sky]]** (Mudcat; also spelled Skye)
 - Young-looking leader of the outlanders, who call themselves "free thinkers." Wields a glaive. Commands an army that includes an Orc Raider, a wizard, dragonborn and mages.
 - Black-market dealer in artifacts and soul gems. Lives in the hollow soul-gem cavern; has been there a few decades.
 - **Distrusts the queen; calls sand sickness a lie and the city's walls a prison.** "Not really the book learning type."
 - **Doesn't like leading**, and refuses calls to invade Mortorios.
 - **The Sword's reflection shows him as a pickpocket**, always thinking about finding things.
 
-**The kobold shopkeeper** (Drew; possibly named Cyrus)
+**The kobold shopkeeper** (Mudcat; possibly named Cyrus)
 - Disorganized junk-pile shop near Sky's hall.
 - Bites gems to test them. Flush with soul gems; wants unique items to resell.
 - Has heard of the Golden Lady but never seen it.
@@ -190,7 +190,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 > 1. **0:00:00** The file opens mid-fight against Sky's band in the sands outside the library. An enemy stab at Toddleheim misses. The players admit they're "not really in a position to be taunting."
 > 2. **0:00:54 — Gravity Sinkhole.** The enemy **wizard** uses Careful Spell to spare his allies and casts **Gravity Sinkhole** in the middle of the party. A **void orb** forms; everyone feels heavy and is sucked toward the point. **The Arbiter fails the save, and so do Flynry and Toddleheim.** Cerys and Elianna resist the pull and take half damage. **Flynry and Toddleheim go down.** Flynry, Toddleheim and the Arbiter are dragged together into the centre.
 > 3. **0:03:49 — Hellish Rebuke.** Elianna, left on 3 HP, Hellish Rebukes the wizard. He fails the save and takes 12 fire. He answers with an ominous "Hmm."
-> 4. **0:04:58** Flynry's player complains that even with the Arbiter on their side, every enemy still has the Arbiter's snark. Drew: "**The day you realize that the Arbiter's just me.**" (table talk)
+> 4. **0:04:58** Flynry's player complains that even with the Arbiter on their side, every enemy still has the Arbiter's snark. Mudcat: "**The day you realize that the Arbiter's just me.**" (table talk)
 > 5. **0:05:13 — The Orc Raider.** An **Orc Raider** with a greatsword cuts down **Cerys** and then **Elianna**. The table shouts "TPK!"
 > 6. **0:06:46 — The Arbiter surrenders.** **Sky, the leader**, points his **glaive** at Vythorn: "Doesn't have to be this way. You could just surrender and you can live. And we'll take your stuff." Stuck in the gravity void, **the Arbiter looks around at the bodies and shrugs**, since he "doesn't really have a dog in this fight." He has no real weapons, so he **ceremonially takes out a dagger and throws it down: "You win."** All the final blows were non-lethal.
 > 7. **0:08:18 — Vythorn tries to get the party killed.** Vythorn tells Sky: "If you want my stuff, you can take it. But… **You sure you don't want to kill them? They're very troublesome. I've dealt with them before.**" Sky looks at him: "**There's something wrong with you.**" The party is unconscious and never learns of this. Flynry's player later confirms at 0:20:09 that Sky never told them.
@@ -215,7 +215,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 >
 > ### "Take me to the heart" — the hollow soul gem
 > 20. **0:21:26** In the green blowing sand under the celestial sky, Sky halts the army and whispers. Flynry hears it with a perception roll of 23: "**Take me to the heart.**" This is not a portal like Motorios's. Instead **the sand cracks, parts and falls into stairs** leading down into a chasm, then through an archway into **a huge hollowed-out cavern of green and blue gems and crystals, like being inside a giant hollow crystal.**
-> 21. **0:23:10 — It's a soul gem.** History rolls reveal that its colour and texture are **almost exactly those of the soul gems in the city**, only far larger. Flynry asks whether it matches the gem **Locket** is made of: "That one's similar, but not the same." Drew confirms "**the soul gems are dead people**," and this one looks exactly the same.
+> 21. **0:23:10 — It's a soul gem.** History rolls reveal that its colour and texture are **almost exactly those of the soul gems in the city**, only far larger. Flynry asks whether it matches the gem **Locket** is made of: "That one's similar, but not the same." Mudcat confirms "**the soul gems are dead people**," and this one looks exactly the same.
 > 22. **0:24:19 — The town.** **Hundreds of thousands of people** live there. There are hanging and stilt structures, **pulley elevators**, landing zones and crystal being mined and hauled: "an underground mine town… a working town." Sky leads them over hanging bridges to **his residence carved into the crystal wall**: a long hall with cushions, tables and food, where a few dozen people follow them in.
 > 23. **0:26:16 — Long rest.** The party rests and eats. **Sky lounges on a beanbag-like cushion**, picking at a plate. **Vythorn stands at the side and won't sit.** Sky: "Do you drink food? I don't know what you like, but I'm sure we have it."
 > 24. **0:27:53** Flynry: "**Admittedly, this is a decidedly warmer reception than we've received in the city.**" Sky: "**It's a nice place, I guess, if you don't know any better. But it's just another prison.**" He adds: "Here, you're free to come and go," but it takes a lot of currency to run.
@@ -243,7 +243,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 > 42. **0:56:57** They rest and fit their new items overnight. Flynry wakes disheveled and comfortable after not sleeping on the ground. Sky: "**Time to go, or have you decided to stay?**" Cerys: "We will still be on our way." Sky again: "You sure you want to leave? It's a nice place." "**Just looking to give folks a home, I suppose.**"
 > 43. **0:58:17 — Sky's problems.** "**The problem with being in charge is that people always want something from you.**" His people want to live on the surface behind walls, want food and clothing, and "**some of them are begging me to invade Mortorios and overthrow it. I don't really have any interest in that.**"
 > 44. **0:59:20 — Why exiles.** Elianna asks why his people aren't allowed in the city. "**Thrown out for speaking a little too loudly against the monarchy. Trying to keep a few extra soul gems for ourself. Making waves generally… many of us just don't have a place within the walls. We don't serve a function.**"
-> 45. **0:59:52** Elianna asks whether he's thought of leading them within the walls. "**I don't really like leading these people.**" She asks: "**Are you happy?**" Drew notes Elianna asks every NPC this, and her player says she's very empathetic. Sky: "Does it really matter here? … **at least here we get to be in this giant soul gem.**"
+> 45. **0:59:52** Elianna asks whether he's thought of leading them within the walls. "**I don't really like leading these people.**" She asks: "**Are you happy?**" Mudcat notes Elianna asks every NPC this, and her player says she's very empathetic. Sky: "Does it really matter here? … **at least here we get to be in this giant soul gem.**"
 > 46. **1:00:42 — The sword's reflection.** As they did before with a guard, **Flynry turns his back and angles his sword (the mirror) so Elianna sees Sky's reflection.** In it, Sky looks no younger; he's already young-looking. But as he walks past Vythorn, **the reflection shows Sky reaching into Vythorn's pocket and pulling something out.** In reality, that isn't happening. It is a glimpse of his urges: **he's always thinking about finding things. "Nothing sinister… he's kind of a pickpocket."** **Elianna pulls her shirt over the orrery** and checks her pockets: "Well, if we find any places that you can scrounge through, we'll just drop by and let you know."
 > 47. **1:02:54 — The polished gem.** Sky: "The door's open, or the theater's open, or I don't know." He leads them to **a small cave where part of the soul gem has been highly polished** into a reflective surface, whether by people or by nature he isn't sure. "If you're looking for the Oasis, this is the only way I know how to get there… **The stories of the living world, I think, are just tales.**"
 > 48. **1:04:03** Flynry checks for resonance between the orrery, his sword and the mirror. There is none, but the surface clouds and swirls behind their reflections. Sky backs away: "**I hope we meet again and hopefully the next time you're not passing through here as soul gems.**" Cerys: "Ha! Funny. I hope not." (Table: "He's so pushy… He's totally Hondo.")
@@ -264,7 +264,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 > 58. **1:17:53 — Haste.** **Cerys casts Haste on Vythorn** "to make him work faster." Initiative is rolled.
 >
 > ### Fight — the Oasis guardians
-> 59. **1:19:17 — Rain.** Elianna goes first. She casts **Create Water as a 30-ft cube of rain over the party**; Drew rules the fire elementals have disadvantage in it. She then summons her **spiritual weapon**.
+> 59. **1:19:17 — Rain.** Elianna goes first. She casts **Create Water as a 30-ft cube of rain over the party**; Mudcat rules the fire elementals have disadvantage in it. She then summons her **spiritual weapon**.
 > 60. **1:21:29** The walled-off elemental pounds the Mold Earth wall, but **the earth is volcanic, so its fire barely cracks it.**
 > 61. **1:22:19 — Comprehend Languages.** **Toddleheim casts Comprehend Languages**, touches the rings and ground, and **shouts out words and phrases to Vythorn**, giving him advantage. He then tries **Sleep** on the far Rakshasa. It "**didn't even break stride**" (it has more than 20 HP).
 > 62. **1:25:27** An elemental's two touch attacks miss Cerys. Toddleheim: "**Too slow, baby!**"
@@ -272,7 +272,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 > 64. **1:28:21 — The rings break the bridges.** Vythorn's Arcana and Insight checks, with Toddleheim's help, make **the rings around the bridges spin so fast they smash pieces of the bridges**. **The elementals and Rakshasa on the far ends fall into the lava below** and are knocked out of the fight, not killed. The central platform is cut off.
 > 65. **1:29:58** An elemental already on the platform attacks Vythorn and Toddleheim. **The heavy rain sears it for 28.** It hits Vythorn again.
 > 66. **1:31:24 — Abjure Enemy.** Cerys uses **Channel Divinity: Abjure Enemy**. **The elemental is frightened, its speed drops to 0, and it is stuck in the rain.**
-> 67. **1:32:21 — "Halt."** Elianna casts **Command ("Halt")** on the other two. **It fails because fire elementals don't speak Common, Infernal, Abyssal or Celestial.** "They stop for a second and then they start moving again." Her **spiritual weapon** then deals force damage and finishes the frightened middle elemental. Flynry reacts with **Opportunist** and an unarmed strike; Drew rules his fists count as magical.
+> 67. **1:32:21 — "Halt."** Elianna casts **Command ("Halt")** on the other two. **It fails because fire elementals don't speak Common, Infernal, Abyssal or Celestial.** "They stop for a second and then they start moving again." Her **spiritual weapon** then deals force damage and finishes the frightened middle elemental. Flynry reacts with **Opportunist** and an unarmed strike; Mudcat rules his fists count as magical.
 > 68. **1:36:52 — Cause Fear and Acid Splash.** Toddleheim casts **Cause Fear** on the two elementals by Cerys and Flynry. Both fail, so they can't move closer to him. **Acid Splash** deals 8 ("It is effective").
 > 69. **1:40:23** A frightened elemental hits Flynry and Cerys. **They don't catch fire because they're in the rain cloud.**
 > 70. **1:41:41** Flynry's **Inflict Wounds** rolls a **natural 1**; he follows with Flurry of Blows.
@@ -280,15 +280,15 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 > 72. **1:44:58 — The giant's rock.** **A flaming giant rock comes hurtling at them, thrown by a giant.** Toddleheim has the lowest Dex save and is targeted. **Flynry rolls a natural 20, tosses Toddleheim out of the way and takes the rock square on the chin.**
 > 73. **1:46:47** The giant lumbers through the lava toward them. Cerys: "**You have got to get us out of here, man. By Thorn.**" Vythorn: "**I'm working as fast as I can. Just give me one moment. Just hold him off for a few seconds.**" Flynry plants his sword in the shattered, burning rock and looks back at Vythorn: "**This is it.**"
 > 74. **1:47:11 — Boss fight.** The rain douses the rock's flames. **The giant reaches over the side of the platform, its top half towering like a raid boss, and brings its greatsword down on Cerys.**
-> 75. **1:48:07 — Radiant consumption.** Cerys has everyone step back, **"goes full supernova" and blazes radiant light while screaming.** The 10-ft aura turns out to do only 5 damage, and it costs an action. Elianna's player: "It's like David and Goliath, if Goliath won." Flynry's player: "one of those balloons you let go of." **Drew rules the initial burst does 5d6 "because that was way too cool to be this lame"**, for 20 total. Her +2 longsword then misses.
+> 75. **1:48:07 — Radiant consumption.** Cerys has everyone step back, **"goes full supernova" and blazes radiant light while screaming.** The 10-ft aura turns out to do only 5 damage, and it costs an action. Elianna's player: "It's like David and Goliath, if Goliath won." Flynry's player: "one of those balloons you let go of." **Mudcat rules the initial burst does 5d6 "because that was way too cool to be this lame"**, for 20 total. Her +2 longsword then misses.
 > 76. **1:51:11** Elianna: "**Hey man, Vythorn, how's it looking?**" Vythorn: "**I am almost there. I'm almost there.**"
 > 77. **1:51:32 — Banishment and Reduce fail.**
->     - **Elianna casts Banishment at 4th level.** The giant has +5 Charisma and saves. Flynry's player: "Was he just picking up ladies at the giant bar?" Drew: "**Just because he's big doesn't mean he's not cool.**" She hits it with her spiritual weapon and steps behind it: "Yeah, okay, well, hurry up."
+>     - **Elianna casts Banishment at 4th level.** The giant has +5 Charisma and saves. Flynry's player: "Was he just picking up ladies at the giant bar?" Mudcat: "**Just because he's big doesn't mean he's not cool.**" She hits it with her spiritual weapon and steps behind it: "Yeah, okay, well, hurry up."
 >     - **Toddleheim tries Enlarge/Reduce.** The giant's Con is +10 and it saves ("He'd have been under the platform"). Toddleheim adds a **Magic Missile** for 17.
 > 78. **1:55:06** Flynry's **Stunning Strike** through his greatsword attack doesn't stun. His follow-up blows land.
 > 79. **1:56:52** The giant swings at Cerys and misses, then **cleaves Flynry for 23**: "I need some loving here." The table notes the new periapt is about to be useful.
 > 80. **1:57:57** Vythorn's checks are high: "**That thing is looking pretty damn complete**… a matter of a few more moves." There are "like five brinks." Cerys **provokes the giant with her radiant light** to keep its focus on her.
-> 81. **1:59:26** Vythorn turns to Elianna while fiddling with the orrery: "**Your friends are going to die.**" An uncertain voice adds: "[Due?] thanks to you. Can't you heal them?" Drew has Elianna roll a secret d20; the players hate it.
+> 81. **1:59:26** Vythorn turns to Elianna while fiddling with the orrery: "**Your friends are going to die.**" An uncertain voice adds: "[Due?] thanks to you. Can't you heal them?" Mudcat has Elianna roll a secret d20; the players hate it.
 > 82. **2:00:46 — Cure Wounds and Sanctuary.** Elianna, "squishy," reluctantly **runs up to the mangled Flynry**. She heals him with **Cure Wounds at 3rd level** for 21 ("Oh, those hands are feeling nice"), then casts **Sanctuary** on him as a bonus action. Flynry's player: "Flynry sits down… starts writing a thank you note. **Dear Anna, thank you so much for the sanctuary.**"
 >
 > ### The betrayal

@@ -145,7 +145,7 @@ Then came a darker scene. Still falling through the timeless abyss, Mcswiggins f
   - Fell into the abyss.
   - **In Dried Blood, the Arbiter caught him with a plunger and took him to his lair, "I'm going to have a use for you very soon."**
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The creature in the Box of Chaos: yellow eyes, shadowy claws.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The creature in the Box of Chaos: yellow eyes, shadowy claws.
 - Talks.
 - **Ate both bags of Snoop's mushrooms, and his eyes turned to yellow spirals.**
 - Rummages through a cluttered box interior.
@@ -157,16 +157,16 @@ Then came a darker scene. Still falling through the timeless abyss, Mcswiggins f
 
 **The Aeorian Reverser.** Summoned out of the lost plane's hole. It nearly crit Dog, threw Mcswiggins, and was killed by Snoop.
 
-**[[Characters/Doug the Pug|Doug the Pug]]** (Bec). Sits beside the Grandmaster on a fluffy pillow and pedestal and rolls a **green plushy D20** when the Arbiter rolls badly. He "glows with ethereal ability"; his chair floats higher than the Arbiter's head. He nursed the retired lion. Snoop calls him a "non-dog" and a "very cute lizard"; the Arbiter says Doug "rolled like shit" last week.
+**[[Characters/Doug the Pug|Doug the Pug]]** (Caustic Phoenix). Sits beside the Grandmaster on a fluffy pillow and pedestal and rolls a **green plushy D20** when the Arbiter rolls badly. He "glows with ethereal ability"; his chair floats higher than the Arbiter's head. He nursed the retired lion. Snoop calls him a "non-dog" and a "very cute lizard"; the Arbiter says Doug "rolled like shit" last week.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Wears dead men's shoes: "Italian leather" tap-like shoes, then corpse sandals; **a fine collection of shoes from all the people he's killed.**
 - Hit Mcswiggins with a metal chair.
 - **Bet on Snoop.**
 - Enforces "this is not a toilet… we have HR."
 - Plunged into the abyss, and in Dried Blood took Mcswiggins to his lair.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Throne room in the Dread Fortress; very large bedazzled crown.
 - Declared Tuesday screaming night and made the shoe rule ("insurance").
 - Chose the lost plane, chaired Snoop, and retired the lion.
@@ -311,13 +311,13 @@ Then came a darker scene. Still falling through the timeless abyss, Mcswiggins f
 > - **1:38:11 — Snoop's sports interview.** "You go in with a game plan. The coach has always got your back… The plan was from the beginning, **take some shrooms**. After that, really just feel out how it was going to go. **Turn invisible, run away a whole lot.** We gave 110%… we're looking for the championship this year… I hope to be back real soon."
 > - **1:38:59** On the lions: "We really just didn't get much practice in. They were new to the team… And then Mcswiggins coming out of left field, immediately dunking one of those lions into Gerald. And here I thought Gerald and I were friends… **Gerald owes me, like, at least insurance money payout on that.**" He has to "go out onto the scouting grounds and find another companion."
 > - **1:39:48 — Mcswiggins.** "**First of all, I thought his name was Greg**" (Gerald). "Fuck that dude anyway." He thinks it should have been a true 1v1, "but I've never been a Sir Loser, so I'm not gonna start now. I think the little guy was scrappy." "**For about 30 minutes there, I thought I was hallucinating on mushrooms. Then I remembered that this was in fact real and I didn't take the mushrooms.**" The GM invites him to take one now: "You've got time for eternity."
-> - **1:41:14 — The Arbiter catches Mcswiggins (canon scene, narrated by Drew).** Mcswiggins has been falling "for a while" through space and time, where time loses meaning. **He takes the mushrooms** and freaks out, and sees **an angel-like figure above: the Arbiter catching up, flaring his wings, plunger in hand.** Mcswiggins: "**Mom?**" Arbiter: "No. I mean, what's your mom look like? **Is she hot?**" "I don't know. She's a nice lady." "That's good enough for me." **He sticks the plunger to Mcswiggins' head, opens a portal and flies him into his lair. He sits him down, hands him a tankard of ale and says: "You stay right there. I'm going to have a use for you very soon."** The scene fades to black. ("Mystery. Magic.")
+> - **1:41:14 — The Arbiter catches Mcswiggins (canon scene, narrated by Mudcat).** Mcswiggins has been falling "for a while" through space and time, where time loses meaning. **He takes the mushrooms** and freaks out, and sees **an angel-like figure above: the Arbiter catching up, flaring his wings, plunger in hand.** Mcswiggins: "**Mom?**" Arbiter: "No. I mean, what's your mom look like? **Is she hot?**" "I don't know. She's a nice lady." "That's good enough for me." **He sticks the plunger to Mcswiggins' head, opens a portal and flies him into his lair. He sits him down, hands him a tankard of ale and says: "You stay right there. I'm going to have a use for you very soon."** The scene fades to black. ("Mystery. Magic.")
 > - **1:45:16 — Snoop's favorite moment** (in character): the menagerie plan, with Dog "doing the work." The shield shove "came to me in a bit of a vision… I'm gonna hit this man like a truck… Dog had to assist… **and long live the king, the king is now me.**" GM: "You can have a crown, but it just won't be as big as mine." Snoop: "My head is significantly smaller."
 > - **1:46:18 — Mcswiggins' favorite moment:** "the mutual moment where we were both like, fuck that thing and wherever it came from. And in our own way, sort of teamed up against it." Snoop praises the maneuver where Mcswiggins "got up around his neck to distract him." (This is a generous retelling of the failed mount.) Arbiter: "Great tag team."
 > - **1:47:38** Snoop's parting message to the Acolytes (in-character register): "**fucking stop with the farting. It's disgusting… Most of you just do not need to be eating nachos, and the cheese is really ruining your digestive system.**"
 >
 > ### Out of character — creator notes
-> - **1:42:26 — The Aeorian Reverser.** Drew found it on D&D Beyond that day while looking through monsters, because "Reverser" sounds like a wrestler name. It's from **Explorer's Guide to Wildemount**. Its stat details as read: a large monstrosity created by experimentation; doesn't age; lusts for violence and attacks any creature it sees, but never harms its own kind; perfect recall of its life. It has magic resistance and a bite/claw multiattack. Its **reversal reaction** cancels healing within 30 ft and deals force damage instead. Bec: "It reverses you inside out"; "God of War on these creatures." Robot: "Where the fuck is Aeoria?" Rob: "would have been pretty sweet if I could ride it."
+> - **1:42:26 — The Aeorian Reverser.** Mudcat found it on D&D Beyond that day while looking through monsters, because "Reverser" sounds like a wrestler name. It's from **Explorer's Guide to Wildemount**. Its stat details as read: a large monstrosity created by experimentation; doesn't age; lusts for violence and attacks any creature it sees, but never harms its own kind; perfect recall of its life. It has magic resistance and a bite/claw multiattack. Its **reversal reaction** cancels healing within 30 ft and deals force damage instead. Caustic Phoenix: "It reverses you inside out"; "God of War on these creatures." Robot: "Where the fuck is Aeoria?" Rob: "would have been pretty sweet if I could ride it."
 > - Robot is learning D&D Beyond as he plays this character ("I don't know what this character does, I'll be honest").
 > - Plugs: RunawayRobot_ (Twitter runawayrobot_) is a hireable DM. bonus_stage_rob ("your cool bisexual vacation dad," Twitter/Twitch/Instagram bonus_stage_rob) is a writer, producer, TTRPG personality and GM with a "say yes" mentality (Pathfinder, Monster of the Week). Rob and Robot have played together before ("so glad you could play with me again").
 

@@ -154,7 +154,7 @@ After the show, the Arbiter went to place Baron's headstone on the island and qu
 - **Dried Blood epilogue:** the Arbiter took Baron's soul from the Box to his laboratory and put it in a metal automaton/golem for his army.
 - **The GM's favor:** she bet on him and granted him Bless.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Candy:** hoards half-price post-Valentine's candy behind her throne.
 - **Family:** "**I laid my father to rest like 800 years ago.**" She jokes about her therapist.
 - **[[Characters/Doug the Pug|Doug:]]** defends him as "the cutest thing."
@@ -162,7 +162,7 @@ After the show, the Arbiter went to place Baron's headstone on the island and qu
 - **Vacation:** wants a beach holiday.
 - **Remembrance:** gave the speech on remembering every champion's name.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Duties:** does the auditing and cold-calls champions.
 - **Appearance:** wears **black-and-white referee robes and black Chuck Taylors**.
 - **[[Characters/Doug the Pug|Doug:]]** feuds with him ("A monstrous dog").
@@ -421,27 +421,27 @@ After the show, the Arbiter went to place Baron's headstone on the island and qu
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > ### In-world content (canon, Dried Blood)
-> - **1:48:09 — Drew's epilogue** (in-world narration, Dried Blood). Pesh begins: "[the clone] of Baron Voltágè is probably property of Grandmaster and Arbiter now." Drew then narrates:
+> - **1:48:09 — Mudcat's epilogue** (in-world narration, Dried Blood). Pesh begins: "[the clone] of Baron Voltágè is probably property of Grandmaster and Arbiter now." Mudcat then narrates:
 >   - "**as the Arbiter goes to place your headstone on the island of the Grandmaster**,
 >   - "He's going to **retrieve the Box of Chaos** and he's going to **take it back to his laboratory** where he is going to **take your soul and put it into a metal like automaton… golem… for his army**.
 >   - "So he's going to take your black soul and shove it into this metallic body that he's created."
-> - Bec: "You may have to fight yourself in the future."
+> - Caustic Phoenix: "You may have to fight yourself in the future."
 > - Dread: "technically you became a father at that point… you were the first soul and then there's the second soul."
 >
 > ### Out-of-character (creator notes)
-> - Pesh played Baron as a "**Saturday morning cartoon villain trope**." Bec saw chat calling him "**young Frankenstein energy, crazy scientist**."
-> - Pesh was also on a special-event **2v2 episode** that aired on Dread's channel, not D20's, where he did a **Macho Man Randy Savage** voice the whole time. Drew didn't realize Pesh is **Australian**. Pesh: "I used to live in Canada, so I could blend in."
+> - Pesh played Baron as a "**Saturday morning cartoon villain trope**." Caustic Phoenix saw chat calling him "**young Frankenstein energy, crazy scientist**."
+> - Pesh was also on a special-event **2v2 episode** that aired on Dread's channel, not D20's, where he did a **Macho Man Randy Savage** voice the whole time. Mudcat didn't realize Pesh is **Australian**. Pesh: "I used to live in Canada, so I could blend in."
 > - This was Dread's first time. He decided on a cleric, hit the random name generator, and got "Dadrith," so the character became all about dad stuff. Quote: "you can easily design a character to win, but it's better to design a character that's going to be fun and entertaining."
 > - Pesh built Baron with high AC and saves to tank "five or six attacks every turn." It was his first level 11 artificer. **Clone was near the top of the alphabetical list of 8th-level spells** in a D&D Beyond tab, and showed "bright green."
-> - **Box of Chaos history (Drew):** "we've had people use their own blood, cut off an antler, give up weapons or… precious mementos. **We've never had someone jump into the box and sacrifice their own soul.**"
-> - Dread on Dadrith's family: "**I actually want to know who Dadrith's child is… How many kids he actually has… that secret backstory that you'll find out later.**" Bec: "more details to come."
+> - **Box of Chaos history (Mudcat):** "we've had people use their own blood, cut off an antler, give up weapons or… precious mementos. **We've never had someone jump into the box and sacrifice their own soul.**"
+> - Dread on Dadrith's family: "**I actually want to know who Dadrith's child is… How many kids he actually has… that secret backstory that you'll find out later.**" Caustic Phoenix: "more details to come."
 > - Dread had planned Divine Intervention for drama, on himself or on Baron.
-> - Favorite moment for Bec and Drew: Baron's "not because you told me to" exchange. Bec expected a Terminator-style moment from the shark clone; Drew compared it to an after-credits *Pirates of the Caribbean* scene.
-> - Dread: "two will enter, one will leave… no, two entered and two left." Bec: "it's very cool that that match isn't over." "And it isn't."
+> - Favorite moment for Caustic Phoenix and Mudcat: Baron's "not because you told me to" exchange. Caustic Phoenix expected a Terminator-style moment from the shark clone; Mudcat compared it to an after-credits *Pirates of the Caribbean* scene.
+> - Dread: "two will enter, one will leave… no, two entered and two left." Caustic Phoenix: "it's very cool that that match isn't over." "And it isn't."
 > - **Pesh: Baron chose clone "out of spite… Won't let him know he saved my life."**
 > - Dread may homebrew a **"Domain of Parenthood"** cleric subclass.
-> - Bec on the candy roleplay: "is it role play if it's inspired by real events… I did not buy that much chocolate, I bought two bags."
+> - Caustic Phoenix on the candy roleplay: "is it role play if it's inspired by real events… I did not buy that much chocolate, I bought two bags."
 > - Final words:
->   - Dread: "**Be good. Have fun. And, you know, be home by curfew… You can break curfew if you want. I'm not your dad.**" (Bec: "Are you trying to be a cool dad now?")
+>   - Dread: "**Be good. Have fun. And, you know, be home by curfew… You can break curfew if you want. I'm not your dad.**" (Caustic Phoenix: "Are you trying to be a cool dad now?")
 >   - Pesh: "everyone just be good to each other… Han shot first."
 

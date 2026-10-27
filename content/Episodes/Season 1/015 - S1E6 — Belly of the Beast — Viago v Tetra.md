@@ -148,7 +148,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 - Rolled many natural 20s.
 - **Fate:** defeated by Viago's kick. **The Arbiter fed her body to his pet gelatinous cube instead of keeping her for his army.**
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Humors the GM at rock, paper, scissors.
 - Does her laundry (laundry day follows the deathmatch).
 - Is paid in leftover cold popcorn, gets to boss goblins, and "takes payment in blood."
@@ -158,7 +158,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 - Bet on Viago and placed "late fight wagers."
 - Says there is a dentist on staff.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Plays rock, paper, scissors with her goblins and cheats.
 - "I've lived many lives." 13 is one of her favorite numbers.
 - Owns the Siren's Nautilus.
@@ -168,7 +168,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 
 **Elusia's goblins**: at least eight, lined up to lose to her. One always picks rock.
 
-**The gelatinous cube**: lives in the pit in the ship's stomach. It is **the Arbiter's "pet,"** and it ate Tetra's body. The GM froze it briefly. Drew called it a "Bombastic gelatinous cube."
+**The gelatinous cube**: lives in the pit in the ship's stomach. It is **the Arbiter's "pet,"** and it ate Tetra's body. The GM froze it briefly. Mudcat called it a "Bombastic gelatinous cube."
 
 **The mummified sailors**: the "somewhat living" bodies of people the ship swallowed, lining the stomach walls. One tried to grab Tetra.
 
@@ -200,7 +200,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — rock, paper, scissors in the throne room
-> 1. **0:00:02** In **the subterranean castle of the Grandmaster**, Elusia sits on her throne **playing rock, paper, scissors with her goblins**, and is not doing well. Bec takes over the story. **Elusia glares at the goblins, and they change their hands so that they lose to her.** "I win every time. No one ever beats me at this. I'm the best there is in this entire fortress."
+> 1. **0:00:02** In **the subterranean castle of the Grandmaster**, Elusia sits on her throne **playing rock, paper, scissors with her goblins**, and is not doing well. Caustic Phoenix takes over the story. **Elusia glares at the goblins, and they change their hands so that they lose to her.** "I win every time. No one ever beats me at this. I'm the best there is in this entire fortress."
 > 2. The goblins file past one after another. **One goblin hangs his head and goes to the back of the line behind the other seven**, so she can beat each of them in turn. She explains that there is strategy to it: "You have to go fast and you have to out-think them… You have to know who your opponent is."
 > 3. **0:01:05 — The Arbiter is challenged.** He says he is "merely an observer to your glorious rock-paper-scissors technique." She calls him up to a spot at her feet anyway. He asks whether it's "one, two, three, and then shoot." She says no: "Why would you have the extra time?"
 > 4. **0:01:49** They play several rounds. The first is a tie ("a nice warm-up"). Then she accuses him of being slower and of cheating, and smacks his hand away. She says he was "a whole two and a half seconds slower."
@@ -290,7 +290,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 >     - **The rusty chair gives way, and Viago's head goes through the seat. He now wears it as a necklace.** "**Think of this as a collar. If you can break free, perhaps you're as wild as you deserve to be.**" "That chaos is for you."
 >     - Tetra: "Very well done. And Inquisitor, good manners." (She calls the Arbiter "Inquisitor" several times; see below.)
 > 32. **0:38:09 — The neck twist.** Tetra **grabs the chair around the wolf's neck and twists its head.** It hits (26).
->     - **0:38:39** Drew narrates (tagged 02): **"You watch as you snap that neck, it growls in pain, and in your hands you watch as the seven-foot-tall orc, Viago…"** The wild shape ends, and Viago is back in his own body.
+>     - **0:38:39** Mudcat narrates (tagged 02): **"You watch as you snap that neck, it growls in pain, and in your hands you watch as the seven-foot-tall orc, Viago…"** The wild shape ends, and Viago is back in his own body.
 >     - Tetra: "Oof, I may have made a terrible misstep… **Somehow you've gotten uglier from a dog.**"
 >     - Arbiter: "He's not smart enough to have feelings."
 > 33. **0:39:43** Tetra: "Let's try to make you a little more prettier with that face." Her claw misses.
@@ -365,7 +365,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 >     - He heals himself for "two little points of pokey pokey."
 > 57. **1:16:03** GM: "It is a bit of a hungry and devouring sort of location."
 > 58. **1:16:39 — Stomach acid.** Con saves. **Tetra rolls a nat 20** and is safe this round and the next. **Viago takes 1 acid damage as the acid seeps through his boots.**
->     - Viago: "**You think that's acid? Try that.**" **He spits on the stomach**, and Drew notes the stomach takes one point of damage.
+>     - Viago: "**You think that's acid? Try that.**" **He spits on the stomach**, and Mudcat notes the stomach takes one point of damage.
 >     - Viago: "We're both gonna get digested here, you know that, right?" Tetra: "You will get digested. I am going to dance my way out of this gross stomach."
 >
 > ### Round 7 — the shove and the grapple
@@ -441,7 +441,7 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 >     - "Welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew: "I definitely got to learn to push the audio buttons better."
+> - Mudcat: "I definitely got to learn to push the audio buttons better."
 > - **In-ish character (Dried Blood):**
 >   - Viago (2:56:49 area, 1:56:49): "I did the right stretching and I ate all the good vegetables before the match. And I did an ample amount of trash talking."
 >   - Tetra (1:57:47): "He was being quite the big asshole… **I let him have it, because sometimes every dog needs their day.**"
@@ -449,9 +449,9 @@ Viago credited his win to proper stretching, eating all the good vegetables and 
 >   - Viago's parting words (2:03:06): "Trust your gut. And if anybody was just trying to run away from you, you stop them in their tracks."
 > - **On the kick:** Viago's player thought Tetra had more left. He was trying to insult her into fighting back.
 > - **The nat 20s:** Mike says he has never rolled so many in his life: "It's the only reason I survived as long as I did."
-> - **Stun rules:** Drew says the show has homebrew rules for Stunning Strike in 1v1 PvP so no one is stun-locked. They never came into play.
+> - **Stun rules:** Mudcat says the show has homebrew rules for Stunning Strike in 1v1 PvP so no one is stun-locked. They never came into play.
 > - **The map:** from Animated Dungeon Maps (Patreon). Its animation (the beings reaching out) startled Mike. Mike's prep sheet showed a fire-themed starting page, so he didn't expect "a beast under the ocean… you put a cat in water."
-> - **Water:** Viago's player hoped the room would flood ("octopus, activate"). His backup wild shapes were a giant octopus or a giant toad. Mike had a line ready: "You're just one arm short of my nine lives." **Drew: "If we ever reuse this map, that's happening."**
-> - **Viago's race (player-stated):** in the player's homebrew world, Viago is an **Orochiath, half orc and half Goliath**. Both cultures usually despise each other, but this line was "bred through love": the founders were shunned by their clans and started their own. On this show he is played as half-orc (half human). Bec: "The spirit's there though."
+> - **Water:** Viago's player hoped the room would flood ("octopus, activate"). His backup wild shapes were a giant octopus or a giant toad. Mike had a line ready: "You're just one arm short of my nine lives." **Mudcat: "If we ever reuse this map, that's happening."**
+> - **Viago's race (player-stated):** in the player's homebrew world, Viago is an **Orochiath, half orc and half Goliath**. Both cultures usually despise each other, but this line was "bred through love": the founders were shunned by their clans and started their own. On this show he is played as half-orc (half human). Caustic Phoenix: "The spirit's there though."
 > - Mike built Tetra small and fast after seeing Viago's art: "a Manny Pacquiao situation." Both agree that Sentinel "is disgusting."
 

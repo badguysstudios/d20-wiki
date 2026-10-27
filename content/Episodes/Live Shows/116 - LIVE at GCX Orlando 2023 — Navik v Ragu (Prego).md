@@ -128,14 +128,14 @@ Navik raised him at once: "Join the army of the damned!" The crowd told Prego he
 - **Evolved from Ragu to Prego** through a heroic surge. Spent a power up to heal ("the power of Parmesan").
 - **Killed by frozen wombat poop and raised into Navik's army.**
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster, Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster, Elusia Skypiercer]]** (Caustic Phoenix)
 - Introduced as "She who defeated the Shadow King."
 - Casts the grand illusion of the Dread Fortress. Charges the Arbiter rent.
 - Overrides his Sunday-only union rule ("Chaos happens every day").
 - Deep-fries a failed Acolyte. Honors a nat 20 by making a child a human shield.
 - Says she "got stuck with" the Arbiter.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - "I just work here." A member of the Arbiters' union: only works Sundays.
 - Brought "some friends" as champions. Sent "down below" off the stage.
 - Proposes summoning the Box of Chaos and voices what's inside it.
@@ -297,7 +297,7 @@ Navik raised him at once: "Join the army of the damned!" The crowd told Prego he
 > 51. **0:52:17 — Crying heals.** "**I'm gonna cry and heal.**" The GM: his tears mix with the shit below, "releasing a strangely wonderful aroma… **there's nothing better than tears and shit.**" He regains one Fighting Spirit.
 > 52. **0:52:47 — Opening the box.**
 >     - Ragu: "It's my box! **This is my boo-boo box.**"
->     - The Arbiter: "**The box lid creaks open and black shadowy fingers and yellow eyes peek their way out. What do you want?**" It's Drew voicing the box.
+>     - The Arbiter: "**The box lid creaks open and black shadowy fingers and yellow eyes peek their way out. What do you want?**" It's Mudcat voicing the box.
 >     - Ragu: "I want your service… I don't work for free… **I trade you my nunchucks**," the ones he smacked Navik with. "I am willing to sacrifice my nunchucks."
 >     - He picks "friends," not minions, to roll. His chosen one has red shoes ("which means blood").
 > 53. **0:54:33 — The blue pill.**

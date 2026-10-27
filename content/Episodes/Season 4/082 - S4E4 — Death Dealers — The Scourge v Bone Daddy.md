@@ -128,14 +128,14 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 
 **Hammer and Anvil**: the Scourge's conjured Quetzalcoatlus, jet black with white accents.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew)
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat)
 - Leads painting sessions for goblins using paint made from chinchilla blood. Was barefoot, and was given pink spa socks.
 - Forgot the Sunday Deathmatch. Refuses to promise not to kill winners.
 - Has **giant spectral shadow wings**. Hit Bone Daddy with a metal chair and beheaded Acolytes Commodore Scrib and Edo.
 - Fuelled the Box of Chaos by wringing the soul out of the Acolyte great to be a Gator.
 - Says he has experienced complicated love himself. Calls the Grandmaster "Elusia."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Opens portals with the sharp amulet using her own blood. Has a throne cushion "where a dog once slept."
 - Dove on the Scourge with a chair.
 - Ran the shrink event and sent Thomas the Goblin to fix the heater. Likes to be called benevolent.
@@ -178,7 +178,7 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the throne room of the Dread Fortress
-> 1. **0:06:16** Bec's narration welcomes the Acolytes to the Dread Fortress. They make their way down "through the spurts of volcano and lava, the heat melting your skins off." Down the hallways, **"chains clanging, a snarky look on her face,"** the Grandmaster charges through and bursts into the throne room.
+> 1. **0:06:16** Caustic Phoenix's narration welcomes the Acolytes to the Dread Fortress. They make their way down "through the spurts of volcano and lava, the heat melting your skins off." Down the hallways, **"chains clanging, a snarky look on her face,"** the Grandmaster charges through and bursts into the throne room.
 > 2. **0:06:50 — The painting session.** She finds **the Shadow King leading a painting session for a horde of small goblins.** An easel is set up with watercolors in greens and blues, but **the only color anyone has used is red.**
 > 3. **0:07:14** The Shadow King: "Elusia, come here. Come tell me what you think of this painting." He says he has "been known to dabble" and thought he would instruct the goblins in the craft.
 > 4. **0:07:28** The Grandmaster looks around. **Kevin has only put red on his canvas** (transcript: "Kevin has just read on there"). **Theodore has painted a beautiful, detailed watercolor skeleton.** She admits the Shadow King has "actually done a pretty good job" teaching them.
@@ -280,7 +280,7 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 > 54. **0:51:05** The giant skeleton (the merged form is called "Darcy" from here on) hits the Scourge and slashes down the snake around its neck, "gutting it."
 > 55. **0:52:02 — Blight.** Bone Daddy **raises skeletal hands from the ground that wrap around the snake**, and a necrotic surge saps its life. The Scourge saves, and "**the divine nature of the Scourge gives me resistance to necrotic damage**," so only a quarter of the damage lands.
 >     - Bone Daddy (sarcastic): "It is the Bone Daddy's one and only weakness, his necrotic resistance."
->     - Drew: "Come to the wrong place, Bone Daddy" (speaker uncertain).
+>     - Mudcat: "Come to the wrong place, Bone Daddy" (speaker uncertain).
 > 56. **0:54:17** Bone Daddy compliments the Shadow King's artistic ability with the painting.
 > 57. **0:54:46 — Bone Daddy's offering.**
 >     - When he opens the chest, **a dark shadowy figure with yellow eyes and long pointy fingers crawls out of the lid.**
@@ -364,15 +364,15 @@ In the after-show, the Scourge shared a lesson: "The Scourge has cried a thousan
 > ### Out-of-character creator notes
 > - It was B. Dave's first time on the show, and his first win. He expected to miss "100% of things."
 > - Johnny: "you're lucky I forgot to use shield," and the Hammer natural 20 "really did it." He built a **Necromancer wizard** (low HP) against a **Moon Druid**.
-> - Bec loved the skeleton mech: "every necro is now thinking like, why haven't I done that?"
+> - Caustic Phoenix loved the skeleton mech: "every necro is now thinking like, why haven't I done that?"
 > - Johnny's favorite past character was a lizardfolk armorer artificer who built armor from bones, with a dragon skull around his head.
 > - B. Dave's favorite moment: "**I got called chaining tibia**" (from chat) after the hip undulations.
-> - Drew: both players went "full in on the WWE, WWF archetypes," unlike earlier Ric Flair-style guests.
+> - Mudcat: both players went "full in on the WWE, WWF archetypes," unlike earlier Ric Flair-style guests.
 >     - B. Dave: "**the macho man with the Undertaker's gimmick**."
 >     - Johnny went for a "fun heel"; both played "attitude era."
 >     - B. Dave found it hard to raise his voice an octave for the shrink event.
 > - Johnny points out **Bone Daddy's whip** in his art.
-> - Bec floats a rematch "next year." B. Dave: "I'll show up with a wig on next time. Voluptuous locks." Bec: "You're a Yeti at this point."
+> - Caustic Phoenix floats a rematch "next year." B. Dave: "I'll show up with a wig on next time. Voluptuous locks." Caustic Phoenix: "You're a Yeti at this point."
 >
 > ### In character (Dried Blood, canon)
 > - **1:35:49** The Scourge's final words: "people think to be a big tough guy, you gotta act like you're made out of stone, but you don't. **The Scourge has cried a thousand times and will cry a thousand more.** Real warriors know how to admit how they feel, even and especially when it's strange and confusing."

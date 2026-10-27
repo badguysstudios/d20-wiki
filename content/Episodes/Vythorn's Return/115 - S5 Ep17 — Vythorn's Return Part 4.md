@@ -97,7 +97,7 @@ Welcome, and good night.
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Mudcat)
 - **Season of Fate (vision):**
   - He is the "new Lord of Fate."
   - Wears newly crafted leather boots and robes.
@@ -113,21 +113,21 @@ Welcome, and good night.
   - Vows to "fight fate itself."
 - Elusia's vision-self says Agdrel once decided Vythorn's role in the Void (0:08:00).
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - **In the vision:**
   - Chained, but the chains hang on her like bangles.
   - Kept in a candlelit cell with books and a bed mat.
   - First mistakes Vythorn for Agdrel.
   - Says she always knew he would overthrow her "time and time again" and let the risk grow to give him choice.
   - Wouldn't change her trust in him.
-  - (Drew, post-show: this was Vythorn talking to himself, not the real Elusia.)
+  - (Mudcat, post-show: this was Vythorn talking to himself, not the real Elusia.)
 - **Main timeline:**
   - Frozen in fear holding the choker until Fil leaves.
   - Admits she didn't know what he would do.
   - Hugs him, which is rare between them.
   - Declares to the Acolytes that "the time of corruption is over" and that they will be "masters of our own fate."
 
-**[[Characters/Fil|Fil / Philomena, the God of Fate]]** (Bec)
+**[[Characters/Fil|Fil / Philomena, the God of Fate]]** (Caustic Phoenix)
 - Whispers "Who are you going to become?"
 - Had a deal with Vythorn: "The book was given. The void laid out in front of you."
 - Says "We will have to come to collect."
@@ -156,7 +156,7 @@ Welcome, and good night.
 ### Items
 - **The dagger** Vythorn used to shatter Elusia's shackles.
 - **The choker** (shackles around Elusia's neck).
-- **"The book"** given in Fil's deal. Drew names "Morir's Cataclysm" as Vythorn's new power in the post-show. That the book and Morir's Cataclysm are the same thing is *inferred* from 0:16:32 together with 0:27:22.
+- **"The book"** given in Fil's deal. Mudcat names "Morir's Cataclysm" as Vythorn's new power in the post-show. That the book and Morir's Cataclysm are the same thing is *inferred* from 0:16:32 together with 0:27:22.
 - Elusia's former bed, now Vythorn's (vision).
 - Vythorn's newly crafted leather boots (vision).
 
@@ -171,7 +171,7 @@ Welcome, and good night.
 > ### Season of Fate (Vythorn's vision): the dungeon visit
 > *The post-show (0:22:31–0:23:48) states that this whole scene, like the whole of Season 5, takes place inside Vythorn's vision. Only Vythorn experiences it.*
 >
-> 1. **0:00:12 — The forgotten halls.** Bec narrates a rarely travelled part of the **Dread Fortress**. It is abandoned and cold, with cobwebs on the walls and corners, and "only spiders call this place home." **Vythorn, "our new Lord of Fate,"** walks down into the dungeons on steps he has not used "in ages."
+> 1. **0:00:12 — The forgotten halls.** Caustic Phoenix narrates a rarely travelled part of the **Dread Fortress**. It is abandoned and cold, with cobwebs on the walls and corners, and "only spiders call this place home." **Vythorn, "our new Lord of Fate,"** walks down into the dungeons on steps he has not used "in ages."
 > 2. **0:00:51 — Vythorn's mood.** He walks the halls in deep contemplation. His **newly crafted leather boots** clack and echo. The deeper he goes, the more solemn and sad he becomes. He thinks over:
 >    - the last season of Deathmatches and the time since he took power;
 >    - **the frustration of his new assistant**;

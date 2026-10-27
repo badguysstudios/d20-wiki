@@ -159,14 +159,14 @@ After the match, the Grandmaster asked each champion for one sentence of advice.
 - Saw the gears as the warforged's domain and **betrayed his teammate from the first turn.** Later felt betrayed by everyone.
 - Died saying "Lady of the Ocean, take me."
 
-**The haunted doll** (chaos event; voiced and rolled by Bec, directed by Dan's player).
+**The haunted doll** (chaos event; voiced and rolled by Caustic Phoenix, directed by Dan's player).
 - Wide unblinking eyes and a steady smile: "Come play with me."
 - Bonds by burning a rune into her friend's skin.
 - Teleports, and bites with plastic rotting teeth to drain HP into her friend.
 - Revived Dan to 1 HP with a kiss and then left this plane.
 - The Arbiter: "Oh no, not this again."
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Watches goblin-reenacted soaps on a cardboard TV and loves mail time.
 - Calls the Dread Fortress "my home."
 - Owns a Zune, a pillowcase full of quarters, and rum.
@@ -174,7 +174,7 @@ After the match, the Grandmaster asked each champion for one sentence of advice.
 - Her wings have a blue hue.
 - Does not pay the Arbiter.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Claims he can't read. Collects people who fight to the death; found some at a 7-Eleven.
 - Pulls marshmallows out of time and space.
 - **Has a betting problem** ("money riding on you with some really nasty people").
@@ -343,13 +343,13 @@ After the match, the Grandmaster asked each champion for one sentence of advice.
 > - Richardo's player: "I didn't want to kill anybody except for Steely Dan… you bring a Paladin Warforged to a fight?"
 > - Dan's player **chose not to use Lay on Hands** even at 60 HP.
 > - Someone says "Just gotta say though, Ramji [?], I love that character." The name is unclear.
-> - Bec: **three of the four were scaled (two lizardfolk, one dragonborn)** and she expected them to bond, "and then y'all just didn't even touch that."
-> - Drew loved **Chuck's Macho Man Randy Savage** delivery. The player says he gets "Nigel Thornberry a lot."
+> - Caustic Phoenix: **three of the four were scaled (two lizardfolk, one dragonborn)** and she expected them to bond, "and then y'all just didn't even touch that."
+> - Mudcat loved **Chuck's Macho Man Randy Savage** delivery. The player says he gets "Nigel Thornberry a lot."
 > - **Chuck was built around unarmed wrestling moves and improvised weapons** ("maybe we'd be like grabbing chairs"). The gears setting seemed to rule that out, and slapping Thass'Lok with Steely Dan was the payoff.
 > - **Steely Dan's name is a William Burroughs reference** (a steam-powered dildo); "Steely Dan III" is the third after the dildo and the band. "Being slapped around the face by a Steely Dan" gets a second meaning.
-> - Forgeling on **Thass'Lok**: "the most stupidly edgy character I've ever played… killed by getting… turkey slapped." Drew got "Batman vibes."
+> - Forgeling on **Thass'Lok**: "the most stupidly edgy character I've ever played… killed by getting… turkey slapped." Mudcat got "Batman vibes."
 > - **Thass'Lok's backstory (player-stated):** "he slaughters people in the bay and he does it himself and he does it in his environment." Seeing gears and a warforged, "he is now threatened because someone's in their element… purely a survival thing." It "went exactly as it should have."
 > - Dan's player's favorite moment was scrabbling for his tapes: "I can't speak without them."
 > - Richardo was "a giant stereotype." His favorite part was the spirit bull. **Bull One's name is a pun: "Bull Juan" (J-U-A-N).**
-> - Drew: "I'm always surprised… how much narrative we can fit into… everyone just killing each other."
+> - Mudcat: "I'm always surprised… how much narrative we can fit into… everyone just killing each other."
 

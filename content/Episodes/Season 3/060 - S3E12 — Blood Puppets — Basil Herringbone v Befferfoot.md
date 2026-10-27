@@ -144,14 +144,14 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 
 **Rolando** (also said "Ronaldo"). A Corgi emotional-support animal who heals with tail wags and panting and says "Le Woof." He fled Befferfoot to sit by the Grandmaster and Doug with treats, then came down and chose Basil, who renamed him "Bethabitch."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Lost her crown.** She takes it off to sleep: "I am the symbol of power and authority."
 - Plans to make a crown from the loser's bones.
 - Names the arena "my cave of wonders" (rename pending), and vows never to return to it.
 - Promised to show the winner what's beyond the waterfall; this wasn't shown.
 - Gave each champion a giant pet frog. Owns a frog hand puppet.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). He is **still in chains** and asks to have them removed ("good behavior all season… I can still do magic"); the Grandmaster ignores him. His white wings glow. He collapsed the cave into its deeper chamber with a nat-20 chaos event. Doug tied his roll.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). He is **still in chains** and asks to have them removed ("good behavior all season… I can still do magic"); the Grandmaster ignores him. His white wings glow. He collapsed the cave into its deeper chamber with a nat-20 chaos event. Doug tied his roll.
 
 **[[Characters/Doug the Pug|Doug the pug]]**. Sits beside the Grandmaster. Throws his own squeaky d20 and barks cheers.
 
@@ -217,7 +217,7 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 > 21. **0:13:56 — Hellish Rebuke.** Basil: "I think, I think, I think I have Hellish Rebuke." Befferfoot: "If you say it enough times, it means you have it." Befferfoot fails the save and takes a big hit. The Grandmaster: "**No touching!… As long as you never hit him, you'll be fine.**" The Arbiter predicts they'll kill each other right away.
 > 22. **0:15:40 — The waterfall.** Basil asks whether the winner goes through the waterfall. The Grandmaster: "**When you win… I'll show you what's on the other side of the waterfall.**"
 > 23. **0:16:14** Basil uses **Rabbit Hop** ("Boing") to leap 20 ft up onto a rock stand. The water is ankle- to knee-deep.
-> 24. **0:17:36 — Chaos: the alien abduction.** Drew rolls by mistake ("I forgot that you mattered"). The Grandmaster lets the underdog, Befferfoot, roll: "Make it a good one. Or I'm just gonna banish you." **A small silver disc zigzags down, leaving a prismatic trail, and fires a tractor beam.** Basil grips the rocks and stays put. **Befferfoot is pulled up. The aliens teach him their ways with books and scrolls and give him +2 Intelligence.** They throw him back down "smarter, but your forehead is noticeably larger now… Big, big head, big brain, very ugly." The ship zips off to outer space.
+> 24. **0:17:36 — Chaos: the alien abduction.** Mudcat rolls by mistake ("I forgot that you mattered"). The Grandmaster lets the underdog, Befferfoot, roll: "Make it a good one. Or I'm just gonna banish you." **A small silver disc zigzags down, leaving a prismatic trail, and fires a tractor beam.** Basil grips the rocks and stays put. **Befferfoot is pulled up. The aliens teach him their ways with books and scrolls and give him +2 Intelligence.** They throw him back down "smarter, but your forehead is noticeably larger now… Big, big head, big brain, very ugly." The ship zips off to outer space.
 > 25. **0:20:16** Befferfoot: "A lot smarter now than I was before. You should be afraid." When asked what books he read: "**The thick ones with the little letters.**" Basil: "They just gave him Excel sheets." The Arbiter: "I think Befferfoot might be a Rhodes Scholar now."
 > 26. **0:21:03** The Arbiter: "Grandmaster, what's in your cup there? Are you drunk?" The Grandmaster: "I think I gave him my plus intelligence. Mine went down somehow."
 >
@@ -239,7 +239,7 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 > ### Chaos: the Boggarts
 > 41. **0:34:55** Basil rolls the chaos. Basil makes his perception check; Befferfoot rolls a nat 1 ("I'm a prey animal," Basil says). **In the dark west side of the cave, two shadows stir and slip into the light.**
 > 42. **0:35:49** Basil's greatest fear is "**a really big garden snake.** Like, not venomous… the little green ones that bite your fingies and hang on for way too long… big enough to eat me." His shadow becomes a long, large green snake.
-> 43. **0:36:33** Befferfoot's fear is "**Bees. But only like two at a time.**" Basil adds that Befferfoot is highly allergic, and Befferfoot agrees. **Two tiny bees sneak up behind him unseen.** (Table: Drew has no bee tokens.)
+> 43. **0:36:33** Befferfoot's fear is "**Bees. But only like two at a time.**" Basil adds that Befferfoot is highly allergic, and Befferfoot agrees. **Two tiny bees sneak up behind him unseen.** (Table: Mudcat has no bee tokens.)
 >
 > ### Round 3
 > 44. **0:38:14** Basil "loses his freaking mind." He spends a ki point on step of the wind plus Rabbit Hop and **leaps 40 ft onto the north wall across the water**. The Grandmaster calls him "Super Bunny."
@@ -275,7 +275,7 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 > 68. **1:09:40** Befferfoot reads the frog with animal handling: "formidable, but unmoving." He gently tries to pull its jaw open and fails; the jaws "hold it tight."
 > 69. **1:11:04 — The gig.** "While I'm here and it thinks I'm being gentle." He stabs his short sword **up through its chin on a nat 20**. The Grandmaster explains **gigging** (stabbing frogs in the swamp and eating the legs). "**The sword… comes out the top of his head… slicing through its head… the face splits open in half and I make eye contact with Basil inside.**" Basil: "I'm flipping him off while kicking my legs and reading my book."
 > 70. **1:12:45** **The Grandmaster produces her own frog hand puppet** to visualize it, then cuts it in half: "Can your hand puppets do that? Didn't think so." The Arbiter: "Don't worry, she's just upset because she can't find her crown."
-> 71. **1:13:14 — Rolando runs away.** Befferfoot fires his crossbow at Basil and rolls a nat 1. **The bolt lands at Rolando's feet. He whimpers and flees, unhurt but terrified.** Befferfoot: "I didn't mean it, Rolando… I'm gonna have to buy him snacks and stuff." Rolando, in Drew's voice: "I am, how you say, getting the fuck out of here." **Rolando joins the Grandmaster up top next to Doug the pug with plenty of treats. "He may have found his new home who will not shoot him."** (Out of character, they argue Ronaldo versus Rolando.)
+> 71. **1:13:14 — Rolando runs away.** Befferfoot fires his crossbow at Basil and rolls a nat 1. **The bolt lands at Rolando's feet. He whimpers and flees, unhurt but terrified.** Befferfoot: "I didn't mean it, Rolando… I'm gonna have to buy him snacks and stuff." Rolando, in Mudcat's voice: "I am, how you say, getting the fuck out of here." **Rolando joins the Grandmaster up top next to Doug the pug with plenty of treats. "He may have found his new home who will not shoot him."** (Out of character, they argue Ronaldo versus Rolando.)
 >
 > ### Round 6
 > 72. **1:15:33** As the frog peels away, Basil casts **poison spray** at Befferfoot "for destroying my protective friend." Then Chill Touch: "I sit on my spectral hand until I can't really feel anything, and then I settle it over." He bunny-hops 20 ft up the wall.
@@ -286,7 +286,7 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 > 75. **1:20:43** The Arbiter rolls a 5: "All good things come to an end." The Grandmaster spices things up: "**Arbiter, give both of these each their own frog.**" These are giant frogs like the first, rideable mounts: "I see them as being responsible pet owners." They can jump 20 ft long or 10 ft high.
 > 76. **1:22:17** Basil witch-bolts Befferfoot in the face. He whispers "sweet, friendly, lovey things" to his frog ("my dear sweet child… Attack!… Devour!") and kisses it on the head. The Grandmaster tells him to name it, and he names it **Geronimo**. He fails the animal handling check, and Geronimo "just kind of croaks… pops forward just a half step."
 > 77. **1:23:55** "I pull a Han Solo." **Basil abandons Geronimo**, ki-jumping 40 ft back up the wall: "forget this frog, I need to live." The Grandmaster: "You think these come pre-trained?… They're wild frogs from a cave." He witch-bolts Befferfoot again.
-> 78. **1:25:13 — Frog on frog.** Befferfoot can't reach Basil, so the Arbiter suggests **his frog jump off Basil's abandoned frog** to launch him to the height. While asking for the check, Drew's "animal handling" comes out sounding like "**anal handling**." The Grandmaster: "We all heard it." The Arbiter: "You successfully anal handled this frog."
+> 78. **1:25:13 — Frog on frog.** Befferfoot can't reach Basil, so the Arbiter suggests **his frog jump off Basil's abandoned frog** to launch him to the height. While asking for the check, Mudcat's "animal handling" comes out sounding like "**anal handling**." The Grandmaster: "We all heard it." The Arbiter: "You successfully anal handled this frog."
 > 79. **1:26:35** At the top of the jump, Befferfoot slashes Basil ("Stupid bunny man"). Then he tries to load his crossbow mid-air, rolls **another nat 1**, and **tumbles off the frog onto his back on a rock.** The Grandmaster: "That's what you get for doing anal handling." Basil: "Don't want to make peace with your god?" "We'll see."
 >
 > ### Round 8: the final round
@@ -310,12 +310,12 @@ Afterward, the champions shared their wisdom. Basil's advice was simple: "Always
 >
 > **Out of character (creator notes):**
 > - Cucumber: "Nice to win for once." Chunk: "**since I beat him last time so viciously**… I gotta let the little guy win once in a while." This implies an earlier Chunk-over-Cucumber match.
-> - **All the nat 1s came from Chunk's crossbows.** Bec suggests he should have pulled out a new one named "Bianca."
+> - **All the nat 1s came from Chunk's crossbows.** Caustic Phoenix suggests he should have pulled out a new one named "Bianca."
 > - **Basil's build:** a monk/warlock ("capital M Monk, baby warlock"), level 5/5, with a feat for spells. **His patron was a genie. His escape plan was to retreat into his bottle "and float down the river."**
 > - Chunk hadn't planned to bring Rolando out and had hoped he'd be a bigger part.
 > - Favorite moments: Cucumber chose befriending the tadpoles ("They showed me love. They become my children"). Chunk chose the big frogs, being "both a friend of the frog and an enemy of the frog."
-> - **Drew: the frog was already part of the match before the tadpoles were introduced.** Bec: "It was the frog before the tadpoles. Science."
+> - **Mudcat: the frog was already part of the match before the tadpoles were introduced.** Caustic Phoenix: "It was the frog before the tadpoles. Science."
 > - Chunk would have named his frog **Fernando** (or Elizabeth).
-> - Drew: Basil had about 12 HP when he jumped 40 ft. **Drew rolled three 1s and a 2 for the fall damage**; an 11 would have killed him.
-> - Bec: "tonight's tale reminds us how much the dice tell the story." Chunk: read your character sheet thoroughly.
+> - Mudcat: Basil had about 12 HP when he jumped 40 ft. **Mudcat rolled three 1s and a 2 for the fall damage**; an 11 would have killed him.
+> - Caustic Phoenix: "tonight's tale reminds us how much the dice tell the story." Chunk: read your character sheet thoroughly.
 

@@ -150,19 +150,19 @@ Iowa-Ska admitted that, although he may have killed Destiny, a few tweets sugges
 
 **The Boulder**. The Pebble's father. He appears in the clouds giving a thumbs up after the nat 20.
 
-**[[Characters/Thea|Thea]]** (Bec). The Arbiter's helper, an impish creature with a "pig-like," "potato-like" body and unimpressive wings.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Arbiter's helper, an impish creature with a "pig-like," "potato-like" body and unimpressive wings.
 - Helps design the Dread Fortress labyrinth. Forgot to get the champions and brought "two really good friends… weird" (inferred: these are Iowa-Ska and the Pebble).
 - "Too stupid to be held accountable."
 - Did karaoke on a stolen mic and was outscreamed. She owed the Pebble a one-time call and shielded him; got poison-condom-ballooned; clamped the halberd with her butt and rode it.
 - Did burnouts with Iowa-Ska. Carried the dead Pebble off with a potion.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Designs labyrinths ("no toilets"). Teleported in, was told off, and teleported outside to knock.
 - "Sent a pamphlet." **Steel chairs are "my thing"**; he keeps a rusty, "seasoned," bloody metal chair, the subject of Reddit posts.
 - Rolled 2 and 3 for chaos. Lost his new shiny chairs to Doug until Christmas. Insulted Doug and was sent to the corner, where he sat on his own chair facing the GM.
 - Wants a raise. White glowing wings.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Throne room etiquette: knock.
 - Allowed the tag-team. Promised the Arbiter new chairs for Christmas (two, three). Gave "the Grandmaster's blessing" (±3).
 - Protects Doug. "Thank God I don't have balls." On dragonborn: "very distant cousins" of lizards, and old textbooks say they have cloacas.
@@ -488,21 +488,21 @@ Iowa-Ska admitted that, although he may have killed Destiny, a few tweets sugges
 >
 > ### Out of character (creator notes)
 > - **Returning creators.** Robear hasn't been on since Season 1 ("Season one, dude!"). Sensei Suplex is also back after a long time.
->   - Robear: "I am now **undefeated as both a catfish and a dragonborn**." Drew: "How's it feel to be back and not a dragon?" Bec: "Less dragon, more dicks."
+>   - Robear: "I am now **undefeated as both a catfish and a dragonborn**." Mudcat: "How's it feel to be back and not a dragon?" Caustic Phoenix: "Less dragon, more dicks."
 > - **The no-condom line** is an inside joke from Robear's group: during COVID they gave an absent friend's dragonborn character children everywhere, up to 17, "rumors of a loxodon." The name was heard as "Hister Faust."
-> - **The Pebble's concept.** Sensei Suplex's WWE character, inspired by The Rock (Attitude Era, Ruthless Aggression), because Drew describes the show as "D&D, but it's like a WWE twist."
+> - **The Pebble's concept.** Sensei Suplex's WWE character, inspired by The Rock (Attitude Era, Ruthless Aggression), because Mudcat describes the show as "D&D, but it's like a WWE twist."
 >   - He always brings characters from **the Aurora-verse** into Deathmatch to merge communities.
 > - **Imbe.** Chat (Discord and Twitch) pushed for Imbe, a character played by a community member ("Kuman") from the Aurora community.
->   - Drew: "The best part about our format here is we can just break the rules and none of this is fair… you want to bring your tag team in? We don't have any rules against that."
+>   - Mudcat: "The best part about our format here is we can just break the rules and none of this is fair… you want to bring your tag team in? We don't have any rules against that."
 > - **Iowa-Ska's riffs** come from Robear's Instagram being flooded with ads ("It's not dandruff that's ruining your scalp"). "You gotta be middle-aged to get the MailChimp."
 > - **Character design.** Built in the show's character builder with its pixel art, which wasn't available when Robear first played. He loved the catfish art (Locathah, heard "Loctaw") back then.
 >   - He saw the Aztec-style headdress and had to use it.
 >   - He plays a polearm fighter he can "set and forget" so he can perform. "God, they made this thing way too strong."
-> - **The blue slushy system** (adrenaline vs fatigue) was built for this season to keep battles swinging back and forth. Drew felt chat drove it hard this episode. Bec compares it to being in the stands at a soccer game or WWE match.
+> - **The blue slushy system** (adrenaline vs fatigue) was built for this season to keep battles swinging back and forth. Mudcat felt chat drove it hard this episode. Caustic Phoenix compares it to being in the stands at a soccer game or WWE match.
 > - **Cloacas** have come up in Deathmatch "maybe like the 15th time." Robear: Great to be Gator "has a cloaca. That's facts."
 > - Communities gifting subs to each other in chat.
 > - **Plugs:**
 >   - The **TTRPG Twitch guild** (Robear was one of its original leaders) and Robear's channel/community ("we're 24/7… use the live command").
 >   - **Project Aurora**: a giant MMO run in 5e, with raid bosses of 40 players and 12 DMs and events spanning eight years of real history. People have met partners there.
-> - 2:03:03 Drew to Robear: "You're live right now on Twitch. Wait, how are you at two places at once?" Robear: "Ad rev doesn't stop!"
+> - 2:03:03 Mudcat to Robear: "You're live right now on Twitch. Wait, how are you at two places at once?" Robear: "Ad rev doesn't stop!"
 

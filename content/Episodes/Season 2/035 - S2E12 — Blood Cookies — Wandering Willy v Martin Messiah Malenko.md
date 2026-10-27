@@ -153,7 +153,7 @@ The Bone Brothers had final words. "Friendship kicks ass," Willy said, which the
 
 **The Bone Brothers.** Willy and Martin's tag-team name. They wear friendship bone necklaces made by the Grandmaster, and they asked for a future two-versus-two match. The GM said she was "open to this idea."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Has a secret **TV room** in the Dread Fortress that she pays for; watched the Oscars.
 - Wants a daily morning reminder of the day, delivered by Doug, not the goblins.
 - Bakes cookies, and by the end accepts being "a grandma."
@@ -161,14 +161,14 @@ The Bone Brothers had final words. "Friendship kicks ass," Willy said, which the
 - **Rebukes the Arbiter for the sneak attack.** States the champions are always brought back and that nobody dies permanently "except for a few accidents."
 - Makes the bone necklaces. Gives the Acolytes the cookies.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Recruited the "most nat one rolling individuals in the entire universe."
 - **Claims many wives, each given a gravestone "one at a time"; he can't keep track.**
 - Wants to skin Doug and wear him as a hat. Threatens to disintegrate Willy. Sings "Pocket Full of Sunshine" in a minor key.
 - **Sends Gerald to shoot the champions, then accuses the GM: "You always let them live."**
 - Storms off to **his own arena with a statue of himself**, where he raises losers of past Deathmatches from the shadows: "Our time has come."
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The figure in the Box of Chaos.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The figure in the Box of Chaos.
 - Has a cough. Fake-walks down stairs.
 - Cackles over the cursed orb. Calls himself "a paid employee" (per the Arbiter).
 - **Shoots at the champions with Martin's lucky bullet on the Arbiter's order.** Gives Willy a Deck of Many Things ("That's my whole job here").
@@ -333,7 +333,7 @@ The Bone Brothers had final words. "Friendship kicks ass," Willy said, which the
 > 90. **1:38:22** The GM tells the champions to cover their ears, and the Arbiter puts his hands over his own ears. "**You know that we always still bring them back. No one ever actually dies here permanently, except for a few accidents every now and then.** This is meant to push and challenge and create better fighters, better champions in this world. **Don't you dare go behind my back again.**"
 > 91. **1:38:43** The Arbiter: "**This is fucking bullshit**." He **shifts planes and bounces out.**
 > 92. **1:39:04** Willy: "Where'd arbitration go?" The GM: "It's just a little internal conflict… business matters." Willy: "You need counseling?" Gerald: "Do I need to be here for this?" The GM: "Gerald, you just stay right there. I will take care of you and your Box of Chaos in a bit."
-> 93. **1:39:29 — Gerald's gift.** **Willy gives Gerald two more throat lozenges.** Gerald: "Thanks." **Gerald gives Willy a Deck of Many Things** (said by Drew; whether it carries forward is unclear). Willy: "That'll be fun later." The GM: "**Gerald, don't start handing out stuff willy-nilly.** The match is over." Gerald: "That's my whole job here." He shuts his lid, but keeps it open just enough to watch.
+> 93. **1:39:29 — Gerald's gift.** **Willy gives Gerald two more throat lozenges.** Gerald: "Thanks." **Gerald gives Willy a Deck of Many Things** (said by Mudcat; whether it carries forward is unclear). Willy: "That'll be fun later." The GM: "**Gerald, don't start handing out stuff willy-nilly.** The match is over." Gerald: "That's my whole job here." He shuts his lid, but keeps it open just enough to watch.
 >
 > ### The Bone Brothers
 > 94. **1:40:07** The GM: "Clearly I have to go talk to the Arbiter. It's fine… **I'm allowing you to share the victory if you forfeit your cookies.**" Willy: "I'm fine with putting on a show. I just can't do it against my best friend." Martin: "Friends also make up." Willy: "**It's not the destination, but it's the destination's journey that you get to it.**" Martin: "A little bit of a mismatch of the words, but you got there." The GM: "You all have a very certain wavelength of wisdom."
@@ -356,10 +356,10 @@ The Bone Brothers had final words. "Friendship kicks ass," Willy said, which the
 > **Out of character (creator notes):**
 > - ArcaneAdam didn't plan the friendship ending: "it just kind of happened." He describes Willy as "not the smartest tool in the box, but he's a nice guy," who thought Martin was a nice guy too.
 > - Sensei_Suplex meant Martin to be "a little ridiculous… And then he's like, wait, he's a nice guy… This is not going to work at all."
-> - Bec: "**The best defense in D&D is to be a nice person.**" Drew: "It's worked a number of times." Drew jokes they should have hung a cookie on a stick over each champion's head.
-> - The cursed orb: Martin had 22 Wisdom but nearly all his damage was fire. The players think it kept the fight going; with full hits "this fight would have been over really fast." Bec confirms Willy is **a druid**, which made Shiloh's antagonism to him funnier.
-> - Drew praises Martin's flavoring: a gunslinger built on a class that isn't a gunslinger. "There's no rules against flavor. You can make yourself a gunslinger and just shoot Eldritch Blast out of a gun."
-> - Bec on the "riff… between the Grandmaster and Arbiter." The players hope to win Doug over next time. Bec: "Now you know he needs treats."
-> - Drew: neither player rolled a single nat 1, and Adam rolled a nat 20 "when you needed it."
+> - Caustic Phoenix: "**The best defense in D&D is to be a nice person.**" Mudcat: "It's worked a number of times." Mudcat jokes they should have hung a cookie on a stick over each champion's head.
+> - The cursed orb: Martin had 22 Wisdom but nearly all his damage was fire. The players think it kept the fight going; with full hits "this fight would have been over really fast." Caustic Phoenix confirms Willy is **a druid**, which made Shiloh's antagonism to him funnier.
+> - Mudcat praises Martin's flavoring: a gunslinger built on a class that isn't a gunslinger. "There's no rules against flavor. You can make yourself a gunslinger and just shoot Eldritch Blast out of a gun."
+> - Caustic Phoenix on the "riff… between the Grandmaster and Arbiter." The players hope to win Doug over next time. Caustic Phoenix: "Now you know he needs treats."
+> - Mudcat: neither player rolled a single nat 1, and Adam rolled a nat 20 "when you needed it."
 > - **Live artwork** by Sensei's community member (heard as "LSI," goes by **Finn**): a pencil sketch and two or three colour passes made during the episode, showing the scene with everyone's expressions "from Doug to the Arbiter." Willy (in character) on it: "Calling me grandmother and then making me bake cookies. I love it."
 

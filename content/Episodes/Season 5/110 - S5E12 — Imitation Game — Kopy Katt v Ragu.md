@@ -150,7 +150,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 - **Won the Arbiter's Rings from the Box of Chaos** by sacrificing his summoned mechanical bull.
 - Calls Copycat "an artificial idiot." **Won the fight.**
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat).
 - Has a large painting of himself in the library.
 - Cancelled his credit cards by 1980s telephone. **Lost his phone to Copycat** and offers a reward for it.
 - Claims about his past and power:
@@ -160,7 +160,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 - Took a Polaroid of Copycat's real face "for later."
 - **Summons the Box of Chaos with multicolored lightning into the chaos storms.**
 
-**[[Characters/Thea|Thea]]** (Bec). Pink imp with pink hair, pink wings and a tail usable as a slingshot grip.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). Pink imp with pink hair, pink wings and a tail usable as a slingshot grip.
 - **Halloween:** tried to wear four costumes at once; "Halloween lives in your spirit."
 - **Food:** ate all the hot dogs. **Lactose intolerant.** Eats ankles. "Don't feed the Thea."
 - **Stars:** has stars on her forehead, which the copy removed and the Lord of Fate partly restored.
@@ -172,7 +172,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 - Chortled at the Lord of Fate's baby photo and was banished.
 - **The "Free Doug" chant got him back in a floating spinning cage.**
 
-**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|The shadowy figure in the Box of Chaos]]** (Mudcat).
 - "Just like a soul," with no body.
 - **"I used to be a shadow,"** and he knows the Lord of Fate's phone passcode.
 - Lives in **a newer, more spacious box that Kopy Katt gave him**, minimalist, with his stuff piled in the corner. He can't leave the box.
@@ -187,7 +187,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 
 **Hans**. Mentioned only in "Poor Hans is just left out there in the cold." Unresolved.
 
-**"Jota"**. Drew voices "Jota has questions" about how Copycat breathed. Unresolved.
+**"Jota"**. Mudcat voices "Jota has questions" about how Copycat breathed. Unresolved.
 
 ### Places
 - **[[Places/The Dread Fortress|The Dread Fortress]]**: a subterranean castle inside a giant skull in a lava field. Rooms named this episode:
@@ -229,7 +229,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — Thea in the closet
-> 1. **0:05:38** Drew: "Welcome to D20 Deathmatch. It was spicy." The scene is **the halls of the Dread Fortress, the subterranean castle inside a giant skull in the middle of a lava field**. The halls are cool to the touch. **The Lord of Fate paces around looking for Thea, who is "never anywhere to be found."**
+> 1. **0:05:38** Mudcat: "Welcome to D20 Deathmatch. It was spicy." The scene is **the halls of the Dread Fortress, the subterranean castle inside a giant skull in the middle of a lava field**. The halls are cool to the touch. **The Lord of Fate paces around looking for Thea, who is "never anywhere to be found."**
 > 2. He checks the rooms one by one:
 >    - **The library**, where he **peeks in, sees a large painting of himself, and admires it for a moment.**
 >    - The kitchen.
@@ -298,7 +298,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 > 42. **0:29:35 — First fart.** Ragu attacks with "**a super whirlwind fart explosion number five**", a damage-over-time status effect. Copycat: "What happened to number four?" Ragu: "Ask the person I defeated last time." Copycat: "that's some fatal flatulence."
 >     - **It misses.** Instead of gas, "**a liquid expulsion drifts out instead.**"
 >     - Ragu: "Oh, it's all over my head. I told you not to feed her."
-> 43. **0:31:01 — Second fart.** The second whirlwind fart is **a tie**. It **burns the nostrils and becomes "the unending fart of 12 days."** It gets into both fighters' mouths, down their throats and into their stomachs. **Both champions gain a fatigue.** Drew's reminder for the stands: "**Five fatigues and you die.**"
+> 43. **0:31:01 — Second fart.** The second whirlwind fart is **a tie**. It **burns the nostrils and becomes "the unending fart of 12 days."** It gets into both fighters' mouths, down their throats and into their stomachs. **Both champions gain a fatigue.** Mudcat's reminder for the stands: "**Five fatigues and you die.**"
 > 44. **0:32:24 — The Thea throw.** Ragu: "I'm going to throw Thea at you… I don't want to smell this shit no more." Copycat: "Are you calling Thea stinky?" Ragu: "**Oh, stinky winky.**" Thea: "She's got a little easy tail so you can slingshot her."
 >     - **It hits.** Ragu swings Thea around like a rope while she screams, and lets go.
 >     - **Copycat catches Thea with her face: "her butt hit your face."**
@@ -394,7 +394,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 > 79. **1:11:43 — The Polaroid.** **A flash goes off: the Lord of Fate takes a Polaroid of her real face and shakes it.** "Yeah, the real you. **I'll just keep this for later.**" Ragu: "you can add that to this book."
 >     - Ragu is out of actions, having spent one on the Box.
 >     - Thea: "Come on, copycat, you can be anything, just don't be a loser."
-> 80. **1:12:34 — Copycat at the box.** "**I can't cry. I don't have any eyes or tear ducts.**" Ragu: "Got a pencil." **She kneels and knocks on the box. The shadowy figure (Drew) talks with her:**
+> 80. **1:12:34 — Copycat at the box.** "**I can't cry. I don't have any eyes or tear ducts.**" Ragu: "Got a pencil." **She kneels and knocks on the box. The shadowy figure (Mudcat) talks with her:**
 >     - Shadow: "**Is it rude that I don't know where to look?**"
 >     - Copycat: she has no face, he has no body. Shadow: "**I don't really have a body though, I'm just like a soul.**" Copycat: "They say the eyes are the window of the soul… I just don't have one."
 > 81. **1:13:31 — The secret.** Copycat: "**This might be my last fight.**" Shadow: "Are you, like, gonna retire?"
@@ -407,7 +407,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 >     - Copycat gives him **a business card for "a guy"** who fixes chips. Shadow: "Is the guy just gonna be you in a disguise, stealing my identity?" "No… He's legit."
 > 83. **1:15:37 — The trade.** **Copycat trades her trash bag** ("It's precious") **and the Lord of Fate's cell phone.**
 >     - The Shadow asks whether it's her only clothes. **Under the trash bag she wears duct tape, which "goes with the fishnets."**
->     - **She has never taken the trash bag off. She washed it while still inside.** Drew: "Oh, you're a never nude." Bec: "There are dozens of you."
+>     - **She has never taken the trash bag off. She washed it while still inside.** Mudcat: "Oh, you're a never nude." Caustic Phoenix: "There are dozens of you."
 >     - Copycat says the phone is already unlocked and starts to give the code. Shadow: "**Don't worry, I know the passcode. I used to be a shadow.**" He's "probably gonna sell it."
 > 84. **1:17:10 — Coffee.** Copycat: "if I do live through this… **you wanna grab coffee later?**" Shadow: "I can't really, like, leave the box… you could drag me." She'll bring the coffee to him: "If I survive, anyway."
 > 85. **1:17:39 — The Grandmaster's bow.** The box rumbles and flips open into a pillar of yellow and pink flame. Instead of the hand alone, **the Grandmaster's bow** floats in the air.
@@ -430,15 +430,15 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 >     - Ragu: "You and your wipe-y face that you can't even put tears on… you're just a chalkboard. I'm just gonna erase you."
 >     - Copycat: "**I look like an eraser… I'm light purple.**" She suggests "a piece of chewed gum." Ragu: "**I'd rather call you the Pop-Tart nobody eats.**" Copycat: "My cinnamon brown sugar."
 > 93. **1:28:12 — The surge hits.** The Heroic Surge attack **hits for five.**
->     - Bec narrates: **his muscles double, and his hair grows about an inch.**
+>     - Caustic Phoenix narrates: **his muscles double, and his hair grows about an inch.**
 >     - Ragu: "**I am five times stronger than my actual body**… she cut it with a can opener, which gave me the opportunity to give her **a nunchuck right across the ear, so she can't even hear what's slapping her.**"
->     - He demonstrates the silence. Bec: "Thank you for demonstrating the sound of silence." Drew: "Playing the rests."
+>     - He demonstrates the silence. Caustic Phoenix: "Thank you for demonstrating the sound of silence." Mudcat: "Playing the rests."
 > 94. **1:29:45 — The shoulders.** "This one's going to be the ender… You can't hear it coming. You probably can't see it either." **Copycat avoids it by doing his own move, the shoulders.** No roll is stated for this attack.
 >     - Copycat: "**I may not have eyes or ears, but my sense of groove is too strong.**"
 >     - Ragu: "you're doing it wrong. You're over here dancing to the Rick Roll."
 > 95. **1:31:14 — The girthy chuck.** Ragu spends his final power-up on accuracy: "the nunchuck is going to be **bigger, wider**… girthier."
 >     - Copycat: "How much does a chuck?" Ragu: "**Ask a woodchuck.** Guess they're chucking on that wood to this day."
->     - **It misses (11 against 12). Copycat stays alive.** Thea: "That stick, it goes soft… so underwhelming." Drew: "**He's a one-chuck chump.**"
+>     - **It misses (11 against 12). Copycat stays alive.** Thea: "That stick, it goes soft… so underwhelming." Mudcat: "**He's a one-chuck chump.**"
 > 96. **1:33:18** The ring is in effect, so all of Copycat's attacks this round have disadvantage.
 > 97. **1:33:56 — Rogaine.** Copycat's status effect: she **throws a whole jar of Rogaine at Ragu, jar and all.** **It misses.** Ragu: "This Rogaine sucks. Okay, go get me a **Ch-Ch-Ch-Chia** instead."
 > 98. **1:35:00** Copycat spends her second action removing a fatigue: "Since I have disadvantage because of your ring, why attack?" Thea: "This is why I asked for one of your brains."
@@ -447,8 +447,8 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 >      - **She picks it up backwards without realizing.**
 >      - **She runs at Ragu in slow motion, revving it up.**
 >      - **She trips on her own boot**, and **the can opener collapses on top of her and hits "my not face."**
->      - Drew: "Never saw it coming." Copycat: "Literally did not see it coming." Drew: "If only she had both boots. And eyes."
->      - Drew voices "Jota" asking: "How did she breathe? How did she talk?" Drew: "Well, now she's dead, we can't ask her."
+>      - Mudcat: "Never saw it coming." Copycat: "Literally did not see it coming." Mudcat: "If only she had both boots. And eyes."
+>      - Mudcat voices "Jota" asking: "How did she breathe? How did she talk?" Mudcat: "Well, now she's dead, we can't ask her."
 > 101. **1:38:15 — The fail-safe fires.**
 >      - Cat narrates: **a spark comes out of her not-face, then a couple more, then a giant laser shoots from her not-face into the sky.**
 >      - **All 420 identities are returned.** Ragu: "**That's a lot of identities. It ain't even New Year's.**"
@@ -463,23 +463,23 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **In-character / narrated post-match beats.** These are Dried Blood. Their canon status is to be confirmed, since they are told as post-credits flavor.
-> - **1:47:01** Drew: while the post-match interview runs, **the goblins have dragged Copycat into the locker room and are defibrillating her and drawing a new face on her face.** Cat: a different face, "**probably with a Lord of Fate mustache on this time**… Maybe some gold stars on there."
-> - **1:47:24** Bec: **a bunch of goblins brush Ragu's hair and give him a shampoo treatment.** Ragu says he is "not like Heihachi off of Tekken, so I'm good now." Cat jokes that Ragu no longer looks like his ID ("I was attacked, okay?… by a giant can opener").
-> - **1:49:55** Drew's post-credits scene: **the shadow in the Box of Chaos, rain coming down on the box, peeking out the lid, "waiting for someone to come drink coffee with him that never comes."**
-> - **1:50:24** Drew: the shadow does plug in Copycat's chip. Cat: **it holds a very hefty Word doc titled "How to Be a Copycat by Copycat. Edited by ChatGPT."** Bec: "Your legacy has to be out there somewhere."
-> - **1:51:20** Bec: "we do now have a Polaroid picture of you." Drew and Bec: "We can rebuild you. We have the technology."
+> - **1:47:01** Mudcat: while the post-match interview runs, **the goblins have dragged Copycat into the locker room and are defibrillating her and drawing a new face on her face.** Cat: a different face, "**probably with a Lord of Fate mustache on this time**… Maybe some gold stars on there."
+> - **1:47:24** Caustic Phoenix: **a bunch of goblins brush Ragu's hair and give him a shampoo treatment.** Ragu says he is "not like Heihachi off of Tekken, so I'm good now." Cat jokes that Ragu no longer looks like his ID ("I was attacked, okay?… by a giant can opener").
+> - **1:49:55** Mudcat's post-credits scene: **the shadow in the Box of Chaos, rain coming down on the box, peeking out the lid, "waiting for someone to come drink coffee with him that never comes."**
+> - **1:50:24** Mudcat: the shadow does plug in Copycat's chip. Cat: **it holds a very hefty Word doc titled "How to Be a Copycat by Copycat. Edited by ChatGPT."** Caustic Phoenix: "Your legacy has to be out there somewhere."
+> - **1:51:20** Caustic Phoenix: "we do now have a Polaroid picture of you." Mudcat and Caustic Phoenix: "We can rebuild you. We have the technology."
 > - **1:51:35** Cat clarifies that **the laser came from her face, not her butt.** It was the fail-safe chip releasing all the stolen identities, a "weird little blizzard thing up in the sky… connecting to the satellites and beyond."
 > - **Final words:**
->   - Copycat (Cat): "**Always be yourself because you are the best version of yourself and nobody can copy that.**" Drew thought she was answering for Cheese, as a copy joke.
+>   - Copycat (Cat): "**Always be yourself because you are the best version of yourself and nobody can copy that.**" Mudcat thought she was answering for Cheese, as a copy joke.
 >   - Ragu (Big Cheese): "**Nobody can copy you when you are Ragu.**" He strikes a **T-pose**.
 >
 > **Out-of-character (creator notes):**
-> - Drew: this is S5 Ep12. **Big Cheese returned from previous seasons and from the GCX live show "last year."** **Cat has been on the show "a couple of times now, including this season."**
+> - Mudcat: this is S5 Ep12. **Big Cheese returned from previous seasons and from the GCX live show "last year."** **Cat has been on the show "a couple of times now, including this season."**
 > - Cat on the reveal: normally there would just be another bag underneath, but finally revealing the face felt fitting for her defeat. Copycat is "complete like mannequin."
-> - Drew: this is the second face reveal in three or four weeks. **King Bofis wears a frog luchador mask, and underneath is the tiny head of an actual frog on a man's body.** That reveal is from another episode and is only mentioned here.
+> - Mudcat: this is the second face reveal in three or four weeks. **King Bofis wears a frog luchador mask, and underneath is the tiny head of an actual frog on a man's body.** That reveal is from another episode and is only mentioned here.
 > - Favorite moments:
 >   - Cheese: the super whirlwind fart. He saw the lactose-intolerant opening when Cat fed Thea the pizza roll.
 >   - Cat: the photo album, which she didn't think would work. **Copycat "isn't a real physical fighter." She attacks your pride, bank account and credit score.**
 > - Cat on why she skipped the finances this time: she'd done that "so much, the last one." Ragu's insults "revved her up," so Copycat tried new things and lost. The lesson: "stick to what you're good at."
-> - Drew: there are two kinds of players, those who describe before the roll and those who wait until after. He likes that Cheese describes first. Bec: "always just assume that you're going to succeed."
+> - Mudcat: there are two kinds of players, those who describe before the roll and those who wait until after. He likes that Cheese describes first. Caustic Phoenix: "always just assume that you're going to succeed."
 

@@ -134,29 +134,29 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 - **Stage fright:** has never performed for more than three people. Self-described "master improviser."
 - **Thea's gold star made him "my first fan."** He will betray the team to become leader: "It's in my nature." Wears a chastity belt (Dried Blood).
 
-**[[Characters/Billy|Billy]]** (voiced by Bec; Drew rolled until 1:43). An "old bloke," **bald** with a "Jack Sparrow" beard thing and long nails grown like a guitarist's, though he can't play.
+**[[Characters/Billy|Billy]]** (voiced by Caustic Phoenix; Mudcat rolled until 1:43). An "old bloke," **bald** with a "Jack Sparrow" beard thing and long nails grown like a guitarist's, though he can't play.
 - **He visits Emmery's every two weeks, with the full moon of one of the Void's two moons**, always in the back party room. He wears fake animal furs.
 - **A werewolf who transforms under the full moon** into a long-snouted, fanged form with black-gray hair. **He hides from bright light.**
 - **The culprit (inferred)** behind the tavern attacks, the throat-rippings and the fox's lost eye. Basis: the fox's hair matches his werewolf coat (1:08:30), and the attacks follow his two-week visits (0:53:34–0:55:57). In the back room the second shadow slumps beside him amid the smell of blood (1:05:35).
 - Claims his spleen is in his head and his heart has moved. **Killed by Bob**; he pooped his pants on death.
 
-**[[Characters/Thea|Thea]]** (Bec). The Arbiter's subordinate, with tiny bony fingers.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Arbiter's subordinate, with tiny bony fingers.
 - **Threw the kitchen party with goblins and chinchillas that drank the Dread Fortress dry.**
 - Wants five stars on her performance review. Assembled "Team C" via a pink spiral portal.
 - Gets her bath for the week from expired beer. Drinks number two ale from a sippy cup.
 - Licks the gold star, then gives it to the Duke. Threatens to poop in shoes.
 - Puts the team into a Deathmatch to choose a leader. **Believes the Arbiter gives her unlimited budget.**
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). A self-described "drink hog" with stress "equal to my station." He wears **Italian leather boots with a bottle opener on the heel**, keeps Thea's performance review, has "our cheese guy," and opened the portal to Emmery's.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). A self-described "drink hog" with stress "equal to my station." He wears **Italian leather boots with a bottle opener on the heel**, keeps Thea's performance review, has "our cheese guy," and opened the portal to Emmery's.
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Has a not-so-secret stash of alcohol behind barrels in the Dread Fortress kitchen. **Offers champions full employment as "the sword of the Dread Fortress"**: immortality, a home, a sauna, and a pet chinchilla. She wants an after-party.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Caustic Phoenix). Has a not-so-secret stash of alcohol behind barrels in the Dread Fortress kitchen. **Offers champions full employment as "the sword of the Dread Fortress"**: immortality, a home, a sauna, and a pet chinchilla. She wants an after-party.
 
-**[[Characters/Emmery|Emmery]]** (Drew). Keeper of **Emmery's Tavern**; he endlessly wipes the bar.
+**[[Characters/Emmery|Emmery]]** (Mudcat). Keeper of **Emmery's Tavern**; he endlessly wipes the bar.
 - **Brews his patented number two ale using sheep dung to dry the grains** ("about mouthfeel").
 - He is the Dread Fortress's favorite distributor and shipped 50 barrels to the Fortress.
 - Offered his reserve in exchange for solving the attacks. Keeps a lost-and-found of Black and Milds.
 
-**The one-eyed fox** (Bec). A small, mangy regular at Emmery's who lost an eye to the attacker. It **now has a grape for an eye**, which Billy later threw at Frigidum.
+**The one-eyed fox** (Caustic Phoenix). A small, mangy regular at Emmery's who lost an eye to the attacker. It **now has a grape for an eye**, which Billy later threw at Frigidum.
 - **Has a lucky, non-replaceable mug with a "cat weasel" on it**, and stole it when it fled.
 - Supplied the coarse gray-black hair. Feared the Duke's "magic."
 
@@ -164,7 +164,7 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 - **A metallic one** throws chairs, bites a chair leg, and had never been apologized to.
 - **A much bigger one** smokes Black and Milds and "just got out of the mines."
 - **A cloaked third one** tracked the two-week attacks.
-- **[[Characters/Tabitha|Tabitha]]** is one of the Drew-voiced dragonborn (which one is uncertain).
+- **[[Characters/Tabitha|Tabitha]]** is one of the Mudcat-voiced dragonborn (which one is uncertain).
 - A half giant also sits at the table. A strawberry-blonde patron is in the room.
 
 **The flying wombats**. A chaos-event flock that hails cubed frozen poop.
@@ -291,7 +291,7 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 >     - Bob: "Oh, you're beautiful the way that you are. I accept you. I see you. **You are seen, brother.**" He lifts Frigidum up and gives him a gentle pat on the back of his fridge.
 >     - **A single wet tear descends from the ice-cube dispenser where Frigidum's eyes are.**
 > 51. **0:53:34 — Every two weeks.** **A third, cloaked dragonborn** sits further back and never lifts its head. "You know, I've seen hair like that." The last attack was **last night, then two weeks before that, then two weeks before that.** Duke: "Where were you several minutes ago?" "Here, not giving a damn."
-> 52. **0:54:43 — Billy.** A dragonborn voiced by Drew: the only thing different is that **Billy comes in once every two weeks**. The cloaked one: "Glad you remembered that, Tabitha." What they say about Billy:
+> 52. **0:54:43 — Billy.** A dragonborn voiced by Mudcat: the only thing different is that **Billy comes in once every two weeks**. The cloaked one: "Glad you remembered that, Tabitha." What they say about Billy:
 >     - An "old bloke." **Bald, with a shine to his head.** Always goes to the back party room.
 >     - Not quite a goatee: "**one of those Jack Sparrow things**." It "probably should shave it."
 >     - He comes "as often as like the full moon... Well, one of them, you know, **there's two**, so that way we get it like every two weeks."
@@ -305,7 +305,7 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 > 55. **0:58:00** "Welcome back, Acolytes!" The Arbiter recaps a "whodunit." Thea still doesn't know what Duval is but trusts it's cool. Bob: "It's the most magical place that's ever existed." Thea wants to visit.
 > 56. **0:58:57** Billy "**is literally in the other room**... he's been there the entire time." Duke: "Oh, shit."
 > 57. **0:59:24 — The mustache.** The dragonborn suggests the Duke refine his mustache for first impressions, using the extra hair Bob carries around. **Bob donates the coarse black hair. Frigidum supplies a paste that hardens in seconds**: "It'll be indestructible." Duke: "We should start a hair salon if this thing doesn't work out."
->     - **The Duke pulls out more rats: a whole entourage of rat people** fix his mustache and spray perfume. Bec: "a weird Cinderella moment."
+>     - **The Duke pulls out more rats: a whole entourage of rat people** fix his mustache and spray perfume. Caustic Phoenix: "a weird Cinderella moment."
 >     - The rats fight over the mustache, but Bob and Frigidum each style a side. Bob: "We know fashion in Florida, as you can tell from my pristine shorts." Frigidum mentions "this rainbow mustache on my front cover."
 > 58. **1:01:36 — Are we killing him?** Nobody's sure. They phone Thea, who is "literally always sitting in the corner of the room just watching" with **a little sippy cup of number two ale**.
 >     - Thea: "You can deal with it however you want... as long as you just get the ale." If they fail, she won't get five stars, "and then **you're gonna find poop in your shoes**. I'm not gonna say who pooped in your shoes but it would probably be me."
@@ -321,7 +321,7 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 > 64. **1:08:30 — The transformation.** **The windows fly open as if a magical gust blows through. The moon is still full as the second moon begins to pass.**
 >     - Billy transforms: his snout grows long, his teeth turn sharp and fanged, and **long black and gray coarse hair emerges from his bald scalp.**
 >     - His nails grow long and clack as he scrapes them along the back of the room.
->     - "**You found me!**" (Bec: "that sounded way weirder than I thought... we're going to stick with it.") The players ask her to say it again closer to the mic. "Help me!"
+>     - "**You found me!**" (Caustic Phoenix: "that sounded way weirder than I thought... we're going to stick with it.") The players ask her to say it again closer to the mic. "Help me!"
 > 65. **1:09:47** Billy rushes them and jumps onto a table to tower over them. Frigidum asks him to turn back, "the talk was going better." Billy: "But I'm not as scary that way... **I like how I look. Do I not look good like this?**" Duke: "You look okay, but I think **with a little bit of goop**, you could do a little bit of work." That insult starts initiative. Frigidum: "A Mohawk, Billy! We could give you a Mohawk!"
 > 66. **1:10:46 — Initiative.** Duke 18, Bob 15, Billy 14, Frigidum 8. The Duke picks up fatigue along the way. Bob: "Tonight is not your night, you rat boy."
 >
@@ -332,8 +332,8 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 > 68. **1:14:54 — Bob's speech and crystal fists.** Bob: "There's one thing Bob hates. It's people that prey upon the weak. **I had a dream once that I had a small child. A child that I protected. It felt so real and yet it wasn't.**"
 >     - **The first punch to the face hits.** Billy: "**My spleen!**" Bob: "Your spleen's in your head, you demon!" Billy: "It's the biology... when you're a werewolf." Bob: "You'll never guess where my heart is."
 >     - **Second punch, at the testicles**, "because you only have two, whereas I have four": it misses. "**Damn it, he's been spayed, boys.**"
-> 69. **1:16:50 — The jort missile.** Bob **stretches his jorts up over his whole body and spins like a top into Billy.** **Billy catches him with giant clawed hands, turns him around and spanks him.** Bob: "He's spanking me!... His hands are so large!... His hands are large and furry!" Frigidum: "**Hang on, Bob! Flex your buns!**" Bec: "You elevated that in a way I did not expect."
-> 70. **1:18:26 — Billy's turn.** **Billy launches Bob head-first into the wall like a jort missile.** In werewolf form his signature attacks hit twice as hard. Then the cowering Duke "looks appetizing": "**Yeah, you and your little rat entourage are mine!**" Billy bites him. Duke: "Can we... have a couple of drinks, maybe go out to the beach or something... Ow!" Bec: "Watch the hat, it's fragile."
+> 69. **1:16:50 — The jort missile.** Bob **stretches his jorts up over his whole body and spins like a top into Billy.** **Billy catches him with giant clawed hands, turns him around and spanks him.** Bob: "He's spanking me!... His hands are so large!... His hands are large and furry!" Frigidum: "**Hang on, Bob! Flex your buns!**" Caustic Phoenix: "You elevated that in a way I did not expect."
+> 70. **1:18:26 — Billy's turn.** **Billy launches Bob head-first into the wall like a jort missile.** In werewolf form his signature attacks hit twice as hard. Then the cowering Duke "looks appetizing": "**Yeah, you and your little rat entourage are mine!**" Billy bites him. Duke: "Can we... have a couple of drinks, maybe go out to the beach or something... Ow!" Caustic Phoenix: "Watch the hat, it's fragile."
 > 71. **1:20:28 — Frigidum's combo.**
 >     - **He extends his tentacles, slams them into the ground and lifts his fridge body up on them**, striding over to Billy. "Unhand the duke." His backhanded tentacle strike to blind Billy misses.
 >     - **Billy throws the fox's grape eye at him**, pure mockery. "New eyeball for you, if you'd like."
@@ -343,7 +343,7 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 >     - **The see-through roof turns out to be permeable. A flock of flying wombats zips in, circles overhead, and, having just eaten, hails down frozen, perfectly cubed wombat poop.**
 >     - Bob: "I just saw a TikTok... Bob saw a TikTok on that." Duke: "**I'm in my element. I embrace the shit.**"
 >     - Everyone fails to dodge and takes a hit "to the dome." Bob: "Damn you, wombats!"
->     - Bec rules that Billy rolls too ("Now they do"). He rolls a nat 20, which the players protest.
+>     - Caustic Phoenix rules that Billy rolls too ("Now they do"). He rolls a nat 20, which the players protest.
 >
 > ### Round 2
 > 73. **1:27:01 — The Duke's magic.** "Billy, I think that we got off on the wrong foot." **A card trick: "Pick a card, any card."** Billy picks **the Tower**, and the Duke ruins the trick ("Shit, I fucked up again").
@@ -367,10 +367,10 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 > ### Round 3 — the huddle and the light
 > 77. **1:40:31 — The anime awakening.** Duke: "I've learned it from a thing called anime, where you have an awakening... Everyone raise your hands to the sky like that one thing where they scream a lot... **give me your goddamn energy or I'll kill all you motherfuckers.**"
 >     - He stacks a status effect, two power-ups and his heroic surge. **Bits of fecal matter combine into a single sphere and he launches the shit bomb.** It misses.
->     - Billy: "I can tell you all didn't beat the fox outside, did you?" Drew, as narrator: "**He couldn't even cut off his tail.**"
+>     - Billy: "I can tell you all didn't beat the fox outside, did you?" Mudcat, as narrator: "**He couldn't even cut off his tail.**"
 > 78. **1:42:35 — The RPG.** "Fucking RPG time." **He pulls an RPG out of his head** and fires. It misses. The Duke looks up at the Acolytes: "**Did you rig it? Like, is this a sick game to you all?** Just to see a rat man flailing about like an idiot? Okay, fine. I'll flail for you again."
 >     - **Thea: "I really believe in you. So I'm going to give you the sticker Frigidum gave me."** The gold star grants advantage. Duke: "**I have my first fan. I feel so empowered now.**"
->     - The RPG with advantage still misses. Billy: "**I'm a golden god!**" Duke: "Yep, that's it. I'm finished." Bec takes over Billy's dice from Drew.
+>     - The RPG with advantage still misses. Billy: "**I'm a golden god!**" Duke: "Yep, that's it. I'm finished." Caustic Phoenix takes over Billy's dice from Mudcat.
 > 79. **1:44:27 — Team huddle.** Frigidum: "Team huddle." Billy is told to stay over there.
 >     - They wonder if closing the window would turn him back. Bob: "once he's seen the moon, it's too late. His body knows."
 >     - Frigidum: he's blind, so lie and say the moon's gone. Duke: tell him the sun's out.
@@ -396,18 +396,18 @@ The Duke complained that the fight was rigged and promised his 76 lawyers would 
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > ### In-character (canon, Dried Blood)
-> - **1:54:20 — The Duke:** "I believe that this fight was rigged and I hope that the next fight will not be rigged because if it is, then I will have you here for **my lawyers**." He has "**76 lawyers on deck**." Bec: "a bunch of rats, aren't they?" Duke: "how'd you know?" Drew: "There's nothing more scary than **a litigious rat magician**." Duke plans to get a dog. Bec: "The enemy of my enemy is my friend." Also in this exchange: "Crunch boy!" (speaker uncertain, ID 01).
+> - **1:54:20 — The Duke:** "I believe that this fight was rigged and I hope that the next fight will not be rigged because if it is, then I will have you here for **my lawyers**." He has "**76 lawyers on deck**." Caustic Phoenix: "a bunch of rats, aren't they?" Duke: "how'd you know?" Mudcat: "There's nothing more scary than **a litigious rat magician**." Duke plans to get a dog. Caustic Phoenix: "The enemy of my enemy is my friend." Also in this exchange: "Crunch boy!" (speaker uncertain, ID 01).
 > - **2:03:05 — Frigidum's challenge:** "**Bob, Duke, clear your calendars and clear your guts because I'm going to give y'all a stuffing.**"
 > - **2:03:38 — The Duke's challenge:** "**I'm glad that I have a chastity belt**, but I will be bringing multiple flowers for the lot of you. **Some call me a flower rat.** ... These flowers are for your grave... and then dig them up to **sell your bones on the black market**... And then I'm going to sell some cheese as well." He has "business plans, business plans, and business plans."
-> - **2:04:20 — Bob's challenge:** "Frigidum, Duke, it's been a pleasure bleeding with you on the battlefield as brothers. But now we find ourselves as foes... **you haven't even begun to see the true depravity of Florida.**" Bec: "Are you running for governor?" Kyle: "my name is Bob and I approve this message."
+> - **2:04:20 — Bob's challenge:** "Frigidum, Duke, it's been a pleasure bleeding with you on the battlefield as brothers. But now we find ourselves as foes... **you haven't even begun to see the true depravity of Florida.**" Caustic Phoenix: "Are you running for governor?" Kyle: "my name is Bob and I approve this message."
 >
 > ### Out-of-character (creator notes)
-> - The cast as introduced by Drew: **Sensei Suplex** (first time with a brand-new character, the Duke); **Kyle** (who will "have a new brand soon"); and **Big Papa Drak / Kendrick**. Kyle and Kendrick are returning; Drew calls this "episode six."
-> - Kyle: this is his **second time playing Frigidum**, who is "technically fresh as we are new this season." Bec mentions Frigidum's variety of magnets. Kyle on playing him: "a friendly tummy ache... Taco Bell at 2 AM. You shouldn't do it, but you know you're gonna." He adds Diablo sauce.
+> - The cast as introduced by Mudcat: **Sensei Suplex** (first time with a brand-new character, the Duke); **Kyle** (who will "have a new brand soon"); and **Big Papa Drak / Kendrick**. Kyle and Kendrick are returning; Mudcat calls this "episode six."
+> - Kyle: this is his **second time playing Frigidum**, who is "technically fresh as we are new this season." Caustic Phoenix mentions Frigidum's variety of magnets. Kyle on playing him: "a friendly tummy ache... Taco Bell at 2 AM. You shouldn't do it, but you know you're gonna." He adds Diablo sauce.
 > - Kendrick isn't actually naked or four-testicled; he's wearing sweatpants. "Our Acolytes were taking bets on how many testicles you really had."
 > - **Kendrick: "this is three matches and three wins for me."** His advice is judicious use of power-ups and status effects, though "sometimes you gotta throw caution to the wind."
 > - Sensei's favorite moment was the team huddle.
-> - Bec: "next season, when you all are a set team, you might be able to brainstorm some team moves." Kendrick calls the fridge-light play their "starter" team combo ("Blinded by the light"; "I was gentle but firm").
-> - Drew always enjoys bringing back **Emmery and his number two ale**. **Sheep-dung-dried grain is real, in Iceland**, because "They don't have trees." Bec: "It's not human dung... all of these are inspired by real things." Drew mentions "Klaueka" (unclear).
+> - Caustic Phoenix: "next season, when you all are a set team, you might be able to brainstorm some team moves." Kendrick calls the fridge-light play their "starter" team combo ("Blinded by the light"; "I was gentle but firm").
+> - Mudcat always enjoys bringing back **Emmery and his number two ale**. **Sheep-dung-dried grain is real, in Iceland**, because "They don't have trees." Caustic Phoenix: "It's not human dung... all of these are inspired by real things." Mudcat mentions "Klaueka" (unclear).
 > - Next week the three face off in the Deathmatch.
 

@@ -151,20 +151,20 @@ Luci ran at Gurdi and brought her holy maul down on his beak twice. The second s
 - Dabs, backflips, "I am the captain now."
 - Killed by Luci. Swallowed by the mimic, but his wing touched the gold first, so he "technically" won.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec)
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix)
 - Built the gauntlet map herself as a giant craft project in the Dread Fortress basement, with goblin helpers.
 - Made the tavern's papier-mâché patrons, who all have names, ages and personalities.
 - Gave Floyd the cape and fedora. Refused to remove the Arbiter's chains.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew)
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat)
 - **Wears chains** in this episode; he asked to have them taken off to drink and was refused.
 - Raised the skeletal minotaur with a nat 20.
 
 **[[Characters/Doug the Pug|Doug]]**: a pug who laughs at the Arbiter's bad roll with "a little pug chuckle" (0:56:21). Whether he is in-world is unclear.
 
-**The bartender** (Bec): runs the island tavern with his **little apprentice kitty cat**. Works with the Grandmaster, calls Flippy Cup "my old college game," and scores Gurdi's landing 10/10.
+**The bartender** (Caustic Phoenix): runs the island tavern with his **little apprentice kitty cat**. Works with the Grandmaster, calls Flippy Cup "my old college game," and scores Gurdi's landing 10/10.
 
-**The one-eyed pirate captain** (Drew): already at the wheel of the ship Hurdey steals. A second captain sails Floyd and Luci's ship (unnamed).
+**The one-eyed pirate captain** (Mudcat): already at the wheel of the ship Hurdey steals. A second captain sails Floyd and Luci's ship (unnamed).
 
 **Clanky**: a medium metal construct shark with a golden tooth and a blowhole, summoned by Hurdey.
 

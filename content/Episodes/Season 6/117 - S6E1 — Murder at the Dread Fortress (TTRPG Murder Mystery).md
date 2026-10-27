@@ -126,28 +126,28 @@ As the room chanted "Closure!" and the chinchillas pounded the table, Iris lifte
 - Murdered face down in gravy, yet kept talking as a "corpse." **Revived at the end** and perched on Iris's shoulder.
 - Claims to have **trademarked "time eyes"** and to earn money whenever the Arbiter uses the spell.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew). Opens the "new era" (build champions up, then watch them kill each other).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat). Opens the "new era" (build champions up, then watch them kill each other).
 - Created Thea; rejects Stuart twice. Wants a new "goo guy." Negotiates with the Chinchilla Union.
 - **Uses temporal transmogrification ("time eyes") to replay the night in reverse**, with multicolored chaos lightning in his eyes.
 - **Killed Iris and her husband at their wedding feast over a double-booked Deathmatch venue.** He apologized, saying he's "working on being a little bit better."
 - Stopped a rocket in time and resurrected Tony from pieces.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec). Back on the Dread Fortress throne; hosts the feast.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix). Back on the Dread Fortress throne; hosts the feast.
 - Wanted to bite Bunga. Invites all employees for morale.
 - Promised a negotiable prize for finding the murderer. Served weapons for dessert.
 - Sided with the chinchillas on pizza. Celebrates rebirth through the Deathmatch.
 
-**[[Characters/Stuart|Stuart the Gray]]** (Bec). The Dread Fortress IT guy, in khaki shorts and a blue polo, with over-gelled spiky hair.
+**[[Characters/Stuart|Stuart the Gray]]** (Caustic Phoenix). The Dread Fortress IT guy, in khaki shorts and a blue polo, with over-gelled spiky hair.
 - A fan of the Arbiter. Keeps applying to the magic department ("doesn't have a magic bone in his body").
 - Brought a fake truth amulet ("made in China," remote button).
 
-**Lady Elizabeth Barry Ann Poopshoe** (Bec). A wealthy Loxodon in a red velvet cloak and jewels, with her drink taped to her foot.
+**Lady Elizabeth Barry Ann Poopshoe** (Caustic Phoenix). A wealthy Loxodon in a red velvet cloak and jewels, with her drink taped to her foot.
 - **Her family runs sewage and waste disposal across the Void ("the Poop Chute… It's French")**.
 - Rival of Lady Tortiliana. Calls everyone trash.
 
-**Jercasso** (Bec). The trench coat. **It was three chinchillas, Jervia, Kevin and Sora**, of **the Chinchilla Union, on strike for a pizza party**. They are "Boston chinchillas" who smoke cigarettes. Sora carried the other two.
+**Jercasso** (Caustic Phoenix). The trench coat. **It was three chinchillas, Jervia, Kevin and Sora**, of **the Chinchilla Union, on strike for a pizza party**. They are "Boston chinchillas" who smoke cigarettes. Sora carried the other two.
 
-**Dr. Octo / "Dr. Octor"** (Bec). A weak old "doctor" in a white coat from "medical school."
+**Dr. Octo / "Dr. Octor"** (Caustic Phoenix). A weak old "doctor" in a white coat from "medical school."
 - Uses a stethoscope plugged into their arm. Pronounced Thea dead.
 - Ate evidence thread. Licks toes; has sticky saliva. Probably not a real doctor.
 
@@ -190,13 +190,13 @@ As the room chanted "Closure!" and the chinchillas pounded the table, Iris lifte
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Season opening narration
-> 1. **0:05:16** The file's text opens with "Welcome to D20 Top 5!" (likely misheard). After some table talk ("Light-headed, whoa"), Bec says: "We're into season six, baby."
+> 1. **0:05:16** The file's text opens with "Welcome to D20 Top 5!" (likely misheard). After some table talk ("Light-headed, whoa"), Caustic Phoenix says: "We're into season six, baby."
 > 2. **0:05:35 — The state of the Void.** The Void is "freshly returned to order, in the weeks following **the Arbiter's return from death and the liberation of the Grandmaster**." The Shadow King "is, like, gone, but **his soul was torn asunder and the danger he poses still remains as pieces [of] him have scattered about the Void**." The Acolytes rejoice "as **Elusia Skypiercer once again sits atop the throne of the Dread Fortress**."
 > 3. **0:06:19** In honor of her return and "the coming trials ahead," **the greatest feast is held before the evening's scheduled Deathmatch**. Inside the Dread Fortress ("deep within that sulking mouth into our lava terrain"), **busy goblins hang tinsel and light the last candles of the chandelier**. Guests begin to arrive on the **"bloody carpet."**
 > 4. **0:07:03 — Fortress climate.** It's "sweaty hot" with volcanic eruptions around, but **the stone floor is cold**, which is nice if you're barefoot. The Arbiter: "It's the humidity that's going to get you."
 >
 > ### Arrivals on the bloody carpet
-> 5. **0:07:30 — C.A. Bunga.** "Well, good heavens, that's gonna be hell on my butter, Tookus." **Cornelius Antonio Bunga, "C.A. Bunga, Cowabunga for short,"** drags his little feet in. Bec: "I'm already done. I'm out of here." He is:
+> 5. **0:07:30 — C.A. Bunga.** "Well, good heavens, that's gonna be hell on my butter, Tookus." **Cornelius Antonio Bunga, "C.A. Bunga, Cowabunga for short,"** drags his little feet in. Caustic Phoenix: "I'm already done. I'm out of here." He is:
 >    - **a hip-high slice of buttered, toasted sourdough**, covered in golden butter on both sides;
 >    - wearing **a leaf cut into a little top hat, glued to his crust with syrup**;
 >    - **syrup eyes that blink, and a glorious syrup mustache**;
@@ -229,7 +229,7 @@ As the room chanted "Closure!" and the chinchillas pounded the table, Iris lifte
 > 22. **0:22:03 — Undead etiquette.** Skelman enjoys wine, but "it does go right through me." **Iris has "only recently been dead."** Skelman: "**Welcome to the undead family.**" You don't need to eat or drink, but it's fun: "**If you've ever gotten stabbed… the wine will come out of those holes. Very good party trick.**"
 > 23. **0:22:59 — Lady Elizabeth.** "**Party tricks are for the poor.**" The Loxodon breaks up the group. She wears a large red velvet cloak, big jeweled necklace and earrings, and multiple piercings. **Her drink is taped to her "feet hand"** (one of her top two feet), since she has no fingers. "**I am Lady Elizabeth Barry Ann Poopshoe.**" Thea asks her to spell it for her notes; she gets past "L-A-D-Y" and struggles, being used to others writing for her. "Do you think I hold hands? No, too wealthy for that."
 > 24. **0:24:38** She bats her eyelashes at Bunga: "Hello there, delicious." Bunga: "**I am quite married to another lady, actually… Lady Tortiliana.**" Lady Elizabeth: "**My rival.**… Trash."
-> 25. **0:25:10 — The butter trap.** Bunga pretends to bow but **squeezes his "butt cheeks" and drops a pool of butter oil in front of her elephant pads**, then moves so she has to step into it ("There's butt in butter"). Drew calls it as an attack. Bec rolls for the Lady, and **she steps over the spread**. Bunga: "this spread… is reserved for my wife." Lady Elizabeth: "I don't need to be around this trash." She swishes off.
+> 25. **0:25:10 — The butter trap.** Bunga pretends to bow but **squeezes his "butt cheeks" and drops a pool of butter oil in front of her elephant pads**, then moves so she has to step into it ("There's butt in butter"). Mudcat calls it as an attack. Caustic Phoenix rolls for the Lady, and **she steps over the spread**. Bunga: "this spread… is reserved for my wife." Lady Elizabeth: "I don't need to be around this trash." She swishes off.
 > 26. **0:26:49 — The giant goblet.** Thea returns dragging **a goblet bigger than her own torso**. She mixed red and white "so you'll figure out which one you like," and begs Iris to drink it all so she doesn't have to carry it back. Iris: "you did wonderfully." "**Gold star for Thea!**"
 > 27. **0:27:40 — Skelman's drink.** Thea hopes that enough gold stars will get her a hot dog. Her notepad is covered in gold stars. Skelman declines ("it goes right through me") but agrees to hold a drink. Thea: "Do you want it to have like flames in it? Or acid? Or bees? Or poop?" Skelman: "**Gelatinous cubes… You get to stick around the ribs.**"
 > 28. **0:28:39 — Tim.** Thea: "**I have a gelatinous cube friend named Tim downstairs.** I'll just take out a piece of him." Skelman: "**I hired him for a dungeon last month.** Tim does great work these days… **He caught three adventurers in one go.**" Thea: "And reasonable prices." She zooms off. Skelman: "I like her much better than the imp they sent me previously."
@@ -242,8 +242,8 @@ As the room chanted "Closure!" and the chinchillas pounded the table, Iris lifte
 >     - Bunga runs **a dairy establishment back home** and wonders about goo with milk. Skelman: "**I have seen Tim devour cows whole. The milk did not remain.**"
 > 32. **0:33:19 — The Arbiter's goo guy.** The Arbiter tells Thea: "**Remind me to have a conversation with Tim. I am in need of a new personal goo guy.**" Thea: "I've heard you've had trouble with your goo." Arbiter: "Goo is just harder to find than it used to be… the stuff that's really thick and viscous." Skelman: "There's a lot of imitators out there, but Tim's got the real stuff."
 > 33. **0:34:08 — Bunga's drink.** "**A goblet of melted butter.**" Salted or unsalted? "**I'm on a diet, so let's say unsalted.**" Thea chants "unsalted butter" all the way to the kitchen.
-> 34. **0:34:44 — Business.** Skelman wants to hire Bunga. Bunga: "**You have a green goo guy, and I am your white goo guy.**" Skelman's idea is **a butter trap in place of an oil trap**: adventurers couldn't just set it ablaze, since the butter "would brown nicely and make for a really good start of some kind of meal." Bunga produces a notebook (Bec imagines an omelet) and takes notes.
-> 35. **0:35:43 — The ex.** Drew hoped the notebook was a Pop-Tart. Bunga: "**Pop-Tart was his ex. We don't bring her up.**" Bec: "That icing was too sweet." Bunga: "**that jelly was toxic.**"
+> 34. **0:34:44 — Business.** Skelman wants to hire Bunga. Bunga: "**You have a green goo guy, and I am your white goo guy.**" Skelman's idea is **a butter trap in place of an oil trap**: adventurers couldn't just set it ablaze, since the butter "would brown nicely and make for a really good start of some kind of meal." Bunga produces a notebook (Caustic Phoenix imagines an omelet) and takes notes.
+> 35. **0:35:43 — The ex.** Mudcat hoped the notebook was a Pop-Tart. Bunga: "**Pop-Tart was his ex. We don't bring her up.**" Caustic Phoenix: "That icing was too sweet." Bunga: "**that jelly was toxic.**"
 > 36. **0:36:06 — Iris's holes.** Iris finally drinks. **One of her eyeballs falls into the goblet.** She wipes it on her dress, but it comes out stained red, and she puts it back. Skelman: "you look quite devious now with the one red eyeball." Iris: "Maybe I should make them match." **She drops the other eye in the wine too.** Skelman helps tip the huge goblet and **wine spills out of holes in her stomach**: "Oh, look at that! Oh, wow, this is new." Skelman: "I'm really more like **one quarter of a guy**." Asked about the holes, Iris says, "it's a long story. **I was sad.**… You don't want to know." Skelman advises against patching them: "Holes are terrifying… red eyes and… walking corpse full of holes."
 >
 > ### The murder
@@ -261,7 +261,7 @@ As the room chanted "Closure!" and the chinchillas pounded the table, Iris lifte
 > 48. **0:52:30 — Dinner served.** The Grandmaster claps, and **goblins in tiny tuxedos** bring the first course, steaming vegetables. **Skelman (19 instinct) sees every setting laid out with ruler precision, except that Bunga's knife is slightly askew.** He realigns it. Bunga smooths the butter down his front like a tie.
 > 49. **0:54:21 — Knife insults.** Lady Elizabeth: "A misplaced knife, you mean?" Bunga: "**almost as misplaced as your elephant foot in your mouth.**" She slams her wine glass down: "**This hoof is pedicured with gems and diamonds. You'd be lucky to have this hoof in your own mouth.**" She tries to throw her plate at him, and **a goblin catches her hand**. "**I have my eye on you. That knife is suspicious.**" She is led off to calm down.
 > 50. **0:55:16 — The bloody napkin.** The Arbiter strolls down: "the knife isn't super suspicious, Grandmaster, but **the bloody napkin that it was wiped with is**." It's at Bunga's place. Bunga: "this jelly reminds me of her [the Pop-Tart]." Everyone rolls instinct to check for colorblindness. **The blood is green, the color of fear, like Thea's.** The napkin was **folded over, as if someone cleaned the knife inside it and laid it neatly on the table**. Dr. Octo lays a hand on it ("It is blood. I feel the napkin") and drops it on Bunga.
-> 51. **0:57:30 — Bunga's defense.** "This is not mine." He describes his limbs: **arms and feet like a syrup elemental. They don't drip, but they leave a sticky residue wherever he walks.** "If I had touched this, it would have been sticky." Stuart points out he has no fingerprints. Bunga **finger-guns a shot of syrup at Stuart**, which Drew calls as an attack. **Stuart holds up his plate to block it, then shoves his face into the food.** A gasp goes through the hall, and every eye flicks between Bunga and Thea's body, which grumbles.
+> 51. **0:57:30 — Bunga's defense.** "This is not mine." He describes his limbs: **arms and feet like a syrup elemental. They don't drip, but they leave a sticky residue wherever he walks.** "If I had touched this, it would have been sticky." Stuart points out he has no fingerprints. Bunga **finger-guns a shot of syrup at Stuart**, which Mudcat calls as an attack. **Stuart holds up his plate to block it, then shoves his face into the food.** A gasp goes through the hall, and every eye flicks between Bunga and Thea's body, which grumbles.
 > 52. **0:59:05** "Maybe a break for 10 minutes," says Thea's corpse as she crumples again. Bunga apologizes and smooths his butter: "I just wanted you to get a feel for how sticky I am." Everyone reaches over to feel how sticky he is. The break begins.
 >
 > ### After the break: the investigation

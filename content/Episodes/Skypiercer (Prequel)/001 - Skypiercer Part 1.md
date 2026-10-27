@@ -127,7 +127,7 @@ The chapter closed with a familiar farewell: "[[The Acolytes|Acolytes]], we will
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Grandmaster Elusia Skypiercer|Elusia]]** (Bec). Later the Grandmaster.
+**[[Characters/Grandmaster Elusia Skypiercer|Elusia]]** (Caustic Phoenix). Later the Grandmaster.
 - Called "Princess Elusia" by Vythorn and "Princess of the Void, refugee, stranger no more" by Thornos (1:55:07). Wants to be called "just Elusia" (2:42:55).
 - Blue-teal hair (0:06:07), wings, bow of knotted black root that sparks blue (0:06:32), two short swords, obsidian dagger.
 - Daughter of Faucius Golden Shield (0:08:34); niece of Agdrel (2:32:06); asked after her mother in the flashback and got no answer (0:12:29).
@@ -167,7 +167,7 @@ The chapter closed with a familiar farewell: "[[The Acolytes|Acolytes]], we will
 
 **[[Characters/Lucien|Lucien.]]** Cor'thun soldier, chronically drunk; stationed at the Western Gate until sent home to sleep it off (2:09:31). Claims heroics; another soldier says he spent the battle passed out in the stables (2:09:05). Fights "because my dad told me to" (2:10:01). Joins Atalantos's brigade (2:12:07). Likes Kaja's "thick blood" (2:12:37).
 
-**[[Characters/Glotun|Glotun]]** (spelling confirmed by Drew). Portly, balding, brown, loose toga-like robes; a politician who used to fight (2:15:20–2:16:17). Offers favors; lobbies to divert the southern aqueduct for Plintos (2:19:54).
+**[[Characters/Glotun|Glotun]]** (spelling confirmed by Mudcat). Portly, balding, brown, loose toga-like robes; a politician who used to fight (2:15:20–2:16:17). Offers favors; lobbies to divert the southern aqueduct for Plintos (2:19:54).
 
 **[[Characters/Plintos|Plintos.]]** One of the richest men in Cor'thun; merchant guild leader; name on many buildings, statues of him; "charity" benefactor; made his fortune off the southern district's workers; said to hold himself above the emperor; rumored to be behind a mine cave-in outside the city caused by cost-cutting (2:23:16–2:24:24).
 
@@ -198,7 +198,7 @@ The chapter closed with a familiar farewell: "[[The Acolytes|Acolytes]], we will
 
 ### Timeline facts stated in this episode
 - Faucius was killed and Elusia fled **300 years** before this episode (narration 0:07:48, 0:13:41; Vythorn 2:34:07; Elusia "who have not seen me in 300 years" 2:42:06).
-- The Shadow King ruled 300 years before Skypiercer (confirmed by Drew). The coup is the **Night of the Long Shadow**, when Agdrel killed his brother Faucius.
+- The Shadow King ruled 300 years before Skypiercer (confirmed by Mudcat). The coup is the **Night of the Long Shadow**, when Agdrel killed his brother Faucius.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)

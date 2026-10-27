@@ -144,14 +144,14 @@ Afterward, both champions offered the Acolytes some wisdom. Seth's was simple: "
 - Athletics −1 ("I play children's card games"). "I don't need friends. I have card games."
 - **Used a wish (from Gerald's ring-of-three-wishes card) to learn the riddle's answer.** He won, and the GM then blew him up with the ticking pumpkin (if he was the recipient).
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Threw the masquerade pre-party party. Invited the Acolytes, "buttheads" and Kristen, but not the Arbiter.
 - Sits on a skeleton throne with Doug.
 - **Used time magic to give Talbot advantage ("I picked up a trick or two").**
 - Lands "like an asteroid," which scares Dolly off.
 - Gave the winner the exploding pumpkin.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Wore a mask for an unexplained reason of his own.
 - Calls his job "being a prisoner."
 - Threatened Thomas's family and Doug.
@@ -163,7 +163,7 @@ Afterward, both champions offered the Acolytes some wisdom. Seth's was simple: "
 
 **[[Characters/Thomas the Goblin|Thomas the Goblin]]**. The GM's goblin, apparently handling invitations. He threw away the Arbiter's invite; he "loves everyone" except the Arbiter.
 
-**[[Lore/The Box of Chaos|Gerald]]** (voiced by Drew). Lives in the Box of Chaos; he has shadowy hands and yellow eyes.
+**[[Lore/The Box of Chaos|Gerald]]** (voiced by Mudcat). Lives in the Box of Chaos; he has shadowy hands and yellow eyes.
 - **Squeamish about blood.**
 - **Collects trading cards**: a box of Yu-Gi-Oh, Digimon, Magic and Pokémon.
 - "Oh, I love making deals."
@@ -171,11 +171,11 @@ Afterward, both champions offered the Acolytes some wisdom. Seth's was simple: "
 - **Saved Seth from the Fireball by pulling him into the box** because "you seem like a good guy."
 - Says he got a leg last week ("three quarters of a full body").
 
-**The riddle creature / "slender man grinning riddle creature"** (Bec). Chaos event: a lipless, toothy, hollow-eyed figure with 12-ft handless arms.
+**The riddle creature / "slender man grinning riddle creature"** (Caustic Phoenix). Chaos event: a lipless, toothy, hollow-eyed figure with 12-ft handless arms.
 - **Its word was "two."**
 - It smashes wrong guessers and crushed the loser after Seth answered correctly. It vanished afterward.
 
-**[[Characters/Dolly|Dolly]]** (Drew). A giant necrotic doll that rises from the ground like a corpse and emits a putrid green cloud. She has porcelain eyes and asks "Do you wanna be my friend?"
+**[[Characters/Dolly|Dolly]]** (Mudcat). A giant necrotic doll that rises from the ground like a corpse and emits a putrid green cloud. She has porcelain eyes and asks "Do you wanna be my friend?"
 - "**Dolly returns to the arena**," so she has appeared before.
 - She calls out "One candy!" and fled from the Grandmaster into her hole.
 
@@ -401,18 +401,18 @@ Afterward, both champions offered the Acolytes some wisdom. Seth's was simple: "
 >   - **A leg last week, a finger today, and now cards.**
 >   - "Blood, soul. **Somebody offered their hero point once.**"
 >   - **"A vampire's teeth, but just their wisdom teeth, not the cool sharp teeth."**
->   - Drew: "**Gerald's building a golem down there probably out of like decaying body parts.**" Delivered as a joke; not stated as fact.
+>   - Mudcat: "**Gerald's building a golem down there probably out of like decaying body parts.**" Delivered as a joke; not stated as fact.
 >
 > ### Out-of-character (creator notes)
 > - Cast: Michael, "Mike the Bard… The Battle Bard Mike," recently renamed, plays Talbot. **Rogue Ex Machina is returning.** He had been in **the live show**, where he played "a bard who was by himself" and was "completely obliterated by Teach." This was his first time on "an actual show."
-> - **Talbot's build is a multiclass designed around wild magic.** Drew kept waiting to use the wild magic table and never needed to: "you brought your own wild magic."
+> - **Talbot's build is a multiclass designed around wild magic.** Mudcat kept waiting to use the wild magic table and never needed to: "you brought your own wild magic."
 > - Michael: in PvP, no party is there to pull you out of a bad-roll spiral.
-> - Bec praised the creative play. The pumpkin-bomb Fireball was "a brilliant play… you remembered things in the map." Drew "wanted to reward that so much, but… you got to honor the 20s."
+> - Caustic Phoenix praised the creative play. The pumpkin-bomb Fireball was "a brilliant play… you remembered things in the map." Mudcat "wanted to reward that so much, but… you got to honor the 20s."
 > - Rogue planned traps: pumpkin bombs, illusions, rigging portals. **Most of his spells were built to mess with rolls**, and he rarely needed them.
-> - Drew compared it to **Michael Myers stalking a cowardly victim** ("I jumped into the wood chipper"). Rogue compared it to **Dead by Daylight**.
-> - **Rogue: his characters in both his games with the show "become best friends [with] Gerald."** Drew: "Gerald can be befriended."
+> - Mudcat compared it to **Michael Myers stalking a cowardly victim** ("I jumped into the wood chipper"). Rogue compared it to **Dead by Daylight**.
+> - **Rogue: his characters in both his games with the show "become best friends [with] Gerald."** Mudcat: "Gerald can be befriended."
 > - **Michael gave the finger because he had watched the episode where someone gave a leg.** Extra fingers fit Talbot's "crazy fucking magic."
-> - **A post-show roll of the vorpal attack came up 14: it would have hit, but not as a vorpal kill.** Drew joked that Mr. Nutters "wouldn't be able to take his hat off, though."
-> - Michael hopes to return, "maybe I'm just the guy you bring in to… just obliterate." Drew made the community-college homecoming joke.
+> - **A post-show roll of the vorpal attack came up 14: it would have hit, but not as a vorpal kill.** Mudcat joked that Mr. Nutters "wouldn't be able to take his hat off, though."
+> - Michael hopes to return, "maybe I'm just the guy you bring in to… just obliterate." Mudcat made the community-college homecoming joke.
 > - Michael's real advice: don't cheat the dice; "Fail hard, fail up." Rogue's: "be unapologetically you."
 

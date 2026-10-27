@@ -16,8 +16,11 @@ arena: Barracks on Dämmerung and the Solar's Grave
 summary: The 35th meet the alliance's war council and are shown the corpse of a fallen solar, which is being harvested for a warhead meant to destroy the Warmind. The Warmind's forces attack before the warhead can be handed over, Grimnar topples a Titan with chaos-fuelled eye lasers, and more war horns sound as the episode ends.
 tags:
 - episode
+youtube: https://youtu.be/uLSXxlVHPHs
 canon_order: 126
 ---
+
+[Watch on YouTube](https://youtu.be/uLSXxlVHPHs)
 
 On the war-torn world of [[Dämmerung]], [[Grimnar Stormclaw|Grimnar]], [[Nehebka]] and [[Muffy]] wake up in an army barracks and end the day in a firefight over a dead angel. In between they sit through a tense war council with the leaders of an alliance fighting [[The Warmind]], a weapon built to save [[The Underdark]] that turned on everyone. They also learn that the only hope of stopping it is a bomb someone has to carry by hand. It has a mustache portrait, a salute invented on the spot, a confession from Nehebka that silences the room, and a fireball so big it gets a six out of ten.
 
@@ -97,7 +100,7 @@ Grimnar picked the Titan bearing down on his friends to cover their retreat. Lig
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Grimnar Stormclaw|Grimnar]]** (Drew).
+**[[Characters/Grimnar Stormclaw|Grimnar]]** (Mudcat).
 - Old-ish and stiff, and stretches loudly.
 - Called "the bear" by Trissavin; looms "like a giant bear." That he is a bear is inferred from these lines.
 - **Adopts resistances from creatures he reads** and **copies spells cast on him** (death ward), along with chaos-energy tells: eyes going black void, multicolored lightning.
@@ -238,10 +241,10 @@ Grimnar picked the Titan bearing down on his friends to cover their retreat. Lig
 >
 > ### The salutes (0:33:36)
 > 19. **0:33:36** Muffy salutes the Nightingale. Kyle recalls **the 34th's salute: two fist bumps on the chest and a gurgle**. He notes the **Dread Fortress / "Domain of the Void" salute** has never been defined and lets Sam define it: "This will be canon."
->     - Sam's first thought was the Parent Trap handshake, rejected "for the sake of Becca and Drew."
+>     - Sam's first thought was the Parent Trap handshake, rejected "for the sake of Becca and Mudcat."
 >     - **Muffy's salute: a Trekkie-esque hand with two fingers up and the others held down, one arm tucked behind the back, upright.** The phrase is "**up, up and away**"; the meaning is "the Fortress, reporting for duty."
 >     - Muffy's finger doesn't close all the way (Sam's real surgery), so she holds it back.
-> 20. **0:36:28 — The Nightingale salute.** It returns **two bumps on the chest, then crosses its fingers and bows its head**. No gurgle. Drew expected a birdman call.
+> 20. **0:36:28 — The Nightingale salute.** It returns **two bumps on the chest, then crosses its fingers and bows its head**. No gurgle. Mudcat expected a birdman call.
 > 21. **0:37:20** Muffy leaves the hodgepodge insignia painting for the soldiers and **keeps the 35th portrait as a gift she hasn't shown her friends yet**.
 > 22. **0:37:40 — "After you."** Grimnar keeps trying to put the Nightingale in the middle. The Nightingale keeps stopping: "no, after you, please." Grimnar: "No, I insist, after you."
 >     - They trade places all the way to the tent "like a never-ending series of doors."
@@ -362,7 +365,7 @@ Grimnar picked the Titan bearing down on his friends to cover their retreat. Lig
 >     - The lightning heats into **a giant fireball** that he hurls over Gund's shields about 300 ft (Spell Sniper, 4th level, heightened against the lieutenant).
 >     - **It hits nine enemies and reduces several smaller units to slag.** The cannons still stand with fewer crew. Only one soldier escapes, with a nat 20.
 > 56. **1:54:01 — Nehebka.** She dashes and her lower half becomes **rotating tornadic sand (sand form)**. To Grimnar: "**Let your storm strike true. If it includes me, so be it.**"
-> 57. **1:55:57 — The flare.** The lieutenant advances and fires **a red signal flare**. Silence, then the distant droning of mighty **war horns from the west and the south**. Drew: "A fireball too early." "The Titans are coming."
+> 57. **1:55:57 — The flare.** The lieutenant advances and fires **a red signal flare**. Silence, then the distant droning of mighty **war horns from the west and the south**. Mudcat: "A fireball too early." "The Titans are coming."
 > 58. **1:57:58 — Tree stride.** Nehebka touches a solar-morphed tree. It is encased in sand, which rips it open to reveal a swirling mass.
 >     - Through **tree stride** (spending a second slot so Muffy can use it too), she and Muffy shoot deep into the enemy line. Grimnar stays put: "I just launched a fireball 300 feet. I'm staying."
 > 59. **2:00:41 — Muffy vs the lieutenant.** She rages and attacks recklessly, battle cry, paintbrush out, and **wails on the flare-raising lieutenant**.

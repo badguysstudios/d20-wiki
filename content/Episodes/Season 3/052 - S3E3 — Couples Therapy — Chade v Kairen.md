@@ -155,7 +155,7 @@ At the table afterward, the players declared Margaret canon: the nice old neighb
 - **Kaylee/Kaylie**, the first child, was conceived on the honeymoon using a purple rope. They lost that rope the day after while tying up giants.
 - **Margaret**: the 86-year-old neighbor. She bakes blueberry/buttery scones, watches the kids and is "a nice fucking lady."
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Wears chains and shackles and a potato-sack linen cloth.**
 - **Openly says he tried to overthrow the Grandmaster with resurrected champions.**
 - Is called "the manager"; says he placed the skulls in the arena.
@@ -164,7 +164,7 @@ At the table afterward, the players declared Margaret canon: the nice old neighb
 - Cancelled the kitchen contractor.
 - Took 13 psychological damage.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Is renovating the Dread Fortress kitchen with goblin labor. She sent an email memo about it.
 - Had Doug summon the champions and floated Doug replacing the Arbiter.
 - Was embarrassed and prudish about the innuendo and retreated to her throne.
@@ -172,7 +172,7 @@ At the table afterward, the players declared Margaret canon: the nice old neighb
 
 **[[Characters/Doug the Pug|Doug the Pug.]]** He plays in the kitchen pool and summoned the champions by chasing his tail. He rolled the nat 20 chaos roll with his squeaky toy. **He is undead and dislikes being called a zombie dog; he got huffy about his looks.**
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). He sits in the Box of Chaos with shadow hands and yellow eyes. He accepted the trousers, said the massager would "go well with my collection," and gave the rope. Later he watched from outside the box and threw them a wooden paddle.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). He sits in the Box of Chaos with shadow hands and yellow eyes. He accepted the trousers, said the massager would "go well with my collection," and gave the rope. Later he watched from outside the box and threw them a wooden paddle.
 
 **[[Lore/Chinchillas|The chinchillas.]]**
 - 203 chinchillas in a drilling plastic ball, each with tiny knives on its back.
@@ -212,7 +212,7 @@ At the table afterward, the players declared Margaret canon: the nice old neighb
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the kitchen renovation
-> 1. **0:00:17** Drew opens with "home of unnecessarily loud things." **Goblins scurry through the halls of the Dread Fortress carrying two-by-fours, drywall and hammers** "that goblins probably shouldn't be allowed to have." They are heading down to **the kitchen of the Dread Fortress**, "a place we've seen a person die once or twice." **The Arbiter walks down with chains dragging and clanking behind him.** He peeks in: "Grandmaster, what is going on?"
+> 1. **0:00:17** Mudcat opens with "home of unnecessarily loud things." **Goblins scurry through the halls of the Dread Fortress carrying two-by-fours, drywall and hammers** "that goblins probably shouldn't be allowed to have." They are heading down to **the kitchen of the Dread Fortress**, "a place we've seen a person die once or twice." **The Arbiter walks down with chains dragging and clanking behind him.** He peeks in: "Grandmaster, what is going on?"
 > 2. **0:00:59** The GM says there was an email memo: "**Obviously, we're doing kitchen renovations right now.**" She redirects the goblins, who are demolishing what is clearly a **load-bearing wall**. The ceiling begins to crumple and crack.
 > 3. **0:01:20 — Doug summons.** She whistles, and **Doug the Pug pops out of the pool of water in the middle of the kitchen**, soaked, and shakes himself off. She kneels and asks him to search the worlds for "true champions… somebody who really needs to get the fight out of their system." She adds: "**if you find a pairing good enough perhaps you could actually replace the arbiter.**" Doug spins in a circle as if chasing his tail. Just as he catches it, **a small portal opens and two champions pop out.**
 > 4. **0:02:25** GM: "That actually worked." Arbiter: "**Doug summoned the champions?**" GM: "Yes, yes. Shut up. Just shut up." She asks, "Are you ready to bear arms? Not bear arms, but like fighting arms."
@@ -379,28 +379,28 @@ At the table afterward, the players declared Margaret canon: the nice old neighb
 > 100. **1:41:28** GM: "**We are pulling the curtain… we're pulling way out. Miles away. So welcome and goodnight to D20 Deathmatch!**" **No winner is declared.**
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Drew: "welcome back for another episode of Dried Blood. Or, uh, something's dried… This very wet episode." GM: "Can you hand each other a towel at the end of this?"
+> - Mudcat: "welcome back for another episode of Dried Blood. Or, uh, something's dried… This very wet episode." GM: "Can you hand each other a towel at the end of this?"
 > - **This was Stella's first time in the arena.** "I feel like that one song, Pussy is God, because I just destroyed an enemy with my thighs."
 > - **Joel on Margaret (player-stated):** "it's canon. My neighbor… the nice old woman that brings by scones, because my wife is always gone on these adventures… someone gets jealous."
-> - Joel: "Second honeymoon, well on its way. Eighth child, just in the making." Drew: "**Maybe the first child conceived in the Dread Fortress, probably.**" They suggest a plaque, or the Arbiter taking counseling classes and getting a certificate.
-> - Drew: "The Arbiter is definitely psychologically damaged. He's about to go get like a cyborg dick put on." A riff follows on recasting enlarge with wingmen; Drew: "I'll just cast Arms of Hadar instead." A warlock "pact to make my wife happy" joke.
-> - **Joel's second appearance.** The first was "with a very good friend… very WWE over the top combat focused." Joel and Stella are close friends ("partners outside of the game" / "my best friend"), so the raunchiness was comfortable for them. Drew: that's why they like booking people who know each other.
-> - **Drew on the Arbiter reveal:** "I rolled the D10 for it… it's going to be canon after this… **Now the Arbiter's dick is one inch long.**" Joel: "**he's a big dude… He's like nine feet tall.**" (Player remark, not an in-world statement.)
-> - Drew: "anytime I'm rolling for the Arbiter, he cannot roll to save his life." Bec: "**Thank goodness for Doug the Pug… He always outrolls the Arbiter.**" Drew: "It's just become his whole shtick now."
-> - Bec asks the players for actual Yelp-review recordings for future commercials, "the Dread Fortress as a love fortress or as a marriage counseling location." Possibly a "where are they now?" Stella will "play up the Kairen thing."
-> - Drew: Kairen is typically the villain, "but Arbiter's been trying to overthrow the Grandmaster forever," so he has issues with the place too. "Two villains."
+> - Joel: "Second honeymoon, well on its way. Eighth child, just in the making." Mudcat: "**Maybe the first child conceived in the Dread Fortress, probably.**" They suggest a plaque, or the Arbiter taking counseling classes and getting a certificate.
+> - Mudcat: "The Arbiter is definitely psychologically damaged. He's about to go get like a cyborg dick put on." A riff follows on recasting enlarge with wingmen; Mudcat: "I'll just cast Arms of Hadar instead." A warlock "pact to make my wife happy" joke.
+> - **Joel's second appearance.** The first was "with a very good friend… very WWE over the top combat focused." Joel and Stella are close friends ("partners outside of the game" / "my best friend"), so the raunchiness was comfortable for them. Mudcat: that's why they like booking people who know each other.
+> - **Mudcat on the Arbiter reveal:** "I rolled the D10 for it… it's going to be canon after this… **Now the Arbiter's dick is one inch long.**" Joel: "**he's a big dude… He's like nine feet tall.**" (Player remark, not an in-world statement.)
+> - Mudcat: "anytime I'm rolling for the Arbiter, he cannot roll to save his life." Caustic Phoenix: "**Thank goodness for Doug the Pug… He always outrolls the Arbiter.**" Mudcat: "It's just become his whole shtick now."
+> - Caustic Phoenix asks the players for actual Yelp-review recordings for future commercials, "the Dread Fortress as a love fortress or as a marriage counseling location." Possibly a "where are they now?" Stella will "play up the Kairen thing."
+> - Mudcat: Kairen is typically the villain, "but Arbiter's been trying to overthrow the Grandmaster forever," so he has issues with the place too. "Two villains."
 > - **Chinchilla history (creator note):**
->   - Drew: the event was first used in "our first episode with **Blizzbear and Mxiety**." Blizzbear tried to persuade the chinchillas and it went badly, so Drew role-played a lead chinchilla citing union rules: "Maybe after my break."
+>   - Mudcat: the event was first used in "our first episode with **Blizzbear and Mxiety**." Blizzbear tried to persuade the chinchillas and it went badly, so Mudcat role-played a lead chinchilla citing union rules: "Maybe after my break."
 >   - It was originally a "hamster ball of death," until someone asked for chinchillas.
->   - Bec: "**Chinchillas might become a small theme for this season.**" Merch idea: a chinchilla shirt; Joel suggests "unionized assassins."
+>   - Caustic Phoenix: "**Chinchillas might become a small theme for this season.**" Merch idea: a chinchilla shirt; Joel suggests "unionized assassins."
 > - Map ideas: a chinchillas' collective birthday party, "they all have little tiny hats."
 > - Kitchen jokes:
 >   - Joel expects the kitchen done next week, with an "HGTV walkthrough."
->   - Drew: "**We put in a backsplash made of human skulls.** Don't ask us where we got them from."
->   - "Free range… until we put them in cages." Bec: "Grass fed. They're all vegans."
+>   - Mudcat: "**We put in a backsplash made of human skulls.** Don't ask us where we got them from."
+>   - "Free range… until we put them in cages." Caustic Phoenix: "Grass fed. They're all vegans."
 > - Words of wisdom:
 >   - Stella: communication is key; therapy is great, and there are free resources; "**we do not condone domestic violence.**"
 >   - Joel: have an established safe word; commit to the bit.
->   - Bec: "mangoes the safe word… pineapples… is a code for swingers."
+>   - Caustic Phoenix: "mangoes the safe word… pineapples… is a code for swingers."
 > - Sign-off: "See you guys next week at the next D20 Deathmatch."
 

@@ -158,12 +158,12 @@ With the champions sent home, the hosts confirmed the Unbreakable Redacted Frien
 - Gave the box the Grandmaster's/Thea's credit card. Got Doug's collar, then the **Shield of the Golden King**.
 - Died by imploding as a black hole; reborn as glittery stardust. Motto: "I will remain no one. But everyone, on my own terms."
 
-**[[Characters/Thea|Thea]]** (Bec). Flying (winged) helper at the Dread Fortress who eats goldfish.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). Flying (winged) helper at the Dread Fortress who eats goldfish.
 - Forgot to send the invitations.
 - Served as Atlas's backpack, then his core ("Fatlas"). Swallowed the blue pill for him and was ejected as an escape pod.
 - Had a card for buying the Grandmaster Taco Bell (per Copycat).
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Fixes Copycat by atomizing her. Doesn't believe in therapy ("hard sciences").
 - Slapped by the Grandmaster.
 - Has a sponsor for his betting; bet on Copycat. Wears handcrafted Italian leather shoes. Ate chili fries.
@@ -172,13 +172,13 @@ With the champions sent home, the hosts confirmed the Unbreakable Redacted Frien
 - Summons the Box of Chaos. A ring of his came out of the box.
 - Says Dread Fortress Mobile gives him five bars.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - "Deathmatch is returning." Calls the arena "a supportive environment." Has torn champions apart "hundreds of times."
 - Wants Team A's leader to champion "perhaps my greatest armies… to defend the Void."
 - Bet on Robbie. Protects Doug from the Hunger and gave away Doug's collar.
 - Revived Copycat and Atlas, and commissioned the team.
 
-**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Drew). A shadowy figure with claws and yellow eyes. Wants people to knock, naps, and says he "doesn't get paid enough." Cooks traded tentacles as sashimi ("tastes like puppies"). Took the credit card. Says the box has been "working forever now."
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Mudcat). A shadowy figure with claws and yellow eyes. Wants people to knock, naps, and says he "doesn't get paid enough." Cooks traded tentacles as sashimi ("tastes like puppies"). Took the credit card. Says the box has been "working forever now."
 
 **[[Characters/Doug the Pug|Doug the pug.]]** The Grandmaster's pug; he rolls dice. His collar grants pug swiftness.
 
@@ -215,7 +215,7 @@ With the champions sent home, the hosts confirmed the Unbreakable Redacted Frien
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — last-minute prep in the Dread Fortress
-> 1. **0:08:15** Bec opens: "Welcome, Acolytes, to the arena!" The focus is on **Team A**, "soon to be determined what their actual team name is". Tonight the team members find out who will lead.
+> 1. **0:08:15** Caustic Phoenix opens: "Welcome, Acolytes, to the arena!" The focus is on **Team A**, "soon to be determined what their actual team name is". Tonight the team members find out who will lead.
 > 2. **0:08:40** In a busy room of the Dread Fortress, **the Grandmaster, Thea and the Arbiter rush to finish the last details**: Acolyte invites, and restocking the concession stands with **blue slushies, hot dogs and plizzies**. The Arbiter: "We're already late."
 > 3. **0:09:14** They call for Thea. **She has been lugging around a giant bowl of goldfish, her "pre-show dinner."** The Arbiter tells her the Grandmaster "has instructed me to instruct you to make sure that all this shit gets done."
 > 4. **0:09:46** Thea says she cleaned the arena ("really primed for some blood") and sent the champions their invitations. She reminded them that everyone will be revived, so they can "pull out all the stops" ("Pull them out or stop them?"). **The Arbiter holds up the invitations: they're still in his hand.** Thea's jaw drops. The Grandmaster tells him not to tease her and to send them now (speaker inferred).
@@ -320,12 +320,12 @@ With the champions sent home, the hosts confirmed the Unbreakable Redacted Frien
 > 79. **2:04:49 — The Grandmaster's closing.** "I respect the drive to continue to push for power. After all, that's what the arena is always for… If you choose to be weak… you are not meant to be here… through blood, through sweats, through metal of all sorts… you will discover who you are and who your friends really are. Thank you and welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - The players were sent home because the episode ran long; Drew and Bec talk alone ("with words and interpretive dance").
+> - The players were sent home because the episode ran long; Mudcat and Caustic Phoenix talk alone ("with words and interpretive dance").
 > - This is "episode three of the season, but only our first Deathmatch."
-> - **Bec:** this is the "new updated style" they wanted: a setup episode to get to know characters and build camaraderie, then the Deathmatch. It brought "personal attacks." She loved how the players asked each other's permission to "take liberties" describing each other's characters: "a lot of trust established."
-> - **The official Team A name is "The Unbreakable Redacted Friends"** (Drew: "It's a mouthful"). T-shirts are planned. Bec won't tell Teams B and C the name, to see what they come up with.
-> - **Bec lists "the D20 family" now in place:** the Grandmaster, "the Arbiter back in his place where he's supposed to be," Thea, Doug, Stuart, Dr. Octor, the champions, chinchillas and goblins.
-> - **Drew:** Stuart is "our go-to shit on for anything IT related." He enjoys being mean to Stuart as the Arbiter. Season 1 was meant to be episodic with little lore; the lore has developed naturally, "the best of both worlds." (Bec: "All right, Hannah Montana.")
-> - **In character (Dried Blood), Drew as the Arbiter:** "Stuart, it's never going to fucking happen." Bec replies: "Stuart, we'll look at getting you some promotion. No, we won't." (Bec's speaker role is uncertain.)
-> - Bec, explicitly as Caustic: the community's participation matters ("how many of them we crushed in the actual episode"). She wants viewers to see themselves as part of the world, not just viewers. She's off to get Taco Bell.
+> - **Caustic Phoenix:** this is the "new updated style" they wanted: a setup episode to get to know characters and build camaraderie, then the Deathmatch. It brought "personal attacks." She loved how the players asked each other's permission to "take liberties" describing each other's characters: "a lot of trust established."
+> - **The official Team A name is "The Unbreakable Redacted Friends"** (Mudcat: "It's a mouthful"). T-shirts are planned. Caustic Phoenix won't tell Teams B and C the name, to see what they come up with.
+> - **Caustic Phoenix lists "the D20 family" now in place:** the Grandmaster, "the Arbiter back in his place where he's supposed to be," Thea, Doug, Stuart, Dr. Octor, the champions, chinchillas and goblins.
+> - **Mudcat:** Stuart is "our go-to shit on for anything IT related." He enjoys being mean to Stuart as the Arbiter. Season 1 was meant to be episodic with little lore; the lore has developed naturally, "the best of both worlds." (Caustic Phoenix: "All right, Hannah Montana.")
+> - **In character (Dried Blood), Mudcat as the Arbiter:** "Stuart, it's never going to fucking happen." Caustic Phoenix replies: "Stuart, we'll look at getting you some promotion. No, we won't." (Caustic Phoenix's speaker role is uncertain.)
+> - Caustic Phoenix, explicitly as Caustic: the community's participation matters ("how many of them we crushed in the actual episode"). She wants viewers to see themselves as part of the world, not just viewers. She's off to get Taco Bell.
 

@@ -20,8 +20,11 @@ arena: The Sands of Eternity and the city of Mortaurios
 summary: After Locket dies in the Sands of Eternity, the grieving party kills four desert outlanders alongside Cerys, the Aasimar whose stray arrow killed her. They follow Cerys through a sand portal to the city of Mortaurios, where the royal guard escorts them to the throne hall of its king and queen.
 tags:
 - episode
+youtube: https://youtu.be/0lTfjV0ByVs
 canon_order: 74
 ---
+
+Watch on YouTube: [Part 1](https://youtu.be/0lTfjV0ByVs) · [Part 2](https://youtu.be/a3xggrLVo8g)
 
 This chapter of the Into the Mirror saga opens moments after the worst thing that could happen in [[The Sands of Eternity]]: [[Locket]] has crumbled to sand in [[Flynry]]'s arms, killed by an arrow through the throat. [[Toddleheim]] nearly loses himself to his werewolf form, and [[Elianna]] the librarian discovers she can slit throats. Then the party comes face to face with **[[Cerys]]**, the stranger who fired that arrow. By the end, the grieving party has passed through a whispered portal into the city of the dead, [[Mortaurios]], and stands before the thrones of its rulers.
 
@@ -172,7 +175,7 @@ The ziggurat's door is hundreds of feet high. Inside, bridges cross a black chas
   - A walled desert city on a miles-wide trapezoidal platform, reached by speaking its name in the desert.
   - Crowded bazaars, paved streets and a social hierarchy. No children, little wildlife.
 - **[[Places/The ziggurat|The ziggurat]]**: the central pyramid with a crystal beaming light skyward. Inside, a chasm of bridges, floating star-motes and a mirror light system around a blue palace with a throne hall.
-- **[[Lore/The Void|The Void]]**: named by Drew as the realms of the Dread Fortress, "an amalgamation of lost worlds."
+- **[[Lore/The Void|The Void]]**: named by Mudcat as the realms of the Dread Fortress, "an amalgamation of lost worlds."
 
 ### Items
 - Flynry's mirror greatsword.
@@ -202,14 +205,14 @@ The ziggurat's door is hundreds of feet high. Inside, bridges cross a black chas
 >
 > ### Toddleheim looks into the sword
 > 8. **0:05:58** Toddleheim is the only one who hasn't looked into the sword. **Flynry draws it and plants it in the ground with its mirror facing him.**
-> 9. **0:06:26** Drew asks for Toddleheim's inner image of himself ("like the Matrix"). Ahnubyss answers that even after regaining some youth from a magic item, **Toddleheim still sees himself as the old, wise wizard** who has accomplished everything he wanted: content, satisfied and happy.
+> 9. **0:06:26** Mudcat asks for Toddleheim's inner image of himself ("like the Matrix"). Ahnubyss answers that even after regaining some youth from a magic item, **Toddleheim still sees himself as the old, wise wizard** who has accomplished everything he wanted: content, satisfied and happy.
 > 10. **0:07:37** In this place, having seen his inner truth in the mirror, **Toddleheim can control the transformation at will and can shape his image however he sees himself inside.**
 > 11. **0:08:38** The reflection flickers between his real form and his inner self. **He sees a mirage of Locket put her hand on his shoulder.** He chooses not to fully transform, and his bones crunch back into place. Still crying, he hugs Flynry back.
 > 12. **0:09:31** On a low Wisdom roll, Toddleheim only partly grasps it: Flynry looks different here and his own inner image was different, so **how you look in this place "might be up to you."**
 > 13. **0:10:32** Everyone rolls perception, and Ahnubyss rolls a nat 20. Elianna is still asking "What did she just see?" Nobody explains, so she writes it in her notebook. Flynry: **"She watched a werewolf almost kill her, look into a mirror, and now two men are hugging."**
 >
 > ### Flashback: Cerys (moments before Locket's death)
-> 14. **0:11:22** Drew rewinds time to just before Locket died and has Miss_Magitek describe her new character.
+> 14. **0:11:22** Mudcat rewinds time to just before Locket died and has Miss_Magitek describe her new character.
 >     - **Cerys** is an Aasimar, about six feet tall and ethereal-looking, with grayish skin and long blue hair tied back.
 >     - She wears heavy armor, tattered, worn and dull, over **blue robes and vestments**, and carries a blade and shield.
 >     - Her face is worn, without a smile: "jaded by this place."
@@ -232,13 +235,13 @@ The ziggurat's door is hundreds of feet high. Inside, bridges cross a black chas
 > 24. **0:25:04** Toddleheim is right on his heels ("Flynry's got blood in the water, I'm there"). Elianna clutches her pen and book and runs after them, because she does not want to be left alone.
 >
 > ### The fight with the outlanders
-> 25. **0:26:19** The spear-wielder steps back and **throws a javelin** at Flynry, who leads the charge. Flynry is torn between the glowing figure and the archer now holding the same bow. In the "new Flynry's" cool calm, **he ducks aside without breaking eye contact.** The javelin flies between him and Toddleheim, past Toddleheim's face. Elianna asks how tall Toddleheim is ("He's not that tall"). Drew: "Toddleheim's a dwarf here." She was standing right behind him staring at the back of his head, and it misses her too.
+> 25. **0:26:19** The spear-wielder steps back and **throws a javelin** at Flynry, who leads the charge. Flynry is torn between the glowing figure and the archer now holding the same bow. In the "new Flynry's" cool calm, **he ducks aside without breaking eye contact.** The javelin flies between him and Toddleheim, past Toddleheim's face. Elianna asks how tall Toddleheim is ("He's not that tall"). Mudcat: "Toddleheim's a dwarf here." She was standing right behind him staring at the back of his head, and it misses her too.
 > 26. **0:28:36 Elianna** opens her book to the first spell she sees and **casts sleep at 2nd level** on all of them. Three attackers stumble and doze off one by one. **The kneeling Cerys is unaffected, and so is the archer**, who shrugs it off and keeps the bow on Flynry.
 > 27. **0:30:58 Cerys** spares the sleeping spear-wielder for now. She stands, still glowing, picks up her weapons and **cuts deep into the archer with her longsword, adding radiant damage.**
 > 28. **0:33:45** Flynry, confused: the two people he thought were on the same team clearly aren't.
 > 30. **0:35:30 Flynry** keeps his eyes locked on the radiant stranger ("you had the bow when I came up here"). But Toddleheim is "his best friend, number one": if this is who they're attacking, "this is who we're fucking attacking." He walks toward the burning man, who is still patting out flames. He breaks eye contact, **throws the bow away, knocks the archer to his knees and takes his head off with the greatsword.** "A full decap, double decap latte from Flynry." The head rolls down the dune, and **the body evaporates into sand, like Locket.**
 > 31. **0:38:10 Elianna** rummages through her bag ("the toolkit from heaven"; "Mary Poppins' purse out here in the desert"). She has crossbow bolts but no dagger. **She takes the smallest dagger from the sleeping outlander in purple clothes.** She was never trained with weapons. She whispers a basic prayer, grabs his face and **slits his throat.** His eyes shoot open and he gurgles blood up at her before turning to sand. She pats the ground: "Well, there's two more left."
-> 32. **0:41:08** She walks to the sleeping **Tabaxi**, says "a nice little farewell prayer" and **slits its throat too** (Drew grants a bonus-action slice). It is the first time she has been violent. She looks at Flynry: "Eh?" Flynry nods, "yep." Teej: "Our librarian's a sociopath." Drew: "War crimes it is."
+> 32. **0:41:08** She walks to the sleeping **Tabaxi**, says "a nice little farewell prayer" and **slits its throat too** (Mudcat grants a bonus-action slice). It is the first time she has been violent. She looks at Flynry: "Eh?" Flynry nods, "yep." Teej: "Our librarian's a sociopath." Mudcat: "War crimes it is."
 > 33. **0:42:45 Cerys** glares at all of them. To the sleeping spear-wielder: **"Oh, I've been waiting for you."** She drives her longsword through his chest. He convulses and half sits up, reaching for his spear, then **freezes and turns to sand.**
 > 34. **0:44:17** Flynry wonders whether this stranger is somehow Locket. **On a perception check he gets no sense of recognition.** Unlike Toddleheim in werewolf form, she seems a different person.
 >
@@ -265,7 +268,7 @@ The ziggurat's door is hundreds of feet high. Inside, bridges cross a black chas
 >     - A large gate stands at the top of the steps. Elianna hastily takes notes.
 > 50. **1:05:18** Elianna, still wary of Toddleheim, shows Flynry her earlier sketch: **"Well, she wasn't lying. This is the place."** Teej: "the brothers grumpy."
 > 51. **1:05:54** Flynry asks how Cerys found it. Cerys: "I found somebody else from the city, similar to how you all found me, and they brought me here… there are many different people here." She has **never been to the ziggurat** and offers to go with them. She is trying to return somewhere.
-> 52. **1:07:06** Teej asks the DM what their home world is called. Drew: the plane of the Dread Fortress and all its realms is "an amalgamation of lost worlds… **simply just called the Void.**" In character:
+> 52. **1:07:06** Teej asks the DM what their home world is called. Mudcat: the plane of the Dread Fortress and all its realms is "an amalgamation of lost worlds… **simply just called the Void.**" In character:
 >     - Flynry: "Did you come from the Void?" Cerys: **"From a part of it, yes. A long time ago."**
 >     - Toddleheim: "And so you were killed." Cerys: "Yes, that is how I found myself here."
 >     - Flynry: **"We too were killed and arrived here."**

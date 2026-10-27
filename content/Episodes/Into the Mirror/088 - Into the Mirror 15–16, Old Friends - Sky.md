@@ -18,8 +18,11 @@ arena: A library in the Sands of Eternity and the sand outside it
 summary: Stranded in the Sands of Eternity, the party wakes the dead Arbiter, Vythorn, and reluctantly allies with him to save the Grandmaster from the Shadow King. The tiefling raider Sky then ambushes them outside the library, and the episode ends mid-fight on a cliffhanger.
 tags:
 - episode
+youtube: https://youtu.be/G67yfFkeNWg
 canon_order: 88
 ---
+
+Watch on YouTube: [Part 1](https://youtu.be/G67yfFkeNWg) · [Part 2](https://youtu.be/g-uDyQSh3MA)
 
 Lost in [[The Sands of Eternity]], the land where the dead turn to sand, [[Flynry]], [[Elianna]], [[Toddleheim]] and [[Cerys]] find themselves face to face with the last man any of them wanted to see: [[The Arbiter|the Arbiter]], the very person who killed most of them. He is now dead himself and oddly eager to make friends. What follows is a tense negotiation, a tackle undone by time magic, a blood oath signed in a notebook, and a brutal ambush by a smooth-talking tiefling bandit named [[Sky]] that leaves the party fighting for their lives when the curtain drops.
 
@@ -109,14 +112,14 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Drew)
+**[[Characters/The Arbiter|Vythorn / the Arbiter]]** (Mudcat)
 - **Situation:** Dead and in the Sands of Eternity. He was murdered in the Dread Fortress ("I died in the throne room") by the Shadow King, whom he believes is now holding the Grandmaster hostage "or worse." He had been stuck in an illusion in the library where books kept turning to sand.
 - **Last memories:** being in chains serving the Grandmaster, killing the party, then "lunch."
 - **His account of the past:**
   - He rescued the exiled Elusia after her father's death and brought her home to challenge her uncle, the Shadow King.
   - He then created the **Box of Chaos** to hold the Shadow King's soul, siphoned its power, and was clouded and whispered to by it.
   - He claims the King, not he, killed the party, and says he doesn't know whether he obliterated Orin.
-- **His relationship with Elusia:** says he has known her "a thousand years." Per Elianna's knowledge (Drew's narration), she named him Arbiter 700 years ago and he has served her for 700 years.
+- **His relationship with Elusia:** says he has known her "a thousand years." Per Elianna's knowledge (Mudcat's narration), she named him Arbiter 700 years ago and he has served her for 700 years.
 - **Stated aims:** Grandmaster safe, Shadow King dead, "my power back."
 - **Size and power:** about 8 ft tall. Weaker here than before. Can still rewind a moment in time (undoing Elianna's tackle) and grant Fortune's Favor and Chronal Shift rerolls. Cannot do large time reversal in the dampened area outside the library. Casts thunder step.
 - **Other actions:** made the tome disappear "into" his keeping. Says he did not know for sure where the mirror would send the party.
@@ -187,7 +190,7 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 - The Arbiter created the Box of Chaos to keep the Shadow King's knowledge, and was influenced by it.
 - The Shadow King rebuilt his body from sacrifices to the Box of Chaos.
 - The Sands of Eternity's history and the 2000-year closure.
-- In the Sands, "If they were dead, they'd be sand" (Drew, 1:48:18): the dead here crumble to sand.
+- In the Sands, "If they were dead, they'd be sand" (Mudcat, 1:48:18): the dead here crumble to sand.
 - Books in the Arbiter's illusion turned to sand until he was freed.
 
 ## Full Round-by-Round
@@ -205,7 +208,7 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 >    - The Arbiter recognizes Toddleheim ("him and, well, just him") and points at Elianna as well.
 > 3. **0:01:55 Where are they?** The Arbiter: "What matters is you're here, and now we can get to work. What is this place?"
 >    - Flynry: "Looks like a library to me." The Arbiter: "No library I've ever seen."
->    - Drew notes the Arbiter is "oblivious to the fact that he already murdered you guys once."
+>    - Mudcat notes the Arbiter is "oblivious to the fact that he already murdered you guys once."
 >    - Toddleheim: "We're off somewhere." The Arbiter: "**Everybody's somewhere. Be more specific! Aren't you a scholar?**"
 > 4. **0:03:13 What he remembers.** Elianna asks for the last thing he remembers.
 >    - The Arbiter: "**being in chains and... Serving the Grandmaster. I remember killing you and then I went to lunch and then moved on.**"
@@ -248,19 +251,19 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 > #### Elianna tests the story
 > 14. **0:13:24 What Elianna knows.** Flynry asks Elianna, who spent the most time with him recently, if any of it is true. She rolls insight (24) and history (13).
 >     - From being around the Dread Fortress and close to the Grandmaster, she knows the story is factually true: he helped the Grandmaster overthrow her uncle and save the Void.
->     - **That was when the Grandmaster named him the Arbiter, "700 years" ago.** Despite the recent conflict, **he has served her for 700 years** (Drew's narration).
+>     - **That was when the Grandmaster named him the Arbiter, "700 years" ago.** Despite the recent conflict, **he has served her for 700 years** (Mudcat's narration).
 >     - She also knows the Grandmaster "**would welcome the challenge**" and values "deciding things in honorable combat." That is why **she kept him around (held captive) rather than executing him.**
 >     - Elianna relays that the first part is true, but "she does have her reasons. I still don't trust him. **And he's always been a pain in the ass.**"
 > 15. **0:16:58 An apology, sort of.** The Arbiter: "What if I said I was sorry, would that help any here?" "No." "Good, because I wasn't probably going to."
 > 16. **0:17:30 The throne room.** Asked what happened to the Grandmaster, he is "a little fuzzy." The Shadow King's influence "seeped into my mind."
 >     - "I remember now... **I died in the throne room.**"
 >     - "He somehow has been able to... **Rebuild a body, I think using the sacrifices to the Box of Chaos. An arm here, a leg there. Cryptocurrency.**" He is "very powerful now."
-> 17. **0:18:18 Size.** Drew: the Arbiter is **about 8 feet tall**. "Him and the Grandmaster are both pretty large in stature."
+> 17. **0:18:18 Size.** Mudcat: the Arbiter is **about 8 feet tall**. "Him and the Grandmaster are both pretty large in stature."
 >
 > #### The tackle
 > 18. **0:18:35 Elianna tackles the Arbiter.** Flynry sees her line up and **sidesteps to open the lane**.
 >     - She wins strength against his athletics (12 vs 9), sprints and tackles him. She sits on his chest **bashing his head with her book**.
->     - Flynry stands with arms crossed, laughing. Drew later notes "**He's also not as strong here as he used to be.**"
+>     - Flynry stands with arms crossed, laughing. Mudcat later notes "**He's also not as strong here as he used to be.**"
 > 19. **0:20:24 Time rewinds.** As the book comes down, **the Arbiter's eyes flare with milky, void-white swirls**. Everyone seems to blink.
 >     - **Elianna is back where she stood before the tackle**, and he is upright again: he has shifted time.
 >     - Elianna: "**God, not here too!**" She stomps her foot.
@@ -362,9 +365,9 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 >     - **After:** a very ornate amulet with a gem of red hue.
 >     - **All of the objects bear similar script**, like the Orrery's, which might be readable with the actual item.
 > 47. **0:58:07 The sword of truth.** Toddleheim looks for Flynry's sword and finds it.
->     - It is listed as "**the sword of truth**" (Drew: "which, you know, you aptly named it"). It is one of these sand-made objects.
+>     - It is listed as "**the sword of truth**" (Mudcat: "which, you know, you aptly named it"). It is one of these sand-made objects.
 >     - It "**has the ability to look beyond the physical... to gaze beyond what is apparent or what can be seen with the naked eye.**"
->     - Drew's "race cars" and Flynry's "transform into a truck" are table jokes.
+>     - Mudcat's "race cars" and Flynry's "transform into a truck" are table jokes.
 > 48. **1:00:09 Vythorn keeps the book.** Flynry: "I think we need to take this book with us."
 >     - He fumbles the name ("Viking... Thornbush"): "You're big enough to carry this book."
 >     - Vythorn: "**Don't worry, it's Vythorn. It's a large name for a small brain.**"
@@ -448,10 +451,10 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 > 70. **1:33:13 Toddleheim the Great.**
 >     - He considers Acid Splash but there are too many friends nearby ("Oh, it hurts so much! My skin!").
 >     - He fires a **5th-level magic missile at Sky** for a big hit, then a **fire bolt** at Sky that lands for little.
->     - Drew: "At least it looked cool." Flynry: "Thanks for the explosion."
+>     - Mudcat: "At least it looked cool." Flynry: "Thanks for the explosion."
 > 71. **1:36:40 The wizard: Steel Wind Strike.** The slender raider, now revealed as **a wizard**, steps out of the silence zone.
 >     - He conjures **a magical ethereal blade that whips around the battlefield at five targets**.
->     - **Elianna tries her first-ever reaction, Counterspell.** It needs a natural 20 in Drew's roll-off and fails. Drew: "at a third level, you wouldn't have dispelled it."
+>     - **Elianna tries her first-ever reaction, Counterspell.** It needs a natural 20 in Mudcat's roll-off and fails. Mudcat: "at a third level, you wouldn't have dispelled it."
 >     - **Sanctuary's save:** the wizard passes, so the strike on Toddleheim stands. Flynry: "**You want all of your main characters to die in a stupid fight against bandits.**"
 >     - **Everyone is hit for heavy damage. Cerys drops unconscious.**
 > 72. **1:42:33 The orc raider rages.** He looks at Flynry and smiles: "It's not going to take much."
@@ -469,7 +472,7 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 >
 > #### Round 2
 > 75. **1:47:37 Elianna's Mass Cure Wounds.** She casts it at 5th level on everyone in range: "they're not dead, right?"
->     - Drew: "**If they were dead, they'd be sand.**"
+>     - Mudcat: "**If they were dead, they'd be sand.**"
 >     - **Flynry and Cerys are back up.**
 > 76. **1:51:23 Toll the Dead.** As a bonus cantrip she casts **Toll the Dead "on that motherfucker,"** the orc.
 >     - He rolls a natural 20 on the save; as a seasoned fighter, he shrugs it off. Toddleheim's player: "I'm already dead."
@@ -481,12 +484,12 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 >     - Flynry finishes with another Flurry of Blows, both landing.
 >     - "And now he turns and kills me, but Cerys, it's up to you."
 > 78. **1:57:04 Cerys's critical smite.** One miss, then a **natural 20**, with a **Divine Smite at 3rd level**. **Sky is left barely standing.** Cerys: "We believe in you, Toddleheim."
-> 79. **1:59:23 Toddleheim answers Sky.** Drew reminds him of Sky's offer.
+> 79. **1:59:23 Toddleheim answers Sky.** Mudcat reminds him of Sky's offer.
 >     - Toddleheim: "Fuck it, we're full sending it." He walks up to Sky: "**Yes, it does**," and casts a **4th-level magic missile**.
 > 80. **2:00:18 Counterspell duel.**
 >     - **Sky counterspells** with his reaction. Flynry's player: "These dudes are like raid bosses."
 >     - **Elianna tries to counterspell the counterspell** and fails the roll.
 >     - **Vythorn uses a reaction, "Chronal Shift," to let her reroll.** She sees events play out in her mind, outside time, with the Arbiter influencing her.
->     - Drew then has Toddleheim roll (21). Narration: "As you raise your hand, Vythorn raises his to help Elianna. Elianna's magic, unaffected. He raises his, and whatever the magic in your hand just gets fizzled out... **counterspelling you.**"
+>     - Mudcat then has Toddleheim roll (21). Narration: "As you raise your hand, Vythorn raises his to help Elianna. Elianna's magic, unaffected. He raises his, and whatever the magic in your hand just gets fizzled out... **counterspelling you.**"
 > 81. **2:03:39 Cliffhanger.** "**And then, Sky, holding an action, is going to reach out with his glaive and attack you**" (Toddleheim). **The file ends here.**
 

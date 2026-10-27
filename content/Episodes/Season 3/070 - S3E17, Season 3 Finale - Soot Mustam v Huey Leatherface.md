@@ -160,20 +160,20 @@ The chains pulled the Grandmaster down until she knelt before the uncle who call
 **[[Characters/Doug the Pug|Doug]]**. The Grandmaster's pug, who rides in her wings.
 - Peed on Huey's shoe in the arena.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Drew). The shadowy, yellow-eyed being in the Box of Chaos.
+**[[Lore/The Box of Chaos|Gerald]]** (Mudcat). The shadowy, yellow-eyed being in the Box of Chaos.
 - Grumpy, swears, called Soot's offering trash and dumped a trash can on him.
 - Ate Flamewing and picked his teeth after.
 - Paid out the Cube of Annihilation and the Amulet of Health.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew). Elusia's uncle, who **returned from the Box of Chaos** at the end of the season. He killed the throne-room goblins, chained Elusia, took the throne, summoned dozens of Dragon Knights, killed the Arbiter, and forced Elusia to kneel. He calls her "child" and "daughter."
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat). Elusia's uncle, who **returned from the Box of Chaos** at the end of the season. He killed the throne-room goblins, chained Elusia, took the throne, summoned dozens of Dragon Knights, killed the Arbiter, and forced Elusia to kneel. He calls her "child" and "daughter."
 
-**[[Characters/The Arbiter|The Arbiter / Vythorn the Endless Scholar]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter / Vythorn the Endless Scholar]]** (Mudcat).
 - Wore sackcloth "rags" and **chains for about "five months"** this season. The Grandmaster freed him for good behavior, and his black spiked leathers and Italian leather boots returned.
 - Admitted "I was mistaken" about her being weak.
 - His shadow and chaos energy were drawn out of him into the box, giving the Shadow King "ten times" his power.
 - **Died taking a shadow blade meant for Doug.** Last words: "I am sorry for so many things… For knowledge."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Face-painted goblins; owns treasure rooms that fund the Deathmatch.
 - Shot Soot as a chaos event. Cried and sealed the Cube after Soot died, then dropped Huey in fright at Marymoo.
 - Freed the Arbiter. Wields **Oathbow**.
@@ -225,7 +225,7 @@ The chains pulled the Grandmaster down until she knelt before the uncle who call
 > ### Opening: face paint in the Grandmaster's chambers
 > 1. **0:04:33** The Arbiter walks the halls of the Dread Fortress looking for the Grandmaster, who "continues to elude him this evening." He hears giggling and **a cotton candy machine whirring** inside her chambers.
 > 2. **0:05:01** He bursts through the double doors. **A line of goblins** leads up to the top of her throne, where she has **a small table of paints and is face-painting goblins one at a time**. There's a board of designs to pick from: butterflies, blood dripping from the eyes, a unicorn, Spider-Man. The goblins are excited for "the final, final deathmatch of the season."
-> 3. **0:05:41 Nathaniel.** The smallest, cutest goblin is **Nathaniel** (Bec named him after her youngest brother). He asks for **an orc skull**, and she paints a bright pink one in the middle of his forehead. Then **Nathaniel holds up his chinchilla** for face paint too, and she covers it in little hearts.
+> 3. **0:05:41 Nathaniel.** The smallest, cutest goblin is **Nathaniel** (Caustic Phoenix named him after her youngest brother). He asks for **an orc skull**, and she paints a bright pink one in the middle of his forehead. Then **Nathaniel holds up his chinchilla** for face paint too, and she covers it in little hearts.
 > 4. **0:06:56** "The Arbiter has a blood vessel about to blow." He tells her it's after nine and the season finale. "Already?"
 > 5. **0:07:17 The speed rush.** Panicking at the length of the line, she lines everyone up, **dips her whole hand in paint and runs down the line smacking every goblin's face**, leaving streaks of fingerprints. Some paint splashes onto **the Arbiter's "sack of clothes."** She wipes the rest of her hand on his shoulder, since "you're wearing rags anyway."
 > 6. **0:07:58** The Arbiter: a fresh pair of clothes "would be great. **It's been five months.**" GM: "Maybe after this match."
@@ -260,7 +260,7 @@ The chains pulled the Grandmaster down until she knelt before the uncle who call
 > 25. **0:21:30** Soot: "**I've been punched harder than that before with an arrow to the face.**" Huey: "Wow, an arrow of punching. I have tried to create one for years."
 >
 > ### Round 1
-> 26. **0:22:49 Flamewing.** "I summon Steed!" **Soot casts Find Steed**, summoning a "flame horse that's not copyrighted." Drew uses a Pegasus token ("I have two of them, actually").
+> 26. **0:22:49 Flamewing.** "I summon Steed!" **Soot casts Find Steed**, summoning a "flame horse that's not copyrighted." Mudcat uses a Pegasus token ("I have two of them, actually").
 >     - GM: "I assume it comes out of a red and white ball." Soot: "How dare you? **It comes out of a blue and white square**… It's called a **dice cage**." Huey: "The latest technology."
 >     - Huey: "You do have enough badges. Bobbles. **Legally distinct bobbles**." Soot: "They're called **bells**. Bobbles or bells. It's interchangeable." GM: "We're really good at this world building on the spot."
 >     - **The steed is named Flamewing.** Soot **leaps up "like Mario,"** hooks a leg over and flies over the fire, greatsword in hand. GM: "Very Valkyrie-like."

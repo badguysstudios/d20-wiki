@@ -129,9 +129,9 @@ Agatha left the Acolytes with one last piece of grandmotherly wisdom: "Don't for
 
 **[[Characters/Stuart|Stuart]]**: blamed for the tech failure. The Arbiter wants him fired; the Grandmaster offers him a bonus if the show survives. Whether he is in-world is unclear.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew): fixed Thea, and denies responsibility for the Box of Chaos ("Nobody's in charge of the box"). Wears Italian leather shoes. Enjoys toffee and Agatha's kindness. White glowing wings.
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat): fixed Thea, and denies responsibility for the Box of Chaos ("Nobody's in charge of the box"). Wears Italian leather shoes. Enjoys toffee and Agatha's kindness. White glowing wings.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec): angry about the fortress damage and wants the box controlled. Switches sides repeatedly. Flustered by the ending, she crowned both champions.
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix): angry about the fortress damage and wants the box controlled. Switches sides repeatedly. Flustered by the ending, she crowned both champions.
 
 **The worm civilization**: tiny multicolored worm-like beings underground in the asteroid crater. Agatha's fall crushed 60 of them. (Dried Blood: worm lore since about Season 1; their mayor was killed.)
 
@@ -287,7 +287,7 @@ Agatha left the Acolytes with one last piece of grandmotherly wisdom: "Don't for
 >
 > ### Round 4: the helmet
 > 44. **1:03:55 — Lug is late.** Zac is missing from the screen. The Grandmaster calls "Lug! Is he working out in the gym or something?" and calls it a dramatic pause before his entrance. Lug says the crowd noise is a cheer: "They're not booing." The Grandmaster: "if you're a little deaf, it sounds nice still."
-> 45. **1:04:58 — Agatha and the chatter.** A chat member asks whether the show is live, and Agatha snaps: "**This is not a rerun, you fuck.**" (The line is diarized to a Bec ID, but Cinderblocksally claims it as Agatha's at 1:05:10.)
+> 45. **1:04:58 — Agatha and the chatter.** A chat member asks whether the show is live, and Agatha snaps: "**This is not a rerun, you fuck.**" (The line is diarized to a Caustic Phoenix ID, but Cinderblocksally claims it as Agatha's at 1:05:10.)
 >     - Agatha's apology: "I don't think you're a fuck, by the way. That's just Agatha… **you don't get to stay ahead of the HOA by playing nice to the chat.**"
 > 46. **1:05:29 — Always first.** The Grandmaster: "Are those two brain cells not working for you?"
 >     - Lug: "I was first in everything. I've been first my whole life. And you know why? **Because my dad paid people off.**" (Diarized to Zac's second ID): "**I won my first egg and spoon race.**"
@@ -323,19 +323,19 @@ Agatha left the Acolytes with one last piece of grandmotherly wisdom: "Don't for
 >     - The Grandmaster notes that everyone is just watching Lug struggle by himself as his own arms wrap around him.
 > 56. **1:18:33 — The cat strikes.** Lug: "The cat's gonna kill me." Agatha: "Yeah, the cat's gonna come up and try to claw his face! **Because it's his mean dad!**"
 >     - As the cat attacks, she whispers: "**You can be a better man than your father was,**" and releases him.
->     - The Grandmaster asks for Lug's dad's name; she doesn't want to call the cat "Dad." Lug: "**Papa.**" Bec: "Who the fuck doesn't know his own dad's name?"
+>     - The Grandmaster asks for Lug's dad's name; she doesn't want to call the cat "Dad." Lug: "**Papa.**" Caustic Phoenix: "Who the fuck doesn't know his own dad's name?"
 >     - **The cat hits, and the Acolytes triple the damage**, pelting Lug with slushies and cheering Agatha. Lug is left badly bloodied.
 >     - **Lug's rage has ended and he has shrunk back to normal size**, since "we technically crowned you and you hugged yourself."
 > 57. **1:20:42 — Agatha returns.** Agatha's ghost: "**Show your father that he is nothing to be afraid of.**" She vanishes, ends the spell and **returns to her body at half her maximum hit points.**
 > 58. **1:21:23 — Her choice.** The Grandmaster asks whether Agatha is now fighting alongside her grandson.
 >     - Agatha: "**I am choosing to see if my grandson is willing to not just be a man that talks of real estate and the poor, but being a man that stands up to the evil of his father in the form of a little cat.**"
->     - Bec: "Can you fight your dad as a little cat? Are you brave enough?" Lug: "**I'm so brave, I can fight any kitty cat.**"
+>     - Caustic Phoenix: "Can you fight your dad as a little cat? Are you brave enough?" Lug: "**I'm so brave, I can fight any kitty cat.**"
 >
 > ### Round 6: the cat-firework
 > 59. **1:22:16** Lug tries Mighty Impel on "my father cat." **The cat rolls another natural 20** and runs around him again ("He's such a dick of a dad… He's really not letting you have your moment").
 >     - The Grandmaster: "**this just sounds like a terrible Greek tragedy.** Like you accidentally fighting your grandma and then killing your dad."
 >     - Lug: "**Whether you're actually my dad or just a regular cat, it doesn't matter. I'll kill you anyway.**"
-> 60. **1:23:49** Agatha cheers him on: "**Let him grow! Give him grace! He's just a boy!**" Bec: "He's a boy! He's a man!"
+> 60. **1:23:49** Agatha cheers him on: "**Let him grow! Give him grace! He's just a boy!**" Caustic Phoenix: "He's a boy! He's a man!"
 > 61. **1:24:06 — The kill.** Lug grabs the cat off himself and smacks it one-handed with the warhammer. It fails the Strength save, and the damage exactly equals its remaining hit points.
 >     - Lug: "**I hit it so hard, it starts to burn up on what little atmosphere is still on this asteroid… it just starts to break apart and almost like a firework just explode in the upper atmosphere.**"
 >     - Lug: "**I would do that to any cat.**" The Arbiter: "Non-discriminatory." Lug: "**And if that really was my dad, good riddance.**"
@@ -359,20 +359,20 @@ Agatha left the Acolytes with one last piece of grandmotherly wisdom: "Don't for
 > **In character (canon, Dried Blood)**
 > - 1:44:54 Agatha's parting words to the Acolytes: "**Don't forget to be yourself, but also probably get a real job and, you know, don't be a fucking loser.**"
 > - 1:45:05 "**Invest in fossil fuels.**" This is Zac, probably as Lug; whether it's in character is uncertain.
-> - Bec: "This family is the worst." Drew: "**They're both alive**, so maybe we'll see more of them."
+> - Caustic Phoenix: "This family is the worst." Mudcat: "**They're both alive**, so maybe we'll see more of them."
 >
 > **Creator notes (out of character)**
 > - Cinderblocksally is returning to the show, last time "as an Eldritch Horror in a backpack." Agatha is "your classic spooky warlock… **Grandma first, warlock second.**"
-> - Bec: Agatha reminds her of her own grandma, Betty. Zac: "You know that time Betty died on purpose?"
+> - Caustic Phoenix: Agatha reminds her of her own grandma, Betty. Zac: "You know that time Betty died on purpose?"
 > - **Cinder's only plan:** Agatha is a grandma and does no damage herself; all damage comes from her pet cat. He had considered making her an alcoholic. The grandmother storyline was improvised.
 > - **Zac's plan:** the dad was a throwaway "hateable quality" ("don't you know who my father is"). He trusted Cinder to build on it. He chose barbarian so that Lug's one strength is launching people into the environment.
 > - The two agreed in advance only that Agatha would be a grandma and Lug an asshole, plus some mechanics, so the characters would interact well.
-> - **Drew on the worms:** "there's a whole backstory to the worms and they've already traumatized a lot… It dates back to, like, season two. No, **season one**, maybe." Bec: "**Their mayor has been killed, sacrificed.**" Bec jokes about the coming "worm war." The table riffs that Lug buys their property for condos and employs the worms to build them ("they can do all the electrics").
-> - Bec was baffled about how the Grandmaster should react to the ending; she compares it to a season finale of White Lotus ("send this to Mike White").
+> - **Mudcat on the worms:** "there's a whole backstory to the worms and they've already traumatized a lot… It dates back to, like, season two. No, **season one**, maybe." Caustic Phoenix: "**Their mayor has been killed, sacrificed.**" Caustic Phoenix jokes about the coming "worm war." The table riffs that Lug buys their property for condos and employs the worms to build them ("they can do all the electrics").
+> - Caustic Phoenix was baffled about how the Grandmaster should react to the ending; she compares it to a season finale of White Lotus ("send this to Mike White").
 > - Zac: "I should have just tried to kill my grandma… I've killed one family member, why not make it two?" Cinder was happiest that "at the end of the day, these are still bad people."
-> - Alternate reveals they joked about: Drew expected a fake-out ("I'm not your grandma"); Zac expected "I fucked your dad." Bec: "we need to multiverse this."
-> - **Mechanics:** chat said Lug was the best heel in a while ("Dick Twist… Good old Richard" mentioned as a past heel). The Acolytes stacked so much fatigue on him that Drew improvised **triple damage**, a new use of the system ("I was so hated that I kind of broke the system").
-> - The "are you live" chatter: the table loved it. Cinder: "That's called setting expectations." Bec: that was the meanest thing Agatha said all night, and it was aimed at a random fan.
+> - Alternate reveals they joked about: Mudcat expected a fake-out ("I'm not your grandma"); Zac expected "I fucked your dad." Caustic Phoenix: "we need to multiverse this."
+> - **Mechanics:** chat said Lug was the best heel in a while ("Dick Twist… Good old Richard" mentioned as a past heel). The Acolytes stacked so much fatigue on him that Mudcat improvised **triple damage**, a new use of the system ("I was so hated that I kind of broke the system").
+> - The "are you live" chatter: the table loved it. Cinder: "That's called setting expectations." Caustic Phoenix: that was the meanest thing Agatha said all night, and it was aimed at a random fan.
 > - It's Zac's first time on the show in seven seasons. His planned entrance was being carried in a palanquin on an ivory tower (the table then riffs on factory-farmed elephants and a resurrected woolly mammoth).
 > - Plugs: Cinderblocksally (YouTube/Twitch: Warhammer and D&D; an upcoming D&D stream built on audience-submitted homebrew). ZacSpeaksGiant (stories; **Reality Check**, a D&D one-shot that replaces dice with physical and mental challenges, Taskmaster-like; live shows in Perth and an unannounced Sydney date).
 

@@ -92,7 +92,7 @@ An hour of tunnels later, past hidden caches of weapons and maps, the goblins br
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Drew, a player character)
+**[[Characters/Grimnar Stormclaw|Grimnar Stormclaw]]** (Mudcat, a player character)
 - A 7'+ white polar-bear werebear with lightning-pattern burns on his chest and arms, eyes singed black, and minimal armor.
 - **Touched by chaos as a child; "I hear his voice inside of me."** He lives by the will of chaos ("It is not for me to decide").
 - His ritual: he walks out the orc skull's mouth onto the lava plains and **lets the chaos storm's lightning strike his hand** (he has years of scars from it). He offers himself as chaos's vessel, and the storm answered with gathering lightning.

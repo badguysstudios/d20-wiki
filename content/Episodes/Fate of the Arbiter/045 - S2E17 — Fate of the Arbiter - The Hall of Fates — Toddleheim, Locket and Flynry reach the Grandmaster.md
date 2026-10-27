@@ -16,8 +16,11 @@ arena: None; the sewers and halls of the Dread Fortress
 summary: Toddleheim, Locket and Flynry crawl through the acid sewers under the Dread Fortress, lose Kenny to the sludge and Lyrus to the Hall of Fates, and expose the Arbiter to the Grandmaster. He confesses, reveals an army of stolen champions, and accepts her challenge to a tournament for the Grandmaster title in one week.
 tags:
 - episode
+youtube: https://youtu.be/ZAhiweAX4gI
 canon_order: 45
 ---
+
+[Watch on YouTube](https://youtu.be/ZAhiweAX4gI)
 
 Months after escaping the Arbiter's private arena, [[Toddleheim|Toddleheim]], [[Locket]] and [[Flynry]] are living with the resistance and taking stranger jobs by the week. This time the mission is the big one: break into [[The Dread Fortress]] and warn [[Grandmaster Elusia Skypiercer|the Grandmaster]] about her treacherous right hand. The road there runs through flirtation, a taco-themed knife smith, a trench-coat jewelry dealer, a river of magical acid and a monster made entirely of sewage. It ends with **[[The Arbiter|the Arbiter]] finally confessing everything** to the Grandmaster's face.
 
@@ -159,7 +162,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 
 **[[Characters/The Seer|The Seer]]**. An old, blind Dragonborn who forged the party's items.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Revealed this episode:
   - **Confesses to the coup, the Tarrasque attack on the arena and kidnapping himself.**
   - **Champions don't go home: he has gathered them, willingly or "touched by my shadow"** (white and black eyes).
@@ -168,7 +171,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 - His view of her rule: says he and the Grandmaster "came up together" and "took this kingdom together," and says she killed her uncle for the throne. Calls her soft: "Your weakness is a disease."
 - Accepts the wager for her title and throne.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Hadn't left the Dread Fortress in weeks except for Deathmatches; unaware of the coup.
 - Holds that Deathmatches are meant to challenge and strengthen, not punish. **Says champions were to be compensated and returned to their home timelines.**
 - **Calls Orin "a valued friend… an old friend."**
@@ -211,7 +214,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Recap narration (0:00:00)
-> 1. **0:00:00** Drew opens with "Fate of the Arbiter, the Halls of Fate." The heroes are found "in the future", **months after the Sands of the Arena**. They have joined the resistance and "been on countless adventures since."
+> 1. **0:00:00** Mudcat opens with "Fate of the Arbiter, the Halls of Fate." The heroes are found "in the future", **months after the Sands of the Arena**. They have joined the resistance and "been on countless adventures since."
 > 2. Recap of the earlier parts:
 >    - The Grandmaster once hired them to find **the Arbiter, "kidnapped by the servants of the Void."** They found him and realized **he was the bad guy, "throwing a coup against the Grandmaster unbeknownst to her."** ("Your sudden but inevitable betrayal.")
 >    - They defeated **"the visage of the Arbiter"** and travelled back to the Dread Fortress, "only to realize it was another ruse. And the Arbiter was standing in front of you."
@@ -241,7 +244,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 > 12. **0:19:00 — Baptiste propositions Toddleheim** ("we could teach each other if you would like to practice your stabbing"). Toddleheim deflects: "my expertise is in wizardry and magic, so I feel like **maybe Locket might be a more preferential partner** for you to practice your stabbing with." Baptiste: "I guess a no is a no, but if you change your mind, I'll be around." Locket is "a little sad." The table decides he may be interested in several people (a "Prince Oberyn thing"), so Locket "might still have a chance." Baptiste bows, swishes his cloak "a little too much," and leaves for "important things to do out on the streets with the stabbing."
 > 13. **0:20:49 — Frank.** An orc in furs has sat through all of this. Flynry: "Sorry about all that, Frank."
 >     - Frank: "if I was gonna take odds, **he's not gonna live more than three or four days.**" And: "I think the knife was his penis." Toddleheim: "I do believe he was nothing but subtle."
->     - **Frank is the resident chef.** His meals are "un-gutted small rodents and stews of whatever he's found on the ground… and maybe some oats." "I make a mean **raccoon taco**." Its crunch is "the family secret" (Drew: "It's the pulverized bones").
+>     - **Frank is the resident chef.** His meals are "un-gutted small rodents and stews of whatever he's found on the ground… and maybe some oats." "I make a mean **raccoon taco**." Its crunch is "the family secret" (Mudcat: "It's the pulverized bones").
 >     - He stirs a cauldron set on an old forge **with his dirty battle axe**, tastes it, and **sprinkles dirt in "for some texture seasoning,"** whistling.
 > 14. **0:24:01 — Lyrus.** They find **Lyrus ("the bear… the Void Swords")** "in the same place we left him six months ago." In a makeshift HQ room with schematics on the table, he dismisses an armored soldier: "We don't have much time though, so get with it. Make haste."
 >     - "Did you bring me any back? Because Frank's cooking dinner again." Flynry: the ground beef wouldn't keep in the sun. Lyrus: "Sounds like a classic taco job."
@@ -268,7 +271,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 > 21. **0:44:53** They sleep early. **Lyrus wakes them "shortly before noon"**: he had expected them back "in like an hour" but let them sleep.
 >
 > ### The market (0:46:27)
-> 22. **0:46:27** As Kenny leads them out, **Baptiste comes in from a night out, "a little rough around the edges."** He bows and swishes his cape, **winks at Locket and also at Toddleheim**. Drew rolls stealth so that each thinks the wink was only for them. Kenny: "if you could get out of the way."
+> 22. **0:46:27** As Kenny leads them out, **Baptiste comes in from a night out, "a little rough around the edges."** He bows and swishes his cape, **winks at Locket and also at Toddleheim**. Mudcat rolls stealth so that each thinks the wink was only for them. Kenny: "if you could get out of the way."
 > 23. **0:47:45** The cobblestone district from the werewolf chase is busy before noon: street-sweeping, **roast ducks hung in windows**, fruit markets for travelers and locals. Flynry suggests Frank could shop here instead of "cooking up rats underneath the forge."
 > 24. **0:49:01 — The trench-coat merchant.** Next to a stall of nice carved silverware stands **a man in a trench coat flashing knockoff wooden spoons**, wearing "very short shorts" underneath. "You looking for spoons, bud?" Flynry: "Sure, sure, Ryan, I'll come see you first." Locket (perception 19) glimpses jewelry, chains, knives and vial-shaped pockets that may hold potions.
 > 25. **0:51:01 — The mood bracelet.** Flynry buys a small green bracelet. The merchant: "It came away from the south… a family heirloom. Of course, not my family." He charges **10 gold, "no refunds… some say it has magical properties."** It is **a mood bracelet**: it changes color as he clamps it on.
@@ -316,7 +319,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 >     - **Locket's flaming arrow blasts it for double damage**, but **burning it gives off noxious fumes** that poison Toddleheim within 20 ft. Flynry, hidden in a side room behind a wall: "Toddleheim looks like he's about to lose his tacos." Locket: "it's very reactive to fire, but also noxious." Flynry: "I'm going to stay in this little room over here. Good luck."
 >     - **Toddleheim creates a bonfire** at its edge ("he's not gonna be smart enough to avoid it") and **Misty Steps into Flynry's room**: "Sorry, Locket." "I'll manage."
 >     - **Lyrus casts Haste on Locket** and channels divinity with a Vow of Enmity, pointing his Void sword: "**Not today, shit monster!**"
->     - **Flynry's combo: he dips his gauntlet tips in the surface muck and Locket lights them with a flaming arrow.** Drew lets the burn slide ("burning off the shit"). He sprints, kicks off the wall over the bonfire, and **brings both flaming fists down**, then follows with a Flurry of Blows. **He is immune to poison, so he is "just showered in this stuff."**
+>     - **Flynry's combo: he dips his gauntlet tips in the surface muck and Locket lights them with a flaming arrow.** Mudcat lets the burn slide ("burning off the shit"). He sprints, kicks off the wall over the bonfire, and **brings both flaming fists down**, then follows with a Flurry of Blows. **He is immune to poison, so he is "just showered in this stuff."**
 >     - The elemental reforms by pulling up debris and heals. The bonfire burns it. It slams twice at Flynry and misses both, then **rears back like a whip and uses its "shit cannon,"** a cone of necrotic and acid sludge. Lyrus and Locket fail; Flynry's player saves. **The sludge stays on them until scraped off.**
 >     - Locket, hasted, clears the sludge and fires three flaming arrows that burn "giant singeing holes" through it.
 >     - **Toddleheim curves a Fire Bolt around the corner** for a huge hit; pieces melt off. He follows with **three magic missiles that splatter sludge across the wall.** Flynry: "Like the inside of a toilet."
@@ -327,7 +330,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 >
 > ### Under the Dread Fortress (2:28:32)
 > 49. **2:28:50** The long tunnel ends in a dead end. **Locket uses Keen Mind to recall the dissolved schematics:** this spot is directly under the floors of some room in the Dread Fortress. "Don't ask me how I remember that… I remember from that little goblin." Light shines through **square stone ceiling tiles on support beams** about seven feet up, where the mortar has chipped.
-> 50. **2:31:43** They weigh Acid Splash against Mold Earth. Drew: "have I as a DM laid traps for you? Or was I too lazy?"
+> 50. **2:31:43** They weigh Acid Splash against Mold Earth. Mudcat: "have I as a DM laid traps for you? Or was I too lazy?"
 > 51. **2:33:37 — Flynry's book.** Flynry pulls out a book with "the Arcane Gate… I think **maybe we got our items mixed up from the blind dragon. He is blind after all**." He casts **Arcane Gate** as a "snake cam" into a random spot above.
 >     - Through it they see **a hallway of large statues**.
 >     - **A stone door guard** clacks past, looks around, misses the portal (hidden behind a statue), and fades down the hall.

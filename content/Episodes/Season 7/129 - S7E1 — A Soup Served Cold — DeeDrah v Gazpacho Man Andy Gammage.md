@@ -142,26 +142,26 @@ Afterward, Andy told DeeDrah, "You can call me Andrew because you're not a perso
   - Killed by a ladle through the eye after losing rock-paper-scissors.
   - A loner. The GM bet on her.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Now "**upper management**." Delegated finding champions to Thea, and gives Thea her performance reviews.
 - Claims "We're partners now" and "**I kind of saved your life**." He hasn't taught Thea to write.
 - Traveled to the arena by flaring his white glowing wings in ripples of time and space.
 - Bet on Andy.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Opens the "season of Vigilance": danger approaches the Void.
 - **"There's the Grandmaster and then the Arbiter."**
 - "**Eons of ages old**," never had gazpacho; may have her first cup if Andy wins.
 - Hosts "The Price is Kinda Right" (in the break; not logged). Has vast, colorful wings.
 - Poured an unending bowl of gazpacho over DeeDrah's body.
 
-**[[Characters/Thea|Thea]]** (Bec). A tiny pink imp.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A tiny pink imp.
 - Was supposed to find the champions; was off on "a craft… project." Can't write.
 - Heckled Andy from among the insulting children.
 - Gave a spoken report of counting stairs and finding the bathroom through U-I-O-I doors.
 - Made her own unapproved "Thea Teaches" commercial; refused to explain it, hopping up the steps farting.
 
-**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Drew).
+**[[Lore/The Box of Chaos|Gerald / the Box of Chaos]]** (Mudcat).
 - A yellow and purple box. Its lid beams heatless magical fire hundreds of feet up, and a shadowy figure with black tendrilly fingers comes out.
 - **His fingers taste like black licorice** (Dried Blood).
 - Kept the championship belt. **Used the chinchilla to finish his chinchilla boots.**
@@ -452,7 +452,7 @@ Afterward, Andy told DeeDrah, "You can call me Andrew because you're not a perso
 > - 2:07:48 DeeDrah insists the chinchilla volunteered: "I said, take one for the team, homie." The GM confirms "a volunteer jump."
 > - 2:08:08 The Arbiter: "**And now Gerald has his chinchilla boots finished.**"
 > - 2:08:11 The GM: "**chinchillas in the Void are actually immune to magic**… also you can throw them."
-> - 2:10:21 Drew asks "for the later of the canon" what **Gerald's fingers** taste like. Jay: "**like licorice**" (black licorice). Logged as a canon detail.
+> - 2:10:21 Mudcat asks "for the later of the canon" what **Gerald's fingers** taste like. Jay: "**like licorice**" (black licorice). Logged as a canon detail.
 > - 2:09:43 Andy will tell Miss Elizabeth "I did everything I needed to give back to her," with details only in "mind bleeding death."
 > - 2:06:43 The GM offers to note DeeDrah's alternate name **Kurumi** (Jay's nickname for her) "in your notes of your character… My eulogy."
 > - 2:06:50 The GM asks if DeeDrah has any "Nixie kin" (likely "next of kin"). DeeDrah: notify "the Sanrio company… She's a loner. She likes to be on her own."
@@ -461,6 +461,6 @@ Afterward, Andy told DeeDrah, "You can call me Andrew because you're not a perso
 > - 2:03:39 Asked to name gazpacho ingredients without Googling, Jay says tomato, "spice, like from Dune," cinnamon "cinnamon challenge style" floating on top, and red peppers. He built the character on Randy Savage knowledge: "It just had to rhyme."
 > - 2:06:02 DeeDrah's inspirations: "a little bit [Kuromi] from Hello Kitty and a little bit Rumi from K-Pop Demon Hunters."
 > - 2:08:43 Bettie on surviving two rounds on very little HP; the GM awards a "survivor badge" in spirit and praises the hellish rebuke, which she held until needed.
-> - 2:09:19 Drew: "our **new fatigue and adrenaline mechanic**." Andy swung from +4 to −4 during the fight.
+> - 2:09:19 Mudcat: "our **new fatigue and adrenaline mechanic**." Andy swung from +4 to −4 during the fight.
 > - Sign-offs: Bettie at MrsBettierage ("fight until the very last moment and then make the best fucking plan"); Jay at whoisjayfoster ("thank you so much to all of the gazpacho men… and fuck you to everyone that didn't").
 

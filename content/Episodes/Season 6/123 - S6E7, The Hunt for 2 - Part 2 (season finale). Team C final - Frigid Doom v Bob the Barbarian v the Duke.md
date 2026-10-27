@@ -140,15 +140,15 @@ After the match, Frigidoom admitted that his warranty sticker had melted off lon
 - **As a rat child he revered "the one true king, the shit lord" as a deity** and dreamed of leading an army in his name. In his last words he calls himself "a simple rat man in a single outfit bought from a dollar store."
 - Eaten by Frigid Doom and revived. **Vows to stage an uprising and come for the Arbiter's "soul and your throne"** (Dried Blood).
 
-**[[Characters/Thea|Thea]]** (Bec). The Arbiter's assistant, "**about seven weeks old**." Can't read and can only count to three. Fed the receipts to Doug, declined a receipt from Stone Cola, and saves her farts in a jar. Her jaw opens body-sized to eat. Wants a raise and rolls dice at round ends.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). The Arbiter's assistant, "**about seven weeks old**." Can't read and can only count to three. Fed the receipts to Doug, declined a receipt from Stone Cola, and saves her farts in a jar. Her jaw opens body-sized to eat. Wants a raise and rolls dice at round ends.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Doing the books with spectacles and an adding machine for **tax day tomorrow**. Thea's pay is zero.
 - Rolled a nat 20 and flared **his white wings**.
 - Never wants to visit Florida, "and I've been a lot of bad places."
 - Says Thea is "invasive."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Sent Team C on vacation to Duval and dislikes it. Was waiting in the throne room.
 - Ruled that the winner leads the team, names it, and picks where it lives. Threw the Arbiter's adding machine at Frigid Doom.
 - Bowed to the Duke after his nukes. Rolled a "warm-up" and then a nat 20.
@@ -158,7 +158,7 @@ After the match, Frigidoom admitted that his warranty sticker had melted off lon
 
 **[[Characters/Doug the Pug|Doug]]**. A tiny pug with one cyber eye who yells, ate the receipts, rolls a toy d20, pees on the tallest thing in the arena and farts.
 
-**The Box of Chaos hand** (Drew, inferred from speaker 03 at 1:25:51). It calls the box its house, hates being kicked, and takes the Duke's ball of shit ("I've seen bigger").
+**The Box of Chaos hand** (Mudcat, inferred from speaker 03 at 1:25:51). It calls the box its house, hates being kicked, and takes the Duke's ball of shit ("I've seen bigger").
 
 **Grandma**. A chaos-event Acolyte with a silver-tinned platter of each champion's favorite food.
 
@@ -182,14 +182,14 @@ After the match, Frigidoom admitted that his warranty sticker had melted off lon
 
 ### Lore statements
 - The Grandmaster created three teams this season; Team C is now the Triforce Dong Danglers.
-- The season's champions are "their versions that exist in this reality" (Drew, Dried Blood creator note).
+- The season's champions are "their versions that exist in this reality" (Mudcat, Dried Blood creator note).
 - Champions killed in the match were revived on the spot by the Grandmaster at the end.
 - The Box of Chaos contains a hand that considers the box its home.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: Thea and the receipts (Dread Fortress)
-> 1. **0:05:31** The show opens with "Welcome to D20 Deathmatch!" Bec calls it "our season finale." She also teases that Mudcat is "not a young man anymore… Many gray hairs and wrinkles adorn your head."
+> 1. **0:05:31** The show opens with "Welcome to D20 Deathmatch!" Caustic Phoenix calls it "our season finale." She also teases that Mudcat is "not a young man anymore… Many gray hairs and wrinkles adorn your head."
 > 2. **0:06:09** A commotion deep in the Dread Fortress: things thrown, screeches, mumbling. **Thea** is frantically searching: "I found it! It's okay!"
 > 3. **0:06:35 The Arbiter as accountant.** He comes in **wearing small spectacles and carrying an old adding machine**, the kind with a pull handle like a cash register, used by "an old style bookie." He is crunching numbers. "Am I the only one who knows what the fuck this is?"
 > 4. **0:07:06** Thea has been getting everything ready for the finale. **The blue slushies are full**, she got "some plizzies" [unclear], and **Doug is yelling in the background**. "I think I'm losing hair." The Arbiter: "I don't even have hair."
@@ -256,7 +256,7 @@ After the match, Frigidoom admitted that his warranty sticker had melted off lon
 > 53. **0:55:31** As the mushroom cloud settles, with the old people crammed inside his steel shell, **Frigid Doom's jello arms retract and his eye slit closes. "For a minute, he's just a fridge," rumbling and whirring.** He clears two fatigues and his status effect.
 > 54. **0:56:37 The priapism explosion.** Bob has "been cooking up something special during the break." In a barbarian's blood time moves faster, so **the Viagra has hit "the four-hour limit."** He runs at the Duke screaming "feel my power!" and **his jorts explode in blood, "sick blood… bad blood because of all that time I spent with the old people in the villages"** (a poison status effect). It misses. The Duke: "**Life has many doors and many holes… You missed the wrong hole.**" Bob: "**I've never missed the hole in my life.**"
 > 55. **0:58:27 Crystal meth punches.** **Bob pulls a "crystal meth hand" from his jorts and punches the Duke.** It hits. Duke: "God damn it. It's addicting. I must have more… Give me more, Florida man." **A left-handed crystal meth punch follows. The Duke opens his mouth wide and takes it on a nat 1.** Bob: "Finally, I did some damage."
-> 56. **1:00:33** The Duke is "high out of his fucking mind." "Just like every good cheese, my plan has been aging to perfection." He squeaks to a small rat, "squeaker," who **still wears his handyman suit, runs to Frigid Doom and installs crystal meth in place of the ice in his systems.** Frigid Doom: "Beautiful, beautiful." It hits with a status effect. Duke: "**You are now addicted, brother. Join us.**" (Table aside: does meth look like ice? Drew: "I haven't seen Breaking Bad.")
+> 56. **1:00:33** The Duke is "high out of his fucking mind." "Just like every good cheese, my plan has been aging to perfection." He squeaks to a small rat, "squeaker," who **still wears his handyman suit, runs to Frigid Doom and installs crystal meth in place of the ice in his systems.** Frigid Doom: "Beautiful, beautiful." It hits with a status effect. Duke: "**You are now addicted, brother. Join us.**" (Table aside: does meth look like ice? Mudcat: "I haven't seen Breaking Bad.")
 > 57. **1:02:04** Arbiter: "**This whole team's going to have a meth problem.**" GM: "**We don't condone crystal meth, Acolytes.** This team may be powered by it, but we don't want it running rampant for the void." Arbiter: "These are the best kind of employees because they're going to need meth money." Bob: "And I'll keep serving it up."
 > 58. **1:02:26** **The Duke zips around the room at breakneck speed** (a dodge), **then puts all his strength into "one shit-covered fist. Towards your asshole, Bob"**, spending a heroic surge. GM: "you're going to get shit punched, bro." It misses. Bob: "**Nobody gets through my jorts into my asshole except for me.**" Arbiter: "Cannot penetrate those ironclad jorts." Duke: "I did not calculate for his cheeks to be that strong."
 > 59. **1:03:58 The Grandmaster rolls.** Her first roll is bad: "I'm warming up." The Arbiter: "Maybe reroll then. Nobody saw it." **Her reroll is a nat 20.** "If the Arbiter can do it, I can do it as well."
@@ -318,17 +318,17 @@ After the match, Frigidoom admitted that his warranty sticker had melted off lon
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **Out-of-character (creator notes)**
-> - Drew: it's the final Dried Blood of Season 6, "short season this season." "We… met some new champions, **or at least met their versions that exist in this reality**. It gets really confusing with the lore, don't worry about it." This rules on canon: the Season 6 champions are this reality's versions of themselves.
-> - Drew: Bob is "technically undefeated still." Bob won by one fighting spirit and took **zero fatigue**.
+> - Mudcat: it's the final Dried Blood of Season 6, "short season this season." "We… met some new champions, **or at least met their versions that exist in this reality**. It gets really confusing with the lore, don't worry about it." This rules on canon: the Season 6 champions are this reality's versions of themselves.
+> - Mudcat: Bob is "technically undefeated still." Bob won by one fighting spirit and took **zero fatigue**.
 > - Bob's player's favorite moment was getting through three rolls at disadvantage. The "Viagra trouser snake… set the mood." It was his first time playing the game. "Shout out to the villages."
-> - Bec on the Duke's Florida-vs-New-York theme. The Duke's player has "never been to New York in my life." Bec didn't know which baseball team is in New York.
+> - Caustic Phoenix on the Duke's Florida-vs-New-York theme. The Duke's player has "never been to New York in my life." Caustic Phoenix didn't know which baseball team is in New York.
 > - Kyle (Frigid Doom) calls Bob's player "Big Papa Drak." Sensei names "Kyle and Drock," and says he wanted to be on the show since he started D&D content.
 >
 > **In-character (canon, Dried Blood)**
-> - Frigid Doom, on his nat 1s (2:09:07): "The warranty's expired." Bec: "Your warranty probably expired a very long time ago." Frigid Doom: "**I can't really read the sticker, it's kind of melted away now**… I got my touchscreen."
+> - Frigid Doom, on his nat 1s (2:09:07): "The warranty's expired." Caustic Phoenix: "Your warranty probably expired a very long time ago." Frigid Doom: "**I can't really read the sticker, it's kind of melted away now**… I got my touchscreen."
 > - Frigid Doom (2:10:58, in-character tone, inferred): "**Fortunately the Dread Fortress has this really neato concession stand**, and after the matches I kind of just go and refill, and occasionally I find a couple of scraps on the ground… **Stuff comes in, stuff comes out. Keeps the whole thing clean.**"
 > - The Duke (2:10:18): "I, the Duke, **hail from the streets of New York, specifically Brooklyn**."
 > - Bob (2:13:45): "Oh, hell yeah. Can't wait for next season."
 > - Frigid Doom (2:14:48): "**Our stomachs are full, our hearts are beating**, and the Triforce Dong Danglers… We're coming, we're coming, and we'll see you all later next season." Said three times "because there's three of them."
-> - **The Duke (2:15:55): "My master plan didn't necessarily come to fruition. But in the next season, I will figure out a way to make an uprising… to eventually land myself in the leadership position. But for now, I will be a simple rat henchman, waiting and watching and plotting everyone's demise. I hope you're listening, Arbiter. I'm coming for your soul and your throne soon."** He also says it three times. Bec: "What a satisfactory ending." Drew: "I'd like to see that happen… stay tuned."
+> - **The Duke (2:15:55): "My master plan didn't necessarily come to fruition. But in the next season, I will figure out a way to make an uprising… to eventually land myself in the leadership position. But for now, I will be a simple rat henchman, waiting and watching and plotting everyone's demise. I hope you're listening, Arbiter. I'm coming for your soul and your throne soon."** He also says it three times. Caustic Phoenix: "What a satisfactory ending." Mudcat: "I'd like to see that happen… stay tuned."
 

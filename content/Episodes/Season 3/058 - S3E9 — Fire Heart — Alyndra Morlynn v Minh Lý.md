@@ -136,14 +136,14 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 - **Box of Chaos prize:** a 9th-level Meteor Swarm scroll (used).
 - **In this episode:** winner. She leaves holding Minh's shield, charged by the Grandmaster to "carry on his story and glory."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Plays ping pong with Doug and has never beaten him.
 - The waterfall is her favourite getaway, for books and wine.
 - Threw the small umbrella, the cold bucket of water and the muscle floaties.
 - Gave Alyndra the pep talk: the Arbiter's portal only admits the worthy.
 - Drinks are on her tonight.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - A prisoner in chains in the Dread Fortress.
 - His eyes glowed with fire, melting a ping pong ball. He hates Doug and flipped him off.
 - Photobombed the painting.
@@ -157,7 +157,7 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 - Was nearly poisoned by Minh's protein bar and saved by Alyndra's Heimlich.
 - Turned into a tiny eight-eyed Pomeranian, then joined Doug as "Thunder Buddies" under the throne.
 
-**[[Lore/The Box of Chaos|Gerald]]** (Box of Chaos, Drew).
+**[[Lore/The Box of Chaos|Gerald]]** (Box of Chaos, Mudcat).
 - Yellow eyes and shadowy hands; his pink and yellow fire gives no heat.
 - Got swole from Minh's display: dumbbell curls, "skipped every leg day."
 - Waxed himself with Alyndra's starlight body glitter. Was sat on by Alyndra.
@@ -239,8 +239,8 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 >
 > ### Round 1
 > 21. **0:12:47 — Minh strips.** He takes off his top ("tavern" in the transcript, probably tunic) and ties it around himself, bare-chested: "**You don't need armor when you have mage armor.**" He takes up a shield, flicks the ribbon off the sword and waits.
-> 22. **0:13:31 — Rows K through L.** His performance check (23) makes **a whole row, K through L, faint in a wave and blow kisses**. **One Acolyte with "special magical powers" blows him a kiss that gifts him Bless on one roll.** Minh: "**I knew I loved rows K through L.**" Drew adds **a bachelorette party** in the crowd, swooning "over your glistening muscles in the firefly light."
-> 24. **0:16:25 — Corrin.** **Corrin, in the nosebleed seats, shouts so loudly they trip down the stairs and turn it into a somersault**, landing at the railing. That grants her advantage. **Her first cut lands.** Bec: "Now you're hot."
+> 22. **0:13:31 — Rows K through L.** His performance check (23) makes **a whole row, K through L, faint in a wave and blow kisses**. **One Acolyte with "special magical powers" blows him a kiss that gifts him Bless on one roll.** Minh: "**I knew I loved rows K through L.**" Mudcat adds **a bachelorette party** in the crowd, swooning "over your glistening muscles in the firefly light."
+> 24. **0:16:25 — Corrin.** **Corrin, in the nosebleed seats, shouts so loudly they trip down the stairs and turn it into a somersault**, landing at the railing. That grants her advantage. **Her first cut lands.** Caustic Phoenix: "Now you're hot."
 >
 > ### Round 2
 > 25. **0:17:31 — The Freshmaker chant.** Minh grins with "absolute sportsmanship," no malice. He gets the crowd chanting "Freshmaker, Freshmaker" and **starts his Bladesong**.
@@ -248,9 +248,9 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > 27. **0:19:40** The chant falls out of sync: "**French Baker, French Baker, fresh bacon, fresh bacon.**"
 > 28. **0:19:56 — The pulse.** Minh casts "a blade that may or may not be booming" (booming blade). It misses, but he leans into her armour and **a wave of energy pulses out**. "A lot of this magic here is the subtle type, but very, very crowd pleasing."
 > 29. **0:20:54 — Hero points.** The crowd goes wild and **both champions are granted hero points**. The Acolytes **throw "their bras, their underwear, their stinky socks"**, gifting the clothes they wore that day. The Grandmaster's rule: "**we will be very angry if you die with it unused.**"
-> 30. **0:21:53** Bec jokes that Minh has been hit with a spell of silence. Minh: "**In shame do I end my turn.**" "Self-punishment."
+> 30. **0:21:53** Caustic Phoenix jokes that Minh has been hit with a spell of silence. Minh: "**In shame do I end my turn.**" "Self-punishment."
 > 31. **0:23:08 — Minh knocked prone.** Alyndra hits: "**You look pretty big, but I'll see if I can knock you over.**" He fails the Strength save and goes prone. **She stands over him and strikes her signature pose**, then brings the sword down over her head for a second hit with advantage.
-> 32. **0:24:38** She politely backs away "to give you some room to get up." Drew clarifies the glowing trees are fireflies.
+> 32. **0:24:38** She politely backs away "to give you some room to get up." Mudcat clarifies the glowing trees are fireflies.
 > 33. **0:25:00** She spins to the crowd: "**The stars will always guide you.**" **The Acolytes open their compact mirrors and reflect light down, "a laser show, if you will."**
 > 34. **0:25:58 — The round-end roll.** The Arbiter rolls 11 ("That's absolutely embarrassing"). **Doug hops onto his pedestal and throws his squeaky plush D20 toy** onto the field: a 12, "higher than what the Arbiter did. Suck it." **The Arbiter raises a finger to Doug.** The Grandmaster: "Don't be rude." Arbiter: "Don't tell me how to do my job… the timing is important and now you've thrown it off."
 >
@@ -261,7 +261,7 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > 36. The Acolytes demand blood. Minh, "laying down on the job," rolls a 17 ("Minty fresh"). The Grandmaster: "So those muscles aren't just for show then."
 > 37. **0:28:09 — Chet arrives.** **The squeaky toy summons a dog from far away.** A deep bark shakes the trees, and the ground trembles like a small earthquake. **A giant dog looms over and greets Doug ("whoop"); Doug whoops back in his tiny pug voice. It is Doug's older brother, Chet, home from obedience training school.** He howls.
 > 38. **0:29:36** **Both champions fail and must flee.** Minh, still prone, scrambles on knees and elbows through the tree roots, only 15 ft, to the waterfall's edge ("Maybe I'll wash my face off… freshen up"). Alyndra runs under a tree where the fireflies dance "like your stars."
-> 39. **0:30:36** Alyndra: "**This is so pretty, but I hate that dog. He's just scary looking.**" Drew: "Chet growls and foams at the mouth." Grandmaster: "That's because he's brushed his teeth recently… very clean, sparkly mouth." Arbiter: "**He went to college and he just totally changed.**" "Whole different dog."
+> 39. **0:30:36** Alyndra: "**This is so pretty, but I hate that dog. He's just scary looking.**" Mudcat: "Chet growls and foams at the mouth." Grandmaster: "That's because he's brushed his teeth recently… very clean, sparkly mouth." Arbiter: "**He went to college and he just totally changed.**" "Whole different dog."
 >
 > ### Round 3
 > 40. **0:31:13 — Minh's jump.** He gets up clean: "**Okay, you got some moves. You got some moves. I do too.**" He casts **haste on himself** and takes a running leap through the river to the Box (a natural 20 on athletics).
@@ -283,9 +283,9 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > 54. **0:41:44 — The Heimlich.** Alyndra tries the Heimlich maneuver (medicine 18). "**It turns out you have a bit of a vet background. Surprise!**" She squeezes Chet's lower abdomen, and **he spits the bar out without swallowing it.**
 > 55. **0:42:08 — Chet shrinks.** Chet is thrilled he got a hug and food. **"Poof," he turns into a tiny Pomeranian, now with eight eyes, "because the more eyes, the cuter."**
 >     - Table riff on eyes: there's no cap on cuteness from eyes, and more eyes help seduction.
->     - Drew: "**Now the beholders make a lot of sense.**" Bec: "Everyone's trying to seduce a beholder… **Their marriage rates are through the roof.**"
+>     - Mudcat: "**Now the beholders make a lot of sense.**" Caustic Phoenix: "Everyone's trying to seduce a beholder… **Their marriage rates are through the roof.**"
 > 56. **0:43:27 — Alyndra's prize.** "After consulting the tomes, **the black tome**," the Arbiter has her roll. **Gerald floats her a scroll; she knows its contents without reading it. It is a 9th-level Meteor Swarm.**
-> 57. **0:44:18 — The umbrella.** "**This is the best day of my life.**" The Grandmaster's jaw drops, and **she throws a small umbrella** down. It is treated later as Minh's (1:33:44). Alyndra: "**Finally, I have the power to summon the very rocks from the sky.**" Bec: the umbrella "will do very little against the massive meteor storm."
+> 57. **0:44:18 — The umbrella.** "**This is the best day of my life.**" The Grandmaster's jaw drops, and **she throws a small umbrella** down. It is treated later as Minh's (1:33:44). Alyndra: "**Finally, I have the power to summon the very rocks from the sky.**" Caustic Phoenix: the umbrella "will do very little against the massive meteor storm."
 > 58. **0:45:28 — Sitting on the Box.** Alyndra: "You haven't even hit me once yet… Well, that's not true." She asks to **sit on the Box of Chaos so Minh can't open it, wrapping her arms and legs around it** in a grapple. Gerald, squashed: "**Hey, what are you doing?**" Alyndra: "**I'm playing fair.**" Gerald: "**I don't see me sitting on your house.**" "It's just for a minute, okay?"
 >     - Luboffin, out of character: it's "not very in keeping with the persona… she's so overwhelmed by the Meteor spell, she just wants to keep it so bad."
 >     - Ruling: getting her off the box takes a Strength 12 or better.
@@ -295,14 +295,14 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > ### Round 4
 > 60. **0:47:58 — Fireball on the box.** Minh: "**Well, this is quite the predicament, because I went in that box, but you're in the way.**" **"A little red bead kind of drops out of a wink"**, and he casts a 4th-level **Fireball centred on both of them**, banking on haste's advantage on Dex saves. Alyndra: "**It's getting hot in here with those muscles.**"
 > 61. **0:49:09 — Minh fails his own save.** Alyndra saves for half. Someone (speaker uncertain): "**Did you fail against your own spell?**" He casts absorb elements, then **spends his hero point to reroll** and saves ("**This is a spicy meatball**"). Both take half; Alyndra takes the heavier hit.
-> 62. **0:49:44** The Grandmaster: "**You all laughed at me when I said we only needed one champion, but this is how they take themselves out.**" Drew: "You absolutely planned this." Minh: "100%, I planned this." Bec calls him "a Crispyman."
-> 63. **0:51:19 — Steam.** From inside the box, Gerald: "**What the fuck is going on out there?**" The blast pushes the water out, and **everything steams**: hot, humid, sticky, "but your pores open up." Drew: steam "counts as water… you don't have to drink any water that day."
+> 62. **0:49:44** The Grandmaster: "**You all laughed at me when I said we only needed one champion, but this is how they take themselves out.**" Mudcat: "You absolutely planned this." Minh: "100%, I planned this." Caustic Phoenix calls him "a Crispyman."
+> 63. **0:51:19 — Steam.** From inside the box, Gerald: "**What the fuck is going on out there?**" The blast pushes the water out, and **everything steams**: hot, humid, sticky, "but your pores open up." Mudcat: steam "counts as water… you don't have to drink any water that day."
 > 64. **0:51:54** Minh's hasted swing, through bleary eyes, misses. The Grandmaster asks Alyndra what she'll do "now that your eyebrows have been singed off, but your face is feeling nice and fresh."
 > 65. **0:52:33 — Wading out.** "I want to get out of this hot mess." She wades the river easily (athletics 25): "your normal morning runs on the beach… Those calves are strong."
 > 66. **0:53:24 — The smite.** Minh makes a Warcaster concentration save to keep haste. He then **takes his opportunity attack and turns it into a smite**: "**You got to keep looking me in the eye for that.**" **She turns and looks him in the eye in slow motion, hair flowing.**
 > 67. **0:55:13** Grandmaster: "**Never turn your back on your opponent. Just run backwards from here on out.**" Alyndra: "**I was so distracted by the muscles and the fire that I ran away.**" Minh: "You'd be surprised."
 > 68. **0:55:27 — Sacred Flame.** "**Well, here's a taste of your own medicine.**" Minh fails the save.
->     - He tries to absorb it: **"his sword starts to illuminate ever so slightly."** Alyndra: "**That's unfair! How do you look so hot every time I give you my damage?**" Minh: "**Push-ups, sit-ups, and plenty of juice.**" Bec: "Are you shaking like a power drink right now?" Minh: "like a protein shaker."
+>     - He tries to absorb it: **"his sword starts to illuminate ever so slightly."** Alyndra: "**That's unfair! How do you look so hot every time I give you my damage?**" Minh: "**Push-ups, sit-ups, and plenty of juice.**" Caustic Phoenix: "Are you shaking like a power drink right now?" Minh: "like a protein shaker."
 >     - **The Acolytes chant in unison that he already used his reaction on the opportunity attack.** He takes the full radiant damage and gets the spell slot back. "The audience knows best."
 > 69. **0:57:51** Alyndra recovers a psionic die. Grandmaster: "Gather yourself. Everyone take a deep breath in. And exhale." Then the 10-minute break (cut from the mp3).
 >
@@ -317,7 +317,7 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > 76. **1:04:08 — The cold bucket.** **The Grandmaster claps, and a gush of cold water drenches both of them as if from a bucket.**
 >     - Minh: "Oh, that works against y'all… **I've got all these goosebumps now, just like, really puffing me up.**"
 >     - Alyndra: "**It was supposed to cool you off!**"
->     - She **shoves her head in the river**. Luboffin: "**I didn't expect to play such a thirsty character, but here we are.**" Bec: "No one ever does." The dunk wakes her up just enough to earn a d4 on her next roll.
+>     - She **shoves her head in the river**. Luboffin: "**I didn't expect to play such a thirsty character, but here we are.**" Caustic Phoenix: "No one ever does." The dunk wakes her up just enough to earn a d4 on her next roll.
 > 77. **1:05:16** With the d4, her second attack just hits for a half-damage glancing blow ("we round up, because we're terrible people"). She ducks under his shield: "head in the game."
 > 78. **1:06:13** The Grandmaster: "**Play with your food.**" Alyndra decides not to action surge and readies her shield.
 >
@@ -334,7 +334,7 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 >
 > ### The Arbiter's chaos: the flood (1:13:35)
 > 86. The Arbiter cracks his knuckles: "**How about a change of scenery?**" He snaps into the Void's chaos energy.
-> 87. **1:14:19** **A wall of water rips down the valley and washes both champions over the waterfall** and down the river. Bec: "**I think the Arbiter wants to kill you all.**"
+> 87. **1:14:19** **A wall of water rips down the valley and washes both champions over the waterfall** and down the river. Caustic Phoenix: "**I think the Arbiter wants to kill you all.**"
 > 88. **1:15:05 — Minh loses haste.** Battered in the fall, Minh fails his concentration save with a natural 1. **His haste drops, and its lethargy leaves him unable to move or act** for his next turn. Mirror image holds.
 > 89. **1:15:55 — The new ground.** They wash up in **a shallow space covered with grassy foliage, with a small rock bridge**, as **the sun begins to set**. **The giant firefly tree is visible upstream behind them.** Initiative is rerolled, and Alyndra now goes first.
 >
@@ -349,7 +349,7 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > 95. **1:22:13** Alyndra turns, confused that he's still standing there. She hits, but **Minh rolls a natural 20 for his mirror image: "It was all a ghost."** The natural 20 **rejuvenates him; he regains a mirror image and can move again.** Alyndra: "**How do you keep doing that? There are too many of you! You're all so hot!**"
 > 96. **1:24:02** Her next swing pops the last image. "Now that the distractions are gone," she **action surges**: "like six hits in a row that I've missed… come on, Alyndra, get it together."
 > 97. **1:24:41 — Crit on herself.** A coin-flip muddle over her advantage roll ends with both dice reading 20: a **natural 20**, her first clean hit. Then the Grandmaster ("I hate to do this. I'm so sorry. I love it"): **the tingling in her fingers takes over. Her full-force swing follows through and slices across her own chest.** **The cackling grows louder ("Stop hitting yourself!") and finally fades.** All of the damage comes back to her.
->     - Drew: "It is not every day you crit yourself." "**Stop critting yourself.**"
+>     - Mudcat: "It is not every day you crit yourself." "**Stop critting yourself.**"
 > 98. **1:27:11 — Mother.** Alyndra: "**Maybe we weren't meant for glory. Maybe mother was right.**"
 > 99. **1:27:25 — The Grandmaster's pep talk.** She rolls perception (6) and can't hear, but sees the sad face. "**Dear champion of mine, what brings these crocodile tears to my fight?**"
 >     - Alyndra: "I just can't hit him, he's too muscley… and I just slapped myself in the face… **maybe I'm not worthy of being in the Deathmatch.**"
@@ -369,13 +369,13 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 >
 >     **She draws the scroll, closes the distance, stares into Minh's eyes ("I'm going to try not to get distracted by the muscles. It's really hard work") and casts Meteor Swarm directly on them both, reaching up and pulling the stars down.**
 > 106. **1:33:19 — The grip.** **Minh reaches out and grasps her arm: "We're in this together."** Steve likens it to the Arnold Schwarzenegger / Carl Weathers handshake in *Predator*. He casts absorb elements ("I don't know if I'm going to survive this") and has the Grandmaster's small umbrella.
-> 107. **1:33:58** Minh makes his save. **Alyndra fails, spends her hero point, and rolls a 2.** "As I look into Minh's eyes, I've got this. We've got this." She rolls the 40d6: "**As I unleash the stars upon us.**" Drew: "Well, it doesn't fucking matter."
+> 107. **1:33:58** Minh makes his save. **Alyndra fails, spends her hero point, and rolls a 2.** "As I look into Minh's eyes, I've got this. We've got this." She rolls the 40d6: "**As I unleash the stars upon us.**" Mudcat: "Well, it doesn't fucking matter."
 > 108. **1:35:18 — Minh falls just short.** He halves the damage on the save, absorb elements halves it again, and the umbrella's d6 reduces it a little more. It is **still fatal for Minh, by 2 HP** (per Dried Blood). Alyndra "only had five hit points left."
 > 109. **1:35:43 — The meteors** (the Grandmaster narrates):
 >     > "the stars that were in your shiny hair reach high up and as they go up they grow larger and larger still till the sun is blotted out… They hurdle themselves towards the ground, burning everything in this land. As you feel your flesh melting away, your bones begin to burn."
 > 110. **1:36:24 — Last words.** Alyndra: "**It's been an honor.**" Minh: "**Alyndra, the honor is mine.**" His hand is charred and marred as he reaches out; **she grasps back.**
 > 111. **1:36:46 — Lay on Hands.** "**I, with every fiber of my being, I try to cast Lay on Hands.**" **He heals her for 10.** "The twist of the century!"
-> 112. **1:37:13 — The barrier.** Drew: as Minh absorbs the elements and touches her, he absorbs "a little bit extra." **He forms a magic barrier around her with his intentions, "as if your will itself is shielding her from the last bit of damage."** **He saves her from the meteor.**
+> 112. **1:37:13 — The barrier.** Mudcat: as Minh absorbs the elements and touches her, he absorbs "a little bit extra." **He forms a magic barrier around her with his intentions, "as if your will itself is shielding her from the last bit of damage."** **He saves her from the meteor.**
 > 113. **1:37:53** Minh's final line: "**As long as you follow your heart, you will always be glorious in [mine eyes?]**." Luboffin: "Just tears."
 > 114. **1:38:09 — The ash.** The light fades and even the sun is gone; darkness and ash spread. "**Just the shield of [Minh] remains, shiny, still in nature.**" **Alyndra picks it up and looks up at the Grandmaster.**
 > 115. **1:38:42 — The Grandmaster's closing:**
@@ -387,16 +387,16 @@ Since Minh had fallen so close to surviving, the Grandmaster granted him a post-
 > **Possibly canon (a post-credits beat; flagged):**
 > - **1:44:30** Because Minh fell only 2 HP short, and because only one of Meteor Swarm's four meteors was used, the Grandmaster offers him death saving throws "like Avengers end scene credits. **What you want to show or not show is up to you.**"
 > - Steve rolls an 18 (success), a 9 (fail) and a 5 (fail), then stops: "let's leave it at that."
-> - Bec: "**We just see, like, the barely twitching within the pile of ash, and that's it.**" Minh's final fate is left open (one success, two fails).
+> - Caustic Phoenix: "**We just see, like, the barely twitching within the pile of ash, and that's it.**" Minh's final fate is left open (one success, two fails).
 >
 > **Out-of-character creator notes:**
 > - Steve had never played a Bladesinger before, loves Paladins and recommends Bladesinger. He dropped Fireball at his own feet knowing haste gave advantage on Dex saves.
 > - **1:41:58** Steve: Alyndra's mother moment struck a chord. "I live in a certain body that people notice… and fuck them." The "follow your heart, you'll be glorious" line was "**just me talking to me.**"
 > - Luboffin: the silly Deathmatch turned personal. These two characters "are going to stick with me… probably going to live with me for the rest of my life."
-> - Bec on committing to characters in one-shots: "a true promise of a player to the character they've created."
-> - Drew: Minh was 2 HP from surviving; it was a rule-of-cool reward for good roleplay.
-> - It was the first time Drew and Bec had played with or met either guest. Luboffin's chat helped her with her character sheet. Bec recalls Luboffin tweeting a flowchart.
+> - Caustic Phoenix on committing to characters in one-shots: "a true promise of a player to the character they've created."
+> - Mudcat: Minh was 2 HP from surviving; it was a rule-of-cool reward for good roleplay.
+> - It was the first time Mudcat and Caustic Phoenix had played with or met either guest. Luboffin's chat helped her with her character sheet. Caustic Phoenix recalls Luboffin tweeting a flowchart.
 > - Final statements:
 >   - Steve: follow your heart, but also listen to others' hearts and "what scars might be on theirs," and lend your strength.
->   - Bec suggests titles "**Hearts and Scars**" and "**Hearts on fire**." The episode is titled "Fire Heart."
+>   - Caustic Phoenix suggests titles "**Hearts and Scars**" and "**Hearts on fire**." The episode is titled "Fire Heart."
 

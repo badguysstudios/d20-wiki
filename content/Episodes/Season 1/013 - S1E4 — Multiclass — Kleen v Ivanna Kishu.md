@@ -14,8 +14,11 @@ arena: Kirken's Mine, then a rickety bridge over a frozen waterfall
 summary: Kleen, a genie-pact warlock, outsniped the shapeshifting, blood-licking druid Ivanna Kishu across a snowy mine and a swaying bridge, then made it rain toilet filth on the crowd. The Arbiter secretly carried Ivanna's body to his laboratory and revived her.
 tags:
 - episode
+youtube: https://youtu.be/ovggvygtAQ8
 canon_order: 13
 ---
+
+[Watch on YouTube](https://youtu.be/ovggvygtAQ8)
 
 **Kleen**, a long-range warlock who swore he was not Mr. Kleen, faced **Ivanna Kishu**, a kiss-blowing aasimar druid with a few tricks borrowed from other trades, in a frozen, abandoned mine at the top of the world. Along the way there was Acolyte dodgeball, a round fought entirely in Pig Latin, a howl-off, an avalanche and a showdown on a bridge over a frozen waterfall. It ended with a literal shitstorm and with [[The Arbiter|the Arbiter]] quietly stealing the loser's body for reasons of his own.
 
@@ -137,7 +140,7 @@ At the table afterwards, Kleen's player admitted he'd had more fun than usual an
 
 **Kleen's imp**: a familiar, sent up to scout.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Coached the GM's water drinking.
 - **His friend Larry works at a blood bank** (see below).
 - Opens portals by clapping. Exits by Gaseous Form ("compelled by his own beans").
@@ -148,7 +151,7 @@ At the table afterwards, Kleen's player admitted he'd had more fun than usual an
 - **Has a laboratory where he revives fallen champions.**
 - "Some self-esteem and some pride." The paycheck joke.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - **Hates drinking water**; prefers Dr. Pepper. "Clearly not a vampire."
 - **Has "a chef"** and thinks eyeball juice is delicious.
 - "Great, great Grandmaster." Owns Kirken's Mine now.
@@ -157,9 +160,9 @@ At the table afterwards, Kleen's player admitted he'd had more fun than usual an
 
 **[[Characters/Larry|Larry]]**: the Arbiter's friend who **works at a blood bank**. **He came to the Christmas party, spiked the punch and was kicked out early.** "He does know blood."
 
-**Kirken**: the former owner of **Kirken's Mine**. "**He never really left, but he doesn't own it anymore.**" Drew: a small RP detail to give the place a history; record what Bec said and nothing more.
+**Kirken**: the former owner of **Kirken's Mine**. "**He never really left, but he doesn't own it anymore.**" Mudcat: a small RP detail to give the place a history; record what Caustic Phoenix said and nothing more.
 
-**Mr. Kleen**: **Kleen's patron**, a genie, who appears in Eldritch Blast form as a bald man with an earring. A real-world brand parody, kept as-is (Drew).
+**Mr. Kleen**: **Kleen's patron**, a genie, who appears in Eldritch Blast form as a bald man with an earring. A real-world brand parody, kept as-is (Mudcat).
 
 **Mr. Pepper**: in "a legal dispute" with the Deathmatch, which is why there's no Dr. Pepper (a joke).
 
@@ -167,10 +170,10 @@ At the table afterwards, Kleen's player admitted he'd had more fun than usual an
 
 **The Latin pigs**: a small herd that runs across the map when the Pig Latin curse lifts.
 
-**Chat names in the dodgeball:** Pexy (the cookie and teacup), "Mud Cat" (Drew's handle, thrown as an object), and Pickle Rick.
+**Chat names in the dodgeball:** Pexy (the cookie and teacup), "Mud Cat" (Mudcat's handle, thrown as an object), and Pickle Rick.
 
 ### Places
-- **[[Places/Kirken's Mine|Kirken's Mine]]**: an abandoned, snowy mine "hidden far up in the north," owned by the Grandmaster now. Pillars, ledges, snowdrifts, steps, platforms. **The moonlight brings out "hues of diamonds and blues and golds."** **Filled with snow by the Arbiter's avalanche.** Probably the same place as Reaper's Rock from Playtest 2 (Drew).
+- **[[Places/Kirken's Mine|Kirken's Mine]]**: an abandoned, snowy mine "hidden far up in the north," owned by the Grandmaster now. Pillars, ledges, snowdrifts, steps, platforms. **The moonlight brings out "hues of diamonds and blues and golds."** **Filled with snow by the Arbiter's avalanche.** Probably the same place as Reaper's Rock from Playtest 2 (Mudcat).
 - **The rickety bridge over the frozen waterfall**, outside the mineshaft door, 80 ft up. Walled with snowbanks by the GM.
 - **The Arbiter's laboratory**, where he revives champions.
 - **The stadium's 52 toilets** and **the nacho fountain** at the concession stands.
@@ -266,11 +269,11 @@ At the table afterwards, Kleen's player admitted he'd had more fun than usual an
 > [!abstract]- Full Dried Blood notes (click to expand)
 > - "Definitely the first time and not the third time that we have done this… The recording is 100% on this time." The intro was re-recorded.
 > - **Kleen's player was having more fun than usual**: "unless I'm DMing… I like to be in the center of attention."
-> - Drew on the format: "As the DM, you have that urge where you want to kill your players, but you can't… **We don't have that problem here.**"
+> - Mudcat on the format: "As the DM, you have that urge where you want to kill your players, but you can't… **We don't have that problem here.**"
 > - Recap of earlier deaths:
 >   - **Nearly everyone died together in a playtest**, "like Hunger Games style." This points to Playtest 1 or 2 (see review).
 >   - "**We even had the Acolytes chat kill somebody**" with the dodgeball finishing blow, in an earlier episode.
-> - **Pig Latin:** "I'm not American." Kleen's player suggests French next time ("How do you say Eldritch Blast in French?"). Drew says Pig Latin was Bec "getting back at you for making her speak French." **Bec previously tried French at the table and only remembered "axe" and "cantrip"** (she guessed "cantrip" every time).
-> - Bec to Chris: "Eldritch Blast was your BFF." Chris was banking on the genie features; "she never walked into my circle of flame." Sylvie: "**I'm never doing whatever you want me to do.**"
+> - **Pig Latin:** "I'm not American." Kleen's player suggests French next time ("How do you say Eldritch Blast in French?"). Mudcat says Pig Latin was Caustic Phoenix "getting back at you for making her speak French." **Caustic Phoenix previously tried French at the table and only remembered "axe" and "cantrip"** (she guessed "cantrip" every time).
+> - Caustic Phoenix to Chris: "Eldritch Blast was your BFF." Chris was banking on the genie features; "she never walked into my circle of flame." Sylvie: "**I'm never doing whatever you want me to do.**"
 > - Parting words: Sylvie thanks chat for the hero points; Chris: "I'm glad I won."
 

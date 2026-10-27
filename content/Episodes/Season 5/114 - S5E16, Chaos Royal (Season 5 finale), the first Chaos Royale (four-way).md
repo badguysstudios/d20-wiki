@@ -96,7 +96,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew; the Arbiter/Vythorn ruling in the Season of Fate).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat; the Arbiter/Vythorn ruling in the Season of Fate).
 - Brooding in a stripped, unlit throne room with a conjured window and rain.
 - Says ruling is hard: riots, the ransacked **Eastern Outpost**, and anger that **the Grandmaster is still imprisoned**. "Things are not going the way that I had planned for them to go this season."
 - Insists his shoes are real Italian leather.
@@ -104,7 +104,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 - Can loop doors back into the room and call down lightning.
 - Leaves the finale early, unhappy, for "somewhere else to be."
 
-**[[Characters/Thea|Thea]]** (Bec). A tiny **pink imp** who serves the Lord of Fate.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A tiny **pink imp** who serves the Lord of Fate.
 - Organized the Chaos Royale to cheer him up. Teleports people by clapping and commands the goblins.
 - Unsure whether she has a brain. Her household is "a Miracle Whip household." She hates people (speaker uncertain). She loves ice cream.
 - Held Dylan the chinchilla. Gave the season's closing address.
@@ -244,7 +244,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 > 19. **0:29:43 Bobby and the Hunger vs Copycat.** A giant mouth slouches out of the backpack. The Hunger: "**Foul flesh sculptor, your mimicry is admirable. I shall make it mine.**" Lamprey-jawed tubes spiral at Copycat for three attacks.
 >     - Attack 1: Copycat rolls a **natural 20 on defense** and dodges by moving like a lamprey: "no one can copy as good as me."
 >     - Attack 2: a miss. Thea: "Look it up on wikihow."
->     - Attack 3: **it hits. A tendril scrapes Copycat's leg and takes "a nice little meatball"** of flesh. Bec as narrator: "Put that in a lunchbox for later."
+>     - Attack 3: **it hits. A tendril scrapes Copycat's leg and takes "a nice little meatball"** of flesh. Caustic Phoenix as narrator: "Put that in a lunchbox for later."
 >     - Bobby: "I was raised for this." Copycat: "Did I just lose a chunk of my leg?"
 > 20. **0:32:45 Copycat becomes "Thornir."** She does a girly anime fan dance, spins, puts on a **headband with miniature horns**, and **takes Tormiir's form**. "I'm Thornir. But only better."
 >     - She cheers "drink your milk!" to the crowd. Tormiir: "You dishonored my mother! You sick fucks!"
@@ -292,11 +292,11 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 >     - **Thea claps, and goblins bring all of it**: "the good kind. From Kansas City." The Lord of Fate: "Hey, what are you doing with my barbecue?"
 >     - Copycat wants hot dogs. **The goblins bring out at least 500.** Muddled lines follow: "Thea doesn't eat hot dogs because hot dogs are for people." / "Thea hates people." (speakers uncertain)
 >     - Tormiir: "Those better be pork." Copycat swears they're **vegan tofu hot dogs**. Tormiir: "I'll have five."
-> 33. **0:54:52 The hot-dog throw.** Copycat cooks a ginormous platter and tosses one to Tormiir. **She rolls a natural 1. The hot dog slips and stabs her in the eye.** Copycat appears to be in Thea's form here; Bec asks, "How do you hurt yourself throwing hot dogs, Othea?"
+> 33. **0:54:52 The hot-dog throw.** Copycat cooks a ginormous platter and tosses one to Tormiir. **She rolls a natural 1. The hot dog slips and stabs her in the eye.** Copycat appears to be in Thea's form here; Caustic Phoenix asks, "How do you hurt yourself throwing hot dogs, Othea?"
 >     - "Do we only have one eye now?" "If you are me, and I'm you… That makes four eyeballs. So technically we only have three… **Hashtag TheaMath.**"
 > 34. **0:56:00 The special hot dogs.** The second throw **hits** Tormiir. Copycat: "Hey, Tormiir… **How'd those 100% ground beef hot dogs taste?**"
 >     - He takes damage and gets a **psychological status effect** for "the crippling knowledge that you ate more cows." **Tormiir vomits.** The hot dogs come up whole, unchewed: "doink, doink, doink… sticking out."
->     - Bec rules sympathetic vomiting. **Copycat and Bobby fail and take a point.** Richard is spared because he's "busy crying into your own hands."
+>     - Caustic Phoenix rules sympathetic vomiting. **Copycat and Bobby fail and take a point.** Richard is spared because he's "busy crying into your own hands."
 > 35. **0:58:16 The viral video.** Copycat filmed it all and **uploads it to the World Wide Web**, cutting out the vomiting, to wreck his credibility. **It misses**: the internet is unfazed.
 >     - Tormiir: "I spent full evenings taking big old meat rods over and over… **How do you think I paid for college?**"
 >     - "Only cows." "Only sows." Bobby: "What you guys talking about?"
@@ -318,7 +318,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 >
 > ### Round 3
 > 42. **1:06:59 Tormiir's flaming blade.** He extends his hand and **the sword flies back into it**. He **runs his "long, delicious cow tongue" along the edge and lights it aflame** ("That is one mad cow"). The charge misses.
->     - He steps into wombat-poop cubes, uses the momentum to swing around, and thrusts. **It hits Copycat.** Copycat: "Oh, gosh, I feel like I'm at the slaughterhouse." Bec describes her being "chopped and diced up into all of those beautiful cuts."
+>     - He steps into wombat-poop cubes, uses the momentum to swing around, and thrusts. **It hits Copycat.** Copycat: "Oh, gosh, I feel like I'm at the slaughterhouse." Caustic Phoenix describes her being "chopped and diced up into all of those beautiful cuts."
 > 43. **1:09:49 Bobby turns on Richard.** "I don't want to punch a minotaur anymore." To Richard: "You seem a little sad… you have some weird metal and bugs coming out of you… They're other animals."
 >     - A goopy, pulsing tendril: "**put aside your technology. Join the new flesh.**" Richard: "In a past life, I vaguely remember seeing your kind before. And I didn't like it!" He sidesteps on a "dirty 20."
 >     - Bobby tries to shove a tentacle down his throat. The Lord of Fate: "I've seen this movie, I think." **Richard catches the tentacle in mid-air** ("I say, no, not today") and stares at it, trying to remember where he's seen it before.
@@ -360,7 +360,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 >     - She asks Bobby's age. Bobby: "**I don't really remember much except for a couple weeks ago, but the hunger tells me that I'm eight.**" Copycat: "Calling child services." The Hunger: "No, don't do that."
 >     - The Hunger offers the eternal flesh: "Infinite knowledge and power."
 >     - Copycat, back in the Lord of Fate's form, mocks him: "I am the Lord of Fate, so I already have everything. **Except happiness.**… I'm very sad inside and lonely and I just want somebody to give me a hug… **deep down inside, I know that Thea is the best thing that has ever happened to me and I won't tell her** that because I'm scared because attachments are scary."
->     - The real Lord of Fate glares; Bec: "Don't fucking try it." He: "Are you gonna jump into the hunger? Do it then, whatever!… he wants to consume you, you idiot!"
+>     - The real Lord of Fate glares; Caustic Phoenix: "Don't fucking try it." He: "Are you gonna jump into the hunger? Do it then, whatever!… he wants to consume you, you idiot!"
 >     - Copycat's offer: "drop the act of the kid and you and me team up? **I've always wanted a backpack.** With your consuming powers and my ability to take everybody's identity. I could be them and then you could just eat them."
 >     - **Persuasion succeeds.**
 > 54. **1:38:08 The fusion.**
@@ -399,7 +399,7 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 >     - **Thea cradles Dylan**, exhausted from powering his Peloton body.
 >     - Richard: "Dylan is dead. Dylan has died." Thea: "Dylan's not gonna die."
 > 65. **2:02:20 The final punches.** "One final strike." He punches at Copycat's face three times.
->     - The first meets a dirty-20 defense. The crowd chants "Dylan!" The second misses; Bec's narration says he keeps "missing the Ghost of Tormiir [sic]."
+>     - The first meets a dirty-20 defense. The crowd chants "Dylan!" The second misses; Caustic Phoenix's narration says he keeps "missing the Ghost of Tormiir [sic]."
 >     - Tormiir's ghost cheers: "You're doing great, bud!… Let's do it for my mama!"
 >     - Richard: "**For Tormiir's mother, and if this fails, I go on to see my friend, King Pophos, in the afterlife.**" **The third is countered by a natural 20.**
 >     - Copycat-and-Hunger regain one Fighting Spirit. The Lord of Fate: "**fuck it, round number seven**."
@@ -410,14 +410,14 @@ Thea crowned "our victor, the champion, Copycat and the Hunger!" and promised th
 >     - The giant Muppet hands swing down. **It hits. "This will be how you die."** It looms over Richard, casting a dark shadow: "death knocks on your door."
 > 67. **2:06:23 The Peloton self-destruct.** Bleeding out "for the third fucking time on this goddamn show, consecutively," Richard blames Foundry VTT, then: "Hey, Hunger, **you didn't sign the Peloton warranty.**" The Hunger: "I… Need no warranty."
 >     - "**Surprise, bitch, you get to explode.** Go ahead, eat up, big boy… Peloton self-destruct sequence has begun." Copycat: "You want some tums for that?"
->     - Bec lets him roll the bomb ("I have zero faith in you"). **It's countered.**
+>     - Caustic Phoenix lets him roll the bomb ("I have zero faith in you"). **It's countered.**
 > 68. **2:08:24 Welcome.** The tendrils gush over him like a geyser and swallow him whole.
 >     - He hears one voice, then hundreds in chorus: "**welcome, welcome… You're here. You're with us. You're loved.**" He feels a thousand arms embrace him as he becomes one with the Hunger.
 >     - Richard's last line: "**Coachella sucks this year.**" Copycat: "Hi! Do you want a mint?"
 > 69. **2:09:20 Victory.** Thea: "**Congratulations to our victor, the champion, Copycat and the Hunger!**" The Acolytes go wild. They'll get the mug, sent "as soon as I find out where you live."
 > 70. **2:09:40 The Lord of Fate walks out.** Copycat-as-Lord of Fate gushes: "I loved it. It was amazing." Thea: "I'm very proud of you." The real Lord of Fate: "That's not me."
 >     - "To be honest with you, I didn't have a great time… they died. Cool. But **this is just not how it was supposed to go. Things are not the way they're supposed to be.**"
->     - He takes a jab from Copycat ("Run away?… because I'm a baby like that"; speaker mix uncertain), then: "I got somewhere else to be… I got something to do." **He stomps back into the Dread Fortress.** Drew: "We'll leave it there for now."
+>     - He takes a jab from Copycat ("Run away?… because I'm a baby like that"; speaker mix uncertain), then: "I got somewhere else to be… I got something to do." **He stomps back into the Dread Fortress.** Mudcat: "We'll leave it there for now."
 >     - Copycat: "just let my other half cry it out." She invites Thea for ice cream, and both love ice cream.
 > 71. **2:11:11** With the Lord of Fate gone, the Acolytes turn to Thea: "This has been an amazing season… show us what it means to never give up until the final breath in your body is finally gone. **Thank you and good night from D20 Deathmatch!**"
 

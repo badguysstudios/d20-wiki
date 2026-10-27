@@ -18,8 +18,11 @@ arena: No arena; the green-sand desert
 summary: Flynry dies under a meteor in the Battle for the Crown, wakes in a dream life that crumbles into a desert of green sand, and spends years there fighting sand creatures. Toddleheim, Locket and the Grandmaster's assistant Elianna follow him through the Hall of Fates, where the Arbiter disintegrates them into the same desert, and they find Flynry mid-battle with sand scorpions.
 tags:
 - episode
+youtube: https://youtu.be/cbN7tMUzhGo
 canon_order: 64
 ---
+
+Watch on YouTube: [Part 1](https://youtu.be/cbN7tMUzhGo) · [Part 2](https://youtu.be/HKDqFzhReic) · [Part 3](https://youtu.be/DHGmUM4pxB0) · [Part 4](https://youtu.be/m2vEjb8vHf0) · [Part 5](https://youtu.be/lEoslLDQJok) · [Part 6](https://youtu.be/IfLfA0X1Phc)
 
 **Into the Mirror** opens with a death. [[Flynry]] is struck down by a meteor at the end of the Battle for the Crown and wakes in a life too perfect to be real. Then that life falls apart into an endless desert of green sand. Back in [[The Void]], his grieving friends [[Toddleheim]] and [[Locket]], joined by the Grandmaster's personal assistant [[Elianna]], go after him, and they have to ask the one man none of them trust for help: a chained, unwashed and suspiciously cheerful [[The Arbiter|Arbiter]].
 
@@ -138,7 +141,7 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 - Loathes the Arbiter. **Devoted to the Grandmaster ("oh, my sweet lady")**; her mirror showed them snuggled together in a snowy cabin.
 - **Sent as chaperone.** Made the Grandmaster a promise to come back safely. The Grandmaster sees herself in her.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Defeated in his attempt to overthrow the Grandmaster.** Now her chained prisoner in sackcloth, **sleeping in a cage, unwashed, "honoring our deal."** She still finds uses for him.
 - **Sat on her throne picking his teeth with a knife.** Opens the Hall of Fates locks with a flick of the wrist, still shackled.
 - Claims never to have visited the desert plane himself.
@@ -149,7 +152,7 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 - Took Toddleheim and Locket into her court. Wrote the letters, ordered the Arbiter to help, and sent Elianna as chaperone.
 - "Very old." She **arrived at Cor'thun lost after the death of her father.**
 
-**[[Characters/Orin|Orin]]** (Drew).
+**[[Characters/Orin|Orin]]** (Mudcat).
 - (a) **A fallen comrade, a werebear**, whose hands bracing Flynry are a vision. Lost in the Hall of Fates.
 - (b) **Flynry's dream son**, named after him: mid-twenties, an accomplished politician in Prexmarin, robed.
 
@@ -159,7 +162,7 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 
 **Gregor the Baker; old lady Margaret**. Dream villagers.
 
-**[[Characters/Baptiste|Baptiste]]** (Drew). An elven gentleman with flowing cloaks and many daggers. He throws rocks at Locket's window at night to invite her to "practice stabbing."
+**[[Characters/Baptiste|Baptiste]]** (Mudcat). An elven gentleman with flowing cloaks and many daggers. He throws rocks at Locket's window at night to invite her to "practice stabbing."
 
 **[[Characters/Professor Stabbz|Professor Stabbz]]**. In Flynry's dream history, he won the Battle for the Crown alongside Flynry.
 
@@ -250,13 +253,13 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 > 30. **0:49:23 — Fight log.**
 >     - **Flynry goes first with Inflict Wounds.** His claws are bigger than usual, "less an enhancement and more a transformation," and his vertical leap has improved. He **latches onto the minotaur's broad chest going for the heart, tearing fiber away while necrotic venom oozes from the cuticles of his claws into the wounds.** He follows with an unarmed strike.
 >     - **The minotaur gores him with a horn, flipping him 10 ft onto his back (prone).** It swings its greataxe recklessly and misses. **The axe blade shatters into sand on the ground and reforms as it's lifted.**
->     - BdTeej (OOC): "I'm kind of rooting for the Minotaur now." Drew: "Yeah, me too."
+>     - BdTeej (OOC): "I'm kind of rooting for the Minotaur now." Mudcat: "Yeah, me too."
 >     - Flynry flurries and lands more unarmed strikes. **One punch misses because it goes through a hole he'd already made in the chest; the sand refills the holes almost as fast as he punches them.** He looks for a structural weak point but finds none: "He's made of sand."
 >     - **The minotaur lands two reckless greataxe hits across his chest, then his back.** The wounds are **"cold and lifeless, even colder than steel… like ice,"** jagged and torn like sand ripping flesh. The minotaur's sand now struggles to hold together in places.
 > 31. **0:59:07 — The sword from the sand.**
 >     - Flynry, realizing this land doesn't follow conventional physics, asks whether he can manifest power here. Survival 27.
 >     - **Spending a hero point**, he understands the sand. He plunges his arm up to the elbow into it and imagines a weapon.
->     - **He pulls out the hilt of a greatsword wreathed in a blue searing flame, "one that would almost be required for… glass blowing."** Drew rules it is now on his sheet and he is proficient with it.
+>     - **He pulls out the hilt of a greatsword wreathed in a blue searing flame, "one that would almost be required for… glass blowing."** Mudcat rules it is now on his sheet and he is proficient with it.
 > 32. **1:01:55 — Glassing the leg.** Spending a ki point, Flynry buries the blade in a leg to hinder it. **The sand turns molten and cauterizes into mirror on both sides of the cut, and the sand can't reform past the reflection.**
 > 33. **1:03:54 — The kill.**
 >     - Flynry takes a power stance and holds the sword low behind him. **Its flame touches the sand and travels to the soles of his boots, so he creates glass under his feet as he sprints** and the sand can't hinder him.
@@ -285,13 +288,13 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 > 40. **1:16:13 — Baptiste.**
 >     - Some nights **a rock hits Locket's window.** Below stands **Baptiste**, an elven gentleman in flowing cloaks with daggers across his body, who "often has come to call, whether it's warranted or not."
 >     - Baptiste: **"Hello, my lady. Would you have any interest in practicing your stabbing?"** Locket: "it would be worth giving it a stab." Baptiste: **"My knives are sharp. And I have many a honing stone."** Locket: "My suave elven."
->     - Drew fades the scene out "before we get way too involved there." They have "made some sort of connection."
+>     - Mudcat fades the scene out "before we get way too involved there." They have "made some sort of connection."
 > 41. **1:17:38 — The Grandmaster's letters.**
 >     - **The Grandmaster has known of Toddleheim's search.** Flynry was also her champion, and **it doesn't sit right with her that he died this way after so much sacrifice**, so she has considered a way as a reward.
 >     - After many months **Toddleheim gets a vague letter: his friend "may not be completely gone… might still be reached."** It summons him to **the Dread Fortress** whenever he is ready, with whomever he wants. Locket gets a similar letter.
 > 42. **1:20:13** Toddleheim: "Well, I can't believe this, finally… I've missed him so, so very dearly." Locket: "Me too."
 >     - Someone, probably Toddleheim, teases her: "I did hear a man named Baptiste in the area." Locket: **"Oh no, Baptiste and I are just… just friends."** Her player admits no roll is needed to see she's lying.
->     - Drew: **"There's a lot of dagger strikes in your headboard."**
+>     - Mudcat: **"There's a lot of dagger strikes in your headboard."**
 >     - They meet in the town square and set off at once.
 > 43. **1:21:38 — The road to the Dread Fortress.** They travel through **Prexmarin** and many other cities and regions. **The Dread Fortress stays on the horizon whichever way they turn, always following them.** The **orc skull across the lava field** glows with the same heat they felt leaving it on their first adventure "to save the Arbiter at that time."
 >
@@ -340,10 +343,10 @@ They followed it over enormous dunes until they heard a blade ringing out. Below
 >     - Locket: "I just want to reach out and give her a hug… This is fake. This is fake. I've done this before." **She resists and steps away.**
 > 56. **1:45:47 — Elianna is the chaperone.** The Arbiter: **"the Grandmaster did say that she thought they needed a chaperone."** Elianna shakily puts away her book and glasses and trips on the stairs going up.
 > 57. **1:46:37 — Elianna's mirror.**
->     - Drew: the mirror shows "your deepest desires… what would call on your soul to walk in."
+>     - Mudcat: the mirror shows "your deepest desires… what would call on your soul to walk in."
 >     - Her player: "God damn it, making me show my hand right away."
 >     - **Elianna sees a cozy fire in an isolated cabin, snow outside, and on a small couch, the Grandmaster snuggled up with her under a blanket.**
->     - She whispers **"oh, my sweet lady"** and clutches her chest, staring without blinking. Drew calls it "a memory of yourself with Elusia Skypiercer."
+>     - She whispers **"oh, my sweet lady"** and clutches her chest, staring without blinking. Mudcat calls it "a memory of yourself with Elusia Skypiercer."
 >     - She barely succeeds. **She hovers her hand over where the Grandmaster's face would be and pulls it back: "No. She wanted me to come back safely and I will do that. I'm not going to let her down."**
 > 58. **1:48:58 — Why Elianna came.** She came willingly; she'd do anything for the Grandmaster, though she is sad to leave her side.
 >     - Narration: **the Grandmaster cared deeply for her champions, Flynry included, and trusts Elianna to help them.** She sees something special in her. **"Even though she is very old, she sees some of herself in you. Back when she had just arrived at Cor'thun and was lost in the world after the death of her father."**

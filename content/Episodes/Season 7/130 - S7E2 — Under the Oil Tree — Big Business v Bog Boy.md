@@ -159,11 +159,11 @@ At the table, both players confessed it was their first time in the arena, and t
 - She sat beside the Grandmaster and Doug, flirted with Doug, and Doug drank her pail water.
 - She fell and was caught by Bog Boy, was caught again by Scrib, and was held out by the GM for the proposal.
 
-**Griselda, the swamp witch (bog witch)** (Bec). A foul, long-haired, swampy hag who arrives with other hags around her.
+**Griselda, the swamp witch (bog witch)** (Caustic Phoenix). A foul, long-haired, swampy hag who arrives with other hags around her.
 - Clementine's mother. Bog Boy promised to help her turn people into frog people.
 - She animated Big Business's scrap and fused it into Bog Boy, then rose into the sky.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Italian leather boots. Monologues when he kills.
 - Has "delegated" champion-finding to Thea "as management."
 - Says he once saved Doug's life. **Keeps an Italian leather ledger of everyone he has saved and the favors they owe.** Wants a timeshare or vacation property.
@@ -171,7 +171,7 @@ At the table, both players confessed it was their first time in the arena, and t
 - **Wrote the Grandmaster's name in a book with "kill" scratched on its cover.**
 - Bets on the fight. Calls Doug ugly.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Learning Spanish to "go international."
 - Didn't know Claude worked there.
 - **Admits chaotic events can help champions and that she doesn't advertise it.**
@@ -388,7 +388,7 @@ At the table, both players confessed it was their first time in the arena, and t
 > 45. **0:58:40 — Bog Boy's origin.**
 >     - Bog Boy: "**I used to be a four-year-old boy before I got turned into a toad.**"
 >     - Big Business: "**He was a human child. Then I put him in the oil tree.**"
->     - Someone says "Well, now I'm 85" (labelled Bec; speaker uncertain).
+>     - Someone says "Well, now I'm 85" (labelled Caustic Phoenix; speaker uncertain).
 >     - Bog Boy starts a story: "When I was a little boy playing by the swamp…" A little chair comes up for it.
 >     - The GM cuts him off. She makes eye contact with "poor Clementine, the fish wife": "How? Why? I can't… **I need to go find Doug the Pug.**"
 > 46. **0:59:23 — Halftime.** Big Business has 50 HP and Bog Boy has 32.
@@ -437,7 +437,7 @@ At the table, both players confessed it was their first time in the arena, and t
 >     - **Big Business turns his scoops sideways into "the kill position" and swings wildly** ("Come on, whammy").
 >     - A 16 looks like a miss until he remembers Bless. **A single dollar bill floats in front of him to remind him.** "Oh, it's profit time."
 >     - It hits for 25, with a smite on top, for 47 total.
->     - **Bog Boy deflects 22 and tries to redirect it, but Big Business makes the save** (Drew notes a DC mishap on his end).
+>     - **Bog Boy deflects 22 and tries to redirect it, but Big Business makes the save** (Mudcat notes a DC mishap on his end).
 >     - 25 lands. **One shovel smacks Bog Boy into the air and the other slams him down.**
 >     - The decisive image: **as the glowing fist comes down, Bog Boy tries to turn it back toward Big Business, then sees Doug whispering into Clementine's ear in the stands. "Almost like a little bit of defeat," he lets it go, and it cleaves him down the side.**
 >     - The GM: "That breaks my heart… I love a good loss."
@@ -491,7 +491,7 @@ At the table, both players confessed it was their first time in the arena, and t
 >     - Big Business stomps his boot down. **The first stomp misses (16).** "Come on, hold still now. You're too slippery for your own good." Bog Boy: "I ain't moving, you blind man."
 >     - **The second lands** (27 plus Bless).
 >     - Bog Boy is at 7 HP. **He deflects 20 of the 11 damage and survives.** The Arbiter: "What a miracle!… Staying alive. Metal as fuck."
-> 70. **1:43:49 — Funeral rites.** The GM had been about to ask Bog Boy "what are your funeral rites?… I thought in that moment he was going to croak." The answer: "**Oh, throw me in the bog.**" (Labelled Drew, but probably Bog Boy; speaker uncertain.)
+> 70. **1:43:49 — Funeral rites.** The GM had been about to ask Bog Boy "what are your funeral rites?… I thought in that moment he was going to croak." The answer: "**Oh, throw me in the bog.**" (Labelled Mudcat, but probably Bog Boy; speaker uncertain.)
 >
 > ### Round 6 — the kill
 > 71. **1:44:02** Big Business is "teetering on the edge with only 22 points of health."
@@ -533,25 +533,25 @@ At the table, both players confessed it was their first time in the arena, and t
 > [!abstract]- Full Dried Blood notes (click to expand)
 > Almost all of it is out-of-character, so it's logged as creator notes. Possible in-character lines are marked.
 >
-> - **Both players are first-timers.** Drew calls it "sort of a double win, sort of a double loss." Nate is a long-time viewer.
-> - **Tech:** the cameras failed despite months of work automating the show (the 720p gag). Bec: "so many cigarettes… Our entire budget."
+> - **Both players are first-timers.** Mudcat calls it "sort of a double win, sort of a double loss." Nate is a long-time viewer.
+> - **Tech:** the cameras failed despite months of work automating the show (the 720p gag). Caustic Phoenix: "so many cigarettes… Our entire budget."
 > - **Peter on the plan:** "first time playing monk… first time playing on D20 Deathmatch." He and Nate "yes and each other way too much."
 >   - Like pro wrestling, they had a loose idea. He expected a heel turn: he'd be the heel and Big Business the babyface who saves the world.
 >   - He loved the bog witch twist.
 > - **Bog Boy's backstory (player-stated):** "**I was a child that got… I was a teenage mutant ninja turtle… but in Florida.**" A bog witch was always part of it ("100%").
 > - Peter thanks the DMs for bringing out Doug and letting Clementine flirt with him.
 >   - Nate: "That needs to be a sticker. The dog drinking the fish water, little hearts above his head."
->   - Bec: "everything a pug does is sloppy."
-> - **Bec on the odds:** she expected the Warforged to win on HP. Nate: "Those counterattacks were insane… half my health."
+>   - Caustic Phoenix: "everything a pug does is sloppy."
+> - **Caustic Phoenix on the odds:** she expected the Warforged to win on HP. Nate: "Those counterattacks were insane… half my health."
 > - **Peter almost played a grung**, but the AC was too low, so he pivoted to Tortle. Jokes followed: "three grungs in a pail" / "three different fishes in three different buckets. Which one's the real Clementine?"
 > - **Nate was happy to miss in the late rounds**; a win would have felt anticlimactic. Peter: "a Joker/Batman situation… if I destroy you, who will I have left?" and "**big business is pretty lonely now that Clementine's gone… this is a shell of him.**"
-> - **Bec on PvP:** "You don't always hope that you hit every single time. What you hope for is the best story… you're cheering as much for your opponent to give a good show back." Nate: pro wrestling, "the Vaseline." Bec: "For the oil in this case."
+> - **Caustic Phoenix on PvP:** "You don't always hope that you hit every single time. What you hope for is the best story… you're cheering as much for your opponent to give a good show back." Nate: pro wrestling, "the Vaseline." Caustic Phoenix: "For the oil in this case."
 > - **Origin of the characters:**
 >   - Peter joined Nate in Discord. Bog Boy came first; "the best counter to nature is capitalism," and Peter came up with the Warforged idea.
->   - They have played together on Careful Camp Trip [?] with Bec.
+>   - They have played together on Careful Camp Trip [?] with Caustic Phoenix.
 >   - **Clementine was Peter's idea that night, based on Jake "the Snake" Roberts carrying a snake in a bag.** He changed it to a rusty metal bucket because "Jake the Rattlesnake was terrible taking care of that snake in real life."
-> - **Bec on coming back:** "That's why it's fun to think of the options of how do we bring you back… You gave a reason to come back."
+> - **Caustic Phoenix on coming back:** "That's why it's fun to think of the options of how do we bring you back… You gave a reason to come back."
 > - **Parting thoughts:**
->   - Peter: "Don't make deals that you cannot fulfill… **for me, I'm now half robot, half turtle.**" (He could be speaking as Bog Boy; possibly in character.) Bec: "Put it in a fairy tale book."
+>   - Peter: "Don't make deals that you cannot fulfill… **for me, I'm now half robot, half turtle.**" (He could be speaking as Bog Boy; possibly in character.) Caustic Phoenix: "Put it in a fairy tale book."
 >   - Nate: "**Big business keep telling you to invest.**" (in character) "Nate says go talk to a financial advisor." Out of character: "Don't bring a new character into a PVP if you want to win… looking to see what the hell these chaos classes do."
 

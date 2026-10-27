@@ -136,7 +136,7 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 - **Mission:** came for the Shadow King's grandmother's secret soup recipe (with cilantro).
 - **In this episode:** panicky and apologetic. She declared she was no longer scared of Fatale, won the match, received the recipe, and was incinerated by the Shadow King through it.
 
-**[[Characters/The Shadow King|The Shadow King]]** (Drew). In power at the Dread Fortress.
+**[[Characters/The Shadow King|The Shadow King]]** (Mudcat). In power at the Dread Fortress.
 - **Plans:** expanding the Dread Fortress across the Void (a pool where a school is), killing the people who live there.
 - **In this episode:**
   - Wore bunny slippers.
@@ -145,7 +145,7 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
   - Incinerated the winner with "my grandmother's recipe."
 - He mocks the Grandmaster's talking compared with Vythorn's.
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Bec). Opens portals by clenching the amulet at her neck until she bleeds.
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]** (Caustic Phoenix). Opens portals by clenching the amulet at her neck until she bleeds.
 - **In this episode:**
   - Opposes the expansion.
   - Mutters that she "should have been the one in charge."
@@ -255,10 +255,10 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 > 19. **0:17:26 — First blood.** The Acolytes go into a frenzy at first blood in round one ("very surprising and doesn't always happen") and start filling the champions' hero points.
 > 20. **0:18:01 — Claudia armors up.** In a panic she **pulls the dagger out of her shoulder** and casts **Mage Armor and Bladesong** (AC 21). Then she tiptoes around the pole looking for Fatale.
 > 21. **0:18:54 — Hiding.** Fatale shimmies around the pole into the crow's-nest ladder for half cover (stealth 19).
->     - Drew: "How flat do you think she can get against this pole?" Bec: "Listen, I'm just saying, there are hoes."
+>     - Mudcat: "How flat do you think she can get against this pole?" Caustic Phoenix: "Listen, I'm just saying, there are hoes."
 >     - Fatale says she wears **a very scantily clad latex outfit**: "the less clothes you wear, the tighter you can get."
 >     - Claudia still has a rough idea of where she is.
-> 22. **0:20:07 — Marco Polo.** Claudia: "Where did you go? **Marco?**" Drew has Fatale make a Wisdom save to see whether she is compelled to yell "Polo." She passes and doesn't: "I'm waiting for the right moment."
+> 22. **0:20:07 — Marco Polo.** Claudia: "Where did you go? **Marco?**" Mudcat has Fatale make a Wisdom save to see whether she is compelled to yell "Polo." She passes and doesn't: "I'm waiting for the right moment."
 > 23. **0:21:21** The end-of-round roll is a 10. The crowd boos ("You suck!"). The Shadow King: "It's good enough for a death save!"
 > 24. **0:21:38 — Hero points.** The Grandmaster explains them: one per Deathmatch, granted by the Acolytes' cheering. They let a champion "go plus ultra, super saiyan, be over frickin' 9,000." "Don't die with it in your hands."
 >
@@ -278,7 +278,7 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 > 30. **0:29:13 — Claudia's tree shift.** She uses a beast-hide shift for temporary HP.
 >     - **Backstory (player-stated):** Claudia "was once in a terrible laboratory accident during research." Since then, when she gets scared enough, **her body morphs like a tree, "sort of like a weeping willow… but with like the strong bark."** Her skin changes and she gets droopy.
 > 31. **0:30:19 — Hold Person.** "You just stay right there, okay?" She casts **Hold Person on Fatale**, and Fatale fails (5).
-> 32. **0:31:08 — The chest falls.** At the end of round 2, a **gigantic treasure chest falls from the sky like a comet in yellow and pink flames** and lands up by the helm. Bec and Drew can't agree on the ship-part names: "the steering wheel thing."
+> 32. **0:31:08 — The chest falls.** At the end of round 2, a **gigantic treasure chest falls from the sky like a comet in yellow and pink flames** and lands up by the helm. Caustic Phoenix and Mudcat can't agree on the ship-part names: "the steering wheel thing."
 >
 > ### The Box of Chaos — Lubofan's soul
 > 33. **0:32:03 — Lubofan.** The Shadow King: "Hmm, who would it be tonight?"
@@ -297,8 +297,8 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 >     - Fatale is held and can't open hers, so it stays closed at her feet.
 >     - **Claudia, "a curious kid," opens hers.** The shoes appear magically on her feet with the laces tied tight. **They are squeaky shoes.**
 >     - While she wears them she can't sneak attack, and she must make the squeak sound whenever she moves.
-> 37. **0:35:44** Fatale asks whether the dog hears squeaks. Bec: "I didn't think about how these two would combine." Drew: the dog has +5 perception.
-> 38. **Getting them off.** The shoes are magical, so simply untying them may not work; the squeaker is visible on the heel. Drew: "Don't assume" how many legs a player has. Bec: "Some players have four legs… then you have two pairs of shoes."
+> 37. **0:35:44** Fatale asks whether the dog hears squeaks. Caustic Phoenix: "I didn't think about how these two would combine." Mudcat: the dog has +5 perception.
+> 38. **Getting them off.** The shoes are magical, so simply untying them may not work; the squeaker is visible on the heel. Mudcat: "Don't assume" how many legs a player has. Caustic Phoenix: "Some players have four legs… then you have two pairs of shoes."
 >
 > ### Round 3 — the whispered deal
 > 39. **0:37:23 — The talk.** Held, Fatale talks. "Why do you even want to die?" Claudia: "I don't want to die, that's why I froze you."
@@ -322,8 +322,8 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 >     - **The dog jumps off the ship into the stands, tackles Garamond and Gator, gives them puppy kisses and devours the food.**
 > 45. **0:44:16** Fatale fails her save against Hold Person: "I am a doll!" (inferred Fatale). She falls over like a stiff Barbie.
 > 46. **0:44:57 — Fatale's offering.** Unable to move, she sends **her black petals dancing on the wind into the chest as an offering**. They tuck "deep within the soul of Lubofan."
->     - **The box gives a +3 weapon, which Drew makes a whip.** It falls on top of her.
->     - Claudia: "**A functional whip!** How?" Drew: "Gotta have a good whip."
+>     - **The box gives a +3 weapon, which Mudcat makes a whip.** It falls on top of her.
+>     - Claudia: "**A functional whip!** How?" Mudcat: "Gotta have a good whip."
 > 47. **0:47:29 — Claudia's offering.** "I am very afraid of you right now, but also very jealous." She **throws one of her daggers (really a small gardening trowel) at the box.**
 >     - The shadowy creature claws out: "**Why are you throwing shit at me?**"
 >     - Claudia: "Not for you! You can now start like a kitchen garden… I am so sorry… I regret everything."
@@ -351,26 +351,26 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 > 55. **0:56:37** Fatale hides again by the pole. She **takes her unopened shoe box with her**, to open next turn.
 > 56. **0:57:14** Claudia is invisible and still out-stealthing her. Fatale can't pin her down.
 > 57. **0:58:13 — The squeakers.** Claudia can't just untie the shoes, so she **stabs the squeaker in each shoe with her little shovel.**
->     - Drew: "I thought you were going to cut your own feet off." Claudia: "This is not Saw."
+>     - Mudcat: "I thought you were going to cut your own feet off." Claudia: "This is not Saw."
 >     - "My shoes are also ventriloquist."
->     - The shoes deflate, and she can move stealthily, though Bec rules they are "slightly less uncomfortable."
+>     - The shoes deflate, and she can move stealthily, though Caustic Phoenix rules they are "slightly less uncomfortable."
 > 58. **1:01:05 — Flailing.** Claudia flails around the deck with her shovel: "Where are you? You're not going to hit me again." She misses.
 >     - **Her invisibility drops mid-flail.** She sees her arm: "oh shit."
->     - The crowd finally sees them again. Bec compares it to a piñata game where the piñata is invisible.
+>     - The crowd finally sees them again. Caustic Phoenix compares it to a piñata game where the piñata is invisible.
 >
 > ### The Shadow King crashes the ship
 > 59. **1:03:14** End-of-round roll 11. Shadow King: "**This is boring. Let me change things.**"
 >     - He reaches out a hand as if to grab the ship.
 >     - **It tilts to 90 degrees and plummets nose-first.** Barrels roll past and sacks of grain float in the air.
 > 60. **The damage.** Both pass Dex saves for half damage. It comes to only 6, and someone (speaker uncertain) demands a reroll: "You are the Shadow King." Shadow King: "**You know what? I like the sound of that. Let's do it again.**" 12 more.
->     - Claudia asks, "Aren't we rogues?" to avoid the damage. Drew: "Oh, you're taking this damage."
+>     - Claudia asks, "Aren't we rogues?" to avoid the damage. Mudcat: "Oh, you're taking this damage."
 > 61. **1:04:59** **The Shadow King slams the ship ethereally into the ground.** It breaks into pieces and both champions are thrown out, still facing each other.
 >
 > ### Round 5 — the mountaintop
 > 62. **1:05:22 — The new arena.** A mountaintop with rocks, trees and bushes. **A tiny squirrel watches from a rock on the south side with his own binoculars, munching a bag of peanuts.**
 > 63. **1:05:40** Fatale hides behind a chunk of the helm and fires her crossbow with sneak attack. She misses (15).
 > 64. **1:06:53 — Fatale's squeaky shoes.** The shoe box "will not leave your side," so she opens it, and **squeaky shoes appear on her feet.**
->     - Fatale: "Cool." Drew: "She's so excited about this, you can't tell."
+>     - Fatale: "Cool." Mudcat: "She's so excited about this, you can't tell."
 >     - **Her squeak is a sharp, intimidating, intentional snapping click, "like razor sharp Louboutins."** Grandmaster: "the harsh plaque, like a knife on glass… piercing and painful to the ears."
 > 65. **1:08:12 — The second Hold Person.** Claudia traces the bolt's line (perception 28).
 >     - "You already stabbed me. You tried to… I don't think you're a very nice person… **I am not going to be scared of you anymore.** But you have to stay right there."
@@ -382,9 +382,9 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 > ### Round 6
 > 68. **1:10:58** Fatale gets perception 21 but can't place Claudia. "You get two rogues together… We're just hiding."
 > 69. **1:11:45 — The peanut.** **The squirrel bravely runs up and offers Fatale "a peanut of encouragement."** It does nothing.
->     - **Fatale stabs the peanut with her squeaky shoe heel** and brings it up to her hand. Bec thought she meant the squirrel: "People don't often stab peanuts."
+>     - **Fatale stabs the peanut with her squeaky shoe heel** and brings it up to her hand. Caustic Phoenix thought she meant the squirrel: "People don't often stab peanuts."
 > 70. **1:12:25** Fatale walks around **cracking her whip to intimidate** and closes in. Claudia's insight fails (15 vs 16), so she gets a d4 penalty to attacks.
-> 71. **1:13:31 — The pass.** Claudia, "more and more panicked by the second," casts **Kinetic Jaunt** and runs past Fatale with a **Booming Blade** swing of her gardening shovel. Bec: "Blooming Blade… if that fits more of your style."
+> 71. **1:13:31 — The pass.** Claudia, "more and more panicked by the second," casts **Kinetic Jaunt** and runs past Fatale with a **Booming Blade** swing of her gardening shovel. Caustic Phoenix: "Blooming Blade… if that fits more of your style."
 >     - It misses (10). "I see like the look on your face and I'm like, oh god! And I just start running." Kinetic Jaunt stops opportunity attacks.
 > 72. **1:15:56 — The spear.** End-of-round roll 14.
 >     - The Grandmaster warns: "**the Shadow King has a few other things up his sleeve.**"
@@ -392,7 +392,7 @@ As Claudia sat in the vines among the petals, a soft, well-worn piece of paper f
 >     - **She throws down her spear, and the ripple flattens a ~40 ft section in the middle "flat as a pancake."** "Don't make me throw another one!"
 >
 > ### Round 7
-> 73. **1:17:35** "Round number seven!" Bec: "I didn't even know we had this many cards… If we go into round number eight, it'll be round number one! Because we could only pay for so much."
+> 73. **1:17:35** "Round number seven!" Caustic Phoenix: "I didn't even know we had this many cards… If we go into round number eight, it'll be round number one! Because we could only pay for so much."
 > 74. **1:17:52 — Fatale's attack.** She closes 25 ft and attacks with her rapier (20), which misses Claudia's AC (Mage Armor, beast hide and Bladesong).
 >     - Her bonus-action crossbow (Crossbow Expert) misses. The Grandmaster: "**An expert loser.** I want you to get out there and show them how badass you are." She grants advantage.
 >     - Fatale spends her **Lucky** feat and rolls 26. **Claudia reacts with Shield (AC 27)**, and the bolt still misses. Claudia: "I don't want to die!"

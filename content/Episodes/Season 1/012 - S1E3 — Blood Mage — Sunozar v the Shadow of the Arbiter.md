@@ -144,7 +144,7 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 - **In this episode:** the GM named him her chosen champion. He fell off Theodore's hand and was **saved by the Grandmaster after praising her wings**. He beat the Shadow of the Arbiter.
 - Promised steaks and a dictionary by the GM.
 
-**[[Characters/The Shadow of the Arbiter|The Shadow of the Arbiter]]** (Drew). A "white, ethereal, ghost-like echo" ripped from the Arbiter's chest. He mirrors the Arbiter's studded leather armor.
+**[[Characters/The Shadow of the Arbiter|The Shadow of the Arbiter]]** (Mudcat). A "white, ethereal, ghost-like echo" ripped from the Arbiter's chest. He mirrors the Arbiter's studded leather armor.
 - **Wings ripped off by the Arbiter before the fight.**
 - Has "the worst parts" of the Arbiter: creepy, whispers, refers to himself as the Arbiter.
 - **Has shared the Arbiter's birthday "for thousands of years"; this was "my first birthday."**
@@ -158,14 +158,14 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 
 **The shadowspawn / "shadow of a shadow"**. A winged shadow demon resembling Ryuk (a shinigami), with a great cold-shadow sword. It hit Sunozar for 57 and vanished when the Shadow lost concentration.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - **Forced by the GM to fight through his shadow.** He removed his rings and over-cloak, ripped out his shadow, then tore its wings off.
 - The GM says she has "allowed you to expand your powers while you're here."
 - **"If he falls on the field, I will finish him myself."** He later blessed the Shadow ("there's a good heart in you yet").
 - He "exists outside of all space and time" and works hard on the deathmatches; the "union" joke.
 - Says he found Sunozar at a Ruby Tuesday in Omaha. The botched second champion was the "boxer" who owned boxer dogs.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - 3 p.m. coloring-book hour (a hummingbird eating a tiger).
 - Calls Sunozar her **chosen champion**.
 - **Suspects the Arbiter resents her and that his shadow "is trying to come for my crown."** Claims her wings were too tired to come down.
@@ -192,7 +192,7 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 
 ### Lore statements
 - **The Arbiter can rip out his own shadow as a separate being.** It is ghost-white, has his wings, has some time power, and "the worst parts of" him.
-- **The Arbiter's birthday is shared with his shadow "for thousands of years."** Drew confirms the Arbiter is much older than Elusia.
+- **The Arbiter's birthday is shared with his shadow "for thousands of years."** Mudcat confirms the Arbiter is much older than Elusia.
 - The GM limits the Arbiter's power in the arena ("allowed you to expand your powers while you're here").
 - The GM can summon giants (Theodore) and bottle crowd chaos.
 - The Arbiter and the GM "exist outside of all space and time."
@@ -200,7 +200,7 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the throne room
-> 1. **0:00:20** In her **underground subterranean cathedral throne room**, with water dripping down the stone into moss and grass, **Elusia sits on her throne coloring an adult coloring book**. It shows flowers and **"a hummingbird eating a tiger"**: Drew said tiger eating hummingbird, and Bec corrected him. "It's very vicious. Blood everywhere."
+> 1. **0:00:20** In her **underground subterranean cathedral throne room**, with water dripping down the stone into moss and grass, **Elusia sits on her throne coloring an adult coloring book**. It shows flowers and **"a hummingbird eating a tiger"**: Mudcat said tiger eating hummingbird, and Caustic Phoenix corrected him. "It's very vicious. Blood everywhere."
 > 2. **0:01:15** A portal opens and **the Arbiter steps through with only one champion**. He kneels, and apologizes for interrupting **her designated coloring-book hour, 3 p.m.** The GM asks what could be more exciting than coloring in the lines. "A deathmatch?" She **throws the coloring book behind her throne.**
 > 3. **0:03:30 — The missing champion.** The Arbiter had found "a really good champion" who said he was **a boxer. It turned out he only owned boxers, the dogs.** "Where do you find someone willing to fight to the death at this hour?" The GM: "Your tongue should likely be snipped for that."
 > 4. **0:05:05 — The GM's ruling: the Arbiter fights.** He may not fight at full force; she has "allowed you to expand your powers while you're here." Instead he must **split off an echo of himself**: "Let's see if even just a sliver of you could stand in this arena." He protests that the champion "couldn't even handle my shadow." She replies: "You almost brought a boxer to this fight. And so you will be the one boxing. **Take off your gloves and summon your shadow.**"
@@ -245,7 +245,7 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 > 35. **0:54:04** **Blood Curse of the Marked** gives extra damage dice. Sunozar hits (25) for 14 plus fire; the Shadow casts **absorb elements**. A second hit (25) does 21. **Sunozar spends his hero point for another attack.** The Shadow holds concentration ("dirty 20"). "Will we have a fight between the two of us?"
 > 36. **0:57:39** The first swing misses: the Shadow goes ethereal ("I could have done this at any time. I don't know why I didn't"). **The second swing comes up between the Shadow's legs** (21). GM: "**Hurry, dear Shadow, your nether regions are in danger.**" **The Shadow reverses time again** and forces a reroll ("like a reverse Lucky… I create two realities… and I choose the one I like"). It's spent as Sunozar's extra hero-point attack. GM: "It seems his diamonds are well protected."
 > 37. **0:59:38** Sunozar drinks a **Mutagen of Celerity (+3 DEX for an hour)** through the Order of the Mutant. GM: "Such dexterous, much wow… **The Lord of the Riverdance**." Sunozar starts riverdancing.
-> 38. **1:00:47 — Castration vs castigation.** The GM thought he cast a "spell of castration." Sunozar: "Listen, I didn't know this asshole could turn back time. You didn't warn me." GM: "This is the second time he has turned back time… **He listens to a lot of Cher**… it all turned back time." Sunozar: "I only listen to metal." The table debates whether Cher is metal (big 80s hair, dresses like Dee Snider). GM to the Arbiter: "**Check and make sure that you have not accidentally been castrated. What happens to your shadow may actually be happening to you.**" Sunozar: "It was the **brand of castigation, not castration**." Bec googled it. Sunozar is "**a bull rancher**" and did kill someone for stepping on his toe, so "he may have removed some things as well."
+> 38. **1:00:47 — Castration vs castigation.** The GM thought he cast a "spell of castration." Sunozar: "Listen, I didn't know this asshole could turn back time. You didn't warn me." GM: "This is the second time he has turned back time… **He listens to a lot of Cher**… it all turned back time." Sunozar: "I only listen to metal." The table debates whether Cher is metal (big 80s hair, dresses like Dee Snider). GM to the Arbiter: "**Check and make sure that you have not accidentally been castrated. What happens to your shadow may actually be happening to you.**" Sunozar: "It was the **brand of castigation, not castration**." Caustic Phoenix googled it. Sunozar is "**a bull rancher**" and did kill someone for stepping on his toe, so "he may have removed some things as well."
 > 39. **1:03:10** Break: "let that simmer… Good luck on the trivia guessing that monster."
 >
 > ### After the break
@@ -281,8 +281,8 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 > 65. **1:46:46** GM: "Who did you bring?" Arbiter: "**He was at the Ruby Tuesday I was having lunch at. Listen, there's not a lot of people in Omaha.**" GM: "**Let's hit Ruby Tuesday after this**… after parties." **She raises Sunozar's hand: "Your victor, your winner, your champion, Sunozar!"** "Welcome… no, goodbye to D20 Deathmatch."
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> - Nelstar on decapitating Drew's character: "knocking out of the park."
-> - **Eating the candy was Mutant Noodles' idea in chat.** Bec: chat suggestions are like a live audience, so go for it. Drew had planned to play up "I've never had a birthday" and beg for candy.
+> - Nelstar on decapitating Mudcat's character: "knocking out of the park."
+> - **Eating the candy was Mutant Noodles' idea in chat.** Caustic Phoenix: chat suggestions are like a live audience, so go for it. Mudcat had planned to play up "I've never had a birthday" and beg for candy.
 > - **Maps** come from Animated Dungeon Maps on Patreon. The **"Hand of God" map** (the giant's hand) was paired with a mountaintop map with similar design elements.
 > - **"Afraid of heights" was improvised.** It's a running joke with friends about the tall bridge from Nelstar's hometown to the Lake Charles, Louisiana casinos. "**Now it's a part of Sunozar's life. He is now afraid of heights forever.**"
 > - **Sunozar's backstory (player-stated, so canon for Sunozar):**
@@ -290,6 +290,6 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 >   - He befriended an old man, who was the powerful wizard. They saved several cities from demons, goblins and trolls.
 >   - **Statues of Sunozar and his wizard friend stand in a couple of cities: one in cast bronze, one in marble.**
 >   - The old man died, and his soul now lives in the sword.
-> - Bec on his mother: "And how does that make you feel?" Drew: "You're the Ronald McDonald [statue] that I picked up and animated sitting on the bench."
-> - Nelstar hasn't talked to Bec in over a year. He'd sign Sunozar up for a battle of champions; Drew: "I think we can make that happen."
+> - Caustic Phoenix on his mother: "And how does that make you feel?" Mudcat: "You're the Ronald McDonald [statue] that I picked up and animated sitting on the bench."
+> - Nelstar hasn't talked to Caustic Phoenix in over a year. He'd sign Sunozar up for a battle of champions; Mudcat: "I think we can make that happen."
 

@@ -129,12 +129,12 @@ At the curtain call, the Grandmaster introduced her co-host, "last but not least
 - **Wild-shaped into Precious, a six-pound pink Pomeranian with a bell.** As Precious she frightened Chef, used two of the Dogs of Many Things, and talked in a deep voice ("There is no Jenny, only Precious").
 - **Died falling into the lava, transforming like Cinderella into a ball gown.** Her wish: to kiss someone cute at prom.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Claims Italian-leather shoes. **Ripped the spine out of "Popcorn Guy" through his chest** over stale popcorn stuck in his teeth.
 - Wants a break "every four hours."
 - Called "a little least" by the Grandmaster; replies "That guy sucks."
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Introduced as the one who calmed the chaos and slew the Shadow King.
 - **Opens the arena portal by breaking her necklace.**
 - Says the Dread Fortress loves puppies and does not hurt innocent animals. Covets Luis's necklace.

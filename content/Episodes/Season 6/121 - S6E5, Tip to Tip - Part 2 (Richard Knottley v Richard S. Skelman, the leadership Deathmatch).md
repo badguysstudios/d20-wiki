@@ -280,7 +280,7 @@ In the after-show, the new team lead laid out his agenda. His first order of bus
 > 44. **0:55:07** Ten-minute break. The break is still in the mp3 and excluded, except the intro narration.
 >
 > ### Show intro narration (1:02:16, kept)
-> 45. Drew reads the standard intro: the dark Void outside all space and time, the Dread Fortress calling, **the Grandmaster, Elusia Skypiercer, "though retired from battle,"** yearning for glory and bloodshed, **the Arbiter "her servant in all things"** curating the games, and champions "ripped from time and their plane of existence." "You, Acolyte, are called to bear witness to D20 Deathmatch."
+> 45. Mudcat reads the standard intro: the dark Void outside all space and time, the Dread Fortress calling, **the Grandmaster, Elusia Skypiercer, "though retired from battle,"** yearning for glory and bloodshed, **the Arbiter "her servant in all things"** curating the games, and champions "ripped from time and their plane of existence." "You, Acolyte, are called to bear witness to D20 Deathmatch."
 >
 > ### Round 3: Bessie and the Cowdettes, and the Box of Chaos
 > 46. **1:05:51** Back from the break. The GM: "**That movie trailer looked amazing. I can't wait to watch Bessie and the Cowdettes… That is my top movie of 2024.**" (The trailer, about bovine astronaut "Cowdettes" led by Bessie fighting evil alien space turkeys, played in the break reel.) Arbiter: "Their studio is really milking it." GM: "Utterly amazing." Skelman: "Can we move on, please?"
@@ -328,21 +328,21 @@ In the after-show, the new team lead laid out his agenda. His first order of bus
 > 79. **1:57:09 Closing.** GM to the Acolytes: "**You have witnessed the birth of our second team.** Remember that these deathmatches are not just for fun, though they are hella fun… **it is also here to remind ourselves to stay vigilant, to push ourselves. Death is not the ending, and it is not what we should fear.** We are stronger… everything in the universe pushes towards our victory as long as we push there ourselves. **Hold on to your faith, hold on to the Void**." "Welcome and good night to D20 Deathmatch!"
 
 > [!abstract]- Full Dried Blood notes (click to expand)
-> Opens: "Welcome back, Acolytes, to another episode of Dried Blood… one of those episodes in season six." Drew introduces "Richard Knottley, Richard Skelman, RealLifeFakeWizard, Runaway Robot."
+> Opens: "Welcome back, Acolytes, to another episode of Dried Blood… one of those episodes in season six." Mudcat introduces "Richard Knottley, Richard Skelman, RealLifeFakeWizard, Runaway Robot."
 >
-> - **Skelman is the new team lead** (Bec: "Congratulations on being the new team lead").
+> - **Skelman is the new team lead** (Caustic Phoenix: "Congratulations on being the new team lead").
 > - Skelman, asked for his first order of business: "**I only have control, really, over two people here, and one of them is currently locked away at a re-education camp.** I think our first order of business is that Dick and I are going to get our third Dick out. He's in too deep." It's unclear whether "re-education camp" means Knottley in the vacuum or the third Dick.
-> - Skelman's second order of business: "**I'm no longer paying taxes on my many dungeons that I have throughout the realm**… because I am now, and as Richard has told me, **a sovereign citizen**. I am my own man!" Knottley's player: run the businesses through an offshore account and revoke their citizenships. Bec: "I don't want to say no. So we're going to let that happen."
-> - Knottley is "soon to be returning back to your human form." Knottley: "It just won't let me die." Bec says he can come back built differently.
-> - **The aluminum-foil hat:** Knottley's player has now put it on five times. Drew's "quick lore update": he could have it **surgically implanted on the inside**. "**They call me hammerhead.**"
-> - **The Dickazord.** Bec has heard rumors of a "dickazoid." Skelman: "we did do that in the first episode." The third dick is needed: "**our son Cola Man**" (unclear name). Skelman's final words, in character: "**This will not be the last you see of us, for we will go delve deeper and find our third dick, reclaim him as one of our own, and then we will create the largest dickazord that anyone has ever seen.**"
+> - Skelman's second order of business: "**I'm no longer paying taxes on my many dungeons that I have throughout the realm**… because I am now, and as Richard has told me, **a sovereign citizen**. I am my own man!" Knottley's player: run the businesses through an offshore account and revoke their citizenships. Caustic Phoenix: "I don't want to say no. So we're going to let that happen."
+> - Knottley is "soon to be returning back to your human form." Knottley: "It just won't let me die." Caustic Phoenix says he can come back built differently.
+> - **The aluminum-foil hat:** Knottley's player has now put it on five times. Mudcat's "quick lore update": he could have it **surgically implanted on the inside**. "**They call me hammerhead.**"
+> - **The Dickazord.** Caustic Phoenix has heard rumors of a "dickazoid." Skelman: "we did do that in the first episode." The third dick is needed: "**our son Cola Man**" (unclear name). Skelman's final words, in character: "**This will not be the last you see of us, for we will go delve deeper and find our third dick, reclaim him as one of our own, and then we will create the largest dickazord that anyone has ever seen.**"
 > - Knottley's sign-off: "**Live dangerously.**"
 >
 > ### Creator notes (out-of-character)
-> - Drew to RealLifeFakeWizard: "you just can't win one of these even when you roll nothing but nat 20s." RealLifeFakeWizard says he was trying to lose and it felt uncomfortable to be ahead: "I'm supposed to be the heel." Drew: "**You only lost because you won too hard.**"
+> - Mudcat to RealLifeFakeWizard: "you just can't win one of these even when you roll nothing but nat 20s." RealLifeFakeWizard says he was trying to lose and it felt uncomfortable to be ahead: "I'm supposed to be the heel." Mudcat: "**You only lost because you won too hard.**"
 > - Skelman's player had bad dice all night and the week before, plus Foundry and camera trouble.
 > - Both players: the characters have bonded, which made fighting each other hard ("I can't do it in character"). "The dicks are better together." They felt this episode was tamer than Part 1, which hadn't been demonetized yet.
 > - Skelman's player jokes that Knottley answered whether you'd "get with" yourself: "The answer was yeah."
-> - Drew enjoyed describing a mustache as having "good mouth feel."
-> - Bec's George Washington "20 goddamn dicks" line is an old internet meme reference ("What are you on, Tumblr?").
+> - Mudcat enjoyed describing a mustache as having "good mouth feel."
+> - Caustic Phoenix's George Washington "20 goddamn dicks" line is an old internet meme reference ("What are you on, Tumblr?").
 

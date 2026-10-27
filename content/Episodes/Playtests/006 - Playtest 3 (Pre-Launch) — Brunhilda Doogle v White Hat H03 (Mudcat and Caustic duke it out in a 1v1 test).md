@@ -14,8 +14,11 @@ arena: An unnamed forest with a cliff, a ravine and berry bushes
 summary: A yuan-ti ranger and a warforged gunslinger fought across a rainy forest cliffside until she strangled him with her tail and his dying trigger finger shot her, and both fell. The match ended in a tie.
 tags:
 - episode
+youtube: https://youtu.be/fCjXSOkuTTg
 canon_order: 6
 ---
+
+[Watch on YouTube](https://youtu.be/fCjXSOkuTTg)
 
 A snake-woman who loves Mother Nature met a cowboy robot who runs on oil, and the forest got very messy. In this pre-launch test bout, **[[Brunhilda Doogle]]** and **[[White Hat H03]]** traded arrows, bullets, insults and a great deal of oil across a cliffside. Along the way came a lost hat, a cursed nickname, a giant floating screwdriver and a snake best friend who did not survive. It ended the only way two stubborn [[Champions|champions]] could end it: with each of them killing the other.
 
@@ -89,16 +92,16 @@ White Hat did not outlast her by long. "Well, it seems that this was my day to s
 - **White Hat H03:** "Well, it seems that this was my day to shine in the sun."
 
 ## Who and What Appears
-**[[Characters/Brunhilda Doogle|Brunhilda Doogle]]** (Bec). Yuan-ti (Bec calls it "yaunty"), Gloom Stalker ranger, level 13. Coral-snake colors: red and black with gold instead of yellow, and silver ("Red touch yellow, kills a fellow"). Speaks with a hiss. Longbow that was **"a gift"**; two short swords; can use her tail to strike, throw and strangle. Animal friendship works on snakes. Spells: thorn whip, poison spray, fear, greater invisibility, frostbite; hide in plain sight. Immune to poison (she says). Ate the purple "dog berries" many times. Befriended a constrictor snake, which White Hat killed. **Died, tied.**
+**[[Characters/Brunhilda Doogle|Brunhilda Doogle]]** (Caustic Phoenix). Yuan-ti (Caustic Phoenix calls it "yaunty"), Gloom Stalker ranger, level 13. Coral-snake colors: red and black with gold instead of yellow, and silver ("Red touch yellow, kills a fellow"). Speaks with a hiss. Longbow that was **"a gift"**; two short swords; can use her tail to strike, throw and strangle. Animal friendship works on snakes. Spells: thorn whip, poison spray, fear, greater invisibility, frostbite; hide in plain sight. Immune to poison (she says). Ate the purple "dog berries" many times. Befriended a constrictor snake, which White Hat killed. **Died, tied.**
 
-**[[Characters/White Hat H03|White Hat H03]]** (Drew). Warforged gunslinger with pistols that can form a metal shield; white hat and pocket square. Speaks Loxodon and Leonin, "so he can speak to the animal races." "Southern, sort of." "Special robot eyes." Bane makes his eyes glow red. Resistant to poison, shrugs off cold. Spits oil. "Founded on the principles of fair economics in the oil trade." Rusts in rain. Chat nicknamed him **White Hat Ho** after he lost his hat: "Nobody calls me a hoe but me." **Died, tied.**
+**[[Characters/White Hat H03|White Hat H03]]** (Mudcat). Warforged gunslinger with pistols that can form a metal shield; white hat and pocket square. Speaks Loxodon and Leonin, "so he can speak to the animal races." "Southern, sort of." "Special robot eyes." Bane makes his eyes glow red. Resistant to poison, shrugs off cold. Spits oil. "Founded on the principles of fair economics in the oil trade." Rusts in rain. Chat nicknamed him **White Hat Ho** after he lost his hat: "Nobody calls me a hoe but me." **Died, tied.**
 
 **The constrictor snake.** Chaos-event creature; bit White Hat and chipped a tooth; charmed by Brunhilda; shot to pieces by White Hat.
 
 **The purple berries ("dog berries").** Grow all over the forest; heal, but make you see funny colors the first time.
 
 ### Places
-- An unnamed forest arena: rocks and a cliff (made rockier by Bec), a ravine, a mushroom pedestal, berry bushes; flooded by rain.
+- An unnamed forest arena: rocks and a cliff (made rockier by Caustic Phoenix), a ravine, a mushroom pedestal, berry bushes; flooded by rain.
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
@@ -108,7 +111,7 @@ White Hat did not outlast her by long. "Well, it seems that this was my day to s
 > 4. **1:49:14 — The climb.** White Hat ("southern for some reason, sort of") struggles up a rock ("a DC of seven… the lowest DC I've ever heard of") and misty-steps the last ten feet. Brunhilda: "It's not Misty Step, it's Greasy Step. The oil just seeps from you… polluting Mother Nature in all her glory. She hates you for it."
 > 5. **1:51:09 — Bane backfires.** His eyes glow red as he casts Bane; she rolls a nat 20 on her Lucky reroll ("Your eyes! I've seen them before! They're hideous!") and the spell short-circuits in his brain, baning him instead. "I'm rubber, you're glue."
 > 6. **1:53:17 — Thorn whip.** Brunhilda puts her bow on her back and lashes him with a thorn whip (nat 20, "Mother nature doesn't take this lightly!") and drags him to the edge. She grabs his "smug little metal face": "You are so weak here and out of your element… I will allow you to be devoured here by nature itself," and **pushes his white hat off the cliff**. He isn't scared: "Bigger snakes have been in my boots than you… tipping a man's head off is very unbecoming."
-> 7. **1:58:16 — White Hat Ho.** Oil splatters from the thorn wounds. Chat starts calling him "White Hat Ho" now that he's lost his hat; Bec makes him roll to resist the mockery; he passes on a reroll: **"Nobody calls me a hoe but me,"** and **spits a forceful stream of oil into the front row "like front row SeaWorld."** He spits oil at Brunhilda too: "I may be just a simple machine. But I was founded on the principles of fair economics in the oil trade."
+> 7. **1:58:16 — White Hat Ho.** Oil splatters from the thorn wounds. Chat starts calling him "White Hat Ho" now that he's lost his hat; Caustic Phoenix makes him roll to resist the mockery; he passes on a reroll: **"Nobody calls me a hoe but me,"** and **spits a forceful stream of oil into the front row "like front row SeaWorld."** He spits oil at Brunhilda too: "I may be just a simple machine. But I was founded on the principles of fair economics in the oil trade."
 > 8. **2:03:46 — Off the ledge.** Brunhilda's tail whips around his feet and throws him off the ledge (he'd blocked her shove with a metal shield formed from his gun). She camouflages herself against the rock with dirt (hide in plain sight).
 > 9. **2:08:09 — The purple berries.** She finds purple berries she doesn't recognize, eats them in desperation ("Berries, I eat you!") and heals, but sees funny colors (the berries are "dog berries"). She keeps eating them all fight; she builds up a resistance to the side effects. He casts cure wounds on himself and falls off the slick rock face he greased with his own oil ("Captain Planet… this is your own fault").
 > 10. **2:15:20 — Poison spray** from hiding (he's resistant as a robot). She claims to have moved and throws her voice; he isn't fooled. She makes the cliff rockier. "I have the high ground, White Hat Ho."

@@ -137,19 +137,19 @@ Afterwards, Ruby spoke in the voice of a beaten athlete: "We tried, we turned up
 - **Items:** the blue pill (survives six fatigue) and the rusty spoon (tetanus).
 - The pair later insist on being called "the Hunger" or "the Hunger and the child."
 
-**[[Characters/Thea|Thea]]** (Bec). A tiny pink imp whose wings shed glitter.
+**[[Characters/Thea|Thea]]** (Caustic Phoenix). A tiny pink imp whose wings shed glitter.
 - The Lord of Fate's assistant, with a clipboard, a performance report and a fear of losing her job.
 - Names arenas. Brought the snacks. Has small arms.
 - The Lord of Fate says **she used to be a worm**.
 - She keeps up with the cloaca jokes and wants an infinite stomach.
 
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew).
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat).
 - Says he "**usurped the Grandmaster**" and is under scrutiny across the Void.
 - His bedroom is in a distant tower because he likes to stay away from everybody.
 - **Powers seen:** rips reality to move them both to the throne room, snaps food into place, summons the Box of Chaos.
 - Keeps a performance report on Thea. Wants middle-aged champions. Won't admit lords use the bathroom.
 
-**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Drew). A shadowy skeleton-like creature that claws out of the box.
+**[[Lore/The Box of Chaos|The Box of Chaos creature]]** (Mudcat). A shadowy skeleton-like creature that claws out of the box.
 - Swallowed Robbie's years. Wears **a necklace of teeth of all different kinds**, now including Ruby's incisor.
 - Tied Ruby's shield on with twine. "Honestly, I'm not picky."
 
@@ -486,14 +486,14 @@ Afterwards, Ruby spoke in the voice of a beaten athlete: "We tried, we turned up
 > - 1:43:12 Rob, in a sports-interview voice: "We tried, we turned up and give it 110%… some days it's your day and some days it's not your day."
 > - 1:50:19 Cinder as Robbie: "Hi there, I'm Robbie Clark, and **this backpack is full of my eldritch horror called The Hunger, and together we fight crime.**" (This leads into a plug.)
 > - 1:50:50 Rob as Ruby, calling himself "**Ruby Red**": "When I'm not getting my ass kicked by an unfair fight with an Eldritch demon…" (This leads into a plug.)
-> - 1:51:15 Drew: Ruby is framing his defeat as losing to an eldritch horror "and not so much that he lost to a child." Bec: "it's branding."
+> - 1:51:15 Mudcat: Ruby is framing his defeat as losing to an eldritch horror "and not so much that he lost to a child." Caustic Phoenix: "it's branding."
 >
 > **Out-of-character (creator notes):**
 > - Cinder's favorite moment: Rob playing it as though Ruby was never supposed to be in this fight.
 > - Rob: the mechanics put everyone on a level, so it's fun to pretend you aren't. His favorite moment was the power of friendship and the unzipping reveal: "an Ash Ketchum with a mind controlling parasite Eldritch Demon thing."
-> - **Rob had never lost a Deathmatch before.** The "technically never lost" was a team race with Dag/Doug: **Dag's dying hand touched the chest first**, beating **Mendari and DM Dave**. Bec: by beating Rob, Cinder has beaten everyone Rob beat, "by proxy." Cinder is now "undefeated… one for one."
-> - Cinder's first time playing with Drew.
+> - **Rob had never lost a Deathmatch before.** The "technically never lost" was a team race with Dag/Doug: **Dag's dying hand touched the chest first**, beating **Mendari and DM Dave**. Caustic Phoenix: by beating Rob, Cinder has beaten everyone Rob beat, "by proxy." Cinder is now "undefeated… one for one."
+> - Cinder's first time playing with Mudcat.
 > - Rob interviewed Cinder on his channel ("the short rest"). Cinder's character name came up there, garbled as "Robbie Coltrane." **Ruby's never-used special ability was to swallow the opponent whole.** The plan: constrict, strip all actions, then swallow on the next turn.
-> - Cinder: "you are thinking too much with strategy… You got to go in with chaos." Bec: "just go all in with the stupid fun story." Drew: "We do favor chaos here."
+> - Cinder: "you are thinking too much with strategy… You got to go in with chaos." Caustic Phoenix: "just go all in with the stupid fun story." Mudcat: "We do favor chaos here."
 > - Plugs: Cinderblock Sally (YouTube), Viva La Dirt League D&D, Robert Hartley GM.
 

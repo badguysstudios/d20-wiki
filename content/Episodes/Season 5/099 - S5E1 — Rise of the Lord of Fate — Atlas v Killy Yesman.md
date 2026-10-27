@@ -115,7 +115,7 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 
 ## Who and What Appears
 ### Characters
-**[[Characters/The Arbiter|The Lord of Fate]]** (Drew). The ruler of the Dread Fortress, sitting on its throne; he is the former Arbiter (he is called "the Arbiter" by slip at 0:31:59 and 1:12:51, and Atlas says "I'll ask the Arbiter next time").
+**[[Characters/The Arbiter|The Lord of Fate]]** (Mudcat). The ruler of the Dread Fortress, sitting on its throne; he is the former Arbiter (he is called "the Arbiter" by slip at 0:31:59 and 1:12:51, and Atlas says "I'll ask the Arbiter next time").
 - **In this episode:**
   - He made Thea from a worm and named her the Arbiter.
   - He had the Grandmaster "fired… laid off" and made a beheading joke about her "severance package."
@@ -163,11 +163,11 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
   - Gave his hat to the Box of Chaos and got smelling salts.
 - **In this episode:** he drank Atlas's core and swore they would sell more soda together. He is the winner.
 
-**The shadow in the Box of Chaos** (Drew). A soul newly formed from the Lord of Fate's own shadow, with yellow eyes and hands that creep over the lid.
+**The shadow in the Box of Chaos** (Mudcat). A soul newly formed from the Lord of Fate's own shadow, with yellow eyes and hands that creep over the lid.
 - It took Atlas's Void battery for its dead Game Boy.
 - It took Killy's hat, put it on and sipped the sun cola.
 - It was "all out of mouths."
-- Its touch is soft and warm; Bec suggests it has wanted human contact.
+- Its touch is soft and warm; Caustic Phoenix suggests it has wanted human contact.
 
 **[[Characters/Kenny|Kenny]]**: the owner of the missing arm. He is small and green (a goblin arm) and "pretty useless"; "He's not gonna be needing it anyway."
 
@@ -184,7 +184,7 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 
 **[[Characters/Goblins|Goblins]]**, "showing up for the first time": they carry Atlas off on a canvas and rebuild him in the locker room.
 
-**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**: mentioned only. "Fired / laid off"; "She's going to get [a severance package] soon enough. It's a little beheading joke." (Bec's OOC note: in prison and potentially about to lose her head.)
+**[[Characters/Grandmaster Elusia Skypiercer|The Grandmaster]]**: mentioned only. "Fired / laid off"; "She's going to get [a severance package] soon enough. It's a little beheading joke." (Caustic Phoenix's OOC note: in prison and potentially about to lose her head.)
 
 ### Places
 - **[[Places/The Dread Fortress|The Dread Fortress]]**: entered through a skull's open mouth in the lava field. It is subterranean, with dew-wet walls, pictures of "what used to be the Arbiter," and **blue tabards everywhere**. It is now silent and "straight-laced."
@@ -217,7 +217,7 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening: the Dread Fortress under the Lord of Fate
-> 1. **0:06:07** Drew stumbles over the opening ("That was rough. We've been out of the game a while") and restarts. The camera soars "through the open mouth of that skull in this lava field" into the Dread Fortress. Its subterranean castle walls are wet with dew.
+> 1. **0:06:07** Mudcat stumbles over the opening ("That was rough. We've been out of the game a while") and restarts. The camera soars "through the open mouth of that skull in this lava field" into the Dread Fortress. Its subterranean castle walls are wet with dew.
 >    - **"Pictures of what used to be the Arbiter now hang on the walls with blue tabards hanging everywhere."**
 >    - The fortress is **oddly silent**: "no merriment… no shenanigans… Everything's very… straight-laced."
 > 2. **0:06:59** In the throne room, **the Lord of Fate slouches on his throne, picking his teeth and looking extremely bored**. He mumbles that there was something he needed to do today. Then: "**Deathmatch!**" He stands and exclaims it to nobody. He is alone in the room. "This is not going to do. **I'm going to need an assistant.**"
@@ -259,7 +259,7 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 > 25. **0:23:29 — "Little bitches."** Atlas drops the dented lawnmower. His levitating fist hauls Killy up by the shirt. "**It has been brought to my attention that organic life forms tend to be that which they consume. And it appears as though you woke up this morning and ate a big bowl of little bitches.**" A punch to the jaw: **natural 20**. Atlas regains a fighting spirit and an adrenaline.
 > 26. **0:24:31 — The punchable face.** Killy doesn't react, and his chin has no give. **He sips soda and his wounds begin to heal** (he mends a fighting spirit). He pushes the fist back with his chin: "**there are some advantages to having grown up with the world's most punchable face. You're gonna have to do better than that, At-less… you're gonna have to try At-more.**"
 >     - Lord of Fate: "you had me with the first half." Thea explains the pun.
-> 27. **0:25:40 — Thea throws a punch.** Thea says his face is very punchable, then admits "I'm not very good at fighting." Asked whether worms fight, **she throws a fist at the Lord of Fate**. Drew rolls a **natural 20** for the Lord of Fate.
+> 27. **0:25:40 — Thea throws a punch.** Thea says his face is very punchable, then admits "I'm not very good at fighting." Asked whether worms fight, **she throws a fist at the Lord of Fate**. Mudcat rolls a **natural 20** for the Lord of Fate.
 >     - She shrinks onto "the very tip of your Italian leather stupid boot": "I clearly don't know how to fight! I'm sorry!"
 >     - Lord of Fate: "**I can see all through time and space and I am the Lord of Fate. So obviously I know what's going to happen.**"
 > 28. **0:27:09 — Killy's elbows.** He dashes "as fast as his twig legs will take him" and elbows Atlas's chest. It hits (19 vs 6): "**Oh, wow, my friend, you're slower than my girlfriend's five-year-old iPhone.**" He squirts around behind him for a second elbow to the back, which misses.
@@ -352,7 +352,7 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 >     - Thea: "Because eight is greater than seven." Lord of Fate: "**I know what eight is greater than seven. Why are you talking to me like this?**" A vein in his head is about to explode.
 > 65. **1:17:58 — The red bottle.** Killy admires the arm ("Nice. Nice new addition") and puts **a bright red Double Sun Cola** in its hand. It vibrates and explodes into corrosive soda, "three times as damaging." Thea: "So like six suns?"
 >     - It's a tie (7 vs 7). No damage to the chassis, but the exertion gives both a fatigue.
-> 66. **1:19:38 — Killy at the box.** The blast knocks Killy next to the box and he reaches in. Bec begins: "another hand touches yours very softly gently just like on the fingertips…" She hands the scene to Drew, who is "trying to shake that image out of my mind." Bec: "the shadow's been wanting… human contact for a while… it's warm."
+> 66. **1:19:38 — Killy at the box.** The blast knocks Killy next to the box and he reaches in. Caustic Phoenix begins: "another hand touches yours very softly gently just like on the fingertips…" She hands the scene to Mudcat, who is "trying to shake that image out of my mind." Caustic Phoenix: "the shadow's been wanting… human contact for a while… it's warm."
 > 67. **1:20:41 — The mouth wish.** Killy points at Atlas: "**I want that robot to have a mouth.**" Shadow: "I don't know if I can do mouths."
 >     - **Killy takes off his hat, and long blonde hair unfurls down his back, "oddly pretty."** He puts the hat in the box.
 >     - **The shadow puts it on; the tubes whip out and it starts sucking the sun cola.** "I'll be right back."
@@ -405,22 +405,22 @@ In the locker room behind the Dread Fortress, a small horde of goblins was busy 
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > **In-character framing (canon, Dried Blood):**
-> - **1:48:40** Drew: "a new season… of dried blood as we find ourselves in **the locker room backstage behind the Dread Fortress** as **Atlas is being rebuilt by a small horde of goblins** with a towel strewn across his shoulder as Killy is also here."
+> - **1:48:40** Mudcat: "a new season… of dried blood as we find ourselves in **the locker room backstage behind the Dread Fortress** as **Atlas is being rebuilt by a small horde of goblins** with a towel strewn across his shoulder as Killy is also here."
 >
 > **Out-of-character creator notes:**
-> - **1:47:48** Bec riffs on a future arc where one of them "breaks free or gets bought out by another brand and now you're… enemies."
+> - **1:47:48** Caustic Phoenix riffs on a future arc where one of them "breaks free or gets bought out by another brand and now you're… enemies."
 > - Dag:
 >   - He was "in like the early playtests of the first few seasons."
 >   - He found the new system easy to learn. "Atlas is not as unbreakable as it used to be."
 >   - **Atlas "in season one" was "the D&D character built to have just massive AC and not go down"**. "He literally would tank hits from like an enlarged barbarian hill giant that critted on him and dealt zero damage." He started "I played against poor freaking…" and didn't finish the name.
 >   - He is a big fan of Yang from **Dungeon Scrollers** and joined without thinking ("We're bungee jumping. Fuck it, let's go").
-> - Yang called the show one of his favorites on Twitch and praised the "little funny videos in between." He liked the layered peril of fatigue and fighting spirit. Bec: "Kind of like a shaken soda can."
-> - Drew: the season is meant to be "about the dice rolls and about that dramatic… contested roles… that opportunity cost," so ending the first match of the new system on a nat-1 self-kill "was spectacular."
+> - Yang called the show one of his favorites on Twitch and praised the "little funny videos in between." He liked the layered peril of fatigue and fighting spirit. Caustic Phoenix: "Kind of like a shaken soda can."
+> - Mudcat: the season is meant to be "about the dice rolls and about that dramatic… contested roles… that opportunity cost," so ending the first match of the new system on a nat-1 self-kill "was spectacular."
 > - **Dag improvised the cola core** when Killy tried to pry him open. He reasoned that Atlas's power core being "the raw syrup" of the cola "explains why it does so many weird things like peel paint."
-> - Bec says Killy and Atlas will return later this season against new opponents, now with shared history.
-> - **On Thea, Bec says (OOC):** "Am I happy **the Grandmaster is in prison and potentially about to lose her head?** No, but Thea brings a new energy." Thea shows the perspective of the Acolytes, the long-time fans.
+> - Caustic Phoenix says Killy and Atlas will return later this season against new opponents, now with shared history.
+> - **On Thea, Caustic Phoenix says (OOC):** "Am I happy **the Grandmaster is in prison and potentially about to lose her head?** No, but Thea brings a new energy." Thea shows the perspective of the Acolytes, the long-time fans.
 > - Last words:
->   - Yang: "more chaos, more chaos surges… Bring it on." Bec: "Always, always more chaos."
+>   - Yang: "more chaos, more chaos surges… Bring it on." Caustic Phoenix: "Always, always more chaos."
 >   - Dag: "you never know who you're gonna role play with… lean deep into that yes, take that yes… in both hands and give it a good shake."
->   - Bec worries the hand gestures will be clipped out of context. Drew: "I'll be the one clipping it all out of context."
+>   - Caustic Phoenix worries the hand gestures will be clipped out of context. Mudcat: "I'll be the one clipping it all out of context."
 

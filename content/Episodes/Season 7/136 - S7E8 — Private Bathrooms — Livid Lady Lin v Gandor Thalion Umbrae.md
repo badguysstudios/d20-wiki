@@ -123,12 +123,12 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 
 **Gandor's mother** (voiced by Emily, as Lin's Summon Draconic Spirit). An old woman in a pink fluffy bathrobe with curlers and a cigarette. She scolds him for pondering orbs and throws a bunny-ear slipper. **Burned to death by her son's dragon breath.** Patrick confirms in Dried Blood it was really his mother.
 
-**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Bec).
+**[[Characters/Grandmaster Elusia Skypiercer|Grandmaster Elusia Skypiercer]]** (Caustic Phoenix).
 - Has **a private bathroom in the fortress**. Ate 12 Brussels sprouts.
 - **Grants heroic surges**; threatens to revive anyone who dies without using one "just to pummel you back into the earth."
 - Handed Lin the lease. Has "beef" with the Arbiter, to be settled privately.
 
-**[[Characters/The Arbiter|The Arbiter]]** (Drew).
+**[[Characters/The Arbiter|The Arbiter]]** (Mudcat).
 - Italian shoes. Placed the toilet paper just out of reach. Shoved Doug out of his chair. Carries a seatbelt in his chair.
 - Admits he has hit women "many times."
 - **Killed the winner with Power Word Kill because he wanted the tower** for his cramped lab; plans to blow out the west wall.
@@ -168,12 +168,12 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 ### Lore statements
 - **The Acolytes give champions blue slushies (adrenaline) or fatigue, and openly picked favorites.**
 - **Heroic surges are granted by the GM.**
-- **Dust remains are vacuumed by Thea and, per Drew, she tries to reassemble champions.**
+- **Dust remains are vacuumed by Thea and, per Mudcat, she tries to reassemble champions.**
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
 > ### Opening — the Grandmaster's private bathroom
-> 1. **0:00:43** Bec narrates the Acolytes' arrival at **the fortress itself**: "not the hut, not the cabin." They come deep underground, through the wide-open skull, into empty hallways. The Grandmaster is nowhere to be found. **The clacking of the Arbiter's "disgusting Italian shoes"** echoes as he opens door after door. "Grandmaster, it's Deathmatch Day. I need you." Bec scolds him for not screaming as cued.
+> 1. **0:00:43** Caustic Phoenix narrates the Acolytes' arrival at **the fortress itself**: "not the hut, not the cabin." They come deep underground, through the wide-open skull, into empty hallways. The Grandmaster is nowhere to be found. **The clacking of the Arbiter's "disgusting Italian shoes"** echoes as he opens door after door. "Grandmaster, it's Deathmatch Day. I need you." Caustic Phoenix scolds him for not screaming as cued.
 > 2. **0:01:41** A yelp comes from behind a heavy wooden door. The Grandmaster: "**I'm pooping!**" Arbiter: "Oh, yeah, no, I smell that now." She asks if he brought toilet paper. **She sent Thea for toilet paper 30 minutes ago**: "It's an emergency." The Arbiter says that's on her, given how often she scolds him for sending Thea on errands. **He just saw Thea running around the lava fields**, so she won't be back soon.
 > 3. **0:02:16** The GM explains it is "**meant to be a private bathroom**". Thea doesn't pay attention to that. She begs him to use his "fancy little hands" and magic, or she'll be late to the Deathmatch.
 > 4. **0:02:44 — The toilet paper.** The Arbiter **walks a roll over and sets it on the floor under the stall door, just far enough that she has to lean awkwardly off the toilet to reach it**, "just to make you uncomfortable." "The smell is very strong. This is as close as I'm getting." She tips forward on her toes, the seat cracks, and her fingertips miss. "Come on!" **He kicks it toward her.**
@@ -191,7 +191,7 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 >
 > ### Round 1
 > 16. **0:10:23** Gandor levels his staff at Liv: "**Today, we settle this once and for all. Have at thee!**" A crystalline orb congeals between his whirling hands. "**Orb of Infinite Ponder!**" (Confounding Shadows). Lin fails the Wisdom save. Table: "Were they children's books?" "I don't read books for learning… I read them for hurting." **Her gaze is absorbed by the levitating orb, so she can't see him. He steps back into the mountaintop mists.** GM: "All right, John Cena." "Love a game of hide and go seek."
-> 17. **0:12:44 — Biological warfare.** Lin: "You know what I do to things that I can't see?… **I use biological warfare.**" Arbiter: "Breaking the Geneva Convention." **Popeye-style, she squeezes a can of baked beans, swallows them down and casts Gust of Wind ("Baked Beans")**, a horrific wind in every direction. Bec: "Be one with the wind!… This is very eco-friendly." Lin: "It's a good thing we're in the toilet." A stuck template on screen becomes, per the GM, **the expelled wind "solidified into a giant brick"**, a "60 foot long shit brick."
+> 17. **0:12:44 — Biological warfare.** Lin: "You know what I do to things that I can't see?… **I use biological warfare.**" Arbiter: "Breaking the Geneva Convention." **Popeye-style, she squeezes a can of baked beans, swallows them down and casts Gust of Wind ("Baked Beans")**, a horrific wind in every direction. Caustic Phoenix: "Be one with the wind!… This is very eco-friendly." Lin: "It's a good thing we're in the toilet." A stuck template on screen becomes, per the GM, **the expelled wind "solidified into a giant brick"**, a "60 foot long shit brick."
 > 18. **0:15:06** Gandor fails the Strength save and is **blown 15 feet away**. Moving toward her costs double for one minute, "while I concentrate on farting very, very loudly." **The GM adds a d4 of noxious poison damage "because it was the beans"**: it rolls a 4, "but it burns the nostrils." Patrick: in the windy haze, **a little light tries to go up on Gandor's pipe.**
 > 19. **0:16:44 — Thea.** A **small pink impish pig-like creature** off to the side vacuums up the scent: "**I'm going to turn this into a candle!**" GM: "This is the strangest wizard versus wizard duel I have ever seen." Arbiter: "I've seen stranger, but that wasn't [was in?] Tijuana." GM: "Buckle in… this is gonna beat Tijuana." **The Arbiter literally pulls a seatbelt out of his chair.** "This is not a rollercoaster ride."
 >
@@ -199,7 +199,7 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 > 20. **0:17:40** "Dos en Spanish!" The GM says "Gandor Thalion, hombre!" and it echoes across the mountain. Gandor: "Thank you for getting it right. Liv, what is wrong with you?" "Everything." "**Foul creature, give me your blood!**"
 > 21. **0:18:15 — "Give Me Your Blood"** (Blood Bolt, with advantage from being unseen). It hits. **The orb shatters into "a trillion pieces", raking her skin and cutting her veins. Gandor grabs her blood out of midair**, then realizes he has this woman's blood all over his hand: "Why is it thick?… Do you need a doctor?" He gains temporary hit points.
 > 22. **0:19:44** Lin: "Listen, I don't know if you know much about women, but once a month…" She thanks him for helping her "pass through things very quickly": "Can I sign up next?" Table: a women's health clinic. Arbiter: "**He moonlights as a gynecologist.**" Gandor goes pale and sallow. "**Liv, you are undeserving of the tower. You are a foul creature and you will lose.**" "That's not a nice thing to say to a lady." "A lady, of course."
-> 23. **0:20:41 — "You Wouldn't Hit a Woman, Would You?"** (Mage Armor). After a sheet hunt, Drew adds the spell to her list. Lin asks "Patrick, did you remove my…" and Patrick answers "You can't prove I touched any stuff." **To Gandor, the buff, gruff champion is replaced by a mirage of a frail, petite, cute person**, and her voice comes out tiny: "You wouldn't hit a woman, would you?" Patrick: "Genuinely speechless. Confused. Perhaps aroused."
+> 23. **0:20:41 — "You Wouldn't Hit a Woman, Would You?"** (Mage Armor). After a sheet hunt, Mudcat adds the spell to her list. Lin asks "Patrick, did you remove my…" and Patrick answers "You can't prove I touched any stuff." **To Gandor, the buff, gruff champion is replaced by a mirage of a frail, petite, cute person**, and her voice comes out tiny: "You wouldn't hit a woman, would you?" Patrick: "Genuinely speechless. Confused. Perhaps aroused."
 >
 > ### Chaos event — the chinchilla avalanche (0:23:06)
 > 25. The Arbiter says the Acolytes demand a chaotic event. The table chants "Chaos!"
@@ -227,7 +227,7 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 > 42. **0:40:25 — "I think it's time we called your mom"** (Summon Draconic Spirit). Lin mimes a phone call: "Hello, Mrs. [Gandor?]… he's been a right fucking terror… he was swearing… he's smoking, and **I caught him pondering his orbs again**… I'll see you in five." The GM lets her describe the draconic spirit however she likes.
 > 43. **0:41:21 — Gandor's mother.** **An old woman steps out of a portal in a pink fluffy bathrobe, curlers in her hair, a cigarette pinched between her lips.** "**I thought I told you to stop pondering them orbs!**" **She takes off a slipper and throws it** (the breath weapon). Gandor panics: "**This is an illusion! You cannot hit me without my consent!**" and casts Shield ("You Cannot Legally Hit Me Without My Consent"). It's a Dex save, so Shield doesn't help.
 > 44. **0:42:57** **The slipper matches the bathrobe and has little floppy bunny ears.** In a Matrix move, Gandor leans back and it skims across his chest, so he takes half. He snaps back up face to face with his opponent and his mother.
-> 45. **0:43:44 — Adrenaline vs fatigue.** The Arbiter explains that Lin's five adrenaline means maximum damage plus the roll, and Gandor has five fatigue on top. **The half-damage slipper deals 31.** "The Acolytes have chosen who they're cheering for tonight." Bec: "The effort to gift was equal, but in different directions." The Arbiter adds that Gandor also has five adrenaline, so his next hit crits.
+> 45. **0:43:44 — Adrenaline vs fatigue.** The Arbiter explains that Lin's five adrenaline means maximum damage plus the roll, and Gandor has five fatigue on top. **The half-damage slipper deals 31.** "The Acolytes have chosen who they're cheering for tonight." Caustic Phoenix: "The effort to gift was equal, but in different directions." The Arbiter adds that Gandor also has five adrenaline, so his next hit crits.
 > 46. **0:44:49 — Gandor's heroic surge.** The GM grants Gandor a **heroic surge** ("go plus ultra on one thing"). "The thing you don't want is to die without using it. And in that case, **I will revive you just to pummel you back into the earth again.**"
 > 47. **0:45:45** Nobody knows what round it is. The GM proposes a breather. Arbiter: "I could use a bathroom break now that the smell is dissipated." GM: "Don't mention bathroom around me right now. It's still a sore subject."
 >
@@ -235,7 +235,7 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 >
 > ### Round 5
 > 49. **0:56:19** Arbiter: "It's time for one of these fuckers to die." GM: "Or at least within the next 40, 45 minutes." Gandor: "And we all know who it will be." GM: "Who?" Lin answers first. "Lin, shut up!" GM: "Lin answered first, so that makes it correct… I don't make up the rules. Actually, no, I do."
-> 50. **0:57:04 — The dragon.** Patrick: his mom, "a normal little old lady" (Bec: "a little, little old 20-foot lady"), has beaten him to absolute shit. **Gandor is a transmutation wizard and spends his heroic surge to polymorph into an adult red dragon** ("Ancient would be gauche"). Still under the slipper ("I'm sorry, I'm sorry"), **he becomes the dragon from Disney's The Sword in the Stone: portly, red, not intimidating in any way, about the size of his summoned mother**, still with his beard and pipe. He has **tiny T-Rex arms** ("early DreamWorks… very cartoon-ass dragon").
+> 50. **0:57:04 — The dragon.** Patrick: his mom, "a normal little old lady" (Caustic Phoenix: "a little, little old 20-foot lady"), has beaten him to absolute shit. **Gandor is a transmutation wizard and spends his heroic surge to polymorph into an adult red dragon** ("Ancient would be gauche"). Still under the slipper ("I'm sorry, I'm sorry"), **he becomes the dragon from Disney's The Sword in the Stone: portly, red, not intimidating in any way, about the size of his summoned mother**, still with his beard and pipe. He has **tiny T-Rex arms** ("early DreamWorks… very cartoon-ass dragon").
 > 51. **0:59:07** **He speaks by telepathy**: he gave up on dragon lips long ago, "so now you all get to hear him without him expending any effort. Which is maybe the worst of both worlds." Lin: "No one wants to hear him any easier." Arbiter, leaning back: "**I'm unimpressed. I've seen a dragon before.**"
 > 52. **1:00:09 — "Embarrassing Browsing History"** (Evard's Black Tentacles). Lin: "You may have seen a dragon before, but you probably haven't seen this before." **The GM adds an extra d6 if it hits, "because to have your internet history shared in front of your mother."** Gandor makes the Strength save with the dragon's bonus, but the 20-ft square becomes difficult terrain. Gandor: "**Why did you take so many difficult terrain spells?**" Lin: "Them tentacles are supposed to hurt you… You were supposed to be small and piddly."
 > 53. **1:02:45** GM: "If this is from your internet history, you like this, right?" Gandor: "**I refuse to comment.**" His mother: "Gandalf, Gandalf, **have you been looking up that hint I gave? I told you before.**" Gandor: "**Mother, this doesn't concern you.**" He turns an even brighter red, until it hurts to look at him.
@@ -261,10 +261,10 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 
 > [!abstract]- Full Dried Blood notes (click to expand)
 > ### Canon (in-character / lore drops)
-> - **1:30:28 — Drew: "This is actual lore here. This is canon."** **Thea takes the vacuum bags back to her closet of a room, dumps them out, and tries to piece Gandor and Lin together one speck of dust at a time.** Thea (Bec): "**This is going to be my greatest puzzle.**" (Dried Blood)
-> - 1:31:45 Bec: maybe there's only enough for one body and two heads. Drew: "we've combined people's bodies a number of times. I think we're becoming predictable." (Speculation only.)
-> - 1:35:22 Bec: **"Gandor's mom's kebabs" (charred meat) for the food court.** "No waste at D20 Deathmatch… Once you're here, you're forever here." (Dried Blood; a riff, logged as said.)
-> - 1:35:45 Drew: "Why do you think the Grandmaster was in the bathroom for that long?" Bec: digestive issues are "a very relatable experience."
+> - **1:30:28 — Mudcat: "This is actual lore here. This is canon."** **Thea takes the vacuum bags back to her closet of a room, dumps them out, and tries to piece Gandor and Lin together one speck of dust at a time.** Thea (Caustic Phoenix): "**This is going to be my greatest puzzle.**" (Dried Blood)
+> - 1:31:45 Caustic Phoenix: maybe there's only enough for one body and two heads. Mudcat: "we've combined people's bodies a number of times. I think we're becoming predictable." (Speculation only.)
+> - 1:35:22 Caustic Phoenix: **"Gandor's mom's kebabs" (charred meat) for the food court.** "No waste at D20 Deathmatch… Once you're here, you're forever here." (Dried Blood; a riff, logged as said.)
+> - 1:35:45 Mudcat: "Why do you think the Grandmaster was in the bathroom for that long?" Caustic Phoenix: digestive issues are "a very relatable experience."
 > - 1:36:40 Arbiter: "**I'm the Arbiter, and welcome to my crib.** We're gonna do all 100 floors, so I hope you have a snack." (An "Arbiter's Cribs" riff.)
 > - 1:37:52 Final words. **Gandor: "Gandor Thalion Umbrae. I will remember every single one of you."** (No final words from Lin are recorded.)
 >
@@ -290,6 +290,6 @@ Afterwards, Thea took the vacuum bags back to her closet of a room, dumped them 
 > - **The Acolyte-interaction (adrenaline/fatigue) mechanic is described as new.** Emily: it saved her; her character is "vibes only." Patrick: "Let the fans speak." He had both adrenaline and fatigue all game, and joked it was D20 fans versus Unbalanced Encounters fans, plus the GoFundMe "crowdfunding my redemption arc."
 > - Patrick confirms in-joke canon: "Was it my mother?… No, it was actually your mother." "I'll have to deal with that crippling guilt."
 > - Chat noted that in five years the show had never opened in the bathroom.
-> - Audio talk: Thea's voice peaks; Brennan Lee Mulligan, "five compressors in serial"; Drew lives "on the fader."
+> - Audio talk: Thea's voice peaks; Brennan Lee Mulligan, "five compressors in serial"; Mudcat lives "on the fader."
 > - They're invited back; Patrick: "we were disintegrated and bagged, so probably not."
 
