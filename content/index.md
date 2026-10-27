@@ -2,7 +2,7 @@
 title: The Black Tome
 ---
 
-<img src="static/hero.png" alt="D20 Deathmatch" class="hero-logo">
+<img src="static/skull.png" alt="D20 Deathmatch skull" class="hero-logo">
 
 Welcome, Acolyte. You have opened **the Black Tome**, the record of everything that has happened in **D20 Deathmatch**, the live D&D arena show from Bad Guys Studios, hosted by Mudcat (the Arbiter) and Caustic Phoenix (Grandmaster Elusia Skypiercer).
 
@@ -35,3 +35,5 @@ Browse every episode by season in the **Episodes** folder in the sidebar. Each p
 
 ---
 *This wiki covers what has aired. It is updated as new episodes come out.*
+
+<small>Sidebar font: Nodesto Caps by Solbera, used under CC BY-SA 4.0.</small>

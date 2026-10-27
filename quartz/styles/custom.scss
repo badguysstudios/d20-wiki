@@ -1,13 +1,30 @@
 @use "./variables.scss" as *;
 
-// ---------- The Black Tome: D20 Deathmatch theme ----------
+// ---------- The Black Tome: D20 Deathmatch theme (always dark) ----------
 $pink: #ff39d6;
 $yellow: #f1e500;
 $purple: #60269e;
 $ink: #111111;
 
-// Retro perspective grid behind everything (dark mode)
-:root[saved-theme="dark"] body {
+// Nodesto Caps by Solbera (CC BY-SA 4.0)
+@font-face {
+  font-family: "Nodesto Caps Condensed";
+  src: url("./static/fonts/nodesto-caps-condensed.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nodesto Caps Condensed";
+  src: url("./static/fonts/nodesto-caps-condensed-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+$nodesto: "Nodesto Caps Condensed", var(--headerFont);
+
+:root { color-scheme: dark; }
+
+// Retro grid behind everything
+body {
   background-color: $ink;
   background-image:
     linear-gradient(rgba(96, 38, 158, 0.22) 1px, transparent 1px),
@@ -15,23 +32,17 @@ $ink: #111111;
   background-size: 48px 48px;
   background-attachment: fixed;
 }
-:root[saved-theme="light"] body {
-  background-image:
-    linear-gradient(rgba(96, 38, 158, 0.06) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(96, 38, 158, 0.06) 1px, transparent 1px);
-  background-size: 48px 48px;
-  background-attachment: fixed;
-}
 
-// Sidebar title becomes the wordmark + "The Black Tome"
+// Sidebar title: wordmark + "The Black Tome"
 .page-title {
   margin: 0;
   a {
     display: block;
-    font-family: var(--headerFont);
-    font-weight: 400;
-    font-size: 1.55rem;
-    letter-spacing: 0.04em;
+    font-family: $nodesto;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 1;
+    letter-spacing: 0.03em;
     color: $pink;
     text-shadow: 2px 2px 0 $ink;
     &::before {
@@ -41,11 +52,26 @@ $ink: #111111;
       aspect-ratio: 2 / 1;
       max-width: 220px;
       background: url("./static/wordmark.png") left center / contain no-repeat;
-      margin-bottom: 0.2rem;
+      margin-bottom: 0.3rem;
     }
   }
 }
-:root[saved-theme="light"] .page-title a { text-shadow: none; color: #c4119f; }
+
+// Sidebar section headings (Explorer, Graph View, Table of Contents, Backlinks)
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar button h2, .sidebar button h3,
+.explorer-toggle, .toc-header h3, .graph > h3, .backlinks > h3 {
+  font-family: $nodesto;
+  font-weight: 700;
+  font-size: 1.35rem;
+  letter-spacing: 0.04em;
+  color: $yellow;
+}
+.sidebar .folder-title, .sidebar .folder-button, .sidebar .folder-button span {
+  font-family: $nodesto;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+}
 
 // Article titles: metal gradient like the logo
 .article-title {
@@ -61,12 +87,6 @@ $ink: #111111;
   -webkit-text-stroke: 1px rgba(0, 0, 0, 0.35);
   filter: drop-shadow(3px 3px 0 $purple);
 }
-:root[saved-theme="light"] .article-title {
-  background: linear-gradient(180deg, #c49b00 0%, #e0338f 55%, #c4119f 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  filter: drop-shadow(2px 2px 0 rgba(96, 38, 158, 0.35));
-}
 
 // Section headings
 article h2, article h3, article h4 {
@@ -75,12 +95,8 @@ article h2, article h3, article h4 {
   text-transform: uppercase;
   letter-spacing: 0.06em;
 }
-:root[saved-theme="dark"] article h2 { color: $yellow; }
-:root[saved-theme="dark"] article h3 { color: $pink; }
-article h2 {
-  border-bottom: 3px solid $purple;
-  padding-bottom: 0.2rem;
-}
+article h2 { color: $yellow; border-bottom: 3px solid $purple; padding-bottom: 0.2rem; }
+article h3 { color: $pink; }
 
 // Links
 a.internal {
@@ -88,11 +104,10 @@ a.internal {
   border-bottom: 1px dashed currentColor;
   border-radius: 0;
   padding: 0;
-  &:hover { color: var(--tertiary); }
+  &:hover { color: $yellow; text-shadow: 0 0 8px rgba(241, 229, 0, 0.5); }
 }
-:root[saved-theme="dark"] a.internal:hover { color: $yellow; text-shadow: 0 0 8px rgba(241, 229, 0, 0.5); }
 
-// Quotes: chunky pink bar
+// Quotes
 article blockquote:not(.callout) {
   border-left: 5px solid $pink;
   background: var(--highlight);
@@ -100,11 +115,11 @@ article blockquote:not(.callout) {
   font-style: italic;
 }
 
-// Collapsible "Full Round-by-Round" box and other callouts
+// Callouts (the collapsible Full Round-by-Round box)
 .callout {
   border: 2px solid $purple;
   border-radius: 6px;
-  box-shadow: 4px 4px 0 $ink;
+  box-shadow: 4px 4px 0 #000;
 }
 .callout .callout-title { font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
 
@@ -114,16 +129,14 @@ table {
   th { background: $purple; color: #fff; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
 }
 
-// Home page hero logo
+// Home page logo
 img.hero-logo {
   display: block;
-  margin: 0 auto 1rem;
-  max-width: min(520px, 100%);
-  filter: drop-shadow(0 0 24px rgba(255, 57, 214, 0.35));
+  margin: 0 auto 0.5rem;
+  max-height: 170px;
+  width: auto;
+  filter: drop-shadow(0 0 18px rgba(255, 57, 214, 0.35));
 }
 
-// Search bar and explorer accents
 .search > .search-button { border: 2px solid $purple; }
-div.folder-container .folder-title, div.folder-container button.folder-button span, div.folder-container a { font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.9em; }
-
 ::selection { background: rgba(255, 57, 214, 0.45); }
