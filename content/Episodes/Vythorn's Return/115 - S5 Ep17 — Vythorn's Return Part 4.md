@@ -4,7 +4,7 @@ type: episode
 episode_code: S5E17
 arc: Vythorn's Return
 winner: No winner
-summary: In a vision, Vythorn visits the imprisoned Grandmaster as Lord of Fate and realizes he has built a prison for them both. Back in the moment of his choice, he rejects Fil, frees Elusia from her shackles, and the two vow before the Acolytes to fight fate itself.
+summary: In a vision, Vythorn visits the imprisoned Grandmaster as Lord of Fate and realizes he has built a prison for them both. Back in the moment of his choice, he rejects Fil and frees Elusia from her shackles, and the Grandmaster declares a new era before the Acolytes.
 tags:
 - episode
 youtube: https://youtu.be/yaUy8gnKnO4
@@ -29,10 +29,10 @@ In the dim light, the prisoner squinted at him. It was [[Grandmaster Elusia Skyp
 
 Vythorn hoped the accommodations "haven't been too terrible." Her tongue was as sharp as ever: "Yes, my stay has been delightful." The cell was dark and damp but lit by candles, with books in the corner and a humble bed mat. She looked worn and tired. Vythorn admitted he didn't really know why he had come.
 
-She invited him to sit, since she had not had company in a long time. He magically pulled a chair across the floor, smoothed his robes, preened a little and sat down "like a lord." Up close he saw that she was still in chains, though she wore them easily, as if they were bangles.
+She invited him to sit, since she had not had company in a long time. He magically pulled a chair over, smoothed his robes, preened a little and sat down "like a lord." Up close he saw that she was still in chains, though she wore them easily, as if they were bangles.
 
 ### A Prison for Us Both
-She asked what could possibly trouble the Lord of Fate. Vythorn confessed that he was lonely and missed their conversations. She pointed out that he controlled everyone's fate and could twist anyone into a friend or a mentor. That was exactly the problem, he said. His acquaintances were "all hollow," and he could never be sure who was a real friend and who was just under his influence. Then he corrected himself: he did know, but "it's just not as fun when you have to force it."
+She asked what could possibly trouble the Lord of Fate. Vythorn confessed that he was lonely and missed their conversations. She pointed out that he controlled everyone's fate and could twist anyone into a friend or a mentor. That was exactly the problem, he said. His acquaintances were "all hollow," and he could never be sure who was a real friend and who was just under his influence. Then he corrected himself: he did know, but it was just not as fun when he had to force it.
 
 The Grandmaster pounced on the word "fun." His friends were hollow, she told him, "because they're not real." Becoming Lord of Fate had never been about real relationships. He had a plan, and when you make your will everyone else's will, "it's going to be lonely." She understood the temptation and said she would have expected herself to crave that kind of power, not him. He had been the victim of someone else controlling his fate. "Have you not become what Agdrel was to you?"
 
@@ -40,7 +40,7 @@ Then she told him why she had trusted him all along:
 
 > "I know that you will overthrow me time and time again. I let those risks grow. They're opportunities for you to have choice." — **Grandmaster Elusia Skypiercer**
 
-Living among people with wills of their own was a risk, she said, but it was also how they could shape your future into something greater than you could imagine alone. If he could not accept that people make mistakes, he would be lonely, his success would be small and his impact would mean nothing. She had chosen to take the flaws along with the beauty and joy of letting everyone live their lives "side by side rather than alone." So how did the loneliness feel?
+Living among people with wills of their own was a risk, she said, but it was also how they could shape your future into something greater than you could imagine alone. If he could not accept that people make mistakes, he would be lonely, his success would be small and his impact would mean nothing. She had chosen to take the flaws along with the beauty and joy of letting everyone choose their lives "side by side rather than alone." So how did the loneliness feel?
 
 "I feel trapped," Vythorn said. "I feel more trapped than I ever did when I was your arbiter." He had tried to take fate into his own hands so that neither he nor anyone around him would suffer again, "but it seems I've made a prison for us both."
 
@@ -48,7 +48,7 @@ The Grandmaster lightened the moment. "Yours does have a comforting bed that is 
 
 He hung his head and let her words cut to the core. He was the architect of his own fate. "Well then I know what I have to do." He opened his eyes and exhaled.
 
-That exhale was the point. The whole Season of Fate, including his reign, his assistant, his rebellions and this visit to the cell, had unfolded in a single moment inside Vythorn's mind. It was the longest breath he had ever taken. Afterward, at the table, the players admitted that the woman in the cell was never really her: it was Vythorn talking to himself.
+That exhale was the point. The whole Season of Fate, including his reign, his assistant, the rebellions against him and this visit to the cell, had unfolded in a single moment inside Vythorn's mind. It was the longest breath he had ever taken. Afterward, at the table, the players admitted that the woman in the cell was never really her: it was Vythorn talking to himself.
 
 ### The Question Asked Again
 Vythorn was back in a familiar place: torn-up ground, angry clouds and a downpour of rain. It was a memory that had not yet been completed. [[Fil]], the God of Fate, whispered in his ear and asked her question once more: "Who are you going to become?"
@@ -59,16 +59,16 @@ This time he had an answer.
 
 Fil was not pleased. "Overcome fate? That's not what we outlined. That was not your desire." Vythorn told her he had followed the idea through to its logical conclusion. Controlling his own fate meant choosing for himself, whether he killed the Grandmaster or joined her. "You will not tempt me, pull the strings… This is my choice."
 
-Fil mocked him as "a man of titles." She had asked him so many times who he was, he had wanted to become something greater, and now he would stay the Arbiter? Vythorn thought about it. "Well, I suppose when I think about it, the only title that matters to me is friend."
+Fil mocked him as "a man of titles." She had asked him so many times who he was, he had wanted to become something greater, and now he would stay with the Arbiter? Vythorn thought about it. "Well, I suppose when I think about it, the only title that matters to me is friend."
 
-"Okay, friend. Interesting," Fil replied. A deal was a deal. "The book was given. The void laid out in front of you." That book was [[Morir's Cataclysm]], the power she had handed him. "We will have to come to collect." Vythorn looked at the frozen Grandmaster and answered simply: "We'll be ready for you." Fil smiled a Cheshire Cat smile, and her chuckle echoed as she vanished.
+"Okay, friend. Interesting," Fil replied. They had had their deal. "The book was given. The void laid out in front of you." That book was [[Morir's Cataclysm]], the power she had handed him. "We will have to come to collect." Vythorn looked at the frozen Grandmaster and answered simply: "We'll be ready for you." Fil smiled a Cheshire Cat smile, and her chuckle echoed as she vanished.
 
 ### The Dagger
-With Fil gone, the rain began to fall again, soaking Vythorn's clothes and hair, and the Grandmaster began to move. She was still caught in that moment of fear, clutching the choker locked around her neck. Vythorn drew the dagger downward, channelled chaos energy through it and **shattered the shackles around her throat**. "It's good to see you."
+With Fil gone, the rain began to fall again, soaking Vythorn's clothes and hair, and the Grandmaster began to move. She was still caught in that moment of fear, holding on to the choker around her neck. Vythorn drew the dagger downward, channelled chaos energy through it and **shattered the shackles around her neck**. "It's good to see you."
 
 "You know, I hate to admit it, but I didn't know what you were going to do there for a second," she said. "That makes two of us, I think," said Vythorn. "What?" "Nothing."
 
-She was glad to have him back at her side. The Shadow King, at least, was gone, but there was so much to do, and she could not do it alone. Then she **ran to hug him**, which almost never happened between these two, usually so cold and formal, but the hug was welcome. Pulling back, she told him they were going to change things and be ready, because she had noticed many threats in [[The Void|the Void]]. Vythorn warned her that there were even more threats beyond the Void that she didn't know about yet. Together, he said, they must be ready "to fight fate itself." "Fight fate. What an interesting phrase," she said. "But I like it."
+She was glad to have him back at her side. The Shadow King, at least, was not here, but there was so much to do, and she could not do it alone. Then she **ran to hug him**, which almost never happened between these two, usually so cold and formal, but the hug was welcome. Pulling back, she told him they were going to change things and be ready, because she had noticed many threats in [[The Void|the Void]]. Vythorn warned her that there were even more threats beyond the Void that she wasn't even aware of yet. Together, he said, they must be ready "to fight fate itself." "Fight fate. What an interesting phrase," she said. "But I like it."
 
 ### A New Era
 [[The Acolytes]] had seen all of it: the fight, the Shadow King's disappearance, and the Arbiter putting a dagger to the Grandmaster's throat only to set her free. They waited cautiously, unsure what to make of it. The Grandmaster opened her wings and spoke to them.
@@ -79,9 +79,9 @@ Welcome, and good night.
 
 ## Notable Moments
 - The entire Season of Fate turned out to be one breath: Vythorn's inhale started the vision and his exhale ended it.
-- The Lord of Fate preened, smoothed his robes and sat "like a lord" on a chair he had magically pulled across a prison cell.
+- The Lord of Fate preened, smoothed his robes and sat "like a lord" on a chair he had magically pulled over in a prison cell.
 - The bed Vythorn sleeps in as Lord of Fate used to be the Grandmaster's.
-- Vythorn turned down godlike destiny for a single title: "friend."
+- Vythorn turned down Fil's path to something greater for a single title: "friend."
 - Fil left with a Cheshire Cat grin and a promise to come and collect.
 - The Grandmaster and the Arbiter shared a hug, a rare thing between them.
 

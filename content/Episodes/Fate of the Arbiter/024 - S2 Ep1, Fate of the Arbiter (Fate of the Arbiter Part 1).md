@@ -12,7 +12,7 @@ played_by:
 - 'Locket: Miss_Magitek'
 - 'Flynry: BDTeej'
 winner: No winner
-arena: Abandoned dwarven fortress, then the sands of the arena
+arena: The sands of the arena (final scene only)
 summary: A strike squad of Toddleheim, Locket and Flynry is sent to rescue the kidnapped Arbiter, only to find he has turned against the Grandmaster; they appear to kill him after he disintegrates Orin, but it was all a deception. The Arbiter, disguised as the Grandmaster, brands them traitors and throws them into the arena.
 tags:
 - episode
@@ -42,9 +42,9 @@ Then Flynry noticed a set of stairs and stepping stones just to the left. "Maybe
 
 ### The Eastern Outpost
 
-The outpost was an ancient temple-pyramid on the border of the Grandmaster's lands. Hundreds, perhaps thousands, of her soldiers were camped around it, kitted out for a full siege. They mostly came, it turned out, from southern New Jersey. One of them jeered at the newcomers and offered them "your mission right here, buddy," with a rude gesture. Toddleheim replied, "Well, I believe you can hold my balls, good sir," and earned the man's respect.
+The outpost was an ancient temple-pyramid on the border of the Grandmaster's lands. Hundreds, perhaps thousands, of her soldiers were camped around it, kitted out for a full siege. They mostly came, it turned out, from southern New Jersey. One of them jeered at the newcomers and offered them "your mission right here, buddy," with an obscene gesture. Toddleheim replied, "Well, I believe you can hold my balls, good sir," and earned the man's respect.
 
-Inside, soldiers gambled and drank like people who expected some of their number to die tomorrow. A goblin won a dice game, bit his prize coin in half, found it was fake and tackled the hobgoblin beside him. Flynry joined the game, betting a bracelet his aunt had made. The goblin cheated openly and asked Locket, "How much for an ear?" ("My ears are very important to me, so I will not wager them.") Then Flynry shifted his face into a horrifying beast-goblin mask and explained he had "a bit of a condition" that only the bracelet kept in check. The goblin shrieked "I'm not vaccinated" and fled. Flynry pocketed the seven gold left on the table. Meanwhile Toddleheim sat with a bard and a quiet stranger by the fire, said almost nothing, and was given a tankard of ale for his trouble.
+Inside, soldiers gambled and drank like people who expected some of their number to die tomorrow. A goblin won a dice game, bit his prize coin in half, found it was fake and tackled the hobgoblin beside him. Flynry joined the game, betting a bracelet his aunt had made. The goblin cheated openly and asked Locket, "How much for an ear?" ("My ears are very important to me, so I will not wager them.") Then Flynry shifted his face into a horrifying beast-goblin mask and explained he had "a bit of a condition" that only the bracelet kept in check. The goblin shrieked "I'm not vaccinated" and fled. Flynry swept the goblin's seven gold into his pouch. Meanwhile Toddleheim found a bard playing the lute by the fire, where a stranger asked what he had to say. "I say nothing," Toddleheim answered, and he was slid a tankard of ale for his trouble.
 
 In the main hall, under mounted dragon skulls, a huge eye-patched bear spoke up: "I'm not going to eat you… I'm not an it. I'm a man." This was **[[Orin]]**, a werebear and the commander of the outpost. He showed them his one-eyed goliath form before switching back, because "I just prefer it this way." He briefed his new "strike squad." A rebellion calling itself the Servants of the Void had taken the Arbiter. Orin's army would hit the rebels' mountain fortress from the front while the squad slipped in "from the rear," which the table did not handle with maturity.
 
@@ -60,7 +60,7 @@ At dawn Orin gave each of them a glowing green pearl holding a powerful healing 
 
 They rode for a day into a dark, cold land "almost dead in a different way," to [[The abandoned dwarven fortress]], whose columns were carved into the shape of an old man's face. Orin's farewell was simple: "I won't say good luck because I know that you're not going to need it." Sleeping drakes lay coiled among the rocks, and two armored guardians with enormous clawed metal fists stood at the gate.
 
-Flynry cloaked them in stealth magic and Toddleheim turned himself and Locket invisible. Flynry, who was very much not invisible, squeezed through a crack in the wall instead. Inside, he wrapped himself in magical silence, slid the door's bar aside, let his friends in and barred it again. Toddleheim raised a wall of earth outside to block the guardians. When they worked out something was wrong, their spiked fists punched through the door without a sound.
+Flynry cloaked them in stealth magic and Toddleheim turned himself and Locket invisible. Flynry, who was very much not invisible, squeezed through a crack in the wall instead. Inside, he wrapped himself in magical silence, slid the door's bar aside and let his friends in, and Locket slid the bar closed again. Toddleheim raised a wall of earth outside to block the guardians. When they worked out something was wrong, their spiked fists punched through the door without a sound.
 
 The halls beyond were a gauntlet. They found a track of hidden spinning blades, which Flynry set off by rolling one of the goblin's coins across it, trapping Locket between them ("I'm trapped!"). She studied the rhythm of the blades and darted through cleanly. They found a worn Dwarvish carving about "the hammer that resides in the mountain" and "the treasure of the east," a gambling table abandoned mid-game, and a pair of healing potions that Locket quietly kept. At the end was a bookcase that unbolted a heavy iron gate when Flynry pulled one worn book and then hurled the rest of the shelf to the floor. A rusty blade sliced Toddleheim on the way. "You're gonna need a tetanus after that one," said Locket.
 
@@ -72,7 +72,7 @@ Beyond the gate lay a cathedral-like chamber washed in purple light, and the Arb
 
 He offered them a choice: kneel, help him overthrow the Grandmaster, and "live like kings and queens." When Toddleheim tried to simply leave, the Arbiter flicked the door shut. "Oh dear," Toddleheim observed, "he's monologuing." The Arbiter called Elusia "a waste of space" who "plays in her arena." Then he swelled to giant size over a swirling cosmic portal, with five boulders of floor and wall orbiting him as a shield.
 
-Flynry's fists smashed boulder after boulder. Toddleheim's magic missiles wove between the rocks. Locket drank her giant's-strength potion and climbed a column for high ground. The Arbiter ripped Toddleheim's missiles out of his own chest and flung them back twice as hard. Locket pleaded with him: "You and the Grandmaster were like this. You were friends." He told her there was no helping him. Then Flynry landed a perfect flurry past the last of the shield, a necrotic blow that doubled the giant over. "That was the biggest mistake of your entire life," the Arbiter snarled, and Flynry fled behind some jars.
+Flynry's fists smashed boulder after boulder. Toddleheim's magic missiles wove between the rocks. Locket drank her giant's-strength potion and climbed a column for high ground. The Arbiter ripped Toddleheim's missiles out of his own chest and flung them back even harder. Locket pleaded with him: "You and the Grandmaster were like this. You were friends." He told her there was no helping him. Then Flynry landed a perfect flurry past the remaining boulders, a necrotic blow that doubled the giant over. "That was the biggest mistake of your entire life," the Arbiter snarled, and Flynry fled behind some jars.
 
 The fight grew stranger. The Arbiter turned back time to stop an arrow in mid-air. He fired a bolt of chaos that Flynry caught on his gauntlets. His aura split Toddleheim's memories in two, until in one version of the day the dwarf was fighting the Arbiter, and in the other he was on the Arbiter's side.
 
@@ -80,13 +80,13 @@ The fight grew stranger. The Arbiter turned back time to stop an arrow in mid-ai
 
 The metal door crashed down and Orin charged in. "Am I too late?" The party told him the truth. The Arbiter, all warmth, told him the opposite: they were the traitors, and they had volunteered for this. Orin had known the Arbiter his whole life, but he chose the strangers. "I've talked to these folks. I've seen what's in their souls… You won't get past me."
 
-"And I kind of liked you, Orin," the Arbiter replied, and **disintegrated him**. It was not a gentle fade. Orin's legs burst into ash, holes tore through him, and with a final cry he crumbled like an ancient statue. His ashes were swept into the vortex. "Look what you forced me to do," said the Arbiter. He hurled chaos lightning across the floor. In that split second Flynry read his secret scroll, and dragon scales sealed over him from head to toe, so he took the blast without flinching. Toddleheim, unprotected, was left barely alive. "Why won't you just die?" the drained Arbiter demanded.
+"And I kind of liked you, Orin," the Arbiter replied, and **disintegrated him**. It was not a gentle fade. Orin's legs burst into ash, holes tore through him, and with a final cry he crumbled like an ancient statue. His ashes were swept into the vortex. "Look what you forced me to do," said the Arbiter. He hurled chaos lightning across the floor. In that split second Flynry read his secret scroll, and dragon scales sealed over him from head to toe, so he took the blast without flinching. Toddleheim's shield wasn't enough, and he was left barely alive. "Why won't you just die?" the drained Arbiter demanded.
 
 ### The Final Blow
 
-Flynry shifted into his beast form, and the scales changed with him into a dragon-like beast. Toddleheim, bleeding out, told him: "Flyn, I believe in you. See this through till the end. Make me proud." He splashed acid across the Arbiter's hide. Flynry drove both blue-burning fists into the giant's center, and Locket's last flaming arrow pierced his head. "It wasn't supposed to be this way! I had so much to do!" the Arbiter cried, as his own orbiting stones collapsed in on him.
+Flynry shifted into his beast form, and the scales changed with him into a dragon-like beast. Toddleheim, bleeding out, told him: "Flyn, I believe in you. See this through till the end. Make me proud." He splashed acid across the Arbiter's hide. Flynry drove both blue-burning fists into the giant's center, and Locket's last flaming arrow pierced his head. "It wasn't supposed to be this way! I had so much to do!" the Arbiter cried, as his own orbiting stones collapsed in on him and eviscerated him.
 
-In the silence, a faint outline of ash marked where Orin had fallen. The Arbiter's shrunken body lay at their feet, still wearing eight rings of eight different colors. Toddleheim sensed they were cursed so that no one else could use them. Flynry pried off the hands with a makeshift lever, rings and all, and bagged them as proof. They walked out through the cheers of an army that had no idea the Arbiter had turned.
+In the silence, a faint outline of ash marked where Orin had fallen. The Arbiter's shrunken body lay at their feet, still wearing eight rings of eight different colors. Toddleheim sensed they were cursed so that no one else could use them. Flynry rigged a rock as a fulcrum and stomped the Arbiter's hands off, rings and all, and bagged them as proof. They walked out through the cheers of an army that had no idea the Arbiter had turned.
 
 ### The Twist
 
@@ -101,7 +101,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 ## Notable Moments
 
 - Flynry hauled Locket over the lava with a perfect heave, then noticed the perfectly good stairs nearby.
-- Flynry scared off the cheating goblin with a fake contagious "condition" and kept his seven gold.
+- Flynry scared off the cheating goblin with a fake contagious "condition" and pocketed the goblin's seven gold.
 - The Box of Chaos answered Locket's prayer for a new bow with a potion of storm giant strength.
 - The Arbiter turned his rescuers' own magic missiles back on them and rewound time to stop an arrow.
 - **Orin chose the strangers over the man who saved his life, and was disintegrated for it.**
@@ -200,7 +200,7 @@ Their "betrayal" would be known across the realm, he promised: assassins who cam
 - **Potion of storm giant strength** (Locket, used).
 - Flynry's aunt-made bracelet; his ornate handkerchief; the goblin's 7 gold (some or all possibly fake; one was rolled to trigger the trap).
 - Two potions of healing; 8 gp 4 sp 3 cp.
-- **[[Items/The Arbiter's Rings|The Arbiter's eight prismatic cursed rings]]** and his severed hands (both illusory, they faded).
+- **The Arbiter's eight prismatic cursed rings** and his severed hands (both illusory, they faded).
 
 ### Lore statements
 - **The Arbiter is "ancient"** though he doesn't look it (Orin).

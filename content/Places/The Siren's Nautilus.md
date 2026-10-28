@@ -28,7 +28,7 @@ She laid out the dangers of the electric floor, the fragile bubble and the unkno
 
 > "Be careful. This ship may bite back."
 
-The fight carried the champions through the beast's insides, from the pearl-trimmed ballroom to the acid and slime of its stomach, where the gelatinous cube waited.
+Beyond the pearl-trimmed ballroom, the beast's insides held the acid and slime of its stomach, where the gelatinous cube waited.
 
 ## Notable Figures
 

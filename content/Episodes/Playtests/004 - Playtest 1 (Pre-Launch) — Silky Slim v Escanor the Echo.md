@@ -38,7 +38,7 @@ The first champion was Escanor the Echo, a minotaur fighter and, by his own acco
 
 The weak little man was Silky Slim, a bugbear in a red outfit and a skimpy top. He promptly called his opponent "Bessie the milk cow." He bragged that his fur was oiled daily by genasi from "the Thor coast," and he introduced his glaive, Bernice. The Grandmaster judged them both worthy: "Both shall enter, but only one shall walk away."
 
-The arena was the Forest of Death. "I know, not a clever name," the Grandmaster admitted. "I didn't come up with it. I just found it." It was muddy and drenched in rain, all trees and hills, with a cavern, a fire pit, a stone column and old hunters' traps still hidden in the undergrowth. The Arbiter later explained that they burn it down every three years to promote new growth. He opened the portal with both hands, eight golden rings in bright fluorescent colors glinting on his fingers.
+The arena was the Forest of Death. "I know, not a clever name," the Grandmaster admitted. "I didn't come up with it. I just found it." It was muddy and drenched in rain, all trees and hills, with a cavern, a fire pit, a column and old hunters' traps still hidden in the undergrowth. The Arbiter later explained that they burn it down every three years to promote new growth. He opened the portal with both hands, eight golden rings in bright fluorescent colors glinting on his fingers.
 
 The champions knelt while the Arbiter performed the Void's traditional cultural anthem ("Catches my heart every time"). Then he turned to the floating grandstand, packed with thousands, maybe millions, of every imaginable kind of life. "You crowd! You have come! For dungeons, and dice, and deathmatches. And you, the acolytes of the double ampersand. Loyal servants to our Grandmaster." These were [[The Acolytes|the Acolytes]]. The Grandmaster took a high perch, having "no need to prove my own value here." The Arbiter laid down the rules: "I want a clean fight. I want a fair fight. Until I say otherwise."
 
@@ -46,11 +46,11 @@ The champions knelt while the Arbiter performed the Void's traditional cultural 
 
 Silky opened dirty, kicking mud into Escanor's face and slicing across him. Escanor answered with a thrown hand axe, three longsword strikes and a horns-first charge, which Silky shrugged off: "More like a steer instead of a bull." The bugbear then grabbed Escanor by the horns, drove them into the mud and slashed at him while he was stuck.
 
-Escanor triple-dog-dared him to get up and fight. Silky flung more mud, and Escanor swallowed some ("Good. I like it dirty"). Then Silky began to sashay like a snake. "It's all hips and nips, baby." The whole stadium was entranced, the Grandmaster and the Arbiter included. The Arbiter summoned the music goblins to change the song. Escanor tried to leap dramatically off the column and instead slid down it on his backside into the mud.
+Escanor triple-dog-dared him to get up and fight. Silky flung more mud, and Escanor swallowed some ("Good. I like it dirty"). Then Silky began to sashay like a snake. "It's all hips and nips, baby." The whole stadium was entranced, the Grandmaster and the Arbiter included. The Arbiter summoned the music goblins to change the song. Escanor tried to leap dramatically off the column and instead slid down it on his butt into the mud.
 
 The Grandmaster then decided the bugbear's fury was too one-note. "We like our men a little bit more well-rounded here," she declared, demanding "emotional diversity." Silky's rage drained away, replaced by feelings he hadn't felt since childhood. She promised a reward to whichever champion could cry a real tear.
 
-The Arbiter called down bolts of lightning. Escanor took the strike and absorbed it, and his horns crackled with electricity for the rest of the fight. The hosts' verdict was "That's metal as fuck and we approve." The Grandmaster added, "I'm tweeting about this later."
+The Arbiter called down bolts of lightning. Escanor took the strike and absorbed it, and his horns crackled with electricity for the rest of the fight. The verdict: "That's metal as fuck and we approve." The Grandmaster added, "I'm tweeting about this later."
 
 Silky landed a perfect strike, stabbing Escanor in the eye with Bernice before going for his Achilles. Escanor revealed his trick: an echo of himself, which appeared in a tree and swan-dived onto Silky. A menacing attack sent the bugbear fleeing in fear, and he took a sword in the side as he ran. Escanor healed by having his echo touch him and drawing it back into himself. The Grandmaster used the pause for a public service announcement about hydration and self-care. The Arbiter offered a dissent ("Except for mental health, because that's all made up"), and she told him she wanted to get him to see a therapist.
 
@@ -60,7 +60,7 @@ The next chaos event was gentler. A flash flood washed **eight ducklings** into 
 
 Silky promptly stepped in a bear trap. "That's racial discrimination. I'm a bugbear. You got bear traps out here?" He demanded an elven lawyer. The Arbiter wondered aloud whether they had elven lawyers on retainer, since they were "probably open to a lot of lawsuits." The Grandmaster was unbothered: "I'm insured. It's fine… They can't sue if they're dead."
 
-Escanor pressed his advantage with a second echo, which emerged from under his robes. "I call this the cream of Escanor." Silky used his glaive to lift Escanor's skirt for a look and discovered that the minotaur's testicles were the size of volleyballs. He recommended Charlene at the Crooked Rose. Cream then hit him. Escanor went on to turn around and pretend to poop on the trapped bugbear while Cream attacked.
+Escanor pressed his advantage with a second echo, which emerged from under his robes ("from my loins"). "I call this the cream of Escanor." Silky used his glaive to lift Escanor's skirt for a look and discovered that the minotaur's testicles were the size of volleyballs. He recommended Charlene at the Crooked Rose. Cream then hit him. Escanor went on to turn around and pretend to poop on the trapped bugbear while Cream attacked.
 
 Up on the perch, the Grandmaster praised the Arbiter for filling her calendar and buying perfect birthday presents for "all my nieces and nephews." He bowed, then flipped her off behind her back. She didn't notice, but he was still told he'd be working overtime that weekend.
 
@@ -70,7 +70,7 @@ The ducklings turned the fight. Escanor warned them away from the traps and sent
 
 Silky produced a bottle of hibiscus-scented oil from his briefs and squirted it in Escanor's face. It was water-soluble and the rain helped, but the Arbiter wiped the minotaur clean anyway with a spectral hand and flung the lube into the crowd. Silky greased himself up and rechristened himself "Slippery Slim." Then the lube on Escanor caught fire, a burning the table dubbed "emotional fire."
 
-Escanor drank the Grandmaster's potion. He and Cream ran hand in hand, arms trailing behind them: "We are the divine bovine." Silky drove his horns into the mud once more. The brothers revealed matching tattoos reading "fam" and "illy," and the families in the stands went wild.
+Escanor drank the Grandmaster's potion. He and Cream ran hand in hand, arms trailing behind them: "We are the divine bovine." Silky drove Escanor's horns into the mud once more. The brothers revealed matching tattoos reading "fam" and "illy," and the families in the stands went wild.
 
 ### The Flood and the Final Blow
 

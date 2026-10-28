@@ -1,51 +1,41 @@
 ---
 title: Lucien
 type: character
-aka:
-- The wordsmith of kings and queens
-- The narrator of the nether realms
-- The orator of the oracles
-role: champion
-species_class: Half-orc Valor Bard
-played_by: Timothiusthegr8
-first_appearance: S1E14 — Eyes of Chaos
-status: unknown
-summary: A towering, pompadoured half-orc bard obsessed with his personal brand, who fought Monteclaire Dufresne in the Season 1 finale.
-aliases:
-- Lucien Braque
-- The narrator of the nether realms
-- The orator of the oracles
-- The wordsmith of kings and queens
+role: NPC
+species_class: Cor'thun soldier
+first_appearance: Skypiercer Part 1
+affiliations:
+- Cor'thun
+- Atalantos's brigade
+summary: A chronically drunk soldier of Cor'thun whom Atalantos drafted into his brigade anyway, and who never stayed upright for long.
 tags:
 - character
 ---
 
-**Lucien Braque** is a towering half-orc bard with a swimmer's build, a pompadour that does not move, and an unshakable belief in his own "branding." He was pulled into the Void for the Season 1 finale, where he faced [[Monteclaire Dufresne]] in a match that brought out his showmanship and, surprisingly, his kind streak. He is a self-proclaimed master of words with a sword, a shield and a lot of inspirational embroidery sewn into his clothes.
+**Lucien** was a soldier of [[Cor'thun]] during the events of [[Skypiercer]], and probably the least heroic man ever to tell stories about his own heroics. He was drunk at the feast, drunk afterward and passed out in a tavern soon after, and he still somehow ended up in [[Atalantos]]'s brigade. He is a small figure in the prequel, but a memorable one. He is not to be confused with [[Lucien Brack]], the half-orc bard who fought in the Season 1 finale.
 
 ## Story
 
-Lucien stepped into the finale through a portal opened by [[The Arbiter]], who presented him and his opponent to the watching Acolytes "for the pleasure of your looking balls." He arrived fully committed to his image. He billed himself as "the wordsmith of kings and queens, the narrator of the nether realms, the orator of the oracles," and he made it clear that the look took real investment: "a lot of money, a lot of doctors." An ex-wife came up again and again during the night, and it became one of the evening's running jokes.
+### Skypiercer Part 1
 
-He fought the way a bard of valor should, up front with sword and shield. When he worked his magic he scraped his blade across his shield, which gave his spells a grinding note. During the match he raided the arena's chaos chest and came away with two useful prizes: a pot of Keoghtom's Ointment and a Mace of Smiting.
+Lucien was posted at Cor'thun's Western Gate until he was sent home to sleep it off. At the feast that followed he told anyone who would listen about his exploits in battle. Another soldier had a different account: Lucien had spent the whole fight passed out in the stables. As for why he fought at all, he gave the most honest answer of the night: "because my dad told me to."
 
-The most telling moment came when a horde poured into the arena. Lucien did not use the chaos to get ahead of his opponent. He turned kind and encouraging toward Monteclaire instead and cheered on the man he had come to fight.
+The feast went downhill from there. His armor was spotless, which fit the stables story better than his own. He wore his gloves on the wrong hands and tried to sign Atalantos's chest in gravy as an autograph. Then he fell asleep in Atalantos's hand. The hall began laying bets on him. Five copper said his boots were on the wrong feet. A silver said someone had already died because of him. A gold, which was talked down to a silver, said he would kill someone in his next fight. Lucien also admired [[Kaja]], whose "thick blood" he said he liked. Atalantos looked at all of this and drafted him into his brigade anyway.
+
+### Skypiercer Part 2
+
+Brigade life did not change him. Lucien went straight back to drinking, and while Atalantos was training and settling his troops, he found Lucien passed out in a tavern. Rather than give up on him, Atalantos asked another soldier to look after him.
 
 ## Personality and Abilities
 
-Lucien looks like a greenish, very tall half-orc built like a swimmer, crowned with a stiff, sculpted pompadour. He talks like a man doing his own publicity: grand titles, alliterative boasts and constant attention to how he comes across. Underneath the bravado is someone who needs reassurance. He keeps the phrases "People like you" and "everyone loves you" stitched inside his clothing and pockets as personal talismans.
-
-In a fight he is a bard of the valorous sort. He carries a sword and shield and casts by scraping one against the other. By the end of his Deathmatch he had added Keoghtom's Ointment and a Mace of Smiting to his kit. For all the ego, he showed a generous side when things got desperate.
+Lucien was a soldier mostly in title. He was boastful and almost never sober. His spotless armor and mismatched gloves gave him away as surely as the stable gossip did. He fought out of family obligation rather than glory, though that never stopped him from claiming the glory. Nothing is known of any fighting skill he had. His one proven talent was falling asleep in the worst possible place.
 
 ## Relationships
 
-- [[Monteclaire Dufresne]]: His opponent in the Season 1 finale, whom he encouraged warmly once the horde arrived.
-- [[The Arbiter]]: Summoned him into the arena and introduced him to the Acolytes.
-
-## Memorable Quotes
-
-- "The wordsmith of kings and queens, the narrator of the nether realms, the orator of the oracles." ([[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]])
-- "A lot of money, a lot of doctors." (on his look, S1E14 — Eyes of Chaos)
-- The Arbiter, introducing him: "For the pleasure of your looking balls." (S1E14 — Eyes of Chaos)
+- [[Atalantos]]: drafted Lucien into his brigade despite everything, and later had a fellow soldier look after him.
+- [[Kaja]]: Lucien admired her "thick blood" at the feast.
 
 ## Appearances
 - [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]]
+- [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]
+- [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]]

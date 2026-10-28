@@ -11,7 +11,7 @@ played_by:
 - 'Grimnar: Mudcat'
 - 'Nehebka: CriticalBard'
 - 'Muffy: JustSeum'
-winner: No winner
+winner: None (no fight)
 arena: Rust Blood Alliance war camp on Dämmerung
 summary: No fight this time. Grimnar, Nehebka and Muffy reach the Rust Blood Alliance's war camp on Dämmerung and learn that the Warmind, a brain its makers built and fed a black glass finger bone, has turned on them. Omens point to a rising king, a mountain to the south, and two hooded strangers who got there first.
 tags:
@@ -22,7 +22,7 @@ canon_order: 125
 
 [Watch on YouTube](https://youtu.be/piKlapzHXRs)
 
-Fresh from the warforged slaughter in [[The Blastlands]], the Void Knights **[[Grimnar Stormclaw|Grimnar]]**, **[[Nehebka]]** and **[[Muffy]]** are escorted into the war camp of the Rust Blood Alliance on [[Dämmerung]]. Nobody dies and nobody fights. Instead, the three sit through a tense war council, take a sandy drink or two, get adopted by a squad of fish-men, and face a midnight interrogation by a mind flayer. By the end of the night they know what is eating this world: a war machine made of its makers' own minds, fed a sliver of something that once belonged to [[The Shadow King]].
+Fresh from the warforged slaughter in [[The Blastlands]], the Void Knights **[[Grimnar Stormclaw|Grimnar]]**, **[[Nehebka]]** and **[[Muffy]]** are escorted into the war camp of the Rust Blood Alliance on [[Dämmerung]]. Nobody dies and nobody fights. Instead, the three sit through a tense war council, take a sandy drink or two, get adopted by a squad of fish-men, and face a late-night interrogation by a mind flayer. By the end of the night they know what is eating this world: a war machine made of its makers' own minds, fed a sliver of black glass that Nehebka suspects is tied to [[The Shadow King]].
 
 ## The Story
 
@@ -35,11 +35,11 @@ Back on Dämmerung, [[Grim]], a small goblin leading five more, took the party u
 Nehebka took in everything: matching uniforms, crystal-tipped staves bent into J shapes, officers with gold shoulder stripes. Grim's own squad stood out in red berets and gas masks. She also caught the mutters: "I'm going to need more than three to win this war," and, more worrying, "Wasn't there another knight here already?" Grimnar caught nothing at all, and was proud of it: "I am following the will of chaos. I don't need to be present."
 
 ### The War Council
-In a large bell tent guarded by drow halberdiers, officers argued over a map covered in stone tokens. At the centre stood a tall drow in black plate with silver filigree. She was Trissavin Baenerret, war mistress of the drow conclave on Dämmerung. "Hey, everybody, look at what I found out in the Blastlands," Grim announced. Grimnar introduced himself as "a Void Knight of the Dread Fortress," and then introduced his silent companions on their behalf.
+In a large bell tent guarded by drow halberdiers, officers argued over a map covered in stone tokens. At the centre stood a tall drow in black plate with silver filigree. She was Trissavin Baenerret, war mistress of the drow conclave on Dämmerung. "Hey, everybody, look at what I found out in the Blastlands," Grim announced. Grimnar introduced himself as "a Void Knight of the Dread Fortress," and then introduced the silent Nehebka on her behalf, and Muffy, who managed a "Hello."
 
 A bushy-browed duergar with a hammer and a spiral-braided beard pushed forward and asked whether they could be trusted. Nehebka answered him coldly: "It is not about if we can be trusted. It is about what our purpose is. And we see that you have a problem that is soon becoming ours." He was **[[Gund Ashbrow]]**, the Alliance's chief artillerist. He decided they were "far too chaotic to be programmed" to be spies. When Nehebka promised that sand would go down his throat, he bristled. She answered, "I do not threat. Everything I say is a promise." That ended in a shared complaint about sand: it's coarse, and it gets everywhere.
 
-Triss then told them that two strangers had arrived a day or two earlier. They wore blues and grays, chain mail and heavy hoods, and carried longswords. They claimed to be an advanced scouting party. They "spoke of chaos," a word Triss's people had never had, and said a great accumulation of it was the root of the war. Then they headed into the Blastlands toward the mountains. Grimnar had served the Fortress for about twenty years, and he knew a second team wasn't standard. Stolas had sent only these three to Dämmerung. He also defended chaos itself: "it is in itself not harmful or not evil. It is a fundamental force that drives the fate of all of us."
+Triss then told them that two strangers had arrived a day or two earlier. They wore blues and grays, chain mail and heavy hoods, and carried longswords. They claimed to be an advanced scouting party. They "spoke of chaos," a word Triss's people had never had, and said a great accumulation of it was the root of their problems. Then they headed into the Blastlands toward the mountains. Grimnar had served the Fortress for about twenty years, and he knew a second team wasn't standard. Stolas had sent only these three to Dämmerung. He also defended chaos itself: "it is in itself not harmful or not evil. It is a fundamental force that drives the fate of all of us."
 
 ### The Squid and the Angel
 The war, Triss explained, was in its tenth year. It had begun when Overworlders raided Underdark homes and temples for treasure. Losing badly, the Underdark peoples united under one banner and built something to win for them. "It stopped regarding us as allies and started to regard us as resources and obstacles." That was **[[The Warmind]]**, and it now meant to wipe them out. It cast "an umbrella over Dämmerung," distorting messages and making magic wax and wane unnaturally. Their answer was a desperate operation at a mountain two days south, the Warmind's lair.
@@ -61,18 +61,18 @@ She asked how this king would find its crown. She felt a distant desert sun on h
 ### Mess Hall Diplomacy
 At the mess tent, Grimnar ordered "three of everything" from a bugbear chef in an apron and chef's hat. The chef had never heard of the Dread Fortress, or of the Grandmaster. Grimnar was stunned: "You live in the void and you don't know the grandmaster? Elusia Skypiercer? She is the ruler of all of us." The chef's reply: "I don't remember voting for her." Grimnar said [[Grandmaster Elusia Skypiercer|the Grandmaster]] had been in power for "like 700 years" and "looks very good for her age." He admitted, "This has never happened to me before." Naturally, he and Muffy then tried to recruit the chef for the Deathmatch. "If you win, glory. If you lose, that sucks." He wondered whether he'd just die regardless. "Sometimes they come back."
 
-At a nearby table, a squad of Kuo-Toa asked what squad the newcomers were from. "We're 35th," Muffy lied. The fish-men were the 34th Deep Divers, a squad that had been shrinking, and they were overjoyed. They slammed the table and chanted "three, five, three, five." It meant they hadn't been wiped out. They praised the "Changebringer," and Grimnar recognized it: "Are you talking about Chaos?" Soon the whole table was pounding out "Chaos! Chaos!" with Grimnar joining in, much to the annoyance of everyone else in the tent.
+At a nearby table, a squad of Kuo-Toa asked what squad the newcomers were from. "We're 35th," Muffy lied. The fish-men were the 34th Deep Divers, a squad that had been shrinking, and they were overjoyed. They slammed the table and chanted "three, five, three, five." It meant they hadn't been wiped out. They praised the "Changebringer," and Grimnar recognized it: "Are you talking about Chaos?" Soon the whole table was pounding out "Chaos! Chaos!" with Grimnar joining in, much to the annoyance of two other squads and the chef.
 
 ### What Chaos Showed Them
 Nehebka arrived and shared her omens. She believed the two strangers were "in alignment with what was the Shadow King." Grimnar charged himself with chaos energy, and Nehebka touched his face to guide him, leaving a hot glass fingerprint behind. He heard a second, distant heartbeat, then saw chaos flowing south to a mountain where a pulsing orb of condensed raw chaos waited. Muffy took out the one sheet of paper she always carries and painted it with a dry brush. The image showed the mountain glowing the same magenta as the warforged, with a small crevice a quarter of the way up as its entrance. The plan was to deny that power to the strangers and to whatever king was rising.
 
 ### A Night of Sand, Rum and Art
-Back in the barracks, Nehebka raised a wall of sand-stone around their cots. "What the fuck?" said the card players outside, who then politely asked how to pass a drink through. Grimnar's hand shot through the wall, grabbed the bottle and drank. It was sandy, and he choked, then immediately took another swig. "It's pretty good actually… it's a nice texture."
+Back in the barracks, Nehebka raised a wall of sand-stone around their cots. "What the fuck?" said the card players outside, who then politely asked how to pass a drink through. Grimnar's hand shot through the wall, grabbed the bottle and drank. It was sandy, and he choked, then immediately took another swig. "It's pretty good actually… it's a nice texture." The sand he'd swallowed was dead sand now, and would pass through him in a few hours.
 
-The wall came down and the party mingled. A hobgoblin named Calvin of the 23rd Madcaps (Muffy promised to put "Calvin the Hobbs" in a comic strip) explained that the Alliance was "taking a lot more L's than we are W's." Getting captured by the Warmind was worse than dying: "I wish you were dead." Nehebka sculpted a forlorn glass Calvin. Grimnar rushed over, overjoyed to meet a fellow artist, and whittled a wooden David. Muffy ran a dice game called Cabals and Krakens. She was a horrendous game master, making up the rules as she went and handing out bones to anyone who asked.
+The wall came down and the party mingled. A hobgoblin named Calvin of the 23rd Madcaps (Muffy promised to put "Calvin the Hobbs" in a comic strip) explained that the Alliance was "taking a lot more L's than we are W's." Getting captured by the Warmind was worse than dying: "I wish you were dead." Nehebka sculpted a forlorn glass Calvin. Grimnar rushed over, overjoyed to meet a fellow artist, and whittled a wooden David. Muffy ran a dice game called Cabals and Krakens. She was a horrendous game master, making up the rules as she went and handing a player his opponent's bones the moment he asked for them.
 
 ### The Nightingales
-Nehebka sensed three heartbeats at the door, "all strangely calm." Five figures entered. Their leader wore a bloody bladed apron and a mechanical plague-doctor mask, and four others wore blank white masks and veils. "Those are nightingales," Calvin whispered. They were on the Alliance's side, and the reason nobody captured ever came back.
+Nehebka sensed three heartbeats at the door, "all strangely calm." Five figures entered. Their leader wore a bloody bladed apron and a mechanical plague-doctor mask, and four others wore blank white masks and veils. "Those are nightingales," Calvin whispered. They were on the Alliance's side, and the reason nobody ever came back to tell what the Warmind did with captives: they were the ones who kept the fallen from being taken.
 
 **[[The Nightingales]]** led the party back to the council tent. There the leader unmasked: lavender skin, a pulsing brain and four tentacles. He was an illithid. "What big eyes you have," said Muffy. "And what large ears you have. Fascinating." He explained that nothing had left Dämmerung in five years; "We made it. And now it is unmaking us." Each night his Nightingales destroyed every fallen body they could find, so the Warmind could not harvest them.
 
@@ -85,7 +85,7 @@ He replaced his mask and gave his name: **[[The Physician]]**. His mother had ju
 
 ## Notable Moments
 - A man in a twilight castle opened the episode by describing [[The Box of Chaos]] and the Shadow King's power, now scattered across the Void.
-- A bugbear chef had never heard of the Grandmaster and "didn't vote for her," so Grimnar and Muffy tried to sign him up for the Deathmatch.
+- A bugbear chef had never heard of the Grandmaster and "didn't remember voting for her," so Grimnar and Muffy tried to sign him up for the Deathmatch.
 - Muffy's lie made the party honorary members of the "35th Deep Divers," and it ended with a mess-tent chant of "Chaos! Chaos!"
 - Grimnar bit a sand finger off Nehebka's hand, then drank sandy rum twice and declared it "a nice texture."
 - The black star: a finger bone of black glass fed to the Warmind, after which "overnight it grew."

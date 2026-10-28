@@ -14,7 +14,7 @@ played_by:
 - 'Elianna: ParallaxStella'
 - 'Cerys: Miss_Magitek'
 arena: The dragon's hoard and a sunken desert library
-summary: After slaying a dragon, the party claims a strange white soul gem and a golden orrery, and when the orrery touches Flynry's sword they are flung to a sunken library deep in the green desert. There Flynry wakes a winged scholar trapped in a loop, who turns out to be a younger Arbiter with plans for them all.
+summary: After slaying a dragon, the party claims a strange white soul gem and a golden orrery, and when the orrery touches Flynry's sword they are flung to an unknown part of the green desert, where they find a sunken library. There Flynry wakes a winged scholar trapped in a loop, who turns out to be a younger Arbiter with plans for them all.
 tags:
 - episode
 youtube: https://youtu.be/yUchVeL-bOw
@@ -23,7 +23,7 @@ canon_order: 80
 
 [Watch on YouTube](https://youtu.be/yUchVeL-bOw)
 
-With the dragon dead and its treasure cave theirs for the taking, **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]** went looking for the one prize that mattered: a golden orrery. They found it, and then it found Flynry's sword. The meeting threw them into an unknown corner of the desert and down into a half-buried library, where a giant winged man was pulling books off the shelves faster than they could crumble. There was no fight this time, only a slow, creeping mystery with a final reveal that landed like a slap.
+With the dragon dead and its treasure cave theirs for the taking, **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]** went looking for the one prize that mattered: a golden orrery. They found it, and then it found Flynry's sword. The meeting threw them into an unknown corner of the desert and down into a half-buried library, where a giant winged man was pulling books off the shelves only to watch each one crumble. There was no fight this time, only a slow, creeping mystery with a final reveal that landed like a slap.
 
 ## The Story
 
@@ -33,11 +33,11 @@ The episode opened in the quiet after the battle with the dragon. Cerys was stil
 
 Cerys flashed the "big honking gem" at her companions, declared "This is quite something," and pocketed it. Then she took charge: "Well, let's get a-lookin' for this orrery. I command."
 
-Flynry was happy to follow. The only other time he had seen Cerys in combat, she had been on her knees and bleeding. Watching her take on a dragon toe to toe, and with such flair, had raised her a good deal in his estimation.
+The only other time Flynry had seen Cerys in combat, she had been on her knees and bleeding. Watching her take on a dragon toe to toe, and with such flair, had raised her a good deal in his estimation.
 
 ### The Crown Jewel
 
-The hoard was everything a dragon's hoard should be. There were heaps of gold and gems of every size, more than anyone could carry, and they filled their pockets. There was also some ordinary armor, none of it worth swapping for. At the back of the cave, perched on the tallest pile of gold as if on a pedestal, sat **the crown jewel of the collection: a golden orrery**. It was a gyroscope of interwoven rings around a central orb, about half the size of a basketball. It gave off such a presence that you didn't need to be a wizard to know it was magical.
+The hoard was everything a dragon's hoard should be. There were heaps of gold and gems of every size, and they could fill their pockets with as much as they could carry. There was also some ordinary armor, none of it worth swapping for. At the back of the cave, perched on the tallest pile of gold as if on a pedestal, sat **the crown jewel of the collection: a golden orrery**. It was a gyroscope of interwoven rings around a central orb, about half the size of a basketball. It gave off such a presence that you didn't need to be a wizard to know it was magical.
 
 "You two might want to come up here and have a look at this," Flynry called. Cerys agreed: "This might be our winner, our item that we're looking for." Flynry, however, had no intention of laying a finger on it.
 
@@ -63,7 +63,7 @@ Elianna asked Cerys whether she had been here before. She hadn't, and Flynry was
 
 > **Flynry:** "This is different from where I woke up. I've never seen that structure before. Something here feels… off."
 
-Cerys wondered whether they could get back by saying the name of the city: "I don't know." Flynry admitted they were in uncharted territory. Cerys reasoned that "that orrery brought us here for a reason." Flynry settled it: "I haven't had a reason to doubt my sword yet. Well, let's go then."
+Cerys wondered whether they could get back: "If we say the name of the city, maybe it'll work. I don't know." Flynry admitted they were in uncharted territory. Cerys reasoned that "that orrery brought us here for a reason." Flynry settled it: "I haven't had a reason to doubt my sword yet. Well, let's go then."
 
 ### The Sunken Library
 
@@ -85,8 +85,8 @@ He looked younger than they remembered, and his hair and mustache were different
 
 - Cerys pulled a **white soul gem** from the dragon's snowy remains. It was the first white one the party had ever seen.
 - Toddleheim "took one for the team," sprinting up the gold pile as a werewolf and changing back mid-landing to grab the orrery.
-- The orrery and Flynry's sword drew toward each other like magnets, and their touch hurled the party across the desert.
-- The party found a library half-sunk in the sand, with books that crumbled to sand the moment a hand touched them.
+- The orrery and Flynry's sword drew toward each other like magnets, and their touch hurled the party to an unknown part of the green desert.
+- The party found a library half-sunk in the sand, with books that crumbled to sand the moment the man pulled them from the shelves.
 - With a hand on the shoulder and "I too would like to know," Flynry broke a stranger out of his trance.
 - The stranger turned out to be a younger Arbiter, who promptly decided the party would be "useful."
 

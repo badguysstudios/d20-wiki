@@ -11,7 +11,7 @@ played_by:
 - 'Mad Cass O Weary: DeadAussieGamer'
 winner: Professor Stabbz
 arena: A quaint small town with a lava floor and a black hole
-summary: A timid goblin professor of stabbing faces a furiously drunk tiefling monk in a small-town arena. After a fake friendship, a betrayal and a black hole, Professor Stabbz wins with a Sunburst scroll from Gerald, and Mad Cass is burned away into the void laughing.
+summary: A timid goblin professor of stabbing faces a furiously drunk tiefling monk in a small-town arena. After a fake friendship, a betrayal and a black hole, Professor Stabbz wins with a Sunburst scroll from Gerald, and Mad Cass is burned away into the black hole laughing.
 tags:
 - episode
 youtube: https://youtu.be/-hnnNmRhOFQ
@@ -20,21 +20,21 @@ canon_order: 38
 
 [Watch on YouTube](https://youtu.be/-hnnNmRhOFQ)
 
-A cowardly goblin academic seeking tenure met a glass-eating, mouthwash-chugging, permanently furious tiefling monk on the rooftops of a quaint little town. **[[Professor Stabbz]]** wanted nothing more than to go home. **[[Mad Cass O Weary]]** wanted to put his foot somewhere unspeakable. Between a floor of lava, a fake friendship, a stolen [[The Box of Chaos|Box of Chaos]] and a black hole torn open by [[The Arbiter|the Arbiter]] himself, it became one of the most unhinged fights of the season.
+A cowardly goblin academic seeking tenure met a glass-eating, mouthwash-chugging, permanently furious tiefling monk on the rooftops of a quaint little town. **[[Professor Stabbz]]** wanted nothing more than to go home. **[[Mad Cass O Weary]]** wanted to put his foot up the professor's ass. Between a floor of lava, a fake friendship, a stolen [[The Box of Chaos|Box of Chaos]] and a black hole torn open by [[The Arbiter|the Arbiter]] himself, it became a thoroughly unhinged fight.
 
 ## The Story
 
 ### Bath Time at the Dread Fortress
-The Arbiter had had a week. He had spent all of it in the sewer system of [[The Dread Fortress]] fixing the toilets, and now he had "risen above the shit." He was clacking through the halls again in his Italian leather shoes, which [[Grandmaster Elusia Skypiercer|the Grandmaster]] insisted were tap shoes. He reached her throne room and called out, but no one answered. From deep in the back, in her master bathroom, came the sounds of a struggle, then a shriek "more like a pterodactyl."
+The Arbiter had had a week. He had spent all of it in the sewer system of [[The Dread Fortress]] fixing the toilets, and now he had "risen above the shit." He was clacking through the halls again in his Italian leather shoes, which [[Grandmaster Elusia Skypiercer|the Grandmaster]] called tap shoes. He reached her throne room and called out, but no one answered. From deep in the back, in her master bathroom, came the sounds of a struggle, then a shriek "more like a pterodactyl."
 
 He drew a dagger, sprinted in, slipped on the wet tile, caught himself, and found the source of the screaming. It was [[Doug the Pug|Doug]], "the absolute symbol of D20 Deathmatch," howling in the bathwater while a thoroughly soaked Grandmaster tried to hold him down. "Would you just hold still? This would be over so much faster if you quit moving!" The Arbiter put the knife away and stood there smiling at Doug's torment: "Yes, perfect." When the Grandmaster looked up to order him to help, Doug slipped free and bolted, still covered in soap.
 
-She refused the Arbiter's offer to clean the dog by magic, because the spell doesn't get the oils out of pug fur. She did accept his offer to get the water off her. He flicked it onto the wall, where it swirled into a portal, and out stepped the evening's champions.
+She refused the Arbiter's offer to clean the dog by magic, because the spell doesn't get the oils out of pug fur. Instead she told him to at least get the water off her. He flicked it onto the wall, where it swirled into a portal, and out stepped the evening's champions.
 
 ### Welcome to the Grandmaster's Bathroom
 Mad Cass arrived the way he did everything: angrily. "Where the fuck am I? Who the fuck is this? Who the fuck are you, lady?" The Arbiter explained that the scheduled champion's "portal provider was down," so Cass had been fetched at the last minute. Cass's view of the contract was simple. "I used it to wipe my ass and then staple it to his head. Does that count as a signature?"
 
-Professor Stabbz introduced himself as faculty at the University of Stabbz, where he taught Stabbing 101, theoretical stabbing and stabbing in Spanish. He had never actually stabbed anyone. He had, however, requested tenure, "and I guess this is how one acquires tenure." Cass promised to put his foot so far up the professor's backside that he could pick his toenail clippings out of his mouth. Stabbz said he would rather just be stabbed.
+Professor Stabbz introduced himself as faculty at the University of Stabbz, where he taught Stabbing 101, theoretical stabbing and stabbing in Spanish. He had never actually stabbed anyone. He had, however, requested tenure, "and I guess this is how one acquires tenure." Cass promised to put his foot so far up the professor's ass that he could pick his toenail clippings out of his mouth. Stabbz said he would rather just be stabbed.
 
 The Arbiter suggested the bathroom might make a nice arena, since it was "kind of spacious." The Grandmaster had just had new marble sinks put in and would hear none of it, though the Arbiter noted that blood "works as a great sealant for the grout." Cass then grabbed a glass of her mouthwash from the sink and chugged it. He announced that he hated people with cool names and would "disassemble someone with nothing but a stern gaze, a very, very high blood alcohol content, and these!" He was holding nothing. He meant his fists.
 
@@ -60,7 +60,7 @@ Stabbz, by now thoroughly shaken, turned invisible, a spell he and the Grandmast
 Cass, meanwhile, produced a boomerang ("You Australian!" cried the Grandmaster). He invoked his trademark drunken luck and clipped the invisible Stabbz in the jaw. "Sixth time pin the tail on the asshole winner." Stabbz's verdict was "He's so drunk, yet still so competently mean."
 
 ### A Fall and a Friendship
-Stabbz recrossed the rope, stabbed Cass with a flourish, and then rolled a natural 1 on the way back. He fell head first off the wire. "Like Icarus, I have fallen by my hubris!" Cass put his hands in his pockets and floated gently down beside him, glowing yellow eyes and a wide puckish grin in the alley shadows. He grabbed the professor's ankle ("It's so dainty, though. Please be careful with it") and tried to drag him into the lava. Stabbz clung on.
+Stabbz recrossed the rope, stabbed Cass with a flourish, and then rolled a natural 1 on the way back. He fell head first off the wire. "Like Icarus, I have fallen by my hubris!" He landed so hard that he "heard both the left and right cheek simultaneously," and asked to hold his own butt cheeks "at second level." Cass put his hands in his pockets and floated gently down beside him, glowing yellow eyes and a wide puckish grin in the alley shadows. He grabbed the professor's ankle ("It's so dainty, though. Please be careful with it") and tried to drag him into the lava. Stabbz clung on.
 
 So Cass changed tactics. "You and I, we're friends." Stabbz completely believed him. "I've always wanted a friend! Can I tell you about my childhood?" Cass listened to every single word, nodding along, caring not at all. He heard about the professor's droning reviews in the tome Rate My Professor, the importance of stabbing theory, and his secret crush Vanita, the professor of slashing. Up in the stands, the Acolytes nodded off.
 
@@ -70,9 +70,9 @@ Believing they were friends now, Stabbz walked right past Cass. Cass promptly hi
 Cass found a way through it, using his one chance to do the impossible. He smashed his own head to knock himself unconscious and kept fighting on pure drunken reflex, swaying and blind. "What the fuck is wrong with this guy?" marvelled the Grandmaster. "He's handling it all sorts of wrong, but it works." He clocked Stabbz in the jaw. Stabbz answered with his own burst of the impossible, spinning aside like a bullfighter so that Cass plunged into the lava. Cass climbed out, landed a flurry of blows and backflipped them both into the molten ground. "Man, Mufasa didn't fight this hard with Scar."
 
 ### Black Hole Sun
-Then the Arbiter got bored. "This is kind of getting boring, honestly." The wind drained inward, the sound collapsed, and with a snap of his fingers a giant energy well burst in the middle of town. It crushed the central building into a black hole and swallowed all the lava. Cass rolled a natural 20 and stayed planted. As Stabbz was dragged past, Cass caught him in a scissor hold around the neck. Stabbz stabbed free, swapped places with Cass and ran. Then he rolled another natural 1 and was yanked forty feet straight back toward the hole and Cass. Along the way Cass's mohawk erupted into a mane of punk-rock fire that lashed at Stabbz and missed entirely. By the end, Cass had been dragged to the very edge of the black hole, his body beginning to tear apart.
+Then the Arbiter got bored. "This is kind of getting boring, honestly." The wind drained inward, the sound collapsed, and with a snap of his fingers a giant energy well burst in the middle of town. It crushed the central building into a black hole and swallowed all the lava. Cass rolled a natural 20 and stayed planted. As Stabbz was dragged past, Cass caught him in a scissor hold around the neck. Stabbz stabbed him, and Cass's mohawk erupted into a mane of punk-rock fire that lashed at Stabbz, who slipped it and took nothing. Stabbz then broke free, swapped places with Cass and ran. Then he rolled another natural 1 and was yanked forty feet straight back toward the hole and Cass. By the end, Cass had been dragged to the very edge of the black hole, his body beginning to tear apart.
 
-"Do you want your PhD or not?" demanded the Grandmaster. Stabbz pulled out "a sheet of paper that I received earlier today" and read Gerald's scroll at his betrayer. "I told you everything about my life, you son of a bitch!" A small sun burst around Cass and was sucked, with him, into the void. The fire woke him at last. He watched the flesh strip from his bones, laughed like a lunatic, and gave Stabbz the finger.
+"Do you want your PhD or not?" demanded the Grandmaster. Stabbz pulled out "a sheet of paper that I received earlier today" and read Gerald's scroll at his betrayer. "I told you everything about my life, you son of a bitch!" A small sun burst around Cass and was sucked, with him, into the black hole. The fire woke him at last. He watched the flesh strip from his bones, laughed like a lunatic, and gave Stabbz the middle finger.
 
 > **Mad Cass O Weary:** "Fuck you, Stabby Man! I'm gonna come for you in your nightmares!"
 
@@ -81,7 +81,7 @@ His face became a laughing skull, and his jaw fell away. For a moment only the m
 Gerald popped up to ask what that guy's deal was, and the Grandmaster dismissed him: "Gerald, you've done your duty. Out." The Arbiter picked up the boomerang and walked unscathed into the heart of the black hole and vanished. The Grandmaster swept Stabbz onto her shoulders and held him up to the crowd. "We have all sat within the lecture halls of battle. May you all have taken notes for one day the test may come for you all."
 
 ## Dried Blood
-After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure, "burned alive in a different dimension." In the Grandmaster's words: "You're dead, but you're still here. Forever." It is also canon that, for a long time afterward, Stabbz hears laughter from another dimension as he dozes off. Asked if he'd return, Stabbz pleaded to stay home, and the Arbiter informed him he had "signed up for a six show contract." Stabbz offered his whole curriculum: "The first lesson is stab. The second lesson is don't get stabbed." Cass's parting word was "I'll see you real fucking soon."
+After the fight, the Arbiter ruled that Cass had become a Freddy Krueger figure, "burned alive in a different dimension." In the Grandmaster's words: "You're dead, but you're still here. Forever." It is also canon that, for a long time afterward, Stabbz hears laughter from another dimension as he dozes off. Stabbz pleaded to stay home, and the Arbiter informed him he had "signed up for a six show contract." Stabbz offered his whole curriculum: "The first lesson is stab. The second lesson is don't get stabbed." Cass's parting word was "I'll see you real fucking soon."
 
 ## Notable Moments
 - The Arbiter charged in with a dagger to rescue the Grandmaster and found her losing a fight with a soapy pug.

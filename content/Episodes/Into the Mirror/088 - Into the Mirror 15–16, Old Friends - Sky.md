@@ -38,11 +38,11 @@ Asked for his last memory, he gave a breezy summary: "being in chains and... Ser
 
 ### The Arbiter's Side of the Story
 
-The Arbiter explained that he had been murdered in [[The Dread Fortress]] by someone who was presumably now holding the Grandmaster hostage, "or worse." Flynry asked why he cared at all, since he had tried to overthrow her. The Arbiter answered: "I've known Elusia longer than any of you. A thousand years."
+The Arbiter explained that he had been murdered in [[The Dread Fortress]] by someone who was presumably now holding the Grandmaster hostage, "or worse." Flynry asked why he cared at all. The Arbiter answered: "I've known Elusia longer than any of you. A thousand years." Flynry shot back that he had tried to overthrow her.
 
 Then, with a demeaning "Let me tell you a story, children," he gathered them round. Long ago he had rescued [[Grandmaster Elusia Skypiercer|the Grandmaster]] from exile after her father's death and brought her home to challenge her uncle, [[The Shadow King]], a powerful mage who was siphoning the life force of [[The Void]] to become a god. Together they overthrew him, and Elusia killed him. The Arbiter called what came next a "small miscalculation." Wasting the knowledge inside the Shadow King's soul was unthinkable to him, so "I created the Box of Chaos to contain the soul of the Shadow King." He siphoned its power, but the King's intentions clouded his mind and whispered to him, and the "snake" slowly regained his form. "If you want my honest opinion, it was him that killed you, not me." Toddleheim's verdict: "A likely story."
 
-Flynry pressed him about [[Orin]], whom he accused the Arbiter of obliterating. The Arbiter admitted he didn't really know. He warned that the Shadow King had stolen his life force along with everything he had siphoned, and had become a god whom even the Arbiter probably couldn't stop. His last memory was of dying in the throne room. He believed the King had rebuilt a body from the sacrifices made to [[The Box of Chaos|the Box of Chaos]]: "An arm here, a leg there. Cryptocurrency."
+Flynry pressed him about [[Orin]], whom he accused the Arbiter of obliterating. The Arbiter admitted he didn't really know. He warned that the Shadow King had stolen his life force along with everything he had siphoned, and had become a god whom even the Arbiter probably couldn't stop. He remembered dying in the throne room. He believed the King had rebuilt a body from the sacrifices made to [[The Box of Chaos|the Box of Chaos]]: "An arm here, a leg there. Cryptocurrency."
 
 ### Trust, Tested
 
@@ -50,7 +50,7 @@ Elianna had spent the most time around the Dread Fortress and the Grandmaster, a
 
 She then lined up a tackle. Flynry saw it coming and sidestepped to clear the lane. Elianna barrelled into the roughly eight-foot Arbiter, sat on his chest and bashed his head with her book while Flynry stood laughing with his arms crossed. As the book came down, the Arbiter's eyes flared with milky, void-white swirls, everyone seemed to blink, and Elianna was standing exactly where she had been before. "God, not here too!" she cried, stomping her foot. The Arbiter brushed himself off and suggested they talk first. If they wanted to fight afterwards, he'd "be more than happy to kill you again."
 
-Cerys found the common ground: they all wanted the Grandmaster safe. The Arbiter introduced himself properly for the first time. "My name, let's begin here, is **Vythorn**." He wanted the Grandmaster safe, the Shadow King dead, "and I would like my power back." Elianna flipped him off. "Yes," said Vythorn, "you are Elusia's type."
+Cerys found the common ground: they were all looking for the Grandmaster. The Arbiter introduced himself properly for the first time. "My name, let's begin here, is **Vythorn**." He wanted the Grandmaster safe, the Shadow King dead, "and I would like my power back." Elianna flipped him off. "Yes," said Vythorn, "you are Elusia's type."
 
 Flynry had one more test. He unstrapped his sword, set it point-down before the Arbiter, and said: "Stare into this and tell me what you see. Lie and I'll know." Vythorn saw himself as the party remembered him, at his full power ("Little gray around the beard. Probably use a haircut."). Flynry slung the sword back over his shoulder. "Nothing's changed. It's the same as it's always been." Toddleheim agreed to the alliance anyway, reasoning that Vythorn could probably kill them all again regardless: "Let's watch each other's backs."
 
@@ -66,7 +66,7 @@ Vythorn recognised their surroundings: the Sands of Eternity. In his illusion, h
 
 Vythorn shared what he knew. The Sands had once sat beside the Living Plane, with open doors and trade, until about 2,000 years ago, when the doorways closed and the realm seemed to vanish, reachable only through mirrors. Elianna sensed he had not been entirely sure where his mirror would send them. They had been "a little bit of an experiment." Cerys admitted she had been there longest and knew of no way out. Toddleheim found books describing the Sands themselves, with pictures of other cities and cultures, Mortaurios among them. The realm was bigger than they had imagined.
 
-Once Cerys mentioned the king and queen of the land, and Flynry mentioned a device of "transversal," Vythorn vanished into the stacks. He came back with a huge tome of special items, and on one page was **[[The Orrery of Dreams]]**, which the party was carrying. The book described an object crafted in the Sands with "an immense power capable of shaping reality." Elianna set it on the table, glaring daggers and ready to tackle again. Vythorn did not touch it. He knelt beside it and read the inner ring: it was "some sort of key," a piece of a larger machine that would not reach its full potential until brought to the right place. The pages on either side showed a small bronze-looking figurine and an ornate amulet set with a red gem, all bearing the same script. Flynry's own blade was in there too, listed as the sword of truth, able "to look beyond the physical." When Flynry asked "Viking... Thornbush" to carry the book, Vythorn corrected him with "It's a large name for a small brain," closed the tome with one hand, and made it disappear.
+Once Cerys mentioned the king and queen of the land, and Flynry mentioned a device of "transversal," Vythorn vanished into the stacks. He came back with a huge tome of special items, and on one page was **[[The Orrery of Dreams]]**, which the party was carrying. The book described an object crafted in the Sands with "an immense power capable of shaping reality." Elianna set it on the table, glaring daggers and ready to tackle again. Vythorn did not touch it. He knelt beside it and read the inner ring: it was "some sort of key," a piece of a larger machine that would not reach its full potential until brought to the right place. The pages on either side showed a small bronze-looking figurine and an ornate amulet set with a red gem, all bearing similar script. Flynry's own blade was in there too, listed as the sword of truth, able "to look beyond the physical." When Flynry asked "Viking... Thornbush" to carry the book, Vythorn corrected him with "It's a large name for a small brain," closed the tome with one hand, and made it disappear.
 
 ### A Knock at the Door
 
@@ -78,7 +78,7 @@ Elianna felt a slow vibration in the floor and heard a man outside shouting orde
 
 > "My name is Sky. These are my men. Their names aren't important right now." (Sky)
 
-Sky was charming about the robbery. His crew had mouths to feed, it was "nothing personal," and their need could only be satisfied by taking the party's belongings. Elianna quietly tucked the Orrery down her neckline. Flynry asked Vythorn to rewind time fifteen minutes. Multicoloured lightning crackled, a void orb swirled in Vythorn's hand, and then it fizzled out. This place dampened magic. "If it's our belongings you're after," Flynry announced, "you'll find nothing but the edges of our blades." Sky shrugged: "Get them, boys!"
+Sky was charming about the robbery. His crew had mouths to feed, it was "nothing personal," and their need could only be satisfied by taking the party's belongings. Elianna quietly shoved the Orrery down between her breasts. Flynry asked Vythorn to rewind time fifteen minutes. Multicoloured lightning crackled, a void orb swirled in Vythorn's hand, and then it fizzled out. This place dampened magic. "If it's our belongings you're after," Flynry announced, "you'll find nothing but the edges of our blades." Sky shrugged: "Get them, boys!"
 
 Sky spun his glowing glaive and laid a curse of doubt over three of them. Flynry shrugged it off with a natural 20 and stood up "looking like Gaston," but Toddleheim was caught. Vythorn touched Toddleheim's shoulder and granted him a glimpse of the moments to come. Elianna dropped a bubble of silence over the raiders and warded Toddleheim. Flynry mistook the bubble for protection and roared a war cry into it; nothing came out, and the raiders just shrugged at each other.
 
@@ -97,7 +97,7 @@ Toddleheim gave Sky his answer. He walked up, said "Yes, it does," and fired bol
 - The Arbiter finally told the party his name: Vythorn.
 - Flynry bellowed an intimidating war cry into Elianna's silence bubble, and the raiders just shrugged.
 - The library's tome revealed the Orrery of Dreams as a key to a larger machine, with a bronze figurine and a red-gemmed amulet as siblings.
-- Elianna hid the reality-shaping Orrery down her shirt.
+- Elianna hid the reality-shaping Orrery between her breasts.
 
 ## Memorable Quotes
 

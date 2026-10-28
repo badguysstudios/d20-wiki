@@ -22,7 +22,7 @@ canon_order: 41
 
 [Watch on YouTube](https://youtu.be/MrBx49GHbe0)
 
-The Coriander Society's second trip into [[The Void]] trades the arena for a shadow war. [[John Carmichael]] and [[Asena]] spend a night with [[Lyrus]] and the Faithful and eat a stew made of boots. Then they steal a glimpse of [[The Arbiter]] forging their old nemesis into something far worse, and go looking for a missing goblin spy in the rain-soaked lower districts of [[Prexmarin]]. It ends mid-fight, with Asena shrunk to the size of a cat, Lyrus locked in a duel with a growing armored monster, and something unknown crawling toward them from between dimensions.
+The Coriander Society's second trip into [[The Void]] trades the arena for a shadow war. [[John Carmichael]] and [[Asena]] spend a night with [[Lyrus]] and the Faithful and eat a stew made of boots. Then they steal a glimpse of [[The Arbiter]] forging their old nemesis into something far worse, and go looking for a missing goblin spy in the rain-soaked lower districts of [[Prexmarin]]. It ends mid-fight, with Asena shrunk to the size of a cat, Lyrus locked in a duel with a growing armored monster, and unknown figures weaving toward them through the nether between dimensions.
 
 ## The Story
 
@@ -40,7 +40,7 @@ John magicked his bowl into tasting like steak. Asena, who has a cast-iron stoma
 
 ### The Seer
 
-Lyrus then introduced **[[The Seer]]**, an ancient, blind white dragonborn blacksmith with worn scales and missing teeth. He greeted Lyrus with: "I can hear you, Lyrus. I can smell you. You smell like shoe leather." He mused that "everyone you know and care about eventually dies," and then, without eyes, savaged the craftsmanship of John's revolver, Krontaka. Krontaka is sentient enough to take offense and sent John a pulse of pure indignation. John defended his "dear friend," a bronze gun forged from an ancient spear and a slain devil's blood. The two men eventually settled it with winks.
+Lyrus then introduced **[[The Seer]]**, an ancient, blind white dragonborn blacksmith with worn scales and missing teeth. He greeted Lyrus with: "I can hear you, Lyrus. I can smell you. You smell like shoe leather." He mused that "everyone you know and care about eventually dies," and then, without eyes, savaged "the shitty craftsmanship" of John's revolver, Krontaka. Krontaka is sentient enough to take offense and sent John a pulse of pure indignation. John defended his "dear friend," a bronze gun forged from an ancient spear and a slain devil's blood. The two men eventually settled it with winks.
 
 The Seer sensed in Asena "the nature of a dragon… Though not one from this plane," and a lineage she'd rather leave buried. She told him she was probably older than he was. He admired her smart laser, which she had ripped off an airplane, and foresaw her decimating many a foe with it. For John he saw a diverging path: one road home, another "into the thralls of a duty thrust upon you," and a choice someday between what he wants and his honor.
 
@@ -66,7 +66,7 @@ Back at the Forge, John knocked "Shave and a Haircut" while wearing Lyrus's face
 
 ### The Vision
 
-John spotted a silver ewer on the Seer's workbench, but the Seer stopped him: he had just made it for Lyrus, and it was a replica meant to be swapped for the real thing. John wanted more, so he gripped the Seer's shoulder and reached for the wizard sight he once had. Both men's eyes swirled silver. Because of her bond with Ralzamon, Asena was pulled into the vision too.
+John spotted a silver ewer on the Seer's workbench, but the Seer stopped him: he had just made it for Lyrus, and it served a special purpose. John wanted more, so he gripped the Seer's shoulder and reached for the wizard sight he once had. Both men's eyes swirled silver, and John learned the ewer was a replica, made to be swapped for the real thing and keep it out of nefarious hands. Because of her bond with Ralzamon, Asena was pulled into the vision too.
 
 They saw an enormous icy throne room and the Arbiter: taller than Orin, with glowing white wings, spiked black-and-white leathers and eight colored rings. Beside him stood Josiah Parsons, resurrected and glowing with psychic light. With the ease of buttering toast, the Arbiter reached through space and time, pulled out Ralzamon's dying spirit "fresh from your battle," and slammed the two together, "two versions of the same person into one." The blast cracked the ice of the whole throne room. The Arbiter named the new Ralzamon his general, promised him his desires once the Grandmaster was gone, and warned that failure would mean destruction "in every time. In every plane."
 
@@ -76,11 +76,11 @@ Ralzamon's awareness spread across the Void, touching mind after mind. Then he t
 
 ### The City of Chains
 
-Lyrus led them through planar back roads into Prexmarin's lower districts. The city's neighborhoods hang on enormous chains rising into fog, and one district below had broken its chain long ago and now hung tilted and abandoned. The safe house was said to be near the Roundhouse tavern. John disguised himself as Kenny and went gambling, because that's what Kenny would do, while Asena tried to walk "normal" and Lyrus whistled with his hands in imaginary pockets. Ninjas gathered on the rooftops.
+Lyrus led them through planar back roads into Prexmarin's lower districts. The city's neighborhoods hang on enormous chains rising into fog, and one district below had broken its chain long ago and now hung tilted and mostly abandoned. At the heart of the district stood the Roundhouse tavern. John disguised himself as Kenny and went gambling, because that's what Kenny would do, while Asena tried to walk "normal" and Lyrus whistled with his hands in imaginary pockets. Ninjas gathered on the rooftops.
 
 A roachling gambler let slip the secret: the gang's lead-lined, warded hideout was inside the Roundhouse, and the password was ordering a "shooie," a drink poured from a boot. John also sensed something psychic leeching information from the roachling's mind. Outside, heavy metal footsteps thudded closer, and Lyrus felt a fiendish presence through the stones.
 
-Then a head popped over the rooftops: "Hello, lovelies!" It was **[[Circe]]**, self-proclaimed master of Magitek and "the most nefarious inventor in the city of Beacon," armed with a homemade ray gun and looking for a little goblin. Her muscle followed: **[[Ganyu Sinmal]]**, an enormous suit of armor with a furnace-grate mouth full of violet fire, covered in burning seals. Asena recognized him as a sometime friend, sometime enemy, and his flames burned hungrily at Slakura. John charmed a guard and dressed him up as Kenny as a decoy, but Circe's goggles of all seeing saw straight through it: "You are going to have to get up earlier in the morning to pull one over on Circe, the Master of Magitek."
+Then a head popped over the rooftops: "Hello, lovelies!" It was **[[Circe]]**, self-proclaimed master of Magitek and "the most nefarious inventor in the city of Beacon," armed with a homemade ray gun and looking for a little goblin. Her muscle followed: **[[Ganyu Sinmal]]**, an enormous suit of armor with a furnace-grate mouth full of violet fire, covered in seals. Asena recognized him as a sometime friend, sometime enemy, and his flames burned hungrily at Slakura. John charmed a guard and dressed him up as Kenny as a decoy, but Circe's goggles of all seeing saw straight through it: "You are going to have to get up earlier in the morning to pull one over on Circe, the Master of Magitek."
 
 ### The Fight Begins
 

@@ -26,7 +26,7 @@ Season 4 opened on the worst birthday party in the history of [[The Void]]. With
 
 ### A Void in Turmoil
 
-The Void looked different this time around. Storms raged across every land. Fire and hail poured from the sky, tornadoes tore through crops and homes, earthquakes rumbled, and lightning of every colour danced overhead. The volcanoes around [[The Dread Fortress]] erupted without pause. Nothing dared fly or walk near it, and only magic could get anyone inside its walls.
+The Void looked different this time around. Storms raged across every land. Fire and hail poured from the sky, tornadoes tore through crops and homes, earthquakes rumbled, and lightning of every colour danced overhead. The volcanoes around [[The Dread Fortress]] erupted without pause. Nothing dared fly or walk those lands, and only magic could get anyone inside its walls.
 
 Elusia clanked down a hallway with heavy weights on her ankles, wrists and neck. Her uncle had summoned her to a throne room he had redecorated in his own theme. Her crown was gone. "What is it that you want?" she demanded.
 
@@ -38,13 +38,13 @@ The Shadow King had invited "some of your closest friends." Two stone sarcophagi
 
 He snapped again. The bones creaked, the flesh grew back, and both champions stood up wrapped in a shadowy, ethereal haze. Atalantos woke first: "You raise my bones. You give me life once more. But if more death must come, then I will surely bring it." Elusia tried to explain, but her restraints tightened on her body and on what she was able to say. "It is the Shadow King's will. And you must fight once again, dear friends."
 
-Neither champion flinched. "What say you, Kaja? Care to dance with death?" asked Atalantos. Kaja sighed that this was a headache she was used to: "I was having such a great time on the other side." Elusia tried to step toward them and found her feet frozen in place. She reminded them that they had set the standard in the very first Deathmatch. Atalantos warned Kaja that she might have grown soft: "Every scar is a lesson. And if we are to do battle, then I will teach you many."
+Neither champion flinched. "What say you, Kaja? Care to dance with death?" asked Atalantos. Kaja sighed that this was a headache she was used to: "I was having such a great time on the other side." Elusia tried to step toward them and found her feet frozen in place. She reminded them that they had set the standard in the very first Deathmatch. Atalantos warned Kaja that she might have grown weaker: "Every scar is a lesson. And if we are to do battle, then I will teach you many."
 
 The Shadow King rose. Portals opened in every street, town and dwelling across the Void, and [[The Acolytes]] filed into the stands. "Elusia, lead them to my home."
 
 ### Into the Obelisk
 
-"Very well. And may we make it to ruins." Elusia pulled the champions through to [[The Shadow King's old home]], a tall obelisk in his ancient realm. Red vines now covered it, crawling over the walls and floors. They looked dead, yet they poured out blood and drank it back "as if it's the very breath it takes." The entrance was locked by an eye that twitched and watched every move.
+"Very well. And may we make it to ruins." Elusia pulled the champions through to [[The Shadow King's old home]], a tall obelisk in his old realm and kingdom. Red vines now covered it, crawling over the walls and floors. They looked dead, yet they poured out blood and drank it back "as if it's the very breath it takes." The entrance was locked by an eye that twitched and watched every move.
 
 "My dear friends, my dear love, please fight well," Elusia told them. Then, embarrassed to be seen in chains, she flew up to the Acolytes. She promised them the arena was a refuge from their wrecked lands: their blood would not be spilled, but the champions' would be, "as a sacrifice and a hope of protection." She presented the pair as more than [[Champions|champions]]: "These are the gods that laid the groundwork for all that you see today." Then she sat beside a tiny throne, empty of its small pug.
 
@@ -52,9 +52,9 @@ The new host was less polished. "That certainly was dramatic. I don't really kno
 
 ### The Dance Begins
 
-Atalantos looked over the blood-soaked field and called it a mockery, offering to make the fight "quick and easy and forgettable." Kaja would not hear of it: "When have I ever done anything plainly and without elegance? Of course, let's put on a dance." He slammed his spear into the ground. Crackling crimson power ran over his arm and helmet and then froze over into ice. Then he did something nobody expected: he raised his shield and let her strike first.
+Atalantos looked over the blood-soaked field and called it a mockery, offering to make the fight "quick and easy and forgettable." Kaja would not hear of it: "When have I ever done anything plainly and without elegance? Of course, let's put on a dance." He slammed his spear into the ground. Crackling crimson power ran over his arm, torso and helmet and then froze over into ice. Then he did something that was a first: he took a defensive stance and let her strike first.
 
-Kaja circled him, trailing a hand along his arm. "They say that the more experienced dancer should lead." Shadows writhed up her body into a dress, spectral hands formed a robe and cloak, and her face melted into a visage of pure undeath. Atalantos pointed his spear and cursed her eyes, and all three of her eldritch bolts went wide.
+Kaja circled him, trailing a hand along his arm. "They say that the more experienced dancer should lead." Shadows writhed up her body into a dress, spectral hands formed pauldrons, a robe and a cloak, and her skin melted away into a visage of pure undeath. Atalantos pointed his spear and cursed her eyes, and all three of her eldritch bolts went wide.
 
 Elusia clapped, and a small goblin hurried out with a tray of freshly brewed tea for Kaja. "They're not to be hit. That's [[Theodore]], and he's very nice." When the Shadow King took over the pug's usual job of rolling for the Acolytes' chaos, he flubbed it completely. "You are a loser!" Elusia cried, falling out of her seat laughing. "Back in my day," he grumbled, "people just murdered each other the old-fashioned way."
 
@@ -74,7 +74,7 @@ Atalantos encased Kaja in ice and seared the symbol of Cor'thun into her, fillin
 
 ### Twice the Blood
 
-The chaos piled up. From here on, every wound would cut twice as deep, and the pillars became lightning rods. Atalantos rallied the crowd for Cor'thun, but his sweep at Kaja's ankle went so wrong that she simply stepped over it and rested her foot on his spear. "Bold of you to assume that this is my only weapon," he replied, and slammed his shield into her skull. She tumbled into a pool of thick, ankle-deep blood.
+The chaos piled up. From here on, every wound would cut twice as deep, and the pillars became lightning rods. When Kaja said the shock had really rattled her bones, Elusia replied, "I'd like to rattle your bones." The one-eared Kaja asked her to speak up, Theodore leaned in to repeat it, and Atalantos found it "very, very graphic." Atalantos rallied the crowd for Cor'thun, but his sweep at Kaja's ankle went so wrong that she simply stepped over it and rested her foot on his spear. "Bold of you to assume that this is my only weapon," he replied, and slammed his shield into her skull. She tumbled into a pool of thick, ankle-deep blood.
 
 Kaja took to the air. "Dance for me, Atalantos." Fuelled by Theodore's tea ("I call upon the power of Earl!"), her bolts became skulls with gaping maws that smashed into him and shattered into black crystal. Dread filled him, but the chanting Acolytes reminded him of his soldiers. "You look very good in red," Kaja told him. "And you look very good in dead," he answered. When she flattered his eyes, he took off his battered helmet. One eye was divine gold, and the other writhed with shadow. "Get a good look at it, because this will be the last thing that you see."
 
@@ -84,7 +84,7 @@ The Shadow King took notice. "You, warrior with the shadowy eye… One shadow be
 
 Atalantos asked the floating dead to lend him aid for the warrior's death they never got. He drew a pulse of life from blood worms in the pool, though it only tickled the undead Kaja. "I am a man, simply put. A man with an unbroken will," he told her, and asked for a glorious death. "If it's by the blade you want to die, then consider your wish granted." Threads of shadow fell from her fingertips, and the corpses rose as skeletons and swarmed him.
 
-He holstered his spear and drew a massive greatsword. The spear of Cor'thun became the blade of Cor'thun. He split one skeleton and turned it against its mistress with his own blood. But his blinding strike missed, and the other skeletons cut him down. He looked up at "this almost flying angel of death."
+He holstered his spear and drew a massive greatsword. The spear of Cor'thun became the blade of Cor'thun. He killed the skeleton that had stabbed him and turned it against its mistress with his own blood. But his blinding strike missed, and the other skeletons cut him down. He looked up at "this almost flying angel of death."
 
 "Oh angel of death, what song will you sing us now?" asked Elusia. "I will sing the song of Atalantos. Once my friend, now a new plaything for my mistress." He roared "I'm not dead yet. Again!" As the last blast came, a small smile crossed his face. He was not sad or angry. He was proud to see his friends once more. He looked to Elusia: "Finish this warrior. I know you can." **Atalantos fell.**
 
@@ -92,7 +92,7 @@ He holstered his spear and drew a massive greatsword. The spear of Cor'thun beca
 
 Kaja wasn't done. She gathered the flames devouring Atalantos's body like the threads of her dance and shaped them into the Sword of Cor'thun. Then she hurled it at the Shadow King. **It pierced his chest.** "Excellent showing," he said, and stepped out from around the blade as though it were nothing. While Kaja kept his attention with her skeleton and blast after blast, Elusia crept up to take the sword. Without looking, he flung it into the crowd, where it stabbed an Acolyte named Prince Vegeta through the heart.
 
-"I'm not giving up as long as you are here," Elusia vowed, and punched him barehanded through her shackles. Her fist sank into his incorporeal chest. "If we've had all of our fun for the day, I have one last gift to give you." He vanished, appeared behind Kaja, and twisted her head off. Her body crumbled back into bones and splashed into the blood. He held the skull aloft. "Happy birthday!"
+"I'm not giving up as long as you are here," Elusia vowed, and punched him barehanded despite her shackles. Her fist sank into his incorporeal chest. "If we've had all of our fun for the day, I have one last gift to give you." He vanished, appeared behind Kaja, and twisted her head off. Her body crumbled back into bones and splashed into the blood. He held the skull aloft. "Happy birthday!"
 
 ## Dried Blood
 
@@ -103,7 +103,7 @@ Kaja was unrepentant: "Someone should kill him… I'll do it again, and again, a
 - The Shadow King "celebrated" Elusia's birthday by raising her dead friends and her love to kill each other.
 - Atalantos opened the fight by letting Kaja hit him first, and took off one of her ears soon after.
 - He "knocked" on the mimic door by throwing Kaja at it.
-- The Shadow King built a new Box of Chaos out of an unknown Acolyte, Robert Hartley, who coughed up a Death Club crop top.
+- The Shadow King built a new Box of Chaos out of an unknown Acolyte, Robert Hartley, who handed out a Death Club crop top.
 - Atalantos died smiling, finally getting the warrior's death he wanted.
 - Kaja stabbed the Shadow King with a flaming Sword of Cor'thun. He tossed it into the crowd and then twisted her head off.
 

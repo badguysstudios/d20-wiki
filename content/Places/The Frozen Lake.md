@@ -12,9 +12,9 @@ tags:
 
 ## Description
 
-The lake sits in an open tundra, frozen solid enough to fight on. It is not quite empty. In Season 4, something could be seen moving deep beneath the ice, and nobody explained what it was. A few features break up the open ground: an archway over a small pond, a lone pillar and an elevated area that gives the high ground to whoever climbs it.
+The lake sits in an open tundra, frozen solid enough to fight on. It is not quite empty. In Season 4, something could be seen moving deep beneath the ice. A few features break up the open ground: an archway over a small pond, a lone pillar and an elevated area.
 
-Above it all hangs the coliseum where [[The Acolytes]] gather to watch, so every fall on the ice plays out under a sky full of spectators. The Grandmaster sees the white landscape as a canvas, and she said so.
+Above it all hangs the coliseum where [[The Acolytes]] gather to watch. The Grandmaster sees the white landscape as a canvas, and she said so.
 
 > "I want you to make sure that this landscape is painted in red." (the Grandmaster)
 
@@ -26,11 +26,11 @@ The Frozen Lake served as the arena for Crypto Monkeys in Season 3, where K-Boom
 
 ### The Hunt
 
-The lake returned in [[Episodes/Season 4/084 - S4E6 — The Hunt — Witch Hunter v Grickle|S4E6 — The Hunt — Witch Hunter v Grickle]]. The Grandmaster opened with a shrug at her own naming habits: "I welcome you. To the frozen lake. It's not creatively named, you know, after a while we just got tired with things." Then she told the two champions to paint it red. Witch Hunter and Grickle fought across the ice while something stirred beneath it. Grickle walked away the winner, but the Shadow King killed him afterward.
+The lake returned in [[Episodes/Season 4/084 - S4E6 — The Hunt — Witch Hunter v Grickle|S4E6 — The Hunt — Witch Hunter v Grickle]]. The Grandmaster opened with a shrug at her own naming habits: "I welcome you. To the frozen lake. It's not creatively named, you know, after a while we just got tired with things." Then she told the two champions to paint it red. Witch Hunter and Grickle fought while something moved deep beneath the ice. Grickle walked away the winner, but the Shadow King killed him afterward.
 
 ## Notable Figures
 
-- [[Grandmaster Elusia Skypiercer]]: presided over the Deathmatches held here and named the place, without much effort.
+- [[Grandmaster Elusia Skypiercer]]: presided over the Deathmatches held here and admitted the place wasn't creatively named.
 - [[K-Boom]] and [[Ignacio Marchade]]: the first champions to fight on the lake.
 - [[Witch Hunter]] and [[Grickle]]: champions of The Hunt.
 - [[The Acolytes]]: watched from the coliseum in the sky.

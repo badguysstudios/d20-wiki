@@ -11,13 +11,13 @@ tags:
 
 ## Description
 
-The temple is built of stone, and its roof is full of holes that let the sky in. Torches burn inside to light the halls. Out in the east courtyard stand two statues of the Grandmaster, so the faithful (and any champions passing through) are never far from her gaze.
+The temple is built of stone, and its roof is full of holes that let the sky in. Torches burn inside. Out in the east courtyard stand two statues of the Grandmaster, so the faithful (and any champions passing through) are never far from her gaze.
 
 Its most dramatic feature is a sky pillar that rises high above the grounds, with a drop of more than seventy-five feet from the top. For a temple built for devotion, it makes a fine place for someone to fall a very long way. By any fair measure the building is due for renovation.
 
 ## History
 
-The temple was chosen as the battleground for the Deathmatch between [[Alma]] and [[Ahyan]], billed as a clash between the student and the master. The champions fought through its torchlit stone and its open-roofed spaces. When the dust settled, the temple's long-overdue repairs had grown a little longer. It now has a new hole in the ceiling, this one made by a chair.
+The temple was chosen as the battleground for the Deathmatch between [[Alma]] and [[Ahyan]], billed as a clash between the student and the master. When the dust settled, the temple's long-overdue repairs had grown a little longer. It now has a new hole in the ceiling, this one made by a chair.
 
 ## Notable Figures
 

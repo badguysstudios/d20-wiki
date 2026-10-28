@@ -11,7 +11,7 @@ played_by:
 - 'Ralzamon: TrmntdByGnomes'
 winner: Asena
 arena: The Dread Fortress kitchen
-summary: Old enemies Asena and Ralzamon brawled through the Dread Fortress kitchen, where Asena survived a mental prison and an alien abduction and came back with snake arms that bit Ralzamon to death. The Arbiter then secretly revived Ralzamon at the bottom of a well, recruiting him as a general.
+summary: Old enemies Asena and Ralzamon brawled through the Dread Fortress kitchen, where Asena survived a mental prison and an alien abduction and came back with snake arms that bit Ralzamon to death. The Arbiter then secretly revived Ralzamon as they fell down a well, recruiting him as a general.
 tags:
 - episode
 youtube: https://youtu.be/ZlPfc2CNJ94
@@ -20,7 +20,7 @@ canon_order: 26
 
 [Watch on YouTube](https://youtu.be/ZlPfc2CNJ94)
 
-Season 2 of the Deathmatches opened with a grudge match. **[[Asena]]**, a dragon-blooded brawler from the dimension of Northport, faced **[[Ralzamon]]**, a long-dead psychic "master of the unknown" who has haunted her nightmares across at least five previous battles. Their arena was the kitchen of [[The Dread Fortress|the Dread Fortress]] itself. Over the night the Acolytes rained flaming snowmen on the floor, an alien saucer peeled off the ceiling, and a pair of snake arms settled the matter. In the final moments the Arbiter did something nobody else saw.
+Season 2 of the Deathmatches opened with a grudge match. **[[Asena]]**, a dragon-blooded brawler from the dimension of Northport, faced **[[Ralzamon]]**, a long-dead psychic "master of the unknown" who, by his own count, had fought her "like, five times" and haunted her nightmares. Their arena was the kitchen of [[The Dread Fortress|the Dread Fortress]] itself. Over the night the Acolytes rained flaming snowmen on the floor, an alien saucer came down through the peeled-back ceiling, and a pair of snake arms settled the matter. In the final moments the Arbiter did something nobody else saw.
 
 ## The Story
 
@@ -34,7 +34,7 @@ The Arbiter suggested a Deathmatch before dinner. The decision fell to Doug. The
 
 ### Old Enemies
 
-The Arbiter tore open "a spectacular, a little showy" portal. Asena stepped through first, a seasoned portal traveller who found "this trip was pretty lovely." She introduced her opponent as "Ralzypoo" and urged the Grandmaster to say it to his face: "He loves it." At home she fought as a pugilist. For this arena she had chosen to lean into her dragon heritage and become "a version of myself that is just more epic and more dragon-y." The Grandmaster was charmed: "You have captured my heart right away… I am keeping my eye on you."
+The Arbiter tore open "a spectacular, a little showy" portal. Asena spoke first, a seasoned portal traveller who found "this trip was pretty lovely." She introduced her opponent as "Ralzypoo" and urged the Grandmaster to say it to his face: "He loves it." At home she fought as a pugilist. For this arena she had chosen to lean into her dragon heritage and become "a version of myself that is just more epic and more dragon-y." The Grandmaster was charmed: "You have captured my heart right away… I am keeping my eye on you."
 
 The talk of dragons set the Arbiter reminiscing. It "wasn't too long ago" that he and the Grandmaster had been dragons, he said. She agreed that she had been "the most gorgeous Topaz dragon. Just beauty. And then I got killed." He insisted "they cheated," and she shut the subject down.
 
@@ -46,13 +46,13 @@ Before the fight the Grandmaster asked for tombstone requests. The Fortress keep
 
 ### Into the Kitchen
 
-The champions stepped into the Dread Fortress kitchen, which the Arbiter claimed was envied by every mansion and hotel. It had long tables loaded with food and knives, a second-floor balcony with a twenty-foot drop, trophies mounted on the walls, and a very deep, dark well in one corner. "I don't have to clean it up," the Grandmaster said. "So food fight if you want." She proved it by hopping onto a table and kicking the food off it. "Make this place unrecognizable." Then she flew up to her throne in the sky beside Doug.
+The champions stepped into the Dread Fortress kitchen, which the Arbiter claimed was envied by every mansion and hotel. It had tables loaded with food and knives, a second-floor balcony with a twenty-foot drop, trophies mounted on the walls, and a very deep, dark well in one corner. "I don't have to clean it up," the Grandmaster said. "So food fight if you want." She proved it by hopping onto a table and kicking the food off it. "Make this place unrecognizable." Then she flew up to her throne in the sky beside Doug.
 
 Ralzamon took the balcony, "looking down on you, as only appropriate." Asena started beside the well. She moved first, and she pointed out that she rolled better than he talked.
 
 [[The Acolytes]] opened with Dodgeball and hurled everything they had. Down came pickles, dim sum, a live octopus, cats, toilet paper, mismatched battle slippers, snowmen on fire, and Christmas trees shedding their ornaments. The Grandmaster had to warn one Acolyte, Belle, not to throw her dog. Ralzamon ended up bruised and buried. Asena announced she had needed a snack and started eating the barrage. She ate the cheese, pie and durians, but she refused the raccoon, because "raccoons are sacred animals, okay?" Eating her way through the onslaught spared her half the pain.
 
-Then two shiny vials appeared on the center table, one red and one blue. The Arbiter also announced that the Acolytes had summoned a [[The Box of Chaos|Box of Chaos]]: "It's a box with lots of chaos in it." It was full of magic items, and anyone could take one for a sacrifice of their own choosing. It went to a corner by the window, and nobody ever claimed anything from it.
+Then two shiny vials appeared on the center table, one red and one blue. The Arbiter also announced that the Acolytes had summoned a [[The Box of Chaos|Box of Chaos]]: "It's a box with lots of chaos in it." It was full of magic items, and anyone could take one for a sacrifice of their own choosing. It went to a corner by the window, and nobody claimed anything from it that night.
 
 ### Red Pill, Blue Pill
 
@@ -70,13 +70,13 @@ The Acolytes gave both champions a burst of heroism, which the Grandmaster liken
 
 Ralzamon's plan was simple: "You're really good at punching. I can float… don't get punched." Asena sprouted spectral dragon wings and flew straight at him ("Personal space, personal space"). Her first punch was a natural 20, and her fist hit his jaw with a force he had never felt before. In the Grandmaster's words: "Teeth flying jumbled, the dentist is gonna be real expensive later."
 
-"Not so fast," Ralzamon answered. He poured all the trauma of their shared history into a blast of hellfire: "Rebuke that shit." Asena took it on the chin and punished the spell with another punch. She tried to stun him, and he shrugged it off. Her punch then wrapped him in clinging wisps of dimensional mist. Ralzamon's player had designed that trick for her himself, back home, and he cried, "I made this crap for you!"
+"Not so fast," Ralzamon answered. He poured all the trauma of their shared history into a blast of hellfire: "Rebuke that shit." Asena took it on the chin and punished the spell with another punch. She tried to stun him, and he shrugged it off. That critical first punch had also wrapped him in clinging wisps of dimensional mist. Ralzamon's player had designed that trick for her himself, back home, and he cried, "I made this crap for you!"
 
 Ralzamon refused to be "terrified of a freaking milk dragon." He called on the crystal heart where his consciousness normally lives "when not imprisoned in this fleshy apparatus." He invoked the powers of the Zul'quian jungles, and the roar of a jaguar cleared his head. Somewhere in the stands, baboons began hurling eggs ("Keep your red butts in your seats").
 
 Then he struck at the fear he knew was there. He sealed Asena inside a **mental prison** full of ninjas, void slimes and his own face mocking her from every direction. She spent her heroic boost to fight it off a second time, and did even worse. "You're breaking my heart!" cried the Grandmaster. If Asena tried to leave the prison, it would hurt her far more.
 
-Ralzamon drifted down and hobbled toward the Box of Chaos at half speed ("I'm just a dude"). On the way he reached out telepathically to the saucer, in his best alien voice: "Hail and welcome to our world. The specimen that you requested is ready for collection, immobilized through psychic means." The aliens bought it completely. "Excellent, excellent."
+Ralzamon drifted down and hobbled toward the Box of Chaos at half speed ("I'm just a dude"). On the way he reached out telepathically to the saucer, in his best alien voice: "Hail and welcome to our world. The specimen that you requested is ready for collection, immobilized through psychic means." The aliens bought it completely. "Excellent, excellent." He then shook off the wisps of mist, which the Grandmaster said looked like cool smoke, except "it makes it seem like you farted." Ralzamon sighed, "There was a chance to be cool and we just blew it."
 
 ### Abducted
 

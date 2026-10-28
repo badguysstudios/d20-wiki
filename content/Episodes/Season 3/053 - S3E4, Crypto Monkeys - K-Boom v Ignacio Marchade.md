@@ -11,7 +11,7 @@ played_by:
 - 'Ignacio Marchade: Karim Cheese'
 winner: No winner
 arena: a freezing lakeside with a deep, dark pit
-summary: Crypto-shilling gnome K-Boom and brooding barbarian Ignacio Marchade fought across a frozen lake, and Ignacio traded his winged monkey Mort to the Box of Chaos. K-Boom's fireball killed Ignacio, and then a water weird dragged both champions into the pit, leaving no winner.
+summary: Crypto-shilling gnome K-Boom and brooding barbarian Ignacio Marchade fought in a freezing lake, and Ignacio traded his winged monkey Mort to the Box of Chaos. K-Boom's fireball killed Ignacio, and then a water weird dragged both champions into the pit, leaving no winner.
 tags:
 - episode
 youtube: https://youtu.be/rKTmpacPlUo
@@ -20,7 +20,7 @@ canon_order: 53
 
 [Watch on YouTube](https://youtu.be/rKTmpacPlUo)
 
-A gnome artificer selling his own cryptocurrency and a red-eyed barbarian with a winged monkey were pulled into [[The Void]] to fight at a lonely, freezing lake. **[[K-Boom]]** and **[[Ignacio Marchade]]** spent the match trading insults, javelins and fireballs. Along the way they fell into something like love, and in the end they died in each other's arms. The lake's own monster had the final word: it dragged both bodies into the deep. It was the night the Grandmaster called "the variety pack."
+A gnome artificer selling his own cryptocurrency and a red-eyed barbarian with a winged monkey were pulled into [[The Void]] to fight at a lonely, freezing lake. **[[K-Boom]]** and **[[Ignacio Marchade]]** spent the match trading insults, javelins and fireballs. Along the way they fell into something like love, and in the end K-Boom cradled his dying rival in his arms. The lake's own monster had the final word: it dragged both bodies into the deep. It was the night the Grandmaster called "the variety pack."
 
 ## The Story
 
@@ -50,7 +50,7 @@ K-Boom produced a microphone, conjured himself a little spotlight and delivered 
 
 K-Boom opened with a bolt of fire that missed entirely. Ignacio claimed it whittled "maybe my pinky toe. I am not fazed." Before things could heat up, the Acolytes summoned **[[The Box of Chaos]]**. A giant pink and purple box slammed into the water, and Gerald's shadowy fingers and yellow eyes crept out. Half the crowd chanted "K-Boom! Crypto, crypto, crypto!" and the other half "Ignacio Mort!"
 
-Ignacio dashed straight to the box and offered up his own best friend. "Who are you supposed to be and what the fuck is that?" Gerald asked. "I kinda wanted that thing, whatever it is." While K-Boom threatened to call animal services, Ignacio explained, "He knows the deal. He signed on for the trip." Gerald took Mort, and the Grandmaster promised that Mort would be well fed and "even get his own bedroom." In return, Gerald floated over the Wheel of Stars, a small metal trinket of starlight magic. Ignacio never got around to using it.
+Ignacio dashed straight to the box and offered up his own best friend. "Who are you supposed to be and what the fuck is that?" Gerald asked. "I kinda wanted that thing, whatever it is." While K-Boom threatened to call animal services, Ignacio explained, "He knows the deal. He signed on for the trip." Gerald took Mort, and the Grandmaster promised that Mort would be well fed and "even get his own bedroom." In return, Gerald floated over the Wheel of Stars, a small metal item. Ignacio never got around to using it.
 
 Ignacio's javelins went less well. The first landed beside K-Boom's pinky toe, "almost like it's more of a threat." The second split the first in half. "You are lucky I forgot my left contact," Ignacio growled. A fangirl in the stands had apparently stolen it, because his glowing red eyes, glimpsed under his hood, kept making Acolytes faint and wake up fanning themselves. Then he flew into a rage. He tore off his sleeves and hiked his shorts even shorter, and his muscles burst through the seams. K-Boom was less frightened than impressed by the thighs. "I do Pilates," Ignacio explained.
 
@@ -68,7 +68,7 @@ Ignacio gloated, then pleaded: "Whatever you're doing, please don't throw it." K
 
 ### No More Mr. Nice Kaboom
 
-Ignacio waded in, squatted to reach the gnome's throat and announced a "five finger death punch." K-Boom answered with his best trick. Pauldrons sprang open on his chest, and a swarm of daggers whirled around him. Ignacio ducked underwater to wash the blood off his face and rose "almost in a beautiful mermaid form." The Grandmaster came down with hiccups.
+Ignacio waded in, squatted to reach the gnome's throat and announced a "five finger death punch." K-Boom answered with his best trick. He flicked a switch on his chest, his pauldrons sprang open, and a swarm of daggers whirled around him. Ignacio ducked underwater to wash the blood off his face and rose "almost in a beautiful mermaid form." The Grandmaster came down with hiccups.
 
 "No more Mr. Nice Kaboom," K-Boom declared, crying on the inside. He chugged an energy drink and smashed the can on his forehead. He blinked away and charged back so the dagger cloud sliced Ignacio again, then grabbed Ignacio's thighs underwater and sent lightning through the lake. Both of them were wearing metal. "My middle name is Pain," K-Boom said. It was actually Michael. Ignacio's frenzied lance jabs at "right arm, left leg, and left earlobe" all missed so badly that a slot-machine jingle rang out and gold coins rained into the water. He finally struck home on another try.
 
@@ -78,17 +78,17 @@ When K-Boom insisted on calling the Grandmaster "Master Chief" again, she correc
 
 "When in doubt," K-Boom's father once told him, "return to monkey." K-Boom drank a brown vial and became a giant ape, "K-Konga, the Crypto Monkey," and smashed Ignacio's right pinky toe so hard the lakebed cracked. Ignacio pulled two javelins from the water and drove them into the ape's chest. K-Boom lost his grip on the spell and shed the ape "almost like skin," revealing "your typical, now eyebrowless, K-Boom." Ignacio then aimed his lance at the gnome's sack. "That's a low blow given his height," said the Arbiter. With a nudge from the Grandmaster's blessing, it landed as a glancing blow to the nuts.
 
-By now the Arbiter had had enough ("This place is fucking stupid. If I wasn't imprisoned, I would quit"). "I think it's time we encounter some of the local wildlife," he said. A water weird shot up out of the pit behind Ignacio and lashed at him with its tail. Ignacio wrenched free.
+The Arbiter had already had enough ("This place is fucking stupid. If I wasn't imprisoned, I would quit"). "I think it's time we encounter some of the local wildlife," he said. A water weird shot up out of the pit behind Ignacio and lashed at him with its tail. Ignacio wrenched free.
 
 ### Enemies, Friends, Fireball
 
-The champions declared a truce on the spot. "Let's both fuck off. Let's run together, man," said Ignacio. "Enemy of my enemy is my friend," said K-Boom. "Until we kill each other, but that'll be later." Ignacio carefully pulled away and raced for the rowboat, but the weird swam sixty feet and caught right up with him. Even the round card guy, who "can only count to seven," ran out of cards.
+The champions declared a truce on the spot. "Let's both fuck off. Let's run together, man," said Ignacio. "Enemy of my enemy is my friend," said K-Boom. "Until we kill each other, but that'll be later," said Ignacio. He carefully pulled away and raced for the rowboat, but the weird swam sixty feet and caught right up with him. Even the round card guy, who "can only count to seven," ran out of cards.
 
-K-Boom gave his new friend a half-hearted thumbs up ("You got this, man!"), lit a cigarette, ran, and tossed two vials over his shoulder. They met in a fireball centered on Ignacio. The weird shrugged it off. **Ignacio did not.**
+K-Boom gave his new friend "a half-ass thumbs up" ("You got this, man!"), ran, lit a cigarette, and tossed two vials over his shoulder. They met in a fireball centered on Ignacio. The weird shrugged it off. **Ignacio did not.**
 
 > "I wish you all the cryptocurrency non-luck. I hope you lose all your stock… But I do wish you a long and healthy life, brother… at least I'll be with Mort now. I love you, and I always have, even though you killed me." (Ignacio Marchade)
 
-"Wait! Don't go into the light yet!" K-Boom slid down the rocks and cradled the burning barbarian. They could have been friends, he said, and Ignacio would be remembered, because his face was going on K-Boom's new line of "NF trinkets." The first card showed a stick figure with the stats "Internalized rage, really depressed, probably has daddy issues." "Oh god, fucking kill me now, please," said Ignacio. His last words renamed his killer "K-Boom Marchand."
+"Wait! Don't go into the light yet!" K-Boom slid down the rocks and cradled the burning barbarian. They could have been friends, he said, and Ignacio would be remembered, because K-Boom had a new line of cryptocurrency coming out called "NF trinkets." He showed Ignacio a card he had drawn: a stick figure of Ignacio as an NFT, with the stats "Internalized rage, really depressed, probably has daddy issues." "Oh god, fucking kill me now, please," said Ignacio. His last words renamed his killer "K-Boom Marchand."
 
 K-Boom dropped him back in the water and launched into a sales pitch, and the weird's tail whipped up mid-spiel. It wrapped around both of them and **dragged both champions into the black pit.** There was no winner. It was believed to be the first time both champions had ever died. Once before, with two champions on the brink, the Grandmaster had fused them into one body instead.
 

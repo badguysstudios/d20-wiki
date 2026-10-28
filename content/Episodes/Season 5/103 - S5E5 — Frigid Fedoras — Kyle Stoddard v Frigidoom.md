@@ -11,7 +11,7 @@ played_by:
 - 'Frigidoom: kid.kyle'
 winner: Kyle Stoddard
 arena: An asteroid in the orange ring of an unvisited purple gas planet
-summary: Thea dragged a fedora-wearing devotee of Princess Sakura and a radioactive carnivorous refrigerator to an asteroid in space to fight. Kyle Stoddard won when Frigidoom, overloaded on knockoff soda during the second chaotic event, could no longer hold in his own bowels and died on the spot.
+summary: Thea dragged a fedora-wearing devotee of Princess Sakura and a radioactive carnivorous refrigerator to an asteroid in space to fight. Kyle Stoddard won when Frigidoom, full of knockoff Mountain Lightning, failed to keep from pissing himself during the second chaotic event, could no longer hold in his own bowels and shit himself to death.
 tags:
 - episode
 youtube: https://youtu.be/cvc2LW7ysm4
@@ -20,7 +20,7 @@ canon_order: 103
 
 [Watch on YouTube](https://youtu.be/cvc2LW7ysm4)
 
-On an asteroid circling a purple planet no one had ever visited, **[[Kyle Stoddard]]**, a katana-wielding warrior in a fedora sworn to the honor of Princess Sakura, fought **[[Frigidoom]]**, a sentient atomic refrigerator full of carnivorous leftovers. It began with a ceremonial Mountain Dew toast, took in a mechanical bull, a blue pill and a great deal of moldy takeout, and ended in the most undignified death the Lord of Fate had yet seen. As he put it afterward, one bodily fluid is as good as the next.
+On an asteroid circling a purple planet no one had ever visited, **[[Kyle Stoddard]]**, a katana-wielding warrior in a fedora sworn to the honor of Princess Sakura, fought **[[Frigidoom]]**, a sentient atomic refrigerator full of carnivorous leftovers. It began with a ceremonial Mountain Dew toast, took in a mechanical bull, a blue pill and a great deal of moldy takeout, and ended with a refrigerator pissing and shitting itself to death. As the Lord of Fate put it afterward, one bodily fluid is as good as the next.
 
 ## The Story
 
@@ -52,13 +52,13 @@ Thea asked for flavored ice too and waited with her mouth open, like at a hibach
 
 ### Gifts Turn to Violence
 
-Kyle asked, politely, whether his opponent preferred "Frigidoom-kun" or "-chan." Frigidoom said he had "some leftover chans in here," and offered a yellowed container of spoiled lo mein labeled "Chan's." Kyle felt it would be rude to refuse a gift and ate it in one bite. It began to dissolve him from the inside out.
+Kyle asked, politely, whether his opponent preferred "Frigidoom-kun" or "-chan." Frigidoom said he had "some leftover chans in here," and offered a yellowed container of spoiled lo mein labeled "Chan's." Kyle felt it would be rude to refuse a gift and ate it in one bite. A fizzy sensation spread down his throat, as if he were dissolving from the inside out.
 
 Frigidoom then announced that he intended to eat Kyle, whose "Dorito fingers and Mountain Dew body" would refuel him. When Thea asked where his mouth was, he swung his door wide. Inside was a pulsating mass of pizza, casserole, teeth and possibly an eye, all fused into one ravenous organism. "Everything that is goes in here and comes out again eventually." The Lord of Fate wanted to know why Thea's champions went from old people to children to "multiple monsters bent on consuming."
 
 Then Frigidoom spat a chunky salsa of acid and radioactive oil onto the Princess Sakura shirt. Kyle clenched his fist. Frigidoom offered to fix it with his cleaning cycle, but his jello arm was acidic and made the shirt sizzle. Kyle found his feet, declared that while Frigidoom wasted his days on gym drinks he had cultivated inner strength, and charged with his arms swept back. Frigidoom fumbled his defense on a natural 1, then fumbled again, back to back, during Kyle's speech on how "kawaii-dom is the essence of all that is good and pure in this world."
 
-Kyle also had a habit of sheathing his katana after every swing and drawing it again with a crisp *shink*. "Seems wildly inefficient," said the Lord of Fate. Kyle explained that a drawn blade might hurt innocents. The Lord of Fate pointed out they were in space with no one for thousands of miles. Kyle replied that there could be invisible forces: "You can feel it in the wind." In between, Thea learned of yet another complaint: Mrs. Humphrey's children rolled down a hill. They were wearing white, she reasoned, which is an absolute calling for grass stains.
+Kyle also had a habit of sheathing his katana after every swing and drawing it again with a crisp *shink*. "Seems wildly inefficient," said the Lord of Fate. Kyle explained that a drawn blade might hurt innocents. The Lord of Fate pointed out they were in space with no one for thousands of miles. Kyle replied that there could be invisible forces: "You can feel it in the wind." In between, Thea learned of yet another complaint: Mrs. Humphrey from down the street said Thea had been rolling her children down a hill. They were wearing white, she reasoned, which is an absolute calling for grass stains.
 
 ### I Studied the Blade
 
@@ -66,23 +66,23 @@ Frigidoom tried to force gnarly pepperonis down Kyle's throat, but Kyle's stomac
 
 Then Kyle sliced Frigidoom's collectible rainbow magnet mustache in half on another Frigidoom natural 1. Realizing how that might look, Kyle stopped to assure everyone it was not hate toward anyone, since Princess Sakura is all about love. Thea clapped a giant rainbow into the sky over the asteroid belt for everyone. She also earned a sixth star, which the Lord of Fate carved into her forehead with a pen. "I'm pretty sure you're gonna have six gold scars," he said.
 
-Frigidoom swore revenge: "You have stolen my joy from me, and now I will steal everything from you. Your Doritos, your Fritos, your UwUs, your anime, your waifus." He grew morning-star arms of chicken wings and stale crust, called Kyle a "salty weeaboo," and missed. Then he drew in all his slime and disguised himself as a perfectly ordinary refrigerator. Kyle answered by covering him in horrendous bargain-pack status stickers. He was about to deliver the ultimate insult, a 7 Up, when Thea slapped it out of his hand: "We are strictly Sierra Mist here." The Lord of Fate announced he needed to walk away for a minute.
+Frigidoom swore revenge: "You have stolen my joy from me, and now I will steal everything from you. Your Doritos, your Fritos, your UwUs, your anime, your waifus." He grew morning-star arms of chicken wings and stale crust, called Kyle a "salty weeaboo," and missed. Then he drew in all his slime and disguised himself as a perfectly ordinary refrigerator. Kyle answered by covering him in horrendous bargain-pack status stickers. He was about to deliver the ultimate insult, a 7 Up, when Thea slapped it out of his hand: "We are strictly Sierra Mist here." The Lord of Fate announced he needed to walk away for a minute. Thea told him, "If you have to go poo poo pee pee, you only have to say that."
 
 ### The Box of Chaos
 
 The Acolytes summoned [[The Box of Chaos]]. It streaked in like a meteor, flipped open in pink and yellow fire, and a shadow peered out over the rim. Frigidoom burst out of his disguise, furious about the stickers ("I don't even have hands"), and traded them away. The box swallowed them, to Thea's dismay: "All the toes and dentures and tax books and now all the stickers too." The Lord of Fate offered to make her a box. She asked whether he meant give her one or turn her into one. "Who could say?" She backed away.
 
-Frigidoom received a small blue pill that let him push himself further before collapsing and doubled his chrome shell. Soon a whirlwind of "grade A GMO" tentacles burst out at Kyle, who was quick to clarify that he was "not of the Hentai clan." Kyle offered the box his precious posable Sakura figurine, the one that says "Lulu, I heart you," and Thea threw up on an Acolyte named Julia. In return the box gave him cheesy poofs, his favorite snack, and he saved some dust in his beard for later.
+Frigidoom received a small blue pill that would "keep you going all night long," letting him push himself further before collapsing; if the Deathmatch lasted longer than four hours, that was his problem. His chrome shell doubled and hardened, and Thea shrieked, "He's too hard! He's too hard!" Soon a whirlwind of "grade A GMO" tentacles burst out at Kyle, who was quick to clarify that he was "not of the Hentai clan." Kyle offered the box his precious posable Sakura figurine, the one that says "Lulu, I heart you," and Thea threw up on an Acolyte named Julia. In return the box gave him cheesy poofs, his favorite snack, and he saved some dust in his beard for later.
 
-Kyle then landed a running slash on a natural 20, and gravy and fruit punch sprayed from Frigidoom's seams like blood in a samurai film. Pushing his luck with one flourish too many, he rolled a natural 1 and sliced off part of his own beard and fedora. "Not the fedora!… I was too arrogant." Worse, in this pursuit of vanity, he feared he had become a Chad. "Does anybody know what the fuck anyone is talking about tonight?" asked the Lord of Fate.
+Kyle then landed a running slash on a natural 20, and like the blood spray in an anime or samurai film, gravy spilled from Frigidoom's seams and a soda can detonated, spraying red fruit punch everywhere. Pushing his luck with one flourish too many, he rolled a natural 1 and sliced off part of his own beard and fedora. "Not the fedora!… I was too arrogant." Worse, in this pursuit of vanity, he declared, he had made himself into a Chad. "Does anybody know what the fuck anyone is talking about tonight?" asked the Lord of Fate.
 
 ### The Bull and the Final Release
 
-Thea, overwhelmed, called a chaotic event. The planet blurred into neon, the ground turned sticky, a PBR appeared in each hand, and a mechanical bull rose beneath each champion in a puff of cigarette smoke. Both stayed on ("No amount of sticky floors and PBR can stop me"), but the ride left both of them drained.
+Thea, overwhelmed, called a chaotic event. The planet blurred into neon, the ground turned sticky, a PBR appeared in each hand, and a mechanical bull rose beneath each champion in a puff of cigarette smoke. Both stayed on ("No amount of sticky floors and PBR can stop me"), but the pure amount of sexual energy it took to stay on the bull left both of them drained. "Everyone knows that bulls are sexy," Thea explained.
 
 The ride had also shaken up Frigidoom's insides. He found ruptured cans of Mountain Lightning, "the great pretender," and turned them into a radioactive vomit cannon. Kyle transformed into a fresh, signed, sleeveless Sakura shirt, kissed his number one figurine for strength, faded from sight and reappeared behind his enemy: "Nothing personal, kid." Frigidoom took it very personally. Kyle carved a lucky star into his back and gave the pouting Thea a star wand of her own.
 
-The second chaotic event was the end. After all that Mountain Lightning, both champions urgently needed a bathroom. Kyle had "cultivated my sphincter." **Frigidoom rolled a natural 1.** His last words, when asked: "I should have never eaten that damn blue pill. It didn't last four hours." His shell softened, and the old refrigerator keeled over into a pile of gravy, pizza rolls and his own torn rainbow. Kyle told Thea that Frigidoom "has been isekai'd to a better place." Thea pulled his plug, promised he would be remembered "at a later time," and threw him through the portal back to the Fortress. Kyle refused to gloat, wished his foe a noble journey ("Truck-kun, guide your way"), and the Acolytes threw cherry blossom petals that drifted down despite their being in space.
+The second chaotic event was the end. After all that Mountain Lightning, both champions desperately needed a place to release their bowels and had to try not to piss themselves. Kyle had "cultivated my sphincter." **Frigidoom rolled a natural 1.** He pissed himself and could no longer hold in his own bowels. Asked what went through his mind as he began to piss and shit himself to death, he answered: "I should have never eaten that damn blue pill. It didn't last four hours." His shell softened, and the old refrigerator keeled over into a pile of gravy, pizza rolls, moldy food, his own waste and his own torn rainbow. Kyle told Thea that Frigidoom "has been isekai'd to a better place." Thea pulled his plug, promised he would be remembered "at a later time," and threw him through the portal back to the Fortress. Kyle refused to gloat, wished his foe a noble journey ("Truck-kun, guide your way"), and the Acolytes threw cherry blossom petals that drifted down despite their being in space.
 
 ## Dried Blood
 
@@ -93,9 +93,9 @@ In the locker room of the Dread Fortress, a team of goblins in hazmat suits clea
 - Frigidoom opened with a natural 20 on a *for-fun* ice attack and froze Thea in a giant popsicle.
 - Kyle re-sheathed his katana after every single swing, for the protection of invisible innocents.
 - The Lord of Fate carved Thea's sixth gold star into her forehead with a pen.
-- Kyle's natural 1 cost him part of his own beard and fedora, and nearly turned him into a Chad.
+- Kyle's natural 1 cost him part of his own beard and fedora and, by his own account, turned him into a Chad.
 - Thea slapped a 7 Up out of Kyle's hand because the arena is "strictly Sierra Mist."
-- Frigidoom died of a natural 1 on a roll not to soil himself.
+- Frigidoom rolled a natural 1 on a roll not to piss himself, and shit himself to death.
 
 ## Memorable Quotes
 

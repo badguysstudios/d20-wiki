@@ -16,13 +16,13 @@ tags:
 - item
 ---
 
-**The Oathbow**, first called **the Oathbringer**, is the bow of [[Grandmaster Elusia Skypiercer|the Grandmaster]]. It began as a family heirloom passed to a young exile with a grudge against [[The Shadow King]]. It came through her war against him burnt and cracked, and centuries later she still draws it from her throne when something needs to show itself.
+**The Oathbow**, first called **the Oathbringer**, is the bow of [[Grandmaster Elusia Skypiercer|the Grandmaster]]. It began as a family heirloom passed to an exile with a grudge against [[The Shadow King]]. It came through her war against him burnt and cracked, and centuries later she still draws it from her throne when something needs to show itself.
 
 ## Description
 
-The Oathbow is a long, ornate golden bow. Before it was Elusia's, it belonged to her mother. Elusia bound the weapon to herself with her own blood, and the oath she swore on it gave the bow its first name.
+The Oathbow is a long, ornate golden bow. Before it was Elusia's, it belonged to her mother. Elusia bound the weapon to herself with her own blood and swore an oath on it.
 
-During the Season of Fate, a bow called "the Grandmaster's bow" showed off some remarkable tricks. It could shape-shift into whatever its wielder wanted. It also made its holder's best shots land more often, permanently. Its new owner found it handy as a giant can opener.
+During the Season of Fate, a bow called "the Grandmaster's bow" showed off some remarkable tricks. It could shape-shift into whatever its wielder wanted. It also made its holder land devastating critical blows more often, permanently. Its new owner found it handy as a giant can opener.
 
 ## History
 

@@ -11,7 +11,7 @@ played_by:
 - 'Ulfgar Greyblade (Mcswiggins): bonus_stage_rob'
 winner: Snoop & Dog
 arena: A lost plane for things that are lost
-summary: A mushroom-addled halfling-sized rider and a very drunk dwarf fought in a lost plane filled with the Acolytes' sinking farts, briefly teamed up to kill a summoned Aeorian Reverser, and then Snoop & Dog shoved Mcswiggins down a giant hole to win. After the show, the Arbiter caught the falling dwarf with a plunger and took him to his lair, saying he would have a use for him soon.
+summary: A mushroom-addled pint-sized rider and a very drunk dwarf fought in a lost plane filled with the Acolytes' sinking farts, called a truce against a summoned Aeorian Reverser that Snoop killed, and then Snoop & Dog shoved Mcswiggins down a giant hole to win. After the show, the Arbiter caught the falling dwarf with a plunger and took him to his lair, saying he would have a use for him soon.
 tags:
 - episode
 youtube: https://youtu.be/6JgeeDFqEkk
@@ -20,7 +20,7 @@ canon_order: 37
 
 [Watch on YouTube](https://youtu.be/6JgeeDFqEkk)
 
-Two of the shortest, least sober [[Champions|champions]] ever to enter the Void squared off in a lost plane where forgotten things gather and the Acolytes' farts sink to the floor. **[[Snoop & Dog]]**, a pint-sized rider who had eaten magic mushrooms on the way in and his scaly "dragon dog," faced **[[Mcswiggins|Ulfgar Greyblade]]**, a dwarf who insisted his name was Mcswiggins and who had clearly "had more than a few." The night brought a stoned [[The Box of Chaos|Gerald]], two unreliable golden lions, a monster from a hole in the ground, and a finish worthy of a lion king.
+Two short, far-from-sober [[Champions|champions]] squared off in a lost plane where forgotten things gather and the Acolytes' farts sink to the floor. **[[Snoop & Dog]]**, a pint-sized rider who had eaten magic mushrooms on the way in and his scaly "dragon dog," faced **[[Mcswiggins|Ulfgar Greyblade]]**, a dwarf who insisted his name was Mcswiggins and who had clearly "had more than a few." The night brought a stoned [[The Box of Chaos|Gerald]], two unreliable golden lions, a monster from a hole in the ground, and a finish worthy of a lion king.
 
 ## The Story
 
@@ -28,7 +28,7 @@ Two of the shortest, least sober [[Champions|champions]] ever to enter the Void 
 
 The night began in [[The Dread Fortress|the Dread Fortress]], where servants scurried and goblins chattered in the damp corners. The halls rang with a loud *clack, clack* as [[The Arbiter|the Arbiter]] made his way to the throne room. [[Grandmaster Elusia Skypiercer|The Grandmaster]] was pacing with her hands behind her back and had heard him coming from a long way off. "Are you wearing tap shoes?"
 
-They were Italian leather, the Arbiter insisted. He knew because the man he had taken them from had said so with his dying words. A closer look revealed metal plates on the soles. "He's a liar," the Grandmaster declared. "He's a dead liar, but he's a liar." Insulted on behalf of his footwear, the Arbiter kicked the shoes off. The Grandmaster then ruled that shoes were required in the arena, since there were spikes, blood and other gross things on the ground. "It's a safety thing. It's insurance." The Arbiter snapped his fingers and produced a pair of vacation sandals, also taken from a corpse. He explained that he had "a fine collection of shoes from all the people I've killed." The Grandmaster did not want to know.
+They were Italian leather, the Arbiter insisted. He knew because the man he had taken them from had said so with his dying words. A closer look revealed metal plates on the soles. "He's a liar," the Grandmaster declared. "He's a dead liar, but he's a liar." Calling the dead man a shyster, the Arbiter took the shoes off and went barefoot. The Grandmaster then ruled that shoes were required in the arena, since there were spikes, blood and other gross things on the ground. "It's a safety thing. It's insurance." The Arbiter snapped his fingers and produced a pair of vacation sandals, also taken from a corpse. He explained that he had "a fine collection of shoes from all the people I've killed." The Grandmaster did not want to know.
 
 ### Two Short Fighters and a Not-Dog
 
@@ -38,7 +38,7 @@ When the Grandmaster asked how high he was, she meant his height. Snoop heard th
 
 Mcswiggins stumbled in next and delivered his grand introduction to Dog, apparently mistaking the scaly beast for the Grandmaster: "Ulfgar Greyblade. You may know me as Mcswiggins, the Everthirsty… and the pride of the drunken master." He then started the speech over, lost track of whether he had already given it, and spotted the name "Ulfgar" written somewhere, which he insisted was wrong. The Arbiter took no responsibility. "This is what happens when you put out a general call for people to fight to the death." Friends sign people up, he explained, and this guy didn't even know his own name.
 
-Snoop, feeling generous, explained his mushrooms, which were kept in Dog's saddlebag. The purple ones made you light and happy. The red ones he took right before a fight. "I think he calls it a blood frenzy?" He handed Mcswiggins "the biggest one I have left," since he was "kind of a big guy." Mcswiggins, a broad dwarf of about four foot eight, looked down at him only slightly. Only then did it dawn on the dwarf that his new friend was his opponent, and that Dog was too. "I'm fighting two people? That hardly seems fair." "To be fair," said the Arbiter, "one's not a person."
+Snoop, feeling generous, explained his mushrooms, which were kept in Dog's saddlebag. The purple ones made you light and happy. The red ones he took right before a fight. "I think he calls it a blood frenzy?" He handed Mcswiggins "the biggest one I have left," since he was "kind of a big guy." Mcswiggins, a broad dwarf of about four foot eight, was only slightly taller. Only then did it dawn on the dwarf that his new friend was his opponent, and that Dog was too. "I'm fighting two people? That hardly seems fair." "To be fair," said the Arbiter, "one's not a person."
 
 ### The Arena of Lost Farts
 
@@ -50,7 +50,7 @@ When she spread her wings and rose into the cooler air above, the source of the 
 
 The Acolytes demanded both the Box of Chaos and a chaos event, and they got both. The box slammed down next to Snoop in a column of pink and purple flames that gave off no heat. Two bright yellow eyes and a pair of shadowy claws reached over its rim. Snoop had "been down this alley before" and wanted none of it. Then the box spoke: "Why does this place look like a testicle?" Snoop was delighted. "Wait, you can talk… the last one I saw didn't talk. Do you want some mushrooms?"
 
-First came the chaos. The Grandmaster pulled two metal chairs from behind her seat, handed one to the Arbiter, and the pair swooped down for a classic chair shot. The Arbiter caught Mcswiggins mid-way through an extremely long piss against the arena wall. The Grandmaster's chair only scraped down Snoop's shin, though it scuffed his fine Italian shoes. "I don't want to play anymore," said Snoop. "Too bad," said the Arbiter. "Chaos has been served."
+First came the chaos. The Grandmaster pulled two metal chairs from behind her seat, handed one to the Arbiter, and the pair swooped down for a classic chair shot. The Arbiter caught Mcswiggins mid-way through an extremely long piss against the arena wall. The Grandmaster's chair only scraped down Snoop's shin, but Snoop still mourned "My fine Italian shoes." "I don't want to play anymore," said Snoop. "Too bad. I win. Chaos has been served," said the Arbiter.
 
 Mcswiggins answered by flying into a rage, and ancestral protectors rose from his axe as he chanted: "Oh, hear me, Jamison, Johnny, and Jack. I call upon you, we're on the attack." He sprinted out of his nook, spotted the edge of a boot poking out from cover, and roared, "I know Italian leather anywhere. Come here, you chair-wielding menace!" Snoop pointed out that the chair had not been his.
 
@@ -72,23 +72,23 @@ During a short break, the Grandmaster told the Acolytes to eat more to "produce 
 
 Mcswiggins gave the remaining lion a pat ("ah, good kitty") on his way past and laid into Snoop with his axe, while Dog bit at him. The Arbiter, it turned out, had placed bets on Snoop, and he praised him as an honorable fighter. "I fucking turned invisible and ran away!" Snoop protested. The Arbiter blessed him anyway for being truthful. Snoop used the lull to recommend pets for mental health. Mcswiggins had his own remedy: "My mental health is just fine. I've got drink for that."
 
-Then Snoop went all out. He ate one of the red mushrooms, climbed onto Dog's back and stabbed downward as Dog leapt into the air. "Dog, unleash the lightning!" A cone of lightning burst from Dog's jaws. Mcswiggins answered by sealing himself inside a pillar of amber, beer-colored ice that rose from the ground. Through it, the Grandmaster reported, "You can see him on the inside licking his frozen beer." When it melted, he cracked open his flask, which magically refills itself, and took five. The last lion drank the melted beer puddle, staggered and whiffed completely. The Grandmaster had seen enough. She lifted the lion out of the fart fog and retired it to a seat beside Doug, who licked its wounds like a kind nurse until it fell asleep drunk.
+Then Snoop went all out. He ate one of the red mushrooms, climbed onto Dog's back and stabbed downward as Dog leapt into the air. "Dog, unleash the lightning!" A cone of lightning burst from Dog's jaws. Mcswiggins answered by sealing himself inside a pillar of amber, beer-colored ice that rose from the ground. Through it, the Grandmaster reported, "You can see him on the inside licking his frozen beer." Free again, he cracked open his flask, which magically refills itself, and took five. As the ice melted into a beer puddle on the floor, the last lion drank it and whiffed completely. The Grandmaster had seen enough. She lifted the lion out of the fart fog and retired it to a seat beside Doug, who licked its wounds like a kind nurse until it fell asleep drunk.
 
 Snoop rounded on Gerald: "You gave me two defective lions, and he got a sick tattoo!" Gerald was offended. "Hey, hey, hey, man. You're kinda harsh on my buzz… Lions can either be ferocious or they can fit in your pocket. You can't have both." Then he shut his lid and vanished.
 
 ### Something Climbs Out of the Hole
 
-The Arbiter's next roll crossed the line. "Enough! Begin the summoning, Arbiter!" The ground shook and the walls wiggled. "Is that happening," Mcswiggins asked, "or am I just fucked up?" Potions and carvings appeared on the once-empty shelves. Then a giant hole opened in the floor, and an **Aeorian Reverser** climbed out of it. "Another kitty," said Mcswiggins. "You're not gonna like this one," said the Arbiter.
+The Arbiter's next roll crossed the line. "Enough! Begin the summoning, Arbiter!" The ground shook and the walls wiggled. "Are you, is that happening, or am I just fucked up?" Mcswiggins asked. Potions and carvings appeared on the walls where there had been none. Then a giant hole opened in the floor, and an **Aeorian Reverser** climbed out of it. "Another kitty," said Mcswiggins. "You're not gonna like this one," said the Arbiter.
 
 The beast went straight for Dog with a savage bite, but Snoop spent his boon, threw himself in front and kicked Dog clear. "Dog, I've got you!" He took the hit and stabbed the monster in the mouth for good measure. "A hero point for the animals!" cried the Grandmaster. Snoop proposed a truce: "All right, Mcswiggins, fuck this dude, and we can finish our fight later." Mcswiggins had "an idea brewing in the old brain box." He would ride it. The Reverser grabbed him, used his own momentum against him and hurled him at Snoop. It missed Snoop, and the dwarf hit the floor. "He really pulled the reversal on that one," noted the Arbiter. Wounded pride got the better of Mcswiggins, who cursed the creature and forgot Snoop existed entirely. That left Snoop free to drive his spear up into the Reverser's throat with a perfect strike, ending it while it was busy with the dwarf.
 
 ### Down the Toilet
 
-With the monster dead, the two combatants took five. Mcswiggins handed Snoop his flask: "Hold my flask. I'm going to go rock a piss into that hole." Snoop politely declined to stab him in the back, shared the booze with Dog, and gave him a corner pep talk ("Good job, Doug"). The Arbiter, horrified, reminded everyone that this was not a toilet. "We have HR." Snoop even waited for Mcswiggins to work himself back into a rage before they resumed.
+With the monster dead, the two combatants took five. Mcswiggins handed Snoop his flask: "Hold my flask. I'm going to go rock a piss into that hole." Snoop politely declined to stab him in the back, shared the booze with Dog, and gave him a corner pep talk ("Good job, Doug"). The Arbiter reminded everyone that this was not a toilet. "We have HR. You can't just whip your dick out anywhere in this arena." Snoop even waited for Mcswiggins to work himself back into a rage before they resumed.
 
-Then he charged and slammed his shield into the dwarf. "Down the toilet! Put that piece of shit where he belongs!" Mcswiggins caught the rim, his hands now damp for reasons best left unexamined. Snoop climbed off Dog and grabbed his hands for a moment straight out of a lion king: "**Long live the king!**" Neither could overpower the other, and the two ended up holding hands with fingers interlocked. Dog latched onto the dwarf's feet, Mcswiggins slipped, and he decided he would at least take one of them with him.
+Then he charged and slammed his shield into the dwarf. "Down the toilet! Put that piece of shit where he belongs!" Mcswiggins caught the rim, his hands now soaked with a little bit of dribble from where his piss had hit it. Snoop climbed off Dog and grabbed his hands for a moment straight out of a lion king: "**Long live the king!**" Mcswiggins held on, and the two ended up holding hands with fingers interlocked. Dog latched onto the dwarf's feet, Mcswiggins slipped, and he decided he would at least take one of them with him.
 
-He fell into the abyss, "through space and time, what feels like forever," at peace: "I peed so far, and fought so hard, and in the end, it was fucking awesome." Then Snoop clapped, and Dog popped back to his side. Mcswiggins was "no longer at as much peace, but whatever." The Grandmaster ordered the Arbiter to clean up the mess, and he dove headfirst into the hole with a plunger in hand.
+He fell into the abyss, "through space and time, what feels like forever," at peace: "I peed so far, and fought so hard, and in the end, it was fucking awesome." Then Snoop clapped, and Dog popped back to his side. Mcswiggins was "no longer at as much peace, but whatever." After all, "It wouldn't be the first time I landed in a pool of my own piss." The Grandmaster ordered the Arbiter to clean up the mess, and he dove headfirst into the hole with a plunger in hand.
 
 The Grandmaster flew down, took Snoop's hand (he had to reach way up for it) and spun him through the sky "like a carnival" as the Acolytes chanted "Snoop & Dog! Snoop & Dog!" Fresh air returned and the farts dissipated, which the Grandmaster called a victory on its own.
 
@@ -104,7 +104,7 @@ Then came a darker scene. Still falling through the timeless abyss, Mcswiggins f
 - Snoop fed both bags of mushrooms to Gerald, who got high and handed over a pair of golden lions.
 - Mcswiggins slam-dunked a lion into the Box of Chaos, and Gerald ate it.
 - The Grandmaster retired the drunk, useless second lion to sit beside Doug, who nursed it.
-- Rivals turned allies to kill the Aeorian Reverser, after Mcswiggins tried and failed to ride it.
+- Rivals called a truce against the Aeorian Reverser; Mcswiggins tried and failed to ride it, and Snoop killed it.
 - "Long live the king!" ended with Snoop and Mcswiggins holding hands over the hole before the dwarf fell.
 
 ## Memorable Quotes
@@ -114,7 +114,7 @@ Then came a darker scene. Still falling through the timeless abyss, Mcswiggins f
 - **Mcswiggins:** "Gotcha. They said to the death."
 - **Mcswiggins:** "You merely adopted the farts. I was born in them. Molded by them."
 - **Gerald:** "Lions can either be ferocious or they can fit in your pocket. You can't have both."
-- **The Arbiter:** "This is an informal fight to the death, but… this is not a toilet… We have HR."
+- **The Arbiter:** "This is an informal fight to the death, but… this is not a toilet… We have HR. You can't just whip your dick out anywhere in this arena."
 - **Mcswiggins:** "I peed so far, and fought so hard, and in the end, it was fucking awesome. I'm at peace."
 - **The Arbiter:** "You stay right there. I'm going to have a use for you very soon."
 

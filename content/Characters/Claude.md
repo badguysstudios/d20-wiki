@@ -6,7 +6,7 @@ first_appearance: S7E2 — Under the Oil Tree — Big Business v Bog Boy
 status: alive
 affiliations:
 - The Dread Fortress
-summary: The small, bearded, possibly French janitor of the Dread Fortress, whom Thea is sure is an evil wizard and who regularly beats the Arbiter at chess.
+summary: The small, bearded, French janitor of the Dread Fortress, whom Thea is sure is an evil wizard and who plays chess with the Grandmaster better than the Arbiter does.
 tags:
 - character
 ---
@@ -23,9 +23,9 @@ When the Arbiter wondered whether Thea thought Claude was a wizard, the Grandmas
 
 ### [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]]
 
-Only two episodes later, the woman who hadn't known Claude existed was playing chess with him in her throne room. The usual seat at the end of the beautiful purple rug had been moved aside. In the middle of the room stood a table, and across from the Grandmaster sat Claude: tall blue hat slightly askew, bushy beard, and tiny feet that couldn't reach the edge of his chair.
+Only two episodes later, the woman who hadn't known Claude existed was playing chess with him in her throne room. Instead of the usual seat at the end of the beautiful purple rug, a table stood in the middle of the room, and across from the Grandmaster sat Claude: tall blue hat slightly askew, bushy beard, and tiny feet that couldn't reach the edge of his chair.
 
-The Arbiter wanted to know why she bothered playing with the janitor. The Grandmaster was blunt: "He's actually pretty good at it. He's better than you." She added that the Arbiter hadn't beaten her in fifty years, or perhaps fifty-two. The Arbiter protested that Claude "doesn't even speak English." The Grandmaster had an answer for that too: "Everybody knows the French play chess exceptionally well… I think it's a requirement. That and drinking wine." She then admitted she was only assuming: "I think Claude is French." When she loses to him, she sends him back to clean the toilet, and so Claude vanished with a poof.
+The Arbiter wanted to know why she bothered playing with the janitor. The Grandmaster was blunt: "He's actually pretty good at it. He's better than you." She added that the Arbiter hadn't beaten her in fifty years, or perhaps fifty-two. The Arbiter protested that Claude "doesn't even speak English." The Grandmaster had an answer for that too: "Everybody knows the French play chess exceptionally well… I think it's a requirement. That and drinking wine." She then admitted she was only assuming: "I think Claude is French." When she loses to him, she sends him back to clean the toilet. This time, too, he was ordered off to clean the toilet, and Claude vanished with a poof.
 
 ### [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
 
@@ -33,15 +33,15 @@ Thea's feud with Claude did not cool off. By this episode she was calling him in
 
 ## Personality and Abilities
 
-Claude is small, with a bushy beard, tiny feet and a tall blue hat that never sits quite straight. He is French, or at least everyone assumes he is, and he speaks only a single phrase: "huh huh." His job is cleaning the Dread Fortress, toilets included.
+Claude is small, with a bushy beard, tiny feet and a tall blue hat that never sits quite straight. He is French, and he speaks only a single phrase: "huh huh." His job is cleaning the Dread Fortress, toilets included.
 
-His one confirmed talent is chess. He is good enough to beat the Arbiter and to give the Grandmaster a real game. Whether he has any magic is an open question. The Grandmaster believes he has none, but no one has ever given him the magic test. Thea is certain he is a wizard, that he is evil, and that he steals the office lunches.
+His one confirmed talent is chess. The Grandmaster says he is pretty good at it, better than the Arbiter, and she sometimes loses to him. Whether he has any magic is an open question. The Grandmaster believes he has none, but no one has ever given him the magic test. Thea is certain he is a wizard, that he is evil, and that he steals the office lunches.
 
 ## Relationships
 
 - [[Thea]]: His self-appointed nemesis. She casts him as the evil wizard villain of *Thea Teaches*, blames him for the lunch thefts, calls him incompetent, and once removed his arms.
 - [[Grandmaster Elusia Skypiercer|The Grandmaster]]: His employer and chess partner. She rates him above the Arbiter at the board and sends him back to the toilets when she loses.
-- [[The Arbiter]]: Doubts Claude is worth a magic test or a chess game, even though Claude is the better player.
+- [[The Arbiter]]: Doubts Claude is worth a magic test or a chess game, even though the Grandmaster says Claude is the better player.
 
 ## Memorable Quotes
 

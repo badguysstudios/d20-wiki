@@ -11,7 +11,7 @@ played_by:
 - 'Veronica: Mendarii'
 winner: Shared victory
 arena: The bazaar, a desert market town under several suns
-summary: Rosa, a halfling in a bee costume, and Veronica, a half-elf bladesinger, turned a desert brawl into a love story with the Box of Chaos and a sneak attack on the Arbiter. Neither died. The Grandmaster hired both as her new bee farmers, and the Arbiter erased Veronica's memories of her fiery new beloved, Gerald.
+summary: Rosa, a halfling in a bee costume, and Veronica, a half-elf bladesinger, turned a desert brawl into a love story with the Box of Chaos and an attack on the Arbiter. Neither died. The Grandmaster hired both as her new bee farmers, and the Arbiter erased Veronica's memories of her fiery new beloved, Gerald.
 tags:
 - episode
 youtube: https://youtu.be/5isJ1FM-NtE
@@ -20,7 +20,7 @@ canon_order: 32
 
 [Watch on YouTube](https://youtu.be/5isJ1FM-NtE)
 
-A sunny, one-eyed halfling in a bee costume met a cool, blue-haired half-elf with tricks up her wrist wraps in a desert bazaar the Grandmaster had just acquired. What followed was a game of tag, a seduction of [[The Box of Chaos|the Box of Chaos]], a whirlwind romance with a being made of fire, and a whip that dragged [[The Arbiter|the Arbiter]] off his perch. **No one died.** The two champions ended the night employed, and one of them ended it heartbroken without knowing why.
+A sunny, one-eyed halfling in a bee costume met a cool, blue-haired half-elf with tricks up her wrist wraps in a desert bazaar the Grandmaster had just acquired. What followed was a game of tag, a seduction of [[The Box of Chaos|the Box of Chaos]], a whirlwind romance with a being made of fire, and a whip that dragged [[The Arbiter|the Arbiter]] off his perch. **No one died.** The two champions ended the night employed, and one of them ended it knowing something had been taken from her, but not what.
 
 ## The Story
 
@@ -52,11 +52,11 @@ The Acolytes wanted chaos before anyone had moved. The Grandmaster held Doug ove
 
 Rosa opened by disguising herself as a giant bee in "the cutest little bee costume," complete with stinger and shimmery wings. She strolled downstairs as if coming from "a bee breakfast with my bee family" and began a "bee mating ritual dance." It was the Grandmaster's Zumba steps plus a lot of abdomen gyration. The Acolytes summoned the Box of Chaos about 80 feet away in a pillar of yellow and pink flame. The box grants magic items in exchange for a sacrifice.
 
-Veronica, "betrayed by Doug the Pug," scooped up some dirt, lengthened her stride with a spell and began power walking. She tried to parkour toward the box, leapt from a wagon onto a canvas tarp and ripped straight through it, landing on her backside. "She's beauty. She's grace," said the Grandmaster. "She falls right onto her face," Veronica finished. Meanwhile, Doug turned around and farted at the Arbiter. "Don't trust Doug," the Arbiter warned. "He's a jerk."
+Veronica, "betrayed by Doug the Pug," scooped up some dirt, lengthened her stride with a spell and began power walking. She tried to parkour toward the box, leapt from a wagon onto a canvas tarp and ripped straight through it, landing on her ass. "She's beauty. She's grace," said the Grandmaster. "She falls right onto her face," Veronica finished. Meanwhile, Doug turned around and farted at the Arbiter. "Don't trust Doug," the Arbiter warned. "He's a jerk."
 
-Still dancing, Rosa had a moment of perfect clarity, a natural 20 in which she "saw the entire history of the universe." She also saw Veronica fall through the tarp and pretend it hadn't happened. Rosa tried to sell her opponent on the box: "If you get in this box, you get a lot of presents." Why didn't Rosa take it herself? "Because I'm a giver." Veronica didn't buy it. So Rosa pulled poison from "my special place," coated a dagger and stuck it to the back of her costume as a stinger. "I'm a believer now," said the Arbiter.
+Still dancing, Rosa had a moment of perfect clarity, a natural 20 in which she saw "the entire history of the universe." She also saw Veronica fall through the tarp and pretend it hadn't happened. Rosa tried to sell her opponent on the box: "If you get in this box, you get a lot of presents." Why didn't Rosa take it herself? "Because I'm a giver." Veronica didn't buy it. So Rosa pulled poison from "my special place," coated a dagger and stuck it to the back of her costume as a stinger. "I'm a believer now," said the Arbiter.
 
-Veronica walked up unarmed, joined the dance and patted Rosa's fuzzy shoulder like an old pal. Rosa saw right through her. The pat had picked up static from the costume, though. Veronica turned it into a crackling shock and passed the "it" to Rosa with little blue sparks and a whispered "it." "It's not about the damage," she explained, "it's about… the little love tap." Then she began to serenade Rosa with her bladesong, wearing nothing but "all, all clothes, baby," her blue hair "a small oasis in this desert." A hot wind carried in the smell of camel dung. Rosa wondered whether they could give that to the box.
+Veronica walked up unarmed, joined the dance and patted Rosa's fuzzy shoulder like an old pal. Rosa saw right through her. The pat had picked up static from the costume, though. Veronica turned it into a crackling shock and passed the "it" to Rosa with little blue sparks and a whispered "it." "It's not about the damage," she explained, "it's about… the little love tap." Then she began to serenade Rosa with her bladesong, wearing nothing but "all, all clothes, baby," her blue hair "a small oasis in this desert." A hot wind carried in the smell of camel shit from somewhere in the city. "Do you smell that hot camel poop?" Rosa asked, and wondered whether they could give that to the box.
 
 ### Into the Box
 
@@ -64,7 +64,7 @@ Rosa lassoed Veronica with a rope and reeled her in like "the fishing dance." Ve
 
 Inside was an endless chasm of pink and yellow flames that were not hot. Because Veronica had not jumped in willingly, a whisper rose from the depths: "Would you like to make a bargain?" She asked what it was offering. It asked whether she had any use for her soul. She offered rations, a hammer, and a whip she'd be "actually really sad" to lose. The box was peckish: "Give me a handful of nuts." A fiery hand took them.
 
-Then Veronica decided she "would love to seduce the Box of Chaos." The box did not pull away. "It's been a long time since anybody's touched me like that," it said. "I know a lot more than that, baby," she answered. A second fiery hand offered a **Ring of Evasion**. "He liked it, so he put a ring on it," the Grandmaster quipped, crediting the joke to an Acolyte in chat. Veronica asked to wrap things up because she had "a hot date later." The box spat her out with a faint "call me," and she put on the ring with a finger gun.
+Then Veronica decided she "would love to seduce the Box of Chaos." "You already gave it your nuts," said the Arbiter. "You might as well seduce it." The box did not pull away. "It's been a long time since anybody's touched me like that," it said. "I know a lot more than that, baby," she answered. A second fiery hand offered a **Ring of Evasion**. "He liked it, so he put a ring on it," the Grandmaster quipped, crediting the joke to an Acolyte in chat. Veronica asked to wrap things up because she had "a hot date later." The box spat her out with a faint "call me," and she put on the ring with a finger gun.
 
 Rosa was rewarded for sacrificing her opponent, which the Grandmaster called "a first and rather grand." She received a pale lavender **Ioun Stone of Absorption**, which orbited her head. Veronica suggested matching jewelry.
 
@@ -82,21 +82,21 @@ Then a building's double doors burst open and a massive teal hamster ball rolled
 
 ### The Deck Giveth and Taketh
 
-From her bee, Rosa slingshotted a ball of bees at Veronica: a bee cannon. Then she drew from the Deck and pulled **the Talons**, which disintegrated every magic item she carried, including the Ioun stone and the Deck itself. Her faith in the bee wavered for a moment and she realized it was a horse, but she chose to believe again. "Rosa's an optimist," she said. "I'm looking at the deck half full." Veronica felt bad about the difference in their fortunes: "I got a tattoo, a new lover, a cool ring." Rosa replied, "I have a bee costume and a big bee."
+From her bee, Rosa slingshotted a ball of bees at Veronica: a bee cannon. Then she drew from the Deck and pulled **the Talons**, which disintegrated every magic item she carried, including the Ioun stone and the Deck itself. Her faith in the bee wavered for a moment and she realized it was a horse, but she chose to believe again. "Rosa's an optimist," she said. "So, I'm looking at the deck half full." Veronica felt bad about the difference in their fortunes: "I got a tattoo, a new lover, a cool ring." Rosa replied, "I have a bee costume and a big bee."
 
 Veronica turned out not to be allergic to bees. She conjured magical armor in the shape of a translucent light-blue beekeeper suit of elven weave, so fine that "when you move, you look like the river." She and Gerald backed away in a slow-motion beach run. The Arbiter's luck was poor again, and the Grandmaster told him, "Yet again, you disappoint me." Veronica held Gerald's face: "You can never disappoint me, Gerald."
 
-Rosa tossed an oil flask at Veronica's feet ("I'm so happy for your new found love") and had a bee drop a lit match on it. Gerald dove in slow motion to shield his beloved, then remembered he was made of fire. "You look good, babe," Veronica told him. "Hot, even." Then she turned serious: "It's been a lot of fun dancing around each other. But I think it's time we finish this." She plucked a strand of her hair, which became a ray of frost, and followed it with her rapier. Rosa was cut and delighted: "Ow! God, that's so cool! How do you do that?"
+Rosa tossed an oil flask at Veronica's feet ("I'm so happy for your new found love") and had a bee drop a lit match on it. Gerald dove in slow motion to shield his beloved, then remembered he was made of fire. "You look good, babe," Veronica told him. "Hot, even." Then she turned serious: "You know, darling, it's been a lot of fun dancing around each other. But I think it's time we finish this." She plucked a strand of her hair, which became a ray of frost, and followed it with her rapier. Rosa was cut and delighted: "Ow! God, that's so cool! How do you do that?"
 
 ### Sandstorm
 
 The Arbiter half-heartedly waved a hand. All the sand in the desert shot into the sky, blotting out the suns and sweeping Rosa's bee away on the wind. The Box of Chaos tumbled off like a tumbleweed. "You have the tattoo," the Grandmaster consoled Veronica. "He'll always be with you."
 
-Rosa offered an apology in advance: "You scare the shit out of me. But I think you're really cool. And I'm really sorry for what I'm about to do." She ran between Veronica's legs and slashed at both heels. The poisoned "butt dagger" landed, and Veronica's body took the full brunt of the poison. "Turns out you're allergic to poison," said the Arbiter, "but not bees." Veronica slashed back as Rosa fled, from shoulder down to heel. "A heel for a heel." Rosa took shelter in a stairwell.
+Rosa offered an apology in advance: "I'm not gonna lie, you scare the shit out of me. But I think you're really cool. And I'm really sorry for what I'm about to do." She ran between Veronica's legs and slashed at both heels. The poisoned "butt dagger" landed, and Veronica's body took the full brunt of the poison. "Turns out you're allergic to poison," said the Arbiter, "but not bees." Veronica slashed back as Rosa fled, from shoulder down to heel. "A heel for a heel." Rosa took shelter in a stairwell.
 
 ### Up the Ledge
 
-Veronica followed her into the storm with a proposal: why not band together? Rosa went further: "What if we tried to overthrow?" She whistled for her lost mount, which came back. "This is Steve, the bee." With a helping hand from Rosa, Veronica climbed to a rooftop just below the Grandmaster and the Arbiter, who was eating nachos. Veronica sized them up ("Which one of you looks like a weak bitch?") and decided they both looked like seasoned warriors. She attacked the Arbiter anyway, out of greater respect for the Grandmaster.
+Veronica followed her into the storm with a proposal: why not band together? Rosa went further: "What if we tried to overthrow?" She called for her lost mount, which came back. "This is Steve, the bee." With a helping hand from Rosa, Veronica climbed to a rooftop just below the Grandmaster and the Arbiter, who was eating nachos. Veronica sized them up ("Which one of you looks like a weak bitch?") and decided they both looked like seasoned warriors. She attacked the Arbiter anyway, out of greater respect for the Grandmaster.
 
 With a perfect crack of her sentimental whip, Veronica wrapped the Arbiter's ankle and **pulled him off the ledge**. The Gerald tattoo licked up her arm and along her blade toward his chest, but **the Arbiter caught the sword bare-handed**:
 
@@ -125,7 +125,7 @@ Veronica warned that anyone who thought she would quietly settle into a life of 
 ## Notable Moments
 
 - The Grandmaster took up **Zumba** and rigged Doug's choice to start a game of tag.
-- Veronica **seduced the Box of Chaos** with a handful of nuts and came out with a ring, a tattoo and a boyfriend named Gerald.
+- Veronica **seduced the Box of Chaos** with a handful of nuts and came out with a ring; a tattoo and a boyfriend named Gerald followed when the box exploded.
 - Rosa drew **the Talons** from the Deck of Many Things, which destroyed the Deck and everything else magical she owned.
 - Veronica's whip **yanked the Arbiter off his ledge**, and he caught her blade bare-handed.
 - Rosa's job interview to replace the Arbiter failed on a natural 1, and both champions were hired as **bee farmers** instead.

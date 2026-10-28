@@ -50,11 +50,11 @@ Then came the stakes. "If you fail me, you will cease to exist," the Arbiter tol
 
 The arena was a deserted fortress locked in ice, with a courtyard, bridges between keeps, 15-foot walls and 25-foot towers. If you stood still too long your fingers went numb. If you ran too fast you slid out of control. The Grandmaster rose to the grandstands in a snow tornado and took her seat beside [[Doug the Pug|Doug]], who wore a small crown for the occasion. Veronica asked whether Doug could be Grandmaster instead. The Grandmaster said they had considered it, but "Doug likes to live the responsible-free life."
 
-[[The Acolytes]] cheered louder than ever, with a new note of desperation, because everything was on the line. The Arbiter explained the rules of the war. Each win earned a point, and the Acolytes would also vote for the team that put on the best show. As a ceremonious perk of his title, the Arbiter gave his general a head start. Veronica moved first anyway.
+[[The Acolytes]] cheered louder than ever, with a new note of desperation, because everything was on the line. The Arbiter explained the rules of the war: after each Deathmatch, the Acolytes would vote not just for the team that won but for the team that put on the best show. As a ceremonious perk of his title, the Arbiter gave his general a head start. Veronica moved first anyway.
 
 ### Team Cow
 
-Veronica wrapped herself in a protective blue aura that melted the falling snow, drew her rapier and began her bladesong. Then the Acolytes demanded chaos. A swirl of blue-green snow wrapped every champion and forced them into new shapes. Ralzamon and Glub Glub became the cutest cows imaginable, with long fluffy eyelashes and soft ears ("Team cow, yeah!"). Toddleheim became a cockatrice. Veronica became a giant badger, and lost her bladesong in the process.
+Veronica wrapped herself in a protective blue aura that melted the falling snow, drew her rapier and began her bladesong. Then the Acolytes demanded chaos. A swirl of blue-green snow wrapped every champion and forced them into new shapes. Ralzamon and Glub Glub became the cutest cows imaginable, with long fluffy eyelashes, soft ears and giant swinging udders ("Team cow, yeah!"). Toddleheim became a cockatrice. Veronica became a giant badger, and lost her bladesong in the process.
 
 Ralzamon was a cow teetering on a 15-foot icy ledge. The tactical move was to stand still. "That ain't me." He tiptoed along the ledge like a "beautiful little ballerina" and "politely" gored the badger with a perfect roll. The blow destroyed the badger form outright, which only meant he was now facing a bladesinger instead. Then the cow lost its footing and fell 25 feet into the tower, mooing in slow motion. "Don't leave any cow pies in my fortress," said the Grandmaster.
 
@@ -64,7 +64,7 @@ The cockatrice nosedived after the cow, missed, and hit the ground hard. Ralzamo
 
 Veronica refused to waste anything clever on "stabbing a cow." She snowboarded down the tower on a loose plank and skewered the Glub Glub cow back into his own shape, then pommel-smacked him in the face. "Beekeeper could barely sting," he grumbled.
 
-Ralzamon threw open the tower door and tried to freeze both foes rigid. Toddleheim shrugged it off. Veronica locked up completely. The two casters traded threats. "I will learn the color of your blood," Ralzamon promised, adding that he'd lost a body before: "That was my transformation! And then the time I got my ass kicked, but that doesn't count." Toddleheim tried to frighten Glub Glub, who was immune: "He just doesn't have a brain for that to work on," said the Grandmaster. Glub Glub was nonetheless "in glass case of emotion."
+Ralzamon threw open the tower door and tried to freeze both foes rigid. Toddleheim shrugged it off. Veronica locked up completely. The two casters traded threats. "I will learn the color of your blood," Ralzamon promised, adding that he'd lost a body before: "That was my transformation! And then the time I got my ass kicked, but that doesn't count." Toddleheim tried to frighten Glub Glub, who shrugged it off: "He just doesn't have a brain for that to work on," said the Grandmaster. Glub Glub was nonetheless "in glass case of emotion."
 
 Then Toddleheim threw his hat to the floor. His eyes glowed yellow, his bones cracked and stretched, and his knees bent backwards. He became **a werewolf**, followed by "the cutest rawr," and kept his wizardry. Glub Glub ignored him and went for the helpless Veronica, landing a perfect blow with his great club. "Only your team keeps rolling nat 20s," the Grandmaster complained. "That's because they're mine!" said the Arbiter.
 
@@ -72,15 +72,15 @@ The sound of Veronica's cracking bones carried to something listening. **[[The B
 
 ### Good Boy
 
-Ralzamon wanted no part of a werewolf. He drew the wretched minds of the fortress's long-dead from their bones and levitated 20 feet into the air, "looking very ominous as he chickens out." Toddleheim's snapping bite missed when he slipped and fell on his backside. His werewolf form had never been in snow before.
+Ralzamon wanted no part of a werewolf. He drew the wretched minds of the fortress's long-dead from their bones and levitated 20 feet into the air, "looking very ominous as he chickens out." Toddleheim's snapping bite missed when he slipped and fell on his ass. His werewolf form had never been in snow before.
 
-Toddleheim misted behind Glub Glub and clawed him, but Glub Glub only asked him to scratch "a little higher next time." Glub Glub had always wanted a dog. He gave the werewolf a "love tap," told him he was a good boy, and threw a stick. Toddleheim, to his own horror, went and fetched it. "Glub Glub, new dog… good pup, good pup. Now bring back."
+Toddleheim misted behind Glub Glub and clawed him, but Glub Glub only asked him to scratch "a little higher next time." Glub Glub had always wanted a dog. He gave the werewolf a "love tap," told him he was a good boy, and threw a stick. Toddleheim, to his own horror, went chasing after it. "Glub Glub, new dog… good pup, good pup. Now bring back."
 
 ### Gerald and Veronica
 
-Veronica caught her second wind and jolted Glub Glub's backside with a crackling shock ("20,000 volts straight to the asshole," said the Arbiter), though the shadow of a great bear rose over him and blunted it. Then she walked to the box.
+Veronica caught her second wind and jolted Glub Glub's ass with a crackling shock ("20,000 volts straight to the asshole," said the Arbiter), though the shadow of a great bear rose over him and blunted it. Then she walked to the box.
 
-"Veronica! You never called!" Gerald said. She had no idea who he was. He reminded her that he had given her a tattoo, but when she showed it to him there was no name on it. Her memory of him seemed to have been wiped clean. "I have a forgettable face," he offered. "You have a perfectly fine face," she said. "Trust me, I wouldn't forget a face like yours." When she handed over her Ring of Evasion as an offering, **she touched his hand exactly the way she had the day they first met**, without knowing it. He shuddered.
+"Veronica! You never called!" Gerald said. She had no idea who he was. He reminded her that he had given her a tattoo, but when she showed it to him there was no name on it. Her memory of him seemed to have been wiped clean. "I have a forgettable face," he offered. "You have a perfectly fine face," she said. "Trust me, I wouldn't forget a face like yours." He explained how it worked: "Well, you have to put something inside me. And then I give you something." Glub Glub yelled, "Hey, quit playing with your box and come fight me." When she handed over her Ring of Evasion as an offering, **she touched his hand exactly the way she had the day they first met**, without knowing it. He shuddered.
 
 A column of fire shot from the box, and Gerald held out a silver **Horn of Valhalla**. "This is my horn. You just have to blow on it." "Are you saying you're horny for me?" Glub Glub was confused: "I thought horns go in boxes." Before the lid closed, Veronica told Gerald to call her if things worked out, and assured him the Grandmaster would keep him on. Gerald admitted he might be out of a job soon. As he closed, she noticed a G and a V engraved on his side, and thought that was weird.
 
@@ -88,9 +88,9 @@ A column of fire shot from the box, and Gerald held out a silver **Horn of Valha
 
 The Grandmaster's chaos made the sky turn on everyone with golf-ball hail that grew to basketball size. Only Ralzamon escaped, shielded by his unholy talisman. He fired a lance of psychic power at Veronica to stop her from blowing the horn. There were, after all, "enough members of this fight with poor personal hygiene as it is." She shrugged off the whole blast. "Veronica smells incredible."
 
-Toddleheim returned with the stick while Glub Glub knelt and clapped. He splashed him with acid and then slapped him across the face with the stick. "It's the principle. I ain't fetching no sticks for nobody." Glub Glub was patient with his new pet: "No, bad dog… You just drop at feet. We try something different." At some point Toddleheim also ended up clutching Boney, Glub Glub's tiny skeleton companion, and was utterly charmed by it.
+Toddleheim returned with the stick while Glub Glub knelt and clapped. He splashed him with acid and then bitch-slapped him across the face with the stick. "It's the principle. It's not the damage, it's the principle. I ain't fetching no sticks for nobody." Glub Glub was patient with his new pet: "No, bad dog… You just drop at feet. It's okay. We try something different." At some point Toddleheim also ended up clutching Boney, Glub Glub's tiny skeleton companion, and was utterly charmed by it. Glub Glub scratched the werewolf under the jaw ("good boy"), walked past him and swung at Veronica: "Remember when you turned my brown eye blue? Time to repay."
 
-Then the Arbiter lost patience. "This is fucking boring!" He snapped his fingers, and the glacier on the mountain above came down as **an avalanche**. Veronica outran it like an elf skating on snow. Everyone else was swept out of the castle into the forest below, and Ralzamon was slammed out of the sky. The cold bit hard there, and Toddleheim's "sensitive paws" suffered until the Acolytes cheered to warm him, granting him invisible mittens.
+Then the Arbiter lost patience. "This is fucking boring!" He snapped his fingers, and the glacier on the mountain above came down as **an avalanche**. Veronica outran it like an elf skating on snow. Everyone else was swept out of the castle into the forest below, and Ralzamon was slammed out of the sky. The cold bit hard there, and Toddleheim's "sensitive paws" suffered until the Acolytes cheered to warm him, granting him "nice little mittens for his snow paws."
 
 ### The Berserkers
 
@@ -104,13 +104,13 @@ Toddleheim finally shook off Boney's spell ("I now know who I am") and set the s
 
 Ralzamon grabbed the werewolf by the face and blasted him point-blank. Toddleheim shrank back into a dwarf, kneeling and dying in the snow. Veronica leapt into a tree and turned Ralzamon's own trick on Glub Glub, freezing him rigid. "Glub Glub has always wanted to be held," he narrated, "but I guess closest it will ever come." The berserkers cut into him while he was paralyzed. His rage kept him standing on a single sliver of life.
 
-Ralzamon chanted "It's not Victoria" to himself and threw everything into one last psychic lance at Veronica. She endured it. "I'll see you in hell," he said. Veronica clung to her tree with blood running from her nose ("Not today") and set Ralzamon's cloak ablaze with an orb of fire. A berserker, inspired by the flames, cut him down. He fell to his knees, eye to eye with the bleeding Toddleheim. "Sucks, don't it?"
+Ralzamon chanted "It's not Victoria" to himself and threw everything into one last psychic lance at Veronica. She endured it. "I'll see you in hell," he said. Veronica clung to her tree with blood running from her nose ("Not today") and set Ralzamon's cloak ablaze with an orb of fire. A berserker, inspired by the flames, cut him down. He fell to his knees, eye to eye with the bleeding Toddleheim. "Sucks, don't it?" said Toddleheim.
 
 Ralzamon left whatever luck his team had left to Glub Glub. With the flames feasting on his flesh, he whispered to the dwarf beside him:
 
 > "Not more than pawns in their game. And not more shall we ever be." (Ralzamon)
 
-His ghost rose and drifted over the field. Glub Glub heard that his friend had died and shed a single tear through his paralysis. He broke free, smiled one last time at the berserkers, and told them they had all fought well. Veronica hopped down from her tree. "All's fair in love and war." A ray of frost dropped him into the snow. Boney ran to him, jumped onto his chest and sobbed as the darkness came.
+His ghost rose and drifted over the field. Glub Glub heard that the ally he had hoped to befriend had died and shed a single tear through his paralysis. He broke free, smiled one last time at the berserkers, and told them they had all fought well. Veronica hopped down from her tree. "All's fair in love and war." A ray of frost dropped him into the snow, his blood pooling and staining it. Boney ran to him, jumped onto his chest and sobbed as the darkness came.
 
 The Arbiter flared his wings and glared at the Grandmaster. He flew down and knelt by Glub Glub's head. "You're a fucking disappointment." **Then he curb-stomped him**, and the last thing Glub Glub saw was the Arbiter's boot. "This isn't over," he told the Grandmaster, pointing on his way out. "See you next week."
 
@@ -118,12 +118,12 @@ The Grandmaster descended, and Toddleheim woke, hurting but alive, beside Veroni
 
 ## Dried Blood
 
-In the after-show report, the Arbiter insisted his team only lost because Gerald helped Veronica, and claimed Ralzamon was "one move away from ending the whole fight." The Grandmaster refused to fault anyone for using the box. She credited Toddleheim for soaking up attacks while Veronica reached it: "it's strategy that won the day." The Arbiter shrugged that the champions were dead anyway, though he hoped Glub Glub, who "touched the hearts of the entire crowd," would win him votes. The Grandmaster said she gave his champions more respect than he did. "Respect is for winners," he replied.
+In the after-show report, the Arbiter insisted his team only lost because Gerald helped Veronica, and claimed Ralzamon was "one move away from ending the whole fight." The Grandmaster refused to fault anyone for using the box. She credited Toddleheim for soaking up attacks while Veronica reached it: "it's strategy that won the day." The Arbiter shrugged that the champions were dead anyway, though he hoped Glub Glub, who "touched the hearts of the entire crowd," would win him votes. The Grandmaster said she gave his champions more credit than he did. "Respect is for winners," he replied.
 
 ## Notable Moments
 
 - Ralzamon, as a cow, "politely" gored Veronica with a perfect roll, then fell 25 feet off a tower, mooing in slow motion.
-- Toddleheim became a werewolf, and Glub Glub immediately adopted him as a dog and made him fetch a stick.
+- Toddleheim became a werewolf, and Glub Glub adopted him as a dog and sent him chasing a stick.
 - Gerald pleaded with Veronica, who had no memory of him, and she unknowingly touched his hand the way she did when they first met.
 - The Arbiter grew bored and buried the fortress under an avalanche with a snap of his fingers.
 - Five berserkers named Bug Bug, Slug Slug, Grug Grug, Shazzle and Mazzle leapt off a mountain to settle the fight.

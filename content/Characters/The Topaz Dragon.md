@@ -27,7 +27,7 @@ The Topaz Dragon appeared in [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon 
 
 > "I'm the aspect. I'm not the same as her up there… I can die down here."
 
-She claimed a lair in a tower on a remote island at sea, where she kept watch over a giant squid. In the fight she worked the water around her like a weapon. She redirected its flow, spun up a whirlpool, and slipped across the battlefield by teleporting with the power of her mind. She also hatched an egg and bonded with the newborn, **Junior Topaz**, so she did not fight the battle royale entirely alone.
+She claimed a lair in a tower on a remote island at sea, where she kept watch over a giant squid. In the fight she worked the water around her like a weapon. She redirected its flow, spun up a whirlpool, and slipped across the battlefield by teleporting with the power of her mind. She also hatched an egg and bonded with the newborn, **Junior Topaz**.
 
 Her biggest moment came against the Hollow Dragon. **She killed him and crushed his skull**, removing one of the four great wyrms from the fight. Her run ended when the Amethyst Dragon unleashed a singularity breath on her. The Grandmaster's aspect died, and the fish ate what was left of her.
 
@@ -41,7 +41,7 @@ Her powers leaned toward the sea and the mind. She could bend water to her will,
 
 - [[Grandmaster Elusia Skypiercer]]: The original; the Topaz Dragon was her Halloween aspect, made from her shadow.
 - [[The Arbiter]]: Drew the Grandmaster's shadow out and transformed it into the Topaz Dragon.
-- **Junior Topaz**: The young dragon she hatched and bonded with during the battle.
+- **Junior Topaz**: The young dragon she hatched and bonded with.
 - **The Hollow Dragon**: The rival she killed, crushing his skull.
 - **The Amethyst Dragon**: The rival whose singularity breath killed her.
 

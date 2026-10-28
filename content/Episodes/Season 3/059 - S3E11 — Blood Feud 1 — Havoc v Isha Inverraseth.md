@@ -11,7 +11,7 @@ played_by:
 - 'Isha Inverraseth: blackgirlmage'
 winner: No winner
 arena: The Grandmaster's foggy, moonlit dark city
-summary: Childhood friends turned blood enemies, the werewolf Havoc and the vampire Isha fought through a burning hut, a knockoff genie and an ambush by Havoc's own pack. The Grandmaster froze them mid-killing-blow and left the feud unresolved.
+summary: Childhood friends turned blood enemies, the werewolf Havoc and the vampire Isha fought through a burning hut, a knockoff genie and the arrival of Havoc's own pack. The Grandmaster froze them mid-killing-blow and left the feud unresolved.
 tags:
 - episode
 youtube: https://youtu.be/40qW36Pkg3I
@@ -20,7 +20,7 @@ canon_order: 59
 
 [Watch on YouTube](https://youtu.be/40qW36Pkg3I)
 
-A werewolf alpha and the vampire who has hunted her for years met in the Grandmaster's silent, fog-choked "dark city." It should have been a simple monster mash. Instead **Havoc** and **Isha Inverraseth** turned out to be childhood best friends bound by a blood oath, torn apart on the night Havoc's pack slaughtered their village. Between burning huts, pulled teeth and a genie who hated being called a shrub, it became one of the most heartfelt grudge matches the arena had seen. It ended with no death at all, frozen at the very last second.
+A werewolf alpha and the vampire who has been hunting her met in the Grandmaster's silent, fog-choked "dark city." It should have been a simple monster mash. Instead **Havoc** and **Isha Inverraseth** turned out to be childhood best friends bound by a blood oath, torn apart on the night Havoc's pack slaughtered their village. Between burning huts, pulled teeth and a genie who hated being called a shrub, it became one of the most heartfelt grudge matches the arena had seen. It ended with no death at all, frozen at the very last second.
 
 ## The Story
 
@@ -38,7 +38,7 @@ Havoc came through first. She was six foot four and built like "a brick shithous
 
 Isha arrived out of shadow. At first only her footprints could be seen, as if eyes slid off her. She was tall and vampiric, with glowing red eyes, hair shaved at the sides and gathered into locks "for hunting," tattooed hands, and more belts and pouches than anyone could need. She raised a palm in greeting: "Huh, this is unexpected. But not unwelcome."
 
-Havoc's gaze snagged on that palm. She knew this hunter by reputation: **the Lycan Slayer**, who stalked shifters through the weavespun forests. Isha admitted she had been following Havoc's shadow for years and killing everyone close to her, and that she had been "saving you for last." When the Grandmaster brought a candle close, Havoc saw it. Isha's palm bore a mirror image of the scar on her own hand, and that scar began to itch. "Isha?" "Now you remember me."
+Havoc's gaze snagged on that palm. She knew this hunter by reputation: **the Lycan Slayer**, who stalked shifters through the weavespun forests. Isha admitted she had been hunting Havoc for some time, following her shadow and killing anyone who seemed close to her, and that she had been "saving you for last." When the Grandmaster brought a candle close, Havoc saw it. Isha's palm bore a mirror image of the scar on her own hand, and that scar began to itch. "Isha?" "Now you remember me."
 
 Havoc had thought Isha was dead. Isha had a different view of that night: "I was your choice and you chose differently and left me alone in that forest, bathing in my own blood. And now I'm going to make you bathe in yours." The Grandmaster was thrilled. She slapped the Arbiter on the back and told him he'd actually done well, then held both champions' scarred hands. Havoc crushed hers without ever taking her eyes off Isha. The Arbiter opened a portal to the Grandmaster's dark city, and fog rolled out across the throne room floor.
 
@@ -46,7 +46,7 @@ Havoc had thought Isha was dead. Isha had a different view of that night: "I was
 
 The arena was a sleepy village of small wooden huts under the moon. Fog snaked through every alley, and there were ghostly footprints everywhere but no one to be seen or heard. The Grandmaster spread her wings and commanded the champions to "Turn this dark blue land into red. Change this fog into a river of blood." Doug, terrified of the two killers, let out a small fart, and she flew him up to her seat. [[The Acolytes]] cheered from above like "a haunting, gorgeous choir," and the Grandmaster told the fighters that whoever did not disappoint her people might return home.
 
-Havoc saw it for what it was: "Oh, so our pain is meant to be a spectacle, isn't it?" It reminded her of that other night, "when there were other hungry eyes watching us." Now the new alpha of the Kingslayer clan, she owed a blood debt for every wolf Isha had killed. The Arbiter, feeling like a third wheel, said "let me get the fuck out of the way" and flew off on his white wings.
+Havoc saw it for what it was: "Oh, so our pain is meant to be a spectacle, isn't it?" It reminded her of that other night, "when there were other hungry eyes watching us." Now the new alpha of the Kingslayer clan, she had to pay back Isha's debt in blood and could not just let it pass. The Arbiter, feeling like he was interrupting, said "let me get the fuck out of the way" and flew off on his white wings.
 
 ### Arm Day, Leg Day
 
@@ -58,13 +58,13 @@ Havoc shifted, kicked down the door of a nearby hut like a drawbridge, and barri
 
 ### Teeth for Gerald
 
-The Acolytes rewarded both champions with an energy drink each ("Just remember to use it before you die"). Then the Arbiter decided to "pick it up a notch." [[The Box of Chaos]] fell hundreds of feet into the street, and [[The Box of Chaos|Gerald]] poked his yellow-eyed head out. Moments later a small gold lamp drifted down beside him, jingling like a fireworks show. Havoc heard it from inside her fort. She had been to Disney World and loved it.
+The Acolytes rewarded both champions with an energy drink each ("Just remember to use it before you die"). Then the Arbiter decided to "pick it up a notch." [[The Box of Chaos]] fell hundreds of feet into the street, and [[The Box of Chaos|Gerald]] poked his yellow-eyed head out. Moments later a small gold lamp drifted down beside him, ringing like a Disney World fireworks show. Havoc heard it from inside her fort. She had been to Disney World and loved it.
 
 Isha strolled over to the box. "Just hanging out in the box, dealing chaos," Gerald explained. She had no soul to offer, having lost it when she became a vampire, so she offered her wisdom teeth instead, which she had never had removed. She reached into her mouth and pulled them out herself. Gerald was delighted: "This will go create my teeth jar." In return he floated over a dagger he wasn't using: **Tinderstrike**, a flint blade that showered sparks and guarded its wielder against fire.
 
 ### The Burning House
 
-Isha pocketed the lamp, lit an oil-soaked rag with Tinderstrike's sparks and promised to smoke Havoc out. She threw the firebomb down in the doorway and walked straight through the flames into the hut. The tinder-dry walls caught. While the fire roared, the Grandmaster called a short break so Doug could deal with his potty dance. The two champions stayed in the burning house the whole time.
+Isha pocketed the lamp, lit an oil-soaked rag with Tinderstrike's sparks and promised to smoke Havoc out. She threw the firebomb down in the doorway and walked straight through the flames into the hut. The tinder-dry walls caught. While the fire roared, the Grandmaster called a short break because Doug was doing his potty dance. The two champions stayed in the burning house the whole time.
 
 Isha breathed the smoke in, since she didn't need the air, and drew her spectral longbow. It was woven of "grief and shadow," dripped like ink and turned to vapor. Her first arrow was perfect. It pierced Havoc's heart and slammed her back into the chair Isha called "your throne," and a second arrow pinned her there again. "Oh, Isha, when did you learn how to handle a bow that well?" The arrow carried its own answer. It showed a young girl, still in the clothes she was wearing when Havoc left her, scavenging a bow from empty houses and training through the years with tears in her eyes until the bow melted into her hands. In the background, Havoc saw graves: "You buried them. Every single one of them."
 
@@ -76,7 +76,7 @@ Havoc's maul glowed red in the furnace heat. She charged and caught Isha with an
 
 In the town square, Havoc turned on the crowd itself. "You seek to laugh at our pain. You seek to exploit our grief. I refuse. I refuse to abide by the terms of your game." Then she swung her maul to slam the Box of Chaos shut. **No champion had ever attacked the box before.** Gerald answered with a hellish blast of pink and purple fire, hot this time, and Havoc couldn't escape any of it. Undeterred, she begged Isha to "forget this box of flaming skeletons" and face her with even terms.
 
-Isha agreed, once, and tossed Tinderstrike aside. Havoc raised her scarred hand and spoke their oath aloud: "We live together, we die together." She had prayed "to gods I have seen my pack devour" that Isha would survive. She explained that the wolves who destroyed their village had sent her to kill Isha, and that ripping her within an inch of her life was the only way to leave her alive. "Your life, to me, has never been a mistake. It has always been beautiful." Isha saw it differently: "I seem to think of this as nothing short of abandonment while you think of this as nothing short of a miracle." She tore off her coat, spat blood from her pulled teeth and drew two short swords. Tears ran down her face as they had when she was a child.
+Isha agreed, for once, and tossed Tinderstrike aside. Havoc raised her scarred hand and spoke their oath aloud: "We live together, we die together." She had prayed "to gods I have seen my pack devour" that Isha would survive. She explained that the wolves who destroyed their village had sent her to hunt and kill Isha, and would have slaughtered Havoc too if she had done anything but rip Isha within an inch of her life. "Your life, to me, has never been a mistake. It has always been beautiful." Isha saw it differently: "I seem to think of this as nothing short of abandonment while you think of this as nothing short of a miracle." She tore off her coat, spat blood from her pulled teeth and drew two short swords. Tears ran down her face as they had when she was a child.
 
 ### We Die Together
 
@@ -92,7 +92,7 @@ Havoc begged her not to, but Isha made a wish: "I want to go back to where it be
 
 ### The Pack
 
-The Arbiter was happy to oblige, with one condition: "they're going to want to come too." Dozens of werewolves Havoc knew climbed onto the rooftops and slunk out of the alleys. "Are these the ones you call family now?" Isha asked. Havoc said yes. She insisted they weren't evil: they had attacked the village because vampires were driving them from their hunting grounds. The pack was not interested in her defense. "We're a pack. You can't leave or lie to us," they said, and Isha's fate was clear: "you're going to finish it. Or we will."
+The Arbiter was happy to oblige, with one condition: "they're going to want to come too." Dozens of werewolves Havoc knew climbed onto the rooftops and slunk out of the alleys. "Are these the ones you call family now?" Isha asked. Havoc said yes. She insisted they weren't evil: they had attacked the village because they were hungry and vampires were driving them from their hunting grounds. The pack was not interested in her defense. "We're a pack. You can't leave or lie to us," they said, and Isha's fate was clear: "you're going to finish it. Or we will."
 
 "I'll do it," said Isha. **For the first time, Havoc cried.** "Isha, I'm sorry." "Took you long enough." "Then let's die together." She hauled the maul back to strike.
 

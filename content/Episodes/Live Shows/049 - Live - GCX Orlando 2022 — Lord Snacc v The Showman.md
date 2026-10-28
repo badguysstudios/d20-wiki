@@ -11,7 +11,7 @@ played_by:
 - 'The Showman: RogueExMachinca'
 winner: Lord Snacc
 arena: A clearing in a deep autumn forest
-summary: With no champions packed for the trip, the Grandmaster drafted two Acolytes from the crowd, the barbarian Lord Snacc and the bard the Showman, to fight in an autumn forest. The Showman faked his own death with the Grandmaster's stolen sword in hand, but Lord Snacc's glaive finished him for good in the seventh round.
+summary: With no champions packed for the trip, the Grandmaster drafted two Acolytes from the crowd, the barbarian Lord Snacc and the bard the Showman, to fight in an autumn forest. The Showman faked his own death and rose with the Grandmaster's stolen sword, but Lord Snacc's glaive finished him in the seventh round.
 tags:
 - episode
 youtube: https://youtu.be/DTBTe_JXO7Y
@@ -20,7 +20,7 @@ canon_order: 49
 
 [Watch on YouTube](https://youtu.be/DTBTe_JXO7Y)
 
-When the [[The Arbiter|Arbiter]] arrived at GCX Orlando without any [[Champions|champions]], the Grandmaster pulled two volunteers out of the crowd. The barbarian **[[Lord Snacc]]** faced the bowler-hatted bard **[[The Showman]]** in a quiet autumn forest that did not stay quiet for long. Before it was over, the whole room had been drafted into the fight, the Box of Chaos had shared its dreams, and the Showman had died twice.
+When the [[The Arbiter|Arbiter]] arrived at GCX Orlando without any [[Champions|champions]], the Grandmaster pulled two volunteers out of the crowd. The barbarian **[[Lord Snacc]]** faced the bowler-hatted bard **[[The Showman]]** in a quiet autumn forest that did not stay quiet for long. Before it was over, the whole room had been drafted into the fight, the Box of Chaos had shared its dreams, and the Showman had faked his own death and then died for real.
 
 ## The Story
 
@@ -68,7 +68,7 @@ Distancing himself from all the fro-yo talk, the Showman performed a shimmy and 
 
 For a little something extra, the Grandmaster summoned [[The Box of Chaos]]. It fell from the sky at Lord Snacc's feet and flipped open in "a column of pink and yellow fire, no heat is produced, because it's magic." A shadowy figure crawled out with his fingers hooked over the side. His name was Gerald. "It was my father's." Snacc said his father must have been a lovely man. "And it was his mother's." Gerald then asked what the fuck they wanted. The rule was simple: sacrifice something, and Gerald might grant what you desire. There was no fro-yo in the box.
 
-Snacc turned around, rummaged mischievously near his pants and announced, "My other horn has emerged!" He'd "never leave home without it." Gerald was unsure what to do with it and refused to clean it ("then all the flavor will be off of it"), but he sent back a small potion. The crowd chanted "Chug, chug, chug!" as Snacc's wounds closed. With some help from the Arbiter, who was tired of watching him fail, Snacc finally broke the fear. "You are no longer fearful, cheese is now your friend." "I love cheese!"
+Snacc turned around, rummaged mischievously near his pants and announced, "My other horn has emerged!" He'd "never leave home without it." Gerald demanded, "What the fuck am I supposed to do with this?" and wondered whether he was supposed to sit on it. He refused to clean it ("then all the flavor will be off of it"), but he sent back a small potion. The crowd chanted "Chug, chug, chug!" as Snacc's wounds closed. With some help from the Arbiter, who was tired of watching him fail, Snacc finally broke the fear. "You are no longer fearful, cheese is now your friend." "I love cheese!"
 
 His luck didn't last. He tossed his die into the crowd and it came back a natural 1. "The acolytes giveth and the acolytes taketh away." He still landed a sprinting slash, and the Showman, caught bluffing about how hard he was to hit ("No, you're full of shit," said the Arbiter), was stabbed repeatedly. He was "down to two livers now," thanks to "a hobby outside of this."
 
@@ -80,7 +80,7 @@ The remaining cast of *Friends* came to life. Snacc ducked Monica and Chandler, 
 
 Snacc rallied ten Acolytes to "clap your asses off," and the Grandmaster turned the applause into thunder that slammed into the Showman: "That clapping is not for you. It hurts." The Showman replied that "it's not wise to put an audience against a bard, because two can play this game." He turned the whole crowd against Snacc, everyone booed, and five Acolytes attacked him with whatever weapons they could imagine: Turtleman, two hat people and the man who'd bought Ross. The first struck perfectly. "I trusted you," said Snacc. The Arbiter described people "taking their tops off, spilling beer everywhere… Don't do that, just pretend."
 
-"I don't want to die," Snacc admitted. "I just want somebody to die," said the Arbiter. "It doesn't have to be you." The Grandmaster pointed out that a dead winner would save her about five bucks on fro-yo.
+"I don't want to die," Snacc admitted. "I just want somebody to die," said the Arbiter. "It doesn't have to be you." The Grandmaster pointed out that if Snacc died, she would save about five bucks on fro-yo.
 
 ### The Storm
 
@@ -88,7 +88,7 @@ With Acolytes once more standing in for Doug, chaos struck again. The breeze ros
 
 ### The Hammer and the Fake Death
 
-After a pause to send a sign-breaker to the corner (and then promise him fro-yo, because "we can't stay mad at you"), Lord Snacc made his speech: "Here we are. Gathered around friends, family, grandmasters, arbiters, strange men in bowler hats. I happen to have in my pocket here a hero point." The crowd echoed "My true might!" and he brought "the flaming hammer of inferno and doom" down on his rival, burying him in the forest floor. "Oh, it's so moist! Oh, there's critters in here!" The Grandmaster told him to just die already, declared Snacc the winner, and the Arbiter started dragging the body away.
+After a pause to send a sign-breaker to the corner (and then promise the culprit fro-yo, because "we can't stay mad at you"), Lord Snacc made his speech: "Here we are. Gathered around friends, family, grandmasters, arbiters, strange men in bowler hats. I happen to have in my pocket here a hero point." The crowd echoed "My true might!" and he brought "the flaming hammer of inferno and doom" down on his rival, burying him in the forest floor. "Oh, it's so moist! Oh, there's critters in here!" The Grandmaster told him to just die already, declared Snacc the winner, and the Arbiter started dragging the body away.
 
 "But wait! He's getting back up!… Shh! He's just sleeping!" The Showman had faked his own death. He rose from his earthly grave holding a sword he'd found in the dirt. "Did you just steal my sword?" asked the Grandmaster. "I am very difficult to kill. I've had practice." He stabbed Snacc "like a shish kebab," and the two faced off in the dark under the rumbling clouds.
 

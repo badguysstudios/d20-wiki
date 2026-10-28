@@ -11,7 +11,7 @@ played_by:
 - 'Richard Knottley: RealLifeFakeWizard'
 winner: Bob the Barbarian
 arena: The front porch of the Dread Fortress, on the lava field
-summary: Bob the Barbarian finished off presidential hopeful Richard "Dick Twist" Knottley with a stacked Denim Gator on a natural 20, but Richard's death triggered a live feed in which the Hunger ate Bob's adopted son Robbie. Thea netted Richard's ghost so mages could sew it back into his body.
+summary: Bob the Barbarian finished off presidential hopeful Richard "Dick Twist" Knottley with a stacked Denim Gator on a natural 20, but Richard's death triggered a live feed in which the Hunger ate Bob's adopted son Robbie. Thea netted Richard's ghost, and mages set about sewing it back into his body.
 tags:
 - episode
 youtube: https://youtu.be/b8_YS6KrR_Q
@@ -20,7 +20,7 @@ canon_order: 107
 
 [Watch on YouTube](https://youtu.be/b8_YS6KrR_Q)
 
-Two fan favourites were brought home to [[The Dread Fortress|the Dread Fortress]] for **Patriotic Punch Up**. [[Bob the Barbarian]], a jort-clad Florida man from the Everglades, faced [[Richard Knottley]], better known as **Dick Twist**, who was freshly revived and launching a run for president. The fight took place on the fortress's own front porch. It featured a weaponised Peloton, a frog pulled from somewhere no frog should be, and a hostage twist that turned a gloriously stupid brawl into a blood feud.
+Two fan favourites were brought home to [[The Dread Fortress|the Dread Fortress]] for **Patriotic Punch Up**. [[Bob the Barbarian]], a jort-clad Florida man from the Everglades, faced [[Richard Knottley]], better known as **Dick Twist**, who was freshly revived and launching a run for president. The fight took place on the fortress's own front porch. It featured a weaponised Peloton, a frog pulled out of Richard's ass, and a hostage twist that turned a gloriously stupid brawl into a blood feud.
 
 ## The Story
 
@@ -32,7 +32,7 @@ He tracked her to a small cupboard room with a pile of blankets and, naturally, 
 
 ### Dick Twist for President
 
-Through the hole in the frame, Thea opened a small pink portal and brought in the [[Champions|champions]]. Richard arrived pedalling his Peloton, "still traumatized from the frogs." The Lord of Fate reminded him that he had died of a heart attack on that very bike last time. Richard explained that he had eaten 45 cheeseburgers that day. Today it was only 37, because it was a cheat day, and he had switched to lettuce wraps. His platform was to dismantle, on day one, the "swampy government run by [[Chinchillas|chinchillas]]" who wear human skin. When Thea asked whether he was a chinchilla, he raised his eyebrows: "Chinchillas can't do that."
+Through the hole in the frame, Thea opened a small pink portal and brought in the [[Champions|champions]]. Richard arrived pedalling his Peloton, "still traumatized from the frogs." The Lord of Fate reminded him that he had died of a heart attack on one of those bikes last time. Richard explained that he had eaten 45 cheeseburgers that day. Today it was only 37, because it was a cheat day, and he had switched to lettuce wraps. His platform was to dismantle, on day one, the "swampy government run by [[Chinchillas|chinchillas]]" who wear human skin. When Thea asked whether he was a chinchilla, he raised his eyebrows: "Chinchillas can't do that."
 
 Bob knew nothing about chinchillas, but he loved a good swamp, so he warned Richard there would be a problem. He had at least three gators: "One, two, and Hannah Montana." His sweet Florida boy Robbie was back home in the Everglades, riding their pink fan boat and feeding the gators Publix chicken tenders. Bob had brought extra tenders, and that settled Thea's loyalties on the spot. Richard sneered that Thea wasn't even people and couldn't vote, then announced into the camera that the whole game was rigged. The Lord of Fate replied that they don't acknowledge the cameras. "We paid them to be invisible."
 
@@ -44,13 +44,13 @@ Bob opened with a roundhouse kick to the face and a backhanded slap "to show my 
 
 Then came the policy debate. Richard demanded to know where Bob stood on the lunar moths eating the ozone layer. Bob liked the sun, so he was in favour of a bigger hole. Appalled, Richard hurled the Peloton at him. Bob crouched into the mud with "the reflexes of other Florida animals, not just gators, but panthers," and the bike sailed over his head. The throw had been a distraction. Richard closed in at a brisk three miles an hour and wagged a finger in Bob's face, and the lecture wore them both down equally. Bob simply replied that all he cared about was doing his sweet boy Robbie proud "as his new dad."
 
-Thea decided she could ride a bike better than either of them. She produced a tiny tricycle with ribbons, clicky spoke beads and a front basket, and the Lord of Fate snapped both champions onto trikes for a best-of-three race. Thea took the first heat. Bob won the second with a natural 20 and the third "by a nose," while Richard somehow made riding a trike look difficult. Afterward, Richard confessed that his job at Peloton was a Scientology-style lifetime arrangement. He also revealed that Big Peloton had a super PAC backing his campaign, alongside Adidas, Payless Shoes and KB Toys.
+Thea decided she could ride a bike better than either of them. She produced a tiny tricycle with ribbons, clicky spoke beads and a front basket, and the Lord of Fate snapped both champions onto trikes for a best-of-three race. Thea took the first heat. Bob won the second with a natural 20 and the third "by a nose," while Richard somehow made riding a trike look difficult. Afterward, Richard confessed that his job at Peloton was a Scientology-style lifetime arrangement. He also admitted that Big Peloton may have a super PAC backing his campaign, alongside Adidas, Payless Shoes and KB Toys.
 
 ### Belly Flops and Butt Frogs
 
 Bob cracked a Miller Lite, chugged it, and belly-flopped onto Dick from a great height. His sweat soaked in and slowed Richard down. "It's made of meth, jorts, and beer, baby, the way God intended." Richard steadied himself with deep breathing and screeching. Thea joined in, then brought him a walker with tennis balls on the feet, since he sounded 98 years old.
 
-Richard then reached somewhere personal and pulled out the frog that had been trapped in his orifice for weeks. He called it "a gift from God King Bofidis" and lobbed it like a grenade. It missed. Bob took out a knife and fork, cut the frog up and ate every inch of it. The Lord of Fate observed that it had been sous-viding in Richard's ass for three weeks, and admitted he was now petrified of Bob. So was Richard. Richard struck a T-pose and called down "bolts of Wi-Fi" through his aluminium foil hat, and they cooked Bob's brain with 5G.
+Richard then pulled out the frog that had been crammed up his ass for a couple of weeks. He called it "a gift from God King Bofidis" and lobbed it like a grenade. It missed. Bob took out a knife and fork, cut the frog up and ate every inch of it. The Lord of Fate observed that it had been sous-viding in Richard's ass for three weeks, and admitted he was now petrified of Bob. So was Richard. Richard struck a T-pose and called down "bolts of Wi-Fi" through his aluminium foil hat, and they cooked Bob's brain with 5G.
 
 ### Jorts Everywhere
 
@@ -80,11 +80,11 @@ Furious, Bob unleashed a signature move that even Robbie had never seen. His jor
 
 Bleeding from the crotch, with a pulled hamstring, Richard triggered his Dick Twist special. Both men's pants became tuxedo pants. "Bitch, this is a dance-off." Richard showed off the crop circle clarification, the chinchilla cha-cha and the Bigfoot Boogie, while Bob just copied him. Richard won, recovered some of his strength, and twerked aggressively.
 
-At the Box, the shadowy figure had no idea who Richard was until Thea reminded him: "You're the guy with the frogs in your ass." Richard sacrificed his mustache. The Box offered him a small blue pill to "keep you going all night long." He handed it back, because "I'm a political candidate. I would never be blue-pilled." His second draw gave him a rusty child's spoon with a helping of tetanus, which let him hit Bob with two afflictions at once. The figure, meanwhile, now wore the mustache like a merkin. Thea interviewed Richard about his strategy and concluded, "You're pretty stupid. You might get my vote." Even the Lord of Fate conceded that Dick Twist had a real shot.
+At the Box, the shadowy figure had no idea who Richard was until he and Thea worked it out: "You're the guy with the frogs in your ass." Richard sacrificed his mustache. The Box offered him a small blue pill to "keep you going all night long." He handed it back, because "I'm a political candidate. I would never be blue-pilled." His second draw gave him a rusty child's spoon with a helping of tetanus, which let him hit Bob with two afflictions at once. The figure, meanwhile, now wore the mustache like a merkin. Thea interviewed Richard about his strategy and concluded, "You're pretty stupid. You might get my vote." Even the Lord of Fate conceded that Dick Twist had a real shot.
 
 ### The Death of Dick Twist
 
-Bob pointed out a little graveyard beside the fortress. Then he ripped off his tuxedo pants to reveal a third layer of jorts ("the jorts never end") and stacked everything he had into a second Denim Gator. The gators' teeth dripped with extra venom. **He rolled a natural 20.** As Bob engorged once more, Richard saw the spectral form of his ultimate foe behind him: a giant chinchilla. His final words were defiant: "Dick Twist is immortal, a state of mind more than a being, more than a man."
+Bob vowed to put Richard's ass in the grave, and Thea pointed out a little graveyard beside the fortress. Then Bob ripped off his tuxedo pants to reveal a third layer of jorts ("the jorts never end") and stacked everything he had into a second Denim Gator. The gators' teeth dripped with extra venom. **He rolled a natural 20.** As Bob engorged once more, Richard saw the spectral form of his ultimate foe behind him: a giant chinchilla. His final words were defiant: "Dick Twist is immortal, a state of mind more than a being, more than a man."
 
 **Richard Knottley died**, and Bob stuffed every orifice of his corpse with warm, spicy Publix buffalo tenders "to join those damn frogs." But as Richard fell, the phone dropped from his hand. The video had been a live feed, and the [[The Hunger|Hunger]] devoured Robbie. Thea mourned the wasted tenders: "Victory always comes at a loss." Richard's ghost promptly appeared behind her. Bob tried to banish it, but Thea pulled out a little ghost net, explaining, "we'll need you for later," and chased him around the graveyard.
 
@@ -97,7 +97,7 @@ Bob credited the gods with his natural 20 and wanted only vengeance for his boy.
 ## Notable Moments
 
 - Thea burst through the Lord of Fate's own portrait to win Marco Polo.
-- Richard pulled a frog from his orifice, threw it as a grenade, and Bob ate it with a knife and fork.
+- Richard pulled a frog out of his ass, threw it as a grenade, and Bob ate it with a knife and fork.
 - The Lord of Fate turned every Acolyte's clothes into jorts.
 - Thea drank Bob's belly-button sweat and vomited on the front row.
 - The shadowy figure in the Box of Chaos ended the night wearing Richard's mustache as a merkin.

@@ -11,7 +11,7 @@ played_by:
 - 'White Hat H03: Mudcat'
 winner: No winner (a tie; both died within moments of each other)
 arena: An unnamed forest with a cliff, a ravine and berry bushes
-summary: A yuan-ti ranger and a warforged gunslinger fought across a rainy forest cliffside until she strangled him with her tail and his dying trigger finger shot her, and both fell. The match ended in a tie.
+summary: A yuan-ti ranger and a warforged gunslinger fought across a rainy forest cliffside until she strangled him with her tail and his involuntarily jerking trigger finger shot her, and both fell. The match ended in a tie.
 tags:
 - episode
 youtube: https://youtu.be/fCjXSOkuTTg
@@ -20,7 +20,7 @@ canon_order: 6
 
 [Watch on YouTube](https://youtu.be/fCjXSOkuTTg)
 
-A snake-woman who loves Mother Nature met a cowboy robot who runs on oil, and the forest got very messy. In this pre-launch test bout, **[[Brunhilda Doogle]]** and **[[White Hat H03]]** traded arrows, bullets, insults and a great deal of oil across a cliffside. Along the way came a lost hat, a cursed nickname, a giant floating screwdriver and a snake best friend who did not survive. It ended the only way two stubborn [[Champions|champions]] could end it: with each of them killing the other.
+A snake-woman who loves Mother Nature met a cowboy robot who runs on oil, and the forest got very messy. In this pre-launch test bout, **[[Brunhilda Doogle]]** and **[[White Hat H03]]** traded arrows, bullets, insults and a great deal of oil across a cliffside. Along the way came a lost hat, a cursed nickname, a giant floating screwdriver and a new snake friend who did not survive. It ended the only way two stubborn [[Champions|champions]] could end it: with each of them killing the other.
 
 ## The Story
 

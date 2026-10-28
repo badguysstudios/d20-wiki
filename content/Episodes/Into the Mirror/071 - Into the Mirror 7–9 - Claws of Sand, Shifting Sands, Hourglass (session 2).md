@@ -13,9 +13,9 @@ played_by:
 - 'Locket: Miss_Magitek'
 - 'Toddleheim: Ahnubyss'
 - 'Elianna: ParallaxStella'
-winner: No winner
+winner: None (party encounter)
 arena: The Sands of Eternity
-summary: Locket, Toddleheim and Elianna destroy a swarm of sand scorpions alongside a transformed Flynry, learn they are all dead in the Sands of Eternity, and glimpse a path to a ziggurat in Flynry's mirror-sword. Then an arrow from a distant dune kills Locket, and her body crumbles into sand.
+summary: Locket, Toddleheim and Elianna destroy a swarm of sand scorpions alongside a transformed Flynry, learn they are all dead in the Sands of Eternity, and glimpse a path to a ziggurat in Flynry's mirror-sword. Then an arrow from figures on a dune kills Locket, and her body crumbles into sand.
 tags:
 - episode
 youtube: https://youtu.be/T5LwxsIOyrU
@@ -24,7 +24,7 @@ canon_order: 71
 
 Watch on YouTube: [Part 1](https://youtu.be/T5LwxsIOyrU) · [Part 2](https://youtu.be/g1ZJDOsFcWU) · [Part 3](https://youtu.be/vlbQUDJfdP0)
 
-In a cold desert of blue sand, **[[Locket]]**, **[[Toddleheim]]** and the Grandmaster's own personal assistant **[[Elianna]]** finally found their lost friend **[[Flynry]]**, mid-battle and barely recognizable. What began as a scrappy scorpion fight turned into a tearful reunion and a grim lesson about where they really were. It ended with one of the most shocking deaths of the series.
+In a cold desert of blue sand, **[[Locket]]**, **[[Toddleheim]]** and the Grandmaster's own personal assistant **[[Elianna]]** finally found their lost friend **[[Flynry]]**, mid-battle and barely recognizable. What began as a scrappy scorpion fight turned into a tearful reunion and a grim lesson about where they really were. It ended with a sudden, shocking death.
 
 ## The Story
 
@@ -44,7 +44,7 @@ The scorpions mobbed Flynry, and wave after wave of claws and stingers missed hi
 
 Flynry tried a sweeping greatsword spin. It caught the glowing scorpion and carried on into a badly wounded one that had been creeping toward his back, thinking it wasn't the target. Aqua flame blinded the creeper and it was "slashed in half, dead ski." His follow-up at "Captain Glowy" found nothing, because the scorpion simply sank into the sand and popped up elsewhere. "Ever slippery."
 
-Then came Elianna's moment. She summoned a spectral **scythe**, which spun through the air, sheared off both of a scorpion's pincers and took its head. The head landed right at Flynry's feet, "almost like it's a gift," gazing up into his eyes. He gave it an inquisitive look, then nodded at the stranger: yes, this is the way. **Elianna tried to curtsy and fell over.** Not to be outdone, Locket landed a perfect strike on the scorpion in front of her and made "scorpion sushi" of it with her short blades.
+Then came Elianna's moment. She summoned a spectral **scythe**, which spun through the air, sheared off both of a scorpion's pincers and took its head. The head landed right at Flynry's feet, "almost like it's a gift," gazing up into his eyes. He gave it an inquisitive look, then nodded at the stranger: yes, this is the way. **Elianna tried to curtsy and fell over.** Inspired by the scythe, Locket landed a perfect strike on the scorpion in front of her and made "scorpion sushi" of it with her short blades.
 
 ### Something Bigger
 
@@ -64,19 +64,19 @@ Flynry's eyes glistened. He had been "surrounded by so much evil," he said, but 
 
 Elianna knew the name of this place from books and whispers: **[[The Sands of Eternity]]**. The name stirred something in Toddleheim, a book of legends he had fought over in some dark library decades ago. It was a realm for the dead, apart from every other underworld. Only souls somehow attached to it, or consumed by it, ended up here. **"I do regret to inform you that we are all dead,"** he announced. If there was no fix, "I look forward to an eternity fighting scorpions alongside you, brother." Locket realized this was why arriving had hurt so much: the Arbiter had disintegrated them.
 
-The news helped Flynry fit some pieces together. He knelt and pulled a **wooden spoon** out of the sand. Before leaving home base he had bought one for [[Frank]], the disgruntled chef who cooked the heroes' meals with bones and sticks. **"Your experience here is what your mind makes it,"** he said. His sword, his armor, even himself, were "of the sand." He had battled a kind of psychosis here, and his time had been "based on lies," so part of him held back. Was this reunion even real? For him it had been years. For them it had been months. "There is no rising of the sun. There is no shifting of the stars. There is simply the void."
+The news helped Flynry fit some pieces together. He knelt and pulled a **wooden spoon** out of the sand. Before leaving home base he had bought one for [[Frank]], the disgruntled chef who cooked the heroes' meals with bones and sticks. **"Your experience here is what your mind makes it,"** he said. His sword, his armor, even himself, were "of the sand." He had battled a kind of psychosis here, and his origins here were "based on lies," so part of him held back. Was this reunion even real? For him it had been years. For them it had been months. "There is no rising of the sun. There is no shifting of the stars. There is simply the void."
 
 Elianna healed his scars, and Flynry said he had forgotten how refreshing healing magic could be. She explained she had learned it "because I'm constantly tripping and hurting myself." In her notebook she had been sketching him for the Grandmaster and quietly fretting over the promise she had made.
 
 ### Truth
 
-Flynry's sword bore one word: **Truth**. "It is a mirror shaped like a sword." In it he still saw his old self, with the velvet cloak, the beastish face and the long brunette hair and beard. Elianna looked into it seeking hope. She saw **[[The ziggurat|a ziggurat]]** crowned with a mirror-like gem, beaming light into the void sky. The vision then rewound along a path until she was looking over her own shoulder. "This sword has shown you the truth." She sketched the map, and Flynry gently turned it the right way up for her. In all his years here, he said, he had never seen a single structure.
+Flynry's sword bore one word: **Truth**. "It is a mirror shaped like a sword." In it he still saw his old self, with the velvet cloak, the slightly beastish face and the long brunette hair and beard. Elianna looked into it seeking hope. She saw **[[The ziggurat|a ziggurat]]** crowned with a mirror-like gem, beaming light into the void sky. The vision then rewound along a path until she was looking over her own shoulder. "This sword has shown you the truth." She sketched the map, and Flynry gently turned it the right way up for her. In all his years here, he said, he had never seen a single structure.
 
-When she asked again, the blade showed only her reflection. It did the same for Toddleheim ("Smells like single use"). Frustrated, Elianna kicked sand at it, and the blade drank the sand in "as if it was a puddle."
+When she asked again, the blade showed only her reflection. "Smells like single use," Toddleheim remarked, and when he asked, it showed him only his own reflection too. Frustrated, Elianna kicked sand at it, and the blade drank the sand in "as if it was a puddle."
 
 ### The Arrow
 
-Locket stepped up and took the sword. **"Show us the way,"** she said, thinking of the disintegration and of finding Flynry again. Past her reflection she saw a shadow-cloaked figure atop a dune, then several figures, one perhaps chasing another. She realized it was no vision. She turned with the sword in hand, and **an arrow went straight through her throat.** She sank to her knees, staring in shock at Flynry and Toddleheim. Flynry slid through the sand to catch her, and as his arms closed around her, **her body turned to sand and poured through his fingers.** In the Sands of Eternity, a soul that dies is gone forever. Locket was dead for good.
+Locket stepped up and took the sword. **"Show us the way,"** she said, thinking of the disintegration and of finding Flynry again. Past her reflection she saw a shadow-cloaked figure atop a dune, then several figures, one perhaps chasing another. She realized it was no vision. She turned with the sword in hand, and **an arrow went straight through her throat.** Her blood poured out almost instantly and she sank to her knees, staring in shock at Flynry and Toddleheim. Flynry slid through the sand to catch her, and as his arms closed around her, **her body turned to sand and poured through his fingers.** In the Sands of Eternity, a soul that dies is gone forever. Locket was dead for good.
 
 ## Notable Moments
 

@@ -29,7 +29,7 @@ The party waited with [[Craven Eldonbridge]] on a cliff above a lava field, star
 
 Elusia thanked her friends and asked them how they could face death so calmly. Kaja answered first: "From blood comes life, and death is no stranger to us. It is not the end… It is simply a path." Atalantos agreed: "There is no shame in death. In fact, there should be celebration." Elusia kissed Kaja on the forehead.
 
-Each of them prepared in their own way. Atalantos kept his old, battered gear on purpose, reasoning that an enemy beaten by a man with "only a stick" would learn real fear. Kaja had her "death club" of necromancy apprentices track down a rare rock, which artisans shaped into a stone heart of deep onyx veined with crackling blue. She left her students with a warning: "Remember, you cannot cheat death… Don't make me hunt you down, because I will." Elusia put on armor black as night, with gold scales down her right shoulder and arm and a black cloak bearing her family sigil. It felt, she said, like "wearing somebody else's clothes."
+Each of them prepared in their own way. Atalantos kept his old, battered gear on purpose, reasoning that an enemy beaten by a man with "only a stick" would learn real fear. Kaja had her "death club" of necromancy apprentices track down a hard-to-refine rock, which artisans shaped into a stone heart of deep onyx veined with crackling blue. She left her students with a warning: "Remember, you cannot cheat death… Don't make me hunt you down, because I will." Elusia put on armor black as night, with gold scales down her right shoulder and arm and a black cloak bearing her family sigil. It felt, she said, like "wearing somebody else's clothes."
 
 ### The Charge
 
@@ -65,7 +65,7 @@ The Shadow King had grown grayer and whiter, with long white hair, a white musta
 
 Elusia was having none of it. "My father may have loved his coins, but your greed has you loving power." She refused to join him. Agdrel threw off his cloak, which split into two shadow blades, and grew taller and stronger by draining the life and chaos energy from one of his own acolytes.
 
-Then he turned on his right hand. "Vythorn, you weasel, you treacherous snake. I'm almost proud of you. It would be you to usurp me. Always one for a little bit more knowledge. The what-ifs, plaguing your decisions." Shadows skewered and bound Vythorn, and Agdrel began shunting every wound he took into his former servant.
+Then he turned on his right hand. "Vythorn, you weasel, you treacherous snake. I'm almost proud of you. It would be you to usurp me. Always one for a little bit more knowledge. The what-ifs, plaguing your decisions." Shadows skewered and bound Vythorn, and Agdrel began redirecting the damage he took into his former servant.
 
 ### Fire and Light
 
@@ -83,11 +83,11 @@ Elusia hurled her pouch of diamonds from the [[Plintos]] estate into the firelig
 
 When it was over, she realized she had killed the last of her family.
 
-Vythorn knelt over Atalantos and reversed time on the spear wound, undoing much of it. The strain cost him: "the black falls away from them until he has nothing but glowing white wings." "Sorry, I failed you, Empress," he said, though Atalantos still bore a large wound. Then Kaja and Elusia finally kissed.
+Vythorn knelt over Atalantos and reversed time on the spear wound, undoing part of it. The strain cost him: "the black falls away from them until he has nothing but glowing white wings." "Sorry, I failed you, Empress," he said, though Atalantos still bore a large wound. Then Kaja and Elusia finally kissed.
 
 ### The Grandmaster
 
-Vythorn told them the armies would surrender now. He sank Agdrel's body into the floor, sent it elsewhere, and moved the throne outside. Before the people, Elusia gave her first speech as ruler: "The time of darkness is over… Honor shall be our currency from here on out… death is never where our story ends… The princess who was gone returns as your empress."
+Vythorn told them the armies would surrender now. He sank Agdrel's body into the floor, sent it elsewhere, and moved the throne outside. Before the people, Elusia gave her first speech as ruler: "The time of darkness is over… honor shall be our currency… death is never where our story ends… The princess who was gone returns as your empress."
 
 She turned to Vythorn: "You shall be the arbiter of all things." He accepted, crowned her with a black crown, and the chaos storms over the fortress finally parted.
 
@@ -106,7 +106,7 @@ Sometime later, Italian leather boots clacked through a laboratory deep in the f
 - Kaja got down on the floor to check for traps in her best silk dress, because if she was going to die, she was going to look good doing it.
 - A goblin bard with an electric guitar and a hip amp played the heroes into the final showdown.
 - Atalantos ran himself through on his own spear to pin the Shadow King in place for Elusia's shot.
-- Saving Atalantos with time magic turned Vythorn's black wings white for good.
+- Saving Atalantos with time magic turned Vythorn's black wings white.
 - Vythorn became the Arbiter, Elusia became the Grandmaster, and the first Deathmatch was declared, all within a few minutes.
 - The origin of Gerald: the Box of Chaos's name is an anagram of the soul inside it.
 

@@ -11,7 +11,7 @@ played_by:
 - 'Ragu: cBC'
 winner: Teddy Oso
 arena: A rocky asteroid in the rings of a purple gas giant
-summary: With her job on the line, Thea brought back zombie hunter Teddy Oso and the silver-haired Ragu for a nine-round brawl in space, fought partly over a stolen Chevy Impala and a severed nipple. Teddy won with a roundhouse kick that cracked Ragu's jaw off its hinges, and Ragu drifted frozen into orbit.
+summary: With her job on the line, Thea brought back zombie hunter Teddy Oso and the silver-haired Ragu for a nine-round brawl in space, fought partly over a prize Chevy Impala and a severed nipple. Teddy won with a roundhouse kick that cracked Ragu's jaw off its hinges, and Ragu drifted frozen into orbit.
 tags:
 - episode
 youtube: https://youtu.be/GbnH7tPab-o
@@ -58,7 +58,7 @@ Ragu answered with his nunchucks, which caught Teddy on the forehead. Teddy took
 
 The Acolytes demanded blood, or possibly ice cream, and the first chaos event struck. A glint appeared overhead. Was it a shiny bird? A silver 1998 Chevy Impala with Michigan plates? No. It was a metal chair, which Teddy dodged and which smacked Ragu. Thea consoled him with a prize: if he won, the Impala was his. He was disgusted at first. Then he noticed it was metal, not plastic, apologised for his outburst, and climbed in. Nobody knew who had given him the keys; Thea had forgotten to lock it. "Look at this 8-track."
 
-Round two became a car fight. Teddy tried to drag Ragu out by his "long, luscious blonde hair." Ragu, safe inside, corrected him ("This is ultra silver") and dared him to "make my millennium." Teddy tried to rip the door off, but Chevy Impalas, Thea explained, "were built to last." Teddy sniffed that he rode a motorcycle anyway, with better gas mileage. On it he picked up his girlfriends Susie and Betty, one of whom was a zombie. "Not all zombies are violent. Some just want to be loved." He eventually has to shoot them, because they start to smell. That prompted the Lord of Fate to consider a firmer hand with Dread Fortress hygiene, and Thea hurried off in search of deodorant.
+Round two became a car fight. Teddy stepped on Ragu's arm and grabbed his "long, luscious blonde hair" to slam his face into his knee. Ragu dodged, corrected him ("This is ultra silver") and, safe inside the car, dared him to "make my millennium." Teddy tried to rip the door off, but Chevy Impalas, Thea explained, "were built to last." When Thea teased that Teddy was just jealous because he rode a motorcycle, Teddy replied that he had better gas mileage. On it he picked up his girlfriends Susie and Betty, one of whom was a zombie. "Not all zombies are violent. Some just want to be loved." He eventually has to shoot them, because they start to smell. That prompted the Lord of Fate to consider a firmer hand with Dread Fortress hygiene, and Thea hurried off in search of deodorant.
 
 Ragu tried to run Teddy over. Then he tried to ram him with what he called his "long doors." Teddy met the charge with one perfect axe swing that gashed the door from end to end. "Your insurance is not gonna like it."
 
@@ -72,7 +72,7 @@ In round four Ragu combined his nunchucks for a ranged strike "for my areola." T
 
 ### The Box of Chaos
 
-Trying to restore order, the Lord of Fate summoned [[The Box of Chaos]]. It landed like a shooting star: a pink and yellow chest bursting with flames, a small creepy black hand creeping out of the lid. For Teddy it produced a blue slushie that melted away his exhaustion and cost $14.97. "How the box got a slushie machine, we'll never know."
+Trying to shake things up, the Lord of Fate summoned [[The Box of Chaos]]. It landed like a shooting star: a pink and yellow chest bursting with flames, a small creepy black hand creeping out of the lid. For Teddy it produced a blue slushie that melted away his exhaustion and cost $14.97. "How the box got a slushie machine, we'll never know."
 
 Ragu's bargaining took longer. The shadowy figure had gone through Ragu's wallet and was still admiring a photo of Teddy's wife it had found there. Ragu offered the chinchilla hairs from his areola. The figure demanded documentation and called in Thea as "the resident chinchilla hair expert." She examined them and confirmed "a clear, true Chilean chinchilla," worth maybe three chinchillas at auction. Ragu received the golden [[Shield of the Golden King]]. He immediately tried to hit Teddy in the face with it, which, Thea gently noted, isn't what shields are for. She coached him to empower himself by chanting his own name. Teddy was unmoved: "At some point, you'll get around to it, I'm sure."
 
@@ -84,7 +84,7 @@ The third chaos event was a horde of children in the stands hurling painfully ac
 
 ### The Shield Shatters
 
-Round seven brought Teddy's powered-up "nipple slicer," aimed at the other one. Ragu fumbled his defence completely, and the Shield of the Golden King shattered into "a tiny million pieces." Teddy reloaded his shotgun with exaggerated slowness, flicked away a last scrap of nipple and blasted Ragu in the face. "I am invincible." Asked about the afterlife, Teddy offered Ragu a final word: "Rosebud." Ragu wasn't having it. He blocked Teddy's next attack ("I'm not dead yet!") and swung again and again. "My fate is near. The only thing that's colorful is my boots. So let's go out with a style."
+Round seven brought Teddy's powered-up "nipple slicer," aimed at the other one. Ragu fumbled his defence completely, and the Shield of the Golden King shattered into "a tiny million pieces." Teddy reloaded his shotgun with exaggerated slowness, flicked away a last scrap of nipple and blasted Ragu in the face. "I am invincible." Asked about the afterlife, Teddy offered Ragu a final word: "Rosebud." Ragu wasn't having it. He blocked Teddy's next attack, a punt to the crotch Teddy called the "Soprano" ("I'm not dead yet."), and swung again and again. "My fate is near. The only thing that's colorful is my boots. So let's go out with a style."
 
 In round eight Teddy began to feel bad for him. He mouthed "I'm so sorry" and brought his gun butt down on Ragu's bowed head, but fumbled and hurt himself instead. With both men so exhausted that a tie would kill them both, Teddy ran to the Impala, got in and ran Ragu over with his own car. Ragu made a last stand and landed two hits while Teddy, by his own account, just stood there with his eyes closed.
 
@@ -103,7 +103,7 @@ Afterwards Ragu admitted he knew he was finished the moment his second areola we
 ## Notable Moments
 
 - Thea was fired for sleeping in the Lord of Fate's throne, kept her job on probation, and won it back by the end.
-- Ragu stole the Impala from a chaos event, and Teddy finished him off by running him over with it.
+- Ragu claimed the Impala from a chaos event, and Teddy later ran him over with it.
 - Teddy pocketed Ragu's severed nipple, and Ragu stole it back and stitched it on covered in chinchilla hair.
 - Thea authenticated chinchilla hair for the Box of Chaos as its resident expert.
 - The match ran out of chaos events entirely and became the longest fight of the season.

@@ -16,17 +16,17 @@ tags:
 - character
 ---
 
-**Tiamat**, the Dark Queen of Dragonkind, is a goddess whose power reaches into the Void from somewhere far outside it. She has never set foot in the arena, but she has answered prayers there twice. The first time, she turned a dying champion's plea into a brief, strange and oddly tender father-son story. The second time, she lent her favor, and her terror, to a battlefield "impossible eons away" from her. She is a figure of real might, and the Grandmaster and [[The Arbiter|the Arbiter]] are said to be her equals in power.
+**Tiamat**, the Dark Queen of Dragonkind, is a goddess whose power reaches into the Void from somewhere far outside it. She has never appeared in person, but she has answered prayers twice. The first time, she turned a dying champion's plea into a brief, strange and oddly tender father-son story. The second time, she lent her favor, and her terror, to a battlefield "impossible eons away" from her. She is a figure of real might, and the Grandmaster and [[The Arbiter|the Arbiter]] are said to be her equals in power.
 
 ## Story
 
 ### S1E12 — Feast
 
-Tiamat's first intervention came in [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]. [[Potato]] was losing badly and knew it, so he prayed. He asked [[Dinkledink]] not to let him die "like this," and then he turned to the goddess he had served, hoping that "all I've done for Tiamat" would finally be recognized. "I want power. Power enough to live. Power to stand on my own two feet."
+Tiamat's first intervention came in [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]. [[Potato]] was afraid of dying, so he prayed. He asked [[Dinkledink]] not to let him die "like this," and then he turned to the goddess he had served, hoping that "all I've done for Tiamat" would finally be recognized. "I want power. Power enough to live. Power to stand on my own two feet."
 
 Tiamat answered. Potato rose renamed and announced to the arena that "I was named by Tiamat. I was given the name of Starfall." The Arbiter judged it "a little dramatic, but it's not the most dramatic thing we've had in the arena." The goddess's blessing settled on both the reborn champion and his opponent, now his "newfound father," and restored them to full strength. The Grandmaster told Dinkledink that he had a new responsibility: raising young Starfall. Starfall took to it at once, telling his new father that "Tiamat shall empower you." Dinkledink's reply was the most honest line of the night: "What the fuck did I get myself into?"
 
-The bond did not last. As Starfall lay dying, he felt it one last time, and the power of Tiamat flowed into Dinkledink and gave him a rite to lay his son to rest. Tiamat granted Starfall a final breath so he could look up and say "Father" before he died. Dinkledink then delivered his eulogy straight to the goddess. He admitted he had known the boy for "like, an hour, two," said they had been going to be "an unstoppable team," and promised to find Starfall's mother and treat her to a fancy fried fish dinner.
+The bond did not last. As Starfall lay dying, he felt it one last time, and the power of Tiamat flowed into Dinkledink and gave him a rite to lay his son to rest. Tiamat granted Starfall a final breath so he could look up and say "Father" before he died. Dinkledink then delivered his eulogy straight to the goddess. He admitted he had known the boy for "like, an hour, two," said they had been going to be "an unstoppable team," and promised to find Starfall's mother, treat her to a fancy fried fish dinner and "possibly make more Starfalls."
 
 ### Fate of the Faithful
 
@@ -34,7 +34,7 @@ Tiamat's name came up again in [[Episodes/Fate of the Faithful/040 - Coriander S
 
 John fought back with his own faith. He drew on his talisman, the red kiss, which glowed like dripping blood, and the symbol of Tiamat blazed on the back of his jacket. He prayed aloud to the Dark Queen of Dragonkind, loudly enough for Hathim to hear, and wrapped [[Asena]] in a shell of protective ice. With two of her chosen champions on opposite sides, Tiamat had to pick one, and the gnomes declared that "she favors you in this instance." Hathim's chilled blood made him immune to the cold, so John invoked the blue dragon and turned the ice to lightning. When Hathim's axe struck it, he fried himself.
 
-Later in the fight, John's shadow stretched across the battlefield and grew wings, and the Tiamat sigil on his coat lit with multicolored fire. Many of the brutes and one knight were overcome with fear. Hathim alone was unshaken, "because Tiamat wants him to fear *her*."
+Later in the fight, John's shadow stretched across the battlefield and grew wings, and the Tiamat sigil on his coat lit with multicolored fire. Many of the brutes and one knight were overcome with fear. Hathim was unshaken, "because Tiamat wants him to fear *her*."
 
 ## Personality and Abilities
 
@@ -44,7 +44,7 @@ Tiamat appears only through her works and her worshippers, and those works are g
 
 - [[Potato]]: her devotee, whom she renamed Starfall and granted a final breath before death.
 - [[Dinkledink]]: blessed by her as Starfall's new father, and given the rite to lay his son to rest.
-- Hathim: her agent from Lacunas, called "the blood berserker of Tiamat," who is meant to fear only her.
+- Hathim: her agent from Lacunas, called "the blood berserker of Tiamat," whom she wants to fear her.
 - John: one of her anointed champions, who called on her favor in the Fate of the Faithful crossover.
 - [[Asena]]: protected by the ice John summoned through Tiamat's favor.
 

@@ -15,7 +15,7 @@ played_by:
 - 'Gurdi: deadaussiegamer'
 winner: Floyd of the Pink and Luci (Hurdey and Gurdi technically won by the gauntlet's rules)
 arena: The Grandmaster's handmade gauntlet map
-summary: 'Two teams raced through a hand-crafted gauntlet of tavern games, knife-wielding seagulls, a Kraken and a cursed treasure island. Hurdey burned his own heart to solve a riddle and Gurdi''s severed wing touched the gold as he died, but Floyd and Luci survived and walked off with the prize: a golden body pillow.'
+summary: 'Two teams raced through a hand-crafted gauntlet of tavern games, knife-wielding seagulls, a Kraken and a treasure island. Gurdi burned Hurdey''s heart to solve a riddle and Gurdi''s severed wing touched the gold as he died, but Floyd and Luci survived and walked off with the prize: a golden body pillow.'
 tags:
 - episode
 youtube: https://youtu.be/tqQP-YlaRk4
@@ -24,7 +24,7 @@ canon_order: 57
 
 [Watch on YouTube](https://youtu.be/tqQP-YlaRk4)
 
-For her second gauntlet, [[Grandmaster Elusia Skypiercer|the Grandmaster]] did not simply open an arena. She built one by hand, out of felt, glue and glitter, in the basement of [[The Dread Fortress]]. Into it stepped two odd couples: the devoted, fedora-burdened **[[Floyd of the Pink]]** and his silent satyr mistress **[[Luci]]**, against **[[Hurdey]]**, a bear, and **[[Gurdi]]**, the red bird who lives in his backpack. What followed was a drinking game, a seagull war, a Kraken, a burned waifu pillow, a stolen nipple, and an ending so tangled that both teams could claim victory.
+For her second gauntlet, [[Grandmaster Elusia Skypiercer|the Grandmaster]] did not simply open an arena. She built one by hand, out of felt, glue and glitter, in the basement of [[The Dread Fortress]]. Into it stepped two odd couples: the devoted, fedora-burdened **[[Floyd of the Pink]]** and his silent satyr mistress **[[Luci]]**, against **[[Hurdey]]**, a bear, and **[[Gurdi]]**, the red bird who lives in his backpack. What followed was a drinking game, a seagull war, a Kraken, a burned waifu pillow, a bitten-off nipple, and an ending so tangled that both teams could claim victory.
 
 ## The Story
 
@@ -38,13 +38,13 @@ The Arbiter admitted he had expected something simpler: "they go, they fight, th
 
 The Arbiter's portal poured out fog, smoke and, for no reason anyone could explain, laser lights. Out came Hurdey, a bipedal bear, with Gurdi peering over his shoulder from the backpack. Their first speech was entirely unintelligible. The Grandmaster did her best to translate it as "I'm here for victory and for death!" but admitted she had missed the rest because she was too slow at reading.
 
-Floyd introduced himself on his mistress's behalf. He announced that Great Mistress Luci had "found me on street corners for no more than fifty pence," taken him in and taught him everything she knew. Luci herself said nothing. She was a satyr with pink-to-red hair, grayish-red skin and great jet-black antlers, and she rested a huge maul across her shoulders and smirked. When Floyd dropped to his knees, tipped a hat he did not have and whispered "m'lady," the Arbiter sighed: "Grandmaster, we got another one. Another m'ladyer."
+Floyd introduced himself on his mistress's behalf. He announced that Great Mistress Luci had "found me on street corners for no more than fifty pence," taken him in and taught him everything she knew. Luci herself said nothing. She was a satyr with pink-to-red hair, grayish-red skin and great jet-black antlers, and she rested a huge maul across her shoulders and smirked. When Floyd dropped to his knees, tipped a hat he did not have and whispered "m'lady," the Arbiter sighed: "Grandmaster, we got another one. Another m'ladyer." Floyd's fedora was missing, the Arbiter explained, because someone had once told him to shove it right up his ass, and he did: "It's gone forever now."
 
 The Grandmaster responded with justice of the arts-and-crafts kind. A goblin glued a shimmering pink satin cape to Floyd's shoulders. Then came a sparkly fedora stacked three high, about ten pounds of it, "so that you may be aware of the burden you put on the rest of us every time you say m'lady." Meanwhile Hurdey and Gurdi seemed to be choking. Gurdi dug a super-large candy out of the backpack and wing-fed one to Hurdey. Suddenly they could speak plainly, and they used the gift at once to promise to tear heads off, bathe in blood, and lay eggs in their enemies' stomachs. "I'm not sure if it was better before or now," said the Arbiter.
 
 ### Flippy Cup at the Tavern
 
-The portal opened onto a quaint, noisy tavern on a small island. A bartender worked there with his little apprentice kitty cat, and the ceiling was so thin that [[The Acolytes]] could be seen cheering in the stands high above. The bartender explained that he had "been talking with the Grandmaster": each team had to win a drinking challenge to earn its map. Then he turned it into "my old college game," Flippy Cup. The Arbiter asked if his chains could come off so he could drink. "Quit being a pansy," said the Grandmaster.
+The portal opened onto a quaint, noisy tavern on a small island. A bartender worked there with his little apprentice kitty cat, and the ceiling was so nearly see-through that [[The Acolytes]] could be seen cheering in the stands high above. The bartender explained that he had "been talking with the Grandmaster": each team had to finish a drinking challenge to earn its map. Then he turned it into "my old college game," Flippy Cup. The Arbiter asked if his chains could come off so he could drink. "Quit being a pansy," said the Grandmaster.
 
 Hurdey chugged while Gurdi flipped, and Luci drank while Floyd flipped ("like I do on a regular basis"). Gurdi stuck a landing with a wings-out backflip and a dab. Luci flipped off the other table for the whole of her third drink. Hurdey downed two at once. On the final round Floyd landed a perfect natural 20 and sent a wave of spilled drinks across the room onto the rival table. Hurdey had been obliviously balancing his pint on his head, and Gurdi's flip skidded and failed, leaving the bear a little less nimble.
 
@@ -52,13 +52,13 @@ Each team got a scroll sealed with a skull and crossbones. "Lady, this seems to 
 
 ### Pillow Fight at the Docks
 
-The Acolytes cried "Chaos!" and, stepping outside, every champion found their weapon turned into their own sleeping pillow. Hurdey's claws became a mossy hibernation nest. Gurdi's beak wore a down pillow like a child-safety bumper, because he is always bumping into things. Luci held a demonic lamb Pillow Pet with glowing red eyes that she uses as a nightlight for bathroom trips. Floyd's scimitar became a full-length body pillow of a wide-eyed, cat-eared anime girl, and he turned very red. "Listen," said the Grandmaster, "we all love to snuggle with our favorite anime characters."
+The Acolytes cried "Chaos!" and, stepping outside, every champion found their weapon turned into their own sleeping pillow. Hurdey's claws became a mossy hibernation nest. Gurdi's beak wore a down pillow like a child-safety bumper, because he is always bumping into things. Luci held a demonic lamb Pillow Pet with glowing red eyes that she uses as a flashlight for bathroom trips at night. Floyd's scimitar became a full-length body pillow of a wide-eyed, cat-eared anime girl, and he turned very red. "Listen," said the Grandmaster, "we all love to snuggle with our favorite anime characters."
 
 Down past a little orange tree, the storm-broken docks led to two ships. A horde of seagulls in tiny helmets swooped in with knives in their talons. "Not the murder seagulls," Floyd groaned. "Be careful of the rare switchblade variety." One gull flipped a butterfly knife on a rock while holding unbroken eye contact with him.
 
-Luci tried to freeze Gurdi in place, and Gurdi flung the spell aside at the last instant. Hurdey charged through the gulls to shove Luci off the pier, but she simply planted her goat hooves. In the Arbiter's words: "She just stands there and is like, I'm not moving, bitch." Floyd walked to the other dock and stared the seagulls down until they put away their switchblades, lined up like a choir and bowed. "My stepfather was a seagull," he explained. "Must have been a gentleman," said the Grandmaster.
+Luci tried to freeze Gurdi in place, and Gurdi flung the spell aside at the last instant. Hurdey charged through the gulls to shove Luci off the pier, but she simply planted her goat hooves. "She's got fucking goat feet. She just stands there and is like, I'm not moving, bitch." Floyd walked to the other dock and stared the seagulls down until they put away their switchblades, lined up like a choir and bowed. "My stepfather was a seagull," he explained. "Must have been a gentleman," said the Grandmaster.
 
-Then Gurdi dove into the backpack. Two chicken legs popped out of the bottom, flipped the pair so the bird carried the bear, and ran across the water so fast the planks started to smoke. Gurdi triple-flipped onto the deck: "Look at me, look at me, I am the captain now." The bartender held up a 10. The anchor would not budge, though, and when the Arbiter rolled badly at the end of the round, the Grandmaster noted that [[Doug the Pug|Doug]] was laughing at him "in a little pug chuckle."
+Then Gurdi dove into the backpack. Two chicken legs popped out of the bottom, flipped the pair so the bird carried the bear, and ran so fast the planks started to smoke, then walked the bear across the water. Gurdi triple-flipped onto the deck: "Look at me, look at me, I am the captain now." The bartender held up a 10. The anchor would not budge, though, and when the Arbiter rolled badly at the end of the round, the Grandmaster noted that [[Doug the Pug|Doug]] was laughing at him "in a little pug chuckle."
 
 ### The Ship Swap
 
@@ -70,9 +70,9 @@ Floyd bowed before his mistress, declared that "only the greatest of fans are wo
 
 ### The Kraken
 
-Near the island, giant tentacles burst from the sea. **[[The Kraken]]** had arrived, and the pillows turned back into weapons. Gurdi's rear popped out of the backpack and fired four flaming eggs into a tentacle, which burst in great burning yolks. Hurdey shielded Gurdi with five golden feathers and harpooned a tentacle in half, scattering suction cups across the deck. Then he called on an old friend: "Clanky, remember that time we helped you out?" A medium-sized metal construct shark rose from the deep. It had a gold tooth and, for some reason, a blowhole, "because it's poorly designed." It missed both bites.
+Near the island, giant tentacles burst from the sea. **[[The Kraken]]** had arrived, and the pillows turned back into weapons. Gurdi's butt popped out of the backpack and fired four flaming eggs into a tentacle, which burst in great burning yolks. Hurdey shielded Gurdi with five golden feathers and harpooned a tentacle in half, scattering suction cups across the deck. Then he called on an old friend: "Clanky, remember that time we helped you out?" A medium-sized metal construct shark rose from the deep. It had a gold tooth and, for some reason, a blowhole, "because it's poorly designed." It missed both bites.
 
-Floyd grew a kelp forest under the enemy ship and trapped it, then prayed to the "Lord of all tentacles" with the sacred word "boo-woo." The Kraken did not appreciate being called a lord, and she turned her gaze on his ship. Gurdi burst out of the backpack in a cloud of red feathers and set Floyd's sails on fire with an egg: "Sticks and stones will break your bones, but bird eggs will bloody burn ya!" The Kraken slammed both ships. Then the butterfly, offended that three of the champions had never called to it, introduced Hurdey, Gurdi and Luci to "the butt in Butterfly."
+Floyd grew a kelp forest under the enemy ship and trapped it, then prayed to the "Lord of all tentacles" with the sacred word "boo-woo." The Kraken did not appreciate being called a lord, and she turned her gaze on his ship. Gurdi burst out of the backpack in a cloud of red feathers and set Floyd's sails on fire with an egg: "Sticks and stones will break your bones, but bird eggs will bloody burn ya!" The Kraken slammed both ships. Then the butterfly, offended that three of the champions had never called to it, introduced Hurdey, Gurdi and Luci to "the butt in Butterfly": it crop-dusted them, farting on all three until their noses burned and they could taste exactly what it had been eating.
 
 Luci vaulted off a plank at the prow, arced over the tentacles and landed walking on the water. Hurdey's haste wore off, leaving him sluggish, so Gurdi's legs carried the bear up the rigging and they "flew" for the island. Floyd, alone on a burning boat, marveled that "it is not about the mirth, but the motion in the ocean." He slipped through hidden paths to the shore and summoned winds to blow "Hurdle and Gurdle" into the sea. "My name is Hurdy Gurdy and you're not going to do shit," came the reply, and Hurdey snuffed the spell out.
 
@@ -80,21 +80,21 @@ Luci vaulted off a plank at the prow, arced over the tentacles and landed walkin
 
 The second riddle asked the teams to "sing them a song with twos." Hurdey and Gurdi, both trained on the hurdy-gurdy, scatted at length over a four-string instrument. "Scatting is singing," they insisted, despite admitting they can't actually play. Floyd and Luci swayed arm in arm through "Oh, say can you see? / By the dawn's early light." The dead were satisfied with both performances. Hurdey and Gurdi then fumbled the next beat so badly ("Not quite my tempo") that their rivals got two turns before they did.
 
-The final riddle was grim: "You must give the heart of your ally as a fine. Burn their passion and you will find the treasure you seek." Hurdey understood at once. "I think we have to kill each other."
+The final riddle was grim: "You may only have one treasure at a time, so you must give the heart of your ally as a fine. Burn their passion and you will find the treasure you seek in kind." Hurdey understood at once. "I think we have to kill each other."
 
 ### The Graveyard and the Temple
 
 The island held an old graveyard of scattered bones, leading up to a temple between two low pillars with scale-marked platforms. The Arbiter rolled a natural 20 and raised a hand, and a minotaur's skeleton burst from the sand with an axe and cut into Floyd. "Welcome to the Thunderdome."
 
-Luci decided the passion to burn was Floyd's body pillow. "If mistress wants this, then mistress wants this," Floyd said, and a single anime tear rolled down his cheek. She lit it with her own candles and incense on a pillar. For a moment the waifu seemed to come alive and shed a tear of her own. Then there was only ash, and nothing happened. "Wildly unfortunate," said Luci. Grief-stricken, Floyd grabbed the skeleton's wrist and withered it until its bones bled, and he enlarged two hundred-legged sandworms to fight beside him.
+Luci decided the passion to burn was Floyd's body pillow. "If mistress wants this, then mistress wants this," Floyd said, and a single anime tear rolled down his cheek. She lit it with her own candles and incense on a pillar. For a moment the waifu seemed to come alive and shed a tear of her own. Then there was only ash, and nothing happened. "Wildly unfortunate," said Luci. Enraged at losing his waifu, Floyd grabbed the skeleton's wrist and withered it until its bones bled, and he enlarged two hundred-legged sandworms to fight beside him.
 
-Hurdey and Gurdi bounced in on a giant chicken-legged springboard. Gurdi's beak slammed into the ground with a thunderclap that did almost nothing ("Wow, oh no, you potato"). Then Gurdi launched an egg skyward. It curved back down and struck Hurdey "straight in the heart," and Gurdi turned it into a blast of flame. "That's because you said you didn't like my music," the bird explained. Hurdey stood and took it all willingly. As he burned, sparks became little musical notes with faces, dancing around his head like cartoon birds. "Well," he said, "I guess I'm not going to be in the sequel." The Acolytes' tears fell from the stands like rain.
+Hurdey and Gurdi bounced in on a giant chicken-legged springboard. Gurdi's beak slammed into the ground with a thunderclap that did almost nothing ("Wow, oh no, you potato"). Then Gurdi launched an egg from his cloaca straight up. It curved back down and struck Hurdey "straight in the heart," and Gurdi turned it into a blast of flame. "That's because you said you didn't like my music," the bird explained. Hurdey stood and took it all willingly. As he burned, sparks became little musical notes with faces, dancing around his head like cartoon birds. "Well," he said, "I guess I'm not going to be in the sequel." The Acolytes' tears fell from the stands like rain.
 
 ### The Final Blow
 
-Only Gurdi could see the two chests that now appeared. One was faintly breathing, so he picked the other. **Both were mimics.** The breathing one was a baby, too young to hold its breath, and it had a pacifier in its mouth. Beneath them, Gurdi glimpsed gold.
+Only Gurdi could see the two chests that now appeared. One was faintly breathing, so he picked the other. **Both were mimics.** The breathing one was a baby that didn't know how to hold its breath as well, and it had a pacifier in its mouth. Beneath them, Gurdi glimpsed gold.
 
-Floyd knelt and fed the baby mimic one of Hurdey's leftover feet: "It's okay. You're okay." The Acolytes screamed "breastfeed it," and Floyd, already shirtless, obliged. **The mimic bit off his nipple.** "My nipple is gone! I needed that nipple!" "Don't shove your nipple in random animals' faces," the Grandmaster advised.
+Floyd knelt and fed the baby mimic one of Hurdey's leftover feet: "It's okay. You're okay." The Acolytes screamed "breastfeed it," and Floyd, already shirtless, offered it his nipple: "I will suckle it to my bosom." **The mimic bit off his nipple.** "My nipple is gone! I needed that nipple!" "Don't shove your nipple in random animals' faces," the Grandmaster advised.
 
 Luci ran at Gurdi and brought her holy maul down on his beak twice. The second smite sent him flying into the big mimic's mouth, where he was torn apart. But one wing snapped off, floated down and **touched the gold**. The Grandmaster ruled that Gurdi had technically won and that both his soul and Hurdey's would rest, but the treasure would not be his. The well-fed mimics wandered off, and the chest opened to reveal a golden body pillow of a beautiful eared figure, with a separate tail that wraps around you as you hold it. "Something, something, the friends we've won along the way bullshit," said Floyd. "Body pillow's mine." The Grandmaster closed the gauntlet with a reminder to her Acolytes: never give up.
 
@@ -103,7 +103,7 @@ Luci ran at Gurdi and brought her holy maul down on his beak twice. The second s
 - The Grandmaster built the entire arena as a craft project, papier-mâché patrons with names and ages included, and banned any fighting in her "adorable tavern."
 - Floyd's fedora grew heavier with every "m'lady."
 - Floyd turned a horde of knife-wielding seagulls to his side by revealing his stepfather was one of them.
-- Gurdi grew chicken legs and ran across the sea carrying a full-grown bear.
+- Gurdi grew chicken legs and walked across the sea carrying a full-grown bear.
 - Luci burned Floyd's beloved waifu pillow to solve a riddle, and it did nothing.
 - Floyd tried to foster a baby mimic and lost a nipple; Gurdi's severed wing "won" the gauntlet as he was eaten.
 

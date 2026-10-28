@@ -20,7 +20,7 @@ canon_order: 13
 
 [Watch on YouTube](https://youtu.be/ovggvygtAQ8)
 
-**Kleen**, a long-range warlock who swore he was not Mr. Kleen, faced **Ivanna Kishu**, a kiss-blowing aasimar druid with a few tricks borrowed from other trades, in a frozen, abandoned mine at the top of the world. Along the way there was Acolyte dodgeball, a round fought entirely in Pig Latin, a howl-off, an avalanche and a showdown on a bridge over a frozen waterfall. It ended with a literal shitstorm and with [[The Arbiter|the Arbiter]] quietly stealing the loser's body for reasons of his own.
+**Kleen**, a long-range warlock who swore he was not Mr. Kleen, faced **Ivanna Kishu**, a kiss-blowing aasimar druid with a few tricks borrowed from other trades, in a frozen, abandoned mine far up in the north. Along the way there was Acolyte dodgeball, a round fought entirely in Pig Latin, a howl-off, an avalanche and a showdown on a bridge over a frozen waterfall. It ended with a literal shitstorm and with [[The Arbiter|the Arbiter]] quietly stealing the loser's body for reasons of his own.
 
 ## The Story
 
@@ -36,7 +36,7 @@ The Arbiter clapped. The sound rippled through the chamber and split open a port
 
 [[Kleen]] kept his introduction short: "My name is Kleen. I am a warlock, Pact of the Genie. And I am here to battle." He had an imp, and a fighting philosophy to match his name: "It's going to get dirty. And then very clean."
 
-[[Ivanna Kishu]] took a more philosophical line. "Violence is one way, but there are always other ways. There is Ivanna Kishu ways." She described herself as a protector, an aasimar and a druid, "and I'm definitely not OP at all," before promising to beat the shit out of Kleen. Then she promised to kiss him. Her name, as everyone eventually worked out, sounds a great deal like "I wanna kiss you."
+[[Ivanna Kishu]] took a more philosophical line. "Violence is one way, but there are always other ways. There is Ivanna Kishu ways." She described herself as a protector, an aasimar and a druid, "and I'm definitely not OP at all," before promising to beat the shit out of Kleen. Then she promised to kiss him. Her name is a pun on "I wanna kiss you."
 
 Talk turned to prizes. The Grandmaster suggested that if blood didn't appeal, there was always "whatever juice is in your eyeballs." The Arbiter regretted that he had a blood guy but not an eyeball juice guy. Ivanna was promised the chef's finest eyeball juice dish. Kleen asked for chocolate ice cream with no eyeballs, and the Grandmaster was baffled: "That's what makes the chocolate ice cream really good, is the eyeballs."
 
@@ -44,15 +44,15 @@ Talk turned to prizes. The Grandmaster suggested that if blood didn't appeal, th
 
 With another clap, a cold wave of snow and wind blew through the portal and the champions found themselves in [[Kirken's Mine]], an abandoned mine "hidden far up in the north." The Grandmaster explained that it used to be Kirken's: "Of course, it's my mine now." Kirken, she added, never really left, "but he doesn't own it anymore." Kleen looked a little queasy. She noted approvingly that with all the white around, you could bleach anything and get away with it.
 
-The mine was full of pillars, ledges, rubble, steps and slick ice, and the Grandmaster warned that anyone who slipped onto their backside would be laughed at. She also had not forgotten the chaos the [[The Acolytes|Acolytes]] had summoned at the very end of the last battle, and she ruled that it would open this one. She left in a mini blizzard. The Arbiter left as a cloud of gas, which the Grandmaster identified as "another way of farting your way up." He was, she explained, "compelled by his own beans."
+The mine was full of pillars, ledges, rubble, steps and slick ice, and the Grandmaster warned that anyone who slipped onto their ass would be laughed at. She also had not forgotten the chaos the [[The Acolytes|Acolytes]] had summoned at the very end of the last battle, and she ruled that it would open this one. She left in a mini blizzard. The Arbiter left as a cloud of gas, which the Grandmaster identified as "another way of farting your way up." He was, she explained, "compelled by his own beans."
 
 ### Dodgeball
 
-The opening chaos was dodgeball, and the Acolytes threw everything they had. Dragons, Coke bottles, Doritos, frogs, hot dogs, spaghetti, mini cactuses, Pickle Rick, an angry cucumber, a hammer, a bomb, a toilet and "even a Mud Cat" all rained down. Kleen dodged most of it and caught only a Dorito, some popcorn and a banana. "This is the banana. It always is." Ivanna was less lucky. Pasta, a cookie, a teacup and a cute pumpkin all found her, and she started the fight already bleeding.
+The opening chaos was dodgeball, and the Acolytes threw everything they had. Dragons, Coke bottles, Doritos, frogs, hot dogs, spaghetti, mini cactuses, Pickle Rick, an angry cucumber, a hammer, a bomb, a toilet and "even a Mud Cat" all rained down. Kleen dodged most of it and was hit only by a Dorito, some popcorn and a banana. "This is the banana. It always is." Ivanna was less lucky. Pasta, a cookie, a teacup and a cute pumpkin all found her, and she started the fight already bleeding.
 
 ### Sniper Versus Shapeshifter
 
-Kleen opened with a volley of eldritch blasts, then teleported to the top of a 20-foot pillar. "I am a glass cannon." Ivanna wiped her blood off and licked it ("Not so Kleen, I see") and called down a beam of moonlight on him. She then let the crowd choose her shape, and they chose a hippogriff. Her hair and dress floated as she spun, her arms became white wings, and a beak appeared, wearing lipstick. Her talons had nail polish. "She is very sexy, sexy Hippogriff." It was not, she admitted, a sturdy one: "It's a pretty Hippogriff, it's not a strong Hippogriff."
+Kleen opened with a volley of eldritch blasts, then teleported to the top of a 20-foot pillar. "I am a glass cannon." Ivanna wiped her blood off and licked it ("Not so Kleen, I see") and called down a beam of moonlight on him. She then let the crowd choose her shape, and they chose a hippogriff. Her hair and dress floated as she spun, her arms became white wings, and a beak appeared, wearing lipstick. Her paws had nail polish. "She is very sexy, sexy Hippogriff." It was not, she admitted, a sturdy one: "It's a pretty Hippogriff, it's not a strong Hippogriff."
 
 The Acolytes granted each champion a favor from the crowd. Kleen then revealed just how far his blasts could reach: "My range on my Eldritch Blast is 600 feet." The Arbiter said it might as well be ten kilometers. His first shot was a **natural 20**, and the volley tore the hippogriff apart and left Ivanna back on her feet, badly hurt. "Never let a DM build a character," Ivanna's player sighed.
 
@@ -64,11 +64,11 @@ That raised an important question: did the wolf have a good howl? A howl-off was
 
 After a break, during which the Arbiter chatted with Acolytes by the nacho fountain, the crowd demanded more chaos. For one round, everyone had to speak Pig Latin, and anyone who slipped got a small rock thrown at them by the Arbiter. "Igpe Atenle."
 
-It went badly for everyone. Kleen garbled his way through, jumped off a ledge, twisted his ankle, and wreathed himself in flames that lit the dark mine. Ivanna's attempt to steer her moonbeam in Pig Latin was met with a flat "Nope," so it stopped just short of him: "It would be his choice to step into the spotlight." The Grandmaster answered a question in plain speech and got two rocks thrown at her. Ivanna used her favor from the crowd to cast a spell while still in wolf form, earning a rock of her own, and pelted Kleen with an ice storm that turned the ground around his bad ankle into slush. The Acolytes demanded that Kleen take a rock to the face too, and he did. When the round ended, a small herd of happy Latin pigs ran across the map and lifted the curse forever. "I've never thought I would miss speaking normally," said Ivanna's player.
+It went badly for everyone. Kleen garbled his way through, jumped off a ledge, twisted his ankle, and wreathed himself in flames that lit the dark mine. Ivanna's attempt to steer her moonbeam in Pig Latin was met with a flat "Nope," so it stopped just short of him: "It would be his choice to step into the spotlight." The Grandmaster answered a question in plain speech and got two rocks thrown at her. Ivanna used her favor from the crowd to cast a spell while still in wolf form, earning a rock of her own, and pelted Kleen with an ice storm that left the ground around him even harder going on his bad ankle. The Acolytes demanded that Kleen take a rock to the face too, and he did. When the round ended, a small herd of happy Latin pigs ran across the map and lifted the curse forever. "I've never thought I would miss speaking normally," said Ivanna's player.
 
 ### Fire, Ice and an Avalanche
 
-Kleen spotted steam rising from the wolf's snowdrift and, in the snow, something shiny: a snowball with a ball of ice at its core. The Arbiter called it a game ender. Kleen tucked it away: "I will set my balls into my pants." His next volley came out in the shape of a bald man with an earring. "There is no Kleen like Mr. Kleen!" The Grandmaster laughed so hard that the water she was pretending to drink spilled all over the Arbiter, who steamed himself dry, "cooking those pigs that ran through."
+Kleen spotted steam rising from the wolf's snowdrift and, in the snow, something shiny: a snowball with a ball of ice at its core. The Arbiter called it a game ender. Kleen tucked it away: "I will set my balls into my pants." The Grandmaster laughed so hard that the water she was pretending to drink spilled all over the Arbiter, who steamed himself dry, "cooking those pigs that ran through." Kleen's next volley came out in the shape of a bald man with an earring. "There is no Kleen like Mr. Kleen!"
 
 Kleen took on the traits of his genie patron and floated thirty feet into the air. Ivanna dropped the wolf entirely. "Ivanna comes back! I am tired of all of this. Let's end it." She called lightning down on him from the storm.
 
@@ -80,7 +80,7 @@ Kleen struck first with another devastating volley, then hit her with the ice sn
 
 When the Arbiter called him Mr. Kleen, Kleen set the record straight: "Mr. Kleen is my patron. I'm just Kleen." He tried to confuse Ivanna, failed, and tried to fly off. The Grandmaster had had enough. "No. I am your Grandmaster." She walled both ends of the bridge with snowbanks. "Quit running away on my map." Kleen landed in the middle. "Come at me, Ivanna."
 
-Ivanna tried to confuse him back, failed, and threw her snowball, produced from her shirt. It landed at his feet. She was not proficient with snowballs, she explained, only with chess balls. The Arbiter then rolled a natural 1, and the Grandmaster sentenced him to clean the stadium toilets that night. The [[Goblins|goblins]] got the night off.
+Ivanna tried to confuse him back, failed, and pulled her snowball out of her shirt: "Coming out from my shirt, two balls!" It landed at his feet. She was not proficient with snowballs, she explained, only with chess balls. The Arbiter then rolled a natural 1, and the Grandmaster sentenced him to clean the stadium toilets that night. The [[Goblins|goblins]] got the night off.
 
 ### The Final Blow
 
@@ -88,11 +88,11 @@ Kleen stepped forward and fired, then called on the crowd's favor for one last b
 
 The Grandmaster praised Kleen's timing and the colors he showed "when push came to shove." Kleen declared himself the real Mr. Kleen, then asked how many toilets they were talking about. At least 52. Someone had even pooped in the stands. Kleen magicked the filth of all 52 into the clouds, and it rained down on the spectators. "So you're telling me this is a shitstorm?" asked the Grandmaster. "It is a literal shitstorm, Grandmaster."
 
-As the Grandmaster crowned "a true Kleener" and the crowd's cover-your-mouth cheering turned into a mud fight, nobody watched the Arbiter. He grabbed Ivanna by her wings, vanished with her into his laboratory, laid her on the table and **revived her**. "I'm not done with you yet. You will kiss again."
+While the poop rained down, nobody watched the Arbiter. He grabbed Ivanna by her wings, vanished with her into his laboratory, laid her on the table and **revived her**. "I'm not done with you yet. You will kiss again." Back in the arena, the Grandmaster crowned "a true Kleener," and the crowd, shielding their eyes and mouths from the poop rain, turned their cheering into a mud poop fight.
 
 ## Dried Blood
 
-At the table afterwards, Kleen's player admitted he'd had more fun than usual and liked being the center of attention. Ivanna's player, who is not American, had suffered through Pig Latin, and Kleen's player suggested French next time. It turned out the Pig Latin was payback for an earlier game where the Grandmaster had been made to speak French and could only remember "axe" and "cantrip." Kleen's player had been hoping Ivanna would walk into his circle of flame. She never did. "I'm never doing whatever you want me to do," she said.
+At the table afterwards, Kleen's player admitted he'd had more fun than usual and liked being the center of attention. Pig Latin had been hard going for a player who isn't American, and Kleen's player suggested French next time. It turned out the Pig Latin was payback for an earlier game where the Grandmaster had been made to speak French and could only remember "axe" and "cantrip." Kleen's player had been hoping Ivanna would walk into his circle of flame. She never did. "I'm never doing whatever you want me to do," she said.
 
 ## Notable Moments
 

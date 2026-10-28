@@ -13,7 +13,7 @@ played_by:
 - 'Lyrus: Mudcat'
 winner: No winner (not a Deathmatch); the heroes and Lyrus's militia beat the impostor troops
 arena: Prexmarin, the Hanging City (market circle)
-summary: Chasing Ralzamon into the Void, John Carmichael and Asena team up with Lyrus to defeat impostors posing as the Grandmaster's troops, including Hathim, whom Lyrus beheads through a portal. Lyrus reveals the Arbiter's secret coup and takes them to the rebels' hideout in a blacksmith shop, after a detour to buy every spoon on the street.
+summary: Chasing Ralzamon into the Void, John Carmichael and Asena team up with Lyrus to defeat impostors posing as the Grandmaster's troops, including Hathim, whom Lyrus beheads through a portal. Lyrus reveals the Arbiter's secret coup and takes them to the rebels' hideout in a blacksmith shop, after a detour to buy every spoon a little boy was selling.
 tags:
 - episode
 youtube: https://youtu.be/Yp1NY5wF6kM
@@ -22,7 +22,7 @@ canon_order: 40
 
 [Watch on YouTube](https://youtu.be/Yp1NY5wF6kM)
 
-The heroes of the Coriander Society followed their nemesis through a tear in reality and landed somewhere they had never been: **[[The Void]]**. **[[John Carmichael]]** and **[[Asena]]** arrived in a city that hangs from chains and found a riot already underway. They joined forces with **[[Lyrus]]**, a werebear swordsman who cuts holes in space, and brawled their way through a market square. Then they learned that someone close to the Grandmaster was plotting against her. The episode is part fight and part culture shock, and it might be the only time a crossover was settled by buying thousands of wooden spoons.
+The heroes of the Coriander Society followed their nemesis through a tear in reality and landed somewhere stranger than any world John had seen: **[[The Void]]**. **[[John Carmichael]]** and **[[Asena]]** arrived in a city that hangs from chains and found a riot already underway. They joined forces with **[[Lyrus]]**, a werebear swordsman who cuts holes in space, and brawled their way through a market square. Then they learned that someone close to the Grandmaster was plotting against her. The episode is part fight and part culture shock, and it ends with the heroes' loot spent on thousands of wooden spoons.
 
 ## The Story
 
@@ -30,7 +30,7 @@ The heroes of the Coriander Society followed their nemesis through a tear in rea
 
 John and Asena come from two different worlds, and they met in another universe entirely. They had been tracking **[[Ralzamon]]**, the "Master of the Unknown," who turned out to be a figure from Asena's past. They had him on the verge of defeat when a gateway ripped open behind him. A hand reached through, a voice said "I still have need of you," and Ralzamon was dragged away into the void.
 
-John and Asena leapt after him, along with the wizened old **[[Lawrence Booker Green]]**, another traveller from another universe. Asena can usually bend portals to her will. This one went past the astral plane, past time and space, across "an impossible, paradoxical, infinite distance," and hurled them head over heels. Lawrence's shoes did not make the trip. They stayed behind in the Chamber of Crystal and Bubbling Tar, where the fight with Ralzamon had been, and they presumably sit there alone to this day.
+John and Asena leapt after him, along with the wizened old **[[Lawrence Booker Green]]**, another traveller from another universe. Asena can usually bend portals to her will. This one went past the astral plane, past time and space, across "an impossible, paradoxical, infinite distance," and hurled them head over heels. Lawrence's shoes did not make the trip. They stayed behind in the Chamber of Crystal and Bubbling Tar, where the fight with Ralzamon had been, and a pair of shoes now sits there alone.
 
 ### The Hanging City
 
@@ -40,17 +40,17 @@ They did hear yelling and breaking from the market square up ahead. Asena ran st
 
 ### Riot in the Market Circle
 
-The market circle was beautiful, with intricate carvings set into the marble floor and copper and bronze worked into geometric patterns. Hulking, hairless brutes with purplish-grey skin were wrecking it. They wore bits and pieces of the Grandmaster's colours: gold, blue-green and black. At their head stood a figure John recognised. It was **Hathim**, the blood berserker of **[[Tiamat]]**, a member of her elite hit squad from the world of Lacunas. He wore power armour, now repainted in gold and black with blue-green highlights to match the mob, and he carried two axes glowing with red energy. John's gun, Krontaka, pulsed in his hand. It sensed fey blood in the brutes and something fiendish in their leader.
+The market circle was beautiful, with intricate carvings set into the marble floor and copper and bronze worked into geometric patterns. Hulking, hairless brutes with purplish-grey skin were wrecking it. They wore bits and pieces of the Grandmaster's colours: gold, blue-green and black. At their head stood a figure John recognised. It was **Hathim**, the blood berserker of **[[Tiamat]]**, a member of her elite hit squad from the world of Lacunas. He wore power armour, now repainted in gold and black with blue-green highlights to match the mob, and he carried two axes glowing with red energy. John's gun, Krontaka, pulsed in his hand. It sensed traces of the fey in the brutes and something fiendish in their leader.
 
-Then Lyrus charged in from the south with his band of fighters. He was a white-furred werebear, seven or eight feet tall, in grey and black plate. He carried two black swords that swallowed the light around them. His first cut opened a singularity in an enforcer's chest and sucked the man inside it. "Move into position!" he roared. Knights in bluish plate sealed the exits behind the mob. John guessed they were Knights of Terra Nimbus.
+Then Lyrus charged in from the south with his band of fighters. He was a white-furred werebear, seven or eight feet tall, in grey and black plate. He carried two black swords that swallowed the light around them. His first cut opened a singularity in an enforcer's chest and sucked the man inside it. "Move into position!" he roared. Knights in bluish plate blocked the north and south exits. John guessed they were Knights of Terra Nimbus.
 
-Asena took the direct approach, as she always does. She walked up to the brutes and asked whether they had seen Ralzamon. Every gold-clad fighter on the field turned to look at her. There was a pause, and then they all attacked her.
+Asena took the direct approach. She walked up to the brutes and asked whether they had seen Ralzamon. Every gold-clad fighter on the field turned to look at her. There was a pause, and then they all attacked her.
 
 ### Dragon Fear and Fireballs
 
-Hathim charged first, shoving everyone aside and swinging with total recklessness. John answered in a way that only made sense to him. He called on a blood-red talisman, the red kiss, and the symbol of Tiamat blazed on the back of his jacket. He prayed aloud to the Dark Queen of Dragonkind, loud enough for Hathim to hear. Faced with two of her chosen, the goddess favoured John this time. She wrapped Asena in crackling armour, and when Hathim's axe struck it, the axe fried him. John's shadow stretched across the square and grew wings, and many of the brutes cowered. Hathim did not, "because Tiamat wants him to fear *her*."
+Hathim charged first, shoving everyone aside and swinging with total recklessness. John answered in a way that only made sense to him. He called on a blood-red talisman, the red kiss, and the symbol of Tiamat blazed on the back of his jacket. He prayed aloud to the Dark Queen of Dragonkind, loud enough for Hathim to hear. Faced with two of her chosen, the goddess favoured John this time. John shielded Asena in ice, then, since Hathim was immune to cold, switched it to lightning by invoking the blue dragon. When Hathim's axe struck it, it fried him.
 
-John then pulled a small piece of coral from his bag. It became a water trident and flooded the market, knocking a brute flat. He shouted for help to the nearest large armed stranger: "This guy's attacking just young girls in the street. I don't know if you're some kind of guard, but please, we need your assistance." Lyrus paused mid-slaughter. "Give me just a minute."
+John shouted for help to the nearest large armed stranger: "This guy's attacking just young girls in the street. I don't know if you're some kind of guard, but please, we need your assistance." Lyrus paused mid-slaughter. "Give me just a minute." Then John's shadow stretched across the square and grew wings, and many of the brutes cowered. Hathim did not, "because Tiamat wants him to fear *her*." John then pulled a small piece of coral from his bag. It became a water trident and flooded the market, knocking a brute flat.
 
 Lyrus was busy. The brutes' leader swung a huge maul at him, and Lyrus sliced a portal in the air. The maul and the arm holding it came out ten feet away, and the leader yanked them back just before the portal closed, covered in charred ash. Lyrus pointed a sword at him:
 
@@ -58,7 +58,7 @@ Lyrus was busy. The brutes' leader swung a huge maul at him, and Lyrus sliced a 
 
 The gold turned misty and faded. Underneath was ramshackle plate and leather with none of the Grandmaster's insignia. "I see. I'll deal with you in a second then."
 
-A knight levitated John twenty feet into the air. Lyrus caught his eye and slashed open a portal right in front of him. John fired a fireball bullet through it into the middle of the plaza. That left John hanging in the air inside his own fireball. Asena had been dared to sing, so John sang for her: "Oh no, please fireball, don't blow me up again!" A screaming monster happened to stagger into the blast below him, and John hid behind it, untouched.
+A knight levitated John twenty feet into the air. Lyrus caught his eye and slashed open a portal right in front of him. John fired a fireball bullet through it into the middle of the plaza. That left John hanging in the air inside his own fireball. A reward had been promised to the first person to sing, so John sang: "Oh no, please fireball, don't blow me up again!" A screaming monster happened to put itself between him and the blast below, and John hid behind it, untouched.
 
 ### "Who's Your Master?"
 
@@ -66,7 +66,7 @@ Asena was still trying to have a conversation. "I don't know why you're fighting
 
 Then a crushing mental presence settled over the market. It dug for every flaw and every scrap of self-hatred. It reminded Lyrus that he had to live up to the legacy of his father, **[[Orin]]**, but his will held. John and Asena knew the presence: it was Ralzamon, "stronger, more powerful than ever." It found Asena's impatience and her hunger for direct action, and it made her curse at the wind.
 
-The fight got stranger from there. Hathim cut Asena down nearly to nothing. The Fang of Glotharius at her throat flared silver and imploded, blasting the brutes around her and knocking Hathim onto his back. John was still levitating and now upside down, so he conjured a set of illusory Johns, "also floating ignominiously upside down with their hair flailing." He emptied his bottomless briefcase in search of something useful. A wrench and a rubber chicken fell out first, followed by ten inflatable life rafts, which covered the courtyard in soft landing spots. The four Johns wiggled in midair while the knights watched. Hathim fired the jump jets on his armour to hack at the floating wizard. John's response was simply: "That's illegal."
+The fight got stranger from there. Hathim cut Asena down nearly to nothing. The Fang of Glotharius at her throat flared silver and imploded, blasting the brutes around her and knocking Hathim onto his back. Hathim got up and fired the jump jets on his armour to hack at the floating wizard. John was still levitating and now upside down, so he conjured a set of illusory Johns, "also floating ignominiously upside down with their hair flailing." He emptied his bottomless briefcase in search of something useful. A wrench and a rubber chicken fell out first, followed by ten inflatable life rafts, which covered the courtyard in soft landing spots. The four Johns wiggled in midair while the knights watched.
 
 Lyrus made a perfect strike. He cut down one foe, set a knight ablaze with black fire, then cut a portal into the dying knight's chest and stepped through it to appear behind another enemy. Asena blasted Hathim in the face with her double-barrel shotgun, shouting "You lied to me!", and melted into Lyrus's militia. Lawrence rubbed his forehead, pointed at Hathim and told him to "fuck off." Hathim shrugged off the banishing spell.
 
@@ -74,7 +74,7 @@ John gave himself a pep talk: "John, you're a fucking wizard… You can do this.
 
 ### The Last Knights
 
-What remained was cleanup. Asena was sloppier now, shaken by how close she had come to finishing Ralzamon. Krontaka hungered for fey blood and dragged John ten feet toward the brutes' leader like an invisible dog on a leash, then drew black blood from him. Lyrus drove both swords into the leader's chest and pulled them apart to stretch a portal. He dived through it head-first and fell out of the sky above a fleeing knight, splitting it in two. Each half went into a separate portal. Lyrus landed sixty feet down with a crack of his knees. "I should have saved a portal for the way back."
+What remained was cleanup. Asena was sloppier now, shaken by how close she had come to finishing Ralzamon. Krontaka hungered for fey blood and dragged John ten feet toward the brutes' leader like an invisible dog on a leash, then drew black blood from the leader. Lyrus drove both swords into the leader's chest and pulled them apart to stretch a portal. He dived through it head-first and fell out of the sky above a fleeing knight, splitting it in two. Each half went into a separate portal. Lyrus landed sixty feet down with a crack of his knees. "I should have saved a portal for the way back."
 
 Asena ran up a pillar, backflipped off it, punched the last knight in midair and rode him down into the cobbles. She stood up from the dent "not a hair out of place." John started stuffing the dead knights' armour into his bag.
 
@@ -82,23 +82,23 @@ Asena ran up a pillar, backflipped off it, punched the last knight in midair and
 
 Asena, quietly furious, pointed at Lyrus. "I like your sword." He returned the compliment as best he could ("I like your fists, I guess") and introduced himself: "I am Lyrus, son of Orin, servant of the Grandmaster." When Asena mentioned that the headless one had claimed the same master, Lyrus called them "Charlatans, all of them." He healed her with a giant paw on her shoulder and offered her a job.
 
-When she mentioned Ralzamon, Lyrus knew the name: "Ralzamon, General of the Arbiter." A bit of nagging from John unlocked something. Asena's "weird dreams," which John had always waved off with "that's really nice, sweetie," came back to her. She remembered the roar of crowds chanting her name. She had fought Ralzamon here, with **[[The Arbiter]]** and **[[Grandmaster Elusia Skypiercer|the Grandmaster]]** watching. Lyrus bowed, as well as an eight-foot werebear can. It was "not often we get [[Champions|champions]] here in the Void after the matches." Asena tried to copy the bow without knowing how. Lyrus explained where they were: the realm of the Grandmaster, "an amalgamation of lost planes. Existing in the same space at the same time." He pointed, and on every horizon stood **[[The Dread Fortress]]**, an orc-skull monolith in an endless lava field, visible no matter which way they faced.
+When she mentioned Ralzamon, Lyrus knew the name: "Ralzamon, General of the Arbiter." For once, John took Asena's "weird dreams" seriously instead of waving them off with "that's really nice, sweetie," and they came back to her. She remembered the roar of crowds chanting her name. She had fought Ralzamon here, with **[[The Arbiter]]** and **[[Grandmaster Elusia Skypiercer|the Grandmaster]]** watching. Lyrus bowed, as well as an eight-foot werebear can. It was "not often we get [[Champions|champions]] here in the Void after the matches." Asena tried to copy the bow without knowing how. Lyrus explained where they were: the realm of the Grandmaster, "an amalgamation of lost planes. Existing in the same space at the same time." He pointed, and on every horizon stood **[[The Dread Fortress]]**, an orc-skull monolith in an endless lava field, visible no matter which way they faced.
 
 Then came the bad news. The Arbiter, the Grandmaster's vizier and right hand, had betrayed her. He was building a coup from the inside, and the brutes in stolen colours were his work, sent to sow unrest. "Why would he do that?" asked Asena. "I liked that lady." Lyrus had seen the Arbiter's army himself. He also had a personal grudge. The Arbiter had saved Orin as a child, after his village burned, and had later "murdered my father in cold blood."
 
 ### A Man About a Sword
 
-Lyrus objected to looting the honourable dead. His own soldiers were already doing it behind him, so he gave up and offered John Hathim's head instead. John wrapped it in cloth and packed it. John also worked out what the brutes were: Pygus, spawn of the mirrored fey planes of Ixandar.
+Lyrus objected to looting the honourable dead, but behind him his own soldiers were already doing it. When John explained that where he came from, this was how you made friends, Lyrus picked Hathim's head off the ground and offered it to him. John wrapped it in cloth and packed it. John also worked out what the brutes were: Pygus, spawn of the mirrored fey planes of Ixandar.
 
 Lyrus cut a portal out of the city, and his men scattered under hoods and cloaks. Asena found the portal cold and jagged, "like stepping out into the wind, into the snow." When she tried to widen it, it started fraying like bad cloth, and Lyrus quickly closed it. "Your void is weird," she told him. Lyrus explained that the magic came from the Void itself, "almost a living being," and that greater wielders than he could do far more with it.
 
-He also told them that time runs differently here. Ralzamon had already served the Arbiter for months, though the pair had seen him minutes earlier. Lyrus remembered him from the arena, losing to Asena in the Kitchen of the Dread Fortress. Ralzamon had "a distinct lack of tolerance for milk," and Asena had used milk froth against him. It was "one of the greatest battles in the Kitchen of the Dread Fortress that there ever have been." John finally understood that all of Asena's stories were true. "I don't have a good imagination, John," she said. "Of course they're real."
+He also told them that time runs differently here. Ralzamon had already served the Arbiter for months, though the pair had seen him minutes earlier. Lyrus remembered him from the arena, fighting Asena to the death in the Kitchen of the Dread Fortress. Ralzamon had "a distinct lack of tolerance for milk," and Asena had used milk froth against him. It was "one of the greatest battles in the Kitchen of the Dread Fortress that there ever have been." John finally understood that all of Asena's stories were true. "I don't have a good imagination, John," she said. "Of course they're real."
 
 Down a nondescript castle-ward street, John took Asena aside for a private word, and she misunderstood it as a request to go buy spoons. They bought every spoon a small blonde boy had: thousands of ornate wooden spoons, all of them now sharing a bag with John's "quarter ton of dynamite." Asena kept the finest one. Out of earshot, John said what worried him. Did the Void collect souls on the brink of death, and would they meet more old enemies here? "Are we dead?" Asena asked. John didn't know.
 
 ### The Hideout
 
-The rebels' headquarters was an old blacksmith shop. Two giant forges roared inside, and one had been taken over by **[[Frank]]**, a large orc stirring a cauldron of stew that someone nearby was busy retching up. Lyrus had warned them on the way in: "Whatever you do, don't eat Jeff's food. Sorry, Frank's food." Jeff, it turned out, had been fired for stealing the potatoes and had lost his hands for it. "You have a very good severance package," John said. In a corner, a silver-haired elf named **[[Baptiste]]** flipped daggers and asked each newcomer whether he had ever stabbed them. An old blind dragonborn felt his way across the floor.
+The rebels' headquarters was an old blacksmith shop. Two giant forges roared inside, and one had been taken over by **[[Frank]]**, a large orc stirring a cauldron of stew, while someone nearby was retching from the last batch of his food. Lyrus had warned them on the way in: "Whatever you do, don't eat Jeff's food. Sorry, Frank's food." Jeff, it turned out, had been fired for stealing the potatoes and had his hands cut off for it. "You have a very good severance package," John said. In a corner, a silver-haired elf named **[[Baptiste]]** flipped daggers and asked each newcomer whether he had ever stabbed them. An old blind dragonborn felt his way across the floor.
 
 Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern Outpost]]**. After Orin's death and the Arbiter's betrayal, they deserted to serve the Grandmaster "from the shadows," and many were now wanted for treason. They had no way to warn her. Their messengers disappeared, the Arbiter blocked their magic, and pigeons can't cross the lava. John offered to teach him "the wonderful world of Shadow Warfare." Lyrus admitted he was a soldier, not a tactician: "My father's shoes were quite large." Rain fell, thunder rolled in from the direction of the Fortress, and the heroes finally went to bed.
 
@@ -107,7 +107,7 @@ Lyrus explained the rest. Many of his people had served Orin at **[[The Eastern 
 - Lyrus beheaded Hathim by reaching through a portal, and only the head was left rolling across the courtyard.
 - John sang a ballad begging his own fireball not to blow him up, then hid behind a screaming monster.
 - Four upside-down Johns wiggled in midair over a courtyard full of inflatable life rafts.
-- Asena realised her "weird dreams" were memories of the arena, including beating Ralzamon with milk froth.
+- Asena realised her "weird dreams" were memories of the arena, including using milk froth against Ralzamon.
 - The heroes spent all their gold on every wooden spoon a little boy owned and sent him home early.
 - Lyrus's secret knock turned out to be a normal knock and "It's me."
 

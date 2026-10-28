@@ -8,7 +8,7 @@ champions:
 - Thornabub
 played_by:
 - 'Thornabub: Glorious George'
-- 'Glassy: Ms. Magitek'
+- 'Glassy: Miss_Magitek'
 winner: Thornabub
 arena: The Grandmaster's fluorescent wild-garden forest
 summary: A father from the Nine Hells fought his runaway daughter to drag her home. Thornabub downed Glassy, then spared her in exchange for her boyfriend Jerry's soul, and the Grandmaster called the defeated Glassy an inspiration.
@@ -48,9 +48,9 @@ The new Box of Chaos slammed into the middle of the arena, spitting purple, pink
 
 ### The Sky Opens
 
-Before a blow was struck, the Acolytes' chaos arrived. The clouds parted and a shiny metallic disc began descending from the sky, humming. It was the first chaos event the Grandmaster had ever written down. Glassy felt a tug on everything metal she carried and quietly worked out that, in a few moments, it would pull very hard. She told no one. Then roots erupted at two points in the forest and shot up into trees nearly sixty feet tall, covered in spikes. All anyone could tell was that they were very spiky trees.
+Before a blow was struck, the Acolytes' chaos arrived. The clouds parted and a shiny metallic disc began descending from the sky, humming. It was the first chaos event the Grandmaster had ever written down. Glassy felt a tug on everything metal she carried and quietly worked out that, in a few rounds, it would pull very hard. She told no one. Then roots erupted at two points in the forest and shot up into trees nearly sixty feet tall, covered in spikes. All anyone could tell was that they were very spiky trees.
 
-Glassy threw away her mother's necklace and her belt, and told her father exactly how she felt: "You're a stupid, filthy, evil jerk, and I hate you." She cursed him, then lashed him across the river with lightning, a trick she'd learned from her new boyfriend. ("He's an electrician," the Grandmaster offered.) Thornabub flared his wings to stay out of the water, flew a wide circle and came charging back with his warhammer, missing by a hair. "Stand still. Take your beating like I taught you."
+Glassy threw away her mother's necklace and her belt, and told her father exactly how she felt: "You're a stupid, filthy, evil jerk, and I hate you." She cursed him, then lashed him across the river with lightning, a trick she'd learned from her new boyfriend. ("He's an electrician," the Grandmaster offered.) Thornabub flared his wings to stay out of the water, flew a wide circle and came charging back with his warhammer, missing her but with plenty of force behind the swing. "Stand still. Take your beating like I taught you."
 
 The insults escalated. He ruled a small demiplane of hell, which gave him lots of power over people, "and what's the point of having power if I don't let it get to my head, Glassy Bear?" When he tried to intimidate her, she stared him down. The Grandmaster beamed: "She knows who she is. And it's not Glassy Bear." Then the real grievances came out. Glassy had a life in Luskan and a wizard boyfriend named Jerry. Her parents had arranged for her to marry Mahadi, a "very nice rakshasa" with connections to Asmodeus, so she could "spawn for me an army of infernal creatures to take over the material plane." Glassy: "I am not marrying a tiger freak." The Arbiter: "I definitely am starting to understand."
 
@@ -62,7 +62,7 @@ Then Thornabub charged twice in quick succession and landed a crushing blow wrap
 
 ### Blind and Glowing
 
-Thornabub spent his luck early and struck Glassy blind. "As blind as your mother was when she allowed you to go to the mortal plane." He threw his voice around the forest to confuse her. Working from memory, Glassy blinked to the rune rock and touched it with her staff. It shattered in white light, and she was left glowing a translucent blue and briefly crackling with extra speed. Her eldritch blasts went wide and cracked through the trees, which shook and rumbled as if upset. She scrambled forty feet up a cliff like a spider and stuck her tongue out at a father she couldn't see.
+Thornabub spent his luck early and struck Glassy blind. "As blind as your mother was when she allowed you to go to the mortal plane." He threw his voice around the forest to confuse her. Working from memory, Glassy blinked to the rune rock and touched it with her staff. It shattered in white light, and she was left glowing a translucent blue with a sudden burst of extra energy. Her eldritch blasts went wide and cracked through the trees, which shook and rumbled as if upset. She scrambled forty feet up a cliff like a spider and stuck her tongue out at a father she couldn't see.
 
 Thornabub went back to bargain with Gerald, who had already tasted his blood. "What else you got?" Thornabub raised a few dead forest animals instead, and undead raccoons scampered into the box. Gerald was delighted: "I've always wanted a pet. I will name him Francisco." In return he handed over a breastplate that was not Thornabub's size. "It's a shmedium. I used to be a shmedium back when I was interning for Asmodeus."
 
@@ -74,7 +74,7 @@ Then the magnet came down to feed. Everything metal flew skyward. Thornabub's ar
 
 ### The Final Blow
 
-Thornabub flew up to her. "Glassy Bear, this is your last warning." She answered with two bubbles of acid: "I don't want you anywhere near my life." He admired the new scar and mentioned another, the claw marks across his back left by her mother. "It's important to have a healthy relationship," the Grandmaster said.
+Thornabub flew up to her. "Glassy Bear, this is your last warning, daughter." She answered with two bubbles of acid: "I don't want you anywhere near my life." He admired the new scar and mentioned another, the claw marks across his back left by her mother. "It's important to have a healthy relationship," the Grandmaster said.
 
 "You're right, daughter. I need to respect your space," he said. Then he landed on top of the magnet and dispelled whatever was holding it up, riding it seventy feet down onto her. Glassy let the helm go, slowed her fall and spent her saved luck to roll out from under the plummeting disc. Thornabub had planned for exactly that. As she drifted past, he swung a bare fist and rolled a natural 20, and the hit carried the last of his deathly power. "I will see you in hell, daughter!" The Grandmaster: "We are playing chess tonight."
 
@@ -86,7 +86,7 @@ The Grandmaster honored the battle and the contract and named **Thornabub the wi
 
 ## Dried Blood
 
-At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter explained that they pay him in table scraps and the odd drop of blood. Gerald, he added, once had a girlfriend who fought in the Deathmatch, and she now works on [[The bee farm|the bee farm]] with her memory of him modified, because the Arbiter didn't like how she talked to him. Jerry, meanwhile, was "kinda alive-ish." Thornabub pitched the Nine Hells as a career destination with a 401k and benefits. The Arbiter then leaned in: "Between you and me, I've been trying to overthrow the Grandmaster for years." Thornabub offered the infernal legions his daughter would bear in a few years. Glassy promised to return as an oath-of-vengeance paladin sworn to the Grandmaster, and the Grandmaster offered to be her benefactor: "You're going to have the nicest armor out there." Out of character, the hosts admitted that the sparkling stream had been acid all along.
+At a seedy neon dive bar, Thornabub asked whether Gerald was union. The Arbiter explained that they pay him in table scraps and the odd drop of blood. Gerald, he added, once had a girlfriend who fought in the Deathmatch, and she now works on [[The bee farm|the bee farm]] with her memory of him modified, because the Arbiter didn't like how she talked to him. Jerry, meanwhile, was "kinda alive-ish." Thornabub pitched the Nine Hells as a career destination with a 401k and benefits. The Arbiter then leaned in: "Between you and me, I've been trying to overthrow the Grandmaster for years." Thornabub offered the infernal legions his daughter would bear in a few years. Glassy promised to return as an oath-of-vengeance paladin sworn to the Grandmaster, and the Grandmaster offered to be her benefactor: "You're going to have the nicest armor out there." Out of character, it came out that the sparkling stream had been acid all along.
 
 ## Notable Moments
 

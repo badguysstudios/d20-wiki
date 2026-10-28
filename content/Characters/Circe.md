@@ -4,7 +4,7 @@ type: character
 aka:
 - Cersei
 - Master of Magitek
-role: champion
+role: NPC
 species_class: Inventor and self-styled super villain from Beacon, the Master of Magitek
 first_appearance: Coriander Society - Fate of the Faithful Part 2 (A Crossover)
 status: alive
@@ -33,7 +33,7 @@ Asena's response was a weary "Oh no, an inventor." Lyrus tried to bond over his 
 
 She was part of a kill team sent after Kenny, alongside [[Ganyu Sinmal]], after [[Ralzamon]]'s psychic spying located the goblin. John's illusion trick fell apart at once, because her "gorgeous goggles of all seeing" saw straight through it. "You are going to have to get up earlier in the morning to pull one over on Circe," she told him. When the fighting started, John's fireball rumbled through the whole district and blew up every ninja in sight, but it left Circe completely unsooted, thanks to her "baffling blouse of the elements." She was still explaining that she was "completely immune" when his next shots hit her mid-sentence.
 
-Then she struck back. Her ray gun fired a pink spiral at Asena, who caught it in silver astral light and shoved it back into Circe's face. Circe shrugged it off and was more delighted than angry: "How did you do that? That shouldn't be possible. You have to tell me about your technique." Her next shot, the "stupendous size changing ray," shrank Asena to the size of [[Slakura]]. Tiny Asena got her revenge by bouncing off Slakura onto Circe and landing a curse that made her lose track of what she was doing. The table called it "the curse of ADHD."
+Then she struck back. Her ray gun fired a pink spiral at Asena, who caught it in silver astral light and shoved it back into Circe's face. Circe shrugged it off and was more delighted than angry: "How did you do that? That shouldn't be possible. You have to tell me about your technique." Her next shot, the "stupendous size changing ray," shrank Asena to the size of [[Slakura]]. Tiny Asena got her revenge by bouncing off Slakura onto Circe and landing a curse that could leave her losing whole turns doing nothing at all. It was dubbed "the curse of ADHD."
 
 ### Changing Sides
 
@@ -49,18 +49,18 @@ She gave the party directions into [[The Tumult]], west of [[Prexmarin]], where 
 
 On the approach to Ralzamon's keep in [[The Shadowlands]], each hero saw a haunting vision. Circe gripped her ray gun at nothing, scanned with her goggles and relaxed: "The data and the evidence weren't aligned, but now they are, so we're fine." She shrank the whole party to cat size, smirking as she aimed at Asena, then shrank herself too. She got stuck in the portcullis twice. Her goggles could see through the party's invisibility, which suited her fine. When the group needed to cross a broken bridge, she fired her "bear expansion device" and made Lyrus huge enough to fill the gap, so everyone walked across "Mount Lyrus." Later, Asena's distance quill delivered a note reading "Make me big, please" directly onto Circe's lenses, which left her briefly blind and annoyed.
 
-When a dying Draconic Death Knight's blast dropped Lyrus, Circe flew in and froze him solid in a block of ice, keeping him alive. Afterwards she wanted a full report on "the cryogenic freezing experience" and some tissue samples. Against the Arbiter's giant mechas she phased one into the Ethereal with her "Dapper Density Altering Ray," and crippled another when "not all of your molecules" made the trip. She shrank Lyrus to "transport size" to fly him out, prescribing "exposure therapy" for his fear of heights. She froze the fallen Vargas with "the old nothing personal kid" and turned a giant shadow monster into a chicken on her way through the portal. When the mission was done, she did exactly what she had promised to do: "I'm leaving immediately… As far away from the Arbiter as possible." She left the Void alongside John and Asena.
+When a dying Draconic Death Knight's blast dropped Lyrus, Circe flew in and froze him solid in a block of ice, keeping him alive. Afterwards she wanted a full report on "the cryogenic freezing experience" and some tissue samples. Against a pair of giant mechas she phased one into the Ethereal with her "Dapper Density Altering Ray," and crippled another when "not all of your molecules" made the trip. She shrank Lyrus to "transport size" to fly him out, prescribing "exposure therapy" for his fear of heights. She froze the fallen Vargas with "the old nothing personal kid" and turned a giant shadow monster into a chicken on her way through the portal. When the mission was done, she did exactly what she had promised to do: "I'm leaving immediately… As far away from the Arbiter as possible." She left the Void alongside John and Asena.
 
 ## Personality and Abilities
 
-Circe treats villainy as performance art and a career path in equal measure. She announces herself with full title and practically spins in a circle while doing it. She talks in salesman alliteration about her own gear, and she admits she hasn't yet decided which "school of villainy" to follow. Under the theatrics she is practical, mercenary and scientifically curious to the point of rudeness. She is a little cowardly when the boss is truly dangerous ("Omniscient Entity A, Omnipotent Entity B, it is what it is").
+Circe treats villainy as performance art and a career path in equal measure. She announces herself with full title and practically spins in a circle while doing it. She talks in salesman alliteration about her own gear, and she admits she hasn't yet decided which "school of villainy" to follow. Under the theatrics she is practical, mercenary and scientifically curious to the point of rudeness, and a little cowardly when the boss is truly dangerous. Offered a chance to serve the Grandmaster instead of the Arbiter, she shrugged: "Omniscient Entity A, Omnipotent Entity B, it is what it is."
 
-She describes her craft as combining "the artifice of mortals with the power of the ancients." Her signature weapon is the **Ray Gun of Amazing Transformation**, which has about five modes: shrinking and growing, freezing, "sizzling spicy heat," fire, an etherealizing density ray, and a "bodacious beastomorph ray" that makes chickens. Her jet boots let her fly, her blouse makes her immune to most elemental attacks, and her goggles see through illusion, invisibility and magical darkness.
+She describes her craft as combining "the artifice of mortals with the power of the ancients." Her signature weapon is the **Ray Gun of Amazing Transformation**, which she said has about five modes; over the crossover it shrank and grew, froze, ran on "sizzling spicy heat," shot fire, fired an etherealizing density ray, and, by the end, a "bodacious beastomorph ray" that makes chickens. Her jet boots let her fly, her blouse makes her immune to most elemental attacks, and her goggles see through illusion, invisibility and magical darkness.
 
 ## Relationships
 
 - [[John Carmichael]]: Talked her into defecting, saved her from Ralzamon, and flirted with her throughout; their partnership was described as a "first date," with tech schematics saved for the third.
-- [[Asena]]: Shrunk by Circe in their first fight and never quite forgave her ("I hate her"), though Circe kept insisting she'd grow on her.
+- [[Asena]]: Shrunk by Circe in their first fight and never quite forgave her ("I hate her"), though Circe insisted she'd grow on her.
 - [[Lyrus]]: Resizing target and reluctant patient. Circe made him a bridge, froze him to save his life and flew him out of the keep.
 - [[Kenny]]: Her original target, later a fellow member of the party.
 - [[Ralzamon]]: Her "middle management" boss, who tried to fry her brain for disloyalty.

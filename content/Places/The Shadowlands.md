@@ -8,15 +8,15 @@ tags:
 - place
 ---
 
-**The Shadowlands** are the corner of [[The Void]] that even the Void finds unsettling. Once the realm of [[The Shadow King]], they are a land of ash plains, whispering wind and bottomless chasms, where light seems to give up before it can cross the air. Nobody has ever mapped the whole of it. Heroes have marched in to rescue allies and hunt enemies, and the Deathmatches have staged at least one fight there, much to [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s displeasure. In her words: "I always hated this place anyway."
+**The Shadowlands** are the corner of [[The Void]] that even the Void finds unsettling. Once the realm of [[The Shadow King]], they are a land of ash plains, whispering wind and bottomless chasms, where light seems to give up before it can cross the air. Nobody has ever mapped the whole of it. Heroes have marched in on a rescue mission, and the Deathmatches have staged at least one fight there, much to [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s displeasure. In her words: "I always hated this place anyway."
 
 ## Description
 
 Vythorn, the future [[The Arbiter|Arbiter]], once summed the place up in one line: "This is a land of shadows where fears become real." When he and Elusia first arrived, they found a dead forest that moved as though it were conscious, poisonous fog, obsidian scorpions and spiders, and shadow creatures that had been spreading for years under the Shadow King's rule. [[The Dread Fortress]] loomed on the horizon, a rock shaped like an orc skull with a broken tusk and blazing eyes, visible whichever way they turned.
 
-Later visitors described a landscape that barely makes sense. Dark ashen plains and twisted rock outcroppings give way to "nothingness, openings that go down to unknown depths." Twisted brambles rise out of craggy grey and dark-purple earth. A howling gale grasps at cloaks and fur "like cold shivering claws," and it carries faint murmurs, screams and scornful sneers. The air smells like "a basement that hasn't been opened in far too long… somebody definitely died here long, long ago." The darkness there is often magical, though not everywhere. As [[Asena]] put it, it can be "darker than dark."
+Later visitors described a landscape that barely makes sense. Dark ashen plains, twisted landscapes and rock outcroppings give way to "nothingness, openings that go down to unknown depths." Twisted brambles rise out of craggy grey and dark-purple earth. A howling gale grasps at cloaks and fur "like cold shivering claws," and it carries faint murmurs, screams and scornful sneers. The air smells like "a basement that hasn't been opened in far too long… somebody definitely died here long, long ago." The darkness there is often magical, though not everywhere. Just before the trip, [[Asena]] had worried that lately darkness had been "darker than dark."
 
-At the heart of the region, according to old tales, stands a great spiked castle, "almost an obelisk." Its shadow falls across the land the way the Dread Fortress can be seen from everywhere in the Void. Smaller strongholds are scattered toward the center, and there is at least one mausoleum. Creatures native to the region include vampiric kobolds, "horrifying little monstrosities" with a taste for blood.
+At the heart of the region, according to tales, stands a great spiked castle, "almost an obelisk." Its shadow falls across the land the way the Dread Fortress can be seen from everywhere in the Void. Smaller strongholds are scattered toward the center, and there is at least one mausoleum. Creatures native to the region include vampiric kobolds, "horrifying little monstrosities" with a taste for blood.
 
 Other parts of the Shadowlands are wetter and stranger. The Deathmatch arena there was full of thick, musty, cold black fog that clung to everything. The rock underfoot was squishy, pale plants grew among the puddles, and a river ran with eels. It was called "a monster in and of itself." The land can also drain the mind. [[Lyrus]] warned that "even within its smoke and shadows, your own thoughts may betray you."
 
@@ -24,7 +24,7 @@ Other parts of the Shadowlands are wetter and stranger. The Deathmatch arena the
 
 ### Skypiercer Part 2
 
-In [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]], Vythorn brought Elusia back into the Void, and they landed in a dead forest in the Shadowlands. It was the height of the Shadow King's reign. Chaos storms, the source of magic in the Void, raged out of control, and a jagged tower in view was pointed out as the Shadow King's former home.
+In [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]], Vythorn brought Elusia back into the Void, and they landed in a dead forest in the Shadowlands. It was during the Shadow King's reign. Chaos storms, the source of magic in the Void, raged out of control, and a jagged tower in view was pointed out as the Shadow King's former home.
 
 ### Fate of the Faithful
 

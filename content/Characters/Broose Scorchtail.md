@@ -9,7 +9,7 @@ species_class: Harengon (rabbitfolk) with druid magic and swordplay
 played_by: swoleinitiativenetwork
 first_appearance: S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee
 status: alive
-summary: A six-foot-three, fire-loving, Australian rabbitfolk on holiday who wanted only to take his opponent out for a drink, and won by drowning him in beer instead.
+summary: A six-foot-three, fire-loving, Australian rabbitfolk on holiday who wanted only to take his opponent out for a drink, and won with a braced blade as his opponent drowned in beer.
 aliases:
 - Carrot boy
 - The Carrot Kid
@@ -17,7 +17,7 @@ tags:
 - character
 ---
 
-**Broose Scorchtail** is a six-foot-three rabbitfolk who arrived in the Void on holiday "for some R&R." He wore a pink party poncho, carried an endless supply of carrots and greeted everyone with a cheerful "How you going, mate?" He fought [[Dewdrop Grizzlebee]] in a brewery deep inside [[The Dread Fortress]] and won by bracing his blade as Dewdrop dragged him under a rising flood of beer. All night he insisted he only wanted to share a drink with the man he was killing, and the [[Grandmaster Elusia Skypiercer|Grandmaster]] finally handed him that drink herself.
+**Broose Scorchtail** is a six-foot-three rabbitfolk who arrived in the Void on holiday "for some R&R." He wore a pink party poncho, grew carrots straight out of the ground and greeted everyone with a cheerful "How you going, mate?" He fought [[Dewdrop Grizzlebee]] in a brewery deep inside [[The Dread Fortress]] and won by bracing his blade as Dewdrop dragged him under a rising flood of beer. All night he insisted he only wanted to share a drink with the man he was killing, and the [[Grandmaster Elusia Skypiercer|Grandmaster]] finally handed him that drink herself.
 
 ## Story
 
@@ -38,7 +38,7 @@ In a fight, Broose blends carrot-themed nature magic with swordplay. He can grow
 ## Relationships
 
 - [[Dewdrop Grizzlebee]]: His opponent, a balding, book-learned fairy he kept trying to befriend and take for a drink, and killed with a braced blade beneath the beer.
-- [[The Box of Chaos|Gerald]]: Broose's "friend Jerry," who gave him school supplies, a jug of shifting liquids and a mind-control potion, mostly to get rid of him.
+- [[The Box of Chaos|Gerald]]: Broose's "friend Jerry," who gave him school supplies, a jug of shifting liquids and a mind-control potion, the last of them just to get rid of him.
 - [[The Arbiter]]: A fellow fire lover who blessed Broose mid-fight out of sheer impatience with both champions.
 - [[Grandmaster Elusia Skypiercer]]: She handed him his long-awaited cold brew and led the Acolytes in a toast to him as victor.
 

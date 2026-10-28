@@ -21,7 +21,7 @@ canon_order: 98
 
 [Watch on YouTube](https://youtu.be/HcGhwds-ipo)
 
-The fourth season ended without a Deathmatch. It ended with a coup. Fil returned **Vythorn**, [[The Arbiter|the Arbiter]], to [[The Void|the Void]] carrying a forbidden new power and a thousand years of grudges, and he walked into the old Coliseum to settle things with [[The Shadow King|the Shadow King]]. By sundown he had shredded a tyrant, made a deal with a god, and taken the Void for himself.
+The fourth season ended without a Deathmatch. It ended with a coup. Fil returned **Vythorn**, [[The Arbiter|the Arbiter]], to [[The Void|the Void]] carrying a new power, and he walked into the old Coliseum to settle things with [[The Shadow King|the Shadow King]]. By the end he had shredded a tyrant's body, made a deal with a god, and taken the Void for himself.
 
 ## The Story
 
@@ -66,7 +66,7 @@ Vythorn held the soul with clenched fists and white knuckles. Behind him, Fil's 
 
 The question cut through his fury, and his clearer thinking came back. He turned a hateful look on her. "I'm trying to decide if these are my own actions or if you're somehow pulling my strings." Fil asked whether feeling powerful wasn't what really mattered. He had made these choices, "as far as you know." Vythorn would not settle for that: "It's not enough to just feel in charge. I need to control my fate."
 
-That flicker of doubt was all the Shadow King needed. Agdrel, now "an empty soul squirming to survive," slipped between Vythorn's fingers in ethereal shadow form, darted past the gnashing maws, and shot up into the chaos storm clouds. "No, no, no, no, no!" Fil chuckled. The Shadow King's dark, corrupted energy was gone.
+That flicker of doubt was all the Shadow King needed. Agdrel, now "an empty soul squirming to survive," slipped between Vythorn's fingers in ethereal shadow form, darted past the gnashing maws, and shot up into the chaos storm clouds. "No, no, no, no, no!" Vythorn cried. Fil chuckled. The Shadow King's dark, corrupted energy was gone.
 
 ### The Grandmaster
 "Arbiter!" The Grandmaster ran toward him across the debris, still in chains, and called him by his name. It was strange for him to hear it in this place. "Vythorn! You're here. You're alive. Quick, help me." She showed him the choker sunk deep into her throat. "Please, you have to release me now."
@@ -75,9 +75,9 @@ Vythorn's eyes stayed fixed on the sky where Agdrel had fled. When he finally lo
 
 [[Goblins]] and [[Chinchillas|chinchillas]] stormed the field to help her, scrambling over the wreckage. "Vythorn, what are you doing?" "I'm doing what's necessary." He raised a hand and, as Elusia had seen before, the goblins' eyes went white and empty. They stopped a few meters away and formed a ring around the two of them, their minds now his.
 
-The argument that followed had been a thousand years in the making. Vythorn claimed he had done what she could not and defeated the Shadow King. The Grandmaster shot back that he had been killed, and that she had defeated the Shadow King first, back in [[Skypiercer]], before somebody brought him back to life. "You only defeated him because I brought you here," Vythorn said. "Every step of the way, I opened every door for you." She asked who had actually walked through those doors, and where he had been when Agdrel took the throne and when she led the charges to change the Void for the better. He called her Void "weak, easily manipulated," too blind to see the threat he posed. She replied that "just because a threat exists doesn't mean you destroy any hope for anything to exist."
+The argument that followed was bitter. Vythorn claimed he had done what she could not and defeated the Shadow King. The Grandmaster shot back that he had been killed, and that she had defeated the Shadow King first, back in [[Skypiercer]], before somebody brought him back to life. "You only defeated him because I brought you here," Vythorn said. "Every step of the way, I opened every door for you." She asked who had actually walked through those doors, and where he had been when Agdrel took its place and when she led the charges to change the Void for the better. He called her Void "weak, easily manipulated," too blind to see the threat he posed. She replied that "just because a threat exists doesn't mean you destroy any hope for anything to exist."
 
-He pushed the knife in and began to cut. **For the first time, he saw fear in her eyes.**
+He pushed the knife in and began to cut her flesh. **For the first time, he saw fear in her eyes.**
 
 ### The Contract
 Time froze. Raindrops hung in the air and the goblins stood like statues. Fil was done with talking. "You've made your decision. These talks mean nothing. Don't let her dissuade you. I feel it in you, the potential. Who is it that you want to be? Who are you going to become?"
@@ -107,7 +107,7 @@ Then he spoke to them. The Grandmaster was weak, he said. She could not defeat t
 ## Notable Moments
 - The Testaments of Morir's Cataclysm burned their words into Vythorn's skin and fused with his chaos power.
 - Vythorn, mortally wounded mid-duel, simply turned back time and fought again until he was one step ahead.
-- Living, toothed portals into hellscapes ate the Shadow King's body down to his yellow-eyed soul, and the soul still escaped in the moment Vythorn spent wondering whether Fil was pulling his strings.
+- Toothed portals into hellscapes, almost like living beings, ate the flesh off the Shadow King down to his yellow-eyed soul, and the soul still escaped in the moment Vythorn spent wondering whether Fil was pulling his strings.
 - The Grandmaster was led off in the Arbiter's own old chains.
 - Doug's goblin disguise had fooled the Shadow King, but not Vythorn. At the table, the Grandmaster's player admitted she had hoped for "a doggy rescue situation," and the Arbiter's player replied, "I spotted Doug a mile away."
 - An entire crowd of outraged Acolytes was frozen mid-charge for the new ruler's first speech.

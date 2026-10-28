@@ -2,13 +2,11 @@
 title: The Grandmaster's Amulet
 type: item
 aka:
-- Elusia's amulet
 - The Grandmaster's amulet
 owner: Grandmaster Elusia Skypiercer
 first_appearance: S4E5 — Toxicity — Toocher the Toxic v Sho Nin
 summary: A summoning amulet that opens portals with the Grandmaster's own blood, used to bring champions to the Deathmatches during the Shadow King's reign.
 aliases:
-- Elusia's amulet
 - The Grandmaster's amulet
 tags:
 - item
@@ -28,7 +26,7 @@ The amulet was in use throughout Season 4. In that season the Shadow King held t
 
 In [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]], the amulet worked as a blood-drawing portal key, bringing in [[Toocher the Toxic]] and [[Sho Nin]]. It was the same story in [[Episodes/Season 4/085 - S4E7 — Wings — Misery v Daisy Bloom|S4E7 — Wings — Misery v Daisy Bloom]]: the portals for [[Misery]] and [[Daisy Bloom]] opened with her blood. It worked the same way again in [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]], the match between [[Fatale]] and [[Claudia]].
 
-The most dramatic use came in [[Episodes/Season 4/087 - S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)|S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)]], when the amulet was crushed and a portal opened. That episode's fighters were [[Stanley Second Life Gibbs]] and [[Gideon Regalis Electus Gregorius the 537th]].
+In [[Episodes/Season 4/087 - S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)|S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)]], the amulet was crushed and a portal opened. That episode's fighters were [[Stanley Second Life Gibbs]] and [[Gideon Regalis Electus Gregorius the 537th]].
 
 The blood-portals kept coming afterwards. In [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]], the Grandmaster again opened portals with her blood for [[Sprinkles]] and Nigel. In [[Episodes/Season 4/094 - S4E13 — Swole — Storm on the Horizon v Grug the Wizard|S4E13 — Swole — Storm on the Horizon v Grug the Wizard]], she cut her fingers to summon the portals that brought [[Storm on the Horizon]] and [[Grug the Wizard]] to the arena.
 

@@ -5,7 +5,7 @@ role: creature
 species_class: Kraken
 first_appearance: S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …
 status: unknown
-summary: A vast, many-toothed sea monster who has twice risen out of the water mid-Deathmatch, once to wreck a duel beneath the arena and once to stand between four champions and their goal.
+summary: A vast, many-toothed sea monster who has twice risen out of the water mid-Deathmatch, once to wreck a team fight beneath the arena and once to stand between four champions and their goal.
 tags:
 - character
 ---
@@ -22,19 +22,19 @@ Cosmonius soon decided that the thing cracking the stonework had to be dealt wit
 
 Locket jumped down the hole after him and landed in a heap. She looked at the Kraken, decided it was probably part of the match, and spent her whole turn eating goodberries while her partner panicked. Cosmonius added a new name to his list: "the Kraken Combatant." The Kraken lashed him with a tentacle and then called down a **lightning storm** ("How Voltage of it," said the Grandmaster). Cosmonius slipped through it, soaked up the lightning and channelled it back into his own blows.
 
-His luck ran out moments later. After a spectacular fumble ("It had to regress to the mean"), **the Kraken grabbed Cosmonius and flung him at Locket**, slamming them both to the ground. "As we've all learned," observed the Grandmaster, "horses are really good weapons." The Grandmaster then drifted down through one of the holes and, with a wave, **sent the Kraken back deep underwater**. The victors rose on pedestals to her throne.
+His luck ran out moments later. After a spectacular fumble ("It had to regress to the mean"), **the Kraken grabbed Cosmonius and flung him at Locket**, hurting them both badly and slamming her to the ground. "As we've all learned," observed the Grandmaster, "horses are really good weapons." The Grandmaster then drifted down through one of the holes and, with a wave, **sent the Kraken back deep underwater**. The victors rose on pedestals to her throne.
 
 ### The Gauntlet 2
 
-In [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|The Gauntlet 2]], [[Floyd of the Pink]] and [[Luci]] raced [[Hurdey]] and [[Gurdi]] by boat towards an island. Near the shore the water rippled and **giant tentacles burst up around the boats**. Ten of them blocked the way. Harpoon guns on the decks let the champions spear the tentacles and reel them in. Gurdi popped out of Hurdey's backpack and fired a volley of flaming eggs that burst into big flaming yolks. The Kraken roared, and [[The Arbiter|the Arbiter]] asked not to hear any complaints the next time he made dragon sounds.
+In [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|The Gauntlet 2]], [[Floyd of the Pink]] and [[Luci]] raced [[Hurdey]] and [[Gurdi]] by boat towards an island. Near the shore the water rippled and **giant tentacles burst up around the boats**. Ten of them blocked the way. Harpoon guns on the decks let the champions spear the tentacles and reel them in. Gurdi's butt popped out of the backpack and he fired a volley of flaming eggs that burst into big flaming yolks. The Kraken roared, and [[The Arbiter|the Arbiter]] asked not to hear any complaints the next time he made dragon sounds.
 
-Floyd tried diplomacy of a sort. Standing at the prow, he prayed: "Lord of all tentacles, hear my prayers… I speak the great word, boo-woo. Boo-woo." The prayer failed, and the Kraken turned her unhappy gaze directly on his ship. "She's no lord, but ruler of the ocean." She reared up and **slammed her tentacles down on both ships**. Gurdi dodged and shielded himself and his bear, while the others took heavy hits.
+Floyd tried diplomacy of a sort. Standing at the prow, he prayed: "Lord of all tentacles, hear my prayers… And in so, I speak the great word, boo-woo. Boo-woo." The prayer failed, and the Kraken turned her unhappy gaze directly on his ship. "She's no lord, but ruler of the ocean." She reared up and **slammed her tentacles down on both ships**. Gurdi dodged and shielded himself and his bear, while the others took heavy hits.
 
-Luci found a way past. She leapt off a plank at the prow, arced about twenty feet through the air and landed walking on the water. A tentacle slapped down beside her and missed, looking for all the world "like it's playing in the water." Floyd, left alone on a burning boat, teleported to the island. He then tried to whip up the winds and drive "Hurdle and Gurdle" down into the Kraken's waters, but Hurdey cancelled the spell outright. The Kraken's fate after the race was not shown.
+Luci found a way past. She leapt off a plank at the prow, arced about twenty feet through the air and landed walking on the water. A tentacle slapped down beside her and missed, looking for all the world "like it's playing in the water." Floyd, left alone on a burning boat, teleported to the island. He then tried to whip up the winds and drive "Hurdle and Gurdle" down into the Kraken's waters, but Hurdey ("My name is Hurdy Gurdy and you're not going to do shit") cancelled the spell outright. The Kraken's fate after the race was not shown.
 
 ## Personality and Abilities
 
-The Kraken is enormous and toothy. She has hundreds of teeth in rows, black beady eyes that glow in moonlight and at least ten tentacles, which she spaces out to wall off open water. She fights by lashing, grabbing and slamming. She can crush two ships in a single blow, and she will happily throw one champion at another. She can also call up a lightning storm. Her cry is rarely heard and travels best underwater. She does not take kindly to flaming eggs or to being prayed at with the wrong title. Rough handling, a numbed tentacle and a lot of explosive yolk have not stopped her, and the only thing that has truly sent her away is the Grandmaster's wave of the hand.
+The Kraken is enormous and toothy. She has hundreds of teeth in rows, black beady eyes that glow in moonlight and at least ten tentacles, which she spaces out to wall off open water. She fights by lashing, grabbing and slamming. She can slam down on two ships at once, and she will happily throw one champion at another. She can also call up a lightning storm. Her cry is rarely heard and travels best underwater. She does not take kindly to flaming eggs or to being prayed at with the wrong title. Rough handling, a numbed tentacle and a lot of explosive yolk have not stopped her, and the only thing that has truly sent her away is the Grandmaster's wave of the hand.
 
 ## Relationships
 

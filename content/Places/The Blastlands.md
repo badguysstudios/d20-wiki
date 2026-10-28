@@ -2,18 +2,18 @@
 title: The Blastlands
 type: place
 first_appearance: Pieces of a King Ep 2 — THE WAR COUNCIL
-summary: A deadly war-torn wasteland stretching toward the mountains where the Warmind waits, and the ground where an alliance's soldiers fight to keep it from reaching a city's gate.
+summary: A deadly wasteland stretching toward the mountains where the Warmind waits, where the alliance's ground forces and artillery fight to keep the Warmind distracted.
 tags:
 - place
 ---
 
-**The Blastlands** are the kind of place where simply surviving the landing counts as an achievement. The party of the Pieces of a King saga learned this the moment they arrived: they dropped into the Blastlands, lived, and were promptly told how lucky they were. Beyond the wastes rises a large mountain range where the alliance says most of its troubles come from, and somewhere in those mountains sits [[The Warmind]].
+**The Blastlands** are the kind of place where simply surviving the landing counts as an achievement. The party of the Pieces of a King saga learned this at the war council: they had landed in the Blastlands, lived, and were told how lucky they were. Beyond the wastes rises a large mountain range where the alliance says most of its troubles come from, and somewhere in those mountains sits [[The Warmind]].
 
 ## Description
 
 The sources paint the Blastlands less by scenery than by reputation. Arriving there and living to tell of it is rare enough that the party "should count yourselves very fortunate" to have done it. When [[Muffy]] heard this, she put it down to being "very dextrous."
 
-The region runs toward a large mountain range, the source of most of the alliance's troubles and, by the war council's plan, the Warmind's own location. The front line is a place of trenches, with ground forces and artillery stationed in the wastes. People who end up stranded out there need rescuing, and someone has made a job of doing exactly that.
+The region runs toward a large mountain range, the source of most of the alliance's troubles and, by the war council's plan, the Warmind's own location. The front line is a place of trenches, with ground forces and artillery stationed in the wastes. Folks out there sometimes need rescuing, and someone has made a job of doing exactly that.
 
 ## History
 
@@ -23,7 +23,7 @@ The party entered the story fresh from the Blastlands. [[Grim]] walked them into
 
 > **Grim:** "Hey, everybody, look at what I found out in the Blastlands."
 
-The council soon revealed that two figures the party wanted to find had gone into the wastes. Triss's scouts had followed them across the Blastlands toward the large mountain range. Grim then explained his own line of work. "Me and my red caps" rescue folks from the Blastlands and run commando operations out there. He told the party plainly that "this is our home." He also laid out the stakes. There is a city with a gate, and "if the Warmind gets through, then it has access to the gate… it could spread everywhere."
+The council soon revealed that two figures the party wanted to find had gone into the wastes. Triss's scouts had followed them into the Blastlands toward the large mountain range. Grim then explained his own line of work. "Me and my red caps" rescue folks from the Blastlands and run commando operations out there. He told the party plainly that "this is our home." He also laid out the stakes. There is a city with a gate, and "if the Warmind gets through, then it has access to the gate… it could spread everywhere."
 
 ### [[Episodes/Pieces of a King/126 - Pieces of a King Ep 3 — The Warhead|Pieces of a King Ep 3 — The Warhead]]
 

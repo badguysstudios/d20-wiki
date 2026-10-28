@@ -60,9 +60,9 @@ The secret, he explained, was all in the shoulders. Copycat changed tactics. She
 
 ### The Thea Gun
 
-Thea's tummy began to bubble. She offered herself to Ragu as a weapon: "a fart gun, if you will." Ragu said yes. His first "super whirlwind fart explosion number five" went wrong, and the result was a liquid expulsion all over his own head. The second became "the unending fart of 12 days" and wore both champions down equally. As the Acolytes were reminded, five rounds of that kind of exhaustion and a champion dies. Fed up with the smell, Ragu grabbed Thea by her tail, swung her like a rope and let go. Her butt hit Copycat square in the face, ruining her paper bag. Thea gave her a reusable D20 Deathmatch bag instead. "My bag is everything. It's my bag of tricks."
+Thea's tummy began to bubble. She offered herself to Ragu as a weapon: "a fart gun, if you will." Ragu said yes. His first "super whirlwind fart explosion number five" missed: instead of gas, a liquid expulsion came out of Thea and landed all over Ragu's own head. The second, a tie, burned their nostrils and became "the unending fart of 12 days," getting into both champions' mouths, down their throats and into their stomachs, and wore them down equally. As the Acolytes were reminded, five bouts of that kind of exhaustion and a champion dies. Fed up with the smell, Ragu grabbed Thea by her tail, swung her like a rope and let go. Her butt hit Copycat square in the face, ruining her paper bag, and Thea thanked her for helping wipe it off. Thea gave her a reusable D20 Deathmatch bag instead. "My bag is everything. It's my bag of tricks."
 
-The new bag brought a new Lord of Fate. The real one tried to point out that the copy was the one covered in filth. The copy calmly replied, "I've always smelled like shit," and Thea agreed. Ragu sniffed out the fake anyway: "Unwanted guests, poverty and regret."
+The new bag brought a new Lord of Fate. The real one tried to point out that the copy was the one with shit on her. The copy calmly replied, "I've always smelled like shit," and Thea agreed. Ragu sniffed out the fake anyway: "Unwanted guests, poverty and regret."
 
 ### Free Doug
 
@@ -106,7 +106,7 @@ While the post-match interview ran, the goblins hauled Copycat into the locker r
 
 ## Notable Moments
 
-- Thea was used as a fart gun, misfired, and was then thrown into Copycat's face by her tail.
+- Thea was used as a fart gun, shot a liquid expulsion all over Ragu's head instead of gas, and was then thrown butt-first into Copycat's face by her tail.
 - Baby Ragu's bare bottom went up on every mega screen in the Dread Fortress, and the "Free Doug" protest forced the Lord of Fate to release Doug in a spinning cage.
 - The first look ever at Copycat's real face revealed a blank purple surface with a marker-drawn smiley.
 - Copycat's tender chat with the shadow in the Box of Chaos ended with a secret chip, a traded trash bag and a coffee date that never happened.

@@ -30,13 +30,13 @@ After an extended break, [[The Dread Fortress]] was open for business again. [[T
 
 He found [[Grandmaster Elusia Skypiercer|the Grandmaster]] sprawled across her chair with a notepad, practising her Spanish conjugations of "to kill." "We should be going international," she explained. She wanted her victims to understand every insult she hurled at them, because "it's not an accidental death." The Arbiter approved, since he does "a lot of monologuing" himself. When she asked whether he'd brought anyone to murder, he reminded her: "That's Thea's job now. I've delegated as management." The Grandmaster had assumed that arrangement was pretend, because "Thea is a potato of a brain."
 
-The talk turned to a video Thea had made that "talks poorly about [[Claude]]." The Grandmaster hadn't known Claude worked there at all. "He's just the janitor," she said. "He has no magical powers as I'm aware of. Have we had him take the magic test?" The Arbiter didn't see why they would, but she added it to the list for after the Deathmatch. She also admitted that recruiters call them [[Champions|champions]] because "they're less likely to say yes if we just call them murderers."
+The talk turned to a video Thea had made that "talks poorly about [[Claude]]." The Grandmaster hadn't known Claude worked there at all. "He's just the janitor," she said. "He has no magical powers as I'm aware of. Have we had him take the magic test?" The Arbiter didn't see why they would, but she added it to the list for after the Deathmatch. She also admitted that they call them [[Champions|champions]] because "they're less likely to say yes if we just call them murderers."
 
 ### Two Old Enemies
 
 The Arbiter clapped, and the sound broke through the portal. Big Business rose from his chair in the lobby, plumes of steam billowing from his base. He stood somewhere between 6'7" and 7'9", though nobody could tell through the steam, "but he big and you know he mean business." "Big is my business, and business is big," he announced. "Who do you want me to fight?"
 
-The answer rose out of the reeds in the corner. Bog Boy was a gnarled old snapping turtle whose spiked, spray-painted shell was stuffed with refuse, fishing line and net. He wore an apron made from an old band shirt, and his clothes dripped moss and bugs. He clutched a tin bucket. "It's me, Bog Boy, Freak of the Creek, and no one touches Clementine." A big catfish splashed out of the bucket. He pointed a curled digit at his rival: "You know what you did."
+The answer rose out of the reeds in the corner. Bog Boy was a gnarled old snapping turtle whose spiked, spray-painted shell was stuffed with refuse, fishing line and net. He wore an apron made from an old band shirt, his clothes dripped moss, and bugs flew around him. He clutched a tin bucket. "It's me, Bog Boy, Freak of the Creek, and no one touches Clementine." A big catfish splashed out of the bucket. He pointed a curled digit at his rival: "You know what you did."
 
 > **Big Business:** "You know what they say, one bog down, one more shopping mall up."
 
@@ -48,9 +48,9 @@ Bog Boy moved first. He sharpened his beak on a skeleton's bone ("That's what I'
 
 Big Business flung him off with a sneer, "You haven't grown up a day." Bog Boy's answering flurry slammed uselessly into a clear-coat shield. Meanwhile the arena's broadcast was struggling, and the Grandmaster ordered everyone down to 720p because the violence was "too much for 1080." She called for [[Stuart]] to refresh.
 
-Then Big Business got serious. His core charged bright green, his cannons showered the crowd with gold coins, and he folded himself into a giant bulldozer ("Transformers, the most capitalism-based robots ever"). His charge landed hard, but Bog Boy caught the blow, bit onto a shovel and twisted the arm back around. Big Business was distracted by Clementine leaping in her bucket, all "beautiful scales" and whiskers in the cold sunlight. He drove his own shovel into his own gut. "I have some bets I need to go change real quick," said the Arbiter.
+Then Big Business got serious. His core charged bright green, his cannons showered the crowd with gold coins, and he folded himself into a giant bulldozer ("Transformers, the most capitalism-based robots ever"). His charge landed hard, but Bog Boy caught the blow, bit onto a shovel and twisted the arm back around. Big Business was distracted by Clementine leaping in her bucket, all "beautiful scales" and whiskers in the cold sunlight, and Bog Boy drove the shovel into Big Business's own gut. "I have some bets I need to go change real quick," said the Arbiter.
 
-The crowd loved Big Business anyway and roared him a second wind. Slushies flew everywhere. His next charge, "We're going to pave you into a parking lot," missed completely. The Grandmaster had "never been so hyped up and then so disappointed." Between blows the history came out. Big Business claimed the swamp as his land and wanted his "fish wife" back. Bog Boy countered that he had squatter's rights, that Clementine had left Big Business, and that she was "just a catfish. Bottom feeder."
+The crowd loved Big Business anyway and roared him a second wind. Slushies flew everywhere. His next charge, "We're going to pave you into a parking lot," missed completely. The Grandmaster had "never been so hyped up and then so disappointed." Between blows the history came out. Big Business claimed the swamp as his land and wanted his "fish wife" back. Bog Boy countered that he had squatter's rights and that Clementine had left Big Business. And no, she wasn't a mermaid: Clementine was "just a catfish. Bottom feeder."
 
 ### Bull Rides and Oil Trees
 
@@ -62,7 +62,7 @@ Bog Boy vanished into the lightning-blasted snow. The last anyone saw was a turt
 
 ### The Real Freak of the Creek
 
-Bog Boy crawled out with radioactive ooze on his lips and his beloved Rammstein shirt in tatters. He wiped the blood away anime-style: "Now you just unlocked the real freak of the creek." He latched onto Big Business's chest "like a little toddler backpack." Big Business answered by spinning up his turbines and blasting cash into the turtle's face from an internal stock ticker that never stopped printing money. Bog Boy punched through it, "just punching George Washington in the face," with a manic grin, chanting: "Everyone's going to be frogs."
+Bog Boy crawled out with radioactive ooze on his lips and his beloved Rammstein shirt in tatters. He wiped the blood away anime-style: "Now you just unlocked the real freak of the creek." He latched onto Big Business's chest "like a little toddler backpack." Big Business answered by spinning up his turbines and blasting cash into the turtle's face, while an internal stock ticker never stopped printing money. Bog Boy swung through the flying bills (his first blow went wide, "just punching George Washington in the face," as the Arbiter put it) with a manic grin, chanting: "Everyone's going to be frogs."
 
 "Grandmaster, what the fuck does that mean?" asked the Arbiter. "Are we sure that he's not Thea?" Big Business blessed himself and two Acolytes in the crowd, B-Town and Cookie Monster Steve. An Acolyte named Scrib screamed, "I don't want to be a frog." Big Business turned it into a campaign promise: "We've got to stop you from turning people into frogs. And in exchange, we're going to build a shopping mall." Bog Boy then dropped a revelation: "I used to be a four-year-old boy before I got turned into a toad." Big Business confirmed it: "He was a human child. Then I put him in the oil tree." The Grandmaster looked at poor Clementine and decided, "I need to go find Doug the Pug."
 
@@ -72,7 +72,7 @@ She returned with a small wagon. On a plush purple pillow sat Doug, wearing a cr
 
 Big Business vowed to plant oil trees across the whole hemisphere. The Arbiter shrugged that "[[The Void]] is a place of inclusivity" and wondered aloud whether the Void should have a bylaw on marriages to fish. "We may have stepped into some real swamp shit," said the Grandmaster.
 
-Back in the fight, Bog Boy hid in his shell, poked his head out ("Wait a second. I might have made a little mistake"), and then saw something worse than any blow. Clementine was sitting beside Doug, the two of them "talking," and she was almost blushing. "That's my wife, Doug." Heartbroken, he missed his stunning strike, then rained blows on Big Business with tears in his eyes: "She was mine, big business." Big Business promised to beat him "in front of your fish wife, and she's going to get with that dog." He turned his scoops sideways into "the kill position." A single floating dollar bill reminded him he was blessed, and he swung. As the glowing fist came down, Bog Boy tried to turn it back. Then he saw Doug whispering into Clementine's ear, let it go "almost like a little bit of defeat," and took it down his side. In the stands, Doug began noisily drinking from Clementine's pail.
+Back in the fight, Bog Boy hid in his shell, poked his head out ("Wait a second. I might have made a little mistake"), and then saw something worse than any blow. Clementine was sitting beside Doug, the two of them "talking," and she was almost blushing. "That's my wife, Doug." Heartbroken, he missed his stunning strike, then rained blows on Big Business with tears in his eyes: "She was mine, big business." Big Business promised to beat him "in front of your fish wife, and she's going to get with that dog." The Grandmaster objected: "Doug has no bones. No bones. Anywhere… He has been neutered." ("I think you don't understand how anatomy works," said the Arbiter.) Big Business turned his scoops sideways into "the kill position." A single floating dollar bill reminded him he was blessed, and he swung. As the glowing fist came down, Bog Boy tried to turn it back. Then he saw Doug whispering into Clementine's ear, let it go "almost like a little bit of defeat," and took it down his side. In the stands, Doug began sloppily licking the water in Clementine's pail.
 
 ### Rock, Paper, Steak
 
@@ -80,13 +80,13 @@ The Acolytes chanted for chaos. A giant rock, a pair of shiny metal scissors and
 
 ### I Live for the Bog
 
-Bog Boy whipped up a snowstorm he named Snowstorm August. It ripped the skin off a few Acolytes, but Big Business's "fresh undercoat" stopped it from freezing him. Bog Boy's last flurry went badly, ending in a stumble. Up above, a shocked Clementine tipped right off the ledge. In a puff of snow, Bog Boy caught her: "I'm so sorry, baby."
+Bog Boy whipped up a snowstorm he named Snowstorm August. It ripped across the flesh of the Acolytes, tearing their skin off and exposing the bone underneath, but Big Business's "fresh undercoat" stopped it from freezing him. Bog Boy's last flurry went badly, ending in a stumble. Up above, a shocked Clementine tipped right off the ledge. In a puff of snow, Bog Boy caught her: "I'm so sorry, baby."
 
 Big Business loomed over the pair and made an offer: become manager of the new shopping mall, or die. "It pays very little." Bog Boy's answer: "I live for the bog. I die for the bog. The freak of the creek." He tossed Clementine into the crowd, where Scrib caught her, and lay splayed out "like a Braveheart, like freedom." Big Business stomped twice. The second stomp landed, but somehow the turtle absorbed it and lived. "Staying alive," marvelled the Arbiter. "Metal as fuck."
 
 ### The Final Blow
 
-Exhaustion set in. Big Business admitted, "My only instinct is capitalism, Grandmaster." As his boot glanced off the shell, Bog Boy shoved the leg aside and punched straight into the groin. Coins clinked and money spun in Big Business's eyes as he dropped to his knees. Then, "like one of those old robotic punching games," Bog Boy struck without even looking, and that was enough. In slow motion Big Business saw Clementine in the Acolytes' arms and thought of "all them poor little dollars he got at home waiting for him to return." His eyes went to zeros. His head popped off, and his body clattered into a pile, "mere scraps now, perhaps to be sold and cycled back in."
+Exhaustion set in. Big Business admitted, "My only instinct is capitalism, Grandmaster." As his boot glanced off the shell, Bog Boy shoved the leg aside and landed a straight punch. "Oh, my money port," groaned Big Business. "Why does it sound dirty when you say it?" Then Bog Boy pushed the leg up and punched, boom, right into the groin. Coins clinked and money spun in Big Business's eyes as he dropped to his knees. Then, "like one of those old robotic punching games," Bog Boy struck without even looking, and that was enough. In slow motion Big Business saw Clementine in the Acolytes' arms and thought of "all them poor little dollars he got at home waiting for him to return." His eyes went to zeros. His head popped off, and his body clattered into a pile, "mere scraps now, perhaps to be sold and cycled back in."
 
 ### The Witch's Price
 
@@ -102,9 +102,9 @@ At the table, both players confessed it was their first time in the arena, and t
 
 ## Notable Moments
 
-- Big Business drove his own shovel into his own gut because Clementine's whiskers distracted him.
+- Bog Boy drove Big Business's own shovel into his gut while Clementine's whiskers distracted him.
 - Big Business wired himself into a mechanical bull "like USB," while Bog Boy, who had only ever seen "an upturned firebird," was thrown off at once.
-- Clementine flirted with **Doug the Pug** in the stands, broke Bog Boy's heart, and then watched Doug drink her pail water.
+- Clementine flirted with **Doug the Pug** in the stands and broke Bog Boy's heart, and then Doug licked the water in her pail.
 - The Grandmaster revealed that chaos events can help champions, and the Arbiter wrote her name in his "kill" book.
 - **Bog Boy punched Big Business's head clean off**, then proposed to Clementine with one of his rival's nuts.
 - Griselda fused the dead Warforged into the victorious turtle, leaving two old enemies in one body.

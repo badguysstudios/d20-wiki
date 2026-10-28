@@ -24,13 +24,13 @@ canon_order: 14
 
 [Watch on YouTube](https://youtu.be/BRc-Sdygomg)
 
-Four strangers were pulled into the arena's **first-ever 2v2**, fought across the grinding gears of [[The Clock of the Lost]], and then mostly ignored the teams they'd been given. A wrestling dragonborn, a bullfighting lizardfolk archer, a sea-cultist lizardfolk and a warforged who speaks only through cassette tapes of misheard song lyrics spent the match betraying, befriending and pillow-fighting one another. It ended with one champion swinging another champion's corpse like a club.
+Four strangers were pulled into the arena's **first-ever 2v2**, fought across the grinding gears of [[The Clock of the Lost]], and then mostly ignored the teams they'd been given. A wrestling dragonborn, a bullfighting lizardfolk archer, a lizardfolk who drowns people for the Lady of the Ocean and a warforged who speaks only through cassette tapes of misheard song lyrics spent the match betraying, befriending and pillow-fighting one another. It ended with one champion swinging another champion's corpse like a club.
 
 ## The Story
 
 ### Soaps and Mail
 
-The episode opened in [[The Dread Fortress]], where [[Grandmaster Elusia Skypiercer|the Grandmaster]] lounged on her throne of cushy red velvet, entranced by her favorite TV. The TV was four [[Goblins|goblins]]. Two held up a cardboard screen, and the two behind it acted out a soap opera they had heard someone else describe, using tennis rackets, wigs, basketballs, a phone and "a dove for some reason."
+The episode opened in [[The Dread Fortress]], where [[Grandmaster Elusia Skypiercer|the Grandmaster]] lounged on her throne of cushy red velvet, entranced by her soaps. The TV was four [[Goblins|goblins]]. Two held up a cardboard screen, and the two behind it acted out a soap opera they had heard someone else describe, using tennis rackets, wigs, basketballs, a phone and "a dove for some reason."
 
 [[The Arbiter]] interrupted with the mail. The Grandmaster said "click" into a remote, the goblins scattered, and she held out her hands like an impatient child. The Arbiter floated the letter to her with his mind from three feet away. "Weird flex, but thank you," she said. He claimed he couldn't read, so she read it herself. It was a beautiful scroll from "the Dreaded GM," and when the Arbiter asked whether that was the falafel guy from the carnival, she corrected him: "No, that's Teddy. That's Teddy. Very different."
 
@@ -48,7 +48,7 @@ The Arbiter tore space open with his hands, and four [[Champions|champions]] wal
 
 **[[Steely Dan]]**, "the third, the victor of the cosmic dragon's duel," was a huge warforged who talked only through tapes loaded into his chest. The Grandmaster called him "a walking cassette tape" and asked the Arbiter to add new songs to her Zune. A sparkle on his chest revealed mini discs embedded in his armor.
 
-The Grandmaster gave them her charge: "You are here representing me, my name, the Grandmaster… You will put on a show and you will spill blood." The Arbiter then proposed the first 2v2 in the arena's history. She was so pleased she promised him a pay raise, and then reminded him, "I don't pay you." The champions drew lots. Richardo was paired with Chuck, and Steely Dan with Thass'Lok, whom the Arbiter could only describe as "the whispery guy."
+The Grandmaster gave them her charge: "You are here representing me, my name, the Grandmaster… You will put on a show and you will spill blood." The Arbiter then proposed the first 2v2 in the arena's history. She was so pleased she promised him a pay raise, and then reminded him, "I don't pay you." The champions rolled to decide the pairs. Richardo was paired with Chuck, and Steely Dan with Thass'Lok, "the other guy whose name is really hard to say… the whispery guy."
 
 ### Into the Clock of the Lost
 
@@ -58,7 +58,7 @@ The Arbiter clapped, and a psychedelic wave carried them to the top of a giant c
 
 The teams fell apart almost immediately. Thass'Lok told Richardo that they were "the same breed," that "these teams mean nothing," and that he should stay out of the way. Then he decided the clockwork was the warforged's home ground, which made Steely Dan the real threat, so he raised his shield against his own partner.
 
-Steely Dan threw a deck of cards in Chuck's face ("Gin or glaive"). He tried to tackle Chuck, rolled a 1, and skidded across the floor as tapes flew out of him. He ended up on his hands and knees gathering his voice back up, patching a tape together with magic tape. Chuck kicked him in the head with a "clang," judo-chopped his neck and got him in a headlock, while the tape played "Like a virgin, touched for the 35th time." "I'm going to need you to stop that," Chuck said. "You're making it weird."
+Steely Dan threw a deck of cards in Chuck's face ("Gin or glaive"). He tried to tackle Chuck, rolled a 1, and skidded across the floor as tapes flew out of him. He ended up on his hands and knees gathering his voice back up, patching a tape together with magic tape. Chuck kicked him in the head with a "clang," judo-chopped his neck and grabbed him by the back of the neck, while the tape played "Like a virgin, touched for the 35th time." "I'm going to need you to stop that," Chuck said. "You're making it weird."
 
 Richardo took a running leap into empty air and blinked across the arena. He shot Steely Dan, and the arrow went straight through the cassette Dan was about to load. "That was an original mixtape," Dan mourned.
 
@@ -66,11 +66,11 @@ Richardo took a running leap into empty air and blinked across the arena. He sho
 
 The Acolytes' donations filled the chaos meter, and fantastical fungi sprouted around the arena. Meanwhile Thass'Lok had simply vanished, so the Grandmaster threw a sheet over him from her perch that cloaked him in invisibility and protection for a round.
 
-Dan loaded his broken tape, now slowed and warped, and carved Chuck's face open with a flurry of holy glaive strikes. Chuck spat blood down his chin, pulled a pair of sunglasses out of his trunks, put them on and flew into a rage. Richardo shot a mushroom instead of eating it, and it shook and burst into a cloud of poison spores. His next arrow hit a play button on Dan, who began singing "mushroom, mushroom man," with karaoke lyrics projected on his forehead, all of them wrong. The Grandmaster rated it six out of ten: "it beats most karaoke nights." Bull One then rammed Dan into the poison cloud while she chanted "Bull One, Bull One, Bull One."
+Dan loaded his broken tape, now slowed and warped ("Take me down with a pair of nice titties"), and carved Chuck's face open with a flurry of holy glaive strikes. Chuck spat blood down his chin, pulled a pair of sunglasses out of his trunks, put them on and flew into a rage. Richardo shot a mushroom instead of eating it, and it shook and spores pooped out of it in a cloud of poison. His next arrow hit a play button on Dan, who began singing "mushroom, mushroom man," with karaoke lyrics projected on his forehead, all of them wrong. The Grandmaster rated it six out of ten: "it beats most karaoke nights." Bull One then rammed Dan into the poison cloud while she chanted "Bull One, Bull One, Bull One."
 
 When Thass'Lok reappeared, he charged straight past his partner, smiled at a dagger and threw it into Steely Dan. "I think he does, and he does not care," the Grandmaster said, delighted. "This is better than the goblin soaps." Chuck nearly fell into the gears, but she caught him with a burst of wind from her wings and blessed him. "I'm cheering for you, you little underdog." "Don't you worry, Grandmaster," Chuck replied. "The cream is gonna rise to the top."
 
-Thass'Lok later tried to silence Dan by stabbing at his tape windows, and Dan clubbed him with a four-foot mushroom. Chuck got so caught up in his trash talk ("I'm going to fold you up like an old wallet") that Dan shrugged it all off. The Arbiter shouted that he had a lot of money riding on this "with some really nasty people," and the Grandmaster told him he was going to join a club. Then Richardo turned on both opponents and summoned a wall of wind across them. "What is a good show? A drama without a little betrayal. I'm sorry, but also not sorry."
+Thass'Lok later tried to silence Dan by stabbing at his tape windows, and both strikes glanced off ("You might as well face it, you're a dick with a glove," the tape answered). Dan clubbed him with a four-foot mushroom, singing "shake it like a horny white preacher." Chuck tore off his glasses and unloaded his trash talk ("I'm going to fold you up like an old wallet"), but Dan shrugged it all off. The Arbiter shouted that he had a lot of money riding on this "with some really nasty people," and the Grandmaster told him he was going to join a club. Then Richardo turned on both opponents and summoned a wall of wind across them. "What is a good show? A drama without a little betrayal. I'm sorry, but also not sorry."
 
 ### Come Play With Me
 
@@ -84,19 +84,19 @@ The enemy teams briefly reunited against the new pair. Richardo conjured a heali
 
 The Arbiter had an idea. He conjured a giant wrench and hurled it into the machinery. The clock crashed to a halt, gears rained from the sky, and the arena began to collapse. "Remember, I want blood," the Grandmaster called. "I want gore."
 
-Chuck obliged. He pulled a great club out of the back of his trunks, where it had been the whole time, and announced he was going to "get 18th century on your behinds." He battered both opponents and finally knocked Steely Dan down. Dan's last words to his friend were "Be safe, eat face." Dolly kissed his forehead, brought him back from the brink, and left this plane of existence. Thass'Lok, disappointed in everyone, slipped away into a fog cloud.
+Chuck obliged. He pulled a great club out of the back of his trunks, where it had been the whole time, and announced he was going to "get 18th century on your behinds." He battered both opponents and finally knocked Steely Dan down. Dan's farewell to his friend was "Be safe, eat face." Dolly kissed his forehead, brought him back from the brink, and left this plane of existence. Thass'Lok, disappointed in everyone, slipped away into a fog cloud.
 
 ### Pillow Fight
 
 Chuck pointed out a madman in the crowd handing out gifts, which triggered a surprise chaos event: every weapon turned into a big fluffy pillow. Bull One ended up pinned under a fallen gear with pillows on its horns. Richardo called on his "brothers" to rise against their oppressors and shot a pillow at the Grandmaster herself. She swung back with a pillowcase full of quarters, couldn't let go in time, and clocked the Arbiter instead. "I've been hit with a sack of quarters before," he said. Richardo's pillow then hit her in the face. "Yes, I feel much better," he said.
 
-Dan swatted back one of Richardo's pillows with a holy smite behind it. Then Bull One, now a pillow bull, charged him and body-slammed him into the floor. It was soft, comfortable, full of duck feathers, and just painful enough. **Steely Dan was dead.**
+Dan swatted back one of Richardo's pillows with a holy smite behind it. Then Bull One, now a pillow bull, charged him and body-slammed him into the floor. It was soft, comfortable, full of duck feathers, and just painful enough. **Steely Dan was dead.** His tape played him out: "baby fart, doo doo doo doo doo."
 
 ### Clobbered by Steely Dan
 
-In the final round, Chuck's club turned into an anime body pillow. He tossed it aside, picked up Steely Dan's corpse, slung it over his shoulder and charged into the fog. Thass'Lok saw what was coming: "I'm going to be clobbered by Steely Dan. Might as well face it." **Chuck swung, and Thass'Lok fell to the gears.** His last words were "Lady of the Ocean, take me."
+In the final round, Chuck's club turned into an anime pillow with a girl on it. He tossed it aside, picked up Steely Dan's corpse, slung it over his shoulder and charged into the fog. Thass'Lok saw what was coming: "I'm going to be clobbered by Steely Dan. Might as well face it." **Chuck swung, and Thass'Lok crumpled, his blood spewing onto the gears.** His last words were "Lady of the Ocean, take me."
 
-"Enough! The team has clearly made victory," the Grandmaster declared. She glided down, took the winners' hands and flew them into the air. During the celebration, Richardo revealed his name "has always been Ricardo," and Chuck apologized for calling him Richard the whole match. Chuck thanked the Dreaded GM and "Richard" for not turning his back on him. Richardo reminded everyone of his promised violence and love, then gave credit where it was due: "Bull won, so thank you."
+"Enough! The team has clearly made victory," the Grandmaster declared. She glided down, took the winners' hands and flew them into the air. During the celebration, Richardo revealed his name "has always been Ricardo," and Chuck apologized for calling him Richard the whole match. Chuck thanked the Dreaded GM and "Richard" for not turning his back on him. Richardo reminded everyone he had promised "there would be violence followed by sex, so I hope we can make that happen," then gave credit where it was due: "Bull won, so thank you."
 
 ## Dried Blood
 
@@ -105,7 +105,7 @@ After the match, the Grandmaster asked each champion for one sentence of advice.
 ## Notable Moments
 
 - The Grandmaster's TV turned out to be four goblins acting out a secondhand soap opera behind a cardboard screen.
-- Thass'Lok betrayed his own teammate on his very first turn, and the Grandmaster loved him for it.
+- Thass'Lok turned on his own teammate from his very first turn, and the Grandmaster loved him for it.
 - Steely Dan took an arrow to the head to protect Dolly, who branded him as her best friend and later saved his life.
 - The Arbiter ended the spinning arena by throwing a giant wrench into it.
 - Richardo shot a pillow at the Grandmaster and hit her in the face; she accidentally hit the Arbiter with a sack of quarters.

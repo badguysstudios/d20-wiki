@@ -12,13 +12,13 @@ tags:
 - place
 ---
 
-**Emmery's Tavern** is a small, grimy drinking hole somewhere out in [[The Void]], past [[The Dread Fortress]] and past the moon known as the Vendolyn. It has the Dread Fortress's bar tab on file and a bartender who has clearly seen worse. It also has a habit of becoming a battlefield. Champions have fought inside it, wrecked it, thrown up in it and, on one occasion, arrived through the roof at nearly the speed of light.
+**Emmery's Tavern** is a small, grimy drinking hole somewhere out in [[The Void]], past [[The Dread Fortress]] and past the moon known as the Vendolyn. It knows the Dread Fortress's typical bill, and its bartender is impossible to faze. It also has a habit of becoming a battlefield. Champions have fought inside it, wrecked it, left vomit in it and, on one occasion, arrived through the roof at nearly the speed of light.
 
 ## Description
 
-The tavern is small and dirty. It has stone floors and a fireplace with a giant skull mounted over it. A spot on the bar has been worn smooth by years of elbows and rags. A hearth and chimney keep the place warm. The cellar holds barrels marked "number two," and a storage room sits out back. The facilities are a single overflowing toilet with no parchment to be found. Anyone who comes for the cheese should know that the only cheese on offer is processed.
+The tavern is small and dirty. It has stone floors and a fireplace with a giant skull mounted over it. There is a worn spot on the bar. The tavern also has a hearth and chimney. It keeps "number two" barrels, and it has a storage room. The facilities are a single overflowing toilet with no parchment to be found. Anyone who comes for the cheese should know that the only cheese on offer is processed.
 
-Behind the bar works a large bartender who is very hard to impress. When two champions crashed through the ceiling and knocked every patron unconscious against the wall, he kept rubbing down the bar with his rag and greeted them anyway. When the tavern serves as an arena, its ceiling can turn transparent or disappear entirely, so [[The Acolytes]] get a clear view of the carnage from above.
+In the corner works a large bartender who is very hard to impress. When two champions crashed through the roof and the patrons were thrown against the wall and knocked unconscious, he kept rubbing down the bar with his rag and greeted them anyway. When the tavern serves as an arena, its ceiling can turn transparent or disappear entirely, so [[The Acolytes]] get a clear view of the carnage from above.
 
 ## History
 
@@ -28,13 +28,13 @@ The tavern first appeared as the arena for [[Episodes/Season 5/100 - S5E2 — Id
 
 ### The Hunt for #2
 
-The tavern returned in the Season of the Trials as the Dread Fortress's liquor supplier. In [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]], Frigidoom, [[Bob the Barbarian]] and [[The Duke]] were grouped as Team C. Their job was to visit "our favorite distributor over at Emmery's Tavern," which already knew "our typical bill," and bring the alcohol back safely. Frigidoom summed up the brief: "Cervezas, yes, done." Along the way the team faced [[Billy]].
+The tavern returned in the Season of the Trials as the Dread Fortress's liquor supplier. In [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]], Frigidoom, [[Bob the Barbarian]] and [[The Duke]] were grouped as Team C. Their job was to visit "our favorite distributor over at Emmery's Tavern," which already knew "our typical bill," and bring the alcohol back safely. Frigidoom summed up the brief: "Cervezas, yes, done." The same episode pitted the team against [[Billy]].
 
-The mission ended where it began. In [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]], [[Grandmaster Elusia Skypiercer|the Grandmaster]] sent the three teammates back to Emmery's Tavern to fight one another in the season finale. By the time it was over, the room held a werewolf corpse, a fair amount of vomit and a transparent ceiling. Frigidoom had also smashed up a good deal of the place.
+The mission ended where it began. In [[Episodes/Season 6/123 - S6E7, The Hunt for 2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke|S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke]], [[Grandmaster Elusia Skypiercer|the Grandmaster]] sent the three teammates back to Emmery's Tavern to fight one another in the season finale. By the time it was over, the room held a werewolf corpse, vomit and a transparent ceiling. Frigidoom had also smashed the place up.
 
 ### The Cheese
 
-In [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]], the tavern hosted the fourth round of the fight between [[Sila]] and [[Ol' Pumpernicklejack]], who did not exactly walk in. [[The Arbiter]] wound up and punched both champions forward at almost light speed. They shot across the emptiness of the Void like meteors, past the Dread Fortress and past the Vendolyn, then straight down through the tavern's roof. The patrons were thrown against the wall and knocked out cold. In the corner, the bartender did not even look up from his rag:
+In [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]], the tavern hosted the fourth round of the fight between [[Sila]] and [[Ol' Pumpernicklejack]], who did not exactly walk in. [[The Arbiter]] wound up and punched both champions forward at almost light speed. They shot across the emptiness of the Void like meteors, past the Dread Fortress and past the Vendolyn, then straight down through the tavern's roof. The patrons were thrown against the wall and knocked out cold. In the corner, the bartender rubbed down the bar with his rag, not even fazed:
 
 > "Welcome to Emmery's Tavern."
 

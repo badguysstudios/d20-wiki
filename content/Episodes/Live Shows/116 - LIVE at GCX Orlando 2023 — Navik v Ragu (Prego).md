@@ -20,7 +20,7 @@ canon_order: 116
 
 [Watch on YouTube](https://youtu.be/vOATJ98xPYY)
 
-**Navik**, the self-proclaimed Lord of the Undead, faced the filthy, squatting, chicken-hungry **Ragu** in a live Deathmatch at GCX Orlando 2023. The Acolytes in the room were the battlefield. Navik raised them as undead minions, and Ragu leaned on them as "friends," a word that soured badly over the course of the night. Along the way the Box of Chaos was born in the least dignified way imaginable, a child was booped to death, and Ragu evolved into Prego before a hailstorm of frozen wombat droppings finished him.
+**Navik**, the self-proclaimed Lord of the Undead, faced the filthy, squatting, chicken-hungry **Ragu** in a live Deathmatch at GCX Orlando 2023. The Acolytes in the room were the battlefield. Navik raised them as undead minions, and Ragu leaned on them as "friends," a word that soured badly over the course of the night. Along the way Ragu pooped out the Box of Chaos, a child was booped to death, and Ragu evolved into Prego before a hailstorm of frozen wombat poop finished him.
 
 ## The Story
 
@@ -36,7 +36,7 @@ When the Grandmaster called the fortress "our home," the Arbiter corrected her: 
 
 Navik arrived "from wherever the hell he lives" and told the Acolytes: "And you, my minions, will do as I say." He explained that he leads a hierarchy that "starts at the top." The Grandmaster asked whether he was middle management, and Navik complained that they had agreed beforehand she wouldn't bring that up. He planned to let his minions grapple, drag down and destroy his enemy, because surely no one could stand against "the armies of the Undead."
 
-Ragu got a grander introduction as "one of the filthiest, nastiest champions we've ever had." He described himself as a "filthy, dirty animal with an instinct to kill anybody that gets in my way." He warned Navik that he was "already dead" and offered to bury him "with your other bones. Amongst friends." His fighting style was "no mercy, killer instinct," and he was "hungry for chicken." Then he dropped into his signature Ragu squat, chanting his own name, and half the room squatted and chanted with him. The Grandmaster noted that a worrying number of Navik's "minions" had joined in. When Navik tried to raise his "Army of the Damned," the crowd was lethargic, and Navik could only offer, "It's early."
+Ragu got a grander introduction as "one of the filthiest, nastiest champions we've ever had." He described himself as a "filthy, dirty animal with an instinct to kill anybody that gets in my way." He told Navik he was "already dead," promised "I'll kill you again," and offered to bury him "with your other bones. Amongst friends." His fighting style was "no mercy, killer instinct," and he was "hungry for chicken." Then he dropped into his signature Ragu squat, chanting his own name, and half the room squatted and chanted with him. The Grandmaster noted that a worrying number of Navik's "minions" had joined in. When Navik tried to raise his "Army of the Damned," the crowd was lethargic, and Navik could only offer, "It's early."
 
 The Acolytes voted on who would strike first. Navik's fans raised their hands to the sky and Ragu's did squats, and the squatters won easily. The Arbiter then told the crowd they had "thrown off the shackles of our former dungeon" and announced a new style of combat: the Champions of Chaos.
 
@@ -44,19 +44,19 @@ The Acolytes voted on who would strike first. Navik's fans raised their hands to
 
 Ragu opened with his classic "Squish Swash," a front hand and back hand with his nunchucks. Navik stopped the first swing with nothing but a raised palm. The next blow landed, with sweat flying from Ragu's towel and seeping in like liquid death. Navik answered with crackling lightning, then raised his first minion from the crowd: "Rise, my thrall! Now attack him." Ragu's chosen defender was an Acolyte celebrating a birthday, and they failed him. The Grandmaster punished the failure herself. A claw came down, grabbed the unlucky Acolyte and dropped them into a deep fryer, where they sizzled "like a mozzarella stick." Ragu apparently ate one of the fallen Acolyte's legs and came out stronger for it.
 
-A volunteer named Rick then made a disastrous chaos roll and was banished: "We're shipping you to Antarctica." The Grandmaster recruited six witty, mean Acolytes as jeerers. Navik's boots, which the jeerers noted looked pulled off a dead guy, really had been ("I did"), but the insults bounced off his bony exterior. Ragu's insults landed. The jeerers accused him of stealing the Ring Fit Adventure man's whole swag "and his hairline," and Ragu could only answer, "It was on eBay, thank you very much."
+A volunteer named Rick then made a disastrous chaos roll and was banished: "We're shipping you to Antarctica." The Grandmaster recruited six witty, mean Acolytes as jeerers. Navik's boots, which the Grandmaster noted looked pulled off a dead guy, really had been ("I did"), but the insults bounced off his bony exterior. Ragu's insults landed. The jeerers accused him of stealing the Ring Fit Adventure man's whole swag "and his hairline," and Ragu could only answer, "It was on eBay, thank you very much."
 
 ### Fingers, Roots and a Skeletal Centaur
 
-A dragon-lord cosplayer with big claws wandered across the stage and challenged the Arbiter. After a roll-off, he was sent "back to the corner like last year." Ragu went for Navik's pretty red hand and tried to rip it off, but Navik blocked perfectly. "Ragu, instead of a hand, how about a finger?" Ragu tried to bind Navik's ugly boots with creeping tree branches, and Navik kicked them away like dust: "Strong boots. Weak branches."
+A dragon-lord cosplayer with big claws wandered across the stage, and when a challenge was thrown down, the Grandmaster put the Arbiter up against him in a roll-off. The cosplayer rolled a 1 and was sent "back to the corner like last year." Ragu went for Navik's pretty red hand and tried to rip it off, but Navik blocked perfectly. "Ragu, instead of a hand, how about a finger?" Ragu tried to bind Navik's ugly boots with creeping tree branches, and Navik kicked them away like dust: "Strong boots. Weak branches."
 
 Navik stopped bothering to move. He raised a freshly buried young dragonborn, which tore into Ragu, and then a skeletal centaur druid that Ragu recognized at once: "It's Motaro." Navik summed up his strategy: "I'm done. I don't need to do anything anymore. That's what you all are for."
 
 ### The Box of Chaos Arrives
 
-The Grandmaster took Ragu aside for a pep talk: "Stop fucking up, okay?" Ragu replied, "I think I just sharted." The Arbiter decided things weren't interesting enough and proposed summoning [[The Box of Chaos]]. The Grandmaster asked what Ragu had been eating. He'd thought the leg was protein, but it turned out to be fiber. Chemicals mingled, something large and boxy emerged, and Ragu pooped out the Box of Chaos. "This is a really shitty box," he said.
+The Grandmaster took Ragu aside for a pep talk: "Stop fucking up, okay?" Ragu replied, "I think I just sharted." The Arbiter decided things weren't interesting enough and proposed summoning [[The Box of Chaos]]. The Grandmaster asked what Ragu had been eating. He'd thought the leg was protein, but it turned out to be fiber. Chemicals mingled, something large and boxy emerged from his rectum, and Ragu pooped out the Box of Chaos. "This is a really shitty box," he said.
 
-He cried to heal himself, and his tears mixed with what lay below into "a strangely wonderful aroma." Then he opened his "boo-boo box." Black shadowy fingers and yellow eyes crept out and asked, "What do you want?" Ragu traded away his nunchucks. His chosen friend fumbled the roll, but the box still handed him a small blue pill to "keep you going all night long," buying him a little more stamina before collapse.
+He cried to heal himself, and his tears mixed with the shit below into "a strangely wonderful aroma." As the Grandmaster put it, "there's nothing better than tears and shit." Then he opened his "boo-boo box." Black shadowy fingers and yellow eyes crept out and asked, "What do you want?" Ragu traded away his nunchucks. His chosen friend fumbled the roll, but the box still handed him a small blue pill to "keep you going all night long," buying him a little more stamina before collapse.
 
 ### Friends Are Useless
 
@@ -68,7 +68,7 @@ The chaos then sent both champions into a game of Red Light, Green Light. The go
 
 ### From Ragu to Prego
 
-Desperate, Ragu dug deep: "If I do this heroic surge, I evolve from Ragu to Prego." The crowd chanted "Prego!" Then both champions fumbled at the same moment. Prego's "rad beam of energy" heated Navik up like a microwaved burrito and blasted back into Prego, burning them both. The Grandmaster warned him that one more failure would see him "collapse under your own disappointment." The next roll was exactly that failure. The Arbiter ruled that Prego had steadied himself just in time and survived, while hedging, "Your breath smells like tomato sauce." Prego shouted, "I live!"
+Desperate, Ragu dug deep: "If I do this heroic surge, I evolve from Ragu to Prego." The crowd chanted "Prego!" Then both champions fumbled at the same moment. Prego's "rad beam of energy" heated Navik up like a microwaved burrito and blasted back into Prego, burning them both. The Grandmaster warned him that one more failure would see him "collapse under your own disappointment." The next roll was exactly that failure. The Arbiter ruled that Prego survived because he had already shaken off some of his exhaustion, while hedging, "Your breath smells like tomato sauce." Prego shouted, "I live!"
 
 His next lucky roll came too late to count, but the Grandmaster honored it anyway by turning the child who rolled it into a human shield. Navik decided that if he had to destroy a child, he "might as well go overkill." He booped the child to death and raised him: "You're a child forever." The Arbiter shrugged: "Prom's overrated anyway." A minion in aviators then brought Prego to the brink.
 
@@ -87,7 +87,7 @@ Navik raised him at once: "Join the army of the damned!" The crowd told Prego he
 - Navik raised Ragu's own friends against him, prompting the Caesar comparison.
 - Ragu evolved into Prego, then survived a failure that should have killed him on a technicality.
 - A child human shield was booped to death and raised as "a child forever."
-- The match ended with Prego buried under frozen wombat cubes and raised as Navik's minion.
+- The match ended with Prego buried under frozen wombat poop cubes and raised as Navik's minion.
 
 ## Memorable Quotes
 

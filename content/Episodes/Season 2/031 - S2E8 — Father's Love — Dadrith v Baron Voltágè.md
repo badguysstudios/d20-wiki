@@ -20,7 +20,7 @@ canon_order: 31
 
 [Watch on YouTube](https://youtu.be/o_3-vKNmkWY)
 
-A cleric who calls himself the **dad of dads** faced off against a halfling inventor whose name nobody could pronounce, on an island riding the back of an eternal turtle. **Father's Love** pitted [[Dadrith]] and his arsenal of dad jokes against the theatrical [[Baron Voltágè]]. It is remembered for the first champion ever to throw his own soul into [[The Box of Chaos|the Box of Chaos]], for a winner who wept and begged his gods to spare his opponent, and for a closing scene in which a shark gave birth to a robot fist.
+A cleric who calls himself the **dad of dads** faced off against a halfling inventor whose name nobody could pronounce, on an island riding the back of an eternal turtle. **Father's Love** pitted [[Dadrith]] and his arsenal of dad jokes against the theatrical [[Baron Voltágè]]. It is remembered for the first champion ever to throw his own soul into [[The Box of Chaos|the Box of Chaos]], for a winner who wept and begged his gods to spare his opponent, and for a closing scene in which a robot fist burst out of a shark's stomach.
 
 ## The Story
 
@@ -30,7 +30,7 @@ The night opened with [[The Arbiter|the Arbiter]] strolling into the throne room
 
 When the Arbiter suggested she was being a little childish, she asked if he was judging her intake, and he retreated at once: "You are consuming the correct amount of candy at all times. I forgot." She also had an answer for the auditor in him. She had bought it all at half price, because "The Acolytes know you don't buy candy before Valentine's Day. You buy it after."
 
-The cover-up fell apart when [[Doug the Pug|Doug]] bounded out from behind the throne in a landslide of chocolate wrappers. The Arbiter was unbothered by the chocolate: "he's an undead dog he can eat chocolate… what is it gonna do kill him again." He did admit the two of them don't get along, and said Doug "makes it very clear every time he rolls higher than me." Doug turned his huge puppy eyes on the Grandmaster, who declared him the cutest thing alive and the Arbiter a monster.
+The cover-up fell apart when [[Doug the Pug|Doug]] bounded out from behind the throne in a landslide of chocolate wrappers. The Arbiter was unbothered by the chocolate: "he's an undead dog he can eat chocolate… what is it gonna do kill him again." When the Grandmaster said he didn't like Doug, he insisted it was Doug who didn't like him, and said Doug "makes it very clear every time he rolls higher than me." Doug turned his huge puppy eyes on the Grandmaster, who declared him clearly the cutest thing and the Arbiter a monster.
 
 Talk then turned to recruitment. The Arbiter confessed that this week's [[Champions|champions]] were "a little odd." It was getting harder to find people willing to fight to the death, and his cold calls kept ending in refusals. The Grandmaster reminded him that champions are promised "all the money or wishes that you want" from treasure set aside for the purpose. He noted that "all of that money seems to be going to candy." She promised to follow up on whether he was actually paying them.
 
@@ -38,7 +38,7 @@ Talk then turned to recruitment. The Arbiter confessed that this week's [[Champi
 
 Dadrith introduced himself with open arms: "I am Dadrith, dad of dads. I bring the ideals of fatherhood all across the multiverse and I'm here today to teach you a lesson, son." Baron objected that he was clearly the elder. The Grandmaster mentioned that she had laid her own father to rest "like 800 years ago," studied Dadrith for a moment, and concluded that no, he was not her father.
 
-Baron Voltágè announced that he had come to put down a long-standing "thorn in my side," and named himself "the elitist of electricity, the supplier of shock." Then the Arbiter asked whether the name was just "voltage." **"No, it's Voltágè! It's said the exact way it's spelt!"** The Grandmaster tried it dozens of times. When asked whether it was German, Baron said the name was Barovian. The Arbiter offered the theory that "this guy might just be an electrician," until Baron snapped, "Enough! I did not come here to be belittled!" Dadrith, for his part, explained his calling: "everyone that tries to be a father that does not live up to the ideals of fatherhood faces my wrath."
+Baron Voltágè announced that he had come to put down a long-standing "thorn in my side," and named himself "the elitist of electricity, the supplier of shock." Then the Arbiter asked whether the name was just "voltage." **"No, it's Voltágè! It's said the exact way it's spelt!"** The Grandmaster tried it dozens of times. When the Arbiter asked whether it was a family name, or German, the answer was that it was Barovian. The Arbiter offered the theory that "this guy might just be an electrician," until Baron snapped, "Enough! I did not come here to be belittled!" Dadrith, for his part, explained his calling: "everyone that tries to be a father that does not live up to the ideals of fatherhood faces my wrath."
 
 ### The Eternal Turtle
 
@@ -52,21 +52,21 @@ The Acolytes had already stirred up chaos. A sizzle and an ashy smell came first
 
 ### Son, Sun and Newspaper
 
-Dadrith wasted no time. He warned Baron off the box ("Its contents are mine"), pointed at the sky and commanded, "Sun, come forth." A beautiful, solar-colored celestial appeared beside Baron and gave a slow-motion Fabio hair flick. Its shirt plunged to the belly button until, on the Grandmaster's suggestion, it changed into a big floral Hawaiian one. This was Dadrith's son, and he was told not to let Baron open that chest.
+Dadrith wasted no time. He warned Baron off the box ("Its contents are mine"), pointed at the sun and commanded, "Sun, come forth." A beautiful, solar-colored celestial appeared beside Baron and gave a slow-motion Fabio hair flick. Its shirt plunged to the belly button until, on the Grandmaster's suggestion, it changed into a big floral Hawaiian one. This was Dadrith's son, and he was told not to let Baron open that chest.
 
 Baron scoffed that he had no need of the chest's meager trinkets. "Now to begin my unnecessary power-up sequence!" His suit deployed piece by piece in slow motion, Iron Man style, as he swelled to giant size and made loud, sustained power-up screams. Someone shouted that his power was over 9,000. The Grandmaster, delighted by the showmanship, put her money on him.
 
-Dadrith answered by winding up his hands. With the sound of warping paper, a giant rolled-up newspaper appeared and smacked Baron. The Grandmaster warned that some of the audience might be having childhood flashbacks. Dadrith then shouted "Daddy's coming!", leapt a stretch of scorching sand past a crab that had cooked mid-stride, and fired off his first joke. "I learned today that you can't run through a campground… But you can't run past tense." The sand exploded in radiant light on "tense," and Baron simply stood there and stared. The jokes, Dadrith explained, "are passed down from dad to dad."
+Dadrith answered by winding up his hands. With the sound of warping paper, a giant rolled-up newspaper appeared and smacked Baron. The Grandmaster warned that some of them might be having childhood trauma flashbacks. Dadrith then shouted "Daddy's coming!", leapt a stretch of scorching sand past a crab that had cooked mid-stride, and fired off his first joke. "I learned today that you can't run through a campground… But you can't run past tense." The sand exploded in radiant light on "tense," and Baron simply stood there and stared. The jokes, Dadrith explained, "are passed down from dad to dad."
 
 ### Lightning and Holy Coconuts
 
 The son pulled a mace topped with a fuzzy coconut from under his Hawaiian shirt and swung three times, glancing off Baron's armor each time. "It's okay, son," said Dadrith. **"I'm not angry. I'm just disappointed."** The Grandmaster remarked that she might need to see her therapist again. The Arbiter suggested she could always just visit her dad in the graveyard, and she firmly declined.
 
-Baron struck back with "A menage a Voltágè!" and split into four giant Barons stomping around the tiny island, which the Grandmaster called insane and wonderful. Lightning arced between the four of them and up into a gathering cloud, then crashed down on Dadrith. The blast fizzled, so the Grandmaster let it hit harder, because "That show deserves a bigger boom." The Arbiter tossed Dadrith his own black Chuck Taylors so the cleric could keep up. Dadrith took a sprinter's stance and announced "Dispel is Dispel" as he tried to unravel Baron's magic. The Acolytes threw popcorn and voted in his favor. The Grandmaster doubted their judgment but accepted it, and the mirror images shattered. "Now it's time that you stop reflecting and actuate."
+Baron struck back with "A menage a Voltágè!" and split into four giant Barons stomping around the tiny island, which the Grandmaster called insane and wonderful. Lightning arced between the four of them and up into a gathering cloud, then crashed down on Dadrith. The blast fizzled, so the Grandmaster gave it another try, because "That show deserves a bigger boom." It still landed small. The Arbiter pulled off his own black Chuck Taylors and tossed them to Dadrith so the cleric could keep up. Dadrith took a sprinter's stance and announced "Dispel is Dispel" as he tried to unravel Baron's magic. The Acolytes threw popcorn and voted in his favor. The Grandmaster doubted their judgment but accepted it, and the mirror images shattered. "Now it's time that you stop reflecting and actuate," Dadrith told him.
 
 "Come on, son. Make me proud," Dadrith urged, and a coconut finally landed with a hollow ring. "Yes, Papa." Baron then opened a lightning thruster in the back of his armor and rocketed into the air. Dadrith swung a "You stay here!" at him as he left and only kicked sand into his own face. Next he sacrificed his crossbow to the Box ("I'm glad that's off… my chest"), and the Arbiter told the box, "This is what you were born for. This is why I created you." Out rose a pair of winged boots. "I'm sorry, referee. I will be wearing the boots instead."
 
-Up in the air, the newspaper spanked Baron's feet. Then the son landed a **perfect, critical coconut strike** that sent a crimson waterfall down into the sand. "Thank you, Papa." The Grandmaster called a break and considered getting a pineapple drink instead.
+Up in the air, the newspaper spanked Baron's feet. Then the son landed a **perfect, critical coconut strike** that sent a crimson waterfall down into the sand. "Thank you, Papa." The Arbiter called for a break after that nasty critical, and the Grandmaster, looking at her coconut drink, considered getting a pineapple instead.
 
 ### A Blackened Soul
 
@@ -82,15 +82,15 @@ A storm rolled in like drums, and lightning struck both champions. The Grandmast
 
 ### The Grill
 
-Baron spent his second wish on lightning far stronger than anything he had thrown before, and it nearly broke Dadrith. Then he teleported deep into the murky water, hidden even from the sharks. Dadrith's "dad vision" found him anyway. Coals flew from Dadrith's hands, an ethereal grill closed around Baron, and his metal armor cooked him. The heat boiled away enough water for one gargled curse.
+Baron spent his second wish on lightning far stronger than anything he had thrown before, and it hit Dadrith hard, though he stayed up. Then he teleported deep into the murky water, hidden even from the sharks. Dadrith's "dad vision" found him anyway. Coals flew from Dadrith's hands, an ethereal grill closed around Baron, and his metal armor cooked him. The heat boiled away enough water for one gargled curse.
 
 Dadrith's face went stoic, and he added his tears to the salt sea. "This isn't right." He called on Moxie and the Eternal Fathers: "let this one live and take me instead." The Grandmaster, moved, widened his chances, and the Acolytes picked the numbers. The fathers did not answer. Dadrith swam to the sinking body anyway: "Come. You are someone's son. Hold on. Don't give up." Baron gave him one final scowl as the ring glowed, then drifted into the dark.
 
-**One hundred and twenty days later**, a shark beached itself on the turtle, gasped and went still. A robotic fist burst out of its stomach, and a cloned Baron Voltágè crawled forth. "Ah, Dadrith!" Out of spite, his last wish had kept his survival a secret.
+**One hundred and twenty days later**, a shark beached itself on the turtle, gasped and went still. A robotic fist burst out of its stomach, and a cloned Baron Voltágè crawled forth. "Ah, Dadrith!" His last wish had gone on that clone, with the shark as its vessel, and out of spite his survival was kept a secret.
 
 ### Remembrance
 
-Believing Baron dead, the Grandmaster ordered the Arbiter to lay a memento on the beach. He asked whether the name was Bartholomew and complained that a lot of people die in this arena. She would hear none of it: "We may not be able to say it with the perfect accent, but we will say his name… for no fight is unseen by us all." Dadrith rose on his winged boots as champion. "I know that your dads love you. You can all call me Dad!" The crowd chanted "Dad! Dad!"
+Believing Baron dead, the Grandmaster ordered the Arbiter to lay a memento on the beach. He asked whether the name was Bartholomew and complained that a lot of people die in this arena. She would hear none of it: "We may not be able to say it with the perfect accent, but we will say his name… for no fight is unseen by us all." Dadrith rose on his winged boots as champion. "I know that your dads love you," he told the crowd, and then: "You can all call me Dad!" The crowd chanted "Dad! Dad!"
 
 ## Dried Blood
 

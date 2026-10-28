@@ -15,14 +15,14 @@ tags:
 ## Story
 
 ### Blood Rain
-Harry appeared during the episode in which [[Fatale]] faced [[Claudia]]. He worked alongside two other goblins, **Henrietta** and **Louise**, and the three of them were busy placing small trees and rivers on a map of the Void.
+Harry appeared during the episode in which [[Fatale]] faced [[Claudia]]. He worked alongside two other goblins, **Henrietta** and **Louise**, and the three of them were busy placing small trees and rivers on a map of the Void. What became of the map, or of Harry, after that is not known.
 
 ### Another Harry
-A different Harry turned up, in name only, in [[Episodes/Season 5/106 - S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso|S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso]]. Midway through her fight with [[Teddy Oso]], [[Granny Edith]] boasted from the floor about her enormous family. She began counting her children, got to eight, and then lost her place over someone called Harry. That Harry seems to be one of Granny's own children. Nothing links him to the map-building goblin, so he is best treated as a separate person who shares the name.
+A different Harry turned up, in name only, in [[Episodes/Season 5/106 - S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso|S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso]]. During her fight with [[Teddy Oso]], [[Granny Edith]] boasted from the floor about her enormous family. She began counting her children, got to eight, and then lost her place over someone called Harry. That Harry seems to be one of Granny's own children. Nothing links him to the map-building goblin, so he is best treated as a separate person who shares the name.
 
 ## Personality and Abilities
 
-What little is known of Harry the goblin comes from his work. He handled the detailed end of the cartography, setting down small trees and rivers on the map, which suggests a steady hand and patience. Nothing else about his looks, manner or skills has been shown.
+What little is known of Harry the goblin comes from his work. He handled the detailed end of the cartography, setting down small trees and rivers on the map. Nothing else about his looks, manner or skills has been shown.
 
 ## Memorable Quotes
 

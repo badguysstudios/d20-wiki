@@ -17,7 +17,7 @@ canon_order: 95
 
 [Watch on YouTube](https://youtu.be/KWrBKN495SY)
 
-There was no arena, no opponent and no crowd this week. **Vythorn**, [[The Arbiter|the Arbiter]] (played by Mudcat), tumbled out of a portal and into a place outside every map he knew: a lifeless swamp, a lake, and a lone tower standing in the in-between. The match was against himself, and his opponent was the patient, laughing, many-faced [[Fil|God of Fate]]. It cost him a pair of very nice boots and won him a quest that could change everything.
+There was no arena, no opponent and no crowd this week. **Vythorn**, [[The Arbiter|the Arbiter]] (played by Mudcat), tumbled out of a portal and into a place outside every map he knew: a lifeless swamp, a lake, and a lone tower standing in the in-between. The match was against himself, and his opponent was the patient, laughing, many-faced [[Fil|God of Fate]]. It cost him a pair of very nice boots and won him a quest.
 
 ## The Story
 
@@ -25,7 +25,7 @@ There was no arena, no opponent and no crowd this week. **Vythorn**, [[The Arbit
 
 The tale opened with Vythorn already in motion. He had just slipped away from his companions, opening a portal that left them "hidden still within the mirror." The narration was blunt about it: he had betrayed them, but he held firm to one promise, to return to [[The Void|the Void]] and to Elusia's side.
 
-He fell through space and time inside swirling blue and green auras and felt nothing at all. There was no wind and no breeze, and not even air when he breathed. Each time he reached for the light, it slowed. The colors faded to white, then to black, until his feet finally touched ground.
+He fell through space and time inside swirling blue and green auras and felt nothing at all. There was no wind and no breeze, and not even air when he breathed. Each time he reached for the aura, it slowed. The colors faded to white, then to black, until his feet finally touched ground.
 
 ### The Black River
 
@@ -63,9 +63,9 @@ Vythorn followed the light up through what felt like an ocean and burst into the
 
 As he trudged ashore, a small black head with no eyes bobbed up in the water: "If they don't like you, you can always come back to see us." Vythorn answered with all his dignity: "I'll be back to see you. And I'll dance on your grave!" Asked whether he felt good about that, he said he felt great about it.
 
-A snap of his fingers turned back time on his clothes, and they were dry, pressed and spotless. His feet stayed bare. (At the table, a brief debate broke out over his sockless lifestyle. "Good boots don't need socks," he insisted, "if they're Italian.") A rock then whizzed out of nowhere and hit him in the back of the head, along with a shout of "they gave you permission to do that." He refused to dignify it and walked on with his jaw clenched.
+A snap of his fingers turned back time on his clothes, and they were dry, pressed and spotless. His feet stayed bare. (At the table, a brief debate broke out over his sockless lifestyle. "Good boots don't need socks," he insisted. "Oh, if they're Italian.") A rock then whizzed out of nowhere and hit him in the back of the head, along with a shout of "they gave you permission to do that." He refused to dignify it and walked on with his jaw clenched.
 
-[[The tower in the in-between|The tower]] made him uneasy. Its grass was untrodden, as though no guest had ever come or gone, and seven lanterns just like the one on his boat hung in its windows. He shielded himself against otherworldly things and then knocked, in a way the narrator described as "less of a polite knock and more of a just like, open the fucking door." Nobody answered. The door had no handle, and it swung open at a push.
+[[The tower in the in-between|The tower]] made him uneasy. Its grass was untrodden, as though no guest had ever come or gone, and seven lanterns just like the one on his boat hung in its windows. He tried to shield himself against otherworldly things and then knocked, in a way the narrator described as "less of a polite knock and more of a just like, open the fucking door." Nobody answered. The door had no handle, and it swung open at a push.
 
 Inside, a massive, vibrant young tree grew up through the bare stone tower, with no stairs anywhere. Vythorn climbed it barefoot, and for once the missing boots helped, because his toes gripped the bark.
 
@@ -73,9 +73,9 @@ Inside, a massive, vibrant young tree grew up through the bare stone tower, with
 
 At the top was an enchanting room, with the tree blossoming through it, a warm hearth, a ceiling full of lanterns and books everywhere. Fifteen to twenty people filled it: aarakocra, halflings, elves and stranger folk, reading, chatting and sipping tea. Nobody looked at him, until he asked where he was. Every conversation stopped at once and every eye turned to him.
 
-They answered one at a time and finished one another's thoughts. An elf said, "We were expecting you… It just wasn't your time yet." A mouse-like creature with big white ears said, "Well, we're your way back." A nine-foot woman with purple blossoms brushing her head explained, "We exist between every plane, every time, every space, in between." "Am I still dead?" he asked. A little boy assured him it was "not really a dead place, but it is an end if you want it to be." Then the whole room laughed together like a choir, each voice on a different note.
+They answered one at a time and finished one another's thoughts. An elf said, "We were expecting you… It just wasn't your time yet." The whole room laughed together like a choir, each voice on a different note. A mouse-like creature with big white ears said, "Well, we're your way back." A nine-foot woman with purple blossoms brushing her head explained, "We exist between every plane, every time, every space, in between." "Am I still dead?" he asked. A little boy assured him it was "not really a dead place, but it is an end if you want it to be."
 
-At the back sat a woman with chestnut hair and long white wings folded behind her, staring at the floor. "Vythorn, breathe. We've asked you to be here. And you are already eager to leave." A leonin, a blonde human man and a white-furred bear each told him, "I know you." Vythorn sneaked a look at the shelves and found that every book, scroll and tome was blank, even the ones being discussed. A cat nudged his heels ("I'm allergic to cats"), and a drink was in his hand before he could refuse it.
+At the back sat a woman with chestnut hair and long white wings folded behind her, staring at the floor. "Vythorn, breathe. We've asked you to be here. And you are already eager to leave." A leonin told him, "I know you"; a blonde human man added, "I've known you too"; and a white-furred bear said, "I've known you." Vythorn sneaked a look at the shelves and found that every book, scroll and tome was blank, even the ones being discussed. A cat nudged his heels ("I'm allergic to cats"), and a drink was in his hand before he could refuse it.
 
 ### Turning the Pages
 
@@ -85,9 +85,9 @@ When he introduced himself as "the Arbiter of the Dread Fortress, right hand of 
 
 > **The God of Fate:** "To know where you're going, you need to know exactly where you've been."
 
-The drink pulled him into a dream made of cloud. In it a young boy who looked a lot like him stood lost in the rain, his hands wreathed in magical fire, while a two-story house burned and screamed behind him. "I suppose my family would say too much potential," Vythorn said. "Dangerous, weren't you?" "Still am." A polar bear snarled in his face, asking who had ever stayed long enough to call family. He answered that he had had teachers and friends, and that for a time even [[The Shadow King|the Shadow King]] himself had been one. "Friends don't put friends in chests," a lizard with an eyeglass reminded him.
+The drink pulled him into a dream made of cloud. In it a young boy who looked a lot like him stood lost in the rain, his hands wreathed in magical fire, while a two-story house burned behind him with screams coming from inside. "I suppose my family would say too much potential," Vythorn said. "Dangerous, weren't you?" "Still am." A polar bear snarled in his face, asking who had ever stayed long enough to call family. He answered that he had had teachers and friends, and that for a time even [[The Shadow King|the Shadow King]] himself had been one. "Friends don't put friends in chests," a lizard with an eyeglass reminded him.
 
-The winged woman touched his forehead and took him back to the moment the Shadow King was first struck down in the days of [[Skypiercer]], when he lay dying beneath Vythorn and Vythorn chose not to finish him. "I… couldn't just let his power go to waste," he said. He argued that he had used that power to keep order while the Grandmaster held her games, and that he had brought Elusia home across the planes and into [[The Dread Fortress|the Dread Fortress]]. "She's a great figurehead, very inspirational. Inspiration only goes so far." The woman was unmoved. The Void had run itself for centuries without his help, she said, and the plot to overthrow Elusia "was a seed that was already planted by you." Had he never been dissatisfied with her rule, or her father's? "I don't know, maybe? Sometimes, who's not?"
+The winged woman touched his forehead and took him back to the moment the Shadow King was first struck down in the days of [[Skypiercer]], when he lay dying beneath Vythorn and Vythorn chose not to finish him. "I… couldn't just let his power go to waste," he said. He argued that he had used that power to keep order while the Grandmaster held her games, and that he had brought Elusia home across the planes and into [[The Dread Fortress|the Dread Fortress]]. "She's a great figurehead, very inspirational. Inspiration only goes so far." The woman was unmoved. The Void had run itself for centuries without that power, she said, and the plot to overthrow Elusia "was a seed that was already planted by you." Had he never been dissatisfied with her rule, or her father's? "I don't know, maybe? Sometimes, who's not?"
 
 ### What Vythorn Wants
 
@@ -99,7 +99,7 @@ The room erupted, because it was the funniest thing he could possibly have said.
 
 ### The Bargain
 
-"Some call us desire, some ambition or providence," said the cat. "Risk, destiny, luck, hope even, fortune, demise, even fate," said the bear. "We are many things. And we are one." Every figure in the room lost its shape and poured into the winged woman, and only the two of them remained. "You want to be us."
+"Some call us desire, some ambition or providence," said the cat. "Risk, destiny, luck, hope even, fortune, demise, even fate," said the bear. "You see, we are many things. And we are one." Every figure in the room lost its shape and poured into the winged woman, and only the two of them remained. "You want to be us."
 
 "I suppose I want to kill you," Vythorn said. "What was never alive cannot be killed." "Then you won't mind."
 
@@ -107,12 +107,12 @@ She offered him control of the fates of everyone in the Void. It was not every f
 
 "Good. Now go find [[Morir's Cataclysm|the Testaments of Morir's Cataclysm]]." She blew on him, a gust swept him backward, and the world went black.
 
-At the table afterward, it was revealed that the fork in the river had never mattered. The left and center branches led to the same place, and the dark right-hand one simply looped back to offer the choice again. It had never occurred to Vythorn that his choices might not count.
+At the table afterward, it was revealed that the fork in the river had never mattered. The left and center branches would have made no difference, and the dark right-hand one simply looped back to offer the choice again. It had never occurred to Vythorn that his choices might not count.
 
 ## Notable Moments
 
 - Vythorn lost his beloved Italian leather boots to a slime that eats magic, and spent the rest of the episode barefoot.
-- The Endless Scholar couldn't row and couldn't swim, and he nearly drowned in two feet of water.
+- The Endless Scholar couldn't row and couldn't swim, and he floundered in two feet of water.
 - He responded to a taunting slime head with "I'll dance on your grave!"
 - Every patron in the tower, from the cat to the owlbear, turned out to be one being: the God of Fate, wearing many faces, including a white bear said at the table to resemble [[Orin]].
 - He confessed that he wants to "control fate," and got the biggest laugh in the in-between.

@@ -17,7 +17,7 @@ played_by:
 - 'Elianna: ParallaxStella'
 winner: No winner
 arena: The Sands of Eternity and the city of Mortaurios
-summary: After Locket dies in the Sands of Eternity, the grieving party kills four desert outlanders alongside Cerys, the Aasimar whose stray arrow killed her. They follow Cerys through a sand portal to the city of Mortaurios, where the royal guard escorts them to the throne hall of its king and queen.
+summary: After Locket dies in the Sands of Eternity, the grieving party kills four desert outlanders alongside Cerys, the Aasimar whose stray arrow killed her. They follow Cerys through a sand portal to the city of Mortaurios, where the royal guard leads them to the ziggurat and its king and queen await them in the throne hall.
 tags:
 - episode
 youtube: https://youtu.be/0lTfjV0ByVs
@@ -58,7 +58,7 @@ Four outlanders surround her. One rips away her shield and another pulls her swo
 
 "We've got nothing else to do. Nothing but time here. Why not have a little fun?"
 
-One of them flares his arms wide and offers himself as a target. Enraged, **Cerys lets the divine light inside her burst out**, and it blazes over all of them as she cries out in battle fury. She lets fate choose her target, and it picks the man with his arms spread. As she draws the heavy bow, a spear stabs through the back of her leg. **The arrow sails high over his head and over the next dune, and it finds Locket's throat.** At the table, the player behind both women realized she had just killed her own character.
+One of them flares his arms wide and offers himself as a target. Enraged, **Cerys lets the divine light inside her burst out**, and it blazes over all of them as she cries out in battle fury. She lets fate choose her target, and it picks the man with his arms spread. As she draws the heavy bow, a spear stabs through the back of her leg. **The arrow sails high over his head and over the next dune, and it finds Locket's throat.** The spear is pulled out, and Cerys bleeds into the sand on her knees. At the table, the player behind both women realized she had just killed her own character.
 
 ### Blood on the Dunes
 
@@ -68,7 +68,7 @@ A javelin flies at Flynry. With his new cool calm, he steps aside without breaki
 
 Flynry is confused, since these two clearly aren't on the same side. But Toddleheim is "his best friend, number one": if this is who they're attacking, "this is who we're fucking attacking." He throws the archer's bow away, knocks him to his knees and **takes his head off with the greatsword**. The head rolls down the dune and the body turns to sand, just as Locket's did.
 
-Then the librarian gets to work. Elianna has never been trained with a weapon. She takes the smallest dagger from a sleeping outlander in purple, whispers a prayer, and **slits his throat**. His eyes snap open as he gurgles at her and dissolves. "Well, there's two more left." She gives the sleeping Tabaxi "a nice little farewell prayer" and does the same, then looks to Flynry: "Eh?" He nods. At the table, the verdict was swift: "Our librarian's a sociopath." Cerys takes the last one. "Oh, I've been waiting for you," she tells the sleeping spearman, and drives her sword through his chest.
+Then the librarian gets to work. Elianna has never been trained with a weapon. She takes the smallest dagger from a sleeping outlander in purple, whispers a prayer, and **slits his throat**. His eyes snap open as he gurgles blood up at her and dissolves. "Well, there's two more left." She gives the sleeping Tabaxi "a nice little farewell prayer" and does the same, then looks to Flynry: "Eh?" He nods. At the table, the verdict was swift: "Our librarian's a sociopath." Cerys takes the last one. "Oh, I've been waiting for you," she tells the sleeping spearman, and drives her sword through his chest.
 
 ### The Woman Who Fired the Arrow
 
@@ -76,7 +76,7 @@ Flynry looks hard at the stranger, wondering if she could somehow be Locket. He 
 
 Then Flynry raises his sword: "Which one shot the arrow over the ridge? Tell me now." Elianna throws herself between them. Cerys knows of a city with a pyramid and a crystal, the very place Elianna once glimpsed through the sword, and it may be their only way out. "I am no prisoner," Cerys says. "You could be a corpse instead," Flynry answers, and **blue flame engulfs his blade**. Toddleheim, in full werewolf form, looms beside him. Cerys cracks her neck: "I'm not afraid of you."
 
-She explains the setup, and Flynry is unmoved: "My companion who you shot through the throat, despite your troubles, despite your pain, her death is yours." Cerys apologizes and says she meant to kill one of them, then gives her name. Flynry turns his back. Toddleheim walks right up to her face, drooling and enormous, says "I don't care who you are," and walks off, shrinking back to himself as he goes.
+She explains the setup, and Flynry is unmoved: "My companion who you shot through the throat, despite your troubles, despite your pain, her death is yours." Cerys apologizes and says she meant to kill one of them. Flynry turns his back and walks away, and she gives the others her name. Toddleheim walks right up to her face, drooling and enormous, says "I don't care who you are," and walks off, shrinking back to himself as he goes.
 
 To Elianna, Cerys explains that she has also watched people she grew close to turn to sand and float away, and she wants vengeance on whoever made this place. The way to the city is to speak its name into the wind. Elianna makes her write it down so she can't slip away alone. Flynry, petty but listening, turns his back so that the sword strapped to it faces Cerys. In the mirror, Toddleheim sees her inner self: **angelic and radiant, bright-eyed, with white wings.** "I think we can trust her," he decides. "At the very least, I'll just get Elianna home."
 
@@ -109,7 +109,7 @@ The ziggurat's door is hundreds of feet high. Inside, bridges cross a black chas
 - **The arrow that killed Locket** was fired by Cerys, the new character from the same player.
 - Elianna the gentle librarian prays over two sleeping outlanders and then slits their throats.
 - A whispered name opens a mirror of sand into Mortaurios, the city of the dead.
-- Bronn, the reluctant captain, looks heroic in person and "small and burdened" in the mirror.
+- Bronn, the reluctant captain, is a large armored man in person and "small and burdened" in the mirror.
 
 ## Memorable Quotes
 

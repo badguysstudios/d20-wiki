@@ -14,9 +14,9 @@ tags:
 
 ## Story
 
-A portal tore open in time and space, and two champions walked out to the announcement of "Ferndell Ironwind versus Lumos the Spark." Lumos introduced herself as a high elf who was "pretty cool" and "questionably way too much into corgis." She blamed the corgi habit on the long stretch she had spent among a folk who ride corgis into battle. She cheerfully admitted that this was most of who she was: "I don't know that there's anything else really to my personality other than that." Her stated reason for being there was simple. She had come "to get some revenge."
+A portal tore open in time and space, and two champions walked out to the announcement of "Ferndell Ironwind versus Lumos the Spark." Lumos introduced herself as a high elf who was "pretty cool" and "questionably way too much into corgis." She blamed the corgi habit on the long stretch she had spent among a folk who ride corgis. She cheerfully admitted that this was most of who she was: "I don't know that there's anything else really to my personality other than that." Her stated reason for being there was simple. She had come "to get some revenge."
 
-The revenge had a history. In another dimension, Lumos and Ferndell were rivals: both office workers, and both bounty hunters. In the arena, Lumos mixed healing with heavy firepower. She called out words that mended her wounds, unleashed a burst of searing radiance, raised a wall of fire and hurled a fireball. She also dug deep at one point to patch herself up, and she cast a spell to make "fast friends." When Ferndell tried to rob her of her sight and hearing, she shrugged it off so completely that she could not be blinded or deafened for the rest of the match. She credited this to "LASIK."
+The revenge had a history. In another dimension, Lumos was an office worker and a bounty hunter, and Ferndell's rival. In the arena, Lumos mixed healing with heavy firepower. She called out words that mended her wounds, unleashed a burst of searing radiance, raised a wall of fire and hurled a fireball. She also dug deep at one point to patch herself up, and she cast a spell to make "fast friends." When Ferndell tried to rob her of her sight and hearing, she shrugged it off so completely that she could not be blinded or deafened for the rest of the match. She credited this to "LASIK."
 
 Corrective eye surgery could not save her from what came next. Ferndell conjured a phantasmal killer, a nightmare drawn from her deepest fears, and it took the form of **Ferndell's mom**. That was the end of Lumos in the arena. Her will was clear about who came first in her life: she left everything she owned, a fortune put at a "quadrillion" dollars, to her corgi **Maximus**. Like most fallen champions, she was revived afterwards and appeared again in Dried Blood.
 
@@ -28,7 +28,7 @@ In a fight she leans toward light and flame. She carries a mace, and her spells 
 
 ## Relationships
 
-- [[Ferndell Ironwind]]: Her rival in another dimension, a fellow office worker and bounty hunter. He was the target of her revenge and the champion who killed her.
+- [[Ferndell Ironwind]]: Her rival in another dimension. He was the target of her revenge and the champion who killed her.
 - **Maximus**: Her flying corgi and the sole heir to her quadrillion-dollar fortune.
 
 ## Memorable Quotes

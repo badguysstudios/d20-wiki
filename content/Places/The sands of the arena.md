@@ -4,20 +4,20 @@ type: place
 aka:
 - The Sands of the Arena
 first_appearance: S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)
-summary: The scorching arena floor where the Arbiter dragged the heroes of Fate of the Arbiter and ordered the former teammates to fight each other to the death.
+summary: The hot arena floor where the heroes of Fate of the Arbiter were thrown through a portal and presented by the Arbiter as former teammates forced to fight to the death.
 aliases:
 - The Sands of the Arena
 tags:
 - place
 ---
 
-**The sands of the arena** are the hot, open floor of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s arena, ringed by the screaming stands of [[The Acolytes]]. It is not a place anyone arrives at by choice. In Fate of the Arbiter it became the setting for one of the cruelest tricks [[The Arbiter]] ever pulled: taking a band of adventurers who had fought side by side and putting them on the sand as opponents. The moment was big enough that the heroes later measured their lives from it. One later chapter finds them "months after the Sands of the Arena."
+**The sands of the arena** are the hot, open floor of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s arena, ringed by the screaming stands of [[The Acolytes]]. It is not a place anyone arrives at by choice. In Fate of the Arbiter it became the setting for a cruel twist from [[The Arbiter]]: taking a band of adventurers who had fought side by side and putting them on the sand as opponents. The moment became a landmark in the heroes' story. One later chapter finds them "months after the Sands of the Arena."
 
 ## Description
 
-The ground is sand, and it is hot. Fire shoots up around anyone who lands there, and a hot wind whips the sand into the air. Above it all, the Acolytes cheer, howl and scream for blood.
+The ground is sand, and it is hot. When the heroes landed, fire shot up around them and a hot wind blew the sand. Above it all, the Acolytes cheered and screamed.
 
-The sky changes with the occasion. The first arrival came under a sunny sky, while the later return played out in a hot night wind. Either way, the place is built for spectacle. There is plenty of open air overhead for the Arbiter to launch himself skyward, spread his wings and circle the stands, playing to the crowd.
+Accounts of the arrival differ on the sky. The first telling puts it under a sunny sky, while the next episode's retelling has a hot night wind. Either way, the place is built for spectacle. There is plenty of open air overhead for the Arbiter to launch himself skyward, spread his wings and circle the stands, playing to the crowd.
 
 ## History
 
@@ -35,12 +35,12 @@ The Arbiter flew up, spread his wings and promised once again to "satiate your b
 
 ### Afterward
 
-What happened on the sands cast a long shadow. When the story picked up again in the Hall of Fates chapter, [[Toddleheim]], [[Locket]] and [[Flynry]] were "months after the Sands of the Arena." By then they had joined the resistance and had "been on countless adventures since."
+The sands became a marker in the heroes' timeline. When the story picked up again in the Hall of Fates chapter, [[Toddleheim]], [[Locket]] and [[Flynry]] were "months after the Sands of the Arena." By then they had joined the resistance and had "been on countless adventures since."
 
 ## Notable Figures
 
-- [[The Arbiter]]: the showman in the sky, who pulled the heroes onto the sand and set them against each other.
-- [[The Acolytes]]: the roaring crowd in the stands.
+- [[The Arbiter]]: the showman in the sky, who presented the heroes as former teammates forced to fight to the death.
+- [[The Acolytes]]: the screaming crowd in the stands.
 - [[Toddleheim]], [[Locket]] and [[Flynry]]: the heroes who came through the sands and went on to join the resistance.
 
 ## Appearances

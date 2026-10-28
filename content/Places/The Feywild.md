@@ -11,13 +11,13 @@ tags:
 - place
 ---
 
-**The Feywild** is a realm of untamed color and glitter. It has sent at least two flamboyant champions into the Deathmatches. Both [[Cosmonius]], the Galloping Grappler, and [[El Hada Rocha]], champion of the peacock spirit, call it home, and they met each other in the arena in their very first bout. The place has never appeared on screen, but everything that comes out of it seems to sparkle.
+**The Feywild** is a realm of untamed color and glitter. It has sent at least two flamboyant champions into the Deathmatches. Both [[Cosmonius]], the Galloping Grappler, and [[El Hada Rocha]], champion of the peacock spirit, call it home, and they met each other in the arena. Everything that comes out of it seems to sparkle.
 
 ## Description
 
-By its own natives' account, the Feywild is a wild place. El Hada Rocha introduced himself as coming from the "Feywilds" and boasted that he was "about as wild as the Feywilds themselves." Its wildlife includes peacocks, and not necessarily friendly ones. Cosmonius claimed to have seen them in the Feywild and learned how they attack.
+By its own natives' account, the Feywild is a wild place. El Hada Rocha introduced himself as coming from the "Feywilds" and boasted that he was "about as wild as the Feywilds themselves." Its wildlife includes peacocks, and not necessarily friendly ones. Cosmonius claimed to have seen them in the Feywild and known how they would attack.
 
-The realm also seems to leave a mark on those who live there. When Cosmonius charged across the arena, he left a trail of Feywild pixie dust behind him. The dust caught up with him and clung to his oiled chest, and it drifted onto anyone standing close enough. By the sound of it, the Feywild is a pleasant place to idle away the days. Cosmonius was "simply enjoying myself back in my home of the Feywild" when he was pulled into the Void.
+The realm also seems to leave a mark on those who live there. When Cosmonius cantered across the arena, he left a trail of Feywild pixie dust behind him. The dust caught up with him and clung to his oiled chest, and some of it drifted onto others. By the sound of it, the Feywild is a pleasant place to be. Cosmonius was "simply enjoying myself back in my home of the Feywild" when he was pulled into the Void.
 
 ## History
 
@@ -33,9 +33,9 @@ Their shared homeland soon paid off for Cosmonius. El Hada Rocha praised the pea
 
 ### Battle for the Crown
 
-Cosmonius came back from the Feywild for [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …]]. He fought for Team Grandmaster alongside [[Locket]] against [[The Arbiter|the Arbiter]]'s side, which included [[Silky Slim]]. He hadn't expected "to see the light of day again" after his first bout.
+Cosmonius returned for [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …]]. He fought for Team Grandmaster alongside [[Locket]] against [[The Arbiter|the Arbiter]]'s side, which included [[Silky Slim]]. He hadn't expected "to see the light of day again" after his first bout.
 
-This time the Feywild came with him. He warmed up with dressage and old-timey pugilism, then cantered across the arena leaving a trail of pixie dust. It stuck to his chest and drifted over to Locket as he called down a fey-touched blessing on the two of them. Some of it reached the Grandmaster, who held up [[Doug the Pug]] so he could get sparkles too. Doug licked at it. Cosmonius spent the moment preening and announced: "In comes the galloping grappler."
+This time the Feywild came with him. He warmed up with dressage and old-timey pugilism, then cantered sixty feet, leaving a trail of pixie dust. It stuck to his oiled chest and drifted over to Locket as he called down a fey-touched blessing on the two of them. Some of it reached the Grandmaster, who held up [[Doug the Pug]] so he could get sparkles too. Doug licked at it. Cosmonius spent the moment preening and announced: "In comes the galloping grappler."
 
 ## Notable Figures
 

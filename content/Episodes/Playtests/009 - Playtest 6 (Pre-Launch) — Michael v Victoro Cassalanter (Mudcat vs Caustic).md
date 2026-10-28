@@ -20,15 +20,15 @@ canon_order: 9
 
 [Watch on YouTube](https://youtu.be/z9W0eBMIptA)
 
-A headless iron golem who talks through mouths in his palms faced a smug half-elf in enormous butterfly pants, in a forest that did not survive the encounter. **[[Michael]]** could neither see nor hear his opponent. He found him anyway, through trees, vibrations and the occasional tasting of the air. **[[Victoro Cassalanter]]** threw fire, turned into a dinosaur and summoned a devil from her bath. It was one of the gentlest, strangest bouts any [[Champions|champions]] ever fought: no one died, a devil got hugged against her will, and a lonely golem went home with a dog.
+A headless iron golem who talks through mouths in his palms faced a smug half-elf in enormous butterfly pants, in a forest that lost several trees and part of a cliff to the encounter. **[[Michael]]** could neither see nor hear his opponent. He found him anyway, through trees, vibrations and the occasional tasting of the air. **[[Victoro Cassalanter]]** threw fire, turned into a dinosaur and summoned a devil from her foot soak. It was one of the gentlest, strangest bouts any [[Champions|champions]] ever fought: no one died, a devil got hugged against her will, and a lonely golem went home with a dog.
 
 ## The Story
 
 ### A Mouth in My Hand
 
-The bout began with introductions. The Headless Iron Golem spoke through slits in his palms. When asked, he made clear that this was not a hand puppet ("That's for children"): **"It is a mouth in my hand."** Victoro was unimpressed. "For a fellow with no head, you talk quite a lot," he said, and then turned the conversation to his own outfit. He showed off his saggy, extremely wide "butterfly" pants and the wide hips that filled them.
+The bout began with introductions. The Headless Iron Golem spoke through slits in his palms. He made clear that this was not a hand puppet ("That's for children"): **"It is a mouth in my hand."** Victoro was unimpressed. "For a fellow with no head, you talk quite a lot," he said, and then turned the conversation to his own outfit. He showed off his saggy, wide "butterfly" pants and the wide hips that filled them.
 
-Victoro's opening move was a job offer, not an attack. "I was going to kill you but I think maybe you would be good working for me instead," he said, and he sweetened it with "great benefits… 14 days of vacation a year, 401k matching." He backed the pitch with his Rod of Rulership, a device for bending minds to his will. The golem had no mind to bend. "Michael has no need for rulership. Michael free!"
+Victoro's opening move was a job offer, not an attack. "I was going to kill you but I think maybe you would be good working for me instead," he said, and he sweetened it with "great benefits… 14 days of vacation a year, 401k matching." He backed the pitch with his Rod of Rulership, a device for bending minds to his will. The golem was immune. "Michael has no need for rulership. Michael free!"
 
 That was how Victoro learned his opponent's name. "Your name is Michael?" he asked. "Yes, my name is Michael," the golem replied. "It's a strong name." Michael told him to put the rod back "in your pocket, sir. Your giant flowing butterfly pockets." Victoro, for his part, settled on how he saw himself: "a devilishly handsome half-elf who likes coin and power."
 
@@ -58,11 +58,11 @@ Then chaos came to the arena. A dog hidden somewhere in the forest began barking
 
 Michael tried to run up a tree, which snapped and fell on Victoro. Michael followed it out of the forest like the Kool-Aid Man ("Oh yeah!") and delivered his long-promised hug. He did not know how to open his hands, so the hug was made of fists. The embrace looked a lot like Of Mice and Men, and it knocked Victoro out of his dinosaur shape entirely. "Get off of me, you ignorant, stupid metal man," Victoro snarled. "Michael is a dumb name." Michael, mercifully, could not hear him.
 
-Victoro teleported to the top of the cliff and gave a smug bow: "until next time." Michael simply punched the cliff until it came down. Victoro fell like a cartoon coyote, his giant pants flapping, and landed badly hurt at Michael's feet. The verdict on his outfit was harsh: "Those butterfly pants are all look and no skill."
+Victoro teleported to the top of the cliff and gave a smug bow: "until next time." Michael simply punched the cliff until it came down. Victoro fell like the Roadrunner, his giant pants flapping, and landed badly hurt at Michael's feet. The verdict on his outfit was harsh: "Those butterfly pants are all look and no skill."
 
 ### Barbara
 
-Desperate, Victoro summoned a barbed devil between them and called her **Barbara**. She was not pleased to be there. "Victoro, what do you want? I was soaking my feet in the tub," she complained, and mentioned her sciatica. The flames she hurled missed. Michael, meanwhile, had made a discovery. He scooped Barbara up, ignored her spikes completely, and hugged her: **"New friend!… Friends forever!"** Then he shook her like a Polaroid picture.
+Victoro summoned a barbed devil between them and called her **Barbara**. She was not pleased to be there. "Victoro, what do you want? I was soaking my feet in the tub," she complained, and mentioned her sciatica. The flames she hurled missed. Michael scooped Barbara up, ignored her spikes completely, and hugged her: **"New friend!… Friends forever!"** Then he shook her like a Polaroid picture.
 
 A second chaos event baked the arena in harsh sun. Victoro's thick clothes protected him. Michael's metal heated up and his bolts began to loosen. Victoro called down another pillar of flame, but fire healed Michael, who simply squeezed Barbara harder and shrugged off a little scorching light.
 

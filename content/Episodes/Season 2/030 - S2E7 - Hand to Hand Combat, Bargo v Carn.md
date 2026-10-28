@@ -26,7 +26,7 @@ canon_order: 30
 
 ### A Bad Night for Television
 
-Deep in the halls of [[The Dread Fortress|the Dread Fortress]], [[Grandmaster Elusia Skypiercer|the Grandmaster]] sat on her throne glaring at a small box: a television. She had been promised "some amazing tournament, a finale of some sort against rams and tigers," and she had not seen a single ram or tiger. Nobody was dying. They were just tossing a ball around, and the goblins kept moving the antenna, so the picture was terrible. "I've been there, the goblins," the Arbiter sympathized as he clacked in.
+Deep in the halls of [[The Dread Fortress|the Dread Fortress]], [[Grandmaster Elusia Skypiercer|the Grandmaster]] sat on her throne glaring at a small box: a television. She had been promised "some amazing tournament, a finale of some sort against rams and tigers," and she had not seen a single ram or tiger. Nobody was dying. They were just tossing a ball around ("I guess some people really like playing with balls"), and the goblins kept moving the antenna, so the picture was terrible. "I've been there, the goblins," the Arbiter sympathized as he clacked in.
 
 He had come to confess. The traitors who had been planning to overthrow the Dread Fortress had escaped "the other day," though he had his best people on it. The Grandmaster was not soothed. "For planning to overthrow my entire kingdom, what I've planned, what I've built, you let them escape?" "Let is a strong word," he offered. She rose from her throne in fury and asked, "I thought I brought you in because you're competent. Are you?"
 
@@ -54,7 +54,7 @@ Bargo was still talking when Carn bolted. He spent the Acolytes' gift on a burst
 
 ### Minitaurs
 
-The chaos began at once. Pebbles shook, little tunnels burrowed up through the floor, and out popped a dozen tiny [[The minitaurs|minitaurs]]: baby minotaurs of "a certain unique breed that have evolved within these dark caverns." One full-sized minotaur crawled up behind them. The Grandmaster counted only eleven babies and laughed: "Apparently the Grandmaster might be on some hallucinogens."
+The chaos began at once. Pebbles shook, little tunnels burrowed up through the floor, and out popped a dozen tiny [[The minitaurs|minitaurs]]: baby minotaurs of "a certain unique breed that have evolved within these dark caverns." One full-sized minotaur crawled up too. The Grandmaster counted only eleven babies and laughed: "Apparently the Grandmaster might be on some hallucinogens."
 
 Carn tried to lure the big minotaur with lightning, and it shrugged him off. He tried to smooth things over ("It's just a misunderstanding. I mean, rawr!"), but his roar came out as the exact sound the minotaur's dinner makes. Now it was hungry. "I start sweating," Carn said, "but since I'm a gem dragonborn, it's just glitter." He flew thirty feet up, out of reach. The minotaur hurled its greataxe at him, nicked his foot, and failed to catch the axe on its way back down. It hurt the minotaur more than it hurt Carn.
 
@@ -62,11 +62,11 @@ Bargo took on the babies. A blast of wind swept four of them off the bridge. "Th
 
 ### Mushrooms, Grease and a Very Stupid Minotaur
 
-Glowing pink and blue mushrooms sprouted across the cavern ("mushrooms can be tasty or dangerous"). Carn missed the minotaur with his crossbow, and the minotaur stuck out its tongue at him. So Carn taunted it. The Arbiter flipped a coin to decide whether it was really dumb enough to fall for it. "He is, in fact, that stupid." The minotaur charged straight at Carn and off the cliff, Die Hard style. It looked back once as it fell, and a long moment later came a distant thud.
+Glowing pink and blue mushrooms sprouted across the cavern ("mushrooms can be tasty or dangerous"). Carn missed the minotaur with his crossbow, and the minotaur stuck out its tongue at him. So Carn taunted it. The Arbiter flipped a coin to decide whether it was really dumb enough to fall for it. "He is, in fact, that stupid." The minotaur charged straight at Carn and off the cliff, Die Hard style. It looked back once as it fell, and a long moment later came a distant thud, then "blood and gore."
 
 The surviving minitaurs rushed Bargo with their mini axes. He dropped to one knee under a shimmering magic bubble, and they screamed at him from the other side "almost like a small rager." Laughing, he coated them all in Grease. They slipped and slid like they were dancing and grabbed hands in a chain. Then one went over the edge, and the whole chain followed, **"even the one that adored you."** Carn pointed out that Bargo could save him. "Bargo's gonna let go. Bargo don't want to risk it." The Arbiter called it very pragmatic.
 
-Bargo then picked up a golden mushroom that soaked into his skin and lit his veins yellow, leaving him revitalized. Carn found a different mushroom, one that slows anyone who eats it or touches it to bare skin, and left it to simmer. He set the grease-soaked bridge on fire with a green-flamed blade, and Bargo blew the fire straight back at him.
+Bargo then picked up a golden mushroom that soaked into his skin and lit his veins yellow, leaving him revitalized. Carn set the grease-soaked bridge on fire with a green-flamed blade, then found a different mushroom, one that slows anyone who eats it or touches it to bare skin, and left it to simmer. Bargo blew the fire straight back at him.
 
 While Carn smouldered, the Grandmaster asked Bargo about his grades at fighting school. He had graduated with an "Apple, Apple Plus, which is like the best grade. The grade with the fruits." On the fighting-school scale cucumber is the worst, then orange, then pineapple, with apple at the top. "You are all apples, sir," said the Grandmaster.
 
@@ -96,9 +96,9 @@ Bargo spent the Acolytes' gift on a trick of his own. He scattered ball bearings
 
 ### The Final Blow
 
-Carn begged for mercy, and the Arbiter put it to the crowd: "Acolytes, what say you to this plea? Will you take mercy?" Bargo had a suggestion: "Watch him suffer!" The vote was mixed, but most wanted blood. "They reject you," the Grandmaster declared. "Bargo is in their hearts." Carn blamed all the times he had called Bargo a bitch inside his own mind. "They're very perceptive," said the Arbiter. "Tears of glitter fall from my eyes."
+Carn begged for mercy, and the Arbiter put it to the crowd: "Acolytes, what say you to this plea? Will you take mercy?" Bargo had a suggestion: "Watch him suffer!" The vote was mixed, but most wanted blood. "They reject you," the Grandmaster declared. "Bargo is in their hearts." Carn blamed all the times he had called Bargo a bitch inside Bargo's own mind. "They're very perceptive," said the Arbiter. "Tears of glitter fall from my eyes."
 
-One last volley of missiles dropped Carn to his knees. "Care for the capybara," he managed. Bargo walked over, tired of watching. **He slit Carn's throat with his dagger ("You die with honor"), kept sawing until the head came off, and held it high**: "For you! For you!" The Acolytes rose in a wave chanting his name. The Grandmaster floated down on open wings and told him he had graduated from the arena. She had him hand the head to the Arbiter, who said, "Great showmanship, Apple Plus." The Grandmaster added, "See what happens to cucumbers at the end? They get diced up."
+One last volley of missiles dropped Carn to his knees. "Care for the capybara," he managed. Bargo walked over, tired of watching. **He slit Carn's throat with his dagger ("You die with honor"), kept sawing until the head came off, and held it high**: "For you! For you!" The Acolytes rose in a wave chanting his name. The Grandmaster floated down on open wings and told him he had graduated from the arena. With blood still spurting, she had him hand the head to the Arbiter, who said, "Great showmanship, Apple Plus." The Grandmaster added, "See what happens to cucumbers at the end? They get diced up."
 
 ### Stitches
 
@@ -108,7 +108,7 @@ The Grandmaster lifted Bargo into the sky to face his fans. "You gave us blood. 
 
 ## Dried Blood
 
-After the show, Bargo left the Acolytes with a creed: "When times get tough, don't be yourself. Be Bargo. And you'll be okay." Carn described his exit from his own side. When he flew off into the sunset he left a little glittery rainbow behind him, because "not all of my holes were closed at that point. Stab holes." At the table, Carn's player admitted that begging probably isn't proper Deathmatch etiquette. He also wished he had gotten to use his retractable claws and finish with a punch to the throat. Both players noted that the Acolytes showed no remorse for the babies, not even the one who loved Bargo.
+After the show, Bargo left the Acolytes with a creed: "When times get tough, don't be yourself. Be Bargo. And you'll be okay." Carn described his exit from his own side. When he flew off into the sunset he left a little glittery rainbow behind him, because "not all of my holes were closed at that point. Stab holes." At the table, Carn's player admitted that begging probably isn't proper Deathmatch etiquette. He also wished he had gotten to use his retractable claws and finish with a punch to the throat. Bargo's player said he had also considered stomping the head "into a mush." Both players noted that the Acolytes showed no remorse for the babies, not even the one who loved Bargo.
 
 ## Notable Moments
 

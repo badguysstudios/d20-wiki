@@ -64,7 +64,7 @@ Then Atlas pulled a tiny syringe from his chest and injected Theresa with [[Doub
 
 ### Down the Mine
 
-Atlas's scanners were broken, so Copycat tracked slither marks past bones dripping from the walls and chose the right-hand fork after sniffing a skeleton. A pulse rose through the ground, and every champion was left with a migraine that would not let up. Thea checked in to warn them that if they did badly they'd be killed, "not permanently," just demoted to the B, C or D team. Robbie reported that they had "slaughtered an ancient beast," turned into satellites, and "learned the power of friendship." When he called them the Super Friends one too many times, Atlas crushed his walkie-talkie to powder with a long, uncomfortable stare. The Grandmaster had the Arbiter give Thea mind-speech instead, because anyone unwilling to go "balls to the walls" for the Void didn't belong on the team. Atlas noted he had no balls. The Grandmaster allowed him to "glove compartment" them.
+Atlas's scanners were broken, so Copycat tracked slither marks past bones dripping from the walls and chose the right-hand fork after sniffing a skeleton. A pulse rose through the ground, and every champion was left with a migraine that would not let up. Thea checked in to warn them that if they did badly they'd be killed, "not permanently," just demoted to the B, C or D team. Robbie reported that they had "slaughtered an ancient beast," turned into satellites, and "learned the power of friendship." When he called them the Super Friends one too many times, Atlas crushed his walkie-talkie to powder with a long, uncomfortable stare. The Grandmaster had the Arbiter give Thea mind-speech instead. Anyone unwilling to go "balls to the walls" and bleed for the Void, she said, didn't belong on the team: "Bones, blood, balls, tits, I don't care." Atlas noted he had none of those things. Copycat suggested he tuck them under, Atlas compared it to a glove compartment, and the Grandmaster ruled: "All right, you're allowed to glove compartment your balls."
 
 Back at the Fortress, the Grandmaster watched on a new multi-camera TV. "Even if they die, we'll bring them back. But I want them to be willing to go that far." The Arbiter predicted they'd all die, and added that the wallet Copycat thought she'd stolen was a fake.
 
@@ -72,7 +72,7 @@ Back at the Fortress, the Grandmaster watched on a new multi-camera TV. "Even if
 
 Thea decided Team A deserved a gift. A whirring rose behind them, and "this little mediocre silver saucer" caught up and beamed all three aboard. The aliens cut into metal and flesh, hunting for each champion's greatest fear. Robbie and The Hunger's was the end of everything: "all the stars will fade and there will be no more light left to consume and all that will be there is us for eternity." The aliens released them first, terrified. In Copycat they found no fear at all, and kept digging until they hit her kidney. In Atlas they found an electric sheep asking, "What if, when the power is off, you were still conscious?" The aliens yanked out the plug in horror, flipped his switch back on, and dumped all three on the tunnel floor. Atlas murmured: "Updating 1%."
 
-Bruised, the team pressed on toward a faint white light and a hum. Copycat patched herself by transforming into an exact copy of Robbie, though she left out The Hunger. Then she pointed at something on the ceiling and said, "That is what I am hungry for." Nobody ever learned what it was.
+"Man, they probed me pretty bad," said Copycat, holding her side. She had put duct tape over "the trash bag area," even though she knew very well they had been probing her brain. Bruised, the team pressed on toward a faint white light and a hum. Copycat patched herself by transforming into an exact copy of Robbie, though she left out The Hunger. Then she pointed at something on the ceiling and said, "That is what I am hungry for." Nobody ever learned what it was.
 
 ### The Crystal
 
@@ -80,7 +80,7 @@ In a cold geode cavern, a large chunk of white, humming crystal sat half-buried 
 
 Her eyes sapped the champions' strength. Robbie split down the middle into a mass of teeth and eyes and bit her head. She knocked his teeth loose and absorbed them ("Thank you for your offering"), then spewed cola bile on Atlas, which rushed his update along. Copycat turned into Timothy, and Theresa's next strike went badly wrong: "I'm sorry, Timothy." Theresa revealed that the Hollow had turned to ashes when Timothy died. He had left a book of instructions for after his death, and the worms had followed rules one through eighteen. When she asked for the worm password, Copycat answered "my name with, like, 20ish exclamation points," which convinced her completely.
 
-Atlas finished updating. He dropped into a gorilla stance and a cannon fed by silos of Double Sun Cola unfolded from his spine. "Update complete. Emotional vulnerability detected. Have a nice fucking day." He poured himself into his Unstoppable Force beam, and it went straight through the hole in Theresa's head.
+Atlas finished updating. He dropped into a gorilla stance and a cannon fed by silos of Double Sun Cola unfolded from his spine. "Update complete. Emotional vulnerability detected. Have a nice fucking day." He poured himself into his Unstoppable Force beam, but it missed, passing straight through the hole in Theresa's head.
 
 The Acolytes wanted more, and [[The Box of Chaos|the Box of Chaos]] smashed through the ceiling in pink and yellow flame. A little piece of Thea's skull was ripped out and thrown inside, and a voice from within asked, "Yeah, what the fuck do you want?" Robbie, inspired by *Crash Bandicoot*, burst two of the eye-stalks with toothy tendrils. He told Theresa that "sacred is really a perspective thing." Copycat's bid to relocate the crystal ended in a mutual embarrassment duel over "the summer solstice 25 centuries ago." Theresa coiled herself around the crystal and screamed that she would never give it up.
 
@@ -97,7 +97,7 @@ The Grandmaster and the Arbiter stepped through a purple portal. The Arbiter had
 - The vital mineral against the Shadow King turned out to be salt for the Arbiter's fries.
 - The aliens found no fear at all inside Copycat, which frightened them most of all.
 - Atlas's head read "have a / nice day" just before it exploded.
-- Copycat won over Theresa by impersonating her dead brother and guessing the family password formula.
+- Copycat won over Theresa by impersonating her dead sibling and guessing the family password formula.
 
 ## Memorable Quotes
 

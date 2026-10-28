@@ -11,7 +11,7 @@ played_by:
 - 'Geril-Lee: winterstales'
 winner: Geril-Lee
 arena: A forest hunting ground with a waterfall, a broken bridge and river rapids
-summary: Geril-Lee, a timid little fighter with a nasty streak, beat the hobgoblin scientist Glub Glub in the Grandmaster's ancestral hunting grounds, finishing him with two perfect strikes while a summoned ant crawled somewhere no ant should go. With his dying words Glub Glub handed her his only friend, the tiny skeleton Bony.
+summary: Geril-Lee, a timid little fighter with a nasty streak, beat the hobgoblin scientist Glub Glub in the Grandmaster's ancestral hunting grounds, finishing him with two perfect strikes while a summoned ant crawled into his butthole. With his dying words Glub Glub handed her his only friend, the tiny skeleton Bony.
 tags:
 - episode
 youtube: https://youtu.be/bkiAqjP4Weo
@@ -20,7 +20,7 @@ canon_order: 28
 
 [Watch on YouTube](https://youtu.be/bkiAqjP4Weo)
 
-**Glub Glub**, self-proclaimed smartest hobgoblin of his tribe, faced **Geril-Lee**, a small and apparently terrified fighter, in the old hunting grounds of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s family. What began as a solemn tribute to bloodline and legacy turned into a vulture-sound contest, a splinter emergency, a blessed walrus butthole and a sequence of escalating assaults on one hobgoblin's undercarriage. It is also, somehow, a story about a lonely genius who finally made a friend.
+**Glub Glub**, self-proclaimed smartest hobgoblin of his tribe, faced **Geril-Lee**, a small and apparently terrified fighter, in the old hunting grounds of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s family. What began as a solemn tribute to bloodline and legacy turned into a vulture-sound contest, a splinter emergency, a blessed walrus butthole and a sequence of escalating assaults on one hobgoblin's balls and butthole. It is also, somehow, a story about a lonely genius who finally made a friend.
 
 ## The Story
 
@@ -60,7 +60,7 @@ Geril-Lee slid under the bridge and landed a perfect strike on Glub Glub's ankle
 
 ### The Butt Tickler
 
-Geril-Lee asked whether Glub Glub wore pants. Learning it was "Loincloth only," she summoned an invisible servant whose sole job was to tickle him beneath it whenever she attacked. The Grandmaster approved: "You may summon the butt tickler." Glub Glub, nervous, asked for "Only first knuckle. Please," and explained that "Glub Glub was at college. It was experimental time."
+Geril-Lee asked whether Glub Glub wore pants. Learning it was "Loincloth only," she summoned an invisible servant whose sole job was to tickle his butt and balls under the loincloth whenever she attacked. The Grandmaster approved: "You may summon the butt tickler." Glub Glub, nervous, asked for "Only first knuckle. Please," and explained that "Glub Glub was at college. It was experimental time."
 
 Distracted and conflicted ("Glubglub, very mixed feelings right now"), Glub Glub ordered Boom Boom to fire and swung wildly. Then disaster struck: he got a splinter from his own club. The Grandmaster was moved. "Splinters are unbearable," she declared, and the match paused so he could be treated.
 
@@ -76,27 +76,27 @@ The chaos escalated. Doug barked so wildly that the forest echoed with magic, an
 
 ### The Weasel
 
-Blind, Geril-Lee pulled a weasel from her bag and sent it after Glub Glub's very low-hanging parts. "Even through the water and the rain, the funk abides," the Arbiter observed, as it ran figure-eights around his legs. Glub Glub answered with showmanship. He ripped off his loincloth and roared, "Are you not entertained?", then bent over and released a fart worthy of Valhalla. The Acolytes chanted his name, and he punched the "tainted warrior" dead. Then he realized his loincloth was gone and begged the Acolytes not to look.
+Blind, Geril-Lee pulled a weasel from her bag and sent it after Glub Glub's very low-hanging balls. "Even through the water and the rain, the funk abides," the Arbiter observed, as it ran figure-eights around the tops of his legs, its fur rubbing constantly against his butthole and balls. Glub Glub answered with showmanship. He ripped off his loincloth, exposing everything, and roared, "Are you not entertained?", then bent over and released a fart worthy of Valhalla. The Acolytes chanted his name, and he punched the "tainted warrior" dead. Then he realized his loincloth was gone and begged the Acolytes not to look.
 
 ### The Flood
 
 The skies cleared, and the Arbiter reached the final threshold of chaos. He rose, flared his wings and raised the river over its banks. Both champions were swept downstream and battered against the rocks, and the emerald die washed up on the western shore.
 
-In the rapids, Geril-Lee chivalrously declined to target his exposed "downstairs region" and went for the arteries in his legs instead. She landed two perfect strikes in a row. "Glubglub wants to call hacks," he protested. Bleeding, he spotted Bony floating downriver and snatched him up, stroking the shivering skeleton. Then he handed Bony a twig, and the two attacked "together as one… with the power of friendship."
+In the rapids, Geril-Lee chivalrously declined to target his exposed "downstairs region" and went for the arteries in his legs instead. She landed two perfect strikes. "Glubglub wants to call hacks," he protested. Bleeding, he spotted Bony floating downriver and snatched him up, stroking the shivering skeleton. Then he handed Bony a twig, and the two attacked "together as one… with the power of friendship."
 
 ### The Ant
 
-For her finale, Geril-Lee conjured a single ant into Glub Glub's "short and curlies." As it made its way toward the blessed butthole, she cut him twice. Then, as the ant crawled in, she unleashed a flurry of blows and rolled two perfect strikes in a row. "No! No, I said first knuckle, not first ant." Glub Glub went down.
+For her finale, Geril-Lee conjured a single ant into Glub Glub's "short and curlies." As it made its way toward the blessed butthole, she cut him twice. Then, as the ant crawled into his butthole, she unleashed a flurry of blows and rolled two perfect strikes in a row. "No! No, I said first knuckle, not first ant." Glub Glub went down.
 
 In the pouring rain, bleeding, he dropped to his knees before her and presented Bony with a shaking hand.
 
 > **Glub Glub:** "You are superior fighter. Smarter, stronger, faster than Glubglub… Please, Boney, only friend. Geril-Lee, please teach him in your ways of master fighter."
 
-Geril-Lee accepted, promising to use Bony "for my own devastation on other people." Then she politely extracted the ant, so he wouldn't die with it inside him. The Grandmaster lifted her from the rapids and into the sky, while the Arbiter dragged Glub Glub off by the ankle, his head bouncing off the rocks. Held up before the Acolytes, who showered the field with food and keys, Geril-Lee was crowned the winner. The Grandmaster's parting advice: "protect your buttholes as you move throughout the week."
+Geril-Lee accepted, promising to use Bony "for my own devastation on other people." Then she politely extracted the ant, so he wouldn't die with an ant in his butthole. The Grandmaster lifted her from the rapids and into the sky, while the Arbiter dragged Glub Glub off by the ankle, his head bouncing off the rocks. Held up before the Acolytes, who showered the field with food and keys, Geril-Lee was crowned the winner. The Grandmaster's parting advice: "protect your buttholes as you move throughout the week."
 
 ## Dried Blood
 
-Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done. She also had a new responsibility: raising Bony, whom she vowed to teach to "aim better… Strike true, strike hard." At the table, Glub Glub's player reflected that whether he won or not, "he finally made that friend that he's always been looking for." The panel concluded the match had settled the whale question for good. As the Arbiter put it: "It's not about blood and death. It's about knowledge."
+Afterwards, Geril-Lee was said to feel confused and guilty about what she'd done. She also had a new responsibility: raising Bony, whom she vowed to teach to "aim better… Strike true, strike hard." At the table, Glub Glub's player reflected that whether he won or not, "he finally made that friend that he's always been looking for." He also declared that they finally knew whales do not have cloacas. As the Arbiter put it: "It's not about blood and death. It's about knowledge."
 
 ## Notable Moments
 

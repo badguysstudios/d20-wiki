@@ -40,11 +40,11 @@ She pointed out that he signed Thea's paperwork every week so she got paid, whic
 
 ### Team B
 
-The Grandmaster already knew Richard Skelman, a skeleton "always beloved by the fortress," though she had never known he could fight. "I may be missing muscles amongst all of the bones," he assured her, "but I assure you I am quite capable." When she pointed out that he didn't have eyeballs, he explained that he chattered his teeth and read the echoes through his bones.
+The Grandmaster already knew Richard Skelman, a skeleton who had "always been beloved by the fortress," though she had never known he could fight. "I may be missing muscles amongst all of the bones," he assured her, "but I assure you I am quite capable." When she pointed out that he didn't have eyeballs, he explained that he chattered his teeth and read the echoes through his bones.
 
-Killy Yesman, a stranger to her, skipped the handshake and gave her an icy bottle of [[Double Sun Cola]], shaped like a rocket with two balls at the bottom. He told her to shake it hard first. She asked whether it was "a one hand or two hand job." She popped the cap and the soda erupted all over her. She liked him at once.
+Killy Yesman, a stranger to her, skipped the handshake and gave her an icy bottle of [[Double Sun Cola]], shaped like a rocket with two balls at the bottom. She liked him at once. He told her to shake it hard first. She asked whether it was "a one hand or two hand job." She popped the cap and the soda erupted all over her.
 
-Richard Knottley was less enthusiastic. He declared the cola "clearly government funded" and drank lukewarm pickle juice from a mason jar instead. He carried it everywhere, and it was only warm because he kept forgetting it in his pocket. His dream was a radio show, *After Dark with Dick Twist*. He could not fund it because he had been fired as a Peloton instructor over complaints that, he insisted, came from people who simply couldn't keep up with him.
+Richard Knottley was less enthusiastic. He declared the cola "clearly government funded" and pulled out a mason jar of lukewarm pickle juice instead. He carried it everywhere, and it was only warm because he kept forgetting it in his pocket. His dream was a radio show, *After Dark with Dick Twist*. He could not fund it because he had been fired as a Peloton instructor over complaints that, he insisted, came from people who simply couldn't keep up with him.
 
 The Arbiter laid out the job. The Grandmaster had been preparing champions for an eventual showdown with [[The Shadow King]], "someday, somewhere." That was common knowledge. Rescue Thea and show some promise, and they might make the roster. The Grandmaster sweetened the deal with health benefits, PTO, a sabbatical, prepaid resorts, "your own pet chinchilla," and "You won't die." Knottley warned that the government was run by [[Chinchillas]], voles and small mammals. He tried to give Skelman a foil hat against radiation, then decided Skelman couldn't wear it without flesh and put it on himself: "I'll wear it for us both." Until they chose a leader and earned a name, they would be **Team B**. The Grandmaster's description of Thea was simple: neon pink, glowing faintly, "because she's eaten a lot of glow sticks." The Arbiter added that they'd know her when they heard her, because they'd want to pierce their own eardrums.
 
@@ -52,7 +52,7 @@ The Arbiter laid out the job. The Grandmaster had been preparing champions for a
 
 A second portal let in a cold autumn breeze. Beyond it lay **[[The Midnight Mausoleum]]**: a graveyard under a full moon, fog curling around the gravestones, and [[The Acolytes]] cheering by the thousand from grandstands high above. Rotting hands burst out of the grass and seized Killy and Knottley by the legs.
 
-The first zombie went for Skelman, and he recognized her. "Hello, Josephine! It's been a while. I scarcely remember the last we met, where I buried you alive." His jilted lover was unmoved by his offer to rekindle things. She clawed at his face. When that failed, she tore off her own arm and threw it at him. Her festering claws had no effect on a skeleton, so Skelman gave the order: "Do what you must."
+The first zombie went for Skelman, and he recognized her. "Hello, Josephine! It's been a while. I scarcely remember the last we met, where I buried you alive." His jilted lover was unmoved by his offer to rekindle things. She clawed at his face. When that failed, she flung her own arm at him. Her festering claws had no effect on a skeleton, so Skelman gave the order: "Do what you must."
 
 Killy, all undulating pecs and surprisingly thin legs, sipped soda through straws from the two bottles on his hat. He sprayed himself free of the hands and twirled two more bottles like a gunslinger. The cola, it turned out, was caustic to bone. Then he pulled a special dark-red bottle from the back of his shorts that he'd been "saving for a special time." It soaked into Josephine and gathered in her chest as a glowing little heart that beat once. For a moment she was herself again. "I'll forever hate you, Skelben," she said, and crumbled. Her heartbeat echoed through the graveyard and faded. Skelman sighed over what they could have had, "if I didn't bury you under the ground while you were still living. Anyways."
 
@@ -64,7 +64,7 @@ Tiny clawfoot tracks led to a towering angel statue that cast a shadow despite t
 
 While Knottley lingered with his new friend, the others headed down. Poltergeists possessed them on the stairs, made them hit themselves ("Auntie Ethel, no, stop, please. I know I ruined that one dinner that one time") and finished by stuffing each of them with their own fist. Satisfied, the ghosts evaporated.
 
-Up top, the statue turned out to speak in Knottley's own voice and to share his worldview: the frogs are gay, the birds are government cameras, the trees talk on the internet. It agreed to appear on his radio show. It showed him an ankle monitor from "an incident down at Soho," and he fried the device with his pickle juice. When the Grandmaster's face rose in the sky in place of the moon to call a break, the statue promised to carve coordinates and meet him at the third full moon of the year. It flapped its stone wings, failed to fly and skipped away, knocking over gravestones. A single tear rolled down Dick Twist's face.
+Up top, the statue turned out to speak in Knottley's own voice and to share his worldview: the frogs are gay, the birds are government cameras, the trees talk on the internet. Knottley invited it onto his radio show, and it told him it only consumed radio media. It showed him an ankle monitor from "an incident down at Soho," and he fried the device with his pickle juice. When the Grandmaster's face rose in the sky in place of the moon to call a break, the statue promised to carve coordinates and meet him at the third full moon of the year. It flapped its stone wings, failed to fly and skipped away, knocking over gravestones. A single tear rolled down Dick Twist's face.
 
 ### Three Doors, Three Traps
 
@@ -74,11 +74,11 @@ This, the Grandmaster revealed, was the Skelman family plot. Skelman had buried 
 
 ### Grandpa
 
-At the end of the corridor sat Thea, making shadow puppets by torchlight. "Yee-hoo! Ah! You found me! … You're not supposed to find me this quickly!" She had been invited to play hide-and-go-seek by someone with "a really long creepy hand with very long fingernails, but they were kind of bejeweled and I liked them." Skelman thought it was his mother, Meredith. A bejeweled hand crept over Knottley's shoulder. "I'm not your mom," it said. "Meredith. That's my daughter."
+At the end of the corridor sat Thea, making shadow puppets by torchlight. "Yee-hoo! Ah! You found me! … You're not supposed to find me this quickly!" She had been invited to play hide-and-go-seek by someone with "a really long creepy hand with very long fingernails, but they were kind of bejeweled and I liked them." Skelman thought it was his mother, Meredith. A bejeweled hand crept over Knottley's shoulder. "I'm not your mom, Meredith. That's my daughter."
 
 It was **Skelman's lich grandfather**, who had turned the family mausoleum into a retirement dungeon rather than buy new property. "Grandfather," Skelman protested, "you know I make dungeons for a living." "I passed down the business to you," the old lich replied. Furious that they had ruined his game, he blocked the only door: "I'll show you a new game."
 
-He was fungus-ridden, with a dangling jaw and earlobes drooping toward his nipples. Skelman begged and was disowned ("Good thing I have plenty of other grandchildren"). He tried to run and hit a wall, then opened his signature **Bone Zone**, trapping Grandpa in one of his own dungeons with swinging axes and a dropping slime. Grandpa's necrotic fist bounced off Killy's chin. He healed himself by draining his foes, and he tried to choke Knottley, who found it "really empowering." Then Killy jammed his soda hat onto the lich's head, and the cola **blinded him for good**. "You're only supposed to drink the soda," Killy explained. "Never get it to your eyes." Killy tore off one of Grandpa's ribs and tossed it to Skelman, who added it to his collection.
+He was fungus-ridden, with a dangling jaw and earlobes drooping toward his nipples. Skelman begged and was disowned ("Good thing I have plenty of other grandchildren"). He tried to run and hit a wall, then opened his signature **Bone Zone**, trapping Grandpa in one of his own dungeons with swinging axes and a dropping slime. Grandpa's necrotic fist bounced off Killy's chin. He healed himself by draining his foes, his wounds closing with "very uncomfortable moaning sounds." "Your grandfather's getting hard," the Arbiter observed. "It runs in the Skelman family," said Skelman. Grandpa tried to choke Knottley, who said, "I feel really empowered right now." Then Killy jammed his soda hat onto the lich's head, and the cola **blinded him for good**. "You're only supposed to drink the soda," Killy explained. "Never get it to your eyes." Killy tore off one of Grandpa's ribs and tossed it to Skelman, who added it to his collection.
 
 Knottley asked whether any Double Sun Cola was conductive. "All Double Sun Cola is conductive," Killy said. From his shorts he hauled out a bottle the size of four magnums, and Knottley shook it into "a unibeam of double sun shock." Grandpa staggered. "We're all dicks," he snarled. "That's the family name." Then Skelman detached himself into **the Bonetron**, a towering bone construct with Killy at its core, "blasting away with sodas, conspiracy theories, bones, and the slimes." It blew a hole clean through the lich's chest. All three shook one last bottle together, and the stream evaporated him.
 
@@ -86,7 +86,7 @@ Only his forearm remained. Its fingers inched toward a little red button and pre
 
 ### Team 3D
 
-The hosts arrived. Thea sulked that she'd missed out on a t-shirt and remembered she was supposed to have set up a Deathmatch. Killy named the squad **Team 3D**. "Ew, that's a gross name," Thea said, "but okay." Knottley voted Killy leader, and Killy said it was the first time anything had mattered more to him than Double Sun Cola. Then Thea's tail rang like a phone. It was Double Sun Cola HQ, furious about all the free soda, summoning Killy to a two-month retraining seminar on pain of expulsion from "the Sunkola." He left with a promise: "It means goodbye for now, but not forever." Thea hugged his skinny calf.
+The hosts arrived. Thea sulked that she'd missed out on a t-shirt and remembered she was supposed to have set up a Deathmatch. Killy named the squad **Team 3D**. "Ew, that's a gross name," Thea said, "but okay." Knottley voted Killy leader, and Killy said it was the first time anything had mattered more to him than Double Sun Cola. Then Thea's tail rang like a phone. "It's also coming in through my butt and I have to poop soon," she complained. It was Double Sun Cola HQ, so loud it made Thea's butt cheeks vibrate, furious about all the free soda and summoning Killy to a two-month retraining seminar on pain of expulsion from "the Sunkola." He left with a promise: "It means goodbye for now, but not forever." Thea hugged his skinny calf.
 
 That still left the question of leadership, and the Grandmaster had an answer: a Deathmatch. "Dick to dick! Tip to tip!" Skelman worried for their friendship. "You can be friends," said the Arbiter. "I've killed lots of my friends."
 
@@ -98,10 +98,10 @@ Asked for final words, Knottley offered "Live dangerously," and the Grandmaster 
 
 - The Arbiter's tracker "never works," and he blamed Stuart.
 - Killy's red cola gave Josephine one heartbeat of sentience, just long enough to hate Skelman forever.
-- Knottley's "You beautiful gargoyle" made a lonely angel weep pebbles, and the two became friends for life.
-- Killy blinded the lich grandfather with a soda hat, the first time anyone had landed a permanent effect like that.
+- Knottley's "You beautiful gargoyle" made a lonely angel weep pebbles, and the two promised to meet again at the third full moon of the year.
+- Killy blinded the lich grandfather with a soda hat, probably the first time anyone had landed a permanent effect like that.
 - The Bonetron, a giant bone construct powered by soda, erased Grandpa, whose severed arm then pressed his own "You've won!" button.
-- Thea's tail turned out to double as a phone line to Double Sun Cola HQ.
+- Thea's tail turned out to double as a phone line to Double Sun Cola HQ, coming in through her butt.
 
 ## Memorable Quotes
 

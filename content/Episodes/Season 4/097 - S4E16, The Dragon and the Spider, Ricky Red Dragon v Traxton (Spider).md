@@ -36,7 +36,7 @@ The bickering continued. "Well, if you were more fun, I would have invited you t
 
 Ricky arrived in sunglasses and flip-flops. "My name's Ricky Red Dragon. I'm a red dragon," he explained. A curse at a techno concert had trapped him in a squishy human body, and he was fighting for the prize: his scales back. The Grandmaster called that "absolutely doable." Spider introduced himself as "pretty much the coolest elf from my part of the woods" and told Ricky he was sorry about his stupid skin. Ricky shot back, "They don't call me Chromatic Red for nothing."
 
-The Shadow King had a soft moment with Ricky, as someone who "was once a shadow monster" and knew what it was like to lack flesh: "I had skin and then I didn't have skin and now I have skin again." Ricky's sunglasses meant he couldn't tell if the King had a tail. Maybe there were five. Spider got a cooler reception. The King complained that they'd had "like four teenagers die this season." Spider explained, "My mom called me Traxton," and that Spider was one word, "like Seal." The King decided he could die. When Spider called his rival "Idiot Dragon Man" and doubted he looked like a dragon, the King agreed, betraying their bonding moment without a flicker: "You're here for my entertainment, don't take it personally."
+The Shadow King had a soft moment with Ricky, as someone who "was once a shadow monster" and knew what it was like to lack flesh: "I had skin and then I didn't have skin and now I have skin again." Ricky's sunglasses meant he couldn't tell if the King had a tail. Maybe there were five. Spider got a cooler reception. The King complained that they'd had "like four teenagers die this season." Spider explained, "My mom called me Traxton," and the King decided he could die. Spider added that Spider was one word, "like Seal." When Spider called his rival "Idiot Dragon Man" and doubted he looked like a dragon, the King agreed, betraying their bonding moment without a flicker: "You're here for my entertainment, don't take it personally."
 
 ### The Coachella Ground
 
@@ -44,7 +44,7 @@ The arena was a forest clearing full of loud birds, with a ring of shiny purple 
 
 ### Darkness and Butthurt
 
-Ricky asked about the rules ("Murder, maim, pummel into the ground…"), then teleported thirty feet up a tree to take the high ground. With no wings, he asserted dominance by T-posing. It worked so well that Spider was rattled. Spider answered by casting magical darkness on him. "I'm not afraid of the dark, bitch. I'm an adult," said Spider. "I am terrified of the dark," said Ricky, who promptly fell out of the tree backside first. "If only you had a tail to land on," the Grandmaster sighed. Spider didn't notice the fall and kept shouting insults at the empty treetop.
+Ricky asked about the rules (the Grandmaster's answer: "Murder, maim, pummel into the ground…"), then teleported thirty feet up a tree to take the high ground. With no wings, he asserted dominance by T-posing. It worked so well that Spider was rattled. Spider answered by casting magical darkness on him. "I'm not afraid of the dark, bitch. I'm an adult," said Spider. "I am terrified of the dark," said Ricky, who promptly fell out of the tree ass-first. "If only you had a tail to land on," the Grandmaster sighed. Spider didn't notice the fall and kept shouting insults at the empty treetop.
 
 The Shadow King couldn't see the action either, so he made his eyes glow yellow to pierce the darkness. When the Grandmaster insisted the Acolytes deserved the same, he snapped his fingers. A wave of shadow rolled through the stands like a stadium wave, and every Acolyte's eyes turned yellow.
 
@@ -62,21 +62,21 @@ After all that talk about scales beating fur, the Grandmaster clapped and a giga
 
 ### The Circles and the Box
 
-Ricky flicked a firebolt at Spider that zigzagged "like clip art," then stepped onto a portal circle. It coated him in purple armor, but he now had to open every turn with a lyric from an annoying song, starting with "Friday." Spider stepped onto another circle and was turned into a fuzzy fruit bat with a blonde tuft over one eye. "Damn it, I shouldn't have named myself bat." The Grandmaster dubbed him Bat Boy, "because you haven't hit puberty." His bite missed. Ricky complained about his breath ("It's called halitosis, and it's a medical condition") and handed him a mint, then the whole bin.
+Ricky flicked a firebolt at Spider that zigzagged "like clip art," then stepped onto a portal circle. It coated his flesh in purple, but he now had to open every turn with a lyric from an annoying song, starting with "Friday." Spider stepped onto another circle and was turned into a fuzzy fruit bat with a blonde tuft over one eye. "Damn it, I shouldn't have named myself bat." The Grandmaster dubbed him Bat Boy, "because you haven't hit puberty." His bite missed. Ricky complained about his breath, Spider retorted, "It's called halitosis, and it's a medical condition," and Ricky handed him a mint, then the whole bin.
 
 Baffled by this kindness, the Grandmaster summoned [[The Box of Chaos]]. A pink and purple chest fell from the sky like a comet. The Shadow King lifted an Acolyte named Toolkit 71 from the crowd ("I'm going to need your soul. You can keep your body!"), ripped them in half, and slammed their soul into the box. Shadowy claws and yellow eyes peeked out. "Actually, it's a funny story," the King explained. "I used to be the box of chaos." He added, "I killed the guy who made the box." The box's maker was [[The Arbiter]].
 
-Ricky sacrificed a spare unwashed beard, and the box's tormented occupant came out wearing it. After some buffering ("Do you think we'd lay fiber out here?"), it offered him "the beards of many things." Ricky put on the white one. It felt like a warm summer's day and turned him tougher and wiser on the spot. "Ricky," the Arbiter-voice of the table declared, "you pulled the Sun card." Spider offered the box everything he had for one thing: "If you have any extra puberty in there to give, I need it desperately." Puberty hit, and it hit hard. The box also handed him a wooden, unmistakably phallic rod holding one fireball. "This is what manhood feels like."
+Ricky sacrificed a spare unwashed beard, and the box's tormented occupant came out wearing it. "You didn't actually shit in this, did you?" the King asked. "Don't ask, don't tell." After some buffering ("Do you think we'd lay fiber out here?"), it offered him "the beards of many things." Ricky put on the white one. It felt like a warm summer's day and turned him tougher and wiser on the spot. "Ricky," the narrator declared, "you pulled the Sun card." Spider marched up to the box ("Did that guy shit in your mouth?") and traded it his hero point for one thing: "If you have any extra puberty in there to give, I need it desperately." Puberty hit, and it hit hard. The box also handed him a wooden rod shaped like a dick, holding one fireball. "This is what manhood feels like."
 
 ### Crossing Fireballs
 
-Spider fired the rod. Ricky fired back. The two fireballs met tip to tip in the air, sealed by Ricky's perfect natural 20, and the explosion engulfed them both. The Grandmaster tried to describe it from above and gave up partway: "I'm not finishing this." Ricky took the full blast, was left barely standing, and collapsed. He played dead convincingly, tongue out. He was, after all, "a dragon that goes to raves… People die at parties all the time."
+Spider fired the rod. Ricky fired back. The two fireballs met tip to tip in the air, sealed by Ricky's perfect natural 20, and the explosion engulfed them both. The Grandmaster tried to describe it from above ("Two rods, hefty in size, aim straight at their target and spew out… an engulfing flame") and gave up partway: "I'm not finishing this." The Shadow King said she really missed the chance to say "shoot their loads." Ricky took the full blast, was left barely standing, and collapsed. "You've never taken a load this big to the face before," said the Grandmaster. He played dead convincingly, tongue out. He was, after all, "a dragon that goes to raves… People die at parties all the time."
 
-The heat woke a second chaos event: healing rods of various sizes sprouted from the ground like fungus, smelling of pineapple and, on one side, asparagus. Still "dead," Ricky whispered "Somebody once told me…", rolled over in a fake death spasm, and licked one back to health. He then conjured an illusion of the Acolyte Ristin8012 beside Spider, which kept saying "Look, he's dead. Don't attack him." Spider believed it completely. "I've never killed a man before. Does that make me a man if I've killed another man?" He tried to high-five the illusion, then went and stood straddling Ricky's body, flexing with his rod.
+The heat woke a second chaos event: healing rods of various sizes sprouted from the ground like fungus, smelling of pineapple and, on one side, asparagus. Still "dead," Ricky whispered "Somebody once told me…", rolled over in a fake death spasm, and tongued the tip of one, drinking himself back to health. He then conjured an illusion of the Acolyte Ristin8012 beside Spider, which kept saying "Look, he's dead. Don't attack him." Spider believed it completely. "I've never killed a man before. Does that make me a man if I've killed another man?" He tried to high-five the illusion, then went and stood straddling Ricky's body, flexing with his rod.
 
 ### The Wall and the Nutcracker
 
-"That is his biggest folly of the night," said Ricky. "Oops, I did it again. I cast Wall of Force. Goodbye, bitch." A wall of force shot up between Spider's legs and launched him twenty feet into the air. His newly dropped testicles survived the landing. Ricky crawled to the box and dove in face-first. It turned out to be shallow. From the trash and bones at the bottom he pulled a classic Christmas nutcracker, a fine magical maul painted in what he called many colors. He was colorblind and wearing sunglasses. "All I know is I'm a red dragon!"
+"That is his biggest folly of the night," said Ricky. "Oops, I did it again. I cast Wall of Force. Goodbye, bitch." A wall of force shot up between Spider's legs and launched him twenty feet into the air. His newly dropped testicles survived the landing. "I just exploded his nuts," Ricky told the box. "He's gonna be really mad." He crawled to the box and dove in face-first. It turned out to be shallow. From the trash and bones at the bottom he pulled a classic Christmas nutcracker, a fine magical maul painted, he said, in red and blues. He was colorblind and wearing sunglasses. "All I know is I'm a red dragon!"
 
 ### The Final Blow
 
@@ -91,11 +91,11 @@ In the after-show, Spider's player said he built the character while chatting wi
 ## Notable Moments
 
 - The Shadow King was caught throwing a solo techno pre-party, keg hidden behind the throne, with a room full of freshly de-liced bald goblins.
-- Ricky T-posed in a tree to assert dominance, then fell out of it because he is terrified of the dark.
+- Ricky T-posed in a tree to assert dominance, then fell out of it ass-first because he is terrified of the dark.
 - The Grandmaster banned dabbing in the arena by throwing popcorn, and a goblin wrote the rule down.
-- Spider traded the Box of Chaos for puberty and received a phallic fireball rod.
+- Spider traded the Box of Chaos his hero point for puberty and received a dick-shaped fireball rod.
 - The two fireballs touched tips on a natural 20.
-- Ricky's dying confession, "I'm not really a dragon," was followed at once by Spider's transformation into a tarantula.
+- Ricky's dying confession, "I'm not really a dragon," was followed, after Spider's victory speech, by Spider's transformation into a tarantula.
 
 ## Memorable Quotes
 

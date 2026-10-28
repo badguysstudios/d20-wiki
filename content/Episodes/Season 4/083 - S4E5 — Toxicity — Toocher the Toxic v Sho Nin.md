@@ -20,7 +20,7 @@ canon_order: 83
 
 [Watch on YouTube](https://youtu.be/XjP7jZcRDhw)
 
-A trash-talking frog wrestler met a 15-year-old anime hero in an abandoned steampunk town, and the result was one of the strangest fights of the Shadow King's reign. **[[Toocher the Toxic]]** brought poison skin and pro-wrestling theatrics. **[[Sho Nin]]** brought a mysterious inner wind and a truly cursed run of luck. Along the way, both champions' backsides turned into butterfly wings, the harbor turned to acid, and the crowd started wearing red scarves.
+A trash-talking frog wrestler met a 15-year-old anime hero in an abandoned steampunk town, and the result was one of the strangest fights of the Shadow King's reign. **[[Toocher the Toxic]]** brought poison skin and pro-wrestling theatrics. **[[Sho Nin]]** brought a mysterious inner wind and a truly cursed run of luck. Along the way, both champions' butt cheeks turned into butterfly wings, the harbor turned to acid, and the crowd started wearing red scarves.
 
 ## The Story
 
@@ -48,33 +48,33 @@ Sho Nin struck back without knowing it. He shouldered past to be first through t
 
 The arena was "one of my favorite little playgrounds," the Grandmaster said: a tiny, long-abandoned steampunk city of docks, crates, boats, bridges and trinkets. "By the end of it, I want nothing left, including your opponent." She took to the sky on black wings while a small dog yapped somewhere in the background, to the Shadow King's disgust.
 
-Sho Nin still couldn't say his opponent's name ("Too, Too, Toocher, Tootcher, Tiddy, Tutor, Truder? What are you?"). Toocher explained that he was a grung. His parents were both frogs, giving him "100% pure big frog energy," and his tragic egg-hatched backstory "will require several flashbacks." "This isn't a Nat Geo episode!" the Grandmaster shouted. The Shadow King offered Toocher a job as the new sign guy if he lived.
+Sho Nin still couldn't say his opponent's name ("Too, Too, Toocher, Tootcher, Tiddy, Tutor, Truder? What are you?"). Toocher explained that he was a grung. His parents were both frogs, giving him "100% pure big frog energy," and his tragic egg-hatched backstory was long: "It'll require several flashbacks." "This isn't a Nat Geo episode!" the Grandmaster shouted. The Shadow King offered Toocher a job as the new sign guy if he lived.
 
 Sho Nin went first and ignored his opponent completely. He backed into a rusty crane to look for trinkets, and the whole thing toppled onto his legs. He decided to stay there. "That whole moment is perfect as it is." Toocher bounded onto the fallen crane, scarf fluttering. He wore only pants, a shield and a flamboyant red scarf ("for a statement"). He dropped an elbow into Sho Nin's chest. Blood spurted from the boy's mouth, and the grung's poisonous skin left a burning residue in him. Up in the stands the Acolytes were "punching their grandmothers in the face," which Toocher called "my kind of crowd."
 
 ### Chaos Comes Calling
 
-When the Grandmaster nearly called on the Arbiter to start the chaos, the answer came back flat: "No, he's dead. I killed him."
+When the Grandmaster nearly called the Shadow King "Arbiter," the answer came back flat: "No, he's dead. I killed him."
 
-Then a comet streaked down and smashed into the town: [[The Box of Chaos]], a chest wreathed in heatless yellow-and-pink flame. The Shadow King rose, pointed into the crowd and bellowed, "You! Blissful Dwarf!" A shadowy hand seized the Acolyte [[Blissful Dwarf]] and tore him apart. A second hand pulled a black soul from the neck hole and tossed it into the box. "There, the Box of Chaos is primed."
+Then a comet streaked down and smashed into the town: [[The Box of Chaos]], a chest wreathed in heatless yellow-and-pink flame. The Shadow King rose, pointed into the crowd and bellowed, "You! Blissful Dwarf!" A shadowy hand seized the Acolyte [[Blissful Dwarf]] and ripped off his arms, legs and head. A second hand pulled a black soul out of the neck hole and tossed it into the box. "There, the Box of Chaos is primed."
 
 Next, a patched top hat rose from the water, followed by a strange old man with big ears, white hair and a teacup. "Change places!" he cried, and snapped. Suddenly Toocher was pinned under the crane and Sho Nin stood on top of it. "Damn you, Uncle Pennybags!" The old man sank back under with a cackle. The Grandmaster explained that he was "just kind of crazy. Mad, you might say," and that sometimes a bunny showed up. The Shadow King demanded "a full accounting" of what she'd been doing while he was gone.
 
-Sho Nin, coughing blood, flung a dart that rode a gust of wind into Toocher. Then he rode the wind straight to the box. The soul inside crawled out shrieking, "Where am I?! What am I?!" It refused to haggle ("That's not how this works, what do you have?"), so Sho Nin drew his sword and handed over the scabbard. In return he received a gleaming **Moon Sickle**. He laid his old sword before the chest, pointed the sickle at "this toad," and struck a pose so obnoxious that the wind blew through at exactly the right moment and the crowd screamed at his beauty. "I'm 15! I prefer cool!" "It's a frog," Toocher corrected.
+Sho Nin, vomiting blood and bile from the poison, flung a dart that rode a gust of wind into Toocher. Then he rode the wind straight to the box. The soul inside crawled out shrieking, "Where am I?! What am I?!" It refused to haggle ("That's not how this works, what do you have?"), so Sho Nin drew his sword and handed over the scabbard. In return he received a gleaming **Moon Sickle**. He laid his old sword before the chest, pointed the sickle at "this toad," and struck a very obnoxious pose just as the wind blew past, and the crowd screamed at his beauty. "I'm 15! I prefer cool!" "It's a frog," Toocher corrected.
 
-Toocher answered with "the strongest squat that anyone has witnessed," launching the crane into the front row, where fans scrambled for it like a souvenir. "That's gonna be you in a moment, kid." Then he leapt, limbs splayed, onto Sho Nin's face. He pulled the boy's own dart out of his chest and stabbed him with it, poisoning him again. He fed the bloody dart to the box and received Bracers of Defense shaped like long trailing red arm scarves. "Now I do. Thanks, Sho Nin," he said. The Grandmaster dubbed him "Scarf Boy."
+Toocher answered with "the strongest squat that anyone has witnessed," sending the crane flying so that it nearly hit the front row, where fans scrambled to grab it like a prize. "That's gonna be you in a moment, kid." Then he leapt, limbs splayed, onto Sho Nin's face. He pulled the boy's dart out of his own chest and stabbed Sho Nin with it, poisoning him again. He fed the bloody dart to the box and received Bracers of Defense shaped like long trailing red arm scarves. "Now I do. Thanks, Sho Nin," he said. The Grandmaster dubbed him "Scarf Boy."
 
 ### The Butterfly Rounds
 
 The next chaos event started with an odd sensation. Both champions' butt cheeks swelled, flattened and sprouted into butterfly wings, lifting them thirty feet into the air. "I make no apologies for the events I create," said the Grandmaster.
 
-Still in Toocher's grip, Sho Nin blasted them apart with his wind, which comes "from inside me without being from inside me." "It's not from betwixt the cheeks," he insisted. The power was inherited and had skipped a generation. He was only beginning to understand it, and perhaps his mother, "the musky maiden," had answers. A voice in the wind whispered, "Look to the stars." It was daytime, so he stared at the sun and fluttered off half-blind like a moth. "Oh man, that was stupid!"
+Still in Toocher's grip, Sho Nin blasted them apart with his wind, which comes "from inside me without being from inside me." Asked whether it was a fart, he insisted, "It's not from betwixt the cheeks." The power was inherited and had skipped a generation. He was only beginning to understand it, and perhaps his mother, "the musky maiden," had answers. A voice in the wind whispered, "Look to the stars." It was daytime, so he stared at the sun and fluttered off half-blind like a moth. "Oh man, that was stupid!"
 
-Toocher gave chase on his own wings, which looked "like two giant pairs of frog feet." He turned around and clapped his cheeks shut around Sho Nin. "The great bougie clap of 2023 begins!" cried the Grandmaster. His attempted piledriver went wrong when Sho Nin wiggled free, and Toocher drove himself into the ground. "I'm not used to using my butt as a grapple attack quite yet." A second "hiney hold" worked better, poisoning Sho Nin again. To him it felt "like getting pushed out between two large slices of ham." The Acolytes then shouted out every animal they knew that had a butthole, which made for a long list.
+Toocher gave chase on his own wings, which looked "like two giant pairs of frog feet." He turned around, spread his butt cheeks and clapped them together around Sho Nin. "The great bougie clap of 2023 begins!" cried the Grandmaster. His attempted piledriver went wrong when Sho Nin wiggled free, and Toocher drove himself into the ground. "I'm not used to using my butt as a grapple attack quite yet." A second "hiney hold" worked better: residue from Toocher's butt cheeks dripped onto Sho Nin's face cheeks and poisoned him again. To him it felt "like getting pushed out between two large slices of ham." The Acolytes then shouted out every animal they knew that had a butthole, which made for a long list.
 
 ### Deli Meat and Acid
 
-Bleeding and poisoned, Sho Nin closed his eyes. His beating wings became applause, and his moon blade glowed and screamed as he began his bladesong. "I've had enough of this game. It's time to finish this." When Toocher made one more deli joke ("That's baloney"), the Grandmaster nocked an arrow and shot him in the shoulder. "When I tell you no more deli-made jokes, I meant it." The Shadow King beamed: "I think you're learning from me." Horrified to be on his side, she quietly slipped Toocher some healing. The Shadow King caught her anyway. "I was so proud of you. You're very disappointing me."
+Bleeding and poisoned, Sho Nin closed his eyes. His beating wings became applause, and his moon blade glowed and screamed as he began his bladesong. "I've had enough of this game. It's time to finish this." When Toocher made one more deli joke ("That's baloney"), the Grandmaster nocked an arrow and shot him in the shoulder. "When I tell you no more deli-made jokes, I meant it." The Shadow King beamed: "I think you're learning from me." Regretting that she'd sided with him, she quietly slipped Toocher some healing. The Shadow King caught her anyway. "I was so proud of you. You're very disappointing me."
 
 Toocher closed his own wounds with a warm healing wind, a gift from a relative whose inner wind "had nothing to do with flatulence." Then he swore to take Sho Nin's hopes and dreams and send them "to the dump where it's going to get crushed, buried, and forgotten." He hurled a crate of small potatoes that exploded across the gears ("Potato mash!") and dived into the harbor.
 
@@ -99,11 +99,11 @@ At the after-show, the table counted Sho Nin's five natural 1s and praised how g
 ## Notable Moments
 
 - Sho Nin tripped Toocher through the portal on a natural 20, then got flattened by a crane on his very first move.
-- The Shadow King tore Blissful Dwarf apart in the stands to feed his soul to the Box of Chaos.
-- Both champions sprouted butterfly wings from their backsides, leading to "the great bougie clap of 2023."
+- The Shadow King ripped off Blissful Dwarf's arms, legs and head in the stands to feed his soul to the Box of Chaos.
+- Both champions sprouted butterfly wings from their butt cheeks, leading to "the great bougie clap of 2023."
 - The Grandmaster shot Toocher over a baloney pun, then secretly healed him and got caught.
 - The Shadow King turned the harbor to acid just after Toocher dived into it.
-- Toocher won by catching Sho Nin's own Moon Sickle in midair, while the crowd waved red scarf merch.
+- Toocher won by knocking Sho Nin's own Moon Sickle out of his hand and catching it in midair, after the crowd had taken up red scarf merch.
 
 ## Memorable Quotes
 

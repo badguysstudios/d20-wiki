@@ -17,7 +17,7 @@ tags:
 - character
 ---
 
-**Glassy** (full name Glacia) is the eighteen-year-old daughter of [[Thornabub]]. She left the Nine Hells, dyed her hair purple and built a life of her own on the material plane, and she was promised her freedom if she could end her father in the arena. Her bout with him became one of the Void's great family dramas: sharp-tongued, bloody and absurd, and she lost only by inches. She lost the fight but won over the crowd, and the Grandmaster herself called her an inspiration.
+**Glassy** (full name Glacia) is the eighteen-year-old daughter of [[Thornabub]]. She left the Nine Hells, dyed her hair purple and built a life of her own on the material plane, and she was promised her freedom if she could end her father in the arena. Her bout with him became one of the Void's great family dramas: sharp-tongued, bloody and absurd. She lost the fight but won over the crowd, and the Grandmaster herself called her an inspiration.
 
 ## Story
 
@@ -33,9 +33,9 @@ After the fight, the word was that Jerry was "kinda alive-ish" without his soul,
 
 ## Personality and Abilities
 
-Glassy is fierce, defiant and very much eighteen. She needled her father about slow dice, eye-rolled at his lectures and stuck her tongue out at him twice, even while blind. Beneath the sass is real hurt and a hard-won sense of self, and the Grandmaster praised "that tongue you have is fierce with words." She also likes to think before she acts. She saved her one bit of luck for the moment it mattered and used it to roll out from under a falling magnet.
+Glassy is fierce, defiant and very much eighteen. She needled her father about slow dice and stuck her tongue out at him, even while blind. Beneath the sass is real hurt and a hard-won sense of self, and the Grandmaster praised "that tongue you have is fierce with words." She also likes to think before she acts. She saved her one bit of luck for the moment it mattered and used it to roll out from under a falling magnet.
 
-Her magic comes from two places. Her warlock power is her infernal inheritance, "the magic that the Nine Hells gave me," and includes eldritch blasts, curses and protective dark magic. Her sorcery is her own: acid bubbles, short-range teleportation, spider-climbing, a protective shell of false life and a slow, safe fall. She is especially proud of anything she learned without help ("I'm independent"). She picked up lightning magic from her boyfriend and simply loves transmutation magic. Her hair is purple, which her father finds unacceptable and the Grandmaster finds delightful.
+Her magic comes from two places. Her warlock power is her infernal inheritance, "the magic that the Nine Hells gave me," and includes eldritch blasts and curses. Her sorcery is her own: acid bubbles, short-range teleportation, spider-climbing, a protective shell of false life and a slow, safe fall. She is especially proud of anything she learned without help ("I'm independent"). She picked up lightning magic from her boyfriend and simply loves transmutation magic. Her hair is purple, which her father finds unacceptable and the Grandmaster finds delightful.
 
 ## Relationships
 

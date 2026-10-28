@@ -17,13 +17,13 @@ tags:
 - character
 ---
 
-**Eshrinn** is a cobra-hooded snake-woman and self-proclaimed "master of spells and poisons." She fought in the very first Deathmatch ever staged for [[Grandmaster Elusia Skypiercer|the Grandmaster]]. She tried to win by making friends with her opponent, [[Ditch Em' Darrell]], and then used that friendship against him. It nearly worked. She died in a pile of gold at the end of the fight, but [[The Arbiter|the Arbiter]] quietly carried her body away and revived her, telling her he had "a plan for you."
+**Eshrinn** is a cobra-hooded snake-woman and self-proclaimed "master of spells and poisons." She fought in the very first Deathmatch ever staged for [[Grandmaster Elusia Skypiercer|the Grandmaster]]. She tried to win by making friends with her opponent, [[Ditch Em' Darrell]], and then used that friendship against him. It nearly worked. She died in a pile of gold at the end of the fight, but [[The Arbiter|the Arbiter]] quietly sank her body through the gold into his secret lair and revived her, telling her he had "a plan for you."
 
 ## Story
 
-Eshrinn was one of the two champions the Arbiter brought before the Grandmaster in her throne room in [[The Dread Fortress|the Dread Fortress]] for [[Episodes/Season 1/010 - S1 Ep1 — Ditch Em' Darrell v Eshrinn|S1 Ep1 — Ditch Em' Darrell v Eshrinn]]. She introduced herself with practiced disdain for her rival: "You are simple. I am experienced." She also told the Grandmaster she was more worthy of her love and respect than Hocum and Grocom. The Arbiter bet on Darrell. The Grandmaster picked Eshrinn on principle, because whenever the Arbiter chooses something, she always picks the opposite.
+Eshrinn was one of the two champions the Arbiter brought before the Grandmaster in her throne room in [[The Dread Fortress|the Dread Fortress]] for [[Episodes/Season 1/010 - S1 Ep1 — Ditch Em' Darrell v Eshrinn|S1 Ep1 — Ditch Em' Darrell v Eshrinn]]. She introduced herself with practiced disdain for her rival: "You are simple. I am experienced." She also told the Grandmaster that she was worthy of Eshrinn's love and respect, more so than Hocum and Grocom. The Arbiter bet on Darrell. The Grandmaster picked Eshrinn on principle, because whenever the Arbiter chooses something, she always picks the opposite.
 
-The fight took place in the Gilded Thresh Hollow, a secret cavern where waterfalls of gold and gems poured over a floor of coins, watched by roaring stands of [[The Acolytes|Acolytes]]. Eshrinn made the grandest entrance she could. She snake-flipped off a ledge, struck a vogue pose and catwalked across the gold like it was fashion week, scattering colored vials until her own tail flipped her cloak over her head (she pretended nobody saw). Then she beguiled Darrell into adoring her and coaxed the Hollow's jewel-like gem beetles to cover her like sequins, so she shimmered "like a chandelier." The Acolytes split their cheers between the two champions and rewarded each of them.
+The fight took place in the Gilded Thresh Hollow, a secret cavern where waterfalls of gold and gems poured over a floor of coins, watched by hordes of [[The Acolytes|Acolytes]] in the stands throwing popcorn. Eshrinn made the grandest entrance she could. She snake-flipped off a ledge, struck a vogue pose and catwalked across the gold like it was fashion week, scattering colored vials until her own tail flipped her cloak over her head (she pretended nobody saw). Then she beguiled Darrell into adoring her and coaxed the Hollow's jewel-like gem beetles to cover her like sequins, so she shimmered "like a chandelier." The Acolytes split their cheers between the two champions and rewarded each of them.
 
 Things got strange fast. The floor turned into a bouncy castle, and the Arbiter swooped in on glowing white wings to hit her with a rusty metal chair. She twisted so it only stung her tail. Eshrinn bounced over to the still-smitten Darrell with a simple pitch: "Isn't it easier to just be friends?" He gave her a golden pinky ring he had dug out of the treasure. She ate one of her beetles, which was poisonous but harmless to her, though it cracked a tooth. Then she secretly dropped the ring into a vial of mysterious green liquid. The Arbiter grew bored of all the friendliness and broke the spell on Darrell by bouncing a gold coin off his head.
 
@@ -40,7 +40,7 @@ She fights with charm and poison more than force. She can bend minds, befriend a
 ## Relationships
 
 - [[Ditch Em' Darrell]]: Her opponent. She charmed and befriended him, betrayed him with a cursed ring, and was killed by him. He mourned what they "could have been."
-- [[The Arbiter]]: He hit her with a chair, accepted her thank-you coin, and dropped her in front of Darrell. Then he secretly revived her, with "a plan" for her.
+- [[The Arbiter]]: He hit her with a chair, got her thank-you coin, and dropped her in front of Darrell. Then he secretly revived her, with "a plan" for her.
 - [[Grandmaster Elusia Skypiercer]]: Backed Eshrinn to win, largely to spite the Arbiter. Eshrinn professed her love and respect for her.
 
 ## Memorable Quotes

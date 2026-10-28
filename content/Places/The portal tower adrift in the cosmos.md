@@ -3,7 +3,7 @@ title: The portal tower adrift in the cosmos
 type: place
 region: Adrift in the cosmos
 first_appearance: S1E7 — Wild Magic — Strako v Zayliss
-summary: A tower of four strange portals floating loose in the cosmos, where Strako and Zayliss were flung from pool to fire to starfield during their Wild Magic Deathmatch.
+summary: A tower of four strange portals floating loose in the cosmos, where Strako and Zayliss were flung from pool to starfield to fire during their Wild Magic Deathmatch.
 tags:
 - place
 ---
@@ -14,7 +14,7 @@ tags:
 
 The tower's defining feature is its set of four portals, each with a personality of its own. The **green portal** smells of spring and citrus, and it can either mend a wounded fighter or spit them out somewhere else entirely. The **blood pool** is far less pleasant: it is full of squirming bodies that drag anyone who enters down into its depths before releasing them elsewhere.
 
-The **fire portal**, a "molten forge" of flame and lava, sears anyone who comes out of it. The **mirrored space portal** shows a shimmering reflection of the cosmos, and whoever emerges from it finds their next strike landing a little truer than it should. The portals are connected in unpredictable ways, so a fighter who dives into one may be thrown back out of another.
+The **fire portal**, a "molten forge" of flame and lava, sears anyone who comes out of it. Whoever emerges from the **mirrored space portal** finds their next strike landing a little truer than it should. The portals are connected in unpredictable ways, so a fighter who dives into one may be thrown back out of another.
 
 A clock also stands in the tower, and it moves in a different time from the world around it. It is a small, unsettling reminder that the usual rules of time and space barely apply here.
 

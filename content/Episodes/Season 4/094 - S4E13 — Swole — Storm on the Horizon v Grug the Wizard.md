@@ -20,7 +20,7 @@ canon_order: 94
 
 [Watch on YouTube](https://youtu.be/IlZllXZuS78)
 
-A snow leopard monk with knives for feet faced a barbarian who sincerely believed he was the most powerful wizard in [[The Void]]. **[[Storm on the Horizon]]** and **[[Grug the Wizard]]** fought in a peaceful meditation valley that the Grandmaster ordered them to wreck. They argued over familiars, threw spell books like boomerangs and hit each other with metal chairs, and both of them ended the night smiling. The episode is remembered for Grug yelling spell names he could not cast, his "buns of holiness," and the Shadow King's cruel last word on the winner.
+A snow leopard monk with knives for feet faced a barbarian who sincerely believed he was the most powerful wizard in [[The Void]]. **[[Storm on the Horizon]]** and **[[Grug the Wizard]]** fought in a peaceful meditation valley that the Grandmaster ordered them to wreck. They argued over familiars, threw spell books like boomerangs and took metal chairs to the head from their hosts, and neither of them survived the night. The episode is remembered for Grug yelling spell names he could not cast, his "buns of holiness," and the Shadow King's cruel last word on the winner.
 
 ## The Story
 
@@ -28,7 +28,7 @@ A snow leopard monk with knives for feet faced a barbarian who sincerely believe
 
 The night opened in [[The Dread Fortress]], where [[The Shadow King]] strolled the hallways in fancy leather boots with silver straps. Tiny bells hung from the backs of them. He had not put the bells there. As the narration explained, "The rest of us did, so we knew when he'd be coming close." The Grandmaster called him "this little jingle bell boy."
 
-He found [[Grandmaster Elusia Skypiercer|the Grandmaster]] drilling the Fortress's [[Chinchillas|chinchilla army]], a troop of stick-wielding martial artists with murder in their eyes. She said the training was for security, "to protect the Void against anything or anyone who might try to invade or disrupt the games." The Shadow King called it admirable, at least as far as "keeping the regime safe," and added that nobody would be attacking the Dread Fortress while he sat on the throne. The Grandmaster suggested the chinchillas might really be there to protect "all the goblins and the civilians that we have here in the Dread Fortress. You don't seem particularly inclined to protect them." He agreed quite happily: "That's a fair point. They don't mean a lot to me."
+He found [[Grandmaster Elusia Skypiercer|the Grandmaster]] drilling the Fortress's [[Chinchillas|chinchilla army]], a troop of stick-wielding martial artists with murder in their eyes. She said the training was for security, "to protect the Void against anything or anyone who might try to invade or disrupt the games." The Shadow King called it admirable, at least as far as "keeping the regime safe," and added that not many would be attacking the Dread Fortress while he sat on the throne. The Grandmaster suggested the chinchillas might really be there to protect "all the goblins and the civilians that we have here in the Dread Fortress. You don't seem particularly inclined to protect them." He agreed quite happily: "That's a fair point. They don't mean a lot to me."
 
 He then admitted he had only been "looking for a bathroom, but yes, let's go to the Deathmatch." At the Grandmaster's clap the chinchillas parted like an ocean to clear the path to his throne, which she described as ugly, though she conceded she might be biased. The chinchillas circled and beat their sticks against the tables, walls and floors. The Grandmaster clenched the amulet at her neck until it cut her fingers and blood dripped, then announced the match. The two [[Champions|champions]] stepped out of a blue portal.
 
@@ -46,9 +46,9 @@ For their poses, Storm showed her belly with every knife out. Grug flexed his "a
 
 The Grandmaster opened a purple portal onto a brisk, bright valley, where a breeze ruffled fur and beard beside a calm babbling stream. It was a perfect place for meditation. "Destroy it," she told them. "I give you this landscape for you to demolish." Overhead, row after row of [[The Acolytes]] filled stands that made the valley feel like the Coliseum itself. "They are the ones that demand that your story be told today. So make sure that it's a fucking good one." The Shadow King had one wish: "I'd like to see this river filled with blood by the end of the Deathmatch."
 
-Storm struck first. She threw her boomerang, "that slightly bent stick," and it smacked Grug square in the forehead. While he powered up his "mythical magical energy" like a hero in a cartoon, she hit him again. The Grandmaster noted that powering up is "prime time to hit them," and that Grug now had an equal sign on his forehead. On its next pass the boomerang zoomed past the stands, and the crowd accidentally did "a duck" instead of a wave.
+Storm struck first. She threw her boomerang, "that slightly bent stick," and it smacked Grug square in the forehead. While he powered up his "mythical magical energy" like a hero in a cartoon, she hit him again. The Grandmaster noted that powering up is "prime time to hit them," and that Grug now had an equal sign on his forehead. On its next pass the boomerang zoomed across the field, and the crowd accidentally did "a duck" instead of a wave.
 
-Grug decided the bad kitty should bow down and become his familiar. He yelled "BRRRRR! … Blur!" and was wrapped in multicolored protective lights. Then he punched Storm while shouting "Death Touch!" She yowled like a cat whose tail had been stepped on. The Grandmaster wondered whether he was just naming his fingers. "No, this is, I'm a wizard. These are magical spells," Grug insisted. Storm, by now, had given up on hating him: "I love Grug. I don't want to fight Grug. I want to be friends with Grug." The Acolytes were enthralled, and the Grandmaster granted both champions a single moment of glory to spend later, a once-per-fight burst of "plus ultra."
+Grug decided the bad kitty should bow down and become his familiar. He yelled "BRRRRR! … Blur." and was wrapped in multicolored protective lights. Then he punched Storm while shouting "Death Touch!" She yowled like a cat whose tail had been stepped on. The Grandmaster wondered whether he was just naming his fingers. "No, this is, I'm a wizard. These are magical spells," Grug insisted. Storm, meanwhile, had been completely won over: "I love Grug. I don't want to fight Grug. I want to be friends with Grug." The Acolytes were enthralled, and the Grandmaster granted both champions a single moment of glory to spend later, a once-per-fight burst of "plus ultra."
 
 ### The Box and the Siren
 
@@ -60,13 +60,13 @@ A figure then descended the steps of the stands, singing "Chicken wing, chicken 
 
 ### The Hairball Chariot
 
-Storm walked up to the Box and coughed a hairball straight into it. "What are you doing? Wait, wait… Don't do that," the figure inside protested. Storm only asked, "Is sacrifice for you? … Give me presents." The fire column rose, and out rolled a much bigger hairball harnessed by two long leads to a flying chariot. Because Storm was white, the hairball was white too, and it looked a little like clouds. Grug, it turned out, had never really noticed clouds.
+Storm walked up to the Box and coughed a hairball straight into it. "What are you doing? Wait, wait… Don't do that," the figure inside protested. Storm only asked, "Is sacrifice for you? … Give me presents." The fire column rose, and out rolled a much bigger hairball harnessed by two long leads to a flying chariot. Storm described the hairball as white, so it looked a little like clouds. Grug, it turned out, had never really noticed clouds.
 
 Storm circled him at the end of her long-reach spear, the iklwa, and landed a natural 20. "Stone skin!" Grug cried, then "Mage armor!" as more blows landed. He hit back by throwing his spell books, yelling "Magic missile!" and then "Fireball." One book bounced back into his own head. The audience sat in stunned silence before erupting, "happy to know what a boomerang and fireball look like now." Grug renewed his offer. "Soon I will get a magic tower… You will have wet food all around." Storm lied that it sounded real good, if he would just put down the books. She asked whether he had treats. He believed her.
 
 ### Too Close to the Sun
 
-Storm opened the next round with another natural 20. Grug shot a beam of color out of his chest, and from somewhere in the stands a small dog barked and tried to get at the cat before being shooed away. When Grug declared "Mage Armor!" yet again, the Shadow King protested, "You can't just say Mage Armor! That's not how it works!" The Grandmaster overruled him: "You can say Mage Armor whenever you want!"
+Storm opened the next round with another natural 20. Grug shot a beam of color out of his chest, and when Storm answered with a shattering blast of sound, a small dog somewhere in the stands barked and tried to get at the cat before being shooed away. When Grug declared "Mage Armor!" yet again, the Shadow King protested, "You can't just say Mage Armor! That's not how it works!" The Grandmaster overruled him: "You can say Mage Armor whenever you want!"
 
 Storm flew her chariot fifty feet straight up. Grug tore off his robe so that both pecs could blaze out and blind her. Many Acolytes had to put on sunglasses. Then he looked up, perhaps for the first time in his life. "So much sky, it's endless. If only I could be part of the sky."
 
@@ -74,11 +74,11 @@ He spent his moment of glory on the most glorious jump of his life. In his head,
 
 ### Metal Chairs
 
-The Shadow King rolled a perfect 20 and chose "the classic," with a twist: "I'm going to need your help, Elusia. A little family activity." He conjured two metal chairs. "Let us hear you scream! It's time for the metal chairs!" the Grandmaster cried, and she dive-bombed the blinded Storm, clanging the chair off her skull before tossing her "two tiny little blue pills" for the headache. "Nice hit, but let me show you how it's done," said the Shadow King. He swooped on shadowy wings and brought his chair down on Grug's head. Then he hauled Grug out of the river by the collar so he wouldn't drown: "Try not to die too early." The blow set off Grug's magic one more time. A beam of holy radiance blasted out of his backside into the sky. Twenty swooning Acolytes were knocked out by the sight of "those tan cheeks."
+The Shadow King rolled a perfect 20 and chose "the classic," with a twist: "I'm going to need your help, Elusia. A little family activity." He conjured two metal chairs. "Let us hear you scream! It's time for the metal chairs!" the Grandmaster cried, and she dive-bombed the blinded Storm, clanging the chair off her skull before tossing her "two tiny little blue pills" for the headache. "Nice hit, but let me show you how it's done," said the Shadow King. He swooped on shadowy wings and brought his chair down on Grug's head. Then he hauled Grug out of the river by the collar so he wouldn't drown: "Try not to die too early." The blow set off Grug's magic one more time. A beam of radiant light blasted out of his ass into the sky. Twenty swooning Acolytes were knocked out by the sight of "those tan cheeks."
 
 ### The Final Blow
 
-Still blind, Storm spent her own moment of glory dive-bombing the chariot onto Grug, homing in on the sound of his gurgling and the clang of the chair. "We're friends of science." Grug yelled "Dimension Door!" and popped into the one-seater chariot with her, nose to nose. "Eskimo kisses?… That's not how babies are made." She blasted him with her four-footed "Fist of Four Thunders" ("I am Cheetara. I've always wanted to be."). He wrapped them both in vines and drained her with necrotic tentacles. He healed himself with it, called it a new spell, and wrote it into his book in crayon, which doubled as a snack. "You told me you'd be my familiar. I really, really, really believed you'd be my familiar." He begged her to surrender. She lied to him again, and he believed her again: "You got to have trust in your family."
+Still blind, Storm spent her own moment of glory dive-bombing the chariot onto Grug, homing in on the sound of his gurgling and the clang of the chair. "We're friends of science." Grug yelled "Dimension Door!" and popped into the one-seater chariot with her, nose to nose. "Eskimo kisses?… That's not how babies are made." She blasted him with her four-footed "Fist of Four Thunders" ("I am Cheetara. I've always wanted to be."). He wrapped them both in vines and drained her with necrotic tentacles, healing himself. The Grandmaster suggested calling it Vampiric Touch, and Grug wrote the new "spell" into his book in crayon, which doubled as a snack. "You told me you'd be my familiar. I really, really, really believed you'd be my familiar." He begged her to surrender. She lied to him again, and he believed her again: "You got to have trust in your family."
 
 In the last round Storm stunned him with her spear. "Stone skin was too strong. Now I am stone." She landed four blows, and with the last, "the Kill Bill, five fingers of death," she shoved him so hard he popped out of existence for a second and reappeared twenty feet away in open air. As Grug fell, he dreamed of "growing old as an old wizened wizard in a wizard's tower… with my new familiar at my side." The Acolytes whispered his name, *Grug the Wizard*. He smiled, exhaled for a very long time, and landed dead between the two streams.
 
@@ -94,11 +94,11 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 
 ## Notable Moments
 
-- The Shadow King strolled the Fortress with bells that the staff had secretly hung on his boots.
+- The Shadow King strolled the Fortress with bells that others had secretly hung on his boots.
 - Grug tenderly hugged a rock instead of Storm, and it later stood between them like a small monument.
 - The siren pelted Grug with chicken wings, a kind of damage nothing in the arena can resist.
 - Grug's mythic jump to the sky ended with a sixty-foot fall into a shallow river he did not know he could stand up in.
-- The Grandmaster and the Shadow King took turns hitting the champions with metal chairs as "a little family activity," and Grug answered with a beam of light from his backside.
+- The Grandmaster and the Shadow King took turns hitting the champions with metal chairs as "a little family activity," and Grug answered with a beam of light out of his ass.
 - The Shadow King rewarded the winner with a victory lap into space.
 
 ## Memorable Quotes
@@ -167,7 +167,7 @@ Grug's player explained that Grug had always been told he was "too dumb to be a 
 
 ### Items
 - **Flying hairball chariot** (Box of Chaos; +1 AC and flight; white like clouds; one-seater). Later a spectral falcon took it over.
-- **[[Items/The Grandmaster's Amulet|Elusia's amulet]]** (cuts her fingers to summon portals).
+- **Elusia's amulet** (cuts her fingers to summon portals).
 - Grug's nonsense spell books and his crayon.
 - **Two metal chairs.**
 - Two tiny blue aspirin pills.

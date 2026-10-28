@@ -20,7 +20,7 @@ canon_order: 90
 
 [Watch on YouTube](https://youtu.be/Go92zPBd9JA)
 
-Two twins, one wizard and one barbarian, were pulled into [[The Void]] to settle a family argument that had already cost them a brother. **[[Nonamatt]]** and **[[Decima]]** fought in a glowing forest over the throne of the God of Fate. The night began with a taco feud in [[The Dread Fortress]] and ended with one of the most heartbreaking finishes the arena had seen. Along the way, Decima did something no champion had ever tried: they climbed into [[The Box of Chaos]] and ate it.
+Two twins, one wizard and one barbarian, were pulled into [[The Void]] to settle a family argument that had already cost them a brother. **[[Nonamatt]]** and **[[Decima]]** fought in a glowing forest over the throne of the God of Fate. The night began with a taco feud in [[The Dread Fortress]] and ended in heartbreak that left the Grandmaster in tears. Along the way, Decima did something no champion had ever tried: they climbed into [[The Box of Chaos]] and consumed it.
 
 ## The Story
 
@@ -30,7 +30,7 @@ Two twins, one wizard and one barbarian, were pulled into [[The Void]] to settle
 
 The Grandmaster insisted the staff deserved tacos too. [[Tabitha]], Sarah, Kennedy and the other goblins came sniffing through the doors, and she reminded him that all 328 employees had names. He had numbered them instead. A timid goblin with a pink ponytail and mittens (it is freezing in the dungeon) introduced herself as Kesa. The Shadow King promised her a taco, then summoned a spectral hand that shoved a fistful into her face and knocked her across the room. "Hand delivered."
 
-The Grandmaster clasped her amulet. It cut her hand once again as it opened the portal for the champions, a quiet reminder that in this era she ruled in name only.
+The talk then turned to filling every hole the champions had with tacos. "I haven't met a hole that couldn't be filled with this many tacos," the Shadow King said. "I don't want to know how many holes you've…" the Grandmaster replied. She clasped her amulet. It cut her hand once again as it opened the portal for the champions, a quiet reminder that in this era she ruled in name only.
 
 ### The Twins Arrive
 
@@ -56,7 +56,7 @@ Nonamatt scattered a bag of ball bearings into the grass, made three of them glo
 
 The two hosts bickered over who was summoning the Box. He claimed he was "a man of the people." She replied that the people didn't even know who he was. The Box landed in the middle of the bearings, empty. The Shadow King reached a shadowy hand into the crowd, picked up an Acolyte named Lady Magdala by the head, swung her around until her neck broke, and tossed her in. The Box erupted in yellow and pink fire, with shadowy hands and yellow eyes poking out. Any sacrifice would earn a random gift, and it even took cryptocurrency. Decima declined that on environmental grounds.
 
-Decima charged, slipped on the bearings, and landed right beside the Box, prying its lid wider with their axe. Shadowy fingers crept over the edge: "Is that for me?" Decima had something better in mind. They wanted to shove Nonamatt in. Nonamatt, apologizing the whole time, brought ten bearings to life. The bearings pummeled Decima from every direction while their twin murmured "sorry, sorry, Decima."
+Decima charged, slipped on the bearings, and landed right beside the Box, prying its lid wider with their axe. Shadowy fingers crept over the edge: "Is that for me?" Decima had something better in mind. They wanted to shove Nonamatt in. Nonamatt, apologizing the whole time, brought ten bearings to life. The bearings pummeled Decima from every direction while their twin murmured "sorry, sorry, Decima." "Personally, I've never been hit by so many balls before," the Grandmaster remarked, which earned a crack that it sounded like a Friday night.
 
 The Grandmaster handed Nonamatt a present in sapphire paper. They unwrapped it carefully to save the paper, which she called psychopathic. Inside was a cursed hot potato that would explode in two rounds.
 
@@ -64,9 +64,9 @@ The Grandmaster handed Nonamatt a present in sapphire paper. They unwrapped it c
 
 Every "sorry" was another pinprick to Decima. Morta's echo returned holding a ghostly copy of Decima's greataxe, a weapon he could never have wielded in life. His blank eyes hesitated. Two swings went wide, but the third swept Nonamatt off their feet. Nonamatt destroyed the echo again and apologized to it. Then their nerves died away, and they glared at Decima for desecrating the dead.
 
-Nonamatt fed one bearing to the Box and received a translucent violet breastplate that melted into their robe. The Grandmaster wondered if the bearings had a band name ("Nonamatt and the Minimats"). Then she pulled out a magnet and confiscated every last ball. The Shadow King was outraged. Nonamatt switched tactics, drew a black tendril out of their own forehead, and lashed Decima with a whip made from their own mind.
+Nonamatt fed one bearing to the Box and received a translucent violet breastplate that melted into their robe. The Grandmaster wondered if the bearings had a band name ("Nonamatt and the Minimats"). Then she pulled out a magnet and confiscated the remaining nine balls. The Shadow King was outraged: "No more balls." "Listen, balls are just half the show," she told him. "Enough with the balls," he shot back. "Hit it with the shaft. Staff." Nonamatt switched tactics, drew a black tendril out of their own forehead, and lashed Decima with a whip made from their own mind.
 
-After a short break, the twins found an Acolyte three quarters of the way through Derek. The Grandmaster sighed, "We're such a toxic family." Decima threw a taco at the Shadow King. It was going low, so Nonamatt rewound time and let them try again. Decima took a bite and threw higher, and the taco slid greasily down his muscles. His eyes flashed yellow. He answered with a "food fight," hurling hard-shell tacos into the stands, and Acolytes fell from the grandstands impaled.
+After a short break, Nonamatt spotted an Acolyte three quarters of the way through Derek. The Grandmaster sighed, "We're such a toxic family." Decima threw a taco at the Shadow King. It was going low, so Nonamatt rewound time and let them try again. Decima took a bite and threw higher, and the taco slid greasily down his muscles. His eyes flashed yellow. He answered with a "food fight," hurling hard-shell tacos into the stands, and Acolytes fell from the grandstands impaled.
 
 ### Decima Eats the Box
 
@@ -98,14 +98,14 @@ The Grandmaster, wiping away tears, dropped from her throne without opening her 
 
 ## Dried Blood
 
-Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "tell the people you love that you love them because you don't know when you won't have the chance to do that ever again." Decima's last word on the matter was simpler: "No half-assing your beliefs or your values." Meanwhile, as the Arbiter's voice pointed out, everyone was crying, but Kyle was still hungry.
+Nonamatt carried Decima home for a proper burial and left the Acolytes a plea: "tell the people you love that you love them because you don't know when you won't have the chance to do that ever again." Decima's last word on the matter was simpler: "No half-assing your beliefs or your values." Meanwhile, as one parting joke pointed out, everyone was crying, but Kyle was still hungry.
 
 ## Notable Moments
 
-- The Grandmaster discovered the beef tacos were made from Derek, and later caught an Acolyte finishing him off.
+- The beef tacos turned out to be made from Derek, and an Acolyte was later caught finishing him off.
 - Decima became the first champion ever to consume the Box of Chaos rather than feed it.
 - Nonamatt summoned their own other-timeline self as an ally and shared that echo's wounds through time.
-- The Grandmaster confiscated all of Nonamatt's balls with a magnet, to the Shadow King's fury.
+- The Grandmaster confiscated the rest of Nonamatt's balls with a magnet, to the Shadow King's fury.
 - Decima threw down their axe and let their twin kill them, dying with a smile.
 - The Grandmaster held a spear to the Shadow King's throat and begged him to spare the victor from Kyle.
 

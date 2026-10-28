@@ -20,7 +20,7 @@ canon_order: 51
 
 [Watch on YouTube](https://youtu.be/BDdZdET3cuQ)
 
-A cocky young sorcerer and the weary minotaur professor who taught them everything met in a crumbling temple high in the sky. **Alma** wanted to prove they had become the master. **Ahyan** spent most of the fight begging them to go home. What followed was one of the most inventive duels the arena had seen, complete with a giant magnet, folding-chair dives, the first Counterspell ever cast in the arena, and an ending that left the crowd in total silence.
+A cocky young sorcerer and the weary minotaur professor who taught them everything met in a crumbling temple high in the sky. **Alma** wanted to prove they had become the master. **Ahyan** spent most of the fight begging them to go home. What followed was one of the most inventive duels the arena had seen, complete with a giant magnet, metal-chair dives, the first Counterspell ever cast in the arena, and an ending that left the crowd in total silence.
 
 ## The Story
 
@@ -28,7 +28,7 @@ A cocky young sorcerer and the weary minotaur professor who taught them everythi
 
 The night began in [[The Dread Fortress]], where [[Grandmaster Elusia Skypiercer|the Grandmaster]] was hosting a pre-show party with hors d'oeuvres, drinks and goblins already eating. [[The Arbiter]] was still being punished: he clanked through the halls in chains and had to knock on the throne-room door, "because he knocks now. Just part of the punishment." The goblins Thomas and Jerry let him in. The Grandmaster reminded him that he was still her number two, "but you're also last place because remember, if you're not first, you're last."
 
-When the Arbiter asked who was paying for the catering, she said it came straight from the budget, which he ran. He asked whether she even knew what the word meant. Her face went blank: "Numbers. I don't know, that's why I have you still around." He began quietly shoveling the snacks into Tupperware.
+When the Arbiter asked who was paying for the catering, she said it came straight from the budget, which he ran. He asked whether she even knew what the word meant. Her face went blank: "Numbers. I don't know, that's why I have you still around." He began shoveling the food into Tupperware, away from the general public.
 
 The Grandmaster also cleared up a rumor. The Fortress employs 203 goblins and had ordered 203 [[Chinchillas|chinchillas]], one each, as pets, not as food. The Arbiter helpfully added that "everyone knows that goblins eat bunnies." Jerry dropped his plate in outrage: "I'm a vegetarian, Arbiter!" The Arbiter apologized, asked after Jerry's mother's bunions, and promised to make it up to him with two fantastic [[Champions|champions]]. These two were master and student who "needed to fight to the death anyway, so I figured… two birds, one stone."
 
@@ -64,7 +64,7 @@ Long dark fingers caught the other end of the lightning. Yellow eyes peered out.
 
 Chaos kept coming. The Grandmaster and the Arbiter pulled large metal chairs from behind their backs and performed a synchronized screaming swan dive. The Arbiter overdid his corkscrew barrel roll and only tapped Ahyan on the shoulder ("Not my best work"). The Grandmaster smashed Alma clean off the magnet, which zipped skyward and left a round hole in the clouds. "We recycle everything," she assured everyone. "We're very green in this place."
 
-Next, the Acolytes crowded so hard for photos "so they can put it on TikTok" that they toppled into the arena in a paparazzi storm, blinding both fighters with flashes. Ahyan was baffled: "What is a selfie? Do you want a shelf?" Gerald struck one last pose in a billowing Marilyn Monroe dress before announcing he was "gonna take that new job at this assassin's place."
+Next, the Acolytes crowded so hard for photos "so they can put it on TikTok" that they toppled into the arena in a paparazzi storm, blinding both fighters with flashes. Ahyan was baffled: "What is a selfie? Do you want a shelf?" Gerald struck one last pose in a Marilyn Monroe dress, covering himself and blushing as the box's flames blew it up, before announcing he was "gonna take that new job at this assassin's place."
 
 Blind, Alma found Ahyan by sound and blasted them back toward the edge with a gust of wind: "You should have never let me go, professor… It's like Titanic." Then they turned to the crowd, feet feeling for the drop. "Is this not the bloodshed that you've asked for? Are you not entertained?" They stubbed their big toe on a rock and played it off. Ahyan, eyes closed, used that loud pandering to aim a perfect life-draining touch from a distance. It was a devastating hit that left Alma's legs shaking.
 
@@ -84,7 +84,7 @@ Ahyan raised an old champion's spirit from the undead-filled ground beneath the 
 
 ### The Blizzard
 
-Given a turn at chaos, the Arbiter remarked, "I feel like it's a little hot out." His breath fogged and spread until it blotted out the sun, and the temple vanished into a blizzard. The Grandmaster put on a parka. Ahyan slipped on the ice. Alma teleported into the torchlit temple and taunted, "I know you never really liked snow anyway," then flooded the courtyard with sickly green radiation that left Ahyan nauseated and glowing.
+Given a turn at chaos, the Arbiter remarked, "I feel like it's a little hot out." His breath fogged and spread until it blotted out the sun, and the temple vanished into a blizzard. The Grandmaster put on a parka. Ahyan was left unsteady on the ice. Alma teleported into the torchlit temple and taunted, "I know you never really liked snow anyway," then flooded the courtyard with sickly green radiation that left Ahyan nauseated and glowing.
 
 Ahyan blinked inside behind them ("It isn't very nice to treat your elders that way") and tried to drain Alma again. Alma counterspelled, but Ahyan turned back time inside their own body to before the sickness struck and pushed the spell through, stealing Alma's life to steady themselves against the wall. The Arbiter then rolled a natural 20 ("Redeemed. I don't want to hear it. Suck it, Doug.") and was rewarded with a dollhouse-sized metal chair. He threw it like a boomerang through the temple ceiling and into Ahyan's head. "Is it raining chairs out there?" Ahyan picked it up. It was now their only weapon.
 
@@ -104,9 +104,9 @@ Ahyan returned freshly raised from the dead, which they found "a strange feeling
 
 ## Notable Moments
 
-- Ahyan swung down a rope of lightning to sacrifice their graduation dagger, and became the first champion ever to thank Gerald.
+- Ahyan swung down a rope of lightning to sacrifice their graduation dagger and, by Gerald's account, became the first person ever to thank him.
 - Gerald handed over a healing potion with his email, Gerald1972 at yahoo.com, written on it.
-- The Grandmaster and the Arbiter dove into the arena with folding metal chairs, and the Arbiter whiffed his.
+- The Grandmaster and the Arbiter dove into the arena with large metal chairs, and the Arbiter whiffed his.
 - Both champions traded the first Counterspells ever cast in the arena.
 - The Arbiter's natural 20 earned him a dollhouse chair, which he threw through the ceiling into Ahyan's head.
 - Ahyan gave Alma permission with a look, and Alma ended it with a finger-gun magic missile to the heart.

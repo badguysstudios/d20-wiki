@@ -22,7 +22,7 @@ canon_order: 122
 
 [Watch on YouTube](https://youtu.be/938InFjSDOM)
 
-When [[Thea]] and a crowd of party animals drank every last drop of booze in [[The Dread Fortress|the Dread Fortress]], she recruited three champions to restock it: **[[Frigidoom]]**, a radioactive refrigerator; **[[Bob the Barbarian]]**, a jorts-clad Florida man; and **[[The Duke]]**, a rat magician with a bottomless hat. A simple beer run to [[Emmery's Tavern]] became a drinking contest, a whodunit and a brawl with the werewolf **[[Billy]]**. It ended with the newly bonded team being told they would have to kill each other next week.
+When [[Thea]] and a crowd of party animals drank every last drop of booze in [[The Dread Fortress|the Dread Fortress]], she recruited three champions to restock it: **[[Frigidoom]]**, a radioactive refrigerator; **[[Bob the Barbarian]]**, a jorts-clad Florida man; and **[[The Duke]]**, a rat magician with a bottomless hat. A simple beer run to [[Emmery's Tavern]] became a drinking contest, a whodunit and a brawl with the werewolf **[[Billy]]**. It ended with the newly bonded team being told they would have to fight each other in next week's Deathmatch.
 
 ## The Story
 
@@ -44,7 +44,7 @@ The Grandmaster made her pitch. She offered full employment as "the sword of the
 
 ### Emmery's Tavern
 
-The Arbiter's portal let in the smell of stale peanuts, beer and musky, sweaty man. Beyond it was a hearthlit tavern with a monster skull over the fire and [[Emmery]] wiping the same spot on the bar. The tavern ceiling had somehow turned transparent, and [[The Acolytes]] stared down through it. "Finally, an audience to watch my greatness," said Bob. The Duke privately confessed he had never performed for more than three people. Bob grabbed Frigidoom's tentacle and called him "brother." It felt like jello, cold and then stinging, and left his hand smelling like dog mess.
+The Arbiter's portal let in the smell of stale peanuts, beer and musky, sweaty man. Beyond it was a hearthlit tavern with a monster skull over the fire and [[Emmery]] wiping the same spot on the bar. The tavern ceiling had somehow turned transparent, and [[The Acolytes]] stared down through it. "Finally, an audience to watch my greatness," said Bob. The Duke privately confessed he had never performed for more than three people. Bob grabbed Frigidoom's tentacle and called him "brother." It felt like jello, cold and then stinging, and left his hand smelling like dog shit.
 
 Emmery was baffled. He had just shipped the Fortress about 50 barrels of his "patented number two ale." He used sheep dung to dry the grains, though "there's hardly any shit in it." It was, he explained, "more about mouthfeel than anything." Still, he had bigger problems. His bar had been torn apart, and the town had seen missing customers, burglaries and "people straight up having their throats ripped out." If the team found the culprit, he would hand over his reserve.
 
@@ -54,7 +54,7 @@ Bob declared that this was "against the Florida man code" and asked his brothers
 
 At the bar sat a small, mangy fox with one eye scratched out. Frigidoom oozed over and gave it a grape from the living mass of Thanksgiving leftovers inside him, to use as a new eye. The grape was too small and rolled around every time the fox moved its head. The fox scoffed that none of them could keep up with it at drinking, and it offered a deal: outdrink it, and it would tell them what it saw.
 
-The toasts did not go smoothly ("To touch screens and 401ks"), but the drinking began. Frigidoom turned his ale into a boozy slushie in his ice maker. Bob downed his with a perfect roll and roared, "I am a king drinker!" The Duke had never drunk alcohol in his life, and he was soon seeing four fridges: "There's as many fridges as there are testicles." Frigidoom fumbled the final round and got hammered too. The Duke tried to steady himself by pulling a second Ratman out of his hat. That terrified the fox, which bowed, kissed the Duke's toes ("Yes, please bow before the saint of shit") and begged not to be turned into a frog. It said its attackers had seemed bald, but it had grabbed a handful of coarse gray and black hair from one of them. It handed the hair over, then fled with its lucky mug.
+The toasts did not go smoothly ("To touch screens and 401ks"), but the drinking began. Frigidoom turned his ale into a boozy slushie in his ice maker. Bob downed his with a perfect roll and roared, "I am a king drinker!" The Duke had never drunk alcohol in his life, and he was soon seeing four fridges: "There's as many fridges as there are testicles." He steadied himself on Bob's shoulder and left a little slab of shit on it. Frigidoom fumbled the final round and got hammered too. The Duke tried to steady himself by pulling a second Ratman out of his hat. That terrified the fox, which bowed, kissed the Duke's toes ("Yes, please bow before the saint of shit") and begged not to be turned into a frog. It said its attackers had seemed bald, but it had grabbed a handful of coarse gray and black hair from one of them. It handed the hair over, then fled with its lucky mug.
 
 ### Dragonborn and Every Two Weeks
 
@@ -64,7 +64,7 @@ A bigger dragonborn threatened to put his cigar out in Bob's eyeball. Bob calmly
 
 The dragonborn, including one named [[Tabitha]], had noticed a pattern. The attacks came every two weeks, the same rhythm as the visits of a regular called Billy. He was a bald old bloke with "one of those Jack Sparrow things" and long guitarist's fingernails, "but he can't play the guitar." He came whenever one of [[The Void]]'s two moons was full, and he always sat in the back party room. He was in there right now. "Oh, shit," said the Duke.
 
-The dragonborn suggested the Duke fix his mustache before meeting Billy. The Duke's rat entourage restyled it with the coarse hair, sealed with Frigidoom's hardening paste. Thea, sipping number two ale from a sippy cup, told them to deal with Billy however they liked, or someone would find poop in their shoes. "You will always have five stars in my eyes," Frigidoom told her, and he stuck his gold star on her forehead. Thea licked it and screamed, "Killing Billy!" The Duke led a conga line of rats into the back.
+The dragonborn suggested the Duke fix his mustache before meeting Billy. The Duke's rat entourage restyled it with the coarse hair, sealed with Frigidoom's hardening paste. Thea, sipping number two ale from a sippy cup, told them to deal with Billy however they liked, or they would find poop in their shoes, and she admitted she would probably be the one who pooped in them. "You will always have five stars in my eyes," Frigidoom told her, and he stuck his gold star on her forehead. Thea licked it and screamed, "Killing Billy!" The Duke led a conga line of rats into the back.
 
 ### Billy
 
@@ -74,7 +74,7 @@ The Duke's corner men splashed water in his face like a boxing trainer's crew. B
 
 The Acolytes chanted for chaos, and the see-through roof proved permeable. A flock of flying wombats swooped in and hailed down frozen, perfectly cubed poop. "I'm in my element. I embrace the shit," said the Duke. Only Billy dodged it.
 
-The Duke tried a card trick and ruined it. Next came "the one where you fucking die," a shotgun from his cloak that missed in a mutual fumble. A random katana missed too ("Better take that back to the katana store"). Pocket sand finally blinded Billy. Bob summoned his 20-foot gator Denise and threw a poisonous baby caiman into Billy's eye. Billy raked his claws across Bob's chest with "tickle fingers." Bob told him to eat shit, and Billy replied, "I already did. I drank the ale here." Frigidoom's chicken-wing morning star, ice gatling and borrowed shotgun all missed, the last because "I just realized I don't have fingers."
+The Duke tried a card trick and ruined it. Next came "the one where you fucking die," a shotgun from his cloak that missed in a mutual fumble. A random katana missed too ("Better take that back to the katana store"). Pocket sand finally blinded Billy. Bob summoned his 20-foot gator Denise and threw a small poisonous caiman into Billy's eye. Billy raked his claws across Bob's chest with "tickle fingers." Bob told him to eat shit, and Billy replied, "I already did. I drank the ale here." Frigidoom's chicken-wing morning star, ice gatling and borrowed shotgun all missed, the last because "I just realized I don't have fingers."
 
 ### Behold, the Light
 

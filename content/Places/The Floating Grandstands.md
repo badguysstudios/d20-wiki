@@ -12,7 +12,7 @@ tags:
 - place
 ---
 
-The **Floating Grandstands** are where [[The Acolytes]] watch the Deathmatches. They hover above whatever battlefield the arena has become that week: a generator, an asteroid, a tavern with its roof missing. The crowd in them is enormous, rowdy and rarely sober. Whatever happens on the field, the grandstands can be counted on to answer with noise, popcorn and violence of their own.
+The **Floating Grandstands** are where [[The Acolytes]] watch the Deathmatches. They hover above whatever battlefield the arena has become that week: a generator, an asteroid, a tavern whose ceiling has turned transparent. The crowd in them is enormous, rowdy and rarely sober. Whatever happens on the field, the grandstands can be counted on to answer with noise, popcorn and violence of their own.
 
 ## Description
 

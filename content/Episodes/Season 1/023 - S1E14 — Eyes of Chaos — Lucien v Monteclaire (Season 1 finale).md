@@ -4,14 +4,14 @@ type: episode
 episode_code: S1E14
 arc: Season 1
 champions:
-- Lucien Braque
+- Lucien Brack
 - Monteclaire Dufresne
 played_by:
-- 'Lucien Braque: Timothiusthegr8'
+- 'Lucien Brack: Timothiusthegr8'
 - 'Monteclaire Dufresne: theshortnord'
 winner: Shared victory
 arena: The Grand Coliseum of the Dread Fortress, at night
-summary: An army led by a Tarrasque attacked the Dread Fortress and cut short the duel between Lucien Braque and Monteclaire Dufresne, so the two champions fought the invaders side by side and shared the victory. The Tarrasque swallowed the Arbiter alive and carried him away.
+summary: An army and a Tarrasque attacked the Dread Fortress and cut short the duel between Lucien Brack and Monteclaire Dufresne, so the two champions fought the invaders side by side and shared the victory. The Tarrasque swallowed the Arbiter alive and carried him away.
 tags:
 - episode
 youtube: https://youtu.be/_d7lIknz0n4
@@ -20,7 +20,7 @@ canon_order: 23
 
 [Watch on YouTube](https://youtu.be/_d7lIknz0n4)
 
-For the Season 1 finale, [[Grandmaster Elusia Skypiercer|the Grandmaster]] skipped the far-off realms and held the fight at home, in [[The Grand Coliseum]] of [[The Dread Fortress]] under the night sky. The silver-tongued half-orc bard **[[Lucien|Lucien Braque]]** faced the ninety-three-year-old disgraced lord **[[Monteclaire Dufresne]]** in a duel full of balloon swords, sentient pebbles and one very unwelcome song. Then the western wall exploded, a Tarrasque came through it, and the Deathmatch became a war for the Fortress itself. It ended with a turkey dragon, a promise of revenge, and [[The Arbiter]] in the jaws of a monster.
+For the Season 1 finale, [[Grandmaster Elusia Skypiercer|the Grandmaster]] skipped the far-off realms and held the fight at home, in [[The Grand Coliseum]] of [[The Dread Fortress]] under the night sky. The silver-tongued half-orc bard **[[Lucien Brack]]** faced the ninety-three-year-old disgraced lord **[[Monteclaire Dufresne]]** in a duel full of balloon swords, sentient pebbles and one very unwelcome song. Then the western wall exploded, a Tarrasque came through it, and the Deathmatch became a war for the Fortress itself. It ended with a turkey dragon, a promise to rebuild, and [[The Arbiter]] in the jaws of a monster.
 
 ## The Story
 
@@ -52,7 +52,7 @@ Lucien then dragged his sword across his shield in a shower of sparks, and a sec
 
 The first chaos event came down through the stands as a woman with bright blue hair and sapphire skin, trailing the longest train anyone had ever seen. Her soft song seeped into the champions' minds. Monteclaire shook it off, but Lucien froze in place, held still by its beauty. The song turned out to be "I'm blue, da ba dee da ba die." Monteclaire was horrified: "My God, why? Not this. Take my ears, but not this." The Grandmaster banished the singer, partly because the arena already had music and partly because "we don't have the copyrights to that song."
 
-Monteclaire, a self-described "paladin of retribution," made full use of his frozen opponent. He stabbed Lucien, offered him a hand up, and then punched him in the face: "this is what we call a southern discomfort." But a frozen body did not stop a working mind. Lucien's floating sword kept slashing at Monteclaire on its own, and the old man grumbled that he preferred to do his own stabbing. "It's called delegation," said the Grandmaster. "It's a sign of leadership." Eventually the song crawled out of Lucien's ear as a little blue worm, a literal ear worm.
+Monteclaire, a self-described "paladin of retribution," made full use of his frozen opponent. He stabbed Lucien, offered him a hand up, and then punched him in the face: "this is what we call a southern discomfort." But a frozen body did not stop a working mind. Lucien's floating sword kept slashing at Monteclaire at his mental command, and the old man grumbled that he preferred to do his own stabbing. "It's called delegation," said the Grandmaster. "It's a sign of leadership." Eventually the song crawled out of Lucien's ear as a little blue worm, a literal ear worm.
 
 The Acolytes cheered loudly enough to set off a second chaos event. A small clown at the edge of the arena, pretending to hide his magic, turned every blade into a brightly colored balloon weapon, Lucien's magic sword included. When Monteclaire told the clown he was "just annoying, sir," the clown angrily twisted him a middle-finger balloon. The Arbiter was delighted: "Finally, Grandmaster, a clown with some attitude."
 
@@ -60,23 +60,23 @@ The Acolytes cheered loudly enough to set off a second chaos event. A small clow
 
 "First, the voice that paralyzed me. Now a clown in the corner. It's almost like my ex-wife showed up twice." Lucien brought ten rocks around Monteclaire to life. The pebbles rose, shaking with their newfound sense of identity, turned to look at their creator, and then pummeled the old man while shrieking in tiny voices. Monteclaire smashed one with his balloon rapier, which promptly popped. The Grandmaster's verdict: "He used the cheap balloons. We don't pay him a whole lot." Meanwhile Lucien sent his spectral sword strutting toward Monteclaire like a wrestler coming down the aisle, until everyone realized it had quietly blinked out of existence when he woke the rocks. "If you're gonna cheat in my game," the Arbiter said, "be better at it."
 
-Lucien dedicated his coming victory to an Acolyte named Emu, and the roaring stands blessed both champions. When Monteclaire tried to blink away from the rocks, Lucien talked that spell down too: "The Grandmaster does not like chickens." (She agreed, and added that she didn't like turkeys either.) So Monteclaire charged instead. He lost his footing and slid all the way up to Lucien, ending on his knees in front of him. "They call this the halfling power slide." He looked up and asked, "Well, I'm here. What do you want to do with me?" Lucien declined, very politely, and rescinded "any consent you might think has been passed through between us."
+Lucien dedicated his coming victory to an Acolyte named Emu, and the roaring stands blessed both champions. When Monteclaire tried to blink away from the rocks, Lucien talked that spell down too: "The Grandmaster does not like chickens." (She agreed, and added that she didn't like turkeys either.) So Monteclaire charged instead. He lost his footing and slid all the way up to Lucien, ending on his knees in front of him. "They call this the halfling power slide." The Grandmaster asked, "Supplication?" and the Arbiter suggested he had possibly lost control of his bowels too. Monteclaire looked up and asked, "Well, I'm here. What do you want to do with me?" Lucien declined, very politely, and rescinded "any consent you might think has been passed through between us."
 
-The nine surviving rocks then hit from every direction. "They will speak of your sacrifice," Lucien said, as the old man knelt in the sand getting bloodier by the second. Lucien's balloon longsword finally popped on the spikes of Monteclaire's shoulder armor. Then Doug began barking frantically, because someone was at the front door. The Grandmaster let him go and check on his own.
+The nine surviving rocks then swarmed him, and six of them hit from every direction. "They will speak of your sacrifice," Lucien said, as the old man knelt in the sand getting bloodier by the second. Lucien's balloon longsword finally popped on the spikes of Monteclaire's shoulder armor. Then Doug began barking frantically, because someone was at the front door. The Grandmaster let him go and check on his own.
 
 ### The Walls Come Down
 
-When the fight resumed, nobody knew where Doug was. The Grandmaster had assumed the Arbiter was watching him, and the Arbiter had assumed the same of her. Monteclaire got back on his feet with his real longsword, no longer a balloon, and hit Lucien with a thunderous blow that threw him ten feet into the sand. "I hope you made a will, because you're about to go down, son." The rocks, which the table had started calling NSYNC and the Backstreet Boys ("except for JC. He's gone"), kept circling. The two men traded rare compliments, and Lucien promised a sonnet about Monteclaire's "glorious first two rounds."
+When the fight resumed, nobody knew where Doug was. The Grandmaster asked after him; the Arbiter had assumed she was watching him, though she had let him check the door alone. Monteclaire got back on his feet with his real longsword, no longer a balloon, and hit Lucien with a thunderous blow that threw him ten feet into the sand. "I hope you made a will, because you're about to go down, son." The rocks, which the table had started calling NSYNC and the Backstreet Boys ("except for JC. He's gone"), kept circling. The two men traded rare compliments, and Lucien promised a sonnet about Monteclaire's "glorious first two rounds."
 
-Then the crowd went silent and stared past the walls. A low rumble followed. **The western wall of the Coliseum blew apart as a Tarrasque smashed through**, and hundreds of soldiers of every shape poured into the arena and the stands. Goblins ripped Outbound Emu in half, Shady Man lost a limb, and Kristen took fireballs to the face. **The Arbiter teleported in front of the Tarrasque, shouted "No further!" and held it in place with his time magic.** He begged the Grandmaster to run.
+Then the crowd went silent and stared past the walls. A low rumble followed. **The western wall of the Coliseum blew apart as a Tarrasque smashed through**, and dozens, if not hundreds, of soldiers of every shape poured into the arena and the stands. Goblins ripped Outbound Emu in half, Shady Man lost a limb, and Kristen took fireballs to the face. **The Arbiter teleported in front of the Tarrasque, shouted "No further!" and held it in place with his time magic.** He begged the Grandmaster to run.
 
 She refused. "I will not leave my arena. Sound the bells, ring them so that all may know the Dread Fortress is under attack." She called on her Acolytes to defend their seats and asked the champions to defend "the place I call home." She gave them two sparkling purple vials that restored them completely and pulled their lost weapons up out of the sand. From a mound of sand rose a large pink chest ringed in magical fire: **[[The Box of Chaos]]**, a secret gift of the arena. Every kill earned blood points, and blood points opened the box. Then she went to the Northern Gate to fetch "one more for this battle," only to find it bound with locks. "Arbiter, what locks have you put on this?" He was too busy holding back a Tarrasque to help. Doug came flying into the arena and planted himself at the Southern Gate, barking at the next wave.
 
 ### Horde
 
-The first wave was a bird-man Dogmaster and his two-headed death dogs. "Bring it on, bird boy," Monteclaire said, taking its javelin, and he clobbered the first dog away from his heels. Lucien told the dogs their brains, "while you have two, are the size of puppies," and wiped out all three with a single psychic blast. He walked through the fire to the box ("He touched the butt. I'm gonna go touch the butt") and came out with Keoghtom's Ointment, a healing jar that smelled of aloe. The rivals had become a team. Lucien cheered Monteclaire on ("I felt the bite of your pointy end"), and Monteclaire answered with a blessing for both of them. Burning trebuchet stones crashed into the arena and the stands, crushing an Acolyte named Gator and setting him alight. When the Dogmaster dive-bombed Monteclaire, Lucien's blazing sword split it down the middle, beak and all. "Wings are such an unfair advantage."
+The first wave was a bird-man Dogmaster and his two-headed death dogs. "Bring it on, bird boy," Monteclaire said, taking its javelin, and he clobbered the first dog away from his heels. Lucien told the dogs their brains, "while you have two, are the size of puppies," and wiped out all three with a single psychic blast. He walked through the fire to the box ("He touched the butt. I'm gonna go touch the butt") and came out with Keoghtom's Ointment, a healing jar that smelled of aloe. The rivals had become a team. Lucien cheered Monteclaire on ("I felt the bite of your pointy end"), and Monteclaire answered with a blessing for both of them. Burning trebuchet stones crashed into the arena and the stands ("I'm assuming they're rocks… Manure's also flammable"), crushing an Acolyte named Gator and setting him alight. When the Dogmaster dive-bombed Monteclaire, Lucien's blazing sword split it down the middle, beak and all. "Wings are such an unfair advantage."
 
-The second wave was a doppelganger, a flameskull and a red dragon wyrmling. The doppelganger took Lucien's face, which he found offensive: "A lot of energy, a lot of money, a lot of doctors. I'm not gonna just allow you to take my branding." The fire ring around the box began to pulse outward like a skipping rope. Monteclaire barked a command that left the doppelganger grovelling and the flameskull stuck in place ("Good luck with that pulsating fire, idiots"). The wyrmling's breath missed both champions and burned only its own allies, and the next pulse of the ring cracked the flameskull into dust. Lucien then rolled his worst possible attempt, tripped and fell on his own blade. He opened his other pocket, where "everyone loves you" was stitched, and the whole arena briefly stopped fighting to chant back at him: "You're a delight. People like you."
+The second wave was a doppelganger, a flameskull and a red dragon wyrmling. The doppelganger took Lucien's face, which he found offensive: "A lot of energy, a lot of money, a lot of doctors. I'm not gonna just allow you to take my branding." The fire ring around the box began to pulse outward like a skipping rope. Monteclaire barked a command that left the doppelganger grovelling and the flameskull stuck in place ("Good luck with that pulsating fire, idiots"). The wyrmling's breath left both champions unscathed and burned only its own allies, and the next pulse of the ring cracked the flameskull into dust. Lucien then rolled his worst possible attempt, tripped and fell on his own blade. He opened his other pocket, where "everyone loves you" was stitched, and the whole arena briefly stopped fighting to chant back at him: "You're a delight. People like you."
 
 Monteclaire took the doppelganger off at the knees, so for a moment it looked like Lucien kneeling before him ("now this is what I was imagining happening earlier"), and then stabbed it through the throat. He tossed his blood points to Lucien as little red gems. Lucien's next trip to the box produced a Mace of Smiting. A horned devil arrived, which Monteclaire greeted with "Hey, Big Horn Daddy, you're next." It laughed off Lucien's first attempt to hold it. On the second try, with the Acolytes lending him their strength, the devil froze in place.
 
@@ -97,8 +97,8 @@ The Grandmaster sank to the ground and put out the box's fire with a wave. The t
 Shaking and holding back tears, she raised both champions' hands to the sky. She promised to rebuild and to remember the fallen, and she promised that Season 2 would make anyone who dared challenge the Dread Fortress do so with caution: "Their boots will shake."
 
 ## Notable Moments
-- Lucien won the "who can talk a spell out of existence" contest twice, once with a premature-performance warning and once by calling Monteclaire a chicken.
-- The Grandmaster had the Arbiter's mage hands sew "I am a delight. People like me" into her clothes. By the end, the whole arena was chanting it.
+- Lucien won the "who can talk a spell out of existence" contest twice, once by warning Monteclaire he would "blow your load way too soon" and once by calling Monteclaire a chicken.
+- The Grandmaster had the Arbiter's mage hands sew "I am a delight. People like me" into her clothes. Mid-battle, the Acolytes chanted "You're a delight. People like you" back at Lucien.
 - The "halfling power slide" left the ninety-three-year-old on his knees in front of his opponent, making an offer that was politely declined.
 - A Tarrasque broke through the Coliseum wall, and the Arbiter held it with time magic for the entire battle before it swallowed him alive.
 - Doug held the Southern Gate alone against a horde.
@@ -106,9 +106,9 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 
 ## Memorable Quotes
 - **Monteclaire Dufresne:** "He's got the gift of the gab, but I got the gift of the stab."
-- **Lucien Braque:** "First, the voice that paralyzed me. Now a clown in the corner. It's almost like my ex-wife showed up twice."
+- **Lucien Brack:** "First, the voice that paralyzed me. Now a clown in the corner. It's almost like my ex-wife showed up twice."
 - **The Arbiter:** "Hey, if you're gonna cheat in my game, be better at it."
-- **Lucien Braque:** "While I appreciate the offer, I will have to politely decline and rescind any consent you might think has been passed through between us."
+- **Lucien Brack:** "While I appreciate the offer, I will have to politely decline and rescind any consent you might think has been passed through between us."
 - **Grandmaster Elusia Skypiercer:** "Never before have I asked you to step into the arena, but the arena has now reached out to you. You must defend your seats."
 - **Monteclaire Dufresne:** "If you're going to be anything, be efficient. And son, you are efficient at killing."
 - **Grandmaster Elusia Skypiercer:** "I have made a monster in which that I fear as well. I took a note from Batman's page."
@@ -116,7 +116,7 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 
 ## Who and What Appears
 ### Characters
-**[[Characters/Lucien|Lucien Braque]]** (Timothiusthegr8)
+**[[Characters/Lucien Brack|Lucien Brack]]** (Timothiusthegr8)
 - **Look:** a greenish, very tall half-orc with a swimmer's body and a stiff pompadour.
 - **Style:** calls himself "the wordsmith of kings and queens, the narrator of the nether realms, the orator of the oracles." Obsessed with his "branding." His look took "a lot of money, a lot of doctors."
 - **Personal:** has an ex-wife (a running joke).
@@ -205,7 +205,7 @@ Shaking and holding back tears, she raised both champions' hands to the sky. She
 > 3. **0:01:46 — Doug the Pug.** Beside her big throne is **a much smaller, adorable throne where Doug the Pug sits**.
 >    - Told it's the season's final show, Doug perks his ears. "It takes his entire body to bark."
 >    - **The Grandmaster slips and nearly calls the Arbiter "Grandmaster."** "Maybe I am giving my throne up to you… Never, no."
-> 4. **0:02:39 — The champions.** The Arbiter opens a portal and introduces them "for the pleasure of your looking balls": **Lucien Braque versus Monteclaire Dufresne**.
+> 4. **0:02:39 — The champions.** The Arbiter opens a portal and introduces them "for the pleasure of your looking balls": **Lucien Brack versus Monteclaire Dufresne**.
 > 5. **0:03:13 — Lucien's entrance.** Lucien is a **somewhat greenish half-orc**: super tall, with "the direct swimmer's body" and a **stiff pompadour**.
 >    - He bows with his forehead almost to the ground: "I am **the wordsmith of kings and queens, the narrator of the nether realms, the orator of the oracles**, and I am blessed by your presence."
 >    - The Arbiter: "Flattery will get you a lot of places here in the Dread Fortress." The Grandmaster adds her own welcome.

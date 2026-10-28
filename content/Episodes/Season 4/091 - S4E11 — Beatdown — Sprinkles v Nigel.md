@@ -20,7 +20,7 @@ canon_order: 91
 
 [Watch on YouTube](https://youtu.be/ldt8ZSVPtDA)
 
-A gentle halfling waiter who wanted to win with the power of friendship faced a changeling method actor who wanted to win an Oscar. **[[Sprinkles]]** and **[[Nigel Night Louis]]** met in a dead, glowing forest. What followed involved zombie grandmothers, a face fed to [[The Box of Chaos]] and a nine-headed demon of hatred defeated by tap dancing. In the end the battle moved inside Nigel's own body, and nobody walked out.
+A gentle halfling waiter who wanted to win with the power of friendship faced a changeling method actor who wanted to win an Oscar. **[[Sprinkles]]** and **[[Nigel Night Louis]]** met in a dead, glowing forest. What followed involved zombie grandmothers, a face fed to [[The Box of Chaos]] and a nine-headed demon of hatred charmed by the Footloose dance. In the end the battle moved inside Nigel's own body, and nobody walked out.
 
 ## The Story
 
@@ -48,7 +48,7 @@ Sprinkles walked in slowly for a hug. Nigel grabbed him by the face to stop it, 
 
 ### Truth and the Dark Passenger
 
-She was not handling it well. When Sprinkles offered her a hug, she unloaded. She would rather shove the Shadow King's face down a trash can, run it over with a lawnmower, grind it into sausage, feed it to Doug and throw what came out over a waterfall. "Elusia, I'm really proud of you," said the Shadow King. She scooted her chair away from him, loudly, inch by inch.
+She was not handling it well. When Sprinkles offered her a hug, she unloaded. She would rather shove the Shadow King's face down a trash can, run it over with a lawnmower, grind it into sausage, feed it to Doug, squish what Doug pooped out and throw him over a waterfall. "Elusia, I'm really proud of you," said the Shadow King. She scooted her chair away from him, loudly, inch by inch.
 
 Nigel magically urged Sprinkles to hit him and even lay down on the ground to help. Sprinkles rolled a 1 and a 2, and the Acolytes booed. He smacked his own head, muttering "No, not yet," and admitted that the voice in his head was the friend who'd made the bet. He finally landed a single feeble punch and panicked. The Grandmaster threw him a can of bubbly, which dented both the can and the halfling.
 
@@ -58,7 +58,7 @@ Then Nigel brought out his Tony Award, sang from the musical about Britney Spear
 
 The cheering Acolytes set off a chaos event. Skeletons clawed out of the dead earth, well armed but wearing sweet old-lady dresses and carrying purses full of Werther's. "Meemaw meemaws for days!" cried the Grandmaster. Sprinkles gave one last warning: "Do you really want to meet the Dark Passenger?" Nigel did.
 
-Sprinkles closed his eyes and opened them on demonic flame. His bones cracked, his body stretched, his jaw dropped, and knife-like claws pushed out of his fingertips. "Finally, now it's time for bloodshed." The first slash was a natural 20, and Nigel only escaped by shifting his face out of the way. Nigel grappled the creature and shoved it face-first into a grandma zombie named Gertrude, whose kiss was corrosive. Then he clubbed it with his Teen Choice Award, which made a sound like the SpongeBob surfboard. The Dark Passenger answered with a frenzy of claws and another natural 20, and the rage rippled into Nigel's mind. Wedged cheek to cheek among the meemaws, both champions received a surge of power from the grandmothers, a gift from the Acolytes passed on through "a re-gifting process."
+Sprinkles closed his eyes and opened them on demonic flame. His bones cracked, his body stretched, his jaw dropped, and knife-like claws pushed out of his fingertips. "Finally, now it's time for bloodshed." The first slash was a natural 20, and Nigel only escaped by shifting his face out of the way. Nigel grappled the creature and shoved it face-first into a grandma zombie named Gertrude, who licked its face and pressed the inside of her mouth onto it with her corrosive breath. Then he clubbed it with his Teen Choice Award, which made a sound like the SpongeBob surfboard. The Dark Passenger answered with a frenzy of claws and another natural 20, and the rage rippled into Nigel's mind. Wedged cheek to cheek among the meemaws, both champions received a surge of power from the grandmothers, a gift from the Acolytes passed on through "a re-gifting process."
 
 ### Face Off
 
@@ -76,7 +76,7 @@ Nigel decided he had to be the villain so his nemesis could be the hero. "All th
 
 Then the Dark Passenger gave its true name: **[[Melchizedek]], the Dark One**, come "to find a more suitable host." Melchizedek used the face-cloak to seal itself inside Nigel's occupied corpse. "I want a new home!" The arena changed. The fight now took place inside Nigel's body, spirit against spirit, for ownership of it. Sprinkles' abandoned body was left wandering outside: "Oh, gee, what the heck is going on, guys?"
 
-Inside, Nigel's essence appeared as a bright-eyed little Newsie, a schoolboy who had just done his first musical and been told for the first time that he was worth something. Melchizedek's true form was a nine-headed dragon-snake. It froze the boy in mid box step. Then a chaos surge arrived: the Chinese food Nigel had eaten earlier "isn't meant to sustain both of you," and an avalanche of acidic vomit swept both spirits to opposite shoulders. As the narration put it, the only true Nigel left was Nigel the Goblin, still riding in the baby carrier on the corpse's back.
+Melchizedek's first move was to threaten the body's bladder: "I'm gonna make Nigel piss. It's gonna smell like asparagus!" Inside, Nigel's essence appeared as a bright-eyed little Newsie, a schoolboy who had just done his first musical and been told for the first time that he was worth something. Melchizedek's true form was a nine-headed dragon-snake. It froze the boy in mid box step. Then a chaos surge arrived: the Chinese food Nigel had eaten earlier "isn't meant to sustain both of you," and an avalanche of chunky vomit and acid swept both spirits to opposite shoulders. As the narration put it, the only true Nigel left was Nigel the Goblin, still riding in the baby carrier on the corpse's back.
 
 ### Footloose
 
@@ -86,7 +86,7 @@ Charmed or not, Melchizedek beat the boy with an Emmy and a SAG award, "awards y
 
 ### The Final Blow
 
-The child picked up a broken bone from his own corpse and imagined it was an Oscar. "You see, kid, don't lose your passion. We're all gonna kill our demons, but unfortunately, my demon is my own." He stabbed Melchizedek in the heart three times, "almost like killing myself… ego death style." Then he lay down and watched an imagined Oscar acceptance speech as he faded. Melchizedek's last thought was that it had been an unfulfilling existence: "hurt people hurt people."
+"You see, kid, don't lose your passion. We're all gonna kill our demons, but unfortunately, my demon is my own," the child told Sprinkles. Then he picked up a broken bone from his own corpse and imagined it was an Oscar. He stabbed Melchizedek in the heart three times, "almost like killing myself… ego death style." Then he lay down and watched an imagined Oscar acceptance speech as he faded. Melchizedek's last thought was that it had been an unfulfilling existence: "hurt people hurt people."
 
 The Grandmaster raised her goblet to the champions for taking ownership of an identity and claiming it as their own. "Shadow King, are you not entertained?" He admitted it was "a very satisfying ending, in fact," and said it deserved an award. Then he raised a hand, and green slime rained from the heavens until it filled the arena. Nigel and Sprinkles, both still lying there, drowned in it. There was no winner.
 
@@ -96,12 +96,12 @@ Sprinkles' parting words were about the darkness inside: it's okay to have it, a
 
 ## Notable Moments
 
-- The Shadow King revealed, mid-match, that the Grandmaster's mother was his sister-in-law, and she spiraled into a rant about feeding his face to Doug.
+- The Shadow King revealed, mid-match, that the Grandmaster's mother was his sister-in-law, and she spiraled into a rant about feeding his face to Doug and squishing what Doug pooped out.
 - An Acolyte named Majestic Wolf was fired from a shadow bow into the Box of Chaos to power it.
 - The Box of Chaos took Nigel's face, then his whole body, and a cat wandered in wearing that face.
 - The Grandmaster invented "Nick Cage damage," and nobody is immune.
 - The grandma zombies beat the Shadow King with their purses and were flung into the sky.
-- A nine-headed demon of hatred was charmed by the Footloose dance, took up yodeling and was killed by a child holding an imaginary Oscar.
+- A nine-headed demon of hatred was charmed by the Footloose dance, took up yodeling and was killed by a child wielding a bone he imagined was an Oscar.
 
 ## Memorable Quotes
 

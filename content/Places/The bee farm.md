@@ -3,7 +3,6 @@ title: The bee farm
 type: place
 aka:
 - The Bee Farm
-region: The Void, run by the Dread Fortress
 first_appearance: S2E9 — Bees — Rosa v Veronica
 summary: The Grandmaster's bee farm, founded when she hired the champions Rosa and Veronica as her bee farmers, and the source of the honey in the Dread Fortress's honey mead.
 aliases:
@@ -12,11 +11,11 @@ tags:
 - place
 ---
 
-**The bee farm** is the Grandmaster's venture into "nature philanthropic efforts": an apiary staffed by two former champions who walked out of the arena and straight into a new career. It supplies the honey for the [[The Dread Fortress|Dread Fortress]]'s honey mead. It is also where a woman who forgot she once loved a box now lives and works, and where at least one of its keepers is nursing a grudge.
+**The bee farm** is the Grandmaster's venture into "nature philanthropic efforts": an apiary staffed by two former champions who walked out of the arena and straight into a new career. It supplies the honey for the [[The Dread Fortress|Dread Fortress]]'s honey mead. It is also where a woman who forgot she once loved a box now works, and where at least one of its keepers is nursing a grudge.
 
 ## Description
 
-The farm has never been shown, so nobody knows exactly where it sits or what it looks like. What is known is that it keeps bees and makes honey. That honey goes into the Fortress's honey mead, and the Grandmaster recommends it for allergies, since local honey is good for them.
+No one has described where the farm sits or what it looks like. What is known is that it keeps bees and makes honey. That honey goes into the Fortress's honey mead, and the Grandmaster recommends it for allergies, since local honey is good for them.
 
 Even the job title caused a debate. [[Veronica]] preferred "apiarist." [[The Arbiter]] offered "beekeeper" and then explained the trade his own way:
 
@@ -32,7 +31,7 @@ The farm began at the end of the Deathmatch between [[Rosa]] and Veronica. Both 
 
 > **The Grandmaster:** "Here in the Dread Fortress, we look for personality. We look for fit. I've been wanting to expand my nature philanthropic efforts. Perhaps the two of you can start my bee farm."
 
-Rosa took it at once: "I would love to be your bee farmer." Veronica shrugged and agreed: "I have nothing else going on… Also, [[The Box of Chaos|Gerald]]'s here."
+Rosa took it gladly: "I would love to be your bee farmer." Veronica agreed too: "I have nothing else going on… Also, [[The Box of Chaos|Gerald]]'s here."
 
 The Arbiter made sure that last reason did not last. His eyes glowed with a faint silver shimmer, and Veronica saw her memories of Gerald one last time: the two of them running on the sands in slow motion, the touch of hands, "all the good times with Gerald over the last, you know, hour or so." Then the memories faded, and so did the tattoo of Gerald's name. He left her just enough to know that he had taken something from her. His parting words were "I'll see you around the bee farm," and he shot off into the sky on his wings. Rosa was indignant that he had left "with no see you on the bee farm." Veronica only said, "Mic drop!"
 
@@ -40,7 +39,7 @@ The Grandmaster closed the show by presenting "our champions turned bee farmers"
 
 ### Filicide (S2E10)
 
-The farm came up again during the Deathmatch between [[Glassy]] and [[Thornabub]], in [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]]. The Arbiter mentioned Gerald's lost love in passing. "He had a girlfriend," he explained. "She was in the Deathmatch a little while back. She rubbed me the wrong way." He added, "She works on our bee farm now, but I modified her memory so she doesn't remember him." His only explanation was that he "didn't care for the way that she talked to me."
+The farm came up again in Dried Blood after the Deathmatch between [[Glassy]] and [[Thornabub]], in [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]]. The Arbiter mentioned Gerald's lost love in passing. "He had a girlfriend," he explained. "She was in the Deathmatch a little while back. She rubbed me the wrong way." He added, "She works on our bee farm now, but I modified her memory so she doesn't remember him." His only explanation was that he "didn't care for the way that she talked to me."
 
 ### Pub Brawl (S2E16)
 
@@ -52,10 +51,10 @@ When the Arbiter blew a portal through the wall to begin [[Episodes/Battle for t
 
 ## Notable Figures
 
-- [[Veronica]]: one of the two founding bee farmers, whose memories of Gerald the Arbiter wiped. She calls the farm her "villain origin story."
+- [[Veronica]]: one of the two founding bee farmers, whose memories of Gerald the Arbiter wiped. She calls what happened to her a "villain origin story."
 - [[Rosa]]: the other founding bee farmer, who took the job gladly.
 - [[Grandmaster Elusia Skypiercer]]: owner and founder of the farm, and its keenest advocate.
-- [[The Arbiter]]: serves the farm's honey at the Fortress and stole Veronica's memories there.
+- [[The Arbiter]]: serves the farm's honey at the Fortress and stole Veronica's memories of Gerald.
 - [[The Box of Chaos|Gerald]]: Veronica's forgotten love.
 
 ## Appearances

@@ -20,13 +20,13 @@ canon_order: 128
 
 [Watch on YouTube](https://youtu.be/oXvECQhgc4w)
 
-A sweltering live crowd watched **[[Lief Tover]]**, a self-made king of the garbage dump, face **Sheriff Tapatio S. Picante**, a gunless lawman who rode a chicken named Clucky Cheese. They fought in what [[Grandmaster Elusia Skypiercer|the Grandmaster]] declared were "the deep, dark jungles of Florida." The audience did much of the dice-throwing, and that turned out to be fatal. The Sheriff deputized half the crowd and lost his chicken early. In the end he was undone by his own posse's terrible luck.
+A sweltering live crowd watched **[[Lief Tover]]**, a champion from the deepest depths of a garbage dump, face **Sheriff Tapatio S. Picante**, a gunless lawman who rode a chicken named Clucky Cheese. They fought in what [[Grandmaster Elusia Skypiercer|the Grandmaster]] declared were "the deep, dark jungles of Florida." The audience did much of the dice-throwing, and that turned out to be fatal. The Sheriff deputized half the crowd and lost his chicken early. In the end he was undone by his own posse's terrible luck.
 
 ## The Story
 
 ### Before the Fight
 
-The night opened deep in the halls of [[The Dread Fortress]], in its subterranean lava field. [[The Arbiter]] came clacking down the corridors in his Italian leather boots and doing the sound effect himself ("I'm not good at sounds"), looking for the Grandmaster. She had no idea she was needed anywhere. She asked whether she could use her indoor voice again. Then she saw the crowd, and her mood lifted. She looked over [[The Acolytes]], let one of them stay, and announced that she only wanted people "ready for blood." The crowd answered with the old call: "Blood! Violence! Chaos!"
+The night opened deep in the halls of [[The Dread Fortress]], in its subterranean lava field. [[The Arbiter]] came clacking down the corridors in his Italian leather boots, doing the sound effect himself ("I'm not good at sounds"), looking for the Grandmaster. She had no idea she was needed anywhere. She asked whether she could use her indoor voice again. Then she saw the crowd, and her mood lifted. She looked over [[The Acolytes]], let one of them stay, and announced that she only wanted people "ready for blood." The crowd answered with the old call: "Blood! Violence! Chaos!"
 
 The Arbiter introduced her as "she who shattered [[The Shadow King]], to she who pierces the sky." She returned the favor in her own way:
 
@@ -38,7 +38,7 @@ His "very, very big, thick muscles" bulged and crackled. Someone in the crowd as
 
 ### Trash Man and the Law
 
-The grudge was already old. The Sheriff had come to collect a bounty on the "Trash Viking," whom he accused of "cheating ways of bingo." Lief Tover said he knew garbage when he saw it, and that was all he saw in the Sheriff. Then he turned his attention to the Sheriff's chicken. "Clucky cheese? That's an adorable name," he said. "Too bad he has to die."
+The grudge was already old. The Sheriff had come to collect a bounty on the "Trash Viking," whom he accused of "cheating ways of bingo." Lief Tover said he was quite familiar with garbage, and that was all he saw. The Sheriff warned him not to talk about Clucky Cheese like that, and Lief Tover turned his attention to the chicken. "Clucky cheese? That's an adorable name," he said. "Too bad he has to die."
 
 The Sheriff introduced himself as "Sheriff Tapatio Espicante." He called on everyone in the crowd wearing a badge to help him capture the criminal who had disrespected his darling Clucky Cheese. He came unarmed: "Unfortunately, due to standards, the government took my guns!" He mimed them instead, complete with sound effects.
 
@@ -48,37 +48,37 @@ The Grandmaster rose on giant white wings, and the Arbiter rushed to describe ho
 
 ### Diapers, Chickens and Bad Luck
 
-Lief Tover struck first with a poisoned explosive packed with a month's worth of used diapers. He admitted he couldn't read the label. The thrown die hit an audience member, and the Arbiter reminded everyone that "We don't have medical insurance." The Sheriff sidestepped the bomb with frontier grit learned in Tallahassee. He dodged Lief Tover's trash bag too, because Clucky Cheese, who wears Converse, "can outmaneuver you any day of the week."
+Lief Tover struck first with a poisoned explosive packed with a month's worth of used diapers. He admitted he couldn't read. The thrown die hit an audience member, and the Arbiter reminded everyone that "We don't have medical insurance." The Sheriff sidestepped the bomb with frontier grit learned in Tallahassee. He dodged Lief Tover's trash bag too, because Clucky Cheese, who wears Converse, "can outmaneuver you any day of the week." The Grandmaster, amazed at those tiny chicken legs, asked permission for an inappropriate joke: "He knows how to ride that cock well."
 
-The Sheriff answered with shots that landed. A crowd member called the Unicorn granted Lief Tover a second chance against one of them, though he still couldn't avoid the hit. Then the Sheriff tried to kneecap him. The Grandmaster pulled her struggling champion aside and had the crowd surround him chanting "Do better." An Acolyte screamed as she threw the die for him and rolled a natural 20. The kneecap failed, and Lief Tover came back stronger. "That's how you do better," said the Grandmaster.
+The Sheriff answered with shots that landed. A crowd member called the Unicorn granted Lief Tover a second chance against one of them, though he still couldn't avoid the hit. Then the Sheriff tried to kneecap him. The Grandmaster pulled her struggling champion aside and had the crowd surround him chanting "Do better." An Acolyte she picked screamed while throwing the die for him and rolled a natural 20. The kneecap failed, and Lief Tover came back stronger. "That's how you do better," said the Grandmaster.
 
 The second round turned dark for the Sheriff. One of his deputies rolled a natural 1 and was thrown off the stage, and the Sheriff blamed himself: "I got someone who didn't have a hat." Then Lief Tover went for the chicken. "How are you gonna have a chicken with only one eye now?" he asked, and soon **Clucky Cheese was dead**. "You killed his chicken," the Grandmaster mourned.
 
 The trash man had bad luck of his own. He crushed a soda can into a bullet-speed pellet ("I don't need a gun") and fumbled it. He took it with style: "I don't look at explosions. I am the explosion."
 
-The Sheriff asked for a grave. He brought his "Epic content posse" on stage to pass the die from hand to hand, and the result was another natural 1. The Arbiter explained the rule that would decide the night: **five natural 1s means death**. The grieving Sheriff then picked up the dead chicken and beat Lief Tover with it. The Grandmaster called it "pretty foul." His next shot was another natural 1, and she judged it a "disappointing round overall, Tapatio."
+The Sheriff asked for a grave. He brought his "Epic content posse" on stage to pass the die from hand to hand, and the result was another natural 1. The Arbiter explained the rule that would decide the night: **five fatigues means death**, and every natural 1 brought another. The grieving Sheriff then picked up the dead chicken and beat Lief Tover with it. The Grandmaster called it "pretty foul." His next shot was another natural 1, and she judged it a "disappointing round overall, Tapatio."
 
 ### Chaos in the Crowd
 
-The Arbiter thought things were getting boring, so the Grandmaster called the first chaos event: a hula hoop contest between crowd representatives. The Sheriff put forward Jeremy from Puerto Rico, who had lived the Odyssey just getting there. Lief Tover chose a man from Los Angeles who understood "the nature of garbage." "Come on, little Shakiras," the Grandmaster urged, and Trash won. The Sheriff said it hurt his heart. "At least you have one," she told him, "until we rip it out and then eat it later."
+The Arbiter thought things were getting boring, so the Grandmaster called the first chaos event: a hula hoop contest between crowd representatives. The Sheriff put forward Jeremy from Puerto Rico, who had lived the Odyssey just getting there. Lief Tover chose a man from Los Angeles who understood "the nature of garbage." "Come on, little Shakiras," the Grandmaster urged, and Trash won. The Sheriff said it hurt his heart. "At least you have one," she told him. "At least maybe for now until we rip it out and then eat it later."
 
-In the third round Lief Tover's spear missed. He swooped in on wings taught to him by a cockroach, but a deputy swatted him down "like a bug you are!" The Sheriff's handful of pocket dirt missed too; Lief Tover had "memorized all the movement patterns of your particles." The Sheriff then had a deputy "pull a Wanted" and curve a bullet into him. After that, Naomi, a film student from Bama, landed a brawling punch with her "entire department reputation" on the line. Lief Tover's defender rolled a natural 1, and the Grandmaster banished him from the stage forever.
+In the third round Lief Tover's spear missed. He swooped in from above, having learned to fly from a cockroach, but a deputy swatted him down "like a bug you are!" The Sheriff's handful of pocket dirt missed too; Lief Tover had "memorized all the movement patterns of your particles." The Sheriff then had a deputy "pull a Wanted" and curve a bullet into him. After that, Naomi, a film student from Bama, landed a brawling punch with her "entire department reputation" on the line. Lief Tover's defender rolled a natural 1, and the Grandmaster banished them from the stage forever. When the Sheriff threatened to beat him with the chicken again, Lief Tover shot back: "You got plenty of practice. Beating the chicken, don't you?"
 
-The second chaos event was "the golden shower of balloons." Gold balloons went out into the crowd, and one held a secret prize. Both champions sprinted off through the audience, all the way to the food court. "We will never see them again," said the Grandmaster. The Sheriff delegated the search to his posse, and they found the prize, a D20. With that, the score was dead even. "His chicken may be dead," the Arbiter said, "but his spirit is not yet."
+The second chaos event was "the golden shower of balloons." The Grandmaster explained that she ruled the kingdom with "a very large set of balls," her "big gold balls." Gold balloons went out into the crowd, and one held a secret prize. "Go find my balls!" she ordered. Both champions sprinted off through the audience, all the way to the food court. "We will never see them again," said the Grandmaster. The Sheriff delegated the search to his posse, and they found the prize, a D20. With that, the score was dead even. "His chicken may be dead," the Arbiter said, "but his spirit is not yet."
 
 ### Ball, Pancakes and Badges
 
-After a stretch break, Lief Tover revealed that the dumpster had taught him magic. "I cast Ball," he announced. "I don't know how magic works, bro, but it's gonna hurt." It did. He then force-fed the Sheriff pancake berry bites until he was sick. "Oh, no! I was on keto!" wailed the Sheriff, who admitted he was mourning his lost gains more than Clucky.
+After a stretch break, Lief Tover revealed that the dumpster had taught him magic. "I cast Ball," he announced. "I don't know how magic works, bro, but it's gonna hurt." It did. He then fed the Sheriff pancake berry bites, vowing to keep going "until you vomit." "Oh, no! I was on keto!" wailed the Sheriff, who admitted he was mourning his lost gains more than Clucky.
 
-The Grandmaster asked whether the Sheriff had a posse or a cult. He answered by handing sheriff badges out to the crowd, while Lief Tover handed out trash, which the Grandmaster declared fashion. The Sheriff made his rival eat a die, and Lief Tover caught his badge thrown like a shuriken. The Sheriff also revealed Clucky Cheese's origin: the chicken was a gift from "a great wizard in the Frontier named Amazon," who had also given him a mystical egg for a second Clucky. He promised the egg to a fan if she could land a hit. She missed by a hair, and the Grandmaster ruled that "Fluffy Chicken stays dead."
+The Grandmaster asked whether the Sheriff had a posse or a cult. He answered by handing sheriff badges out to the crowd, while Lief Tover handed out trash, which the Grandmaster declared fashion. The Sheriff made his rival eat a die. Lief Tover said he hadn't been force-fed like that since he was a child, when the coyotes of the garbage dump "fed me by vomiting in my mouth." He also caught the Sheriff's badge thrown like a shuriken. The Sheriff revealed Clucky Cheese's origin: the chicken was a gift from "a great wizard in the Frontier named Amazon," who had also given him a mystical egg for a second Clucky. He promised the egg to a fan if she could land a hit. She missed by a hair, and the Grandmaster ruled that "Fluffy Chicken stays dead."
 
-In the fifth round Lief Tover's last healing potion failed ("I've never been good at drinking"), but the crowd chanted for "the bag." **The Sheriff went into the trash bag**, came out slippery, and tore a hole in it on his way out. "I feel like this is a huge violation to touch another man's bag," said the Grandmaster. The Sheriff's posse then tried to jump Lief Tover, and they rolled a fourth natural 1 to boos and chants of "Shame!"
+In the fifth round Lief Tover's last healing potion failed ("I've never been good at drinking"), but the crowd chanted for "the bag." **The Sheriff went into the trash bag**, came out slippery, and tried to tear a hole in it on his way out. "I feel like this is a huge violation to touch another man's bag," said the Grandmaster. The Sheriff's posse then tried to jump Lief Tover, and they rolled a fourth natural 1 to boos and chants of "Shame!"
 
 The third chaos event was "hot balls": a game of hot potato played with giant beach balls, with the Grandmaster serving as the net. The Sheriff's side won it and chanted "We have heart!" A fan answered by giving Lief Tover trash chips for inspiration, and the Arbiter let it boost him.
 
 ### The Final Blow
 
-Lief Tover went all or nothing with a massive surge. The Sheriff had only a little strength left, and the Grandmaster offered him a chance at last words. He told his haters that "one of y'all is walking out of here with a chicken today. And the rest of y'all are just chickens to begin with." Then he shut the attack down completely. Lief Tover tried again and fumbled: "it appears that the dump truck that was coming for you has hit me."
+Lief Tover went all or nothing with a massive surge. With the blow coming, the Grandmaster offered the Sheriff a chance at last words. He told his haters that "one of y'all is walking out of here with a chicken today. And the rest of y'all are just chickens to begin with." Then he shut the attack down completely. Lief Tover tried again, and his volunteer roller took the mic to say "Fuck the police." It was a fumble: "it appears that the dump truck that was coming for you has hit me."
 
 The Sheriff had the advantage now. He called up Austin, a deputy he remembered from last year. Austin rolled a natural 1, the Sheriff's fifth.
 
@@ -92,7 +92,7 @@ The Grandmaster summoned him for a eulogy. "You have lived a good life and made 
 
 - Lief Tover's opening attack was a poisoned bomb stuffed with a month of used diapers, and its die hit a spectator.
 - The crowd surrounded Lief Tover chanting "Do better," and an Acolyte's screaming throw came up a natural 20.
-- Clucky Cheese was killed in the second round, and the Sheriff spent the rest of the fight using the chicken as a club.
+- Clucky Cheese was killed in the second round, and the Sheriff then beat Lief Tover with the dead chicken.
 - The golden balloon hunt sent both champions running through the audience to the food court.
 - Lief Tover cast a spell called "Ball" and admitted he didn't know how magic works.
 - The Sheriff's own deputies rolled most of his five fatal natural 1s, and Austin rolled the last one.

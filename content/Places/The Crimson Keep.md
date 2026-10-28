@@ -11,11 +11,11 @@ tags:
 - place
 ---
 
-**The Crimson Keep** is a crumbling crimson castle in the Void, crawling with bats and haunted by the ghosts of everyone unlucky enough to die there. That is a lot of people. It is officially a wedding venue, and [[Thea]] got it for the arena at a bargain price precisely because "people keep dying here." It twice hosted Deathmatches on its windswept rooftop. The first ended with nobody left standing, and the second ended with [[Ragu]] alone under the moon.
+**The Crimson Keep** is a crumbling crimson castle in the Void, crawling with bats and haunted by the ghosts of many of the people who have died there, most of them friendly. It is officially a wedding venue, and [[Thea]] got it for the arena at a bargain price precisely because "people keep dying here." It twice hosted Deathmatches on its windswept rooftop. The first ended with nobody left standing, and the second ended with [[Ragu]] alone under the moon.
 
 ## Description
 
-The Deathmatches at the Crimson Keep were fought on the very top of the castle, a dark and eerie perch with a cold, furious wind and, by all accounts, a beautiful view. Bats creep along its silhouettes waiting for sundown. On a clear night the moon hangs over the battlements like a spotlight. The whole place is dilapidated, a vampire castle long past its best days, though apparently still good enough for weddings.
+The Deathmatches at the Crimson Keep were fought on the very top of the castle, a dark and eerie perch with a cold, furious wind and, by all accounts, a beautiful view. Bats creep along its silhouettes waiting for sundown. During its second Deathmatch, the moon glowed overhead and served as a spotlight. The whole place is dilapidated, a vampire castle long past its best days, though apparently still good enough for weddings.
 
 The keep is haunted by many ghosts, most of them friendly. Not all of them are. Among the white wisps of the dead is at least one that has been described as "quite the bully," and it is not shy about joining a fight.
 

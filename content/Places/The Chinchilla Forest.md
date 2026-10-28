@@ -5,14 +5,14 @@ aka:
 - Chinchilla Forest
 region: The Void
 first_appearance: S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith
-summary: A wild forest arena where the Grandmaster's chinchillas are sourced, used three times for Deathmatches and left orange, cratered and partly radioactive along the way.
+summary: A wild forest arena where the local chinchillas are sourced, used three times for Deathmatches and left orange, cratered and partly radioactive along the way.
 aliases:
 - Chinchilla Forest
 tags:
 - place
 ---
 
-**The Chinchilla Forest** is where the Void gets its chinchillas. It is a stretch of tall trees and fresh air where the little creatures run wild, roll in talcum powder and grow fat on whatever champions are left behind. It has hosted three Deathmatches so far. The forest has suffered for it: by the end of its second fight, part of it was orange, cratered and glowing with radioactive rot.
+**The Chinchilla Forest** is where the Void gets its chinchillas. It is a stretch of tall trees and fresh air where the little creatures run wild, roll in talcum powder and grow big and strong nibbling the bones of champions left to rot there. It has hosted three Deathmatches so far. The forest has suffered for it: by the end of its second fight, part of it was stained orange, cratered and decayed into a radioactive wasteland.
 
 ## Description
 
@@ -28,7 +28,7 @@ The forest made its debut in [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchi
 
 ### S5E11: Appliance Adversaries
 
-The Deathmatch returned to the forest in [[Episodes/Season 5/109 - S5E11 — Appliance Adversaries — Atlas v Frigidoom|S5E11 — Appliance Adversaries — Atlas v Frigidoom]]. Thea had decided to double up on her chores and release the chinchillas there during the match. It went badly for the scenery. By the time [[Atlas]] and [[Frigidoom]] were done, the forest was stained orange. Pooka Pooka had knocked down trees, and two craters scarred the ground: one from a blast and one from Atlas's geyser hole. Worst of all, Frigidoom's sweat had decayed part of the forest into a radioactive wasteland, and the chinchillas needed a new home.
+The Deathmatch returned to the forest in [[Episodes/Season 5/109 - S5E11 — Appliance Adversaries — Atlas v Frigidoom|S5E11 — Appliance Adversaries — Atlas v Frigidoom]]. Thea had decided to double up on her chores: since the match was in the forest, she would release the chinchillas there. It went badly for the scenery. By the time [[Atlas]] and [[Frigidoom]] were done, the forest was stained orange. Pooka Pooka had knocked down trees, and two craters scarred the ground: one from a blast and one from Atlas's geyser hole. Worst of all, Frigidoom's sweat had decayed part of the forest into a radioactive wasteland, and the chinchillas needed a new home.
 
 ### S7E5: Rock and a Hard Place
 
@@ -41,7 +41,7 @@ The Arbiter confirmed the location ("this is Chinchilla Forest"). Iowa-Ska then 
 ## Notable Figures
 
 - [[Chinchillas]]: the forest's native residents, bone-nibblers and talcum enthusiasts
-- [[Thea]]: opened the forest in S5E4, released the chinchillas there in S5E11, and joyrode through it in S7E5
+- [[Thea]]: opened the forest in S5E4, released the chinchillas there in S5E11, and rocked out with Iowa-Ska in S7E5
 - [[The Arbiter]]: presented the forest to the Acolytes
 - [[Tormiir]] and [[Granny Edith]]: its first champions
 - [[Atlas]] and [[Frigidoom]]: the pair who left it orange and radioactive

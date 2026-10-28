@@ -20,7 +20,7 @@ canon_order: 35
 
 [Watch on YouTube](https://youtu.be/nbGAN3ruN8U)
 
-A laid-back druid and a gun-slinging sun cleric were pulled into a graveyard to fight to the death for cookies. **Wandering Willy** and **Martin Messiah Malenko** were billed as the unluckiest individuals in the universe. They traded fire, lightning and a near-fatal holy blast, then decided they would rather be friends. The night ended with friendship necklaces made of bones and a snack parade for the crowd. It also ended with the first open crack between [[Grandmaster Elusia Skypiercer|the Grandmaster]] and [[The Arbiter|the Arbiter]], who stormed off to a secret arena full of risen losers.
+A laid-back druid and a gun-slinging sun cleric were pulled into a graveyard to fight to the death for cookies. **Wandering Willy** and **Martin Messiah Malenko** were billed as the unluckiest individuals in the universe. They traded fire, lightning and a near-fatal holy blast, then decided they would rather be friends. The night ended with friendship necklaces made of bones and a snack parade for the crowd. It also ended with an open crack between [[Grandmaster Elusia Skypiercer|the Grandmaster]] and [[The Arbiter|the Arbiter]], who stormed off to his own arena full of risen losers.
 
 ## The Story
 
@@ -46,7 +46,7 @@ Behind a tree near a crypt sat [[The Box of Chaos|the Box of Chaos]], with Geral
 
 Martin sacrificed his **lucky bullet**, the one he saved "for just the occasions where, you know, I have to fight to the death." Gerald gave him a small onyx orb that sharpened his mind. Then Gerald cackled, because the orb was cursed: it snuffed out flames and halved Martin's fire. "I'm a light cleric, I have lots of fire things!" Martin wailed.
 
-Martin then summoned a massive spectral songbird, "my daughter Shiloh." He warned that she hated music and had once ripped someone's head off. He invited Willy to help dig some graves. The Arbiter asked whether Martin was getting him to dig his own, and the Grandmaster assured Willy graves were "the new rage of beds." The Arbiter added that he bought a gravestone for all of his wives, "one at a time." Martin had only the one wife: his rifle, Val. His twin revolvers were his children, Machiel and Cassandra, all polymorphed. "It's a long, drawn-out story, but kids are watching."
+Martin then summoned a massive songbird, "my daughter Shiloh." He warned that she hated music and had once ripped someone's head off. He invited Willy to help dig some graves. The Arbiter asked whether Martin was getting him to dig his own, and the Grandmaster assured Willy graves were "the new rage of beds." The Arbiter added that he bought a gravestone for all of his wives, "one at a time." Martin had only the one wife: his rifle, Val. His twin revolvers were his children, Machiel and Cassandra, all polymorphed. "It's a long, drawn-out story, but kids are watching."
 
 ### The Battle for Doug
 
@@ -74,7 +74,7 @@ Willy tried to negotiate: "Two's a tango, five's, like, just way more than I can
 
 ### Fog and High Noon
 
-The Arbiter claimed the next chaos for himself. Heavy black fog poured from his palms, though the Grandmaster insisted it came from his armpits. It became a wall that drove the champions up the hill into a ruined cathedral and burned their lungs. Willy, "a man of the leaf," argued he was well practiced at inhaling things, and the Arbiter found that compelling. Creepy organ music played. It was "just Pocket Full of Sunshine, but really slow and a minor key," and the Arbiter sang it. "You are a bard, I knew it!"
+The Arbiter claimed the next chaos for himself. Heavy black fog poured from his palms, though the Grandmaster insisted it was actually coming from his armpits because he hadn't put on deodorant that day. It became a wall that drove the champions up the hill into a ruined cathedral and burned their lungs. Willy, "a man of the leaf," argued he was well practiced at inhaling things, and the Arbiter found that compelling. Creepy organ music played. It was "just Pocket Full of Sunshine, but really slow and a minor key," and the Arbiter sang it. "You are a bard, I knew it!"
 
 Martin was tired of games. A golden halo formed above his head and he rose on radiant wings. "Did we invite a god by accident?" the Grandmaster asked. In a divine voice, he leveled a rifle. "Well, it's time that we finish this, boy. It's high noon." The spell should have ended the match. Instead, **Willy rolled a natural 20** and shrugged off almost all of it. "You got some fight in you, I'll tell you that much," Martin conceded. The Acolytes threw their grandmas onto the field. The Grandmaster asked them to be nice to grandmas "since apparently I'm one of them."
 
@@ -82,19 +82,19 @@ Willy was more hurt by the betrayal than the wound. He ate a decadent fudge brow
 
 ### The Bone Brothers
 
-Willy reappeared with a twinkle in his eye. "I think they're trying to drive a wedge between us. What if we teamed up? There's no I in team. There's a me, if you mix the letters around. But you know what's better than me? Us." Martin admitted he had never enjoyed fighting. They healed each other at the same moment, and they glowed "like two of the brightest suns in this area." Martin pitched the Grandmaster a two-on-two match against her strongest champions. She agreed on one condition: they forfeited every cookie they had earned.
+Willy reappeared with a twinkle in his eye. "I think they're trying to drive a wedge between us. What if we teamed up? There's no I in team. There's a me, if you mix the letters around. But you know what's better than me? Us." Martin admitted he had never enjoyed fighting. Willy healed Martin with a hug just as Martin was about to heal him, and their bonds of friendship glowed like "two of the brightest suns in this area." Martin pitched the Grandmaster a two-on-two match against her strongest champions. She agreed on one condition: they forfeited every cookie they had earned.
 
 ### The Arbiter's Betrayal
 
 The Arbiter was not on board. He snapped his fingers, and Gerald popped up behind the champions with Martin's lucky bullet loaded in a revolver. Martin leapt in front of Willy, his eye flared, and both shots missed. "You always do this," the Arbiter raged at the Grandmaster. "You always let them live. Every time." He blamed Gerald for shooting them in the back, and said Gerald was "a paid employee."
 
-The Grandmaster told the champions to cover their ears. "You know that we always still bring them back. No one ever actually dies here permanently, except for a few accidents every now and then. Don't you dare go behind my back again." The Arbiter spat "This is fucking bullshit" and shifted out of the plane.
+The Grandmaster told the champions to cover their ears. "You know that we always still bring them back. No one ever actually dies here permanently, except for a few accidents every now and then. … Don't you dare go behind my back again." The Arbiter spat "This is fucking bullshit" and shifted out of the plane.
 
-Willy gave Gerald two more lozenges, and Gerald handed him a Deck of Many Things. "Gerald, don't start handing out stuff willy-nilly," the Grandmaster scolded. "That's my whole job here." She let the two share the victory. With a wave of her hand, bones rose from the graves and wove themselves into friendship necklaces. "We're the Bone Brothers," Willy declared. She lifted them into the air so they could hurl brownies, chips and gummy worms into the crowd. Then she told the Acolytes that "your fate is always your own."
+Willy gave Gerald two more lozenges, and Gerald handed him a Deck of Many Things. "Gerald, don't start handing out stuff willy-nilly," the Grandmaster scolded. "That's my whole job here," Gerald replied. She let the two share the victory. With a wave of her hand, bones rose from the graves and wove themselves into friendship necklaces. "We're the Bone Brothers," Willy declared. She lifted them into the air so they could hurl brownies, chips and gummy worms into the crowd. Then she told the Acolytes that "your fate is always your own."
 
 ### In the Shadows
 
-Elsewhere, the Arbiter appeared in his own arena on another plane, a place he had "made use of even recently for his own nefarious purposes." He paced before a great statue of himself. When he raised his hands, figures rose from the shadows of the stone: losers of past Deathmatches, among them [[Carnelian|Karn]] and Baron Voltágè. "Our time has come. Won't be much longer now." Back in the cemetery, the Acolytes found their favorite cookies waiting for them, and the champions got none.
+Elsewhere, the Arbiter appeared in his own arena on another plane, a place "that he has made use of even recently for his own nefarious purposes." He paced before a great statue of himself. When he raised his hands, figures rose from the shadows of the stone: losers of past Deathmatches, among them [[Carnelian|Karn]] and Baron Voltágè. "Our time has come. Won't be much longer now." Back in the cemetery, the Acolytes found their favorite cookies waiting for them, and the champions got none.
 
 ## Dried Blood
 

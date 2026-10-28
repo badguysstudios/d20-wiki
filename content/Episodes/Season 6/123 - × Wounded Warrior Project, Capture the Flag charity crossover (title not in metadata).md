@@ -36,13 +36,13 @@ The format was a gauntlet that would turn into a free-for-all, and the Acolytes'
 
 ### The Champions Arrive
 
-The champions stepped into a castle hall piled high with food. **[[Solid]]** came first, a Yuan-ti "well-trained in close quarters combat," calling out "Otacon. Otacon." to someone who never answered. He was missing an eye and wore his glasses over his eye patch. **[[Grog the Malodorous]]**, a seven-foot centaur with a bionic leg, announced that "nobody's got a chance" and then asked where he was. He turned down the shower down the hall ("A little zest in your life"), and when his tunic rode up, his "natural essence" made eyes water across the room. **[[Beans the Terrible]]**, a two-foot pixie, refused the high chair the Grandmaster offered him and arrived with a line of dancing pixies. He said the smell "Smells like glorious purpose."
+The champions stepped into a castle hall piled high with food. **[[Solid]]** came first, a Yuan-ti "well-trained in close quarters combat," calling out "Otacon. Otacon." to someone who never answered. He was missing an eye and wore his glasses over his eye patch. **[[Grog the Malodorous]]**, a seven-foot centaur with a bionic leg, announced that "nobody's got a chance" and then asked where he was. He turned down the shower down the hall ("A little zest in your life"), and when his tunic rode up, his "natural essence" made eyes water for a good distance around him. **[[Beans the Terrible]]**, a two-foot pixie, refused the high chair the Grandmaster offered him and arrived with a line of dancing pixies. He said the smell "Smells like glorious purpose."
 
-The other side was just as strange. **[[Pyxis]]**, a gentle armored mammoth, said he was hunting the people who had killed his loved ones: "a little fairy, a strange centaur person, and a cobra of some kind." The Grandmaster looked at the three champions already in the room and said, "What are the odds?" **[[Dave the Doom Duck]]** fluttered up out of a portal that had perhaps been "ripped open from the hells below." As it closed, hell cheered to be rid of him. He had draconic wings and a gaze nobody should meet, and he was not shy about his bathroom habits:
+The other side was just as strange. **[[Pyxis]]**, a gentle armored mammoth, said he was hunting the people who had killed his loved ones: "a little fairy, a strange centaur person, and a cobra of some kind." With those three champions already in the room, the Grandmaster said, "What are the odds?" **[[Dave the Doom Duck]]** fluttered up out of a portal that had perhaps been "ripped open from the hells below." As it closed, hell cheered to be rid of him. He had draconic wings and a gaze nobody should meet, and when the Grandmaster asked whether he pooped wherever he liked, the answer was:
 
 > "That's his birthright. This land is his. This world and all others connected to it is his. It is his own toilet."
 
-Last came **[[Perry]]**, a small rabbit in a giant glowing wizard's hat that leaked fireflies. The Arbiter opened an "unnecessarily huge… showy portal" for him by slamming his wings together hard enough to ripple time and space. Perry tumbled out and fetched his shovel: "I have a shovel and I am here to cause mayhem." He refused to use it on the duck's messes, and the Grandmaster said, "Perry might have my heart on this one." Beans, Grog and Solid formed one team, and Pyxis, Dave and Perry formed the other. The Arbiter bet on the duck.
+Last came **[[Perry]]**, a small rabbit in a giant glowing wizard's hat that leaked fireflies. The Arbiter opened an "unnecessarily huge… showy portal" for him by slamming his arms and wings together hard enough to ripple time and space. Perry tumbled out and fetched his shovel: "I have a shovel and I am here to cause mayhem." He refused to use it to clean up the duck's poop, and later, when he took off his hat, the Grandmaster said, "Perry might have my heart on this one." Beans, Grog and Solid formed one team, and Pyxis, Dave and Perry formed the other. The Arbiter bet on the duck.
 
 ### The Kitchen
 
@@ -54,13 +54,13 @@ On the other side, Pyxis lay down on the table and let Perry shovel the food ont
 
 ### The Chinchillas' Room
 
-Next came a room of sleeping [[Chinchillas|chinchillas]], each cuddling a kitchen knife like a stuffed animal. Solid crept through it silently, even after a paid kick to the shins. Grog was the problem. His belly was full and the shrinking had worn off, so every step let out a fart. "I want to cast reflect missiles at those farts," Solid said. The chinchillas woke "with murder in their eyes" and stabbed all three champions while a foreman chinchilla in a hard hat smoked and yelled "Get them, boys!" Then they crawled back into bed, still glaring. Beans told them, "I hope you have nightmares."
+Next came a room of sleeping [[Chinchillas|chinchillas]], each cuddling a kitchen knife like a stuffed animal. Solid crept through it silently, even after a paid kick to the shins. Grog was the problem. His belly was full and the shrinking had worn off, so every step let out a fart. "I want to cast reflect missiles at those farts," Solid said. The chinchillas woke "with murder in their eyes" and stabbed all three champions while a chinchilla in a hard hat smoked in the corner and someone yelled "Get them, boys!" Then they crawled back into bed, still glaring. Beans told them, "I hope you have nightmares."
 
-Dave took the opposite approach. He strolled in with total confidence, looked the waking chinchillas in the eye and put them all back to sleep. He then pooped in front of every bed, exactly where a chinchilla would step. The invisible Pyxis followed behind him and quietly cleaned it all up, "because he wants to keep it clean for the chinchillas." Pyxis missed one spot. A sleepless chinchilla up for hot milk stepped in it and stabbed Dave in the butt. Dave flared with hellfire and chanted "Don't hurt the chinchillas" three times, then left one last massive pile at the door: "Clean that up!"
+Dave took the opposite approach. He strolled in with total confidence, looked the waking chinchillas in the eye and put them all back to sleep. He then pooped in front of every bed, exactly where a chinchilla would step. The invisible Pyxis followed behind him and quietly cleaned it all up, "because he wants to keep it clean for the chinchillas." Pyxis missed one spot. A sleepless chinchilla up for hot milk stepped in the poop and stabbed Dave in the butt. Dave flared with hellfire and chanted "Don't hurt the chinchillas" three times, then left one last massive poop at the door: "Clean that up!"
 
 ### The Alchemy Room
 
-Each team found red, green and blue vials and a riddle about pouring and drinking. Perry sensed which vials were bad, mixed red into green, drank the blue, and opened the flaming portal. Pyxis had been watching invisibly while Dave was busy pooping, so he copied Perry and slipped through after him: "You didn't see me… I'm right behind you, buddy." Dave was left behind. He tried to intimidate the vials, sat on a throne-like chair, and only then spotted the answer on a sticky note under an upturned skull. "Ah, it's good to be a duck."
+Each team found red, green and blue vials and a riddle about pouring and drinking. Perry sensed which vials were bad, mixed red and green, drank the blue, and opened the flaming portal. Pyxis had been watching invisibly while Dave was busy pooping, so he copied Perry and slipped through after him: "You didn't see me… I'm right behind you, buddy." Dave was left behind. He tried to intimidate the vials, sat on a throne-like chair, and only then spotted the answer on a sticky note under an upturned skull. "Ah, it's good to be a duck."
 
 Team A did worse. Solid briefly turned into a frog. Beans burned off his eyebrows, then angrily kicked the one chest without any dust on it. It was a mimic, and it bit him hard. "Suffering Succotash, that really hurt!" he cried, and chased it off with a blade of fire.
 
@@ -78,7 +78,7 @@ Beans named his pixies the Bee Gees ("because we're the bee's knees"), took on a
 
 ### Everyone for Themselves
 
-"Do we just let them kill each other now?" the Arbiter asked. "Yes," said the Grandmaster, and she shrank the trees to shrubs. Perry hopped onto the Box and decided Beans should go inside it. After a table-wide roll-off, Perry's natural 20 sent his swarm slamming Beans into the Box. Beans came out wearing a Hat of Vermin, and Perry drank a potion of giant strength. Pyxis bathed the field in moonbeams.
+"Do we just let them kill each other now?" the Arbiter asked. "Yes," said the Grandmaster, and she shrank the trees to shrubs. Perry hopped onto the Box and decided Beans should go inside it. After a roll-off, with the whole table chanting, Perry's natural 20 sent his swarm slamming Beans into the Box. Beans came out wearing a Hat of Vermin, and Perry drank a potion of giant strength. Pyxis bathed the field in moonbeams.
 
 Dave rose in hellfire and tried to banish four champions at once, his own teammate Perry included. He named them "minion one, minion two, that green guy and the horse." ("I'm a dang centaur," Grog protested.) Solid's natural 20 led a clean sweep of saves, but the Grandmaster was pleased with Dave's creativity and blessed him. She also declared that from then on every wound would cut twice as deep. Beans promptly hit Pyxis with a radiant bolt so huge the Grandmaster yelled "Don't piss off the fairy!"
 
@@ -86,18 +86,18 @@ Dave rose in hellfire and tried to banish four champions at once, his own teamma
 
 Grog turned on Perry ("We're going crazy") and killed him. With his last swing, Perry took Beans down with him. Beans faded saying "I love you all," and the two were left struggling "in eternity on this ground."
 
-Solid then punched Dave into the river. "I'm a duck! I'm a freaking duck!… Water hurts!" Dave squawked, and a passing rock clobbered him. Pyxis grabbed Solid's head in midair and dropped him. Dave crawled out, pointed his butt skyward and launched a lava-like fireball. Solid backflipped clear of it, but Pyxis took the full blast. Dying, Pyxis prayed to Selûne. Day turned to night, and moonlight guided him down onto Solid's head. Pyxis poked out Solid's last good eye, and the fall killed them both. Solid's final confession was "yeah i did kill your family that's it."
+Solid then punched Dave into the river. "I'm a duck! I'm a freaking duck!… Water hurts!" Dave squawked, and a passing rock clobbered him. Pyxis flew up, grabbed Solid's head in midair and dropped him. Dave crawled out, pointed his butt at Pyxis and launched a lava-like fireball out of it, a "flaming turd" in the Grandmaster's words. Solid backflipped clear of it, but Pyxis took the full blast. Dying, Pyxis prayed to Selûne. Day turned to night, and moonlight guided him down onto Solid's head. Pyxis poked out Solid's last good eye, the fall killed Solid, and Pyxis died with him. Solid's final confession was "yeah i did kill your family that's it."
 
 Only Grog and the duck remained. Grog threw his trident, then the Vorpal Sword, and left Dave "a little on the shish kabob side" with half-ruined wings. Dave rose "just unholy" into the sky: "Oh, you gave me hell. Let me send you to it myself." A second butt-fireball burned Grog to ashes. Dave rolled in the grass shouting "I win! I win! Take that, Satan!" while the trees caught fire as if to celebrate. The Grandmaster gathered the living and the dead and told them to "never give up, even till your dying breath," then named Dave the winner. He had captured the flag.
 
 ## Notable Moments
 
-- The invisible Pyxis followed Dave through the chinchillas' room, wiping up every poop he left for them.
+- The invisible Pyxis followed Dave through the chinchillas' room, wiping up all but one of the poops he left for them.
 - Grog's stench was so bad that a giant worm decided not to eat him.
 - Solid kicked the Box of Chaos over the trees, and the Arbiter dropped it on Solid's own teammates.
 - Dave tried to banish four champions at once, including his own teammate, and got blessed for it.
 - Dying in a flaming fireball, Pyxis was lifted by moonlight to poke out Solid's last eye.
-- A duck from hell won by launching fireballs out of his rear.
+- A duck from hell won by launching fireballs out of his butt.
 
 ## Memorable Quotes
 

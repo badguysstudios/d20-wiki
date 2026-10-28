@@ -20,7 +20,7 @@ canon_order: 102
 
 [Watch on YouTube](https://youtu.be/rGz2Wjs9FHU)
 
-A minotaur in a purple jumpsuit who claimed he lived to flatten the elderly met a little old lady with a rolling pin as big as she was, and neither of them could quite land the killing blow. **Tormiir** and **Granny Edith** spent six rounds in [[The Chinchilla Forest|the Chinchilla Forest]] trading cookies, kisses, breast-milk discourse and some of the gentlest violence the arena had ever seen. They wore each other down so thoroughly that the match ended with both of them dead, side by side, promising to share a cup of tea in the afterlife.
+A minotaur in a purple jumpsuit who was supposedly put on this earth to flatten the elderly met a little old lady with a rolling pin as big as she was, and neither of them could quite land the killing blow. **Tormiir** and **Granny Edith** spent six rounds in [[The Chinchilla Forest|the Chinchilla Forest]] trading cookies, kisses, breast-milk discourse and some of the gentlest violence the arena had ever seen. They wore each other down so thoroughly that the match ended with both of them dead, side by side, promising to share a cup of tea in the afterlife.
 
 ## The Story
 
@@ -30,7 +30,7 @@ The night began in the halls of [[The Dread Fortress|the Dread Fortress]], where
 
 When he asked whether she'd set up the Deathmatch, Thea produced a second giant basket of snacks and water bottles, so the champions could stay hydrated while they "tear each other's flesh from their bones and snap each other's femurs." The Lord of Fate admitted he was "actually a little impressed." Thea had been stepping up her game, and that was "going on the report." She begged for a gold star, then three, then five. He drew one on her forehead with his ink pen. "Ow. Thank you."
 
-Then Thea pulled a doughnut out of the basket and blew on it. It swelled to about twelve feet tall, pink-iced and sprinkled, with a swirling void where the hole should be. Out of it stepped the evening's [[Champions|champions]].
+Then Thea pulled a doughnut out of the basket and blew on it. It swelled to about twelve feet tall, pink-iced and sprinkled, with a void where the hole should be. Through it, she presented the evening's [[Champions|champions]].
 
 ### The Champions
 
@@ -72,11 +72,11 @@ So he reached into his jumpsuit as if for pistols and pulled out two bottles of 
 
 Tormiir landed his crackling horn beam on Granny twice, the second time after unzipping a hidden sporran for his emergency milk. He was, he finally explained, a warlock: "I don't talk about it a lot." He'd been on the range his whole life. "I'm everywhere. And nowhere."
 
-Granny went to the box next ("Granny's got some skeletons in her closet"). "Aren't you a little old to be fighting to the death?" asked the figure. She traded one of her signature brownies, and from the darkness inside, yellow eyes stared back. **Her inner monster awakened.** Granny got hench, still a little old lady but bigger, with her rolling pin swelling and her eyes narrowing behind the glasses. "I've had enough of you! It's time for Granny to show some whoop-ass!" One swing glowed "with hot energy from the stove" and left Tormiir dissociating for a good thirty seconds.
+Granny went to the box next ("Granny's got some skeletons in her closet"). "Aren't you a little old to be fighting to the death?" asked the figure. When Granny allowed that everyone has different parenting techniques for still breastfeeding, Tormiir exploded: "They're not breasts, you fucking weirdos," and "Every time you have a fucking latte, imagine my mother on your lips." She traded one of her signature brownies, and from the darkness inside, yellow eyes stared back. **Her inner monster awakened.** Granny got hench, still a little old lady but bigger, with her rolling pin swelling and her eyes narrowing behind the glasses. "I've had enough of you! It's time for Granny to show some whoop-ass!" One swing glowed "with hot energy from the stove" and left Tormiir dissociating for a good thirty seconds.
 
 ### Udders from the Heavens
 
-After a pause for more Doritos, Tormiir made his own trade. The figure greeted him with "What do you want, mama's boy?", took his spit and licked it off his face. In return, the sword he'd forgotten he had turned from brass to onyx, a blade that sang through the air, with a warning that one bad swing would destroy it and probably him. He kissed the figure on the forehead. It wiped the kiss off.
+After a pause for more Doritos, Tormiir made his own trade. The figure greeted him with "What do you want, mama's boy?", took his spit and licked it off his face. In return, the sword he'd forgotten he had turned from silver to black, an onyx blade that sang through the air, with a warning that one bad swing would destroy it and probably him. He kissed the figure on the forehead. It wiped the kiss off.
 
 Then came "the most horrifying attack in all of existence": "Ka-moo, Ma-moo, Ma-nee!" A portal opened and udders fell through. Tormiir latched on and fit five. Thea flew in and fit four. Granny took out her dentures and fit sixteen. "Back in my day, we had to drink our milk directly from the teat." Fully restored, Tormiir swung at her in a rage: "Get off of my mother, you freaks!" Granny pointed out that he had offered. Her electric beater, powered by an arcane battery pack, went badly wrong: "I don't think that milk agreed with me." "It's not for your species, you weirdo!" She steadied herself with three deep breaths ("where there's a whisk, there's a way"), saying it wasn't her time, though she knew her Gerald was waiting for her. The Lord of Fate marveled that they'd never seen champions this worn down.
 
@@ -88,13 +88,13 @@ Then Thea's best roll of the night summoned chaos: a delectable aroma, each cham
 
 > **Granny Edith:** "I'm so happy I get to taste my great grandma's bread and butter pudding again. And I'm gonna see Gerald... I want all of you to take care of yourselves and remember to always eat a cookie and life is what you bake it."
 
-Thea granted her one last swing "just for flavor." Tormiir completely failed to block it, and the pun killed him. "Because of a pun? I am dead?" "Granny's killing him from the grave." He leaned down to kiss her wrinkly forehead, discovered he had a gluten allergy, and fell beside her in an accidental spoon, his last thought "bread and butter pudding." He died several more times for good measure ("I'm a dramatic bitch"), finally whispering, "Mama, we're gonna need milk for our tea."
+Thea granted her one last swing "just for flavor." Tormiir completely failed to block it, and the pun killed him. "Because of a pun? I am dead?" "Granny's killing him from the grave." He leaned down to kiss her wrinkly forehead, discovered he had a gluten allergy, and felt his orifices swell shut as his body began to tear itself apart from the inside. He fell beside her in an accidental spoon, his last thought "bread and butter pudding." He died several more times for good measure ("I'm a dramatic bitch"), finally whispering, "Mama, we're gonna need milk for our tea."
 
 The Lord of Fate called it a good job. Thea pointed at her forehead, declared that "this punderdome earns five stars," and got four more ink stars. She celebrated by zipping around the coliseum pouring tuna juice on everyone, which the Lord of Fate had outlawed.
 
 ## Dried Blood
 
-In the recovery room, both champions were revived, their cuts and bruises healing. Mages massaged Granny's tendons, and she asked whether they could take a few more decades off. Tormiir's trainer, a Wagyu farmer, squirted milk into his mouth from a Gatorade bottle and massaged him to classical music. Tormiir clarified that his condition was celiac, not lactose, and that his mother "was just out for the evening." He also counted his orifices: "All 27," rib piercings included. He conceded that his accent was "decidedly Scottish." Granny was glad a little bit of her had been left behind for others to remember, even if it was a killing blow rather than a recipe. She resolved to take a nap next time, because "I'm a whisk taker." Tormiir had learned "to not fall in love with the elderly opponent very early in the match." "Rookie mistake," said the Lord of Fate. Granny's final advice: "If in doubt, bake it till you make it."
+In the recovery room, both champions were revived, their cuts and bruises healing. Mages massaged Granny's tendons, and she asked whether they could take a few more decades off. Tormiir's trainer, a Wagyu farmer, squirted milk into his mouth from a Gatorade bottle and massaged him to classical music. Tormiir clarified that his condition was celiac, not lactose, and that his mother "was just out for the evening." He also counted his orifices: "All 27," his back end and rib piercings included. He conceded that his accent was "decidedly Scottish." Granny was glad a little bit of her had been left behind for others to remember, even if, as Thea pointed out, it was a killing blow rather than a cookie recipe. She resolved to take a nap next time, because "I'm a whisk taker." Tormiir had learned "to not fall in love with the elderly opponent very early in the match." "Rookie mistake," said the Lord of Fate. Granny's final advice: "If in doubt, bake it till you make it."
 
 ## Notable Moments
 

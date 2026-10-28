@@ -11,7 +11,7 @@ played_by:
 - 'King MAN FROG Bofus: Dr. Bees'
 winner: Kyle Stoddard
 arena: The Duck Village
-summary: King Bofus, rebuilt and begging for death, fights the anime-devoted Kyle Stoddard in the Duck Village. Kyle wins in full Princess Sakura cosplay when Bofus's own misfiring frog shotgun blows his head off.
+summary: King Bofus, rebuilt and begging for death, fights the anime-devoted Kyle Stoddard in the Duck Village. Kyle wins in full Princess Sakura cosplay when Bofus's own misfiring shotgun blows his frog head off.
 tags:
 - episode
 youtube: https://youtu.be/3XZhpVsRso4
@@ -20,7 +20,7 @@ canon_order: 112
 
 [Watch on YouTube](https://youtu.be/3XZhpVsRso4)
 
-Two returning champions met in [[The Duck Village]] for a rematch nobody asked for, least of all the champions. **[[King Bofus|King "MAN FROG" Bofus]]**, rebuilt yet again and openly pleading to die, faced **[[Kyle Stoddard]]**, a fedora-wearing devotee of Princess Sakura-chan who carries more merchandise in his coat than most shops keep in stock. What followed involved frog ammunition, a Mountain Dew ceremony, a body pillow, a Macarena, a magical-girl transformation, and one of the most undignified deaths the arena has ever seen.
+Two returning champions met in [[The Duck Village]] for a fight one of them very much did not want. **[[King Bofus|King "MAN FROG" Bofus]]**, rebuilt yet again and openly pleading to die, faced **[[Kyle Stoddard]]**, a fedora-wearing devotee of Princess Sakura-chan who carries more merchandise in his coat than most shops keep in stock. What followed involved frog ammunition, a Mountain Dew ceremony, butt pokes, projectile vomit, a body pillow, a Macarena, a magical-girl transformation, and one of the most undignified deaths the arena has ever seen.
 
 ## The Story
 
@@ -34,9 +34,9 @@ The emails were mostly complaints from [[The Acolytes]]. They wanted more hot do
 
 King Bofus looked haggard. Under the rumpled mask that hides his tiny frog head, bags had been stitched on, and a Peloton tattoo now stretched across his chest. "Again? You have brought me here again? Why?" The Lord of Fate explained that the Acolytes had taken a poll and simply loved watching him fight to the death, and that they had fixed his broken dead body: "It's a cycle." Thea had talked to the [[Goblins|goblins]], who added "some special features." The Lord of Fate added that Bofus now had an entire skeleton made of adamantium. Bofus accepted his fate: "We're broken, but we're ready."
 
-Kyle Stoddard announced he had been summoned once again to defend the honor of Princess Sakura, unsheathing and resheathing his sword with every flourish, because "One must always keep one's blade sharp at any moment." Since his last visit he had moved into a house and covered its walls, floors and ceilings in her image. He hailed from Isekai-dom, where Sakura-chan is "the leading princess," and he handed out holographic, sparkly pamphlets setting out the code of conduct of his order, the Simperi.
+Kyle Stoddard announced he had been summoned once again to defend the honor of Princess Sakura, unsheathing and resheathing his sword with every attack, because "One must always keep one's blade sharp at any moment." Since his last visit he had moved into a house and covered its walls, floors and ceilings in her image. He hailed from Isekai-dom, where Sakura-chan is "the leading princess," and he handed out holographic, sparkly pamphlets setting out the code of conduct of his order, the Simperi.
 
-Because it was the holidays, Thea announced that the winner could have any prize they liked. Bofus asked the price of permanent death. "If you have to ask, you really can't afford it," said the Lord of Fate. Kyle asked only that Sakura-chan's name be known throughout the galaxy, so Thea offered him a Sakura waifu pillow. He already owned one, but he "could use more."
+Because it was the holidays, Thea announced that the Lord of Fate was promising the winner whatever prize they wanted. Bofus asked the price of permanent death. "If you have to ask, you really can't afford it," said the Lord of Fate. Kyle asked only that Sakura-chan's name be known throughout the galaxy, so Thea offered him a Sakura waifu pillow. He already owned one, but he "could use more."
 
 Thea led them into the Duck Village, a sweet little town of fruit and vegetable stands around a fountain, whose vendors are used to their stock being thrown around. Kyle ran laps around the tiny fountain to show off his speed, and the Acolytes held up 10/10 signs. Thea was impressed enough to give his first attack a little blessing. Bofus, meanwhile, slammed his head into the paving stones. Thea headed off to collect taxes, the Lord of Fate rose on flared wings, and the crowd in the floating grandstand ripped off their shirts and spilled their "blue and only blue slushies." The Lord of Fate gave his instructions: "I need both of you to kill each other."
 
@@ -52,13 +52,13 @@ Thea ruled that the tattoo would now light up whenever Bofus said Dick Twist's n
 
 Bofus lashed out with his enormous frog tongue three times. He missed every time, even when the tongue wrapped right around Kyle. "Being that of the purity that I am, I do not let anyone touch my lips." Kyle flashed his special-edition Sakura shirt, proclaimed the virtues of crystals over showering, and sprayed a can of Axe body spray. Bofus took one whiff and projectile-vomited into Kyle's face. The mildly acidic frog vomit began wiping the princess's face off the shirt until she looked like she was crying. Kyle's grief-stricken rant about the collector's item he had waited 12 hours for missed completely, because Bofus had put two small frogs over his ears to listen to "the sweet sound of ribbits, baby."
 
-Kyle answered with his signature move. He shouted "Look over there!", teleported behind Bofus and stabbed him between the shoulders. Then he performed the secret Naruto technique, a two-fingered poke to the backside. Thea promptly duct-taped Bofus's cheeks together, foiling the second poke. "You weird little psychopath. Get out of my butthole," Bofus screamed, explaining that frogs have a cloaca and that his flimsy lycra wrestler pants were no protection. Then Kyle stopped, apologized and delivered a sincere lesson: "Remember, consent is always key… Nothing sexier than yes." Thea clapped from the sidelines, and Bofus called it "the hardest 180 I've ever seen."
+Kyle answered with his signature move. He shouted "Look over there!", teleported behind Bofus and stabbed him between the shoulders. Then he performed the secret Naruto technique: he poked Bofus up the butt. Bofus let out an unnatural squeal, and Thea promptly duct-taped his butt cheeks together, foiling the second poke. "You weird little psychopath. Get out of my butthole," Bofus screamed. He explained that frogs have a cloaca, so "everything's coming out of that one hole," and that his thin lycra wrestler pants tear easily, "or, as it turns out, [when you] shove your fingers up my ass." Then Kyle stopped, apologized and delivered a sincere lesson: "Remember, consent is always key… Nothing sexier than yes." Thea clapped from the sidelines, and Bofus called it "the hardest 180 I've ever seen."
 
-The Acolytes chanted for chaos and got the Macarena. A familiar beat blared over the village and the whole crowd danced in sync. Bofus knew the moves perfectly, while Kyle flailed out of rhythm with idol-cheering light batons. Both were worn down, but Bofus took it harder. He looked at his opponent and suffered a full mental snap: "I can't believe I've been reduced to fighting this."
+The Acolytes chanted for chaos and got the Macarena. A familiar beat blared over the village and the whole crowd danced in sync. Bofus knew the moves perfectly, while Kyle flailed out of rhythm with idol-cheering light batons. Both were worn down, and Kyle came out of it slightly ahead. Bofus looked at his opponent and suffered a full mental snap: "I can't believe I've been reduced to fighting this."
 
 ### The Pillow and the Pitch
 
-Bofus took his revenge with "compliments of Dick Twist": hundreds of frogs burst from the ground and made a cha-cha line straight for Kyle's backside. "A brown eye for a brown eye," the Lord of Fate observed. Bofus then pulled a Princess Sakura body pillow from the frog pile and made out with it, bending it back "anime style, inches from the floor," while his own subjects watched in horror as their king sank to this level. Kyle fell to his knees. When Bofus escalated to punching the pillow, Kyle shrugged it off entirely, since her honor was untouched if she didn't love him back.
+Bofus took his revenge: "You want to come up my butthole? Defend your own butthole. These come compliments of Dick Twist." Hundreds of frogs burst from the ground and made a cha-cha line straight for Kyle's butt. "A brown eye for a brown eye," the Lord of Fate observed. Bofus then pulled a Princess Sakura body pillow from the frog pile and made out with it, his massive tongue wrapped around her, and Kyle fell to his knees. Bofus made out harder, bending the pillow back "anime style, inches from the floor," while his own subjects watched in horror as their king sank to this level. When Bofus escalated to punching the pillow, Kyle shrugged it off entirely: being punched by him meant nothing to her.
 
 Bofus sank into despair: "I rule a frog nation. I've used it to climb up a butt and punch a pillow today. This is really who I am." He turned his misery into a shield ("You wouldn't hit a frogman, would you? Who's having a very bad day"), and it worked perfectly. Kyle felt bad and sat down for a heart-to-heart. He told Bofus how he had once been at his lowest, until a goddess, Sakura-chan, came to him and said it was okay. He gave Bofus a small chibi figure of her and pitched the benefits of the Simperi: dental coverage, a fragrance line, wrinkle-proof shirts. Bofus nearly converted. Then Kyle mentioned the fedoras. "Not the fedora. I have a crown. I cannot replace it with a fedora. This would be sacrilege."
 
@@ -66,7 +66,7 @@ Bofus sank into despair: "I rule a frog nation. I've used it to climb up a butt 
 
 After a short break, [[The Box of Chaos]] slammed into the village dirt in a column of fire, and its shadowy resident crept out. Bofus sacrificed the chibi figure ("take this tiny piece of shit"). The figure in the box asked, "Didn't you have a bigger head last time I saw you?" Bofus explained, "It was an entire character arc. But we're past that now. This is the real me." In return he received a ring that once belonged to the Lord of Fate, which made him master of time and space for a round.
 
-Things finally went Bofus's way. He rammed frogs into the shotgun again ("Honestly, I have a theme") and then unleashed a tidal wave of frogs. The spirits of Richard Knottley and Bone Daddy Daddy appeared behind him, patting his shoulder. Kyle, unable to strike back properly, drank four huge Mountain Dews from his jacket, gave the last one to Thea, and threw a can of Sahara Mist. The smell made all three of them vomit electric green into the village fountain while a nun crossed herself in the background.
+Things finally went Bofus's way. He rammed a couple of frogs up the butt of the shotgun ("Honestly, I have a theme") and then unleashed a tidal wave of frogs. The spirits of Richard Knottley and Bone Daddy Daddy appeared behind him, patting his shoulder. Kyle, unable to strike back properly, drank four huge Mountain Dews from his jacket, gave the last one to Thea, and threw a can of Sahara Mist. The smell made all three of them vomit electric green into the village fountain while a nun crossed herself in the background.
 
 Thea then rolled a perfect 20 for a chaos event, but both champions resisted it before she could even read it out. She closed her scroll and kicked them both in the shins. Bofus snapped back at her: "Maybe if you stopped reading your list and started reading your fucking emails, we'd be a little bit further along." Thea conceded the point and launched "Thea answers emails," at gmail.com.
 
@@ -74,13 +74,13 @@ Thea then rolled a perfect 20 for a chaos event, but both champions resisted it 
 
 Bofus returned to the box, named its little resident Greg, and sacrificed the body pillow. The shadow put on a lab coat and began extracting DNA from it. Bofus was rewarded with the bow of [[Grandmaster Elusia Skypiercer|Elusia Skypiercer]] herself, a weapon that becomes whatever its wielder wishes. He wished for a second shotgun. Dual-wielding, twirling them like an outlaw, he blasted away "For Richard Knottley." Both fighters were now badly spent.
 
-"Time to get serious," said Kyle. "While you were studying the way of the party, I was studying the blade." His pocket glitter failed, because Bofus's frog eyes were too small for it, and Thea rolled in it until she was a pink sparkly imp. Kyle's parkour spin attack went disastrously wrong, and Bofus punched him in the groin. Kyle steadied himself by petting a Sakura plushie, revealing dimensional pockets stuffed with merch. Then he drew a magic wand: "Pure Sakura princess powers!" Piece by piece, in a cloud of sparkles, he transformed into a frilly, bubblegum-pink Princess Sakura. "Can I elect to have a stroke and just fucking die?" Bofus asked. He stayed in cosplay for the rest of the fight.
+"Time to get serious," said Kyle. "While you were studying the way of the party, I was studying the blade." His pocket glitter failed, because Bofus's frog eyes were too small for it, and Thea rolled in it until she was a pink sparkly imp. Kyle's parkour spin attack went disastrously wrong, and Bofus punched him in the balls. Kyle steadied himself by petting a Sakura plushie's hair, then flashed dimensional pockets stuffed with merch. Then he drew a magic wand: "Pure Sakura princess powers!" Piece by piece, in a cloud of sparkles, he transformed into a frilly, bubblegum-pink Princess Sakura. "Can I elect to have a stroke and just fucking die?" Bofus asked. Kyle stayed in cosplay for the rest of the fight.
 
-A second chaos event sent a silver saucer to beam them up. Thanks to Thea's tape, Bofus came through unscathed, while Kyle got the worst of it. "Uno reverse," said the Lord of Fate. "Kyle gives the aliens an oil change."
+A second chaos event sent a silver saucer to beam them up, with a warning that their already-probed buttholes would be extra sensitive. Thanks to Thea's tape "twixt my cheeks," Bofus came through unscathed, while Kyle got the worst of it. "Uno reverse," said the Lord of Fate. "Kyle gives the aliens an oil change."
 
 ### The Final Blow
 
-Bofus held the advantage but was barely holding together. Some of his frogs were now wearing pink wigs. His attempts to clothe Sakura-Kyle in a trench coat, then in frog skin, failed against a voice that only grew higher and stranger: "No frogs, too! No for me please-oo!" Desperate, Bofus begged the Lord of Fate for one more boost. The Lord of Fate had had enough too. "I actually can't stand this either," he said, and handed back the shotgun he had borrowed.
+Bofus held the advantage but was barely holding together. One of his frogs now seemed to be wearing a pink wig. His attempt to force the trench coat back onto Sakura-Kyle failed, and although his frogs managed to clothe Kyle in their own skin, the squeeze that followed failed against a voice that only grew higher and stranger: "No frogs, too! No for me please-oo!" Desperate, Bofus begged the Lord of Fate for one more boost. The Lord of Fate had had enough too. "I actually can't stand this either," he said, and handed back the shotgun he had borrowed.
 
 Bofus aimed at "this monstrosity's head": "Be at peace, son." He rolled a 1. His rebuilt body, stitched together time and again, could no longer hold itself together. His human hands seized on the gun, a finger jammed into the barrel, and the misfire blew his tiny frog head clean off his body. His last thought was **"At least I didn't die a nerd."**
 
@@ -88,13 +88,13 @@ The head splattered into a greenish-pink mural, time seemed to freeze, and a bra
 
 ## Dried Blood
 
-In the after-show, Kyle, still in his Sakura voice, left the Acolytes with a blessing: "By words of Sakura-chan, keep following your heart, awoo-oo-choo!" King Bofus offered a gracious farewell. He credited Richard Knottley and Bone Daddy Daddy for the man, king and frog he had become, and thanked Kyle sincerely for killing him.
+In the after-show, Kyle, still in his Sakura voice, left the Acolytes with a blessing: "By words of Sakura-chan, keep following your heart, awoo-oo-choo!" King Bofus offered a gracious farewell. He credited Richard Knottley, Bone Daddy Daddy and, regretfully, Kyle for the man, king and frog he had become, and thanked Kyle sincerely for killing him.
 
 ## Notable Moments
 
 - Bofus's shotgun fired live frogs, reloaded by hand from his "loyal citizens."
-- Kyle opened combat with a Mountain Dew ceremony that healed both fighters' spirits.
-- Kyle paused mid-fight to deliver a heartfelt lesson on consent, and Thea applauded.
+- Kyle answered Bofus's opening barrage with a Mountain Dew ceremony that restored his own fighting spirit.
+- Kyle paused mid-fight, right after poking Bofus up the butt, to deliver a heartfelt lesson on consent, and Thea applauded.
 - Bofus nearly joined the Simperi, until the fedoras reminded him he had a crown.
 - Kyle transformed into Princess Sakura and fought the rest of the match in full cosplay.
 - Bofus, granted one last chance by a disgusted Lord of Fate, blew his own head off with a misfire.

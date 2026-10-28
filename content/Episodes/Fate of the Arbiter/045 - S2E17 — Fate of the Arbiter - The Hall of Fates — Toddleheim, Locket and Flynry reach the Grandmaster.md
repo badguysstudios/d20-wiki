@@ -22,7 +22,7 @@ canon_order: 45
 
 [Watch on YouTube](https://youtu.be/ZAhiweAX4gI)
 
-Months after escaping the Arbiter's private arena, [[Toddleheim|Toddleheim]], [[Locket]] and [[Flynry]] are living with the resistance and taking stranger jobs by the week. This time the mission is the big one: break into [[The Dread Fortress]] and warn [[Grandmaster Elusia Skypiercer|the Grandmaster]] about her treacherous right hand. The road there runs through flirtation, a taco-themed knife smith, a trench-coat jewelry dealer, a river of magical acid and a monster made entirely of sewage. It ends with **[[The Arbiter|the Arbiter]] finally confessing everything** to the Grandmaster's face.
+Months after escaping the Arbiter's private arena, [[Toddleheim|Toddleheim]], [[Locket]] and [[Flynry]] are living with the resistance and taking stranger jobs by the week. This time the mission is the big one: break into [[The Dread Fortress]] and warn [[Grandmaster Elusia Skypiercer|the Grandmaster]] about her treacherous right hand. The road there runs through flirtation, a knife smith who just stabs people, a trench-coat jewelry dealer, a river of magical acid and a monster made entirely of sewage. It ends with **[[The Arbiter|the Arbiter]] finally confessing everything** to the Grandmaster's face.
 
 ## The Story
 
@@ -30,15 +30,15 @@ Months after escaping the Arbiter's private arena, [[Toddleheim|Toddleheim]], [[
 
 The heroes had come a long way. They were first hired by the Grandmaster to rescue the Arbiter from kidnappers, and discovered he was the one plotting a coup against her. They fought their way out of his personal arena under a giant statue of himself, where [[Lyrus]] carved them escape portals with his Void swords. Somewhere along the way Toddleheim, "the booty loving wizard," was bitten and became a werewolf. They ended up in [[The Faithful's hideout|the hideout of the Faithful]], a resistance working in the shadows on the Grandmaster's behalf without her knowledge, where [[The Seer]], an old blind Dragonborn, forged each of them a magic item.
 
-Several months later the hideout was home. It was an old smith shop with sheets hung up for privacy and magical fans stirring air that smelled of forges, armor and leather. To Locket it had all the charm of a college dorm with no cleaning rota. They had just come back from a mission involving tacos that came to life ("the results were quite delicious," Flynry reported). Toddleheim admitted his new condition had side effects: "Hair is growing quite a lot faster in unexpected places, but I'm taking care of business as one should." He had also drunk the Seer's potion of aging and was now about twelve years younger, though only "some of the fine wrinkles" had noticed.
+Several months later the hideout was home. It was an old smith shop with sheets hung up for privacy and magical fans stirring air that smelled of forges, armor and leather. It had all the charm of a college dorm with no cleaning rota. They had just come back from a mission involving tacos that came to life ("the results were quite delicious," Flynry reported). Toddleheim admitted his new condition had side effects: "Hair is growing quite a lot faster in unexpected places, but I'm taking care of business as one should." He had also drunk the Seer's potion of aging and was now about twelve years younger, though only "some of the fine wrinkles" had noticed.
 
-Flynry stepped on [[Kenny]], who was missing an arm and wore fresh claw marks across his chest and face. Kenny kept a very careful distance from Toddleheim, and he had a reason: "You were standing right there. He ripped my arm right off."
+Flynry stepped on [[Kenny]], who was missing an arm and wore large claw marks across his chest and face. Kenny kept a very careful distance from Toddleheim, and he had a reason: "You were standing right there. He ripped my arm right off."
 
 ### A Knife Smith and a Chef
 
 A newcomer in a blue cloak lowered his hood to reveal a slender, silver-haired elf. "I am Baptiste," said [[Baptiste]]. "I have never stabbed any of you before, have I?" He flicked a silver knife past Locket's head into the wall and winked. Locket, blushing under her fur, pulled it free: "I'll keep this." It was a fine silver dagger, and the blush only deepened as Baptiste lectured on the emotional nuances of stabbing. "I'm a knife smith by trade, and by knife smith I mean that I just stab people." Toddleheim wondered aloud whether they were "still talking about knives." When Baptiste offered to practice stabbing with the wizard, Toddleheim gallantly steered him toward Locket instead, and Baptiste swept out with a cloak-swish that went on a little too long.
 
-[[Frank]], an orc in furs who had sat through the whole display, gave the elf "three or four days" to live. Frank was the resident chef, serving rodent stews and a "mean raccoon taco" whose crunch was a family secret. He stirred his cauldron with his battle axe and sprinkled in dirt "for some texture seasoning."
+[[Frank]], an orc in furs who had sat through the whole display, gave the elf "three or four days" to live, and added his own reading of the performance: "I think the knife was his penis." Frank was the resident chef, serving rodent stews and a "mean raccoon taco" whose crunch was a family secret. He stirred his cauldron with his battle axe and sprinkled in dirt "for some texture seasoning."
 
 ### The Mission
 
@@ -58,13 +58,13 @@ Kenny wrenched a grate free one-handed in a dead-end alley, and down they went. 
 
 Kenny was not so lucky. He had shot out first, straight into a pool of magical waste, oil and toxic sludge. He sank with his arm raised, melting away until only the mood armband was left, and then that melted too. The schematics went with him. "Don't let his death be in vain," Lyrus said. "He showed us the dangers of this place."
 
-To redeem himself, Flynry dove into the acid, found a chain in a flooded side chamber and pulled it, halving the water level. Toddleheim healed his blistered skin and even mended his clothes. They pressed upstream, until waves of rats came pouring the other way, fleeing something. Locket's blades and burning arrows cut through the swarms. Toddleheim's fire set the oil-soaked rats alight like living fireballs. Lyrus dropped one Void sword into the acid and dulled its edge, while the other collapsed each rat it killed into a tiny black void. Flynry finished the last pleading rat with a single fist. "It might be some sort of Rat King situation," Lyrus mused.
+To redeem himself, Flynry dove into the acid, found a chain in a side chamber with an air pocket and pulled it, halving the water level. Toddleheim healed his blistered skin and even mended his clothes. They pressed upstream, until waves of rats came pouring the other way, fleeing something. Locket's blades and burning arrows cut through the swarms. Toddleheim's fire set the oil-soaked rats alight like living fireballs. Lyrus dropped one Void sword into the acid and dulled its edge, while the other collapsed each rat it killed into a tiny black void. Flynry finished the last pleading rat with a single fist. "It might be some sort of Rat King situation," Lyrus mused. Then Flynry stepped aside to pee into the acid.
 
 ### The Sludge Elemental
 
 Upstream, Locket noticed the sewage flowing upward and in circles. She put an arrow into it, and the whole pool rose as a huge sludge elemental "with an arrow sticking out of its face." Fire hurt it badly, but the burning sludge gave off fumes that sickened Toddleheim, while Flynry, immune to poison, hid in a side room. Lyrus quickened Locket and pointed his blade: "Not today, shit monster!"
 
-Flynry came up with a plan. He dipped his gauntlets in muck and had Locket light them with a flaming arrow, then vaulted off the wall over Toddleheim's bonfire and brought both burning fists down. The elemental answered with a whipping blast of acid sludge. Toddleheim bent a bolt of fire around a corner and splattered it across the walls ("Like the inside of a toilet," said Flynry). Then came the encore: "One more time, love." Locket's arrow grazed both sets of his knuckles, and Flynry rammed his flaming fists down the monster's throat and twisted until it exploded in a fireball of filth. "I think I got him."
+Flynry came up with a plan. He dipped his gauntlets in muck and had Locket light them with a flaming arrow, then vaulted off the wall over Toddleheim's bonfire and brought both burning fists down. The elemental reared back like a whip and answered with its "shit cannon," a blast of acid sludge. Toddleheim bent a bolt of fire around a corner, then splattered the sludge across the walls with magic missiles ("Like the inside of a toilet," said Flynry). Then came the encore: "One more time, love." Locket's arrow grazed both sets of his knuckles, and Flynry rammed his flaming fists down the monster's throat and twisted until it exploded in a shit fireball. "I think I got him."
 
 The blast lit every slick surface and revealed a gate. Toddleheim pushed his earth-shaping magic past its limits and dug a tunnel straight under it.
 
@@ -92,7 +92,7 @@ Two blue crystals at the hall's end opened a portal, and the trio tumbled onto t
 
 He snapped his fingers, and they stood in an ice-covered copy of the throne room, ringed by dozens of champions. "Some came willingly to my side… Others had to be convinced." Many had glowing white and black eyes: "they were touched by my shadow." Among the crowd stood faces like [[Thornabub]], [[Steely Dan]], [[Ralzamon]], [[Baron Voltágè]], [[Mageic|Mageic the Magician]] and [[Dewdrop Grizzlebee]], with the Arbiter's own shadow at the far end of the room. Flynry went full beast. The Grandmaster revealed that the Hall of Fates was a defense mechanism, its mirrors "a beast, a living creature all on its own." She was not hopeful about Lyrus.
 
-Rather than fight fourteen-to-four, the Grandmaster called him a coward with no witnesses and laid down a dare: a public tournament for the Grandmaster title, her champions against his. He accepted, on the condition that if she lost, she would serve as *his* arbiter. When he invited the trio to switch sides, Locket refused: "Very good people have died for this cause." He asked if they were still mad about Orin, and the Grandmaster, learning of it for the first time, demanded to know what had happened to her old friend. "Orin doesn't exist anymore. He's no more real than the dust at your feet. He got in the way… Your weakness is a disease, a decay, a rot."
+Rather than fight fourteen-to-four, the Grandmaster called him a coward with no witnesses and laid down a dare: a public tournament for the Grandmaster title, her champions against his. He accepted, on the condition that if she lost, she would serve as *his* arbiter. When he invited the trio to switch sides, Locket refused: "Very good people have died for this cause." He asked if they were still mad about Orin, and the Grandmaster demanded to know what had happened to her old friend. "Orin doesn't exist anymore. He's no more real than the dust at your feet. He got in the way… Your weakness is a disease, a decay, a rot."
 
 "Fine," said the Grandmaster. "Challenge my weakness." The Arbiter grinned: "I won't say no to a wager." In one week, his champions would face whatever "riffraff" she could find, to settle once and for all who would control D20 Deathmatch.
 
@@ -102,7 +102,7 @@ Rather than fight fourteen-to-four, the Grandmaster called him a coward with no 
 - Flynry and Locket's flaming-knuckles combo ended with Flynry exploding a sludge elemental from the inside.
 - Toddleheim never once looked into the mirrors, then talked Flynry home with "we're your family now."
 - Lyrus dove into a mirror after a vision of his father's death and vanished.
-- The Arbiter, mid-turkey leg, confessed to the coup, the Tarrasque attack and his own kidnapping.
+- The Arbiter, caught with his feet up and a turkey leg in hand, confessed to the coup, the Tarrasque attack and his own kidnapping.
 
 ## Memorable Quotes
 - **Baptiste:** "I'm a knife smith by trade, and by knife smith I mean that I just stab people."

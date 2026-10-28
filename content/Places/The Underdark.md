@@ -14,13 +14,13 @@ tags:
 
 The Underdark is home to many peoples: drow, duergar, kobolds, goblins, hobgoblins, bugbears, Illithids and the Kuo-Toa, described as "walking fishmen." Each kept to its own corners. The dwarves had their bastion cities, the drow their conclaves, the goblins their warrens and the kobolds their dens. They also kept temples, which the invaders from above later raided.
 
-Life down there was famously cut off. Its people lived, quite literally, under a rock and were busy with their own affairs, so news from the Overworld never reached them. Even the name of [[Grandmaster Elusia Skypiercer|the Grandmaster]] means nothing to some of them. Their war machines carry a family resemblance to the place. The cannons fielded in the war are metallic parodies of Underdark war beasts, rolling on a wheeled back limb, steadied by two three-fingered arms, with a gaping mouth like a dragon's or a troll's.
+Life down there was famously cut off. Its people lived, quite literally, under a rock and were busy with their own affairs, so news from the Overworld never reached them. Even the name of [[Grandmaster Elusia Skypiercer|the Grandmaster]] means nothing to some of them. The war machines that now hunt them carry a family resemblance to the place. The cannons fielded against them are metallic parodies of Underdark war beasts, rolling on a wheeled back limb, steadied by two three-fingered arms, with a gaping mouth like a dragon's or a troll's.
 
 ## History
 
 ### The Crusade from Above
 
-The trouble began as a simple war of Underdark against Overworld. Surface-dwellers came down into the dark, invading homes and temples in search of treasure and adventure. The Damaranians from above crusaded into the Underdark and put whole communities to the blade. Among their victims were the people of Trissavin Baenerret, a young drow who had dreamed of becoming a priestess and a beacon of hope for her people.
+The trouble began as a simple war of Underdark against Overworld. Surface-dwellers came down into the dark, invading homes and temples in search of treasure and adventure. The Damaranians from above crusaded into the Underdark and put the people of Trissavin Baenerret to the blade. When she was young, before the crusade, she had dreamed of becoming a priestess and a beacon of hope for her people.
 
 ### The Weapon
 
@@ -36,7 +36,7 @@ When the Warmind turned, the peoples of the Underdark fled their homes for the s
 
 By year 10 of the war, the survivors had dug in at an encampment of stone buildings and tents, as told in Pieces of a King Ep 1 — DӒMMERUNG. Kobolds, duergar and drow eyed the newcomers with deep suspicion. A goblin who had just saved the party's skins slapped [[Grimnar Stormclaw|Grimnar]] on the calf and introduced himself: "Name's Grym, by the way. You're welcome for the save. Oh, and welcome to the Rust Blood Alliance."
 
-In [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2 — THE WAR COUNCIL]], the camp was busy with drow, kobolds, goblins, hobgoblins, bugbears and Kuo-Toa hauling crates, digging trenches and raising barricades. When the party walked in, the record scratched and every head turned. [[Grim]] hurried them along. Trissavin, now a leader of the alliance, told them the war's history alongside Gund, the chief artillerist, who had worked with her "since the beginning."
+In [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2 — THE WAR COUNCIL]], the camp was busy with drow, kobolds, goblins, hobgoblins, bugbears and Kuo-Toa hauling crates, digging trenches and raising barricades. When the party walked in, the record scratched and every head turned. [[Grim]] hurried them along. Trissavin told them the war's history. Gund, the chief artillerist, had worked with her "since the beginning."
 
 [[Nehebka]] didn't soften her verdict: "So you created your own problem." Trissavin didn't argue.
 
@@ -49,8 +49,8 @@ In [[Episodes/Pieces of a King/126 - Pieces of a King Ep 3 — The Warhead|Piece
 ## Notable Figures
 
 - [[Grim]]: the goblin who rescued the party and welcomed them to the Rust Blood Alliance.
-- Trissavin Baenerret: a drow who once dreamed of being a priestess and became a leader in the war against the Warmind.
-- Gund: chief artillerist of the alliance and Trissavin's partner since the war began.
+- Trissavin Baenerret: a drow who once dreamed of being a priestess and now fights, with her own squad, in the war against the Warmind.
+- Gund: chief artillerist of the alliance, who has worked with Trissavin "since the beginning."
 - [[The Warmind]]: the weapon the Underdark built to save itself, now bent on its extinction.
 
 ## Appearances

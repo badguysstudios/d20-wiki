@@ -20,7 +20,7 @@ canon_order: 12
 
 [Watch on YouTube](https://youtu.be/t0AoL4fBrVE)
 
-**Blood Mage** is the Deathmatch where [[The Arbiter|the Arbiter]] turned up with only one of the two [[Champions|champions]] he needed, and [[Grandmaster Elusia Skypiercer|the Grandmaster]] made him pay for it. He had to rip a ghostly echo of himself out of his own chest and send it into the arena. [[The Shadow of the Arbiter]] spent his first day of existence fighting [[Sunozar]], a seven-foot-tall half-orc blood hunter with a flaming sword and a pink mohawk. Along the way he had a birthday, plotted treason, and learned what an insult is.
+**Blood Mage** is the Deathmatch where [[The Arbiter|the Arbiter]] turned up with only one of the two [[Champions|champions]] he needed, and [[Grandmaster Elusia Skypiercer|the Grandmaster]] made him pay for it. He had to rip a ghostly echo of himself out of his own chest and send it into the arena. [[The Shadow of the Arbiter]] spent his first day of existence fighting [[Sunozar]], a seven-foot-tall half-orc blood hunter with a flaming sword and a pink mohawk. Along the way he had a birthday, plotted treason, and delivered his first insult.
 
 ## The Story
 
@@ -28,7 +28,7 @@ canon_order: 12
 
 The episode opened in the Grandmaster's underground cathedral throne room, where water dripped down the stone into moss and grass. The Grandmaster sat on her throne with an adult coloring book. Her page showed flowers and a hummingbird eating a tiger. "It's very vicious," she noted. "Blood everywhere."
 
-A portal opened and the Arbiter stepped through, kneeling and apologizing for interrupting her designated three o'clock coloring hour. He had brought only one champion. The other, he explained, had seemed a fine prospect: "He told me he was a boxer. Turned out that he only owned boxers, like the dogs." The Grandmaster suggested his tongue should be snipped for that. Then she threw the coloring book over her shoulder and gave her ruling.
+A portal opened and the Arbiter stepped through, kneeling and apologizing for interrupting her designated three o'clock coloring hour. When she asked what could be more exciting than coloring in the lines, the answer was a Deathmatch, and she threw the coloring book behind her throne. He had brought only one champion. The other, he explained, had seemed a fine prospect: "He told me he was a boxer. Turned out that he only owned boxers, like the dogs." The Grandmaster suggested his tongue should be snipped for that. Then she gave her ruling.
 
 The Arbiter would fight himself, but not at full strength. She had "allowed you to expand your powers while you're here," and she wanted to see whether even a sliver of him could stand in the arena. He protested that the champion "couldn't even handle my shadow." She answered:
 
@@ -70,13 +70,13 @@ Then the Shadow's eyes glowed red. "Listen, I could kill you easily with the sna
 
 The bewitched Sunozar reasoned that the Shadow was standing in his way, so he would kill it first to get to her. He invited her to come down. She said her wings were too tired, but promised to come down to him if he won. He swung hard, and one swing came up between the Shadow's legs. "Hurry, dear Shadow, your nether regions are in danger." The Shadow turned back time once more and escaped. "It seems his diamonds are well protected," said the Grandmaster. Sunozar downed a mutagen that made him quicker and started riverdancing, earning the title "the Lord of the Riverdance."
 
-Then a misunderstanding surfaced. The Grandmaster had heard Sunozar's brand as a "spell of castration," and she urged the Arbiter to check himself, since what happened to his shadow might be happening to him. It was the Brand of *Castigation*, Sunozar clarified. Though as a bull rancher who really had killed a man over a stepped-on toe, "he may have removed some things as well."
+Then a misunderstanding surfaced. The Grandmaster had heard Sunozar's brand as a "spell of castration," and she urged the Arbiter to check that he had not accidentally been castrated himself, since what happened to his shadow might be happening to him. It was the Brand of *Castigation*, Sunozar clarified. Though as a bull rancher who really had killed a man over a stepped-on toe, "he may have removed some things as well."
 
 ### The Shadow of a Shadow
 
-Back from a break, the Shadow delivered his first insult ever: "You are but a shadow of an orc." Sunozar conceded that as a half-orc, technically, yes. "This is my first time insulting anyone on my own," the Shadow said proudly. The Grandmaster promised dictionaries for everyone.
+Back from a break, during which everyone had "emptied our bodily fluids," the Shadow delivered his first insult ever: "You are but a shadow of an orc." Sunozar conceded that as a half-orc, technically, yes. "This is my first time insulting anyone on my own," the Shadow said proudly. The Grandmaster promised dictionaries for everyone.
 
-Bloodied, the Shadow blinked away and **tore a creature out of himself**, the same way the Arbiter had torn him out: the shadow of a shadow. It was a winged shadow demon that looked like Ryuk from *Death Note*, and it carried a great shadowy sword. Sunozar asked if he was compensating for something. A quick contest settled it: Sunozar's sword was bigger. The spawn answered by slashing him three times with freezing shadow, including one perfect strike, and nearly took him apart. "I hate it here." The Shadow stepped through the blue portal and reappeared far behind him. Because the Shadow was now focused on keeping the spawn alive, his hold on Sunozar's mind broke. Sunozar was back to killing the Shadow purely by his own choice.
+Bloodied, the Shadow blinked away and **tore a creature out of himself**, the same way the Arbiter had torn him out: the shadow of a shadow. It was a winged shadow demon that looked like Ryuk from *Death Note*, and it carried a great shadowy sword. Sunozar asked if he was compensating for something. A quick contest settled it: Sunozar's sword was bigger. The spawn answered by slashing him three times with freezing shadow, including one perfect strike, and left him bloodied. "I hate it here." The Shadow stepped through the blue portal and reappeared far behind him. Because the Shadow was now focused on keeping the spawn alive, his hold on Sunozar's mind broke. Sunozar was back to killing the Shadow purely by his own choice.
 
 ### A Walk with Teddy
 
@@ -92,9 +92,9 @@ As he fell, the Grandmaster asked him who she was to him. Was she more than just
 
 ### The Final Blow
 
-The Shadow was so confident that he turned back time just to give Sunozar a second chance to act first. Sunozar took it. Then the Shadow made his last mistake: "Look at you with a pink mohawk. What is that even? Who did that to you?" Sunozar replied, "Never, and I repeat, never talk about my mohawk." The last person who mocked it, he said, got what the Grandmaster thought he'd said earlier. "We've come full circle," she said. "This is a story."
+The Shadow was so confident that he turned back time just to give Sunozar a second chance to act first. Sunozar took it. Then the Shadow made his last mistake: "Look at you with a pink mohawk. What is that even? Who did that to you?" Sunozar replied, "Never, and I repeat, never talk about my mohawk." The last person who mocked it, he said, got what the Grandmaster thought he'd said earlier: castrated. "We've come full circle," she said. "This is a story."
 
-Sunozar charged and **swung the sword like a baseball bat at the Shadow's head**. The Shadow threw up a magical shield, but the blow smashed straight through it. "That was a mistake. I really regret that now. My only other regret is that I never got to eat." He went incorporeal around the stuck blade, and a shadowy tear rolled down his cheek. The Acolytes threw beers like it was the ninth inning. The Grandmaster gathered up the chaos they had given her and bottled it for the next battle: "Those who worship at my feet will never be forgotten."
+Sunozar charged and **swung the sword like a baseball bat at the Shadow's head**. The Shadow threw up a magical shield, but the blow smashed straight through it. "That was a mistake. I really regret that now. My only other regret is that I never got to eat." He went incorporeal around the stuck blade, and a shadowy tear rolled down his cheek. The Acolytes threw beers, and some guy deep-throated a hot dog, like it was the ninth inning. The Grandmaster gathered up the chaos they had given her and bottled it for the next battle: "Those who worship at my feet will never be forgotten."
 
 Sunozar then **ate the last candy bar right in the dying Shadow's face**. "I really don't like you," said the Shadow. "I fucking hate you. Sitting there smacking." The Shadow faded away. "I decapitated a shadow."
 
@@ -104,14 +104,14 @@ Asked where he had found this champion, the Arbiter said, "He was at the Ruby Tu
 
 ## Dried Blood
 
-Afterward, Sunozar's life story filled out. He was a street urchin and an orphan who never knew his mother. He befriended an old man who turned out to be a powerful wizard, and together they saved several cities from demons, goblins and trolls. Statues of the pair stand in a couple of those cities, one in cast bronze and one in marble. When the old man died, his soul went into the sword. The fear of heights he admitted mid-fall is now permanent: Sunozar is afraid of heights forever. The finishing touch of eating the candy in the Shadow's face came from an Acolyte in the stands, Mutant Noodles.
+Afterward, Sunozar's life story filled out. He was a street urchin and an orphan who never knew his mother. He befriended an old man who turned out to be a powerful wizard, and together they saved several cities from demons, goblins and trolls. Statues of the pair stand in a couple of those cities, one in cast bronze and one in marble. When the old man died, his soul went into the sword. The fear of heights he admitted on the giant's palm is now permanent: Sunozar is afraid of heights forever. The finishing touch of eating the candy in the Shadow's face came from an Acolyte in chat, Mutant Noodles.
 
 ## Notable Moments
 
 - The Arbiter ripped out his own shadow, then immediately tore its wings off "to even the odds."
-- The Shadow claimed the piñata for his first birthday in thousands of years, reversed time to hit it, and missed anyway.
+- The Shadow claimed the piñata for his first-ever birthday after thousands of years of sharing one with the Arbiter, reversed time to hit it, and missed anyway.
 - The Shadow bewitched Sunozar into plotting against the Grandmaster, prompting the third-cheeseburger defense.
-- The castration/castigation mix-up, and the Grandmaster telling the Arbiter to check himself.
+- The castration/castigation mix-up, and the Grandmaster telling the Arbiter to check that he hadn't been castrated.
 - Sunozar fell off Theodore the Giant's hand and was caught by the Grandmaster after praying to her wings.
 - Sunozar decapitated the Shadow over a mohawk insult, then ate candy in his dying face.
 
@@ -184,7 +184,7 @@ Afterward, Sunozar's life story filled out. He was a street urchin and an orphan
 
 ### Items
 - The **dragon-skull Flamesword** (sorcerer's soul inside).
-- **[[Items/The Arbiter's Rings|The Arbiter's rings and over-cloak]]**, removed to make the Shadow.
+- **The Arbiter's rings and over-cloak**, removed to make the Shadow.
 - **The GM's piñata** (AC 15, anime eyes) and **legally distinct Snickers-like candy bars** (2 HP each, five survived).
 - Mutagens: Celerity and Gelid.
 - The GM's adult coloring book.

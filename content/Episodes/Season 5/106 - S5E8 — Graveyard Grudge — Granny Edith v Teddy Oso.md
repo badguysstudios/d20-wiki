@@ -20,7 +20,7 @@ canon_order: 106
 
 [Watch on YouTube](https://youtu.be/QptrBbj427Y)
 
-**Granny Edith** came back to the arena hoping for a rest and got a shotgun-toting zombie hunter instead. In a moonlit graveyard decorated early for Halloween, she fought **Teddy Oso**, a cheerful survivor of the zombie apocalypse who ran on energy drinks and bad decisions. What began as a man kicking an old lady in the backside ended with the floor turning to lava and Granny hurling a loaf of bread the size of a boulder. Along the way she fed the Box of Chaos its first-ever cookie.
+**Granny Edith** came back to the arena hoping for a rest and got a shotgun-toting zombie hunter instead. In a moonlit graveyard on October 1st, the start of Thea's thirty days of Halloween, she fought **Teddy Oso**, a cheerful survivor of the zombie apocalypse who ran on energy drinks and bad decisions. What began as a man kicking an old lady in the butt ended with the floor turning to lava and Granny hurling a loaf of bread the size of a boulder. Along the way she fed the Box of Chaos its first-ever cookie.
 
 ## The Story
 
@@ -34,17 +34,17 @@ She had also decorated his room with cobwebs, scattered skeletons and pumpkins "
 
 ### The Champions
 
-Thea ripped away her sheet and it twirled into a pink portal, delivering "the favorite of all favorites": Granny Edith. Granny was not thrilled. She had hoped "to rest after the last fight and see Gerald," her late husband, and she said so while pinching the Lord of Fate's cheeks very hard. When he asked whether she hadn't died last time, Thea was cheerful about it: "No one dies forever! Except for when they do." She added that if Granny ever did die for good, she would make a lovely first Halloween costume. Granny was appalled, and Thea insisted it was "eco-friendly. It's recycling."
+Thea ripped away her sheet and it twirled into a pink portal, delivering "the favorite of all favorites": Granny Edith. Granny was not thrilled. She had hoped "to rest after the last fight and see Gerald," her late husband, and she said so while pinching the Lord of Fate's cheeks very hard. When he asked whether she hadn't died last time, Thea was cheerful about it: "No one dies forever! Except for when they do." She mused about wearing bodies as suits, and said that if Granny ever died, she would be Thea's first Halloween costume choice. Granny was appalled, since in her day they "certainly didn't make them from the bodies of other people," and Thea insisted it was "eco-friendly. It's recycling."
 
-Through a second portal came Teddy Oso, who announced his plans: "Shoot some faces, punch some bellies, and kick some shins." His shotgun was for shooting zombies in the face. When he was asked whether he'd shoot someone who wasn't quite a zombie yet, the conversation turned dark: "I shot my grandma in the face because she was a zombie and I had to do it and it was real sad and I don't know why you're making me talk about it." Thea called this the can-do, carefree attitude of the Deathmatch arena.
+Through a second portal came Teddy Oso, who announced his plans: "Shoot some faces, punch some bellies, and kick some shins." On eyeballs, he advised, "No, don't poke them. Lick them," and Thea concluded, "We're going to lick some balls tonight," before the Lord of Fate cut it off. His shotgun was for shooting zombies in the face. When he was asked whether he'd shoot someone who wasn't quite a zombie yet, the conversation turned dark: "I shot my grandma in the face because she was a zombie and I had to do it and it was real sad and I don't know why you're making me talk about it." Thea called this the can-do, carefree attitude of the Deathmatch arena.
 
 Thea chose her favorite spooky place, [[The Midnight Mausoleum]]. It is an isolated patch of grass ringed with tombstones, with a gigantic mausoleum on the far side, an ominous angel statue keeping watch, and a huge full moon overhead. When she clapped, skeletal hands began clawing up out of the ground. It "came pre-decorated," she said, which saved on the budget. She flew up through [[The Acolytes]] as they chanted "Granny! Granny! Tedioso!" and gave the champions some advice: "If you cry on the ground, they will throw slushies at you. So, fuck up and own it!"
 
 ### Manners Lessons
 
-Teddy flipped his shotgun around and swung the stock at Granny's shins like a golf club. She hopped right over it, because she had been a jump rope champion back in her day. His follow-up kick to her backside landed and dropped her to her knees. When she asked him to help her up, he refused, giggling because he liked watching old people fall over. Thea slid underneath Granny like a flat table and lifted her up. In return, Granny pulled out a fly swat and smacked Teddy on one ear and then the other.
+Teddy flipped his shotgun around and swung the stock at Granny's shins like a golf club. She hopped right over it, because she had been a jump rope champion back in her day. His follow-up kick to her butt landed and dropped her to her knees. When she asked him to help her up, he refused, giggling because he liked watching old people fall over. Thea slid underneath Granny like a flat table and lifted her up. Then Granny pulled out a fly swat and smacked Teddy on one ear and then the other.
 
-She tried to learn his full name. It came out as "Mr. Teddy Oso," then "Junior the third," then "junior the second," and Thea asked whether his dad was stupid. A handful of flour from Granny's apron would have blinded him, but Thea admitted to a terrible-smelling breeze that blew it into both their lungs. When Granny praised Thea, the Lord of Fate replied that "swift and punishing brutality works the best." Granny suggested the fly swat instead, and he liked the idea.
+She tried to learn his full name. It came out as "Mr. Teddy Oso," then "Junior the third," then "junior the second," and Thea asked whether his dad was stupid. A handful of flour from Granny's apron would have blinded him, but Thea narrated a terrible-smelling breeze, "probably because Thea actually farted," that blew the flour into both their lungs: "fart flower." When Granny praised Thea, the Lord of Fate replied that "swift and punishing brutality works the best." Granny suggested the fly swat instead, and he liked the idea.
 
 The first chaos event blared the Macarena through the arena speakers. Teddy kept up. Granny couldn't: "Gerald and I used to go out dancing every week, but I can't dance by myself. I need a partner."
 
@@ -52,13 +52,13 @@ The first chaos event blared the Macarena through the arena speakers. Teddy kept
 
 Teddy cracked an energy drink, poured it into his shotgun barrel and drank it from there. He was confident about it: "Whatever doesn't kill me. I've survived the zombie apocalypse." Granny told him how she met Gerald on a train. Teddy accused her of stealing his thunder and fired: "Say hi to Gerald on the other side." Granny had just bent down to fetch Gerald's photo from her bag, so the blast sailed over her head and blew apart a zombie rising behind her. Now the dead were climbing out everywhere.
 
-Granny chased him around the graveyard with her rolling pin, missing over and over. She offered to do his laundry, then caught herself: "Wait a minute. I'm not your grandma. You do your own damn laundry." She finally rolled the pin along the ground and tripped him. When she tried to sit on him, she misjudged how far her knees would bend and ended up rolling around on the grass. Thea openly took Granny's side. When Teddy protested that he thought they were cool, she told him, "I am cold. I run a very low temperature." The Lord of Fate apologized for her: "I created her out of a worm."
+Granny chased him around the graveyard with her rolling pin, missing over and over. She offered to do his laundry, then caught herself: "Wait a minute. I'm not your grandma. You do your own damn laundry." She finally rolled the pin along the ground and tripped him. When she tried to sit on him with her "granny butt," she misjudged how far her knees would bend and ended up rolling around on the grass. Thea openly took Granny's side. When Teddy protested that he thought they were cool, she told him, "I am cold. I run a very low temperature." The Lord of Fate apologized for her: "I created her out of a worm."
 
 ### Fritters
 
 Teddy tackled the already-rolling Granny with a perfect natural 20 and admitted, "I've never beat up an old person, but I gotta say, I'm enjoying this." The Lord of Fate observed that so many elderly champions had come through the arena that it was "becoming kind of a national pastime." From the ground, Granny explained that she had 69 great great grandchildren and was well used to young whippersnappers. She also tried to count her children, and lost track when she wondered whether she had counted Harry.
 
-Then she made fritters. A magic pan spat hot butter at Teddy, who flubbed his defense completely and got badly burned. She chopped onions so fast that the juice sprayed into his eyes. Granny was wearing goggle glasses, and at Thea's clap the goblins handed goggles to everyone, zombies and skeletons included, except Teddy. Her giant grater missed him. Granny paused for a cup of tea. Thea sulked behind a tombstone because her dice rolls didn't count, then floated a plan to kill both fighters. The Lord of Fate agreed, as long as she killed Granny first. "Me and Thea got beef now," Teddy said.
+Then she made fritters. A magic pan spat hot butter at Teddy, who flubbed his defense completely and got badly burned. She chopped onions so fast that the juice sprayed into his eyes. Granny was wearing goggle glasses, and at Thea's clap the goblins handed goggles to everyone, zombies and skeletons included, except Teddy. Her giant grater missed him. Granny paused for a cup of tea. Thea hid behind a tombstone and cried because her out-of-turn roll didn't count, then floated a plan to kill both fighters. The Lord of Fate agreed, as long as she killed Granny first. "Me and Thea got beef now," Teddy said.
 
 ### Thrown Imps and Hard Cookies
 
@@ -78,13 +78,13 @@ Teddy charged with his little axe, and it stuck fast in Granny's raised rolling 
 
 Granny took a gentler approach to the box. She offered it fresh chocolate chip cookies with the perfect gooey center. It was suspicious, and explained that nobody had ever given it a cookie because "I'm a piece of a soul trapped in a box." Granny told it that "even a piece of a soul trapped in a box should try a chocolate chip cookie sometime" and poured it a glass of milk. Its eyes went huge, and feasting sounds came from inside. In return it gave her her great grandma's bread and butter pudding, which healed her.
 
-Then the corn dogs caught up with the Lord of Fate. Thea had filled them with laxatives. He ran for the bathroom, and on the way out he snapped his fingers and ripped her wings off so she could "duct tape those back on" during the break. Thea later explained that she had dosed everyone, because "then we have shared trauma together. It is a bonding experience."
+Then the Lord of Fate complained that the corn dogs were getting to him. Thea explained, "That's because I filled them with laxatives… then we'd have a shit storm." He ran for the bathroom, and on the way out he snapped his fingers and ripped her wings off so she could "duct tape those back on" during the break. After the break, Thea announced, "Our poop holes are free now," and explained that she had put laxatives in everyone's corn dogs, because "then we have shared trauma together. It is a bonding experience."
 
 ### Dust and Puns
 
 Teddy shouted his signature move, "Leave Him in the Dust," and a motorcycle appeared from nowhere. He circled Granny in a choking cloud of dust. Thea held a motorcycle-sound contest: Teddy's rated 7/10, the Lord of Fate's "has lips," Granny's sounded like Popeye, and Thea's was "an electric European motorcycle" with a lisp. Granny swept at Teddy with a broom and then clotheslined him off the bike. Her rolling pin glowed with runes in a heroic surge but missed, giving "a nice little disco effect through the fog of dust."
 
-Teddy threw dust in her eyes, shook off the apple's poison, and caught her rotten eggs and ate them. Then Granny remembered she hadn't made any puns yet. She cleaned her spectacles, rolled her pin at him and said, "They see me rolling, I'm baking." It hit. "The puns always do it," she said.
+Teddy threw dust in her eyes and shook off the apple's poison. Then Granny remembered she hadn't made any puns yet. "You can't make a cake without breaking a few eggs," she said, and threw rotten eggs, which Teddy caught and ate. She cleaned her spectacles, rolled her pin at him and said, "They see me rolling, I'm baking." It hit. "The puns always do it," she said.
 
 ### The Floor Is Lava
 
@@ -96,11 +96,11 @@ As he sank in slow motion, Thea asked what was going through his mind. "I realiz
 
 ## Dried Blood
 
-After the fight, the Arbiter congratulated Granny on actually not dying this time. Everyone agreed the dice seemed to turn once the baking puns started. Teddy's player confessed he had never ridden a motorcycle, owned a gun, drunk an energy drink or beaten up an old person: "I'm just a really good actor." The Arbiter felt lied to. The table also declared two numbers official lore. Teddy has killed somewhere between seven and 12,000 zombies, and Granny has 69 great great grandchildren. Granny's last words were "Good things come to those who bake."
+After the fight, the Arbiter congratulated Granny on actually not dying this time. Everyone agreed the dice seemed to turn once the baking puns started. Teddy's player confessed he wasn't an energy drinker, a motorcyclist or a gun owner, and had never beaten up an old person: "I'm just a really good actor." The Arbiter's verdict: "Well, now I just feel fucking lied to." The table also declared two numbers official lore. Teddy has killed somewhere between seven and 12,000 zombies, and Granny has 69 great great grandchildren. Granny's last words were "Good things come to those who bake."
 
 ## Notable Moments
 
-- Thea and a goblin played ghosts in the Lord of Fate's Egyptian cotton sheets, and Thea promoted herself to "principal" for the rest of the night.
+- Thea and a second small "ghost" played in the Lord of Fate's Egyptian cotton sheets, and Thea promoted herself to "principal" for the rest of the night.
 - Teddy drank an energy drink out of his own shotgun barrel, and his missed shot blew apart a rising zombie.
 - Teddy threw Thea at Granny, who caught her and finally lost her temper.
 - Teddy sacrificed his grandma's head to the Box and got a poisoned Granny Smith apple. Granny gave the Box its first cookie and got pudding.

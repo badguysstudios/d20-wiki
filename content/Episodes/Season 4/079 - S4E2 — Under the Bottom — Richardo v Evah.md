@@ -10,8 +10,8 @@ played_by:
 - 'Richardo "Over the Top" Johnson: Danotage'
 - 'Evah: imkattkatt'
 winner: Evah, who was then killed by the Shadow King
-arena: A ruined pirate cove on the open sea
-summary: Evah, a silent barbarian, impaled the arm-wrestling barbarian Richardo on her glaive, and the Shadow King killed her moments after her victory. Both champions died.
+arena: A pirate cove on the open sea
+summary: Evah, a taciturn barbarian, impaled the arm-wrestling barbarian Richardo on her glaive, and the Shadow King killed her moments after her victory. Both champions died.
 tags:
 - episode
 youtube: https://youtu.be/nOz9MpQHR7g
@@ -20,7 +20,7 @@ canon_order: 79
 
 [Watch on YouTube](https://youtu.be/nOz9MpQHR7g)
 
-Two barbarians were pulled into a rotting pirate cove on the open sea: **[[Richardo|Richardo "Over the Top" Johnson]]**, an arm wrestler who thought he had come to an arm-wrestling match, and **[[Evah]]**, a woman who let her glaive do the talking. The fight had a blood fountain, a squadron of grandmothers, a table worn as a tutu and a mother crowd-surfing to her son's aid. It also showed what a Deathmatch looks like when [[The Shadow King]] is the one keeping score.
+Two barbarians were pulled into an old pirate cove on the open sea: **[[Richardo|Richardo "Over the Top" Johnson]]**, an arm wrestler who thought he had come to an arm-wrestling match, and **[[Evah]]**, a woman who let her glaive do the talking. The fight had a blood fountain, a squadron of grandmothers, a table worn as a tutu and a mother crowd-surfing to her son's aid. It also showed what a Deathmatch looks like when [[The Shadow King]] is the one keeping score.
 
 ## The Story
 
@@ -29,16 +29,16 @@ Two barbarians were pulled into a rotting pirate cove on the open sea: **[[Richa
 
 > **The Shadow King:** "Oh, hello, Elusia! It's me, Kaja!"
 
-The Grandmaster answered that playing with her dead friends was "real funny." He asked whether she was being sarcastic, because he couldn't tell. The throne room had become disgusting. The [[Goblins|goblins]] were afraid of it, and only a few dared go in to bring the King drinks and the grapes he gobbled down like a pig. The Grandmaster told them, within his hearing: "Please poison his drink any chance that you get." She called him "uncle" and stomped about like an upset thirteen-year-old, kicking up the rug.
+The Grandmaster answered that playing with her dead friends was "real funny." He asked whether she was being sarcastic, because he couldn't tell. The throne room had become disgusting. The [[Goblins|goblins]] were afraid of it, and only a few dared go in to bring the King drinks and the grapes he gobbled down like a pig. The Grandmaster told them: "Please poison his drink any chance that you get." She called him "uncle" and stomped about like an upset thirteen-year-old, kicking up the rug.
 
 She had found two champions, "since it seems we can't avoid it." The Shadow King insisted that this was *their* Deathmatch and that they were doing it together. "This is not a bonding experience," she snapped. "I'm not bonding over murdering people with you." She promised to prove that in his "dearly missed absence," [[The Void]] had grown stronger. Then she crushed an amulet in her fist. Each time she opened a way through the Void, it cost her a little of her own blood, and it ran down her arm as two large barbarians stepped through.
 
 ### Over the Top
-Richardo made his entrance by threatening management. "Mr. Sir up there, I'm gonna take your crown very soon." The Shadow King was mostly stuck on the name. "Your name is Dick Johnson? This is the guy you brought here?" Richardo said he went by Richardo now, because "we're not in middle school anymore." He added a warning: he'd be surprised to reach his final form tonight, "but if I do, you better watch out."
+Richardo made his entrance by threatening management. "Mr. Sir up there, I'm gonna take your crown very soon." The Shadow King was mostly stuck on the name. "Your name is Dick Johnson? This is the guy you brought here?" Richardo said he went by Richardo, because "we're not in middle school anymore." He added a warning: he'd be surprised to reach his final form tonight, "but if I do, you better watch out."
 
 Evah gave a shorter speech. "I don't talk. My actions do the talking for me." The Shadow King loved it. The Grandmaster checked that Evah talked at all (she did, "on occasion") and reminded both champions that they would be fighting each other, not her. Richardo asked, "What's charade?" The Grandmaster admitted she "maybe didn't prep them a lot," and the Shadow King wondered aloud how the empire was still standing.
 
-She opened a second hole in the Void, and blood ran down her other arm too. The champions found themselves on rickety boards far out on the cool sea, with fish diving beneath them and an old treasure map spread on a table in the middle. It was "perhaps a pirate's cove once used many, many years ago." "Break all their bones," the Grandmaster ordered, "but more important than that is to break their spirit." [[The Acolytes]] cheered from the sky with popcorn and blue raspberry slushies. The Shadow King took a gold throne piled with cushion upon cushion, for "he has a very sensitive ass. Or he is a sensitive ass. We have yet to determine."
+She opened a second hole in the Void, and blood ran down her other arm too. The champions found themselves on rickety boards far out on the cool sea, with fish diving beneath them and a treasure map spread on a table in the middle. It was "perhaps a pirate's cove once used many, many years ago." "Break all their bones," the Grandmaster ordered, "but more important than that is to break their spirit." [[The Acolytes]] cheered from the sky with popcorn and blue raspberry slushies. The Shadow King took a gold throne piled with cushion upon cushion, for "he has a very sensitive ass. Or he is a sensitive ass. We have yet to determine."
 
 Richardo moved first, and he asked where the padded table was, and the strap. He arm wrestled. Evah thought this was a joke and called the whole place a dishonour to "the art of the fight." The Grandmaster told Richardo to think of it as "unregulated on the streets arm wrestling." Street rules meant playing for gold, so the Shadow King rose, and gold fountained out of the torchlit shadows onto the table. "Happy now?"
 
@@ -50,7 +50,7 @@ Then he leapt off the table, "comin' top rope." He hammer-fisted Evah in the thr
 Her answer came with the glaive. After a flourish of swirls and spins, she slashed across his chest, crossed it with a second cut to form an X ("marks the spot because we're in a pirate cove"), and stabbed into the centre. "This is how you play the game." Richardo admired his bleeding scars and decided, "I think this will get me some ladies."
 
 ### Harvey and the Grandmothers
-The Shadow King tried to summon chaos and rolled badly. The Grandmaster told him he sucked at this, so he took it out on the crowd. A giant shadow hand plucked an Acolyte named Harvey from the stands and crushed him, and his blood ran like a waterfall onto the boards. The Grandmaster allowed that he'd deserved it, since they were going to sacrifice him anyway. After a stunned pause, the Acolytes applauded like mad.
+The Shadow King tried to summon chaos and rolled badly. The Grandmaster told him he sucked at this, so he took it out on the crowd. A giant shadow hand plucked an Acolyte named Harvey from the stands and crushed him, spilling his bones and blood over the Acolytes, and his blood ran like a waterfall onto the boards. The Grandmaster allowed that he'd deserved it, since they were going to sacrifice him anyway. After a stunned pause, the Acolytes applauded like mad.
 
 When the Shadow King tried to skip ahead, the Grandmaster lost patience. "This is why you shouldn't run Deathmatches. God, I wish [[The Arbiter]] was back here." She called the chaos herself: "Acolytes, if you would be ever so kind to once again throw us your grandmothers." Down came five of them: Meemaws, Grandma Dorothy, Tootsies, Diane (curly hair, tight-knit sweater, pearl pendant) and G-Ma. Each was ready to hand out a cookie or a slap with her purse to any fighter nearby. The grannies were especially taken with Richardo's sexy new scars.
 
@@ -82,12 +82,12 @@ Evah still feared him, so she talked herself through it: "You killed them. You k
 
 > **Evah:** "I'm gonna put your brains in this thing. And then I'm going to drink them."
 
-"I like the way she fights, this is getting great," said the Shadow King. Now Richardo was the frightened one, shaking in his off-brand "Lug" beach sandals. He told her she was in for a trick: he didn't have any brains to drink. His holy sword finally connected, light and dark smashing together, though Evah turned some of the blow aside. He followed with big swings and a shoulder-and-spike hit. When the turn order got muddled, the Shadow King declared that he didn't care about any of them. "This is why you don't get to be in charge," the Grandmaster said.
+"I like the way she fights, this is getting great," said the Shadow King. Now Richardo was the frightened one, shaking in his off-brand "Lug" beach sandals. He told her she was in for a trick: he didn't have any brains to drink. When the turn order got muddled, the Shadow King declared, "Don't give a shit… Fuck all of you. I don't care." "This is why you don't get to be in charge," the Grandmaster said. Then his holy sword finally connected, light and dark smashing together, though Evah turned some of the blow aside. He followed with big swings and a shoulder-and-spike hit.
 
 ### The Final Blow
 Evah swore to chop him up, cook him and use his helmet for popcorn. Her glaive landed, and Richardo went down. She knelt beside him. "Shouldn't have come here… She's not coming to save you. Are you ready?" Richardo asked for five more minutes, because he was tired and didn't want to go to school. She stabbed him through the chest and lifted him high on her glaive while Juanita wept in the crowd. "This is how you fight. No cheap tricks. No little magic boxes." She picked a slushie off the floor and knocked it back.
 
-It was the wrong thing to say in front of the King. He appeared before her in a burst of shadow. His arm became a blade that sliced up through her cup, her mouth and her head, and he lifted her by the face. **"Well, your tongue won't be doing any more wagging, will it?"** He slammed her to the ground and bid the Acolytes goodnight.
+Then the King stepped in. He appeared before her in a burst of shadow. His arm became a blade that sliced up through her cup, her mouth and her head, and he lifted her by the face. **"Well, your tongue won't be doing any more wagging, will it?"** He slammed her to the ground and bid the Acolytes goodnight.
 
 ## Dried Blood
 Richardo's player was inspired by the anime-style X scar Evah gave him, which is why he went "straight to anime spray" and aimed his chest at as many Acolytes as possible. Evah's player said her favourite moment was finally breaking the fear. She had prepared for charm, not fear, and she felt "required" to make the table pun with the wooden tutu. Richardo was built on the 1987 arm-wrestling film *Over the Top*, in which flipping the hat flips a switch into berserk mode. Here it became a barbarian who flips his helmet and is "stupid enough to where he cannot see." Evah's contempt for the people in charge was modelled on the wrestling faction the Imperium. Her player expected to die, but not to be "insta-KO'd by the Shadow King himself." The table noted the difference between rulers: under the Grandmaster, even the people who die get to come back, and the Shadow King "just has zero of that." The mouth-piercing kill was inspired by the liquid Terminator in *Terminator 2*. Evah's last word: "I let my actions do the talking for me."

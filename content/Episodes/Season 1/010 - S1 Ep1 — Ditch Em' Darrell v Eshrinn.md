@@ -11,7 +11,7 @@ played_by:
 - 'Eshrinn: BDTeej'
 winner: Ditch Em' Darrell
 arena: The Gilded Thresh Hollow and the back of a dragon
-summary: In the very first Deathmatch, the old axe-swinging Ditch Em' Darrell is charmed and tricked by the snake-woman Eshrinn atop a waking dragon, but he blasts her dead to become the first champion. Afterwards the Arbiter secretly carries her body to his hidden lair and brings her back to life.
+summary: In the very first Deathmatch, the old axe-swinging Ditch Em' Darrell is charmed and tricked by the snake-woman Eshrinn in a golden cavern and atop a waking dragon, but he blasts her dead to become the first champion. Afterwards the Arbiter secretly carries her body to his hidden lair and brings her back to life.
 tags:
 - episode
 youtube: https://youtu.be/kHbOuDPSSaA
@@ -26,7 +26,7 @@ The first ever Deathmatch pitted **[[Ditch Em' Darrell]]**, a grizzled old axe-m
 
 ### Bocce Ball for One
 
-Deep beneath a lava field that stretched "as far as the eye can see" sat [[The Dread Fortress]], a rock skull whose gaping mouth led down into an underground castle. Its halls were lined with tapestries, servants and a great many paintings of the same very intimidating woman. In the throne room, on a seat of metal and bone, sat that woman: the Grandmaster. She was bored out of her mind and throwing stones into a little circle while her servants fetched them back. "They told me bocce ball for one would be fun," she complained, "but this is hard."
+Out on a lava field that stretched "as far as the eye can see" stood [[The Dread Fortress]], a rock skull whose gaping mouth led down into an underground castle. Its halls were lined with tapestries, servants and a great many paintings of the same very intimidating woman. In the throne room, on a seat of metal and bone, sat that woman: the Grandmaster. She was bored out of her mind and throwing stones into a little circle while her servants fetched them back. "They told me bocce ball for one would be fun," she complained, "but this is hard."
 
 The Arbiter stepped through a jagged tear in space. He wore sleeveless black-and-white leather robes, his hood was up, and eight gem-studded rings glittered on his fingers. "Grandmaster, the preparations have been made." She flung her rocks at his feet and reminded him, "Remember, you do not talk until I ask you something." Unbothered, he promised that tonight's offering was "a little bit better than rocks. Not by much."
 
@@ -72,7 +72,7 @@ Then the Arbiter played his secret trick. He snapped his fingers, the dragon's e
 
 Eshrinn flicked the Arbiter a gift for his help: "a very shiny, very heroic looking coin." Her ice knife exploded at Darrell's handhold and he fell. A moment later she lost her own grip. Both crashed back into the golden pit and left craters and a pool of blood.
 
-Darrell laid his healing hands on himself, "very provocatively." The dragon landed beside them, eyes still white, and sat at the Arbiter's command. When asked the dragon's name, the Arbiter replied, "I'll answer all your questions when you've won me my money." Darrell pinned Eshrinn's tail under his boot. The Grandmaster conceded the night was "better than rocks," then warned, "Survival in this arena does not mean that I will spare you."
+Darrell healed himself by laying hands on his own body, announcing that he would "very provocatively touch myself." The dragon landed beside them, eyes still white, and sat at the Arbiter's command. When asked the dragon's name, the Arbiter replied, "I'll answer all your questions when you've won me my money." Darrell pinned Eshrinn's tail under his boot. The Grandmaster conceded the night was "better than rocks," then warned, "Survival in this arena does not mean that I will spare you."
 
 ### Are You Not Entertained?
 

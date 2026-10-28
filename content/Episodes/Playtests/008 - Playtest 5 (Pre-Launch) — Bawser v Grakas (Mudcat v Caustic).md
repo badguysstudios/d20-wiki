@@ -20,7 +20,7 @@ canon_order: 8
 
 [Watch on YouTube](https://youtu.be/qtv__Ond6Dw)
 
-**[[Bawser]]**, a towering yellow brute with a green shell, and **[[Grakas]]**, a wheezing, blue-bearded swordsman who never wanted to be there, met in a drizzly forest arena. Bawser expected to be the scary one. Instead he got out-muscled, out-hidden and out-scared, and spent part of the fight sobbing behind a rock. It ended with a flood, a forest fire, a hug, a burial and a rebirth, and it may be the most tender way any fight to the death has ever finished.
+**[[Bawser]]**, a towering yellow brute with a green shell, and **[[Grakas]]**, a wheezing, blue-bearded swordsman who never wanted to be there, met in a drizzly forest arena. Bawser expected to be the scary one. Instead he got out-muscled, out-hidden and out-scared, and spent part of the fight sobbing behind a rock. It ended with a flood, a forest fire, a hug, a burial and a rebirth, which is a surprisingly tender way for a fight to the death to finish.
 
 ## The Story
 

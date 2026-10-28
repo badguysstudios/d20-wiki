@@ -5,7 +5,6 @@ aka:
 - the highest order
 role: NPC
 first_appearance: Skypiercer Part 1
-status: alive
 affiliations:
 - Faucius Golden Shield
 - Grandmaster Elusia Skypiercer
@@ -24,12 +23,12 @@ The **Knights of Chaos** were the emissaries of [[Faucius Golden Shield]] and th
 ### Skypiercer Part 1: The Night of the Long Shadow
 Three hundred years before the events of [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]], screams rang through the Dread Fortress: "the Golden King is dead." Faucius Golden Shield had been assassinated in the coup that came to be called the Night of the Long Shadow. Mercenaries burst into the chambers of his young daughter Elusia, and the Knights of Chaos cut them down before they could reach her. She snatched up the obsidian dagger that had belonged to her grandfather, a gift from her father, and the knights took her in hand.
 
-**Sir Boros**, a large orc in black and red armor, told her this was "the king's plan." He escorted her to the Ceremonial Chamber, a hall of fanned arches behind twenty-foot iron doors. There Elusia drank a bowl of viscous gold liquid, and the knights slit their own throats. **They stayed on their feet until every drop of their blood had spilled**, and that blood opened a portal beneath her. Crossing out of the Void is extremely difficult, and it took the lives of the entire order to do it. Elusia fell through to the realm of Cor'thun, beyond the reach of the usurper.
+**Sir Boros**, a large orc in black and red armor, told her this was "the king's plan." He escorted her to the Ceremonial Chamber, a hall of fanned arches behind twenty-foot iron doors. There Elusia drank a bowl of viscous gold liquid, and the knights slit their own throats. **They stayed on their feet until every drop of their blood had spilled**, and that blood opened a portal beneath her. Crossing out of the Void is extremely difficult, and it took the knights' lives to do it. Elusia fell through to the realm of Cor'thun, beyond the reach of the usurper.
 
-When the story returned to the present, Vythorn, the scholar who would one day be known as [[The Arbiter]], confirmed what that sacrifice had cost. Asked about the knights, he answered: "There are none that remain. All slain [on] the night of the Long Shadow."
+When the story returned to the present, Vythorn, the scholar who would one day be known as [[The Arbiter]], confirmed what that sacrifice had cost. Of the knights, he said: "There are none that remain. All slain [on] the night of the Long Shadow."
 
 ### Skypiercer Part 3: Statues and Successors
-In [[Episodes/Skypiercer (Prequel)/003 - Skypiercer Part 3 (finale)|Skypiercer Part 3 (finale)]], Vythorn led Elusia and her companions into the Dread Fortress and brought them to the very room she had left from as a child. The Knights of Chaos were still standing where they had died, now turned to stone. Three of them were named: **Sir Eros**, **Sir Rickson** and Sir Boros. Vythorn explained that the usurper, [[The Shadow King|Agdrel]], kept them as trophies and came to the chamber "to remember his victory." Elusia called them "the highest order." She knelt and kissed Boros's feet, then asked her friends never to make that same sacrifice for her.
+In [[Episodes/Skypiercer (Prequel)/003 - Skypiercer Part 3 (finale)|Skypiercer Part 3 (finale)]], Vythorn led Elusia and her companions into the Dread Fortress and brought them to the very room she had left from as a child. The Knights of Chaos were still standing where they had died, now turned to stone. Three of them were named: **Sir Eros**, **Sir Rickson** and Sir Boros. Vythorn explained that the usurper, [[The Shadow King|Agdrel]], kept them as trophies and came to the chamber "to remember his victory." Elusia called them "the highest order." She kissed Boros's feet, then asked her friends never to make that same sacrifice for her.
 
 After the Shadow King fell, Elusia revived the order. Using her ornate dagger, she knighted [[Kaja]] and [[Atalantos]] as her new Knights of Chaos:
 

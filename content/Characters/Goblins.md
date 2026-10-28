@@ -21,7 +21,7 @@ tags:
 - character
 ---
 
-The **Goblins** are the beating, slightly sticky heart of [[The Dread Fortress]]. They scrub the toilets, run the sound, carry the paintings, bake the cheesecakes (badly), hold the [[Grandmaster Elusia Skypiercer|Grandmaster's]] popcorn, and haul the bodies off the arena floor when a Deathmatch is done. Nobody in the Void has suffered more for the show, and nobody has been applauded less, except by each other, "because they have to." Over the years they have been bald, unionized, mind-controlled, slaughtered and handed pet insurance, and they keep coming back to work anyway.
+The **Goblins** are the beating, slightly sticky heart of [[The Dread Fortress]]. They scrub the toilets, run the sound, carry the paintings, bake the cheesecakes (badly), hold the [[Grandmaster Elusia Skypiercer|Grandmaster's]] popcorn, and haul the bodies off the arena floor when a Deathmatch is done. Few in the Void have suffered more for the show, and when they applaud, it is only "because they have to." Over the years they have been bald, unionized, mind-controlled, slaughtered and handed pet insurance, and they keep coming back to work anyway.
 
 ## Story
 
@@ -29,7 +29,7 @@ The **Goblins** are the beating, slightly sticky heart of [[The Dread Fortress]]
 The goblins' service goes back further than the Deathmatches themselves. In [[Episodes/Skypiercer (Prequel)/003 - Skypiercer Part 3 (finale)|Skypiercer Part 3 (finale)]], goblins were already servants of the Dread Fortress in the time of Faucius Golden Shield, the Grandmaster's father. Rulers came and went, and the goblins stayed.
 
 ### The First Deathmatches
-By the time the arena opened its doors, the goblins ran nearly everything behind the scenes. In [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4]] they cleaned up and ran the sound. In [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic]] they brought the champions to the throne room. Their regular post, as of [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|Multiclass]], was cleaning the stadium toilets.
+By the time the arena opened its doors, the goblins were already doing much of the work behind the scenes. In [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4]] they cleaned up and ran the sound. In [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic]] they brought the champions to the throne room. Their regular post, as of [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|Multiclass]], was cleaning the stadium toilets.
 
 Their duties only grew from there. In [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|The 2v2]] the Grandmaster's servants worked as soap-opera actors and finger-counters, and held her footstool, her popcorn and her soda. In [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|Wild Magic]] they took care of [[Doug the Pug|Doug]]. In [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|Fireballs]] they carried paintings and made up the train workforce, which was slow.
 
@@ -47,7 +47,7 @@ During the [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown R
 ### Unions and Uprisings
 Season 3 gave the goblins pets and organized labour. In [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|Kill em with Kindness]] they turned out to be the owners of the [[Chinchillas]], and were described as prone to jealousy and uprisings. By [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|Couples Therapy]] they were renovating the Fortress, backed by a strong **Goblin Union**. They also served as kitchen staff and platter carriers in [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|Severed Limbs]], and carried the Grandmaster's charcuterie board in [[Episodes/Season 3/062 - S3E15 — Sunday Slam — Belet v Derick|Sunday Slam]].
 
-The [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|Season 3 Finale]] was the goblins' darkest day. Two of them stood out: **Nathaniel**, the smallest goblin, with pink orc-skull face paint and a chinchilla covered in hearts, and [[Thomas the Goblin]], who made a crucial sword catch. Then [[The Shadow King]] arrived, and **the goblin knights and soldiers of the throne room were all killed**.
+The [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|Season 3 Finale]] was the goblins' darkest day. Two of them stood out: **Nathaniel**, the smallest goblin, with pink orc-skull face paint and a chinchilla covered in hearts, and [[Thomas the Goblin]], who caught a sword. The episode ended with [[The Shadow King]] back in power, and **the goblin knights and soldiers of the throne room were all killed**.
 
 ### Under the Shadow King
 With the Shadow King on the throne, the surviving goblins served him drinks and grapes and lived in fear of the throne room ([[Episodes/Season 4/079 - S4E2 — Under the Bottom — Richardo v Evah|Under the Bottom]]). The work stayed dangerous. In [[Episodes/Season 4/081 - S4 Ep3, Swindlers - Griff v Cappin Fodder|Swindlers]], a goblin named Hagrid (or Hagrad) was bopped and carried out on a stretcher, and an unnamed music goblin was killed. The cleanup crew went about its business, and [[Thomas the Goblin|Thomas]] was mentioned as one of the Grandmaster's favourite goblins.
@@ -74,20 +74,20 @@ Through the rest of the season the work never stopped:
 The goblins were still on the job in [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|The Cheese]], bringing parchment. The chinchillas handled cleanup, and one of them brought the pizza.
 
 ## Personality and Abilities
-The goblins are small, numerous and endlessly put-upon. They do whatever job the Fortress needs that day, whether it is plumbing, catering, construction, stagehand work, rough medicine or reassembling dead champions. Their skill doesn't always match the assignment. They decorate poorly, their train runs slowly, and their cheesecake is a matter of record. Still, they are fiercely loyal, or at least fiercely employed. They have charged a returning Arbiter with nothing but nerve, and kept serving through the Shadow King's reign of terror.
+The goblins are small, numerous and endlessly put-upon. They do whatever job the Fortress needs that day, whether it is toilet cleaning, catering, construction, stagehand work, rough medicine or reassembling dead champions. Their skill doesn't always match the assignment. They decorate poorly, their train runs slowly, and their cheesecake is a matter of record. Still, they are fiercely loyal, or at least fiercely employed. They have rushed a returning Arbiter, and kept serving through the Shadow King's reign of terror.
 
 They have a strong collective streak. There is a Goblin Union, a history of jealousy and uprisings, and a deep bond with their pet chinchillas. A few have stepped out of the crowd: the rent-paying swordsman Kenny, the frightened HR, tiny Nathaniel, the Grandmaster's favourite Thomas, bruised Henry and Lucy. Some of them fight, like the kidnappers in the floor tiles and the throne room's goblin knights and soldiers. Most of them simply survive, which in the Dread Fortress is its own kind of talent.
 
 ## Relationships
 - [[Grandmaster Elusia Skypiercer]]: Their employer and queen. They hold her snacks, shake her hand in long lines, and she has favourites among them.
-- [[The Shadow King]]: The ruler they served in terror after he killed the throne room's goblin guard.
+- [[The Shadow King]]: The ruler they served drinks and grapes, living in fear of the throne room.
 - [[The Arbiter]]: The goblins rushed him when he returned with a dagger drawn, and he took over their minds.
 - [[Chinchillas]]: Their pets, owned and beloved, and later fellow members of the cleanup crew.
 - [[Doug the Pug]]: The goblins take care of the Grandmaster's pug.
 - [[Cosmonius]]: Followed everywhere by his personal "tech goblins."
 - [[Kenny]]: A goblin with a scimitar and rent to pay.
 - [[Thomas the Goblin]]: A goblin who stood out in the Season 3 Finale; a goblin named [[Thomas the Goblin|Thomas]] is one of the Grandmaster's favourites.
-- [[Lethe]]: Had her flask and hand axes stolen by a kidnapper goblin.
+- [[Lethe]]: Had a flask and hand axes stolen by a kidnapper goblin.
 
 ## Memorable Quotes
 - "Kenny's got to pay his rent." (A Lovers' Quarrel)

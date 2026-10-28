@@ -12,15 +12,15 @@ tags:
 
 ## Description
 
-Thaneater is a battleaxe of legendary make, far finer than an ordinary blade. Its real menace shows when its wielder lands a truly perfect strike. In that moment the axe bites deeper with a surge of deathly force, and it pours some of that stolen vigor back into whoever is holding it, healing them as their enemy bleeds.
+Thaneater is a battleaxe of legendary make, far finer than an ordinary blade. Its real menace shows when its wielder lands a truly perfect strike. In that moment the axe bites deeper with a surge of deathly force, and it heals whoever is holding it as their enemy bleeds.
 
 In short, it is a weapon that rewards a lucky swing twice: once in the wound and once in the wielder.
 
 ## History
 
-Thaneater made its first appearance during Akumu's Deathmatch against [[Jinx]], an episode named for Chinchilla the White, the unfortunate member of the arena's [[Chinchillas]] whom Akumu kicked into the sun in the first round. Deep into the fight, yet another column of fire erupted in the arena, and out of it the axe shot straight into Akumu's grip.
+Thaneater made its first appearance during Akumu's Deathmatch against [[Jinx]], an episode named for Chinchilla the White, the unfortunate member of the arena's [[Chinchillas]] whom Akumu kicked into the sun in the first round. Later in the fight, yet another column of fire erupted in the arena, and out of it the axe shot straight into Akumu's grip.
 
-Plenty of champions have been handed gifts they had no idea how to use. Akumu was not one of them, because he was already trained with weapons of its kind. He came out of the flames armed with one of the most dangerous blades the Void had offered that night, and as of its last appearance the axe remains with him.
+The gift did not go to waste on Akumu, because he was already trained with weapons of its kind. He came out of the flames armed with a legendary blade he knew how to use.
 
 ## Appearances
 - [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]]

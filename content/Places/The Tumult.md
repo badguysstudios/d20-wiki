@@ -16,9 +16,9 @@ tags:
 
 ## Description
 
-The Tumult is very purple and very teal. Its ground is the ancient body of some divine figure, likely big enough to have been a dead god from the astral plane, long since turned to purple stone and overgrown with bizarre plants. As one traveller put it, if you're heading somewhere spiritual and otherworldly, "it's usually teal." The terrain follows the shape of the corpse. The high ground sits "where the sort of the rib cage falls off," and lower down, inside the chest cavity, lie "the real swamps of the Tumult."
+The Tumult is very purple and very teal. Its ground is the ancient body of some divine figure, likely big enough to have been a dead god from the astral plane, long since turned to purple stone and overgrown with bizarre plants. As the saying goes, if you're heading somewhere spiritual and otherworldly, "it's usually teal." The terrain follows the shape of the corpse. The high ground sits "where the sort of the rib cage falls off," and lower down, inside the chest cavity, lie "the real swamps of the Tumult."
 
-Through it all runs the titan's blood: radiant, ectoplasm-like and ethereal, flowing like waves of light and mist. Its most famous feature is an ethereal waterfall of that blood, a "very scenic location" with a ruin that once toppled over the side and now lies at the bottom of the falls. The blood is easy to find inside the Tumult and almost impossible to find anywhere else. Some people harvest it, but it is unpredictable and hazardous to handle.
+Through it all runs the titan's blood: radiant, ectoplasm-like and ethereal, flowing like waves of light and mist. One of its features is an ethereal waterfall of that blood, a "very scenic location" with a ruin that once toppled over the side and now lies at the bottom of the falls. The blood is easy to find inside the Tumult and rare anywhere else. Some people harvest it, but it is unpredictable and hazardous to handle.
 
 Smugglers, pirates and people with good reasons to disappear have built fortresses across the body. Even so, "there's a lot of chaos" there, and residents tend not to linger, "lest the blood of the Titan begin to change him."
 
@@ -29,9 +29,9 @@ Smugglers, pirates and people with good reasons to disappear have built fortress
 
 ### Fate of the Faithful Part 2
 
-The Tumult first came up in [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]], when the Faithful learned that several people had been asking after **a magical silver ewer lost in the Tumult**. John worked out what the ewer could do. When poured out, it opens an ethereal curtain once a day, wide enough to carry a whole strike team into the Ethereal Plane and back, walking through walls and slipping past defenses. That made it a very dangerous thing to leave lying in a dead god's ribcage. Kenny had been asking about it too, trying to find where in the Tumult the titan's body lay.
+The Tumult first came up in [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]], when the Faithful learned that several people had been asking after **a magical silver ewer lost in the Tumult**. John worked out what the ewer could do. When poured out, it opens an ethereal curtain once a day, wide enough to carry a whole strike team into the Ethereal Plane and back, walking through walls and slipping past defenses. That made it a very dangerous thing to leave lying around in the Tumult. Kenny had been asking about it too, trying to find where in the Tumult the titan's body lay.
 
-Later, John laid a hand on [[The Seer|the Seer]]'s shoulder and reached for the wizard sight he used to have, and both men's eyes swirled into silvery, milky vortexes. Through the vision John learned that a ewer in play was a replica with no magic in it, made to be swapped for the original and keep the real one out of nefarious hands. He also glimpsed the Tumult itself and pieces of Kenny's secret mission to find it. The Seer admitted that his own sight had been clouded of late, and John suspected [[Ralzamon]] was behind it.
+Later, John laid a hand on [[The Seer|the Seer]]'s shoulder and reached for "the wizard sight that he used to have back when he was a fucking wizard," and both men's eyes swirled into silvery, milky vortexes. Through the vision John learned that the ewer was a replica with no magic in it, made to be swapped for the original and keep the real one out of nefarious hands. He also glimpsed the Tumult itself and pieces of Kenny's secret mission to find it. The Seer admitted that his own sight had been clouded of late, and John may have suspected [[Ralzamon]] was behind it.
 
 ### Fate of the Faithful Part 3
 
@@ -52,7 +52,7 @@ The party then set out for the Tumult and saw it for themselves: purple rock, st
 
 ### Fate of the Faithful Part 4
 
-By [[Episodes/Fate of the Faithful/043 - Coriander Society — Fate of the Faithful Part 4 (A Crossover)|Coriander Society — Fate of the Faithful Part 4 (A Crossover)]], the Faithful had made it back out of the Tumult. "A couple of nasty customers" had been there looking for the ewer as well. Kenny's knowledge of secret passageways and side alleys got the party out, and they returned safely to the Faithful's home base.
+By [[Episodes/Fate of the Faithful/043 - Coriander Society — Fate of the Faithful Part 4 (A Crossover)|Coriander Society — Fate of the Faithful Part 4 (A Crossover)]], the Faithful had escaped the Tumult. "A couple of nasty customers" had been there looking for the ewer as well. Kenny's knowledge of secret passageways and side alleys got the party out, and they returned to the Faithful's home base.
 
 ## Notable Figures
 
@@ -61,7 +61,7 @@ By [[Episodes/Fate of the Faithful/043 - Coriander Society — Fate of the Faith
 - [[Asena]]: unknowingly carried a map of the Tumult, believing it was a drawing of a purple rock man.
 - [[Circe]]: placed the Tumult west of Prexmarin.
 - [[The Seer]]: shared the vision that revealed the replica ewer and glimpses of the Tumult.
-- [[Ralzamon]]: the Arbiter's general, who was hunting for the ewer's location.
+- [[Ralzamon]]: the Arbiter's general, who didn't yet have the ewer's location.
 - [[The Arbiter]]: knew the general area where the ewer lay but not the exact spot.
 
 ## Appearances

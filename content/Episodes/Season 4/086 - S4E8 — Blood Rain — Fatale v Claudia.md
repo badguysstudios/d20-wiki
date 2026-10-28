@@ -20,7 +20,7 @@ canon_order: 86
 
 [Watch on YouTube](https://youtu.be/4LNVK_cQlb8)
 
-**Blood Rain** pitted **[[Fatale]]**, a silent rogue who rides in on a wind of black rose petals, against **[[Claudia]]**, a university professor of plants who fights with gardening shovels. The fight started on a wooden ship sailing through the clouds and ended on a mountaintop after [[The Shadow King]] grew bored and slammed the ship into the ground. Both champions turned out to be there for secret reasons of their own. One wanted state secrets, the other wanted a soup recipe, and the recipe had a twist at the bottom.
+**Blood Rain** pitted **[[Fatale]]**, a terse rogue who rides in on a wind of black rose petals, against **[[Claudia]]**, a university professor of plants who fights with gardening shovels. The fight started on a wooden ship sailing through the clouds and ended on a mountaintop after [[The Shadow King]] grew bored and slammed the ship into the ground. Both champions turned out to be there for secret reasons of their own. One wanted information on the hosts, the other wanted a soup recipe, and the recipe had a twist at the bottom.
 
 ## The Story
 
@@ -54,7 +54,7 @@ Fatale moved first. She flattened herself against the crow's-nest pole, vanished
 
 ### A Dog, a Deal and a Bag of Cats
 
-The crowd chanted for chaos. In answer, a giant sky puppy floated down. It was "very much like Appa, but slightly older," fluffy and plainly exhausted. It landed mid-deck, shoved the champions to opposite sides, curled up and fell asleep. Fatale climbed onto it from the back end and scratched an itchy spot on its rump, which "loosened some things." The sleeping dog farted on her. She climbed on to its head anyway and cracked her whip at Claudia. She was careful to explain that it was only a prop for intimidation. Claudia, rattled, could only shout, "What the fuck is that smell?"
+The crowd chanted for chaos. In answer, a giant sky puppy floated down. It was "very much like Appa, but slightly older," fluffy and plainly exhausted. It landed mid-deck, shoved the champions to opposite sides, curled up and fell asleep. Fatale climbed onto it from the back end and scratched an itchy spot on its butt, which "loosened some things." The sleeping dog farted on her. She climbed on to its head anyway and cracked her whip at Claudia. She was careful to explain that it was only a prop for intimidation. Claudia, rattled, could only shout, "What the fuck is that smell?"
 
 Frightened enough, Claudia changed. A lab accident during her research had left her able to shift into a form like a weeping willow with strong bark. She then froze Fatale in place with a spell: "You just stay right there, okay?" At the end of the round, a gigantic treasure chest fell from the sky like a comet, trailing yellow and pink flames. It was [[The Box of Chaos]].
 
@@ -62,9 +62,9 @@ The box needed a soul. "Hmm, who would it be tonight?" the Shadow King mused. He
 
 The Grandmaster added her own gift: a shoe box for each champion. Fatale, frozen, couldn't open hers. Claudia was "a curious kid" and opened hers at once. The shoes appeared laced tight on her feet, and they were squeaky shoes.
 
-Held in place, Fatale talked instead. She asked why Claudia even wanted to die, and Claudia admitted she might have missed that part of the memo. Then Fatale whispered a plan, so quietly that neither host heard it. She would fake throwing Claudia overboard, or wake the puppy and let it fly Claudia away. Between themselves they revealed their missions. Fatale was infiltrating the Deathmatch for information on the Shadow King and the Grandmaster. Claudia had come for the Shadow King's grandmother's secret soup recipe, the one with the cilantro. Fatale promised to bring her the recipe if she lived: "Cuz if I kill you, then you'll never get the soup recipe." Claudia said she would think about it, but Fatale had to stay over there, because she had stabbed her in the shoulder.
+Held in place, Fatale talked instead. She asked why Claudia even wanted to die. Claudia said she didn't, which was why she had frozen her, and when Fatale reminded her this was a deathmatch, she admitted she might have missed that part of the memo. Then Fatale whispered a plan, so quietly that neither host heard it. She would fake throwing Claudia overboard, or wake the puppy and let it fly Claudia away. Between themselves they revealed their missions. Fatale was infiltrating the Deathmatch for information on the Shadow King and the Grandmaster. Claudia had come for the Shadow King's grandmother's secret soup recipe, the one with the cilantro. Fatale promised to bring her the recipe if she lived: "Cuz if I kill you, then you'll never get the soup recipe." Claudia said she would think about it, but Fatale had to stay over there, because she had stabbed her in the shoulder.
 
-The Acolytes could hear none of this and saw no action, so they started throwing things. They threw cotton candy, keys, fish, hot dogs, an Ikea piano complete with Allen key, potatoes, an angry toy robot and a bag of cats. A cat landed on Claudia and nicked her. The Acolytes Garamond and Gator had thrown dog toys and hot dogs, and the puppy woke up. It tipped Fatale off its head and bounded into the stands to tackle them with kisses and eat the food.
+The Acolytes could hear none of this and saw no action, so they started throwing things. They threw cotton candy, keys, fish, hot dogs, "cans of shut the fuck up", an Ikea piano complete with Allen key, potatoes, an angry toy robot and a bag of cats. A cat landed on Claudia and nicked her. The Acolytes Garamond and Gator had thrown dog toys and hot dogs, and the puppy woke up. It tipped Fatale off its head and bounded into the stands to tackle them with kisses and eat the food.
 
 Still frozen and falling over stiff as a Barbie, Fatale sent her petals into the box as an offering. Out came a real, finely enchanted whip. "A functional whip!" Claudia marvelled. Jealous, she threw her little trowel at the box. The creature clawed out to complain, "Why are you throwing shit at me?", and then handed back a potion of invisibility with pointed politeness: "See, this is how you hand something to someone."
 
@@ -72,7 +72,7 @@ Still frozen and falling over stiff as a Barbie, Fatale sent her petals into the
 
 Claudia went invisible, but her shoes kept squeaking. The Grandmaster then decided that "Claudia's a ventriloquist, everyone," so her squeaks and grumbling bounced all over the deck. Claudia said it was her side hobby. With a snap of her fingers, the Grandmaster freed Fatale.
 
-After a break for blue raspberry slushies, [[Tim]]'s peanuts and Kevin's deep-fried butterfly wings, the hosts bickered. The Shadow King asked whether [[The Arbiter|Vythorn]] had been in charge of the talking, "because it seems like that is not your strong suit." A goblin first-aid crew parachuted onto the deck. Fatale had no visible wounds, but they wrapped gauze round her head and stuck My Little Pony band-aids on her anyway. She felt they went well with the latex.
+After a break for blue raspberry slushies, [[Tim]]'s peanuts and Kevin's deep-fried butterfly wings, the hosts bickered. The Shadow King asked whether [[The Arbiter|Vythorn]] had been in charge of the talking, "because it seems like that is not your strong suit." A goblin first-aid crew parachuted onto the deck. Fatale had no visible wounds, but they wrapped gauze round her forehead and stuck My Little Pony band-aids on her anyway. She felt they went well with her cut-out latex bra and underwear suit.
 
 Claudia couldn't untie the magic shoes, so she stabbed each squeaker with her little shovel. ("This is not Saw.") Then she flailed blindly around the deck hunting for Fatale. Her invisibility gave out mid-flail. "Oh shit," she said, looking at her own arm.
 
@@ -82,7 +82,7 @@ The Shadow King had seen enough: "This is boring. Let me change things." He reac
 
 Fatale's shoe box had followed her, so she opened it. Her squeaks came out as a sharp, deliberate click "like razor sharp Louboutins," which the Grandmaster called "like a knife on glass." Claudia tracked her by her crossbow shot and found her nerve: "I am not going to be scared of you anymore. But you have to stay right there." She tried to freeze Fatale again, and this time Fatale rolled a natural 20 and shook it off. Claudia dove into the bushes.
 
-The squirrel bravely brought Fatale "a peanut of encouragement." She speared it on her shoe heel. Claudia cast a spell to slip past her and swung a booming blow with her shovel, but missed. The two rogues kept hiding from each other, and the Grandmaster lost patience. She told them to face each other and threw down her spear, flattening the middle of the mountaintop "flat as a pancake." Fatale's crossbow bolts still found nothing but Claudia's magical shield. The squirrel, now firmly on Fatale's side, ran up and kicked Claudia in the heel.
+The squirrel bravely brought Fatale "a peanut of encouragement." She speared it on her shoe heel. Claudia cast a spell to slip past her and swung a booming blow with her shovel, but missed. The two rogues kept hiding from each other, and the Grandmaster lost patience. She told them to face each other and threw down her spear, flattening the middle of the mountaintop "flat as a pancake." Fatale's rapier and crossbow bolts still found nothing but Claudia's magical defenses and shield. The squirrel, now firmly on Fatale's side, ran up and kicked Claudia in the heel.
 
 ### Blood Is Given
 
@@ -96,7 +96,7 @@ Fatale died furious ("This whole thing is rigged!"), and the Grandmaster honoure
 
 ### The Secret Ingredient
 
-As Claudia sat in the vines among the petals, a soft, well-worn piece of paper floated into her lap. It was the soup recipe. The Shadow King faded out of the shadows of his throne to congratulate her. "I won? Is she dead?" she asked. He hoped she would enjoy his grandmother's recipe and told her to read closely for the secret ingredient. At the bottom was one word: **Incinerate.** He snapped his fingers, and the vines around her burst into flame. Under the Shadow King's rule, the winner got no victory lap and no promise of a locker room.
+As Claudia sat in the vines among the petals, a soft, well-worn piece of paper floated into her lap. It was the soup recipe. The Shadow King faded out of the shadows of his throne to congratulate her. "I won? Is she dead?" she asked. He hoped she would enjoy his grandmother's recipe and told her to read closely for the secret ingredient. At the bottom was one word: **Incinerate.** He snapped his fingers, and the vines around her burst into flame, incinerating her body. Under the Shadow King's rule, the winner got no victory lap and no promise of a locker room.
 
 ## Notable Moments
 

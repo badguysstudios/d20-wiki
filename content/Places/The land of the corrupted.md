@@ -11,11 +11,11 @@ tags:
 
 ## Description
 
-The first thing anyone notices is the smell. When the portal opens, it breathes out the scent of somewhere damp and dark. Inside, the air is cool and wet, and it is empty in a way that unsettles people: there are no birds and no sound at all. **Barren trees stretch up almost to the moon**, and their cold roots claw down into the dirt.
+The first thing anyone notices is the smell. When the portal opens, it breathes out the scent of somewhere damp and dark. Inside, the air is cool and wet, and it is empty of everything: there are no birds and no sound at all. **Barren trees stretch up almost to the moon**, and their cold roots claw down into the dirt.
 
 The forest floor is a rock garden of boulders ten to fifteen feet tall, with plenty of handholds for anyone who wants to climb for a better view or a better angle of attack. Dense forest closes in around the edges. The ground itself is chilly enough to be on the verge of icing over, and it smells of death mixed with rot.
 
-The rot is the point. The soil is so full of the decayed dead that eating it actually heals you. It is a grim little mercy, and it fits a place whose only crop is corpses.
+The rot is the point. The soil is so full of the decayed dead that eating it actually heals you. It is a grim little mercy in a place where nothing else grows.
 
 ## History
 
@@ -25,7 +25,7 @@ The Grandmaster greeted them with a welcome that was half hospitality and half t
 
 > "Welcome, dear champions, to the land of the corrupted. Nothing grows well here… Perhaps spilling a little blood might bring back my garden."
 
-Before she flew up out of the fray, she gave Locket and Cosmonius a special instruction to fight well. Her own champions were defending her throne, and the stakes were higher than in an ordinary Deathmatch.
+Before she flew up, she told Locket and Cosmonius in particular to fight well. Her own champions were defending her throne, and the stakes were higher than in an ordinary Deathmatch.
 
 ## Notable Figures
 

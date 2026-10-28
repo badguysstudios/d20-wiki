@@ -13,7 +13,7 @@ played_by:
 - 'Toddleheim: Ahnubyss'
 - 'Elianna: ParallaxStella'
 - 'Cerys: Miss_Magitek'
-winner: No winner
+winner: None (not a Deathmatch)
 arena: The Sands of Eternity and the Oasis (not a Deathmatch)
 summary: Beaten by Sky's outlanders, the party is taken to a city inside a colossal soul gem and shown a mirror path to the Oasis. There Vythorn uses the orrery as a one-person portal and abandons them mid-battle, saying the Grandmaster has to be saved.
 tags:
@@ -24,7 +24,7 @@ canon_order: 93
 
 [Watch on YouTube](https://youtu.be/ha_N5uqx6AM)
 
-The search for a way out of [[The Sands of Eternity]] took **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]**, with Vythorn, [[The Arbiter|the Arbiter]], in tow, from a lost skirmish in the dunes to a city carved inside a dead giant's soul and on to a ringed machine in a sea of lava. It was not a Deathmatch, but it had plenty of near-deaths, a shop full of magical junk and a fire giant cut in half. It also had the betrayal the party had half-expected all along. The way out worked, but only for one.
+The search for a way out of [[The Sands of Eternity]] took **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]**, with Vythorn, [[The Arbiter|the Arbiter]], in tow, from a lost skirmish in the dunes to a town built inside the remnants of a vast soul and on to a ringed machine in a sea of lava. It was not a Deathmatch, but it had plenty of near-deaths, a shop full of magical junk and a fire giant cut in half. It also had a betrayal. The way out worked, but only for one.
 
 ## The Story
 
@@ -32,7 +32,7 @@ The search for a way out of [[The Sands of Eternity]] took **[[Flynry]]**, **[[T
 
 The episode opened in the middle of a losing fight outside the library, against the raiders of a band led by a young-looking man named **[[Sky]]**. One of the enemy's wizards opened a gravity sinkhole in the middle of the party. A void orb dragged Flynry, Toddleheim and the Arbiter into its centre, and Flynry and Toddleheim dropped. Elianna was hanging on by a thread, but she still spat hellfire back at the wizard, who answered with a single ominous "Hmm." Then an orc raider with a greatsword cut down Cerys and Elianna one after the other.
 
-With the party unconscious around him, the Arbiter was the last one standing. Sky pointed his glaive at him: "Doesn't have to be this way. You could just surrender and you can live. And we'll take your stuff." Vythorn had no real dog in the fight and no real weapon either, so he ceremonially drew a dagger, threw it into the sand and said, **"You win."** Then he leaned in with one more suggestion: "You sure you don't want to kill them? They're very troublesome. I've dealt with them before." Sky looked at him for a long moment. **"There's something wrong with you."** The unconscious party never heard any of it.
+With the party unconscious around him, the Arbiter was the last one standing. Sky pointed his glaive at him: "Doesn't have to be this way. You could just surrender and you can live. And we'll take your stuff." Vythorn had no real dog in the fight and no real weapon either, so he ceremonially drew a dagger, threw it into the sand and said, **"You win."** Then he leaned in with one more suggestion: "You sure you don't want to kill them? They're very troublesome. I've dealt with them before." Sky looked at him. **"There's something wrong with you."** The unconscious party never heard any of it.
 
 Sky whistled, an army crested the dune, and his mages healed the party back to their feet. All he wanted, he explained, was half their stuff. Elianna tossed over some gems, Toddleheim threw down one of his old books, and Flynry unslung his shortbow. Cerys offered a torch, rations and a shield: "What do you want from us?" When one of Sky's dragonborn whispered that he sensed something magical among them, Flynry pinned it on the Arbiter's unsettling aura. Sky already had his doubts about Vythorn, so the lie landed. "Forget it. Forget the whole thing," Sky sighed. "I guess you can keep your stuff."
 
@@ -52,7 +52,7 @@ Sky had more to share. There were other hidden strongholds in the sands, includi
 
 ### Shopping with Cyrus
 
-Before morning, Sky walked them to a junk-piled shop run by a kobold he called Cyrus. The kobold was flush with soul gems and hungry for anything unique. Cerys came away with a holy longsword and Toddleheim with a fine warhammer, already paid for by "a good deal with your friend here." The kobold had heard of a statue called the Golden Lady, but he had never seen it: "Everyone's owned it at one point or another." Flynry asked about a red eye-shaped pendant, and the shopkeeper dove into a heap of jewellery. He came back up with a necklace that made its wearer immune to disease, nothing could harm you, "well, except like swords and stuff." He added, eyeing Flynry's belt line, "you look like a man who likes to have a good time." Flynry agreed: "Party animal I am."
+Before morning, Sky walked them to a junk-piled shop run by a kobold he called Cyrus. The kobold was flush with soul gems and hungry for anything unique. Cerys came away with a holy longsword and Toddleheim with a fine warhammer, already paid for by "a good deal with your friend here." The kobold had heard of a statue called the Golden Lady, but he had never seen it: "Everyone's owned it at one point or another." Flynry asked about a red eye-shaped pendant, and the shopkeeper dove into a heap of jewellery. He came back up with a necklace that made its wearer immune to disease, nothing could harm you, "well, except like swords and stuff." Glancing at Flynry's belt line, he added that it also kept down certain "ailments" below the belt: "you look like a man who likes to have a good time." Flynry agreed: "Party animal I am."
 
 Flynry offered the Atlas of Endless Horizons, and the kobold's eyes went wide: "This is not what you want. This is fine, but I have better." He handed over a periapt that closes wounds, "If you ever find yourself close to death, you'll want to be wearing this baby", and flung the Atlas over his shoulder into a pile of glowing magic. Elianna got the disease necklace in exchange for her rose-gold emerald amulet, which the kobold bit and declared a unique soul gem.
 
@@ -60,17 +60,17 @@ Flynry offered the Atlas of Endless Horizons, and the kobold's eyes went wide: "
 
 In the morning Sky made one last pitch for them to stay. He confessed that he didn't much like leading. Some of his people begged him to invade Mortaurios, and he had no interest in it. Elianna, who asks everyone this, asked whether he was happy. "At least here we get to be in this giant soul gem," he said.
 
-Flynry angled his sword so Elianna could see Sky's reflection, which shows a person's true urges. In the blade, Sky reached into Vythorn's pocket as he walked past. In reality he never did. He was nothing sinister, just a born pickpocket who was always thinking about finding things. Elianna quietly tucked the orrery deeper into her shirt. Sky led them to a small cave where part of the soul gem had been polished to a mirror. "I hope we meet again," he said, "and hopefully the next time you're not passing through here as soul gems."
+Flynry angled his sword so Elianna could see Sky's reflection, which shows a person's true urges. In the blade, Sky reached into Vythorn's pocket as he walked past. In reality he never did. He was nothing sinister, just kind of a pickpocket who was always thinking about finding things. Elianna quietly pulled her shirt over the orrery. Sky led them to a small cave where part of the soul gem had been polished to a mirror. "I hope we meet again," he said, "and hopefully the next time you're not passing through here as soul gems."
 
 ### The Oasis
 
-The mirror clouded, and in a blink the party stood in a field of broiling lava that stank of sulfur. "Oasis, my behind," Flynry said. Things swam in the lava, humanoids clawed their way out of it, and giants walked on the horizon. Ahead, a great structure of arcing rings hung over the lava on four bridges laid out in a cross. It looked exactly like their orrery, which began to vibrate and glow blue in Elianna's hands.
+The mirror clouded, and in a blink the party stood in a field of broiling lava that stank of sulfur. "Oasis, my behind," Flynry said. Things swam in the lava, humanoids clawed their way out of it, and giants walked on the horizon. Ahead, a great structure of arcing rings hung over the lava on four bridges laid out in a cross. It looked like their orrery, which began to vibrate and, as they got closer, glow blue in Elianna's shirt.
 
 There was no keyhole. "Every key needs a lock," Flynry said. At the centre of the runic platform the orrery floated and spun, and then nothing more happened. Vythorn stepped in: "May I?" He adjusted the device's rings, and the giant rings overhead moved with them. Then the machinery groaned, and fire elementals poured from doorways at the ends of the bridges, followed by two cat-like rakshasa carrying huge swords. "Are you sure you know what you're doing?" Flynry asked. **"No!"** said Vythorn. "Just give me five minutes."
 
 ### Holding the Platform
 
-Cerys hasted Vythorn to make him work faster. Elianna summoned a downpour over the party that sapped the elementals, and Toddleheim raised a volcanic earth wall that their fire could barely crack. Toddleheim then read the ancient writing aloud and shouted the phrases to Vythorn. Flynry's sword skittered off the elementals' rocky hides, so he fell back on his old monk training and beat them with his fists. Vythorn's tinkering sent the rings whirling so fast they smashed the bridges and dumped the far guardians into the lava. Cerys turned one elemental back in holy terror. Elianna's command to "Halt" did nothing, since fire elementals don't speak any language she knows. When the rings finally aligned in a blast of hot wind, the last elementals gave up and leapt off the platform.
+Cerys hasted Vythorn to make him work faster. Elianna summoned a downpour over the party that sapped the elementals, and Toddleheim raised a volcanic earth wall that their fire could barely crack. Toddleheim then read the ancient writing aloud and shouted the phrases to Vythorn. Flynry's sword skittered off the elementals' rocky hides, so he fell back on his old monk training and beat them with his fists. Vythorn's tinkering sent the rings whirling so fast they smashed the bridges and dumped the far guardians into the lava. Cerys froze one elemental in place with holy terror. Elianna's command to "Halt" barely worked: fire elementals don't speak any language she knows, so they stopped for a second and then kept coming. When the rings began to align in a blast of hot wind, the last elementals gave up and leapt off the platform.
 
 Then a giant hurled a flaming boulder. With a natural 20, Flynry shoved Toddleheim clear and took the rock square on the chin. He planted his sword in the burning rubble and looked back at Vythorn: "This is it." The giant hauled its upper half over the platform's edge like a towering final boss and brought its greatsword down. Cerys went supernova in a scream of radiant light. Elianna's banishment slid off it, and Toddleheim's attempt to shrink it failed too. When the giant mangled Flynry, Elianna ran in to heal him and wrapped him in sanctuary. All the while Vythorn kept promising, "I am almost there."
 
@@ -83,7 +83,7 @@ As Elianna rushed forward, Vythorn's voice came from behind them: **"I wish it c
 - Vythorn surrendered with a ceremonial dagger, then tried to talk Sky into killing the party. Sky was disturbed by it.
 - The outlanders' town is built inside a colossal soul gem, "the remnants of a vast soul."
 - The kobold shopkeeper tossed the Atlas of Endless Horizons into a junk pile as if it were nothing.
-- Flynry's mirror-sword revealed Sky to be a harmless compulsive pickpocket.
+- Flynry's mirror-sword revealed Sky to be a harmless would-be pickpocket.
 - Flynry rolled a natural 20 to take a flaming boulder to the face for Toddleheim.
 - The Arbiter took the one-use way out alone, and the explosion tore the giant in half.
 

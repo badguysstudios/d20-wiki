@@ -5,7 +5,7 @@ aka:
 - Metal chairs
 owner: Grandmaster Elusia Skypiercer
 first_appearance: S1E6 — Belly of the Beast — Viago v Tetra
-summary: Folding steel kept behind the Grandmaster's throne, the Void's favorite chaos event, brought out whenever the Acolytes want to watch someone get hit with furniture.
+summary: Metal chairs kept behind the Grandmaster's throne, a classic chaos event, brought out whenever the Acolytes want to watch someone get hit with furniture.
 aliases:
 - Metal chairs
 tags:

@@ -19,7 +19,7 @@ tags:
 canon_order: 1
 ---
 
-Long before the arena, a young warrior named **Elusia** defended a city that was not her own. The first chapter of [[Skypiercer]] drops [[Grandmaster Elusia Skypiercer|the future Grandmaster]], the necromancer [[Kaja]] and the shield-bearer [[Atalantos]] into a siege of [[Cor'thun]], where they face a silent, regenerating giant called the Cursed Juggernaut. It is the origin story the Void never knew it needed: a royal escape paid for in blood, a monster brought down by a well-placed lightning arrow, a feast with almond wine, and one long-lost scholar arriving with terrible news.
+Long before the arena, a young warrior named **Elusia** defended a city that was not her own. The first chapter of [[Skypiercer]] drops [[Grandmaster Elusia Skypiercer|the future Grandmaster]], the necromancer [[Kaja]] and the shield-bearer [[Atalantos]] into a siege of [[Cor'thun]], where they face a silent, regenerating giant called the Cursed Juggernaut. It is the origin story the Void never knew it needed: a royal escape paid for in blood, a monster brought down by a lightning arrow in the butt and a short sword shoved up after it, a feast with almond wine, and a scholar from her father's court arriving with terrible news.
 
 ## The Story
 
@@ -39,9 +39,9 @@ Inside the chamber she drank a bowl of thick, golden liquid. Then the knights sl
 
 ### The City Under the Singularity
 
-Elusia landed in Cor'thun, a realm far outside [[The Void]]. It is a city of white stone spread across miles of sloping hills, full of columns, aqueducts, ornate fountains and statues. It has both stairs and ramps ("It's an accessible city, there's both"). Above it hangs a black-hole singularity, and the light streaking into it gives Cor'thun an eternal sunset.
+Elusia landed in Cor'thun, a realm outside [[The Void]]. It is a city of white stone spread across miles of sloping hills, full of columns, aqueducts, ornate fountains and statues. It has both stairs and ramps ("It's an accessible city, there's both"). Above it hangs a black-hole singularity, and the light streaking into it gives Cor'thun an eternal sunset.
 
-Three centuries later, that city was burning. The Cursed Juggernaut smashed through the Eastern Gate. It stood twelve or thirteen feet tall, wore a metal raven mask, carried a scythe and never said a word. When one of its own soldiers got in the way, it killed him to claim the fight for itself. Elusia called out a challenge anyway:
+Three centuries later, that city was burning. The Cursed Juggernaut smashed through the Eastern Gate. It stood twelve or thirteen feet tall, wore a metal raven mask, carried a scythe and never said a word. It killed one of its own soldiers to claim the fight for itself. Elusia called out a challenge anyway:
 
 > **Elusia:** "Come, silent warrior, tell us your name so that we may know who it is that we will defeat today."
 
@@ -57,27 +57,27 @@ Kaja changed tactics and raised five fallen soldiers as zombies, choosing "the o
 
 ### Shockers and Spears
 
-The Juggernaut charged straight through Atalantos and Elusia and slammed into a wall. Elusia answered with a lightning arrow that buried itself in the monster's backside ("Give him a shocker"). It clenched, snapped the shaft off and regenerated.
+The Juggernaut charged straight through Atalantos and Elusia and slammed into a wall. Elusia answered with a lightning arrow that buried itself in the monster's butt ("Give him a shocker"). It clenched, snapped the shaft off and regenerated.
 
-Then it tore a chunk out of a wall, which became a stone spear in its hands, and hurled it at Kaja. The wound was necrotic and kept festering. A brutal punch knocked Atalantos flat. He got up, directed Elusia into another attack, and taunted the brute: "You seem to be a juggernaut. Let us put that name to the test." The Juggernaut accepted by charging Kaja and hitting her so hard that she bled thick purple blood, like syrup. Her next blast missed, and her wound kept hurting her.
+Then it tore a chunk out of a wall, which became a stone spear in its hands, and hurled it at Kaja. The wound was necrotic and kept festering. It donkey punched Atalantos flat. Atalantos directed Elusia into another attack and taunted the brute: "You seem to be a juggernaut. Let us put that name to the test." The Juggernaut accepted by charging Kaja and hitting her so hard that she bled thick purple blood, like syrup. Her next blast missed, and her wound kept hurting her.
 
 Elusia climbed a thirty-foot building and rang its bell to lure the monster in. It worked a little too well: the Juggernaut smashed the building and obliterated the zombies. Atalantos used his blood curse to raise Kevin one last time ("Rise and strike") for a final swing. Kevin delivered, and Atalantos honored him: "You had the heart of a Corthunian."
 
 ### Tonight, We Dine in Hell
 
-The Juggernaut's scythe cut into Atalantos twice, the second blow savage. He dropped his shield and spear and drew the greatsword he saves for the direst moments, roaring **"Tonight, we dine in hell!"** One eye blazed gold and the other purple, and the blade burst into divine fire.
+The Juggernaut's scythe cut into Atalantos twice, one of the blows savage. He dropped his shield and spear and drew the greatsword he saves for the direst moments, roaring **"Tonight, we dine in hell!"** One eye blazed gold and the other purple, and the blade burst into divine fire.
 
 Elusia rang the bell nonstop from above: "Bear witness to him and his glory! Final breath or not, you are witnessing glory at its finest!" Below, Kaja made a spectacularly bad shot. Her blast went through the smoke and hit Atalantos square in the back.
 
 ### The Final Blow
 
-Elusia dove from the rooftop with both short swords and drove them into the Juggernaut's shoulder blades, putting the full force of her fall into the strike. Then she finished it from below. She slid between its legs and drove a short sword straight up through its butt, pushing the lightning arrow she had planted earlier in deeper still. **The Juggernaut pulled off its helmet**, revealing a distorted, bruised face, and fell face-first onto the tip of Atalantos's spear.
+Elusia dove from the rooftop with both short swords and drove them into the Juggernaut's shoulder blades, putting the full force of her fall into the strike. Then she finished it from below. She slid between its legs and drove a short sword straight up through its butt, pushing the lightning arrow she had planted there earlier in deeper still. **The Juggernaut pulled off its helmet**, revealing a distorted, bruised face, and fell face-first onto the tip of Atalantos's spear.
 
 Its honor guard fled and were shot down by Cor'thun's archers. Victory bells rang, and the Champions of Honor shouted **"FOR ORDER!"** "Relentless juggernaut," Atalantos panted. "We are still standing." Elusia noted that the body could be salvaged. Kaja sat on the corpse and sipped from a travel mug.
 
 ### A Special Relationship
 
-Once things calmed down, Kaja let slip that she dies "all the time" and comes back. "There are forces, of course, at work beyond our comprehension at all times," she explained, "and I merely serve one of them." Asked to elaborate, she only said: "We have a special relationship. We'll leave it at that."
+Once things calmed down, Kaja let slip that she dies "all the time" and comes back. "There are forces, of course, at work beyond our comprehension at all times … And I merely serve one of them," she explained. Asked to elaborate, she only said: "We have a special relationship. We'll leave it at that."
 
 Elusia admitted she had always thought death was permanent, so Kaja had Elusia shoot her through the heart to prove it. Kaja came back with a compliment: "I typically don't fall at the hand of someone so beautiful." Elusia carried her up the hill afterward and found her cold to the touch, with no body heat at all.
 
@@ -91,7 +91,7 @@ At the feast, Elusia sipped from Kaja's goblet and pulled back, embarrassed. Kaj
 
 The real drunk was [[Lucien]], a soldier from the Western Gate who had been sent home to sleep it off. He claimed great heroics, though another soldier said he had spent the battle passed out in the stables. His gloves were on the wrong hands and his armor was suspiciously spotless. He tried to sign Atalantos's chest in gravy as an autograph, then fell asleep in Atalantos's hand. Asked why he fights, he said, "I guess because my dad told me to." The hall placed bets on him: whether his boots were on the wrong feet, whether someone had died because of him, and whether he would kill someone in his next fight. Atalantos drafted him anyway ("You will die a warrior, or you will die worthless. The choice is yours"), and training would begin at four in the morning.
 
-Then came [[Glotun]], a portly, balding politician in loose robes who used to fight. He offered favors ("if you ever need a favor, you come to Glotun") and finally revealed his real purpose: "I come on behalf of [[Plintos]]." Plintos was one of the richest men in the city, with his name on buildings and statues of himself, a fortune made off the southern district's workers, and rumors of a deadly mine cave-in caused by cutting costs. He wanted the emperor's ear to divert the southern aqueduct, the poor district's only water source. The party turned him down.
+Then came [[Glotun]], a portly, balding politician in loose robes who used to fight. He offered favors ("if you ever need a favor, you come to Glotun") and finally revealed his real purpose: "I come on behalf of [[Plintos]]." Plintos was one of the richest men in the city, with his name on buildings and statues of himself, a fortune made off the southern district's workers, and rumors of a mine cave-in outside the city caused by cutting costs. He wanted the emperor's ear to divert the southern aqueduct, which fed the poor district, whose nearest other fountain was a mile and a half away. The party turned him down.
 
 ### The Scholar at the Door
 
@@ -109,7 +109,7 @@ The chapter closed with a familiar farewell: "[[The Acolytes|Acolytes]], we will
 
 ## Notable Moments
 - The Knights of Chaos slit their own throats and stayed standing until every drop of blood was spilled, opening the portal that saved Elusia.
-- The Cursed Juggernaut died the way it had been wounded: Elusia drove a sword up through its backside to finish off the lightning arrow she had already lodged there.
+- The Cursed Juggernaut died the way it had been wounded: Elusia drove a sword up through its butt to finish off the lightning arrow she had already lodged there.
 - Kevin the zombie was raised twice, landed the last swing of his short life, and was praised for having "the heart of a Corthunian."
 - Kaja proved she couldn't stay dead by having Elusia shoot her through the heart, then flirted about it.
 - Elusia invented almond-flavored wine on the spot to cover her embarrassment, and from then on the wine had almonds in it.

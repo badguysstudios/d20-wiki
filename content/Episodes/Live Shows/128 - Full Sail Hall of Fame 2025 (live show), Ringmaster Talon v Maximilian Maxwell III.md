@@ -23,7 +23,7 @@ On a live stage packed with [[The Acolytes]], the blood-drenched **[[Ringmaster 
 
 ### Waking the Dead Fish
 
-The show opened with a welcome chant that [[The Arbiter|the Arbiter]] found deeply unimpressive. "That was lame," he told the crowd. "You guys are just staring at me like dead fish." Once he asked whether they were ready to roll some dice, with a curse word added, the Acolytes finally roared. "You just have to curse at him a little bit," came the explanation. "It's just like my dad used to do."
+The show opened with a welcome chant that [[The Arbiter|the Arbiter]] found deeply unimpressive. "That was lame," he told the crowd. "You guys are just staring at me like dead fish." Once he demanded, "are you ready to roll some fucking dice?", the Acolytes finally roared. "You just have to curse at him a little bit," came the explanation. "It's just like my dad used to do."
 
 The Grandmaster set the terms for the evening:
 
@@ -37,9 +37,9 @@ The Arbiter introduced "a figure known for his bloodshed and carnage," and brief
 
 Talon explained that he ran a circus for Lichter the Lich, a great and all-powerful undead wizard. "That's my grandma, though," the Grandmaster said. The Arbiter misheard "serves a lich" as "licking a witch," which the Grandmaster warned was very illegal in public. Talon promised the blood the Grandmaster wanted and got the crowd shouting his name and holding up their claw-hand "talons." She approved: "They look great on my wall."
 
-Maximilian Maxwell III arrived in spotless white gloves. Asked why he would enter a blood match, he said he had promised his dear mother he would not get any blood on his white Louis Vuitton belt. He mocked the Acolytes for grabbing free shirts, sunglasses and plastic eggs backstage, and the hosts had to admit he had a point. He was named after his "great daddy," though "I don't know where my daddy went." The Grandmaster sympathized: "Daddy issues. We all have them."
+Maximilian Maxwell III arrived in white gloves. Asked why he would enter a blood match, he said he had promised his dear mother he would not get any blood on his white Louis Vuitton belt. He mocked the Acolytes for having "clamored for free shit" backstage, grabbing shirts, sunglasses and plastic eggs, and the hosts had to admit he had a point. He was named after his "great daddy," though "I don't know where my daddy went." The Grandmaster sympathized: "Daddy issues. We all have them."
 
-Then he explained how he had got there: "I clearly am undefeated in deathmatches, though I've never actually been in one. But apparently, money gets you up on this stage." The Arbiter said money had been tight. Somebody had to pay for the Grandmaster's bath bombs, and the scent of roses and blood is hard to find. "We need sponsors," he said. When Max handed over his money, both hosts decided they would allow it. The crowd chanted "It's rigged!"
+Then he explained how he had got there: "I clearly am undefeated in deathmatches, though I've never actually been in one. But apparently, money gets you up on this stage." The Arbiter said money had been tight, because somebody had to pay for the Grandmaster's bath bombs. The Grandmaster insisted they were essential, since the scent of roses and blood is hard to find. "We need sponsors," the Arbiter said. When Max handed over his money, both hosts decided they would allow it. The crowd chanted "It's rigged!"
 
 ### First Blood (Mostly Max's Employees')
 
@@ -51,7 +51,7 @@ Max went for mental damage next. He peeled off a glove, to the Grandmaster's pea
 
 ### Blood Rain and a Spine in the Eye
 
-Talon began by spitting blood at Max's suit, but an Acolyte named Christian took the hit for Max. "Your blood is no match for my scotch-guarded… $23 suit," Max said, adding that he got it at Macy's at the Millennium Mall, not the Florida Mall. The Arbiter had never met a man with a personal beef with a mall.
+Talon began by spitting blood at Max's suit, but an Acolyte named Christian blocked it for Max. "Your blood is no match for my scotch-guarded… $23 suit," Max said, adding that he got it at Macy's at the Millennium Mall, not the Florida Mall. The Arbiter had never met a man with a personal beef with a mall.
 
 Then Talon set the stage. He chose three Acolytes and siphoned their blood until it poured "out through every orifice." All three collapsed, drained and dead. "I've seen a lot of deaths. These were believable," said the Arbiter, while the Grandmaster ordered the bodies off her stage because she had no cleanup crew. Talon couldn't let them die in vain. "You can," the Arbiter said. "We do it all the time."
 
@@ -61,7 +61,7 @@ It went wrong anyway. A splinter of spine shot straight into Talon's eye, and he
 
 The Grandmaster and the Arbiter like to switch things up. "The Dread Fortress has unicorns in our world, as every good fantasy world has," she announced. "But here's the thing, our unicorns murder people." Each champion picked two Acolytes. One wore the Grandmaster's single horn, which she admitted was cheap, and the other had to ring it with hoops she had bought on clearance.
 
-Josh pranced magnificently as Max's unicorn and went three for three, diving for the last ring. Jared did an Egyptian walk as Talon's unicorn. Max offered him "500 max dollars" to move out of the way, and Jared shoved the cash back into Max's pocket twice. Talon's team also went three for three. The final cross-stage toss came down to a miss and a ring that bounced off the horn, and the crowd couldn't agree on a winner. The ruling: "The unicorns are untamed and stab everyone." Both champions bled.
+Josh pranced magnificently as Max's unicorn and went three for three, diving for a ring. Jared did an Egyptian walk as Talon's unicorn. Max offered him "500 max dollars" to move out of the way, and Jared shoved the cash back into Max's pocket twice. Talon's team also went three for three. The final cross-stage toss came down to a miss and a ring that bounced off the horn, and the crowd couldn't agree on a winner. The ruling: "The unicorns are untamed and stab everyone." Both champions bled.
 
 ### The Unmasking, and the Knees
 
@@ -73,7 +73,7 @@ Talon removed his mask, which turned out to be part of the lich's work uniform. 
 
 The Grandmaster called Talon to the center of the stage and took his scythe, since he was too gross to touch. **She raised her hands, and his own blood rose to his fingertips, just like the blood of the Acolytes he had drained.** His heart raced, found nothing, and he collapsed. Then she stayed his heart and asked if there was any reason he should be kept alive.
 
-Max paid her to bring Talon back: "Aren't you having fun watching me humiliate this thing?" The Grandmaster counted the money one bill at a time, was pleased, and drove Talon's own scythe into his heart. It beat again. "Not again!" Talon groaned. The Arbiter decided Max should pay in life as well as money. He sent black goo up both champions' noses and into their hearts, draining Max's strength into Talon until the two stood evenly matched.
+Max paid her to bring Talon back: "Aren't you having fun watching me humiliate this thing?" The Grandmaster counted the money one bill at a time, was pleased, and drove Talon's own scythe into his heart. It beat again. "Not again!" Talon groaned. The Arbiter decided Max should pay in life as well as money. He sent black goo up both champions' nostrils and down their throats, wiggling around their organs and hearts, and drained Max's life force into Talon until the two stood evenly matched.
 
 ### Void Bucks
 
@@ -85,7 +85,7 @@ The Grandmaster had stayed up until 2 a.m. cutting the bills by hand, and she wa
 
 Max's friend Jesse was in the crowd wearing a title belt and wielding "evil magic witch power." He launched the biggest food truck anyone had ever seen at Talon, who claimed he caught it but got hurt anyway. Max then hurled Talon onto University Boulevard, which wore both of them down further.
 
-Talon called on the ocean for one mighty blow: "I think it's time for a giant blood tsunami." Hundred-foot crimson waves rolled across the skyline. A bidding war broke out over who would get the Arbiter's favor. Talon objected that Max was just paying the Arbiter with his own money, and Talon's Acolytes waved a thicker stack. A broke Max phoned his mother: "Mom. Can you wire me?" With that money he paid an Acolyte named Matthew, who rolled perfect defenses back to back. The tsunami broke harmlessly. "I guess he can swim," said the Arbiter. "Your hurricane is a bit of a washout," said the Grandmaster.
+Talon called on the ocean for one mighty blow: "I think it's time for a giant blood tsunami." Hundred-foot crimson waves rolled across the skyline. A bidding war broke out over who would get the Arbiter's favor. Talon objected that Max was just handing the Arbiter's own money back to him, and Talon's Acolytes waved a thicker stack. A broke Max phoned his mother: "Mom. Can you wire me?" With that money he paid an Acolyte named Matthew, who rolled 20s back to back. The tsunami broke harmlessly. "I guess he can swim," said the Arbiter. "Your hurricane is a bit of a washout," said the Grandmaster.
 
 Talon's next all-in strike fizzled too. The Grandmaster had the whole crowd raise their hands and donate their blood to him, which the Arbiter called "a blood spirit bomb." This time Max's paid defender, Alex, failed him, and Talon's blood magic finally took hold. Bored of waiting for the bleeding to work, the Grandmaster cheated: "I speed up time around you. Eye of Makamoto is mine." Max was left with barely a drop of fight. "Am I not fucking awesome?" she asked. "Six out of ten," said the Arbiter.
 
@@ -102,7 +102,7 @@ He collapsed with chicken noodle on his lips. "Every death means a victor," the 
 ## Notable Moments
 
 - Max bought his place on the stage, and both hosts happily allowed it while the crowd chanted "It's rigged!"
-- The murder unicorns of [[The Dread Fortress]] made their debut, and Jared refused Max's bribe twice.
+- The murder unicorns of [[The Dread Fortress]] stabbed everyone, and Jared refused Max's bribe twice.
 - **Talon died, and the Grandmaster brought him back with his own scythe through the heart, paid for by Max.**
 - The Void got its own currency, Void Bucks, which failed to make it rain and went straight into Max's pocket.
 - The Grandmaster cheated by speeding up time around Max and rated herself awesome. The Arbiter rated her six out of ten.

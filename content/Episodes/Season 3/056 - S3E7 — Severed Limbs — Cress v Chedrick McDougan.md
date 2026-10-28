@@ -20,7 +20,7 @@ canon_order: 56
 
 [Watch on YouTube](https://youtu.be/XakIcN-CPig)
 
-The barefoot fighter **Cress** came for prize money, and the self-styled tough guy **[[Chedrick McDougan]]** came for her shoes, or failing that, her feet. Their fight in the black fog of [[The Shadowlands]] became a gruesome swap meet of body parts. A toe, a hand and a whole foot changed owners, mostly through [[The Box of Chaos|Gerald]]. It ended with the most decisive penguin in Deathmatch history.
+The barefoot fighter **Cress** came for prize money, and the trash-talking **[[Chedrick McDougan]]** came for her shoes, or failing that, her feet. Their fight in the black fog of [[The Shadowlands]] became a gruesome swap meet of body parts. A toe, a hand and a whole foot came off, and the hand and the foot both passed through [[The Box of Chaos|Gerald]]. It ended with the most decisive penguin in Deathmatch history.
 
 ## The Story
 
@@ -42,7 +42,7 @@ The Arbiter backed her up ("This is the Wagyu of rats"), but the damage was done
 
 The Arbiter opened a second portal, and black fog billowed out. He thought the Grandmaster would like the Shadowlands. She did not. She floated above the ground rather than touch it, pulled her shoulders in in disgust, and took shallow breaths while her wings fanned away the musty, clinging fog. The rock squished underfoot and the few plants were pale and limp. "This land is a monster in and of itself," she warned.
 
-She rose to her throne in the sky with [[Doug the Pug]] tucked under her arm. Doug left a small cloud of his own on the way up. [[The Acolytes]] in the stands cheered, still clutching leftover rat slices and cheese. Chedrick then fumbled his very first move of the fight. "It's okay, you're a loser," the Grandmaster consoled him. "You can rise from this."
+She rose to her throne in the sky with [[Doug the Pug]] tucked under her arm. Doug accidentally farted out a small cloud of his own on the way up. [[The Acolytes]] in the stands cheered, still clutching leftover rat slices and cheese. Chedrick then got off to the worst possible start, handing Cress the upper hand for her opening strike. "It's okay, you're a loser," the Grandmaster consoled him. "You can rise from this."
 
 The Acolytes opened with chaos: storm clouds rolled in and the Thunder Twins struck down in anger. Lightning chased Cress as she moved and caught Chedrick too. Chedrick claimed to be unbothered: "I live in the water. I breathe thunder and lightning."
 
@@ -58,47 +58,47 @@ The next chaos event bound the two champions together hand in hand for a short t
 
 The Acolytes granted each champion a surge of fighting spirit. They also summoned the Box of Chaos, which slammed down behind Cress in a column of pink and yellow fire. Two shadowy clawed hands and two yellow eyes rose from it: Gerald. Chedrick physically dragged Cress, still holding his hand, over to the box. He introduced his penguin companion ("His name is Fear, and he fears nobody") and offered Gerald a box of grapes and two apples. Gerald took them with a shadowy hand: "I could eat."
 
-In return Gerald handed Chedrick a Mind Blade, a sword made by Mind Flayers that cuts into the mind. "I can see the future!" Chedrick cried. Then he tried to read Cress's thoughts, latched onto the dead eel's mind instead, and swung his new sword straight into Gerald. "I just gave you a cool dagger for apples," the box complained. Gerald clawed three scorched lines into Chedrick's thigh and explained himself: "I'm a demon in a box, not a monster."
+In return Gerald handed Chedrick a Mind Blade, a sword made by Mind Flayers that cuts into the mind. "I can see the future!" Chedrick cried. Then he tried to read Cress's thoughts, latched onto the dead eel's mind instead, and swung his new sword straight into Gerald. "I just gave you a cool dagger for apples," the box complained. Gerald clawed three scorched lines into Chedrick's thigh, just above the knee (lucky for Chedrick, the claws didn't go any higher up), and explained himself: "I'm a demon in a box, not a monster." Talk then turned to the charcuterie board, which you can't make without sausage. Cress warned that it was turning into a sausage party, and the Grandmaster took the bait: "Chedrick, we might put your sausage on the charcuterie board. I can't believe I said that."
 
 At round's end, Doug hopped onto his cushioned platform and threw his squishy green plush die, beating the Arbiter's roll by six. "When there are only 20 numbers, six higher is notably higher," the Grandmaster said. "You just suck."
 
 ### A Hand for a Foot
 
-Cress finished the job and took Chedrick's hand clean off. Bright silver "vibranium… Terminator blood" pooled like a mirror at their feet. The severed hand was still clasping hers, so Cress used it to slap him across the face ("Quit hitting yourself!"). Then she backflipped onto a tall rock. Chedrick protested the exchange rate: "I only took one piece, you took five, literally." He strapped the Mind Blade to his stump and climbed after her. His blade found its mark, and Cress's foot came off. "You take my hand. I take your foot. My nubs," he said. The Arbiter, seeing enough spare parts for one complete person, declared himself Captain Planet.
+Cress finished the job and took Chedrick's hand clean off. Bright silver "vibranium… Terminator blood" pooled like a mirror at their feet. The severed hand was still clasping hers, so Cress tried to slap him with it ("Quit hitting yourself!"). The slaps missed, but one splattered his own silver blood across his face. Then she backflipped onto a tall rock. Chedrick protested the exchange rate: "I only took one piece, you took five, literally." He strapped the Mind Blade to his stump and climbed after her. His blade found its mark, and Cress's foot came off. "You take my hand. I take your foot. My nubs," he said. The Arbiter, seeing enough spare parts for one complete person, declared himself Captain Planet.
 
 Fear stole the next scene. Doug threw his die so far that it bounced to Fear's feet. The penguin rolled an 18, the crowd chanted "Fear, Fear, Fear," and a parade and a conga line broke out in the stands.
 
 New chaos brought Boggarts that took the shape of each champion's deepest fear. Chedrick's fear was heights. His Boggart hoisted him thirty feet into the air like a cheerleader at the top of a pyramid. He leapt off, and he landed on Cress's severed foot, which he had picked up: "I'd rather crack hers than mine." Cress's fear became a Karen with a giant purse and a shopping cart, demanding cash refunds without a receipt. Cress stared her down and said, "No, I am the manager. And you gotta go." Then she kicked the cart over in a spray of green beans and Kinder eggs.
 
-Gerald had not forgotten being hit with a sword. He tossed Cress a healing potion out of spite. "I am a professional box hitter, what you expect?" Chedrick shrugged, and the Arbiter wondered aloud, "Did I find champions or children?" Cress tried to regrow her foot and got only an ankle ending in tiny toes ("Twinkle Toes"). Then she dragged the Box closer with her mind and fed it Chedrick's hand. "This will go great with my hand collection," said Gerald. In exchange he gave her a scroll of healing so powerful the table called it "close to the wish spell," and her foot grew back whole. The Arbiter described the new foot as "like a skin sweatpants."
+Gerald had not forgotten being hit with a sword. He tossed Cress a healing potion out of spite. "I am a professional box hitter, what you expect?" Chedrick shrugged, and the Arbiter wondered aloud, "Did I find champions or children?" Cress tried to regrow her foot and got only an ankle ending in tiny toes ("Twinkle Toes"). Then she dragged the Box closer with her mind and fed it Chedrick's hand. "Oh yeah, this will go great with my hand collection," said Gerald. In exchange he gave her a scroll of healing so powerful the table called it "close to the wish spell," and her foot grew back whole. The Arbiter described the new foot as "like a skin sweatpants."
 
-Chedrick fought fire with fire. He threw Cress's old foot into the box, and Gerald handed back his hand along with a sewing kit. He stitched it on the right way round, but the hand was weak now, and Gerald's shadow was still poking out of the box, steering it. Chedrick's first swing with it went into his own face. "It's got a mind of its own," he complained. He now had a slap mark on his cheek to match the one Cress had given him.
+Chedrick fought fire with fire. He threw Cress's old foot into the box, and Gerald handed back his hand along with a sewing kit. He stitched it on the right way round, but the hand was weak now, and Gerald's shadow was still poking out of the box, steering it. Chedrick's first swing with it went into his own face, a slap hard enough to leave a mark. "It's got a mind of its own," he complained.
 
 ### Sir Shadow Ten the Third
 
-The Boggarts came back for a second round. Chedrick was hoisted up again and once more jumped off on his own. Cress faced down a mother-and-grandmother pair of Karens filming on a flip phone, and they ended up arrested. Then the Arbiter gathered every lurking shadow in the arena into a shadow ghast with a long, whipping tongue. Under pressure from the Grandmaster ("Everybody has a name"), he christened it **Sir Shadow Ten the Third, a knight of the night**.
+The Boggarts came back for a second round. Chedrick was hoisted up again and once more jumped off on his own. Cress faced down a mother-and-grandmother pair of Karens filming on a flip phone, and they ended up arrested. Then the Arbiter gathered the Boggarts and the other lurking shadows in the arena into a shadow ghast with a long, whipping tongue. Under pressure from the Grandmaster ("Everybody has a name"), he christened it **Sir Shadow Ten the Third, a knight of the night**.
 
 Chedrick melted perfectly into the gloom, his spilled silver blood serving as camouflage. Then he ruined it by taunting the ghast: "I mean, you can't see me." It turned toward his voice. It clawed and bit Cress, who shrugged off its paralysis. Chedrick drove the Mind Blade in and briefly seized its mind before it threw him back out. When the Arbiter suggested building the Grandmaster a shrine in the Shadowlands, she had heard enough.
 
 ### The Penguin Drill
 
-"I banish this shadow creature from my arena," she announced. She drew her oath bow and pinned the ghast to the ground through the heart, and it dissolved. "Show me what you are worth." Cress backhanded Chedrick. He limboed under her next swing Matrix-style. When she dashed away, he accused her of running and tried to scare her, but he was the one who ended up with "a little trickle" down his pant leg. The Grandmaster promised him new pants if he survived. He chased her down and landed two blows with his double blade.
+"I banish this shadow creature from my arena," she announced. She drew her oath bow and pinned the ghast to the ground through the heart, and it dissolved. "Show me what you are worth." Cress backhanded Chedrick, leaving a handprint on his other cheek to match the one from his own slap. He limboed under her next swing Matrix-style. When she dashed away, he accused her of running and tried to scare her, but he was the one who peed himself a little, with "a little trickle" running down his pant leg. The Grandmaster promised him new pants if he survived. He chased her down and landed two blows with his double blade.
 
 Finally the Grandmaster threw each champion a rainbow, shimmering bean: the stronger ultimate move would destroy both the other move and its owner. Cress raised a hand to the sky and called down "a heaven of dawn," a beam of fire and lightning that turned the rock around Chedrick to lava. "Waving my hand is the controller, baby." Chedrick answered with his super spinning penguin drill: "I got the penguin for a reason." He spun ten times and hurled Fear, now a gray blur of fire, through the beam.
 
 **Fear won by a narrow margin.** He punched straight through Cress's flames and then through Cress, leaving a penguin-sized tunnel in her stomach. She looked down at it and delivered her last words: "This isn't even my final form."
 
-"Arbiter, remove our Yamcha," the Grandmaster ordered. He slung Cress over his shoulder by putting his arm through the hole and flew off. "Don't worry, she'll probably be back… Death is just the beginning." The Grandmaster held out her hand to the victor. Chedrick threw a water bottle at her instead, and it hit her in the face. "Fine. Have it your way," she said. "I gift you your wish, but I'm going to leave you here in this place." She clapped, and everyone was back in the kitchen. Everyone except Chedrick, who was left behind in the Shadowlands.
+"Arbiter, remove our Yamcha," the Grandmaster ordered. He slung Cress over his shoulder by putting his arm through the hole and flew off. "Don't worry, she'll probably be back," the Grandmaster said. "Death is just the beginning." She held out her hand to the victor. Chedrick threw a water bottle at her instead, and it hit her in the face. "Fine. Have it your way," she said. "I gift you your wish, but I'm going to leave you here in this place." She clapped, and everyone was back in the kitchen. Everyone except Chedrick, who was left behind in the Shadowlands.
 
 ## Dried Blood
 
-After the fight, Cress repeated that this was not her final form. She promised "transformation action" if she ever returned for a rematch or another Deathmatch. Chedrick replied that next time he would skip his regular form and go straight to his "super whirlwind for explosion number five." "The gauntlet has been thrown," the Grandmaster said.
+After the fight, Cress repeated that this was not her final form. She promised "transformation action" if she ever returned for a rematch or another Deathmatch. Chedrick complained that he never even got to power up like he wanted to, and warned that next time he'd be using his "super whirlwind for explosion number five." "The gauntlet has been thrown," the Grandmaster said.
 
 ## Notable Moments
 
 - The Grandmaster's "vegan rat" charcuterie board was called gamey, and she kicked over a goblin in protest.
 - Cress killed an eel to save her own severed pinky toe, then pocketed both.
-- Chedrick and Cress traded a hand and a foot through Gerald, who kept puppeting the sewn-back hand to make Chedrick slap himself.
+- Chedrick and Cress traded a hand and a foot through Gerald, who puppeted the sewn-back hand to make Chedrick slap himself.
 - Fear rolled Doug's die for an 18 and got his own parade.
 - The Arbiter named his shadow ghast "Sir Shadow Ten the Third, a knight of the night."
 - The winner hit the Grandmaster in the face with a water bottle and was abandoned in the Shadowlands.

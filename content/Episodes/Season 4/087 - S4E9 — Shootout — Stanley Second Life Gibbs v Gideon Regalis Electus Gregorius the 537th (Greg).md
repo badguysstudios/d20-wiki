@@ -11,7 +11,7 @@ played_by:
 - 'Gideon Regalis Electus Gregorius the 537th: MyNameIsByf'
 winner: No winner
 arena: An abandoned Western ghost-town saloon
-summary: A cowboy who couldn't stay dead faced a hapless noble duelist whose pistols kept going off, until the pistols turned out to be sentient, destroyed Stanley's reviving drone and killed them both. The Grandmaster then shot the last gun to pieces with her longbow.
+summary: A cowboy who couldn't stay dead faced a hapless noble duelist whose pistols kept going off, until his surviving pistol revealed itself as sentient, destroyed Stanley's reviving drone and killed them both. The Grandmaster then shot the last gun to pieces with her longbow.
 tags:
 - episode
 youtube: https://youtu.be/MTC_6sqV8d0
@@ -20,7 +20,7 @@ canon_order: 87
 
 [Watch on YouTube](https://youtu.be/MTC_6sqV8d0)
 
-**Stanley "Second Life" Gibbs**, the self-proclaimed fastest gun in the West, met **[[Gideon Regalis Electus Gregorius the 537th|Gideon Regalis Electus Gregorius the 537th]]**, a polite, terrified and endlessly apologetic duelist who just wanted an honorable fight. They fought in an abandoned saloon in a Western ghost town. Stanley died ten times and kept getting back up. Greg lost a toe and three fingers without ever meaning to hurt anyone, and the real villain of the night turned out to be his own pair of pistols.
+**Stanley "Second Life" Gibbs**, the self-proclaimed fastest gun in the West, met **[[Gideon Regalis Electus Gregorius the 537th|Gideon Regalis Electus Gregorius the 537th]]**, a polite, terrified and endlessly apologetic duelist who just wanted an honorable fight. They fought in an abandoned saloon in a Western ghost town. Stanley died ten times and kept getting back up. Greg lost a toe and three fingers, and the real villain of the night turned out to be his own pair of pistols.
 
 ## The Story
 
@@ -48,11 +48,11 @@ A tumbleweed rolled past. The Acolytes whooped, swinging cowboy hats and lassos,
 
 ### The Honorable Bow
 
-Stanley proposed a gentlemanly wager. He paced ten steps away with his back turned and his hands up, and invited Greg to draw first. Greg wanted to bring his big sister, who fights with a polearm and whom he'd seen disembowel people. The Grandmaster liked the sound of her but ruled: "Those who are in the arenas will stay in the arena. No additions."
+Stanley proposed a gentlemanly wager, with drinks from the bar for whoever missed. Greg wanted to bring his big sister, who fights with a polearm and whom he'd seen disembowel people. The Grandmaster liked the sound of her but ruled: "Those who are in the arenas will stay in the arena. No additions." So Stanley paced ten steps away with his back turned and his hands up, and invited Greg to draw first.
 
 Then Greg bowed, as any honorable gentleman must before a duel. One pistol fell out of its holster, fired into the floor and ricocheted into Stanley's thigh. As Greg bent to pick it up, the other pistol fell out and fired too, and **Stanley died**. "Why does this keep happening?" Greg wailed. The Grandmaster booed: "You didn't even try. You accidentally killed a man."
 
-Greg knelt to prod the body, and a small flash of light appeared over Stanley's head. A little floating mechanical drone with a single eye brought him back to life. The shock knocked Greg backwards, a gun misfired through its holster, and Greg's pinky toe sailed across the room onto a table. Stanley found it ("Oh, man, that's real green"), dropped it in a mug of ale to keep it fresh and sent it to the bar. "Will my toe be drunk when it gets done?" Greg asked. The Grandmaster explained to the crowd that certain individuals had made a deal of some sort to keep coming back, "and their secrets are theirs to keep."
+Greg knelt to prod the body, and a small flash of light appeared over Stanley's head. A little floating mechanical drone with a single eye brought him back to life. The shock knocked Greg backwards, a gun misfired through its holster into his own foot, and Greg's pinky toe sailed across the room onto a table. Stanley found it ("Oh, man, that's real green"), dropped it in a mug of ale to keep it fresh and sent it to the bar. "Will my toe be drunk when it gets done?" Greg asked. The Grandmaster explained to the crowd that certain individuals had made a deal of some sort to keep coming back, "and their secrets are theirs to keep."
 
 ### The Box of Chaos
 
@@ -60,27 +60,27 @@ A flaming pink-and-yellow comet crashed between the champions: **[[The Box of Ch
 
 Stanley, overconfident as ever, threw himself into the box. He found it oddly empty except for one mug, and only one mug. His corpse flew back out clutching a greater silver pistol, and the drone sparked him back to life. "This is just beautiful. Like a little flower. I think I'll call it… Daffodil."
 
-Greg had no second life to offer. Instead he poured every bottle he could find into the box, along with the toe beer, and then gingerly dropped in the toe. The newly trapped soul peeked out: "Why the fuck do you think I want your dirty toe?" After a pause it decided, "I've had worse. I'll take the toe," and handed it back as a pendant on a silver chain that let Greg fly. "He just re-gifted it back," the Grandmaster marveled. Meanwhile, tequila vendors worked the stands, and Stanley caught a waterfall of eight shots in his mouth without breaking stride.
+Greg had no second life to offer. Instead he poured several bottles from the bar into the box, along with the toe beer, and then gingerly dropped in the toe. The newly trapped soul peeked out: "Why the fuck do you think I want your dirty toe?" After a pause it decided, "I've had worse. I'll take the toe," and handed it back as a pendant on a silver chain that let Greg fly. "He just re-gifted it back," the Grandmaster marveled. Meanwhile, tequila vendors worked the stands, and Stanley danced and caught a waterfall of about eight shots in his mouth.
 
 ### Death After Death
 
 Daffodil's debut was a dazzling show of twirls that ended with six bullets tossed into the air and landing in the cylinder, followed by a miss. Stanley's second shot clipped Greg's arm, and Greg wondered aloud if he was dead. He wasn't. Then Greg begged his pistols to "just work normally for once." They did: one shot made Stanley's heart explode in his chair, and the other shattered his glass so that a shard opened his throat. "Maybe go for more center mass next time," Stanley suggested after waking up again.
 
-Greg dove under the billiards table to cower, dropped a gun, and it fired straight between Stanley's eyes. "Quit dying!" the Grandmaster yelled. "The respawn here is terrible." The drone took the hint and revived Stanley thirty feet away. The Shadow King was not amused: "It's not much of a deathmatch if they don't actually die."
+Greg dove under the billiards table to cower, dropped a gun, and it fired straight between Stanley's eyes. "Quit dying!" the Grandmaster yelled. "Listen, the respawn here is terrible." The drone took the hint and revived Stanley thirty feet away. The Shadow King was not amused: "It's not much of a deathmatch if they don't actually die."
 
-When the chaos meter filled, the Shadow King raised the prismatic spray rings he had taken from [[The Arbiter|Vythorn]], which he kept "as mementos." "Very well, champions, let me prismatic finger you." Greg went stiff and began turning to stone behind the pool table. Stanley choked on poison and was then struck by lightning through the ceiling, left a skeleton in his chair. The drone rolled its single eye like a coworker at the end of a long shift and brought him back yet again. At the end of the round the Grandmaster rolled a plushy die that clearly hadn't been played with in a long time, and Stanley simply lost the will to live and died once more. She called a break to go cry and punch a wall.
+When the chaos meter filled, the Grandmaster announced it was time for "a little finger action," meaning the prismatic spray rings the Shadow King had taken from [[The Arbiter|Vythorn]], which he kept "as mementos." "Very well, champions, let me prismatic finger you." Greg went stiff and began turning to stone behind the pool table, with a warning that he "might end up rock hard." "He's busy getting fingered right now. Give him a break," the Grandmaster told the crowd. Stanley choked on poison and was then struck by lightning through the ceiling, left a skeleton in his chair. The drone rolled its single eye as if fed up with its day in the saloon and brought him back yet again. At the end of the round the Grandmaster rolled a plushy die that clearly hadn't been played with in a long time, and Stanley simply lost the will to live and died once more. She called a break to go cry and punch a wall.
 
 ### The Turn
 
-After the break, the Shadow King gave Greg a tip: "Maybe shoot the little contraption." Stanley answered with a shadow-magic round from his old pistol. Greg flung his guns up in terror, and the shot took off his pinky instead. "You lost the toe, now you lost the pinky," said the Grandmaster. The dark magic also somehow cured his colorblindness. "Stanley! I can see you properly," Greg cried, gazing at the bright, beautiful world. "Well, you're going to be seeing red here in a second," Stanley replied, and then Daffodil missed. The Grandmaster tossed him some extra healing: "Second wind for second life. I got you, Gibbs."
+After the break, the Shadow King gave Greg a tip: "Maybe shoot the little contraption." Stanley answered with a shadow-magic round from his old pistol. Greg held his guns up in front of his face in terror, and the shot took off his pinky instead. "You lost the toe, now you lost the pinky," said the Grandmaster. The dark magic also somehow cured his colorblindness. "Stanley! I can see you properly," Greg cried, gazing at the bright, beautiful world. "Well, you're going to be seeing red here in a second," Stanley replied, and then Daffodil missed. The Grandmaster tossed him some extra healing: "Second wind for second life. I got you, Gibbs."
 
-Greg shook off the stone and gave the Shadow King a little salute. The Shadow King answered by zipping an 8-ball past his head. Then came Greg's masterpiece. He aimed at the chandelier above Stanley, missed, and sent the bullet out a window, off two posts outside and back in through another window. It dropped one chandelier, smashed half the bar, ricocheted off a mug of ale, dropped a second chandelier, whizzed past Greg's own face and finally brought down the third. Stanley's head slipped neatly between two spokes, giving him a split second of hope before the weight snapped his neck. "I'll pay for any damages, I promise," Greg told the hosts. "Not for you, Stanley."
+Greg shook off the stone and gave the Shadow King a little salute, though not before Stanley noticed "a stain on the front of his pants." The Shadow King answered by zipping an 8-ball past his head. Then came Greg's masterpiece. He aimed at the chandelier above Stanley, missed, and sent the bullet out a window, off two posts outside and back in through another window. It dropped one chandelier, broke several containers of drink behind the bar, ricocheted off a mug of ale, dropped a second chandelier, whizzed past Greg's own face and finally brought down the third, leaving half the bar destroyed. Stanley's head slipped neatly between two spokes, giving him a split second of hope before the weight snapped his neck. "I'll pay for any damages, I promise," Greg told the hosts. "Not for you, Stanley."
 
 Stanley woke to find Greg's barrel pointed at him again, and a whisper came on the wind: "Greg, shoot him." Greg's bullet went straight down Stanley's barrel and backfired Stanley's own round into his face.
 
 ### The Guns Take Over
 
-Feeling his luck run out, Stanley flicked the gold coin he carried for luck, melted it into a single round and loaded it into Daffodil. The pistol burst into full bloom, a flower engulfed in lava, and the shot flew at the speed of light into Greg's chest. It took off two of the fingers Greg had pressed there in fright. Rather than save them, Greg drank the beer Stanley offered to keep them in: "Oh, it's much better than the toe beer, the finger beer." Daffodil burned through its holster and fell to the floor.
+Feeling his luck run out, Stanley flicked a gold coin from his belt pouch, melted it into a single round and loaded it into Daffodil. The pistol burst into full bloom, a flower engulfed in lava, and the shot flew at the speed of light into Greg's chest. It took off two of the fingers Greg had pressed there in fright. Rather than save them, Greg drank the beer Stanley offered to keep them in: "Oh, it's much better than the toe beer, the finger beer." Daffodil burned through its holster and fell to the floor.
 
 Stanley tried one last trick shot to undo Greg's perfect vision. Greg deflected it with one of his pistols, which broke. Greg insisted it was the guns, always the guns. One of them, he said, had whispered that he was a little bitch. He tossed the broken gun up to the Grandmaster, Stanley shot it out of the air, and as it sailed out of the arena it screamed, "Greg, you're a bitch!" "See? See, I fucking told you!" Greg shouted. "This guy's got demons he's fighting on his own," the Grandmaster observed.
 
@@ -92,13 +92,13 @@ Stanley complimented whichever of the three of them had delivered that performan
 
 ### The Final Blow
 
-The pistol turned on its owner: "Greg, you little bitch. You got my sibling killed." It shot him twice. Bleeding out, Greg asked what it had wanted all this time. Then he slipped on his own blood, cracked his head and died. "Oh, I was going to kill him. Shit," said the Shadow King. "Well now, now it's not fun."
+The pistol turned on its owner: "Greg, you little bitch. You got my sibling killed." It shot him twice. Bleeding out, Greg asked what it had wanted all this time. Then he slipped on his own blood, cracked his head and died. "Oh, I was, but I was going to kill him. Shit," said the Shadow King. "Well now, now it's not fun."
 
 Free at last, the gun fired into the air in celebration and killed an Acolyte, JustJules22. The Grandmaster planted a foot on the railing, drew her bow and pinned the pistol to the floor. It exploded like a mechanical firework. With both champions dead, she declared the Acolytes the only winners, for they had witnessed a true fight to the death. The Shadow King conceded that it was "kind of bullshit, though. Whatever."
 
 ## Dried Blood
 
-Greg's spirit took comfort that he had finally fought a noble duel. His pistol told him to shut up and complained that it had been shot to pieces by a longbow, despite being "the evolution of ranged weaponry." Stanley's drone grumbled about years spent reviving a drunk who flung himself out windows and into flaming boxes. Then it admitted, quite frankly, that it would miss him.
+Greg's spirit took comfort that he had finally fought a noble duel. His pistol told him, "Shut the fuck up, Greg," and complained that it had been shot to pieces by a longbow, despite being "the evolution of ranged weaponry." Stanley's drone grumbled about reviving "that sack of shit," a drunk who flung himself out windows and into flaming boxes, without even a break to take a poo. Then it admitted, quite frankly, that it would miss him.
 
 ## Notable Moments
 
@@ -107,7 +107,7 @@ Greg's spirit took comfort that he had finally fought a noble duel. His pistol t
 - The Box of Chaos refused Greg's toe, accepted it anyway, then gave it back as a pendant.
 - A single bullet bounced off two posts outside, dropped three chandeliers and wrecked half the bar.
 - By the table's count, Stanley died ten times in one match.
-- The pistols turned out to be sentient, killed both champions and an Acolyte, and lost to the Grandmaster's longbow.
+- The pistols turned out to be sentient; the surviving one killed both champions and an Acolyte, then lost to the Grandmaster's longbow.
 
 ## Memorable Quotes
 

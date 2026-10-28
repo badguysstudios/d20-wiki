@@ -22,7 +22,7 @@ Most soul gems are green. They glow a pale jade and have an ethereal light insid
 
 Their value may not stop at money. **Whispers say the gems still contain the souls they came from and can be used in arcane ways**, and some people collect them for exactly that reason. Size matters too: the bigger the gem, the younger the creature was when it died. A large gem holds more of a life that was never lived.
 
-The party summed it up bluntly in the end:
+In the end, it was put bluntly:
 
 > "The soul gems are dead people."
 
@@ -36,9 +36,9 @@ After the fight with the dragon, in [[Episodes/Into the Mirror/080 - Into the Mi
 
 In [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], the party studied another find whose color and texture were almost exactly those of the city's soul gems, only far larger. [[Flynry]] asked whether it matched the gem that [[Locket]] is made of. It was "similar, but not the same." Locket died in the Sands of Eternity, an afterlife where a soul that dies dies forever, and the party hopes her soul gem might somehow bring her back. Whether that is possible remains unknown.
 
-The same session showed that the gems matter politically as well as financially. When [[Elianna]] asked why some people were barred from the city, one of the exiles explained: "Thrown out for speaking a little too loudly against the monarchy. Trying to keep a few extra soul gems for ourself. Making waves generally… many of us just don't have a place within the walls."
+The same session showed that the gems matter politically as well as financially. When [[Elianna]] asked why some people were barred from the city, one of the exiles explained: "Thrown out for speaking a little too loudly against the monarchy. Trying to keep a few extra soul gems for ourself. Making waves generally… many of us just don't have a place within the walls. We don't serve a function."
 
-As the party prepared to leave, [[Sky]] backed away with a parting shot: "I hope we meet again and hopefully the next time you're not passing through here as soul gems." Cerys answered: "Ha! Funny. I hope not."
+As the mirror's surface clouded and swirled behind the party's reflections, [[Sky]] backed away with a parting shot: "I hope we meet again and hopefully the next time you're not passing through here as soul gems." Cerys answered: "Ha! Funny. I hope not."
 
 ## Appearances
 - [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)]]

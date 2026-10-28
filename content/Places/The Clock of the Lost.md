@@ -8,11 +8,11 @@ tags:
 - place
 ---
 
-**The Clock of the Lost** is a giant clockwork column, "a little place far, far out," that served as the arena for the first two-on-two Deathmatch. Its gears were meant to keep spinning until someone said a magic word. They didn't stop that way. They stopped when [[The Arbiter|the Arbiter]] put a wrench in the works. For the champions sent there, the ground under their feet was never still and the floor could crush them.
+**The Clock of the Lost** is a giant clockwork column, "a little place far, far out," that served as the arena for a two-on-two Deathmatch. Its gears were meant to keep spinning until someone said a magic word. They didn't stop that way. They stopped when [[The Arbiter|the Arbiter]] put a wrench in the works. For the champions sent there, the ground under their feet was never still and the gears could crush them.
 
 ## Description
 
-The Clock of the Lost is built like the inside of an enormous timepiece. Its gears are sorted by metal, which tells the champions how the levels fit together. The copper-tainted wheels all sit on one level, and anything silver is above or below. A steady ticking runs in the background at all times. Floating stands hang high above the machinery, so the Acolytes can watch from a safe distance.
+The Clock of the Lost is built like the inside of an enormous timepiece. Its gears are sorted by metal, which tells the champions how the levels fit together. The copper-tainted wheels all sit on one level, and anything silver is above or below. A steady ticking runs in the background at all times. Floating stands hang high above the machinery.
 
 The danger is in the gears themselves. The Grandmaster warned the champions that they would not get a quiet place to stand:
 

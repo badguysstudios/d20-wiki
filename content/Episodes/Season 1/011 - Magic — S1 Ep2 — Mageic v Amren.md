@@ -11,7 +11,7 @@ played_by:
 - 'Amren: Miss_Magitek'
 winner: Mageic
 arena: The Grandmaster's abandoned abbey
-summary: Stage magician Mageic outlasted the fire genasi Amren Scorsia in the Grandmaster's abandoned abbey after Amren melted into a lava floor. Before she could harden into a statue, the Arbiter secretly remade her from the lava and spirited her away.
+summary: Stage magician Mageic outlasted the fire genasi Amren Scorsia in the Grandmaster's abandoned abbey after Amren melted into a lava floor. Before she had fully hardened, the Arbiter secretly remade her from the lava and spirited her away.
 tags:
 - episode
 youtube: https://youtu.be/Xp2sSpXWTLM
@@ -20,13 +20,13 @@ canon_order: 11
 
 [Watch on YouTube](https://youtu.be/Xp2sSpXWTLM)
 
-Red versus blue: a muscle-bound stage magician who thought he'd been booked for a show in Neverwinter, against a proud fire genasi who would rather die than be called his assistant. **[[Mageic]]** and **[[Amren]]** Scorsia tore the Grandmaster's abandoned abbey apart with illusions, fire and ice. Along the way they picked up a cursed porcelain doll, a thrown grandmother and an exploding cathedral. The fight ended in lava, and with a secret bargain the audience was never meant to see.
+Red versus blue: a muscle-bound stage magician who thought he'd been booked for a show in Neverwinter, against a proud fire genasi who hated being called his assistant. **[[Mageic]]** and **[[Amren]]** Scorsia tore the Grandmaster's abandoned abbey apart with illusions, fire and ice. Along the way they picked up a cursed porcelain doll, a thrown grandmother and an exploding cathedral. The fight ended in lava, and with a secret bargain made in the ruins.
 
 ## The Story
 
 ### Knives in the Fortress
 
-The night began, as these nights do, with a plunge through the skull-mouthed entrance of [[The Dread Fortress]], swallowed whole and down into its belly. Inside, [[The Arbiter|the Arbiter]] stood pinned against a wall with a small red apple balanced on his head. [[Grandmaster Elusia Skypiercer|The Grandmaster]] faced him with a belt full of daggers. He complained that her form was "a nine when you're usually at a ten," so she threw one in anger. Then she tripped over her own dress, fell flat on her face, and sliced her hand open on the blade.
+The night began, as these nights do, with a plunge through the skull-mouthed entrance of [[The Dread Fortress]], swallowed whole and down into its belly. Inside, [[The Arbiter|the Arbiter]] stood pinned against a wall with a small red apple balanced on his head. [[Grandmaster Elusia Skypiercer|The Grandmaster]] faced him with a belt full of daggers. He protested that "it's a nine when you're usually at a ten," so she threw one in anger. Then she tripped over her own dress, fell flat on her face, and sliced her hand open on the blade.
 
 The Grandmaster insisted this was all fine:
 
@@ -38,7 +38,7 @@ She bound the wound with a strip torn from her dress, and the Arbiter quietly he
 
 Mageic arrived confused. "Are we not in Neverwinter? I was supposed to do a show in Neverwinter." He recovered quickly enough to announce himself as "the marvelous, the mystical, the magnificent, the moody… magical Mageic, the magician," a showman with big muscles and a trick for every occasion. Amren entered in a blaze: "It is I, Amren Scorsia. From the elemental plane of fire." She was polite to the Grandmaster and seething at everyone else.
 
-The seething started almost immediately. Mageic cast Amren as "the pretty sidekick," there to distract while he wowed. He then grumbled that his manager, Jerry, had promised him an exclusive contract. Amren sneered that she was "not some… show tunes kind of performer." The Grandmaster shut the whole thing down: "In this arena, there is only one who is in charge and who dictates what happens, and it is me… Managers have no role here." Amren, she added, was an honored guest.
+The seething started almost immediately. Mageic cast Amren as "the pretty sidekick," there to distract while he wowed. He then grumbled that his manager, Jerry, had promised him an exclusive contract. Amren sneered, "Not some… show tunes kind of performer," and Mageic insisted he doesn't sing. The Grandmaster shut the whole thing down: "In this arena, there is only one who is in charge and who dictates what happens, and it is me… Managers have no role here." Amren, she added, was an honored guest.
 
 ### The Abandoned Abbey
 
@@ -50,15 +50,15 @@ Then night fell too early, a lullaby drifted through the air, and a small porcel
 
 Mageic opened with patter worthy of any stage: "Ladies and gentlemen, boys and girls, children of all ages and the creepy doll…" He offered Amren a professional handshake. She refused it ("I will not touch your hand, you filth"), so he gave her a slow clap that boomed like thunder. Then, for reasons only Mageic understands, he shook the doll's hand instead.
 
-The doll's eyes went solid black. She gripped him like death, muttered in a strange language, and burned a small rune into his palm. "We're friends now." From then on the doll was his assistant, copying his every move, while spectators in the stands held up their own children to see. Mageic named her **[[Dolly|Dolly Parton]]**. The Arbiter was openly creeped out.
+The doll's eyes went solid black. She gripped him like death, muttered in a strange language, and burned a small rune into his palm. "We're friends now." From then on the doll was his assistant, copying his every move, while spectators in the stands held up their own children to see.
 
-Amren answered by vanishing in a wisp of mist and reappearing on a rooftop. "Is this really who you are cheering for? Him, of all people? Do you want a real show?" She set off fireworks beside the magician, and the crowd loved it. Mageic turned invisible and sat on a stool holding Dolly's hand, whispering his battle plan to her. Unfortunately for him, the whisper echoed through the whole abbey, and Amren heard every word. She stomped, and the cobblestones churned up around him.
+Amren answered by vanishing in a wisp of mist and reappearing on a rooftop. "Is this really who you are cheering for? Him, of all people? Do you want a real show?" She set off fireworks beside the magician, and the crowd loved it. Mageic turned invisible and sat on a stool holding the doll's hand, whispering his battle plan to her. Unfortunately for him, the whisper echoed through the whole abbey, and Amren heard every word. She stomped, and the cobblestones churned up around him. The doll floated, and Mageic named her **[[Dolly|Dolly Parton]]**. The Arbiter was openly creeped out.
 
 His attempt to calm her down failed, so Mageic held Dolly aloft "like Simba" and sent her floating up to give Amren "a nice big old hug." Dolly had her own ideas about hugs. "I hug with my teeth," she announced, and sank black-tipped teeth into Amren's ankle. Amren swung her staff like a golf club, launched the doll straight back at Mageic, and Dolly shattered. The rune on his palm burned away. "Dolly. Dolly. What'd you do to Dolly?" he cried. "I sent her away permanently," said Amren.
 
 ### Dodgeball and Grief
 
-The Acolytes then got involved and started throwing everything they'd brought. Foam, Dolly's severed head, a stapler, a fistful of tacos, hot dogs, a statue of Geralt of Rivia, cookies, a steel chair, beers and a six-pack of Voodoo Ranger all rained into the arena. Someone threw their own grandmother in, and she died. "She was a ticket holder. She bought her way in here," came the justification. Amren got taco lettuce in her hair. Mageic ate a hot dog off the floor, explaining that it's really hard to get quality food in the Dread Fortress. The Arbiter dragged the grandmother away and mopped up after her, lamenting that stonework is "a lot more difficult." The Grandmaster had a simpler view: "Let the blood be a reminder of what's at stake."
+The Acolytes then got involved and started throwing everything they'd brought. Foam, Dolly's severed head, a stapler, a fistful of tacos, hot dogs, a statue of Geralt of Rivia, cookies, a steel chair, beers and a six-pack of Voodoo Ranger all rained into the arena. Someone threw their own grandmother in, and she died. "She was a ticket holder. She bought her way in here," came the justification. Amren got taco lettuce in her hair. Mageic ate a hot dog off the floor, explaining that it's really hard to get quality food in the Dread Fortress. The Arbiter dragged the grandmother's body away and mopped up her blood, lamenting that stonework is "a lot more difficult." The Grandmaster had a simpler view: "Let the blood be a reminder of what's at stake."
 
 Mageic wasn't finished grieving, or exploiting his grief. He conjured an illusion of Dolly, crying and furious, perched on Amren's shoulder and whispering the lullaby into her ear. Amren broke down ("Go away, dolly. Please.") and fled across the scaffolding. The Grandmaster had had enough of everyone being frightened of dolls, the Arbiter included ("You don't know what I've been through. You don't know me."). She reached out and crushed the illusion in her hand. "I had to watch Dolly die twice, Mageic," Amren said.
 
@@ -90,7 +90,7 @@ She blinked to his side and burned his face, his beautiful showman face, now sca
 
 ### The Floor Is Lava
 
-The crowd began to chant "Fire!" and lava seeped up through the cathedral floor. Mageic shimmied up a column "like a squirrel." Amren, confident in her element, stood her ground. It was too much even for her. She sank into the lava with her arms raised. The Grandmaster honored "a great champion who brought heat to the fight" and beat her wings, sending a cooling gust that hardened the floor with a lava statue of Amren caught inside it.
+The crowd began to chant "Fire!" and lava seeped up through the cathedral floor. Mageic shimmied up a column "like a squirrel." Amren, confident in her element, stood her ground. It was too much even for her. She melted into the lava with her arms raised. The Grandmaster honored "a great champion who brought heat to the fight" and beat her wings, sending a cooling gust that hardened the floor with a lava statue of Amren caught inside it.
 
 But before Amren had fully hardened, the Arbiter knelt beside her. **"It seems that this is the end for you, but it doesn't have to be. Would you like to live?"** "Yes, I would like to live," she answered. "Then I will harness your fiery passion, your heat of rage, your violent tendencies. And I will mold you into the perfect weapon." He remolded her body out of the lava, and the two of them vanished.
 

@@ -5,7 +5,7 @@ aka:
 - the war world
 region: Southeastern edge of the Void
 first_appearance: Pieces of a King Ep 1 — DӒMMERUNG
-summary: A bleak, permanently dusky war world on the far southeastern edge of the Void, where the living have spent years fighting a construct army led by the Warmind.
+summary: A bleak, permanently dusky war world on the far southeastern edge of the Void, where the living have fought an army of constructs for about ten years and now face the Warmind.
 aliases:
 - the war world
 tags:
@@ -16,17 +16,17 @@ tags:
 
 ## Description
 
-Dämmerung lies in the far southeastern region of the Void. One portal-maker summed up the location as "like all the way on the edge. That's gross." His notes describe its weather in three words: "Constant Dusk, Overcast." The sun never quite rises or sets, and the sky stays heavy and grey. Opening a way there took a heap of iron and dirt. He asked for "a lot of iron dirt," which suits a world that seems built from both.
+Dämmerung lies in the far southeastern region of the Void. One portal-maker summed up the location as "like all the way on the edge. That's gross." His notes describe its weather in three words: "Constant Dusk, Overcast." It is always dusk there, under a sky that never clears. Opening a way there took a heap of iron and dirt. He asked for "a lot of iron dirt."
 
-Where the party landed, Dämmerung was a battlefield. The front line divides two sides. The constructs fly banners marked with gears and build brutalist structures, while the living march under lavender and silver, or carmine and orange. Away from the trenches the world is surprisingly beautiful. There is open greenery and there are mountains, and further on, tall factory pipes rise from a large city framed against the peaks. Tunnels also run beneath the surface. The peoples of [[The Underdark]] fled up to the surface during the war, and the world's defenders now speak of protecting "the last of the Damaranians above and those below."
+Where the party landed, Dämmerung was a battlefield. The front line divides two sides. The constructs fly banners marked with gears and build brutalist structures, while the living march under lavender and silver, or carmine and orange. Away from the trenches the world is surprisingly beautiful. There is open greenery and there are mountains, and further on, tall factory pipes rise from a large city framed against the peaks. Tunnels also run beneath the surface. The peoples of [[The Underdark]] fled up to the surface, and one of the world's defenders speaks of protecting "the last of the Damaranians above and those below."
 
-Key places on Dämmerung include **the Last City**, **Dämmerung Prime** and **the Planar Gate**, the world's doorway out into the wider Void. The war has also done something strange to magic itself. "Magic wanes and waxes… it is unnatural."
+Key places on Dämmerung include **the Last City**, **Dämmerung Prime** and **the Planar Gate**. Magic there is unreliable too. As Triss put it, "Magic wanes and waxes… it is unnatural."
 
 ## History
 
 ### Pieces of a King Ep 1 — DӒMMERUNG
 
-Dämmerung first came to the Dread Fortress's attention through a seer named Stolas. His divinations said the Shadow King's power was gathering again, even though [[Grimnar Stormclaw|Grimnar]] insisted, "Of course we are. But he's dead. The Arbiter killed him," referring to [[The Arbiter]]. The Void Domain had been mobilized, and squads were sent out to stamp out the threat while it might still be "in its infancy." Stolas's readings pointed to Dämmerung, "a rather bleak looking world," where a growing darkness felt "very synonymous with the Shadow King's."
+Dämmerung first came to the Dread Fortress's attention through a seer named Stolas. When he asked whether they were familiar with the Shadow King, [[Grimnar Stormclaw|Grimnar]] answered, "Of course we are. But he's dead. The Arbiter killed him," referring to [[The Arbiter]]. Stolas's divinations said otherwise: the Shadow King's power was accumulating. The Void Domain had been mobilized, and squads were sent out to stamp out the threat while it might still be "in its infancy." Stolas's readings pointed to Dämmerung, "a rather bleak looking world," where a growing darkness felt "very synonymous with the Shadow King's."
 
 A portal-maker named Zzhitopp sent Grimnar, [[Nehebka]] and [[Muffy]] on their way. His map of the Void is a circle of movable beads, because the Void is always shifting and realms drop out of it "all the time." He piled iron and dirt at a gate, chanted the world's memorized coordinates, and stirred the burning materials into a red light. The portal opened with a great breath of air. "Well, Zzhitopp, you did it again, you bastard. Another beautiful portal." He sent them off with a cheerful reminder: "Remember Dämmerung is overcast and it's like always dusk there… Have fun, don't die."
 

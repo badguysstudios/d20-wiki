@@ -16,7 +16,7 @@ tags:
 - character
 ---
 
-**The minitaurs** are miniature minotaurs, a few inches tall, that burst out of the ground whenever [[Grandmaster Elusia Skypiercer|the Grandmaster]] decides a Deathmatch needs more tiny horns in it. They are fierce, armed and completely outmatched. Champions have blown them off cliffs, greased them and had their toes massaged by them, and the second horde ended the night living in the stands. They are one of the Grandmaster's own creations, and she is a little touchy about them.
+**The minitaurs** are miniature minotaurs, a few inches tall, that burst out of the ground whenever [[Grandmaster Elusia Skypiercer|the Grandmaster]] decides a Deathmatch needs more tiny horns in it. They are fierce, armed and completely outmatched. Champions have blown them off cliffs, greased them and had their toes massaged by them, and the second horde ended the night living in the stands. They are one of the Grandmaster's own chaos events, and she is a little touchy about them.
 
 ## Story
 
@@ -26,7 +26,7 @@ The minitaurs first appeared as one of the Grandmaster's brand-new chaos events.
 
 [[Bargo]] was not charmed. He blasted the little creatures on the bridge with a cone of wind, and four of them tumbled screaming off the ledge. "They cry for their mom and I laugh," he said. When offered the chance to work out whether they really were babies, he declined. The Grandmaster agreed: "Don't ask questions you don't want to know the answers to."
 
-The survivors charged Bargo with their mini axes. One stayed behind, stunned, and had come to adore him. Bargo dropped to one knee inside a shimmering magical bubble, and the horde screamed at him from the other side like a tiny rage. He laughed and coated them in a slick of grease. All huddled together and "oiled up… slick and shiny," the minitaurs slid around as if they were dancing and grabbed onto each other in a chain. Then the worst possible luck struck. One slipped over the edge, and because they were all holding hands, the whole chain went into the chasm. "Even the one that adored you," the Grandmaster noted.
+The survivors charged Bargo with their mini axes. One stayed behind, stunned, and had come to adore him. Bargo dropped to one knee inside a little magical bubble, and the horde screamed at him from the other side, "almost like a small rager." He laughed and coated them in a slick of grease. All huddled together and "oiled up… slick and shiny," the minitaurs slid around as if they were dancing and grabbed onto each other in a chain. Then the worst possible luck struck. One slipped over the edge, and because they were all holding hands, the whole chain went into the chasm. "Even the one that adored you," the Grandmaster noted.
 
 Carn pointed out that Bargo could still save his admirer. Bargo's answer was firm:
 
@@ -48,11 +48,11 @@ The minitaurs did not have an easy time in the crowd. Later in the fight the sta
 
 Minitaurs look like baby minotaurs shrunk down to a few inches, with horns, claws and hooves. They burrow up from below, pushing tiny white spikes through the earth before they emerge. They fight in swarms with miniature weapons, mostly mini axes ("They don't have great axes") and at least one sword. They attack with real enthusiasm, but they lack the strength to drag down a determined champion or to get past even a simple magical shield.
 
-They scream, cry for their mothers when things go wrong, and cling together under pressure, sometimes literally and with fatal results. At least one proved capable of real devotion, taking a shine to the very champion who was hurling its siblings into a chasm.
+They scream, cry for their mothers when things go wrong, and cling together under pressure, sometimes literally and with fatal results. At least one proved capable of real devotion, taking a shine to the very champion who was hurling its fellow minitaurs into a chasm.
 
 ## Relationships
 
-- [[Grandmaster Elusia Skypiercer]]: Their creator in the arena, who calls them "my minitaurs," defends their honor, and finally swept them into the audience.
+- [[Grandmaster Elusia Skypiercer]]: Their summoner in the arena, who calls them "my minitaurs," defends their honor, and finally swept them into the audience.
 - [[Bargo]]: Their first and most ruthless foe. He blew them off a ledge and greased them, and one minitaur adored him anyway. He let it fall.
 - [[Ol' Pumpernicklejack]]: Asked the giant-minotaur-or-thousand-minitaurs question and chanted at the one stabbing between his toes.
 - [[Sila]]: Resisted their attempt to drag her into a grave and enjoyed the foot massage.

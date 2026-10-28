@@ -37,7 +37,7 @@ The Grandmaster then gave her creed. The arena offers "not long-loading, year-lo
 
 They landed in a dark volcanic land crusted with lava, where the sulfurous air burned all the way to the lungs. High above, a spectral crowd of Acolytes floated over the arena, throwing their beers and taking off their shirts. The Arbiter asked whether the Grandmaster was ready to see them die. "I've been dying for it."
 
-Chef GPT got the worst possible start. He froze with an "Error, error, error," and his metal legs began sinking into the lava. He was used to heat, but it still cost him his opening move. Unable to see, Chef tried to run away across the lava flats, rolled for direction, got the worst result again, and ran straight into his opponent. The Grandmaster was generous: "That's a great run. Excellent. Well paced. With purpose." Chef put it more plainly: "I want to live. Help me."
+Chef GPT got the worst possible start. The Arbiter announced it with an "Error, error, error, error," and the robot's metal legs began sinking into the lava. He was used to heat, but it still cost him his opening move. Unable to see, Chef tried to run away across the lava flats, rolled for direction, got the worst result again, and ran straight into his opponent. The Grandmaster was generous: "That's a great run. Excellent. Well paced. With purpose." Chef had already put it more plainly: "I want to live. Help me."
 
 ### The Dogs of Many Things
 
@@ -61,25 +61,25 @@ Chef asked whether he was allowed to destroy members of the audience. He was tol
 
 ### Precious
 
-As the Arbiter admitted, "We can barely count to eight here." Jenny then vanished. In her place stood **Precious**, a tiny pink Pomeranian with a bell on its neck. She found the first dog, a retriever, whose collar promised to pull a shield from the crowd whenever she was about to be hit. Then she wove through Chef's legs to trip him. Chef's chosen roller failed, a reroll failed too, and the robot found himself unable to attack a small dog. "Bring back Jenny… I can't hurt this little dog." In a deep voice, the dog answered, "There is no Jenny, only Precious." Chef, now terrified, fled from her. He called it "a tactical retreat."
+As the Arbiter admitted, "We can barely count to eight here." Jenny then vanished. In her place stood **Precious**, a tiny pink Pomeranian with a bell on its neck. She found the first dog, a retriever, whose collar promised to pull a shield from the crowd whenever she was about to be hit. Then she wove through Chef's legs to trip him. Chef's chosen roller failed, a reroll failed too, and the robot found himself unable to attack a small dog. "Bring back Jenny… I can't hurt this little dog." The dog answered, "There is no Jenny, only Precious," then added in a deep voice, "you're going down." Chef, now terrified, fled from her. He called it "a tactical retreat."
 
 "Who let the dogs out?" Chef wondered, and he found the second dog: a sweet husky whose endless puppy kisses healed him. "This dog is now my friend. This dog is mine. Too bad it won't save you."
 
 Meanwhile, the Arbiter had a kernel of stale popcorn stuck in his teeth. In disgust, he **reached out to the Popcorn Guy and ripped his spine out through his chest**. "Had to be done with shitty popcorn." The Grandmaster called it an epic death and ordered the body covered in popcorn: "He died how he lived."
 
-The champions raced for the last dog, and Precious won it. It turned out to be gassy, and its farts burned the robot's lungs. "At least this smells better than anything you've been cooking, Chef," said Jenny. Chef answered with a desperate move: he heated his own hand like a cast-iron skillet, ran at the Pomeranian, and hugged her until they both sizzled. Between rounds the Arbiter asked about prom. Jenny had "a really cute pink dress," but needed to get out of "this shitty hellscape" to wear it. Chef had never had a prom: "I was made to cook food for people." The crowd cheered for the robot, and the Grandmaster gave him their inspiration for later.
+The champions raced for the last dog, and Precious won it. It turned out to be gassy, and its farts burned the robot's lungs. "At least this smells better than anything you've been cooking, Chef," said Jenny. Chef answered with a desperate move: he heated his own hand red like hot cast iron, ran at the Pomeranian, and hugged her until they both sizzled. Between rounds the Arbiter asked about prom. Jenny had "a really cute pink dress," but needed to get out of "this shitty hellscape" to wear it. Chef had never had a prom: "I was made to cook food for people." The crowd cheered for the robot, and the Grandmaster gave him their inspiration for later.
 
 ### Chef Frog
 
 The Grandmaster was losing patience. She gave the champions two rounds to finish each other off, "or I will murder you myself." Precious turned Chef into an itty-bitty baby frog, grabbed him in her mouth and shook him. The Grandmaster mused about frog gigging in the swamps, and Jenny promised, "You're getting made into a gumbo now, buddy."
 
-Chef Frog fought back. He spat his tongue into Jenny's eye, spending the Acolytes' inspiration to land it, and left her half-blind. Then he spread a slick of grease. When asked where it came from, he said, "The oils in the body. Frog oils, obviously." It killed several front-row Acolytes ("It's okay, they were unnamed NPCs," the Grandmaster assured everyone). Precious slipped onto her "puppy butt," and grease next to lava meant fire. She was now losing.
+Chef Frog fought back. He spat his tongue into Jenny's eye, spending the Acolytes' inspiration to land it, and left her half-blind. Then he spread a slick of grease. When asked where it came from, he said, "Well, you don't want to know. The oils, the oils in the body. Frog oils, obviously." The grease claimed the lives of front-row Acolytes ("It's okay, they were unnamed NPCs," the Grandmaster assured everyone). Precious slipped onto her "puppy butt," and grease next to lava meant fire. She was now losing.
 
 ### The Traitor and the Fall
 
 When the die went into the crowd, the catcher rolled the worst possible number. The Grandmaster called up her "natural one roller," Luis Sanchez, who had "shamed the entire film department here at Full Sail University." Since he had been rolling for Chef, she named him a traitor and sent him to Jenny's side as a human shield. The Grandmaster also admired his necklace: "You are our sacrifice for this evening. That way, when you're dead, I can have it."
 
-In the last round, Jenny raised hundreds of lava spikes under the audience, where Chef was hiding. He begged, "Save me, Acolytes… I'll make all of you delicious breakfast," and the crowd carried him clear, so he was barely scratched. Jenny then summoned the smell of her mom's fried chicken, "because I just want to go home." The Grandmaster revealed she had written Chef's 2.5-star Yelp review, and that hurt him more than the spikes.
+In the last round, Jenny raised hundreds of lava spikes under the audience, where Chef was hiding. He begged, "Save me, Acolytes… I'll make all of you delicious breakfast," and the crowd carried him while he shrugged off most of the blow, so he was barely scratched. Jenny then summoned the smell of her mom's fried chicken, "because I just want to go home." The Grandmaster revealed she had written Chef's 2.5-star Yelp review, and that hurt him more than the spikes.
 
 Then Chef pulled out a lime. "Y'all ever had lemon juice get in your eye before? Hurts like a bitch, right?" He squeezed out a dart of citric acid. Luis took the hit and melted into the lava, and his soul was absorbed. The sad puppy put its ears back. "I'm not affected by your tears," said Chef. With his final action he levitated Precious out over the lava and let her drop.
 
@@ -98,7 +98,7 @@ At the curtain call, the Grandmaster introduced her co-host, "last but not least
 - The chaos event the Arbiter promised would be painful turned out to be the Dogs of Many Things, three magic puppies hidden in the crowd.
 - Jenny won a dance-off by having two Acolytes dance for her.
 - The Arbiter ripped out the Popcorn Guy's spine over stale popcorn stuck in his teeth.
-- Chef, polymorphed into a frog, blinded Jenny with his tongue and greased the front row to death.
+- Chef, polymorphed into a frog, half-blinded Jenny with his tongue and greased the front row to death.
 - Jenny went out as a falling pink Pomeranian who became Cinderella in a ball gown.
 
 ## Memorable Quotes

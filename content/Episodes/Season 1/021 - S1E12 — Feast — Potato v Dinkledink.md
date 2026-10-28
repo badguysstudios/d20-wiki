@@ -11,7 +11,7 @@ played_by:
 - 'Dinkledink: EndlessChad'
 winner: Dinkledink
 arena: A giant holiday feast table, then a giant's mouth
-summary: Two champions recruited from a mall Santa line fought on a giant feast table, where timid Potato adopted his opponent Dinkledink as his father and was reborn as Starfall by Tiamat. Inside a giant's mouth the pair teamed up against a cake elemental that killed Starfall, and a grieving Dinkledink destroyed it, buried his son and was crowned the victor.
+summary: Two champions recruited from a mall Santa line fought on a giant feast table, where timid Potato adopted his opponent Dinkledink as his father. Inside a giant's mouth Potato was reborn as Starfall, named by Tiamat, and the pair teamed up against a cake elemental that killed Starfall. A grieving Dinkledink destroyed it, buried his son and was crowned the victor.
 tags:
 - episode
 youtube: https://youtu.be/yj4aWKZ78I8
@@ -20,7 +20,7 @@ canon_order: 21
 
 [Watch on YouTube](https://youtu.be/yj4aWKZ78I8)
 
-Shrunk to the size of crumbs and dropped onto a holiday feast table, **[[Potato]]** and **[[Dinkledink]]** came into the arena as strangers. Within an hour they were father and son. What began as a cake fight with a gun turned into a food fight and a trip down a giant's gullet. It ended as one of the strangest and most tender stories the arena has seen: a rodent barbarian who never wanted a kid, burying the one he got under a placemat with a star cookie for a headstone.
+Shrunk to the size of crumbs and dropped onto a holiday feast table, **[[Potato]]** and **[[Dinkledink]]** came into the arena as strangers. Within an hour they were father and son. What began as a cake fight with a gun turned into a food fight and a trip into a giant's mouth. It ended as one of the strangest and most tender stories the arena has seen: a rodent who never wanted a kid, burying the one he got under a placemat with a star cookie for a headstone.
 
 ## The Story
 
@@ -32,7 +32,7 @@ The episode opened on a festive [[The Dread Fortress|Dread Fortress]]. Tinsel an
 
 She summoned Richard, a small goblin in a Santa hat, and ordered hot cocoa. The Arbiter weighed schnapps, then Fireball, and settled virtuously on "I'm working… I'm on the job." The Grandmaster ordered him one with Fireball in it anyway. Only when he mentioned the Deathmatch did she remember it. She snapped, nearly forty goblins assembled, and the hall was finished in minutes.
 
-When she noted that it was a little early for all this, the Grandmaster set him straight:
+When he suggested that it was a little early for all this, the Grandmaster set him straight:
 
 > **Grandmaster Elusia Skypiercer:** "Elusia Skypiercer will celebrate whatever holiday that she wants."
 
@@ -54,7 +54,7 @@ Dinkledink stood on the rim of an ice cream cup twenty feet up. Potato stood on 
 
 Potato ducked behind a berry and pulled out a rifle. "I was starting to think that he was going to let us down," said the Arbiter, "but he brought a gun." He shot Dinkledink, then shot the chocolate wafer above him, burying the rodent in chocolate and peanuts. He then tried to hide by lying down in the frosting. It behaved like quicksand, melted around him, hardened again, and left him stuck. He licked his hand and declared it "so sweet."
 
-Dinkledink smeared ice cream across his face like war paint, hopped twenty feet down without a scratch, and climbed the cake like a badger. Halfway up he discovered he was allergic to strawberry, "the most dangerous of flavors," though he only came away a little itchy. He flew into a rage, hurled a hand axe at Potato, and made a vow:
+Dinkledink smeared ice cream across his face like blood, hopped twenty feet down without a scratch, and climbed the cake like a badger. Halfway up he discovered he was allergic to strawberry, "the most dangerous of flavors," though he only came away a little itchy. He flew into a rage, hurled a hand axe at Potato, and made a vow:
 
 > **Dinkledink:** "When Dinkledink kills you, he's gonna find your mother, take her out to a nice fried fish dinner, never call her again."
 
@@ -62,7 +62,7 @@ Dinkledink smeared ice cream across his face like war paint, hopped twenty feet 
 
 ### Food Fight
 
-Then the Acolytes threw their potluck. Hot dogs rained from the sky, along with Doritos, pierogies, a boiling waterfall of "stinky cheese hot soup," and actual potatoes. ("Your very distant potato cousins are raining from the sky." Potato: "More me?") Dog treats came down too, which thrilled Doug. Then the Arbiter pulled an entire stuffed turkey out of a small sack and threw it. Its shadow darkened the whole table. Both champions rolled clear, and the half-cooked bird bounced off and cracked the table open, leaving a bottomless chasm. "I'm not a turkey monger," the Arbiter explained.
+Then the Acolytes threw their potluck. Hot dogs rained from the sky, along with Doritos, pierogies, a boiling waterfall of "stinky cheese hot soup," and actual potatoes. ("Your very distant potato cousins are raining from the sky." Potato: "More me?") Dog treats came down too, which thrilled Doug. Then the Arbiter pulled an entire stuffed turkey out of a small sack and threw it. Its shadow darkened the whole table. Both champions rolled clear, and the half-cooked bird bounced off and cracked the table open, leaving a deep chasm that no one who fell in would climb back out of. "I'm not a turkey monger," the Arbiter explained.
 
 ### "Daddy, Please"
 
@@ -82,15 +82,15 @@ Potato shot Dinkledink point blank in the face and snapped off one of his teeth,
 
 ### Down the Hatch
 
-"This table does not come without someone to eat the feast." The Arbiter clapped, and a giant sat down and began shoveling food two-fisted into his mouth. Both champions were scooped up with the cake and swallowed into a humid cavern of stinking breath and candy cane shards.
+"This table does not come without someone to eat the feast." The Arbiter clapped, and a giant sat down and began shoveling food two-fisted into his mouth. Both champions were scooped up with the cake and shoveled into his mouth, a humid cavern of stinking breath and candy cane shards.
 
 There, Potato prayed again, to [[Tiamat]]: "Please. I want to meet my family. Dinkledink, don't let me die like this. I don't want to die alone." The Grandmaster asked Dinkledink whether he would see this boy stand on his own two feet. Dinkledink considered it. "You like fried fish?" "I've never had fish… Anything for you, Dad." "Yeah, why not? Shit."
 
-"Find yourself no longer at the feet of your enemy," the Grandmaster pronounced, "but in the arms of your father." Dinkledink cradled him like a baby, and the boy who rose from his arms had changed. "I was named by Tiamat. I was given the name of **Starfall**." The Arbiter found it "a little dramatic, but it's not the most dramatic thing we've had in the arena." Tiamat blessed father and son, and both were restored. Starfall's first words in his new voice: "We shall feast on the corpses of our enemies."
+"Find yourself no longer at the feet of your enemy," the Grandmaster pronounced, "but in the arms of your father." Dinkledink cradled him like a baby, and the boy who rose from his arms had changed. "I was named by Tiamat. I was given the name of **Starfall**." The Arbiter found it "a little dramatic, but it's not the most dramatic thing we've had in the arena." Tiamat blessed father and son, and both were restored. In his new voice, Starfall declared: "We shall feast on the corpses of our enemies."
 
 ### The Cake Elemental
 
-From the chewed crumbs and saliva rose a hulking shape with sprinkles for skin and cherries for eyes: a **cake elemental**, strawberry fondue to the core. "Only together will you survive this giant's mouth." Starfall swore a sacred vow against "this pathetic cake creature," but every slice regrew from the food piles. Dinkledink, increasingly unnerved by his grandiose new son, asked, "What the fuck did I get myself into?" and threw himself into a frenzy anyway. The elemental answered with a wave of boiling cheese and a two-fisted "Candy cane smash!", then tried to bake them both into itself.
+From the chewed crumbs and saliva rose a growing shape with sprinkles for skin and cherries for eyes: a **cake elemental**, strawberry fondue to the core. "Only together will you survive this giant's mouth." Starfall swore a sacred vow against "this pathetic cake creature," but every slice regrew from the food piles. Dinkledink, increasingly unnerved by his grandiose new son, asked, "What the fuck did I get myself into?" and threw himself into a frenzy anyway. The elemental answered with a wave of boiling cheese and a two-fisted "Candy cane smash!", then tried to bake them both into itself.
 
 Starfall found its weakness. "You're trying to eat me. Oh, what a joke. How ironic. I am the one who will be devouring you." Bites didn't grow back. "It's a food eating competition now," the Grandmaster declared. Dinkledink admitted that his son was "really creeping me out," but he ran up Starfall's back, got launched by his boy, and tore into the creature with his over-and-under teeth. "My son, make me proud." "Yes, father." Then he begged the Grandmaster to see them out "so that we can find Starfall's mother," adding, under his breath, "I just want to get away from this kid."
 
@@ -102,22 +102,22 @@ Dinkledink's rage was "akin to that of watching Ready Player One versus having r
 
 He hacked at the giant's tongue until it spat them thirty feet down onto the table. Starfall landed broken in every bone. Dinkledink ran to every piece of food crying "Magic cake! It'll save him!" and stuffed cake and candy into his son's mouth, but it did no good. Then, through their bond, Tiamat's power flowed into Dinkledink and gave him a rite to lay his son to rest. With one final breath Starfall looked up and said, "Father," and was gone.
 
-The Grandmaster floated down. "It was only a mere few rounds where you found fatherhood, but you should be proud of the son that now lays in your hands." Dinkledink dragged Starfall under the placemat and set a star cookie on top. His eulogy: "Tiamat, this is Dinkledink rules ass. This is my son, Starfall… I only knew him for like, an hour, two… we were going to be a team, an unstoppable team." He would find the boy's mother, treat her real nice, and take her out for a fancy fried fish dinner. Asked whether he would call her again, he answered: "Yeah, I'll call her again… maybe I'll bring her flowers."
+The Grandmaster floated down. "It was only a mere few rounds where you found fatherhood, but you should be proud of the son that now lays in your hands." Dinkledink dragged Starfall under the placemat and set a star cookie on top. His eulogy: "Tiamat, this is Dinkledink rules ass. This is my son, Starfall… I only knew him for like, an hour, two… we were going to be a team, an unstoppable team." He would find the boy's mother, take her out for a fancy fried fish dinner, treat her real nice, and "possibly make more Starfalls." Asked whether he would call her again, he answered: "Yeah, I'll call her again… maybe I'll bring her flowers."
 
 The Grandmaster laid her hands on his shoulders. "You have reminded us the beauty of the bonds that we hold, no matter where they begin." She declared there would be no Deathmatch the following Sunday, so that all could give thanks for the family, friend or foe that makes them who they are. Then she raised "your mousy rodent ass" into the sky as champion and promised a fried fish fry in his honor that night.
 
 ## Dried Blood
 
-After the show the voices of the dead food taunted everyone to keep eating: "You'll never kill us." Starfall insisted, "No, I killed them all. Right? Yes, father." Dinkledink, as ever, went along with it: "Yeah, sure, why not?" At the table, the players admitted that none of the father-son story had been planned. It grew out of one threat about a mother and a fish dinner that was never followed by a phone call.
+After the show the voices of the dead food taunted everyone to keep eating: "You'll never kill us." Starfall insisted, "No, I killed them all. Right? Yes, father." Dinkledink, as ever, went along with it: "Yeah, sure, why not?" At the table, the hosts admitted that none of it had been planned: the father-son story came entirely from the players. It grew out of one threat to take a mother out for fried fish and never call her again.
 
 ## Notable Moments
 
 - The Arbiter recruited both champions from a mall Santa line and kept the 5×8 photo of all three of them on Santa's lap.
-- A half-cooked stuffed turkey, thrown from a small sack, cracked the feast table into a bottomless chasm.
+- A half-cooked stuffed turkey, thrown from a small sack, cracked the feast table open into a deep chasm.
 - Potato's hip-tossed landing became a "hug," and his opponent became his "stepdad."
 - Potato was reborn in a giant's mouth as Starfall, named by Tiamat, and immediately became unsettlingly grand.
-- Father and son beat the cake elemental by eating it, bite by bite.
-- Dinkledink buried his son under a placemat with a star cookie, and the Grandmaster cancelled the next week's Deathmatch in his honor.
+- Father and son stopped the cake elemental from regrowing by eating it, bite by bite.
+- Dinkledink buried his son under a placemat with a star cookie, and the Grandmaster cancelled the next week's Deathmatch so all could give thanks for their bonds.
 
 ## Memorable Quotes
 

@@ -14,13 +14,13 @@ tags:
 
 The bazaar is a market that the Grandmaster acquired, and it still looks like one. Covered carts and stalls roofed with canvas tarps crowd its lanes. Buildings rise around them with roofs anywhere from fifteen to thirty feet high, so there is plenty to climb and plenty to fall off. A stairwell offers shelter from the sand.
 
-Being there means heat. Hot air and grit pour through the moment a portal opens, and **several suns race across the sky**, moving fast enough to be noticed. The breeze carries the smell of camel dung. The Grandmaster watches from her own shaded abode in the stands, well above the dust and the smell.
+Being there means heat. Hot air and grit pour through the moment a portal opens, and **several suns race across the sky**, moving fast enough to be noticed. The breeze carries the smell of camel dung. The Grandmaster watches from her own shaded abode in the stands.
 
 ## History
 
 The bazaar became an arena when [[The Arbiter]] tore open a portal and let the desert air drift into the Void's grandstands. "I thought we'd take a trip to the bazaar," he announced, and sent [[Rosa]] and [[Veronica]] in to fight.
 
-The market's tarps soon claimed a victim. One of the champions parkoured toward the box in the arena and tried to leap from a wagon across a canvas tarp. She didn't make it. In a classic bazaar moment, "just Aladdin a little bit," she ripped straight through the canvas and dropped to the ground below. She was unhurt, but she had already used her moment casting a spell, so she had no time left to run. She ended up sitting on her backside in the middle of the market. The Grandmaster and Veronica marked the moment together:
+The market's tarps soon claimed a victim. One of the champions parkoured toward the box in the arena and tried to leap from a wagon across a canvas tarp. She didn't make it. In a classic bazaar moment ("Just Aladdin a little bit"), she ripped straight through the canvas and dropped to the ground below. She was unhurt, but she had already used her moment casting a spell, so she had no time left to run. She ended up sitting on her ass in the middle of the market. The Grandmaster and Veronica marked the moment together:
 
 > **Grandmaster:** "She's beauty. She's grace."
 > **Veronica:** "She falls right onto her face."

@@ -20,7 +20,7 @@ tags:
 - character
 ---
 
-**Toddleheim** is a short, gray-bearded dwarf wizard with a hat, nice robes and more than a century of spellcasting behind him. He was framed as a traitor by [[The Arbiter|the Arbiter]] and thrown into the arena, and he came out the other side with a werewolf's bite and a role in exposing the Arbiter's scheme. He won the first round of the war for [[Grandmaster Elusia Skypiercer|the Grandmaster's]] crown and then followed his fallen friend [[Flynry]] into the afterlife. A wizard, a wolf and a terrible traveler, he has become one of the Void's most unlikely survivors.
+**Toddleheim** is a short, gray-bearded dwarf wizard with a hat, nice robes and more than a century of spellcasting behind him. He was framed as a traitor by [[The Arbiter|the Arbiter]] and thrown into the arena, and he came out the other side with a werewolf's bite and a role in exposing the Arbiter's scheme. He won the first round of the war for [[Grandmaster Elusia Skypiercer|the Grandmaster's]] crown and then followed his fallen friend [[Flynry]] into the afterlife. A wizard, a wolf and a terrible traveler, he has become one of the Void's more unlikely survivors.
 
 ## Story
 
@@ -36,9 +36,9 @@ In [[Episodes/Fate of the Arbiter/045 - S2E17 — Fate of the Arbiter - The Hall
 
 ### Battle for the Crown
 
-Toddleheim fought the opening round, [[Episodes/Battle for the Crown/046 - S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …|S2E18 · Battle for the Crown Round 1]], for Team Grandmaster alongside [[Veronica]]. They faced [[Ralzamon]] and [[Glub Glub the Glorious|Glub Glub]], two fallen champions brought back to fight for the Arbiter. The Arbiter introduced him as "the Great." Toddleheim announced his credentials: "I have been a wizard for over 125 years."
+Toddleheim fought the opening round, [[Episodes/Battle for the Crown/046 - S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & …|S2E18 · Battle for the Crown Round 1]], for Team Grandmaster alongside [[Veronica]]. They faced [[Ralzamon]] and [[Glub Glub the Glorious|Glub Glub]], two fallen champions brought back to fight for the Arbiter. The Arbiter called him "the Great." Toddleheim announced his credentials: "I have been a wizard for over 125 years."
 
-Then he gave in to the wolf completely and kept his magic as he did it. The fight got strange quickly. Toddleheim chased Glub Glub's stick like a good dog, then slapped Glub Glub with it. He was charmed when he picked up Boney. Finally he fell into a blood frenzy and mauled Ralzamon.
+Then he chose to become a werewolf, keeping his wizard magic as he did it. The fight got strange quickly. Toddleheim chased Glub Glub's stick like a good dog, then slapped Glub Glub with it. He was charmed when he picked up Boney. Finally he fell into a blood frenzy and mauled Ralzamon.
 
 Ralzamon's Eldritch Blast dropped him, but Toddleheim survived. He was raised on an iceberg pedestal as a victor while Ralzamon and Glub Glub died, and their deaths were permanent. The win put the first point on the board for the Grandmaster, though the vote of [[The Acolytes]] was still to be decided.
 
@@ -46,15 +46,15 @@ Ralzamon's Eldritch Blast dropped him, but Toddleheim survived. He was raised on
 
 After the battle, Toddleheim entered the Grandmaster's service. When Flynry was killed, Toddleheim spent months searching tomes and libraries for a way to bring him back. He refused to look into the mirrors on his first visit. When he did look, the mirrors showed him his heart's desire: a warm bosom to rest his head on. He sensed that the sand was made of destroyed souls, and he opened the crack that led to Flynry. That session ended as sand scorpions attacked ([[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1]]).
 
-In [[The Sands of Eternity]], Toddleheim relied on his old learning. Decades earlier he had studied a book of legends about the Sands, and he doubted the Arbiter was strong enough to have built such a place. He called Flynry "my boy" and "brother." The party destroyed the sand scorpions and a giant scorpion, and then Locket was killed. A soul that dies in the Sands dies forever ([[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9]]).
+In [[The Sands of Eternity]], Toddleheim relied on his old learning. Decades earlier he had studied in libraries, and he remembered a book of legends about the Sands; he doubted the Arbiter was strong enough to have built such a place. He called Flynry "my boy" and "brother." The party destroyed the sand scorpions and a giant scorpion, and then Locket was killed. A soul that dies in the Sands dies forever ([[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9]]).
 
 The mirrors later showed Toddleheim his inner self, an old, wise and content wizard, and after seeing it he could take his werewolf form at will. He saw a mirage of Locket comforting him. He made a grudging peace with the party's newest member, [[Cerys]]: "I don't like her, but she's all right." The party beat back four desert outlanders and pressed on toward [[Mortaurios]] ([[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10–11]]).
 
-By the next leg of the journey, [[Elianna]] had grown scared of him; as Flynry put it, "he's a wolf." Toddleheim noted that the last time he used one of these mirrors, he had been "brutally murdered." He flagged the pattern behind the sand-sickness and kept his remembrance stone in his pocket. When an ice dragon attacked, he shrank it with his magic, burned it, and then went at it as a wolf, and Cerys landed the killing blow ([[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4]]). He changed back mid-leap as he landed on a ledge, still a little "werewolfy," and he was the first to pick up the orrery ([[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14]]).
+By the next leg of the journey, [[Elianna]] had grown scared of him; as Flynry put it, "he's a wolf." Toddleheim noted that the last time he used one of these mirrors, he had been "brutally murdered." He flagged the pattern behind the sand-sickness and kept his remembrance stone in his pocket. When an ice dragon attacked, he shrank it with his magic, burned it, and then went at it as a wolf, and Cerys landed the killing blow ([[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4]]). He changed back as he landed on the ledge, still a little "werewolfy," and he was the first to pick up the orrery ([[Episodes/Into the Mirror/080 - Into the Mirror 14 — The Scholar|Into the Mirror 14]]).
 
 As "Toddleheim the Great," he turned scholar. He drew a line between wanting knowledge and wanting to rule, and he witnessed the blood oath. He dug up books on the Sands and their cities and found the entry on the sword of truth. When [[Sky]]'s raiders struck, he weakened foes, shielded allies and cancelled spells mid-cast, all while answering Sky's offer ([[Episodes/Into the Mirror/088 - Into the Mirror 15–16, Old Friends - Sky|Into the Mirror 15–16]]).
 
-In [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], the party survived Sky's ambush by surrendering. Toddleheim gave Sky an old book and received a fine warhammer in return. The party then held off the guardians of [[The Oasis]]. Without knowing it, Toddleheim gave Vythorn the one fact he needed: the key works for only one. Vythorn, the Arbiter himself, escaped through the orrery alone and left the party behind.
+In [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], the party survived Sky's ambush by surrendering. Toddleheim gave Sky an old book and received a fine warhammer in return. The party then held off the guardians of [[The Oasis]]. Without knowing it, Toddleheim fed Vythorn the line that the key works for only one. Vythorn, the Arbiter himself, escaped through the orrery alone and left the party behind.
 
 ## Personality and Abilities
 
@@ -65,7 +65,7 @@ In a fight he is a classic wizard. His arsenal includes Fire Bolt, Magic Missile
 ## Relationships
 
 - [[Flynry]]: Fellow adventurer and dear friend, called "my boy" and "brother." Toddleheim searched for months to revive him and followed him into the Sands.
-- [[Locket]]: A companion from the original trio. Her death in the Sands haunted him, and a mirage of her later comforted him.
+- [[Locket]]: A companion from the original trio. She was killed in the Sands, and a mirage of her later comforted him.
 - [[Cerys]]: A newer companion he tolerates: "I don't like her, but she's all right."
 - [[Lyrus]]: Talked Toddleheim back from the wolf after the bite, and escaped the arena with the champions.
 - [[Veronica]]: His teammate for the Grandmaster in Battle for the Crown Round 1.

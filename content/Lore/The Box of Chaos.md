@@ -5,14 +5,12 @@ aka:
 - Gerald
 - Box of Chaos
 - The good chaos box
-- The pink chest
 first_appearance: S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)
 summary: A soul-powered magic chest that crashes into the arena and trades champions mysterious magic items for sacrifices, home to a grabby, foul-mouthed shadowy figure best known as Gerald.
 aliases:
 - Gerald
 - Box of Chaos
 - The good chaos box
-- The pink chest
 tags:
 - lore
 ---
@@ -21,7 +19,7 @@ tags:
 
 ## Overview
 
-The box arrives with a crash, usually falling from the sky in a burst of chaotic lightning or streaking down like a pink and yellow meteor. When the lid flips open, it throws up a pillar of magical fire in pinks, yellows and purples (once green, once red) that is cool to the touch, and once beamed hundreds of feet into the air. A small shadowy figure with clawed or tendrilly fingers and glowing yellow eyes peers out. It is sometimes summoned by [[The Acolytes]], sometimes dropped in at the Grandmaster's or the Arbiter's whim, and between Deathmatches it is kept at [[The Eastern Outpost]].
+The box arrives with a crash, usually falling from the sky in a burst of chaotic lightning or streaking down like a pink and yellow meteor. When the lid flips open, it throws up a pillar of magical fire in pinks, yellows and purples (sometimes green or red) that is cool to the touch, and once beamed hundreds of feet into the air. A small shadowy figure with clawed or tendrilly fingers and glowing yellow eyes peers out. It is sometimes summoned by [[The Acolytes]], sometimes dropped in at the snap of the Shadow King's fingers or at the Arbiter's suggestion, and between Deathmatches it is kept at [[The Eastern Outpost]].
 
 The deal is always the same: a sacrifice for a magic item of unknown power. It takes almost anything. Offerings over the years have included hair, an opponent's arm, a bottle of vodka, a championship belt, a chinchilla, a grandmother (who turned out to be a bottle of Bailey's), 396 channel points, a homunculus named Blinky, PayPal, cryptocurrency and a credit card. In return it has handed out everything from a Holy Avenger and a Cube of Annihilation to a free ruler and pencil "for the school year." Usually it allows one trade per champion, and a second one takes a toll.
 
@@ -35,7 +33,7 @@ The box was made by Vythorn, [[The Arbiter]], after the defeat of the Shadow Kin
 
 ### Season 1 and Fate of the Arbiter
 
-The box first turned up in the [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|Season 1 finale]], where [[Lucien]] and his opponent faced an arena loot chest ringed in magical fire that opened only for blood. Nobody yet called it the Box of Chaos, but that is what it was.
+The box first turned up in the [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|Season 1 finale]], where [[Lucien]] and his opponent faced an arena loot chest ringed in magical fire that opened for blood. Nobody yet called it the Box of Chaos, but that is what it was.
 
 In [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|Fate of the Arbiter Part 1]] it was shown kept at the Eastern Outpost, burning green, pink and purple and demanding a sacrifice. By [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|Sands of the Arena]] the Acolytes were summoning it themselves, and it wanted meaningful offerings: a Pearl of Healing, a bracelet, a healing potion, blood. For the first time, it let the giver choose between items.
 
@@ -43,15 +41,15 @@ In [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the
 
 The box's early Season 2 outings were all business. In [[Episodes/Season 2/026 - S2E2 — Prize Fight — Asena v Ralzamon|Prize Fight]] nobody claimed it at all. In [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|A Lovers' Quarrel]] it vanished at a single look from the Grandmaster. In [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|Antsy]], where it kept burning pink and yellow even underwater, it took [[Geril-Lee]]'s hair. In [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|Hand to Hand Combat]] it swapped Carn's horn for a suit of enchanted chain mail. Then, in [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|Father's Love]], its fire burned [[Baron Voltágè]]'s soul right out of him. The box was buried after use, and in Dried Blood the Arbiter went and retrieved it.
 
-Everything changed in [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|Bees]]. [[Veronica]] offered the fiery being in the flames her nuts, then seduced him. He gave her a ring ("call me"), became a tattoo on her arm ("I'll be with you always now"), carried her into battle as her steed, ran hand in hand with her, and dove to take fire meant for her. The Arbiter took credit: "I invented Gerald." The romance did not last. Gerald was erased from Veronica's mind and from her arm, and the box exploded into red and purple flames and rolled away in a sandstorm.
+Everything changed in [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|Bees]]. [[Veronica]] offered the fiery being in the flames her nuts, then seduced him. He gave her a ring ("call me"), became a tattoo on her arm ("I'll be with you always now"), became her steed and her lover, carrying her into battle, ran hand in hand with her, and dove to take fire meant for her. The Arbiter took credit: "I invented Gerald." The romance did not last. Gerald was erased from Veronica's mind and from her arm, and the box exploded into red and purple flames and rolled away in a sandstorm.
 
-By [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|Filicide]] Gerald had moved into a new box commissioned by the Acolytes, a small shadowy silhouette among cool purple, pink and yellow flames. He talked now. He enjoyed blood but wanted variety, insisted "I have a soul," and kept undead raccoons or squirrels as pets, one named Francisco. He handed out the Sun Sword, the Helm of the Gods and a breastplate, sulked when [[Thornabub]] returned the sword, and openly favored [[Glassy]]. In Dried Blood it came out that he was paid in table scraps and drops of blood, and that his girlfriend, who had fought in a Deathmatch "a little while back," now worked on [[The bee farm]] with her memory of him modified.
+By [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|Filicide]] Gerald had moved into a new box commissioned by the Acolytes, a small shadowy silhouette among cool purple, pink and yellow flames. He talked now. He enjoyed blood but wanted variety, insisted "I have a soul," and kept undead raccoons or squirrels as pets, one named Francisco. He handed out the Sun Sword, the Helm of the Gods and a breastplate, got angry when [[Thornabub]] returned the sword, and openly favored [[Glassy]]. In Dried Blood it came out that he was paid in table scraps and drops of blood, and that his girlfriend, who had fought in a Deathmatch "a little while back," now worked on [[The bee farm]] with her memory of him modified.
 
-From there Gerald became a fixture. In [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|Secrets]] he made himself a golden grill out of [[Blaktoof]]'s ancestral teeth and found [[Zorhel]]'s story about her sister boring ("I'm not running the convenience store here"). In [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|Blood Cookies]] he had a cough, fake-walked down imaginary stairs, cackled over a cursed orb, shot at the champions with [[Martin Messiah Malenko]]'s lucky bullet on the Arbiter's orders, and handed [[Wandering Willy]] a Deck of Many Things: "That's my whole job here." The Arbiter called him "a paid employee."
+From there Gerald became a fixture. In [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|Secrets]] he made himself a golden grill out of [[Blaktoof]]'s ancestral teeth and found [[Zorhel]]'s sister story boring ("I'm not running the convenience store here"). In [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|Blood Cookies]] he had a cough, fake-walked down imaginary stairs, cackled over a cursed orb, shot at the champions with [[Martin Messiah Malenko]]'s lucky bullet on the Arbiter's orders, and handed [[Wandering Willy]] a Deck of Many Things: "That's my whole job here." The Arbiter called him "a paid employee."
 
 In [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|The Brave]] he took [[Buli]]'s clothes ("These are just my size") for a flying scroll, and believed [[Chancy]]'s story about the lyre and Van Halen enough to trade Gauntlets of Ogre Power for it. In [[Episodes/Season 2/037 - S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog|Shrooms]] he ate both bags of [[Snoop & Dog|Snoop]]'s mushrooms, his eyes turned into yellow spirals, and he handed out a pair of golden lions, then ate one. His defense: "It could have been anybody's lion." He left mid-buzz.
 
-[[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|Black Hole Sun]] was not his favorite day. [[Mad Cass O Weary]] dragged his box around, slammed the lid on him and told him, "If I want to listen to an asshole, I'll fart." Gerald, who could see the invisible [[Professor Stabbz]], told Cass she needed therapy, then gave Stabbz a scroll of Sunburst for no sacrifice at all, purely out of spite. The box that week was a light purple trunk that felt empty inside, with a heart carved into the lid: "G plus V." In [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|Pub Brawl]] he was at his rudest ("Don't bullshit me, just give me shit"), put up with [[Broose Scorchtail]] calling him "Jerry," and traded a flaming carrot, [[Dewdrop Grizzlebee]]'s notebook and some salt water for an alchemy jug, a potion of speed and a potion of mind control.
+[[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|Black Hole Sun]] was not his favorite day. [[Mad Cass O Weary]] dragged him around, slammed the lid on him and told him, "If I want to listen to an asshole, I'll fart." Gerald, who could see the invisible [[Professor Stabbz]], told Cass she needed therapy, then gave Stabbz a scroll of Sunburst for no sacrifice at all, purely out of spite. The box that week was a purple trunk, light and seemingly empty inside, with a heart carved into the lid: "G plus V." In [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|Pub Brawl]] he was at his rudest ("Don't bullshit me, just give me shit"), put up with [[Broose Scorchtail]] calling him "Jerry," and traded a flaming carrot, [[Dewdrop Grizzlebee]]'s notebook and some salt water for an alchemy jug, a potion of speed and a potion of mind control.
 
 ### The Live Show and Season 3
 
@@ -94,7 +92,7 @@ In [[Episodes/Season 5/107 - S5E9 — Patriotic Punch Up — Bob the Barbarian v
 
 ### The Season of the Trials and Beyond
 
-Back in the real timeline, the Arbiter carried on under the Grandmaster and stored Morir's Cataclysm in the box. Its resident was still his shadow, now demanding rent and teeth. At [[Episodes/Live Shows/116 - LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)|GCX Orlando 2023]], summoned at the Arbiter's suggestion, the box came out of Ragu by the least dignified route possible. It asked "What do you want?", took a pair of nunchucks and gave a small blue pill.
+Back in the real timeline, the Arbiter carried on under the Grandmaster and stored Morir's Cataclysm in the box. Its resident was still his shadow, now demanding rent and teeth. At [[Episodes/Live Shows/116 - LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)|GCX Orlando 2023]], summoned at the Arbiter's suggestion, the box arrived when Ragu pooped it out. It asked "What do you want?", took a pair of nunchucks and gave a small blue pill.
 
 During the Ether Drifts, a piece of Thea's skull went in during [[Episodes/Season 6/118 - S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission)|Ether Drifts Part 1]]. In [[Episodes/Season 6/119 - S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)|Part 2]] the occupant wanted people to knock, was caught napping, complained that he "doesn't get paid enough" after "working forever now," took a credit card, and turned traded tentacles into sashimi that "tastes like puppies." At the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|Wounded Warrior Project crossover]] it handed out a Vorpal Sword, a Trident of Fish Command, a Hat of Vermin and a potion of giant strength, one item per champion.
 
@@ -104,11 +102,11 @@ In [[Episodes/Season 7/129 - S7E1 — A Soup Served Cold — DeeDrah v Gazpacho 
 
 In [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|Bone Force]] he took [[Jerry Bonesman]]'s bones ("I'm building something") and handed over a wand of polymorph. That wand left Thea stuck as a T-Rex at the start of the next week. He also shared some family history: "Mr. Box was my father. He's dead now." In [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|A Father's Son]] the box's grim origin got a blunt one-line summary: "I put a guy's soul in that box."
 
-Then came [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|Necro-Nightmare]]. Feeling peckish, the occupant ate a sack-worm and then Pixie the Chihuahua, complaining of "a little fur on the teeth," and gave [[Ray S'urdead]] a fireball orb. He was lounging in his hammock, next to an expired can of Spam, when [[Squiggles]] did what no one had ever done: **he robbed the Box of Chaos**. The box snatched back the Tome of the Stilled Tongue and gave him a ring of spell turning instead.
+Then came [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|Necro-Nightmare]]. Feeling peckish, the occupant ate a sack-worm and then Pixie the Chihuahua, complaining of "a little fur on the teeth," and gave [[Ray S'urdead]] a fireball orb. He had a hammock to lounge on inside the box and an expired can of Spam, and that week [[Squiggles]] did what no one had ever done: **he robbed the Box of Chaos**. The box snatched back the Tome of the Stilled Tongue and gave him a ring of spell turning instead.
 
 ## Notable Moments
 
-- Gerald's whirlwind romance with Veronica in **Bees**, which ended with him erased from her mind and her arm, leaving only a "G plus V" heart carved on the lid.
+- Gerald's whirlwind romance with Veronica in **Bees**, which ended with him erased from her mind and her arm; a "G plus V" heart later turned up carved on the lid.
 - Spitefully gifting Professor Stabbz a scroll of Sunburst for free, just to annoy Mad Cass.
 - Saving Seth Kaiser from a fireball by pulling him into the box, because he seemed like "a good guy."
 - The public reveal in Season 4 that the Shadow King had once been the box.

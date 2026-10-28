@@ -11,7 +11,7 @@ played_by:
 - 'Dewdrop Grizzlebee: TheShortNord'
 winner: Broose Scorchtail
 arena: The Grandmaster's forgotten brewery in the Dread Fortress
-summary: A fire-loving rabbit on holiday and a balding fairy scholar who learned to fight from a book brawled in the Grandmaster's forgotten brewery until the Arbiter flooded it with beer. Dewdrop tried to drown Broose and drowned himself on Broose's braced blade instead.
+summary: A fire-loving rabbit on holiday and a balding fairy scholar who learned to fight from a book brawled in the Grandmaster's forgotten brewery until the Arbiter flooded it with beer. Dewdrop tried to drown Broose, swam onto Broose's braced blade and drowned instead.
 tags:
 - episode
 youtube: https://youtu.be/AAkj67ze3aQ
@@ -74,17 +74,17 @@ Dewdrop spent his turn thinking. "I came here trying to break the stigma that, y
 
 ### Do Over
 
-After a short break for fresh brews, Dewdrop reminded everyone that the tortoise won the race. He was, he explained, a "kind of tortoise-shaped fairy, very bulbous." Broose lit him up with a moonbeam and tossed back his stuck short sword, which landed at Dewdrop's feet with a chunk of white fur still attached. Dewdrop flapped down out of the sky with both blades and finally landed a hit, then sent the furry short sword home ("I'm return to sender, baby"). Moved by all that study, the Grandmaster blessed him: "Use that stupid brain of yours. Come on." Dewdrop started to sob.
+After a short break for fresh brews, Dewdrop reminded everyone that the tortoise won the race. He was, he explained, a "kind of tortoise-shaped fairy, very bulbous." Broose lit him up with a moonbeam and tossed back his stuck short sword, which landed at Dewdrop's feet with a chunk of white fur still attached. Dewdrop leapt off the tank top, flapped down with both blades and finally landed a hit, then sent the furry short sword home ("I'm return to sender, baby"). Moved by all that study, the Grandmaster blessed him: "Use that stupid brain of yours. Come on." Dewdrop started to sob.
 
 Then the Arbiter ran out of cards for counting rounds. He solved it by turning back time. "Round number one!" Dewdrop asked whether this was a Groundhog Day situation. Broose celebrated the fresh start by slipping on the oil now leaking from his jug and landing on his scorched tail. He got up to defend his day job ("Someone's got to deliver the eggs next year… Easter's no joke"). The Arbiter, declaring "these guys are pathetic," blessed him too.
 
-The blessing helped. Broose lashed Dewdrop with a vine bristling with carrots ("Death of a thousand carrots," said the Grandmaster), reeled him in and batted him like a t-ball. Each psionic shield Dewdrop raised cost him a little more of his receding hairline. "There's always a cost to knowledge," the Grandmaster observed. His telekinetic barrel throw only gave Broose somewhere comfortable to sit.
+The blessing helped. Broose lashed Dewdrop with a vine bristling with carrots ("Death of a thousand carrots," said the Grandmaster), reeled him in and batted him like a t-ball. Each psionic shield Dewdrop raised cost him a little more of his receding hairline. "There's always a cost to knowledge," the Grandmaster observed. His telekinetic barrel throw only touched Broose's butt, giving him somewhere comfortable to sit.
 
 ### Liquid Courage
 
 The Arbiter had seen enough. He flew down, conjured an axe and said, "Let's see how you do with a little bit of liquid courage." He split open one of the Grandmaster's tanks, and beer sprayed out "like a beautiful amber fountain." The Grandmaster raised her glass: "Please pour one out for the battle that has not yet begun." She dumped it, aiming for the Acolytes' foreheads. Not satisfied, she urged the Arbiter on, and he broke open every other vat. The beer rose past their knees, soaking into the fighters and getting them drunker by the minute, while the Arbiter scooped up a mug on his way back to his seat.
 
-Broose took a deep gulp and went to work. Tripping over his own foot, he drove his blade straight through Dewdrop's solar plexus with a perfect natural 20. "Oh shit, sorry mate, I didn't mean to, oh wait, no, this is what we're doing and then we get to drink." "You've been m'layed," the Grandmaster told the fairy. Dewdrop flew thirty feet up, yanked out his arm hair for one last spell ("If I can't come from my head, it'll come from my arm") and dove. The Grandmaster called it "the most epic and bloody dive that we've ever seen yet on this show."
+Broose took a deep gulp and went to work. Tripping over his own foot, he drove his blade straight through Dewdrop's solar plexus with a perfect natural 20. "Oh shit, sorry mate, I didn't mean to, oh wait, no, this is what we're doing and then we get to drink." "You've been m'layed," the Grandmaster told the fairy. Dewdrop flew thirty feet up, yanked out his arm hair as a spell component ("If I can't come from my head, it'll come from my arm") and dove. The Grandmaster called it "the most epic and bloody dive that we've ever seen yet on this show."
 
 As the beer reached their necks, Broose drew a blade of fire and singed a hole in Dewdrop's horseshoe of hair. Dewdrop answered by plucking Broose's honeyed fur off his short sword and wearing it as a toupee ("Wearing you like a hat"). He landed two good swings and then fumbled the rest. Then the Acolytes demanded violence. Storm clouds swallowed the moon, and lightning struck both champions. Through the amber flood, everyone could see Dewdrop's skeleton light up. "Drowning in beer and being electrocuted is literally the worst way a scholar can go out," he groaned. Broose disagreed: "This is exactly how I wanted to go out. I wanted to take you out and drown in beer."
 

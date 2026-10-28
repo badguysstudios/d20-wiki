@@ -42,7 +42,7 @@ An artisan on the estate told them the orders actually came from Plintos's eldes
 
 ### The Dead Man Walks
 
-Throm was tall and broad with a black beard, and he spoke for the whole family. Kaja made herself into a flawless, half-decayed Plintos and stabbed the golden dagger into her own disguised chest, a grisly little re-enactment. Throm cracked at once.
+Throm was tall and broad with a black beard, and he spoke for the whole family. Kaja made herself into a flawless, half-decayed Plintos and stabbed the golden dagger into herself, a grisly little re-enactment. Throm cracked at once.
 
 > **Throm:** "No, no, no. You died six years ago."
 
@@ -56,7 +56,7 @@ Into the wreckage stepped Thea, a daughter of sixteen or seventeen, who voluntee
 
 When it was time to go, Vythorn poured a thick golden liquid from a silver ewer, added his own blood, and opened the portal. Emperor Thornos nodded his approval.
 
-They landed in a dead forest in [[The Shadowlands]]. On the horizon stood [[The Dread Fortress]], a rock shaped like an orc's skull with one broken tusk, its eyes ablaze and lava glowing around it. It stayed in view whichever way they turned. Nearby rose a jagged tower that had once been Agdrel's home. Chaos storms, the source of all magic in the Void, raged out of control overhead. "Welcome to my home, everyone," Elusia said. "Please excuse the Shadowlands, they've never been in the best of shape."
+They landed in a dead forest in [[The Shadowlands]]. On the horizon stood [[The Dread Fortress]], a rock shaped like an orc's skull with one broken tusk, its eyes ablaze and lava glowing around it. It stayed in view whichever way they turned. A jagged tower in the Shadowlands had once been Agdrel's home. Chaos storms, the source of magic in the Void, raged out of control overhead. "Welcome to my home, everyone," Elusia said. "Please excuse the Shadowlands, they've never been in the best of shape."
 
 Vythorn was less charming about it. "Guard your minds in this place. This is a land of shadows where fears become real." He also offered some hope: "There are still people here that would see your father's line restored, would see order return from chaos."
 
