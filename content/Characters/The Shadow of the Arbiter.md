@@ -8,7 +8,7 @@ role: champion
 species_class: An ethereal, ghost-like echo ripped from the Arbiter's chest; remade as a Hollow Dragon in S1E9
 played_by: Mudcat
 first_appearance: S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter
-status: dead for now
+status: lives in the Box of Chaos
 affiliations:
 - The Arbiter
 summary: The worst parts of the Arbiter given their own ghostly body, twice forced into the arena, where he lost his head to Sunozar and later fell as the Hollow Dragon.
@@ -43,6 +43,9 @@ In the Amethyst Dragon's waterfall lair he made himself felt. He blew his armor 
 He also formed a shaky alliance with [[Vashon]], the Amethyst Dragon. Vashon secretly promised to double-cross the others and make sandwiches with him, and after the Hollow Dragon fell he declared, "Once team hollow, always team hollow. Sandwiches will be all mine now." In the Topaz Dragon's island tower, the Shadow let slip his real ambitions again: "One day, me and the Arbiter, we're going to kill all of you. This place will be ours." The plan included a beanbag chair and a soda fountain. The Grandmaster asked the Arbiter whether the Shadow was speaking for him. He insisted it was trash talk ("he looks like an idiot, you can't take him at his word"), and she agreed, for now, to "ignore the idiot."
 
 Down in the Dracohydra's underwater cavern, the Topaz Dragon finished him with a bite. His last words were a promise: "One day, I'll be back." The light in the armor went out, and the pieces shot across the cavern and drifted to the bottom. The Topaz Dragon caught his skull, held it up to the Grandmaster and the Arbiter, and **crushed it in her claws**. The Arbiter's protest ("That's not fair") got nowhere.
+
+### Later: the Shadow in the Box
+The Shadow did not stay gone. It returned to the Arbiter's body, and he later tore it out again and put it into [[The Box of Chaos]], whose shadowy, yellow-eyed resident it has been ever since. In the Season of Fate vision, the Lord of Fate did the same thing on camera, ripping his own shadow off the ground to power the empty box. Whether its old promise that "the Arbiter and I" would one day take the Fortress still stands is not known.
 
 ## Personality and Abilities
 

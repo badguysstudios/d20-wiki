@@ -9,7 +9,7 @@ first_appearance: S1E7 — Wild Magic — Strako v Zayliss
 status: dead
 affiliations:
 - Worm's Town
-summary: The beloved glowing worm mayor of the Worm's Town, whose plan's step 20 is "Call Phil," killed when Strako threw him during an arena game of tag and still mourned by the Grandmaster.
+summary: The beloved glowing worm mayor of the Worm's Town, whose plan's step 20 is "Call Fil," killed when Strako threw him during an arena game of tag and still mourned by the Grandmaster.
 aliases:
 - Timothy, the mayor
 tags:
@@ -34,7 +34,7 @@ The Void did not forget him. In [[Episodes/Season 1/022 - S1E13 — Snow-clad �
 Timothy's shape came back in [[Episodes/Season 6/119 - S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat)|S6 Ep3 — Ether Drifts Part 2]], which was set in [[The Ether Drifts]]. The worm did not return, but the champion [[Copycat]] got stuck as a worm in the form of "Timothy, the mayor," and it was not comfortable. Copycat complained about a leg stuck behind her neck and a pinky toe poking her liver. She begged for a chiropractor or Dr. Octor. The Grandmaster decided Dr. Octor would take too long and asked the Arbiter to do some "little magically thingies with your fingers" instead.
 
 ### Thea's Revenge
-Timothy's death was finally answered in [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]]. [[Thea]], it turned out, was a worm of the Hollow, sent to kill the Arbiter and "avenge Mayor Timothy." She remembered him as a hero: "We all voted for him! He was making changes! He built a playground! We loved him!" The worms had put up a little graveyard for him, and after his death the Arbiter's side had sent them a gift basket of cheeses. The Arbiter had to rewind time in his own head to remember him at all ("Oh, that guy?"). He insisted he had only suggested the game of tag, then handed over [[Strako]], who died in [[Theo]]'s second self-destruct. Timothy had been leading his people toward a golden age of worm society, and he left a plan of at least twenty steps. In the Dried Blood epilogue the council's Old Todd opened it to step 20. It read: "Call Phil."
+Timothy's death was finally answered in [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]]. [[Thea]], it turned out, was a worm of the Hollow, sent to kill the Arbiter and "avenge Mayor Timothy." She remembered him as a hero: "We all voted for him! He was making changes! He built a playground! We loved him!" The worms had put up a little graveyard for him, and after his death the Arbiter's side had sent them a gift basket of cheeses. The Arbiter had to rewind time in his own head to remember him at all ("Oh, that guy?"). He insisted he had only suggested the game of tag, then handed over [[Strako]], who died in [[Theo]]'s second self-destruct. Timothy had been leading his people toward a golden age of worm society, and he left a plan of at least twenty steps. In the Dried Blood epilogue the council's Old Todd opened it to step 20. It read: "Call Fil."
 
 ## Personality and Abilities
 Timothy was a tiny worm who glowed in bright colors. By every account he was a good leader: he brought peace and prosperity to the Worm's Town and led it to victory over the Republic. He had no defense against being picked up and thrown by an arena champion. His last words show that he very much wanted to live, which is a large part of why his death hit so hard.

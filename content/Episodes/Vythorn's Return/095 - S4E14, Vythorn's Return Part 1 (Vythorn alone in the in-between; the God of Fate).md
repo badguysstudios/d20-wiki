@@ -144,16 +144,16 @@ At the table afterward, it was revealed that the fork in the river had never mat
   - Time-bending. His prestidigitation turns back time on his clothes; his witch bolt drags a past storm into the present.
   - His eyes glow milky void and multicolored lightning crackles at his fingertips when he casts.
   - **In the in-between his magic works only with permission**: dispel magic, witch bolt and blink failed; gust and prestidigitation worked.
-- **Childhood:** his earliest shown memory is a young boy in the rain, hands burning with magical fire he controls, outside a burning two-story house full of screams. Phil says he **lost his parents to his own abilities**. "My family would say too much potential."
+- **Childhood:** his earliest shown memory is a young boy in the rain, hands burning with magical fire he controls, outside a burning two-story house full of screams. Fil says he **lost his parents to his own abilities**. "My family would say too much potential."
 - **Relationships and history:**
   - Had teachers and many friends.
   - **Once would have called the Shadow King (Agdrel) a friend.**
   - **Spared the dying Shadow King to keep his power and knowledge**, kept him "in a box," and used that power to keep order in the Void while the Grandmaster held her games.
   - Claims he brought Elusia back across the planes and into the Dread Fortress.
-  - Phil says he was at times dissatisfied with Elusia's rule and with her father's rule, and that **the idea of overthrowing Elusia was a seed he planted**. He answers: "maybe? Sometimes, who's not?"
-- **Ambition:** **"I want to control fate… I will be the God of Fate."** He accepted Phil's bargain: control of the fates of everyone in the Void, possible elevation, and the quest for the Testaments of Morir's Cataclysm.
+  - Fil says he was at times dissatisfied with Elusia's rule and with her father's rule, and that **the idea of overthrowing Elusia was a seed he planted**. He answers: "maybe? Sometimes, who's not?"
+- **Ambition:** **"I want to control fate… I will be the God of Fate."** He accepted Fil's bargain: control of the fates of everyone in the Void, possible elevation, and the quest for the Testaments of Morir's Cataclysm.
 
-**The God of Fate (Philomena, "Phil")** (Caustic Phoenix). Named in the post-show.
+**The God of Fate (Philomena, "Fil")** (Caustic Phoenix). Named in the post-show.
 - **Nature:**
   - Exists "between every plane, every time, every space." "What was never alive cannot be killed."
   - Many and one: desire, ambition, providence, risk, destiny, luck, hope, fortune, demise, fate.
@@ -187,9 +187,9 @@ At the table afterward, it was revealed that the fork in the river had never mat
 ### Lore statements
 - **The in-between exists between all planes, times and spaces.** There, the God of Fate grants or withholds power.
 - **The God of Fate bets on mortal stories and sometimes intervenes collectively.**
-- Phil: "The Void's run many times by itself… In fact, centuries" without Vythorn's stolen knowledge.
-- **Phil calls Vythorn mortal** ("Mortals aren't privy").
-- Phil: the Shadow King "works off of the threads of minds."
+- Fil: "The Void's run many times by itself… In fact, centuries" without Vythorn's stolen knowledge.
+- **Fil calls Vythorn mortal** ("Mortals aren't privy").
+- Fil: the Shadow King "works off of the threads of minds."
 - Creator note: Vythorn is "thousands of years" old.
 
 ## Full Round-by-Round

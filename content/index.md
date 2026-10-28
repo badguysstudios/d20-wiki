@@ -9,6 +9,7 @@ Welcome, Acolyte. You have opened **the Black Tome**, the record of everything t
 > Far beyond the comforts of home lies a dark void outside of all space and time. If you're lucky, the Dread Fortress will call to you. Heroes, villains, monsters and beasts of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena. You, Acolyte, are called to bear witness to D20 Deathmatch.
 
 ## Start here
+- The Story So Far: the whole main story in one read, if you're new or catching up
 - [[The Void]]: the setting
 - [[The Dread Fortress]]: the Grandmaster's home and the heart of the Void
 - [[Grandmaster Elusia Skypiercer]] and [[The Arbiter]]: your hosts

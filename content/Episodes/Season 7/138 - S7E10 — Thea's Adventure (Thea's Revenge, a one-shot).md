@@ -87,7 +87,7 @@ The crash, the explosion and the screaming about buttholes brought the Arbiter r
 
 Theo's heel thrusters fired like little Iron Man boosters and his sword came down hard. It bounced off the Arbiter's rippling muscles. Theo swung again at those beloved Italian leather shoes, and the Arbiter whipped his foot out of the way: "Hey, hey, hey, don't make this personal." Theo said he had made it personal by convincing his sister to stay. "I just picked a random worm and turned it into my servant," the Arbiter said.
 
-"You thought you did," said Thea. She had made an offering to the god **[[Fil]]**, and Fil had given her control of that moment. "Oh, Phil, yeah, they're really cool. They just came down and were like, hey, for a handshake… I'm like, well, I don't have any hands because I'm a worm. And they're like, one day you will, and then you're going to give me a handshake." The Arbiter snapped his fingers, lifted her into the air and twisted her into a pretzel. "You fucking idiot! You've been talking to Phil!" Thea asked him to get a bit more on the right side because her shoulder had been killing her, and mocked the damage: "Even [[Richard Knottley]] can hit harder than that."
+"You thought you did," said Thea. She had made an offering to the god **[[Fil]]**, and Fil had given her control of that moment. "Oh, Fil, yeah, they're really cool. They just came down and were like, hey, for a handshake… I'm like, well, I don't have any hands because I'm a worm. And they're like, one day you will, and then you're going to give me a handshake." The Arbiter snapped his fingers, lifted her into the air and twisted her into a pretzel. "You fucking idiot! You've been talking to Fil!" Thea asked him to get a bit more on the right side because her shoulder had been killing her, and mocked the damage: "Even [[Richard Knottley]] can hit harder than that."
 
 The Arbiter launched into a long lament. For years he had been looking for a servant smart enough for mediocre tasks but not smart enough to betray him, and good help was so hard to find. While he monologued, Thea tried to fit his whole head inside her mouth to suffocate him. He palmed her like a basketball and dribbled her without breaking stride. So she pulled a shiny silver pistol out of her pocket and threw it at him. Thea is a monster hunter who attacks with her intelligence, so she knew his weak spot and hit him square in the crotch. It did more damage than he had done to her. "Yeah, you get him, sis!"
 
@@ -135,7 +135,7 @@ Old Todd hoped the Arbiter was finally dead and the Deathmatches over. Not exact
 
 Thea explained the big-brain version: the truth, a tourism boom, endless dead bodies for food, and Theo's new hands. Next, they would use Theo's death to negotiate for all the worms to get hands and arms. She would visit once a year on her vacation: "Send all letters to TheaIsGreat over at my email and I will answer them. If you have any other needs, don't." Theo asked for a holiday in his honor and a parade. Old Todd said they would discuss it. Theo waved his hands at the council on the way out: this could be you.
 
-When the doors shut, Old Todd turned to the others. "Traitors. Handed traitors giving up the sleek, warm physique for the joys of handed pleasure." It was time, he said, for step 20 of Mayor Timothy's plan. He shouldered open a book, with some difficulty since he has no hands, and had to ask for help opening it. The page read: **Step 20: Call Phil.**
+When the doors shut behind Thea and Theo, out of their earshot, Old Todd turned to the others. "Traitors. Handed traitors giving up the sleek, warm physique for the joys of handed pleasure." It was time, he said, for step 20 of Mayor Timothy's plan. He shouldered open a book, with some difficulty since he has no hands, and had to ask for help opening it. The page read: **Step 20: Call Fil.**
 
 At the table, the creators said they had been holding Thea's story in their back pocket for a while, and that the worms had waited long enough. Thea also forgot to ask the Arbiter to rewind time for Theo, which everyone agreed was very on brand. The gun-throwing was RealLifeFakeWizard's idea, and Caustic Phoenix vowed that any character of hers with a gun will only ever throw it from now on. The walking backwards came from wanting Theo to be completely incompetent in the suit.
 
@@ -150,7 +150,7 @@ At the table, the creators said they had been holding Thea's story in their back
 - The Arbiter summoned a lightning ghost of Baron Voltágè, and Thea answered by raising the Pebble from the earth.
 - Theo's first Thermopolis did 311 damage and vaporized both siblings and all of Sugar Hills. The Arbiter rewound time.
 - The Arbiter handed over Strako, and Theo's second Thermopolis took Strako with him.
-- Old Todd opened Mayor Timothy's plan to step 20: "Call Phil."
+- Old Todd opened Mayor Timothy's plan to step 20: "Call Fil."
 
 ## Memorable Quotes
 
@@ -158,8 +158,8 @@ At the table, the creators said they had been holding Thea's story in their back
 - **Theo:** "Have you seen this dick with a pube?"
 - **Thea:** "Not anymore, old fartso."
 - **Thea:** "I took a blood oath that I would do it. Don't cry, Theo."
-- **Thea:** "I gave an offering to the god, Phil, and she gave me control of that moment."
-- **The Arbiter:** "You fucking idiot! You've been talking to Phil!"
+- **Thea:** "I gave an offering to the god, Fil, and she gave me control of that moment."
+- **The Arbiter:** "You fucking idiot! You've been talking to Fil!"
 - **Thea:** "I'll shoot what I need to shoot. Also, I don't know how to use that."
 - **The Arbiter:** "Did I grind your sacred crystal into salt? … Yes, of course. I ate the salt. It was delicious."
 - **Old Todd:** "Traitors. Handed traitors giving up the sleek, warm physique for the joys of handed pleasure."
@@ -196,14 +196,14 @@ At the table, the creators said they had been holding Thea's story in their back
 - "**Somebody who's led a successful coup.**" "The lord of all time and space."
 - **Admits:** destroying the worms' cities, "that big door," **grinding their sacred crystal into salt and eating it**; getting Timothy killed through carelessness ("we sent a gift basket"). Denies killing Timothy: he only suggested tag; **Strako acted of his own volition.**
 - **Hand-delivers Strako for revenge.** Grants front-row seats, royalties to the Hollow, Theo's hands and violin, and names Thea ambassador.
-- **Alarmed by Fil:** "You fucking idiot! You've been talking to Phil!"
+- **Alarmed by Fil:** "You fucking idiot! You've been talking to Fil!"
 - Wants none of this mentioned to the Grandmaster.
 
 **[[Characters/Strako|Strako]]** (NyteTide's champion; voiced by Mudcat here). Pulled by portal in swim trunks from a beach day. **Thea's nat 20 memory: he asked no permission; he grabbed the first living thing, tagged it and threw it into space.** **Vaporized with Theo** ("I'm sorry"). Mudcat calls him "this variant of Strako" pulled for the purpose. Dried Blood: "we killed his character. Again."
 
-**Mayor Timothy** (mentioned). The worm mayor killed in S1E7. Thea: a hero, everyone voted for him, he made changes and built a playground. **The worms put up a little graveyard for him.** He had a plan with at least 20 steps; **step 20 is "call Phil."** Mudcat (Dried Blood): he was leading his people to a golden age.
+**Mayor Timothy** (mentioned). The worm mayor killed in S1E7. Thea: a hero, everyone voted for him, he made changes and built a playground. **The worms put up a little graveyard for him.** He had a plan with at least 20 steps; **step 20 is "call Fil."** Mudcat (Dried Blood): he was leading his people to a golden age.
 
-**[[Characters/Fil|Fil]]** ("Phil" in the transcript; mentioned). **Came down to the worm Thea for a handshake deal**: control of the moment the Arbiter picked a worm, and a promise she'd one day have hands; then she owes Fil a handshake. Thea: "they're really cool." **Step 20 of Mayor Timothy's plan is "call Phil."**
+**[[Characters/Fil|Fil]]** ("Fil" in the transcript; mentioned). **Came down to the worm Thea for a handshake deal**: control of the moment the Arbiter picked a worm, and a promise she'd one day have hands; then she owes Fil a handshake. Thea: "they're really cool." **Step 20 of Mayor Timothy's plan is "call Fil."**
 
 **Old Todd** (Mudcat). A worm on the Hollow's council; refers to himself in the third person; no hands. Hoped the Arbiter was dead. Calls Thea and Theo "handed traitors." Opens Mayor Timothy's plan to step 20.
 
@@ -256,7 +256,7 @@ At the table, the creators said they had been holding Thea's story in their back
 - **Theo's note** (unreadable to Thea; a worm doodle; secret).
 - **The Popat**: Thea's tall blue pope hat.
 - **The crystal orb** holding Theo's ghost (Dried Blood).
-- **Mayor Timothy's plan** (a book; step 20: "call Phil").
+- **Mayor Timothy's plan** (a book; step 20: "call Fil").
 - The worms' **sacred crystal** (ground into salt and eaten by the Arbiter, by his own account).
 - The worms' gift basket of cheeses (from the Arbiter's side, after Timothy).
 
@@ -269,7 +269,7 @@ At the table, the creators said they had been holding Thea's story in their back
 - The Thermopolis is a family secret of Thea's and Theo's: a self-destruct.
 - The Arbiter can rewind time and reverse time in his own mind.
 - **The Hollow now has front-row seats at every Deathmatch, royalties from the Dread Fortress, and Thea as ambassador.**
-- **Mayor Timothy had a plan; step 20 is "call Phil."**
+- **Mayor Timothy had a plan; step 20 is "call Fil."**
 
 ## Full Round-by-Round
 > [!abstract]- Every beat of the episode, with timestamps (click to expand)
@@ -361,8 +361,8 @@ At the table, the creators said they had been holding Thea's story in their back
 > ### The fight (1:12:11)
 > 66. **1:12:14** Theo's **heel thrusters fire like little Iron Man boosters**; he flies forward and brings the sword down: a hit, but **it bounces off the Arbiter's "rippling muscles" like steel.** Caustic Phoenix: "you have never described the Arbiter as having rippling muscles." Mudcat: "Oh, yes, I have." Theo: "Thea, you didn't tell me he has rippling muscles!" Thea: hard to notice when all she sees is "those annoying Italian leather shoes." "You told me you liked my shoes." "No one has ever liked your shoes."
 > 67. **1:14:40** Theo's extra attack goes for the shoes. **The Arbiter lifts a foot lightning fast: "Hey, hey, hey, don't make this personal."** Theo: "You made it personal when you convinced my sister to stay working for you instead of coming home to be with her family."
-> 68. **1:15:19 The Fil reveal.** Arbiter: "**I just picked a random worm and turned it into my servant.**" Thea: "**You thought you did. … I gave an offering to the god, Phil [Fil], and she gave me control of that moment.**" "What did you just say? … You made a deal with who?" Thea: "**Oh, Phil, yeah, they're really cool. They just came down and were like, hey, for a handshake… I'm like, well, I don't have any hands because I'm a worm. And they're like, one day you will, and then you're going to give me a handshake. And I'll be like, okay.**"
-> 69. **1:16:09** ("Thea, you're a fucking idiot," speaker uncertain.) **The Arbiter snaps; Thea is lifted and twisted like a pretzel, organs squeezed, and thrown in the sludge** (half damage). Arbiter: "**You fucking idiot! You've been talking to Phil!**" Thea: "can you get a little more on the right side? My shoulder's been killing me!" "That didn't hurt as much as you think… **Even Richard Knottley can hit harder than that.**"
+> 68. **1:15:19 The Fil reveal.** Arbiter: "**I just picked a random worm and turned it into my servant.**" Thea: "**You thought you did. … I gave an offering to the god, Fil, and she gave me control of that moment.**" "What did you just say? … You made a deal with who?" Thea: "**Oh, Fil, yeah, they're really cool. They just came down and were like, hey, for a handshake… I'm like, well, I don't have any hands because I'm a worm. And they're like, one day you will, and then you're going to give me a handshake. And I'll be like, okay.**"
+> 69. **1:16:09** ("Thea, you're a fucking idiot," speaker uncertain.) **The Arbiter snaps; Thea is lifted and twisted like a pretzel, organs squeezed, and thrown in the sludge** (half damage). Arbiter: "**You fucking idiot! You've been talking to Fil!**" Thea: "can you get a little more on the right side? My shoulder's been killing me!" "That didn't hurt as much as you think… **Even Richard Knottley can hit harder than that.**"
 > 70. **1:17:20** Arbiter: "I thought we had a good thing going. **For years, I've been looking for a servant who is smart enough to handle some mediocre tasks, but not too smart enough to try to betray me.**" He monologues on and on about how hard it is to find good help (giving them advantage). Thea: the debt "can't be paid with baskets unless it's **baskets of your bones or Baskin Robbins**."
 > 71. **1:18:13** Thea grapples and **tries to fit his head in her mouth to suffocate him.** Fails. **He palms her like a basketball and dribbles her** while monologuing.
 > 72. **1:19:41 Thrown guns.** Thea pulls **a shiny silver pistol** from her pocket ("You're gonna regret this") **and throws the whole gun at him.** "As a monster hunter, Thea attacks with intelligence." **She throws it at the Arbiter's crotch** ("that head"): **ten damage, more than the Arbiter did to her.** Theo: "Yeah, you get him, sis!"
@@ -416,7 +416,7 @@ At the table, the creators said they had been holding Thea's story in their back
 > - **2:11:30** Old Todd has been referring to himself in the third person ("Oh, you're Todd"). "**You negotiated a truce with the Arbiter for a nobody and some front row tickets?**" — instead of killing the Arbiter, ending the Deathmatches and getting justice for Timothy, "and more really than Timothy, **the entire destabilization of our civilization over the last several years.**"
 > - **2:12:17** Thea: they found the true murderer; they thermopolized; the Hollow's economy is sustained: **a tourism boost**, **all the dead bodies as extra food and nutrients**, and Theo got hands. Old Todd would love hands. Thea: "**we start planning our next revenge for Theo and then we use Theo's death to negotiate the evolution of all the worms and we'll all get hands and arms.**"
 > - **2:13:47** Old Todd thanks her for her service. Thea will visit once a year on her vacation: "**Send all letters to TheaIsGreat over at my email** … If you have any other needs, don't." Theo asks for **a holiday in his honor, and a parade**. "We'll discuss it and get back to you." Theo waves the hands: "this could be you."
-> - **2:14:40** The doors shut. Old Todd: "**Traitors. Handed traitors giving up the sleek, warm physique for the joys of handed pleasure.** … I think it's time that we move to **step 20 of Mayor Timothy's plan**." He flips open a book with his worm shoulder and struggles ("Could you guys help me open this book?"). **The page says: "Step 20: call Phil [Fil]."** "And that's where we'll see on the next D20 Deathmatch."
+> - **2:14:40** The doors shut. Old Todd: "**Traitors. Handed traitors giving up the sleek, warm physique for the joys of handed pleasure.** … I think it's time that we move to **step 20 of Mayor Timothy's plan**." He flips open a book with his worm shoulder and struggles ("Could you guys help me open this book?"). **The page says: "Step 20: call Fil."** "And that's where we'll see on the next D20 Deathmatch."
 >
 > ### Out-of-character (creator notes)
 > - Mudcat: a one-shot to do something with Thea's lore, which they'd had "in the back pocket"; "the worms have waited long enough for the redemption every time we've gone back to that map we've just terrorized them more and now at least they're gonna get paid for it."
