@@ -1,6 +1,6 @@
 ---
 title: The Black Tome
-description: The Black Tome is the wiki for D20 Deathmatch, the live Dungeons & Dragons actual play show where characters fight to the death. Every episode, champion and story.
+description: "The Black Tome: everything that has happened in D20 Deathmatch, the cult classic D&D actual play series where champions fight to the death in the Grandmaster's arena."
 ---
 
 <img src="static/hero.png" alt="D20 Deathmatch" class="hero-logo">
@@ -43,7 +43,9 @@ Read the whole saga in order:
 ## Episodes
 Browse every episode by season in the **Episodes** folder in the sidebar. Each page tells the story of the match, then lists who appears, with the full round-by-round log tucked away underneath.
 
-## Follow D20 Deathmatch
+## Become an Acolyte
+Join the chaos. D20 Deathmatch is on every platform:
+
 <ul class="socials">
 <li><a href="https://twitch.tv/D20Deathmatch">Twitch</a></li>
 <li><a href="https://www.youtube.com/@D20Deathmatch">YouTube</a></li>
