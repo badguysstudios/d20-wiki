@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]] · [watch it on YouTube](https://youtu.be/BRc-Sdygomg)*
+
 **Chuck Solid Gold Dragon Biff** is a dragonborn barbarian and wrestler, known as "Solid Gold" on what he calls "the circuit of ass whooping." Pulled into the Void for the first-ever two-on-two Deathmatch, he spent the fight throwing Macho Man-style wrestling moves at a warforged who mostly ignored them. He then won the whole thing by picking up that warforged's dead body and beating the last enemy to death with it. Along the way he became the Grandmaster's favorite underdog, called his teammate by the wrong name for the entire match, and kept a surprising amount of equipment in his trunks.
 
 ## Story

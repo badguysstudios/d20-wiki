@@ -16,6 +16,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **The Dread Fortress** is the seat of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s power and her home. It is a giant orc skull of rock, burning-eyed and broken-tusked, squatting in a sea of lava at the very center of [[The Void]]. It can be seen from every realm in the Void, and visitors swear it follows you. Inside its mouth lies a damp, sprawling underground castle that has been a tyrant's lair, a construction site, a holiday showpiece and, most of the time, the place where champions wait to find out how they are going to die.
 
 ## Description

@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko]] · [watch it on YouTube](https://youtu.be/nbGAN3ruN8U)*
+
 **Wandering Willy** is a laid-back druid who calls everyone "man" and carries a pocketful of snacks. He was pulled into [[The Void]] to fight [[Martin Messiah Malenko]] in a graveyard Deathmatch with cookies as the prize. He shrugged off what should have been a fatal spell, then talked his would-be killer into a friendship pact. The two left the arena as "the Bone Brothers," sharing the victory and wearing matching necklaces made by [[Grandmaster Elusia Skypiercer|the Grandmaster]] herself.
 
 ## Story

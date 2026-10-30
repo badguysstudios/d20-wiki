@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **Flynry** is a big, bearded shifter monk who spent his whole life on the road and never once had a home. With [[Toddleheim]] and [[Locket]] he hunted [[The Arbiter|the Arbiter]] through Fate of the Arbiter and helped unmask him before [[Grandmaster Elusia Skypiercer|the Grandmaster]]. He then gave his life for her in the Battle for the Crown. His story did not end there. His soul woke in a desert afterlife, and his long, strange walk through it became the spine of Into the Mirror, a story about a man who wanted nothing more than somewhere to belong.
 
 ## Story

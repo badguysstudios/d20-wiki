@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary]] · [watch it on YouTube](https://youtu.be/-hnnNmRhOFQ)*
+
 **Professor Stabbz** is a goblin academic from the University of Stabbz. He taught stabbing without ever actually stabbing anyone, until he came to [[The Void]] to earn tenure in the bloodiest way available. Cowardly, gullible and very dainty about the ankles, he survived a drunken, furious monk, a floor of lava and a black hole. He won thanks to a box that took his side and a sun he pulled out of a scroll.
 
 ## Story

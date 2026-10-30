@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/087 - S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)|S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)]] · [watch it on YouTube](https://youtu.be/MTC_6sqV8d0)*
+
 **Gideon Regalis Electus Gregorius the 537th**, Greg to his friends, came to the [[The Void|Void]] wanting one thing: an honorable duel where everyone shakes hands at the end. What he got was the Deathmatch with the most deaths the arena had ever seen. Greg killed his opponent over and over, nearly always by accident, while losing a toe and three fingers along the way. Then the truth came out. Greg had never been the fighter. His guns were.
 
 ## Story

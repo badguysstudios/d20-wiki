@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/082 - S4E4 — Death Dealers — The Scourge v Bone Daddy|S4E4 — Death Dealers — The Scourge v Bone Daddy]] · [watch it on YouTube](https://youtu.be/_GrpNwQGDro)*
+
 **Bone Daddy** is a six-foot-seven necromancer with luscious locks, a sleeveless coat and "the amount of charisma to fill a pool of your blood." He raises the dead as his "children," calls the arena his nursery, and fights alongside his favorite, the skeleton [[Darcy]], who sometimes becomes a towering suit of bone armor around him. He has fought three Deathmatches and won none of them, but he lost each one in such grand, heartfelt and deeply strange style that he keeps getting brought back before the [[The Acolytes|Acolytes]].
 
 ## Story

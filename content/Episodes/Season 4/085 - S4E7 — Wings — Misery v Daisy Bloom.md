@@ -18,6 +18,8 @@ youtube: https://youtu.be/4BdP8x3RVWg
 canon_order: 85
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4BdP8x3RVWg" title="Watch S4E7 — Wings — Misery v Daisy Bloom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/4BdP8x3RVWg)
 
 A relentlessly cheerful paladin who believed in the power of friendship met a fighter who never stopped crying, in a dusty dig site where something that should have stayed buried had been unearthed. **Daisy Bloom** spent the whole fight trying to make [[Misery]] her best friend: she rode a moth, hit him with cactuses and prayed to Criss Angel. Misery answered with steel, tears and a slowly revealed story of love and betrayal. It is one of the strangest and saddest Deathmatches of the Shadow King's reign, and it ends with a grave and a smile.

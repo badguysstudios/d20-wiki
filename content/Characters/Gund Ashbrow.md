@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **Gund Ashbrow** is a duergar with a spiral-braided beard, a hammer, and a deep distrust of anything that might secretly be made of metal. As chief artillerist of the Rust Blood Alliance, he leads the project to turn an angel into a weapon. He would much rather be building artillery than holding meetings, and he has no strong objection to letting the party be sacrificed for the cause. Played by Kyle.
 
 ## Story

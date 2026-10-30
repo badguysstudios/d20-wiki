@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee]] · [watch it on YouTube](https://youtu.be/AAkj67ze3aQ)*
+
 **Broose Scorchtail** is a six-foot-three rabbitfolk who arrived in the Void on holiday "for some R&R." He wore a pink party poncho, grew carrots straight out of the ground and greeted everyone with a cheerful "How you going, mate?" He fought [[Dewdrop Grizzlebee]] in a brewery deep inside [[The Dread Fortress]] and won by bracing his blade as Dewdrop dragged him under a rising flood of beer. All night he insisted he only wanted to share a drink with the man he was killing, and the [[Grandmaster Elusia Skypiercer|Grandmaster]] finally handed him that drink herself.
 
 ## Story

@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]] · [watch it on YouTube](https://youtu.be/PwtNfOqk9dw)*
+
 **The Hunger** is an eldritch horror that lives in a backpack. It is a mass of tendrils, eyes and mouths wired straight into the spine of whichever small boy is wearing it. It first came to the arena as the "good friend" of [[Robbie Clark and the Hunger|Robbie Clark]], half of the fan-favorite pair [[Robbie Clark and the Hunger]]. It was played by Cinderblocksally. Over the course of Season 5 the cheerful buddy act turned out to be a cover: the Hunger was using its child as a vessel. It kept coming back after it seemed to be gone, and it finally won the first Chaos Royale, the four-way Season 5 finale, as [[Copycat]]'s brand-new backpack.
 
 ## Story

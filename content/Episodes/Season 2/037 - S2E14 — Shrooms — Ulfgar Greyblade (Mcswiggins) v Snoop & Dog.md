@@ -18,6 +18,8 @@ youtube: https://youtu.be/6JgeeDFqEkk
 canon_order: 37
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6JgeeDFqEkk" title="Watch S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/6JgeeDFqEkk)
 
 Two short, far-from-sober [[Champions|champions]] squared off in a lost plane where forgotten things gather and the Acolytes' farts sink to the floor. **[[Snoop & Dog]]**, a pint-sized rider who had eaten magic mushrooms on the way in and his scaly "dragon dog," faced **[[Mcswiggins|Ulfgar Greyblade]]**, a dwarf who insisted his name was Mcswiggins and who had clearly "had more than a few." The night brought a stoned [[The Box of Chaos|Gerald]], two unreliable golden lions, a monster from a hole in the ground, and a finish worthy of a lion king.

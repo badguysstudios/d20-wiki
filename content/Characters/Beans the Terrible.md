@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Beans the Terrible** was a tiny pixie with kaleidoscope wings, a dance troupe of fellow pixies, and a mouth that never stopped running. He was pulled into the Void for the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)]] and spent most of it being kind to things that were trying to kill him. The Acolytes chanted his name, the Grandmaster liked him, and his teammate Grog wanted to take him home. He did not leave the arena alive.
 
 ## Story

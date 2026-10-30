@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]] · [watch it on YouTube](https://youtu.be/CUgf0VcgMXo)*
+
 **Lug Hardblock** is a wealthy, entitled barbarian and real-estate developer, played by Zac (ZacSpeaksGiant). He came into the Void to flatten a sweet little grandma and spent the evening loathed by the crowd. Then the fight turned into a family therapy session, and he left it a crowned co-champion. He thinks therapy is for the weak, and he still means to build high-rise condominiums on everything he sees.
 
 ## Story

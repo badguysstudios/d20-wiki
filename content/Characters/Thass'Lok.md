@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]] · [watch it on YouTube](https://youtu.be/BRc-Sdygomg)*
+
 **Thass'Lok** is a whispering lizardfolk killer from the black water bays, where he drowns people in the name of the Lady of the Ocean. He was summoned for the first 2v2 Deathmatch ever held in the Void. He paired with a warforged, decided at once that the warforged was the real threat, and spent the whole match trying to kill his own partner. His dark speeches charmed the hosts. His end was gloriously undignified: he was beaten to death with his teammate's corpse, or, as his player put it, "turkey slapped."
 
 ## Story

@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)|S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)]] · [watch it on YouTube](https://youtu.be/zEm9eD01piI)*
+
 **Traxton**, who would much rather you called him **Spider**, is a self-described "coolest elf from my part of the woods." He was pulled into the Void for the Season 4 finale to fight [[Ricky Red Dragon]]. He arrived as a 45-year-old emo kid whose voice hadn't broken and who had no muscle to speak of. He left as a man, a champion, and then, thanks to [[The Shadow King]], a tarantula. His match is a coming-of-age story told through crossing fireballs, a magic dick-shaped rod and a great deal of unresolved teenage angst.
 
 ## Story

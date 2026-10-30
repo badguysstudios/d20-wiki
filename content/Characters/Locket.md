@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **Locket** was a Tabaxi ranger with Russian-blue fur, a pair of goggles and a quiver of flaming arrows. She liked high ground and hated [[The Arbiter|the Arbiter]] with her whole heart. She stood with [[Toddleheim]] and [[Flynry]] through the long struggle to expose him, then won her Battle for the Crown fight on [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s team. Her story ended in the shifting sands on the other side of the mirror, where an arrow through the throat turned her to sand. Unlike most champions, she is dead for good.
 
 ## Story

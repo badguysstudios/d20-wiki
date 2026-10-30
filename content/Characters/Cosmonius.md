@@ -25,6 +25,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]] · [watch it on YouTube](https://youtu.be/9--56_zS09I)*
+
 **Cosmonius** is a large chestnut centaur from [[The Feywild]], a muscle-bound monk with flowing shampoo-commercial hair, a silky handlebar moustache and an unshakable belief that somebody, somewhere, is always watching him through a scrying spell. He entered the arena as one half of the most beautifully coiffed matchup the Void had ever seen, and he left it as one half of a double knockout. He was later summoned back to fight for [[Grandmaster Elusia Skypiercer|the Grandmaster]] in the Battle for the Crown. There he dropped a robot down a pit twice, punched a Kraken in the face and walked away a winner. He collects nicknames the way other champions collect scars.
 
 ## Story

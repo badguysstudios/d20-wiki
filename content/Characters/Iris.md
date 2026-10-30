@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/117 - S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)|S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)]] · [watch it on YouTube](https://youtu.be/mDcPeEimpZI)*
+
 **Iris** is a dead bride in a torn wedding gown who arrived at the Deathmatch banquet in [[The Dread Fortress]] hoping she wasn't late and slowly coming apart at the seams. She seemed like the gentlest guest in the room. In fact she was the murderer at the heart of the evening's mystery: she had come for revenge on [[The Arbiter]], who had stabbed her and her husband to death on their wedding night. By the end of the night she had found her vengeance, her closure and, by her own account, a whole new lease on unlife.
 
 ## Story

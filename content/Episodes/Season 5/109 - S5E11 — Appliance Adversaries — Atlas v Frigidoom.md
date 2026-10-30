@@ -18,6 +18,8 @@ youtube: https://youtu.be/8GhfKgjTDYY
 canon_order: 109
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/8GhfKgjTDYY" title="Watch S5E11 — Appliance Adversaries — Atlas v Frigidoom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/8GhfKgjTDYY)
 
 Two machines met in [[The Chinchilla Forest]] with every intention of killing each other, and almost immediately started hugging instead. **[[Atlas]]**, a mouthless automaton freshly dragged back from death, faced **[[Frigidoom]]**, a giant irradiated 1950s refrigerator full of living leftovers. The fight became a deranged buddy story: acid hugs, a hamster in a ball, an orange mushroom cloud of [[Double Sun Cola]], pepperoni nipples, and a finish nobody quite knew how to score.

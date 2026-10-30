@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]] · [watch it on YouTube](https://youtu.be/ldt8ZSVPtDA)*
+
 **Nigel Night Louis** is a "BAFTA award-winning actor" and a changeling who sculpted his own chin. He was pulled into [[The Void]] to fight the gentle halfling [[Sprinkles]] in [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]]. He treated the Deathmatch as the role of a lifetime: he coached his opponent like an acting student, lost his face, died inside the [[The Box of Chaos|Box of Chaos]] on purpose, and still delivered the killing blow from inside his own corpse. The match had no winner, but few [[Champions|champions]] have committed this hard to a bit.
 
 ## Story

@@ -23,6 +23,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]] · [watch it on YouTube](https://youtu.be/938InFjSDOM)*
+
 **The Duke** is a rat man magician with a curled mustache, a cloak and a hat that holds far more than any hat should. [[Thea]] recruited him to the Dread Fortress's hastily assembled Team C. Over two episodes he hunted a werewolf, betrayed his friends the moment it was allowed, called in nuclear strikes, lost a leg to a gator, and was eaten alive by a refrigerator. He is the self-proclaimed "saint of shit," a master improviser with stage fright, and he has made it very clear that he wants the [[The Arbiter|Arbiter's]] throne.
 
 ## Story

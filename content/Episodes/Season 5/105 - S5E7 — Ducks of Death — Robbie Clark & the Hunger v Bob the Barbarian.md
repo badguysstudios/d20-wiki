@@ -18,6 +18,8 @@ youtube: https://youtu.be/0Ep-xE9gG_o
 canon_order: 105
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0Ep-xE9gG_o" title="Watch S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/0Ep-xE9gG_o)
 
 A little boy with a tentacle monster in his backpack fought a shirtless, mullet-haired barbarian from Florida in a cozy village full of ducks. **[[Robbie Clark and the Hunger]]** returned as a fan favourite and met **[[Bob the Barbarian]]**, a man so friendly that he bewildered the Lord of Fate, pulled into [[The Void]]. Bob fought with nipple tornadoes, gators and three layers of jorts, and over the course of the fight he set out to free a forgotten child from the thing eating his memories. It began as a deathmatch and ended as an adoption.

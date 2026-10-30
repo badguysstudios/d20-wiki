@@ -11,6 +11,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **The sands of the arena** are the hot, open floor of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s arena, ringed by the screaming stands of [[The Acolytes]]. It is not a place anyone arrives at by choice. In Fate of the Arbiter it became the setting for a cruel twist from [[The Arbiter]]: taking a band of adventurers who had fought side by side and putting them on the sand as opponents. The moment became a landmark in the heroes' story. One later chapter finds them "months after the Sands of the Arena."
 
 ## Description

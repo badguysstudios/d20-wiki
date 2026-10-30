@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]] · [watch it on YouTube](https://youtu.be/R3tgq6Mj5mY)*
+
 **Thunk** is a Goliath monk from a mountain, where he picked berries, hung out with goats and wore necklaces made from the fingers of everyone he'd killed. He fought [[Mudcat Mahomes]] in [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]], a bout in which he died, came back younger, died again and finally returned from another timeline as **Octothunk**. That last Thunk walked away a winner, a friend of his killer, and six arms lighter.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/ws05JEOlejg
 canon_order: 132
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ws05JEOlejg" title="Watch S7E4 — The Cheese — Sila v Ol' Pumpernicklejack on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ws05JEOlejg)
 
 Two tiny champions faced off under a full moon: **[[Sila]]**, a scarf-wearing rat on a lifelong hunt for "the cheese," and **[[Ol' Pumpernicklejack]]**, a three-foot redcap who arrived straight off the toilet. What began in a graveyard became a lava surf, a rocket ride into the Grandmaster's cheese platter and a brawl through a truly disgusting tavern. It ended with one champion dripping with brown toilet water and the other lying in the muck, entombed in fondue, exactly as she asked.

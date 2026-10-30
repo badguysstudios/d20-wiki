@@ -24,6 +24,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **Doug the Pug** is [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s pug, "the beloved dog of the arena" and, by one account, "the absolute symbol of D20 Deathmatch." He is small, round, wheezing and visibly falling apart: an undead cyborg pug with one good eye and one metal one. From his little throne beside the Grandmaster he rolls for chaos events, blesses or bites champions as he sees fit, and makes a sport of humiliating [[The Arbiter]], who cannot stand him. The Arbiter once died to save him anyway.
 
 ## Story

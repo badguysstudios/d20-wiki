@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Plintos** was head of House Plintos, leader of the Merchants Guild and one of the richest men in [[Cor'thun]]. His name was on buildings across the city and his statues stood in its streets. When [[Grandmaster Elusia Skypiercer|Elusia]] and her companions finally came for him in [[Skypiercer]], they learned that one of the richest men in the city had been a skeleton in his own bed for six years.
 
 ## Story

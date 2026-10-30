@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]] · [watch it on YouTube](https://youtu.be/tqQP-YlaRk4)*
+
 **Gurdi** is a small red bird who lives in the backpack of the bear champion [[Hurdey]], peering over his partner's shoulder and occasionally sprouting chicken legs to carry him across the sea. He fought in the Grandmaster's second Gauntlet, a pirate treasure hunt against [[Floyd of the Pink]] and [[Luci]]. He dabbed, backflipped, set ships on fire with flaming eggs fired out of his butt, and turned on his own partner over a musical disagreement. He also claimed a win while being eaten by a mimic.
 
 ## Story

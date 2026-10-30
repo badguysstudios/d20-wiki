@@ -18,6 +18,8 @@ youtube: https://youtu.be/CzWtGF5PHAQ
 canon_order: 111
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CzWtGF5PHAQ" title="Watch S5E13 — Bone Rust — Ruby Rust v Bone Daddy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/CzWtGF5PHAQ)
 
 Two champions came back from the dead for a rematch with fate in **Bone Rust**. One was [[Ruby Rust]], a snake-turned-programmer who had been devoured by [[The Hunger|the Hunger]] and returned as a glitching eldritch nightmare. The other was [[Bone Daddy]], a skeletal leather daddy in hammer pants with his beloved skeleton [[Darcy]] at his side. Their tavern brawl had fire, bone cages, sparkly flatulence and a great deal of body horror, and it ended with a strange prize: a snake given exactly what he wanted.

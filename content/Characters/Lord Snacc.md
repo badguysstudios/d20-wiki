@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/049 - Live - GCX Orlando 2022 — Lord Snacc v The Showman|Live | GCX Orlando 2022 — Lord Snacc v The Showman]] · [watch it on YouTube](https://youtu.be/DTBTe_JXO7Y)*
+
 **Lord Snacc** is a large barbarian from a faraway land ("some would even say in space") who worships a spherical god and fears nothing, except bowler hats, bees, leaves and cheese. He was an Acolyte in the crowd when the Arbiter turned up to a live Deathmatch without any champions. He stepped into the arena and beat [[The Showman]] in a gloriously messy fight. He had to put his opponent down twice, because the Showman faked his own death the first time.
 
 ## Story

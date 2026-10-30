@@ -18,6 +18,8 @@ youtube: https://youtu.be/Xp2sSpXWTLM
 canon_order: 11
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Xp2sSpXWTLM" title="Watch Magic — S1 Ep2 — Mageic v Amren on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Xp2sSpXWTLM)
 
 Red versus blue: a muscle-bound stage magician who thought he'd been booked for a show in Neverwinter, against a proud fire genasi who hated being called his assistant. **[[Mageic]]** and **[[Amren]]** Scorsia tore the Grandmaster's abandoned abbey apart with illusions, fire and ice. Along the way they picked up a cursed porcelain doll, a thrown grandmother and an exploding cathedral. The fight ended in lava, and with a secret bargain made in the ruins.

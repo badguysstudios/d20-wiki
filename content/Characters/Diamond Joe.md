@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]] · [watch it on YouTube](https://youtu.be/fTrPcxjl_OQ)*
+
 **Diamond Joe** is an elderly dragonborn artificer who builds his own armor and pops his own pills. He is also the proud creator of [[Steely Dan]], whom he calls "my boy." He came to the Void on a promise from [[The Arbiter|the Arbiter]] that he would be reunited with his estranged creation. He then spent an evening punching himself in the face, gifting pie to his enemy, farting thunder and flirting with the Grandmaster, and he walked away the winner.
 
 ## Story

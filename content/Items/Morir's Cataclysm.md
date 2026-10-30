@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/095 - S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)|S4E14, Vythorn's Return Part 1]] · [watch it on YouTube](https://youtu.be/KWrBKN495SY)*
+
 **Morir's Cataclysm**, also called **the Testaments of Morir's Cataclysm**, is a tome that "notes power of all sorts. Chaos and time and luck." It was the prize [[The Arbiter]] won on his long road back from death, and it is not the kind of book you read so much as the kind of book that reads itself onto you. Its words lift off the page and brand themselves into whoever holds it. Since then it has had a strange habit of turning up in the arena.
 
 ## Description

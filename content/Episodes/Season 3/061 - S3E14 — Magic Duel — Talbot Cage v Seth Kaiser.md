@@ -18,6 +18,8 @@ youtube: https://youtu.be/fU8cs88zRJw
 canon_order: 61
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fU8cs88zRJw" title="Watch S3E14 — Magic Duel — Talbot Cage v Seth Kaiser on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/fU8cs88zRJw)
 
 On Halloween night, two very different spellcasters were dragged into a haunted maze to fight for the amusement of [[The Acolytes]]. **[[Talbot Cage]]** was a scorched, malnourished wizard whose magic misbehaved, and who had been summoned mid-coffee. **[[Seth Kaiser]]** was an immaculately dressed duelist who cast his spells by playing cards from a deck strapped to his shield. Between a riddling horror, a returning [[Dolly]], and a [[The Box of Chaos|Gerald]] who made a new best friend, it was a night of horror, glory and a lot of pumpkins.

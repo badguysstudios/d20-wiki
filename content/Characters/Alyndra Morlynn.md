@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/058 - S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý|S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý]] · [watch it on YouTube](https://youtu.be/N_qfQ2QbCqI)*
+
 **Alyndra Morlynn** is an astral elf fighter with hair made of starlight and armour so clean it had clearly never seen a fight. She stepped through [[The Arbiter|the Arbiter]]'s portal looking for glory and found a fight she did not expect. Her bout with the bare-chested Bladesinger [[Minh Lý]] was one of the silliest Deathmatches around. It ended as one of the most touching: Alyndra brought the sky down on both of them and walked out of the ashes carrying her opponent's shield and his story.
 
 ## Story

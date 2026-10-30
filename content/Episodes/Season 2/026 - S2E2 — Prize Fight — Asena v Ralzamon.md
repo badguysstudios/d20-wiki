@@ -18,6 +18,8 @@ youtube: https://youtu.be/ZlPfc2CNJ94
 canon_order: 26
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZlPfc2CNJ94" title="Watch S2E2 — Prize Fight — Asena v Ralzamon on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ZlPfc2CNJ94)
 
 Season 2 of the Deathmatches opened with a grudge match. **[[Asena]]**, a dragon-blooded brawler from the dimension of Northport, faced **[[Ralzamon]]**, a long-dead psychic "master of the unknown" who, by his own count, had fought her "like, five times" and haunted her nightmares. Their arena was the kitchen of [[The Dread Fortress|the Dread Fortress]] itself. Over the night the Acolytes rained flaming snowmen on the floor, an alien saucer came down through the peeled-back ceiling, and a pair of snake arms settled the matter. In the final moments the Arbiter did something nobody else saw.

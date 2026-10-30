@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface]] · [watch it on YouTube](https://youtu.be/ZmVWvB4IgMk)*
+
 **Soot Mustam** was a twelve-year-old Goliath boy who looked about twenty-five. He stood roughly six feet tall, was improbably muscular, and was absolutely certain he was the greatest. Played by WintersTales, he fought [[Huey Leatherface]] in the [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|Season 3 finale]], riding a flaming winged horse with a lightning squirrel on his shoulder. He also carried a deep well of childhood hurt that kept spilling out mid-fight. His run was a parade of spectacular misfortune, and it ended with one of the most self-inflicted deaths the arena has seen and one of its most unexpectedly moving farewells.
 
 ## Story

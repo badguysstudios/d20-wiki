@@ -14,6 +14,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]] · [watch it on YouTube](https://youtu.be/SgFsqyQFIzQ)*
+
 **The Arbiter's Rings** are eight golden rings in loud, fluorescent colors that [[The Arbiter]] wears on his fingers. Few pieces of jewelry in the Void have had a busier life. They have been coveted by a champion, faked for a band of would-be thieves, worn as trophies by [[The Shadow King]], and offered up by the Box of Chaos to desperate fighters. Whoever slips one on gets a brief, dizzying taste of the Arbiter's power over time and space.
 
 ## Description

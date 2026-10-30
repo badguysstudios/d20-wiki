@@ -20,6 +20,8 @@ youtube: https://youtu.be/Wr32LjTmgBc
 canon_order: 120
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Wr32LjTmgBc" title="Watch S6 Ep4 — Tip to Tip - Part 1 (TTRPG One Shot) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Wr32LjTmgBc)
 
 When [[Thea]] went missing on Deathmatch Day, [[The Arbiter|the Arbiter]] scraped together a rescue squad of a skeleton, a conspiracy theorist and a soda salesman, and sent them into a haunted family graveyard. There was no fight to the death this week. Instead, **[[Richard S. Skelman]]**, **[[Richard Knottley]]** and **[[Killy Yesman]]** charmed a weeping angel, punched themselves in the mouth and built a giant bone robot to destroy Skelman's own grandfather. It was one of the strangest and most wholesome nights the Void had seen, and it ended with two friends promised to a duel: dick to dick, tip to tip.

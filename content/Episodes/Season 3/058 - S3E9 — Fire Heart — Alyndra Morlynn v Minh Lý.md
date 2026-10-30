@@ -18,6 +18,8 @@ youtube: https://youtu.be/N_qfQ2QbCqI
 canon_order: 58
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/N_qfQ2QbCqI" title="Watch S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/N_qfQ2QbCqI)
 
 **Minh Lý**, the bare-chested, sword-dancing "Freshmaker," faced **Alyndra Morlynn**, a starlit elf who came looking for glory, at the [[Grandmaster Elusia Skypiercer|Grandmaster]]'s favourite waterfall hideaway. For most of the fight it was a comedy of bulging muscles, a swole Box of Chaos and a dog with too many eyes. Then it turned into one of the most heartfelt endings in the arena's history. When the meteors fell, the two rivals held hands, and the dying Freshmaker spent his last breath saving the woman who had killed him.

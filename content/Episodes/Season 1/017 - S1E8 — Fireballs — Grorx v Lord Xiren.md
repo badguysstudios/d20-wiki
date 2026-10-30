@@ -18,6 +18,8 @@ youtube: https://youtu.be/jR2qzQsXBg0
 canon_order: 17
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/jR2qzQsXBg0" title="Watch S1E8 — Fireballs — Grorx v Lord Xiren on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/jR2qzQsXBg0)
 
 A greedy little goblin who wanted to buy the crown met a winged Aasimar who hadn't realised a Deathmatch involved dying. **[[Grorx]]** and **[[Lord Xiren]]** were sent to the Grandmaster's "temple of the lost," where they fought through barking hieroglyphs, a befriended mummy and a doll with far too many teeth. The match ended with a fireball, a tied crowd and a coin flip, and it produced one of the strangest outcomes the arena had ever seen.

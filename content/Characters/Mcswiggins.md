@@ -22,6 +22,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/037 - S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog|S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog]] · [watch it on YouTube](https://youtu.be/6JgeeDFqEkk)*
+
 **Mcswiggins**, also called the Everthirsty and, according to the sign-up sheet, Ulfgar Greyblade, is a broad, axe-swinging dwarf who has never been fully sober in the arena. He lost his first Deathmatch by falling down a hole. [[The Arbiter]] then caught him in mid-fall and kept him, promising "a use for you very soon." That use turned out to be the deciding round of the war for [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s crown, where Mcswiggins stumbled, swore and quit his way through a fight that his own team won.
 
 ## Story

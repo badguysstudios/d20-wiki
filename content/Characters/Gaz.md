@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]] · [watch it on YouTube](https://youtu.be/oihEfPouzfs)*
+
 **Gaz** was the red goblin holding up the whole operation, quite literally. He was the bottom third of a three-goblin stack hidden inside a trench coat, and together with Gork and Mork he had spent a good while passing himself off as the fearsome warrior [[Blaktoof]]. The ruse lasted right up until a blow in the arena split the coat open and revealed the truth in [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]].
 
 ## Story

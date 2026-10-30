@@ -17,6 +17,8 @@ youtube: https://youtu.be/TQgN6CRqAcU
 canon_order: 50
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/TQgN6CRqAcU" title="Watch S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/TQgN6CRqAcU)
 
 Season 3 opened with a murder over yogurt. **[[Lumos the Spark]]**, a corgi-obsessed high elf, was pulled into [[The Void]] to settle a score with **[[Ferndell Ironwind]]**, the dwarf wizard who kept stealing her yogurt from the office fridge in another dimension. They fought over an endless abyss, then in a lava hellscape. Along the way she healed him, he accidentally cured her eyesight, and they both played tag with [[Grandmaster Elusia Skypiercer|the Grandmaster]]. The match lived up to its title: they really did try to kill each other with kindness, right up until Ferndell's mom showed up.

@@ -18,6 +18,8 @@ youtube: https://youtu.be/Agj0QVseSJw
 canon_order: 129
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Agj0QVseSJw" title="Watch S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Agj0QVseSJw)
 
 Season 7 opened on a blood-soaked castle rampart under a giant full moon, where **[[DeeDrah]]**, a woman with one name and two blades, fought **[[Andy Gammage]]**, the Gazpacho Man and self-proclaimed Intercontinental Cold Soups Champion. It was a brawl of steel chairs, barbed-wire noogies and a man who swallowed a beam of magic in two gulps. In the end, the life-or-death question came down to the deadliest game in the world: rock, paper, scissors.

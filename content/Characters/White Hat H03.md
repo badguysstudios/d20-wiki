@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)]] · [watch it on YouTube](https://youtu.be/fCjXSOkuTTg)*
+
 **White Hat H03** was a warforged gunslinger, a robot cowboy with twin pistols, a white hat and a pocket square, and a manner that was "southern, sort of." Played by Mudcat, he fought the snake-tailed archer [[Brunhilda Doogle]] in [[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)]]. Over a long, grimy brawl he lost his hat, gained a nickname, and finally took his opponent down with him in one of the stranger mutual kills on record.
 
 ## Story

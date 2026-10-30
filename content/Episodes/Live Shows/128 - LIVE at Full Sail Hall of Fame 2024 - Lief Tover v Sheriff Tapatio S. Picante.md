@@ -18,6 +18,8 @@ youtube: https://youtu.be/oXvECQhgc4w
 canon_order: 128
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/oXvECQhgc4w" title="Watch LIVE at Full Sail Hall of Fame 2024 - Lief Tover v Sheriff Tapatio S. Picante on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/oXvECQhgc4w)
 
 A sweltering live crowd watched **[[Lief Tover]]**, a champion from the deepest depths of a garbage dump, face **Sheriff Tapatio S. Picante**, a gunless lawman who rode a chicken named Clucky Cheese. They fought in what [[Grandmaster Elusia Skypiercer|the Grandmaster]] declared were "the deep, dark jungles of Florida." The audience did much of the dice-throwing, and that turned out to be fatal. The Sheriff deputized half the crowd and lost his chicken early. In the end he was undone by his own posse's terrible luck.

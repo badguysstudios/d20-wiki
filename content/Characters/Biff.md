@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/096 - S4E15, Vythorn's Return Part 2|S4E15, Vythorn's Return Part 2]] · [watch it on YouTube](https://youtu.be/WmpyoQi03rs)*
+
 **Biff** is a grung, a short and poisonous tree frog, with feet that slap through the mud like pancakes and a backpack full of junk. [[Fil]], the God of Fate, raised him from the dirt as one of two companions to watch over [[The Arbiter|Vythorn]] on his quest for [[Morir's Cataclysm]]. He spent the journey being loudly, stubbornly kind to everyone around him. In a story full of gods, schemers and shapeshifters, he was the one who kept insisting that the people on the side of the road mattered, and he walked away from immortality rather than give up his freedom.
 
 ## Story

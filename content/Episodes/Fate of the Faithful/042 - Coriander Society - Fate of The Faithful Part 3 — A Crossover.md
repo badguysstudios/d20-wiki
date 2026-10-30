@@ -20,6 +20,8 @@ youtube: https://youtu.be/PVwtTWKQKz4
 canon_order: 42
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PVwtTWKQKz4" title="Watch Coriander Society - Fate of The Faithful Part 3 — A Crossover on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/PVwtTWKQKz4)
 
 The third chapter of the Coriander Society crossover dropped **[[Lyrus]]**, **[[Asena]]** and **[[John Carmichael]]** into a three-way mess in the Hanging City of [[Prexmarin]]. Lyrus was locked in a brutal duel with a fire-breathing armored titan, Asena had been shrunk to the size of a house cat, and John was trying to sweet-talk the supervillain who shrank her. By the end, the party had robbed a bank, watched an ancient horror wake beneath the city, recruited an enemy, and pulled off a heist in a river of godly blood.

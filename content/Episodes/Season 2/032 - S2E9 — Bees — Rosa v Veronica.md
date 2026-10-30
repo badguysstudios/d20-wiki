@@ -18,6 +18,8 @@ youtube: https://youtu.be/5isJ1FM-NtE
 canon_order: 32
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/5isJ1FM-NtE" title="Watch S2E9 — Bees — Rosa v Veronica on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/5isJ1FM-NtE)
 
 A sunny, one-eyed halfling in a bee costume met a cool, blue-haired half-elf with tricks up her wrist wraps in a desert bazaar the Grandmaster had just acquired. What followed was a game of tag, a seduction of [[The Box of Chaos|the Box of Chaos]], a whirlwind romance with a being made of fire, and a whip that dragged [[The Arbiter|the Arbiter]] off his perch. **No one died.** The two champions ended the night employed, and one of them ended it knowing something had been taken from her, but not what.

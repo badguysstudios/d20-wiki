@@ -13,6 +13,9 @@ aliases:
 - Snoop
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/037 - S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog|S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog]] · [watch it on YouTube](https://youtu.be/6JgeeDFqEkk)*
+
 **Snoop & Dog** are a two-person (well, one-person) champion team: [[Snoop & Dog|Snoop]], a four-foot-six-and-a-half fighter who arrived high on magic mushrooms, and Dog, his scaly, lightning-breathing companion, whom Snoop insists is a dog despite being a silver dragon. They fought Ulfgar Greyblade, better known as [[Mcswiggins]], in a lost plane full of forgotten things and falling farts. They won by shoving him down a hole. Along the way they made friends with the Box of Chaos, lost two lions and became an unlikely crowd favorite.
 
 ## Story

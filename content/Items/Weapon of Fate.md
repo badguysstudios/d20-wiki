@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Battle for the Crown/048 - S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins|S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins]] · [watch it on YouTube](https://youtu.be/Hbh8mIVUDZ0)*
+
 The **Weapon of Fate** was a charmed axe that the Box of Chaos handed to [[Mcswiggins]] in the middle of the third round of the Battle for the Crown. It sharpened his swings and let him call on a few small blessings of luck. When the luck ran out, the axe broke apart. Then it was even more useful, because Mcswiggins stabbed his opponent with a piece of it.
 
 ## Description

@@ -18,6 +18,8 @@ youtube: https://youtu.be/9HVO0CJ1-xc
 canon_order: 5
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9HVO0CJ1-xc" title="Watch Playtest 2 (Pre-Launch) — Atlas v Bromir on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/9HVO0CJ1-xc)
 
 On the frozen slopes of Reaper's Rock, a towering warforged named **[[Atlas]]** squared off against **[[Bromir]]**, a snow-rubbing, pony-throwing wrestler with boulders for fists. What began as a brawl full of nipple jokes and growth hormones slowly became something stranger: a fight between two [[Champions|champions]] who would rather respect each other than kill each other. It ended with one of the most honorable deaths the arena had seen, and with a secret only [[The Arbiter|the Arbiter]] knew.

@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/035 - S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko|S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko]] · [watch it on YouTube](https://youtu.be/nbGAN3ruN8U)*
+
 **Martin Messiah Malenko** is a sun-blessed gunslinger with an eyepatch, a rifle he calls his wife and a pair of revolvers he calls his kids. He was pulled into [[The Void]] to fight [[Wandering Willy]] to the death for a plate of sugar cookies. Instead he ended the night as one half of the Bone Brothers, after a strangely gentle Deathmatch. Martin hit hard, then hugged harder, and he proved that a champion can win by refusing to finish the job.
 
 ## Story

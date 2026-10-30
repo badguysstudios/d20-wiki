@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/106 - S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso|S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso]] · [watch it on YouTube](https://youtu.be/QptrBbj427Y)*
+
 **Teddy Oso** is a survivor of the zombie apocalypse who walks into the arena with a shotgun, a little axe, an endless supply of sugar-free vegan energy drinks and the casual swagger of a man who has killed more zombies than he can count. He fought twice in the [[The Void|Void]] during the Season of Fate, when [[The Arbiter|the Lord of Fate]] ran the Deathmatches. His first fight ended in humiliation at the hands of [[Granny Edith]]. His second ended with a roundhouse kick that sent [[Ragu]] frozen into orbit.
 
 ## Story

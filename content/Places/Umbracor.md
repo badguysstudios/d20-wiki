@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/127 - Pieces of a King Ep 4 - The Warmind|Pieces of a King Ep 4 - The Warmind]] · [watch it on YouTube](https://youtu.be/h9Ce8Y28itA)*
+
 **Umbracor** is the monastery-fortress of Grandmaster Payne and the heart of the Order of Shadow Ascendant, a stronghold tucked away somewhere in the vastness of [[The Void]]. It first came up as an invitation offered at swordpoint and became the next destination for [[Grimnar Stormclaw|Grimnar]], [[Muffy]] and [[Nehebka]]. Nobody is quite sure whether it is an opportunity or a trap. It is also said to hold Meir, a man Muffy believed was dead.
 
 ## Description

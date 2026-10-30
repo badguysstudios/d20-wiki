@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/085 - S4E7 — Wings — Misery v Daisy Bloom|S4E7 — Wings — Misery v Daisy Bloom]] · [watch it on YouTube](https://youtu.be/4BdP8x3RVWg)*
+
 **Daisy Bloom**, the self-proclaimed Beacon of Village Town, was a plate-armored paladin who arrived in [[The Void]] armed with two warhammers, three lanterns, a glow stick and "the power of friendship and love and light." Pitted against the walking grief known as [[Misery]] in [[Episodes/Season 4/085 - S4E7 — Wings — Misery v Daisy Bloom|S4E7 — Wings — Misery v Daisy Bloom]], she spent the whole fight trying to make him her best friend. Along the way she told a deeply alarming backstory about slurping up her parents' blood, prayed to Criss Angel, and summoned a moth *inside her own body*. She lost her head for it, literally, but few champions have ever gone out quite so committed to the bit.
 
 ## Story

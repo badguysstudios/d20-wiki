@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]] · [watch it on YouTube](https://youtu.be/03vHIx78LxM)*
+
 **Jerry Bonesman** ("It's Jerry Bones *Man*, all right? Not Bones Min.") was a skeleton champion who brawled his way through [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]]. He arrived with a grudge on behalf of every low-level skeleton ever smashed for loot. He spent most of the match punching a wall that could not be punched, turned the Arbiter's assistant into a dinosaur, and tried to recruit the giant skull of [[The Dread Fortress]] as his patron. He lost, but he ended his fight in a moment of grace that nobody, least of all Jerry, saw coming.
 
 ## Story

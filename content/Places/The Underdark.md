@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]] · [watch it on YouTube](https://youtu.be/G2Gln_aH8n8)*
+
 **The Underdark** is the vast realm under the surface, or at least "whatever iteration of it would exist here in [[The Void]]." It holds dwarven bastion cities, drow conclaves, goblin warrens and kobold dens. Its peoples went to war with the world above and built a weapon to win it. That weapon, [[The Warmind]], turned on its makers. By the time Grimnar Stormclaw's party stumbled into their camp, the Underdark's survivors were refugees on the surface, fighting for their lives under a single banner.
 
 ## Description

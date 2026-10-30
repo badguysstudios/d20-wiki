@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]] · [watch it on YouTube](https://youtu.be/-ouOCDcSlQA)*
+
 **Carnelian**, better known as **Carn**, was a crystalline gem dragonborn warlock who stomped into the Void promising carnage and very nearly delivered it. He flew, he breathed radiant energy, he whispered insults directly into his opponent's brain, and he sweated glitter the whole time. He lost his duel with [[Bargo]] in the most final way the arena allows. What made him matter came afterwards: [[The Arbiter]] quietly carried off his severed head and stitched it back onto his body, because he "might have use" for him.
 
 ## Story

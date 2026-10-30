@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]] · [watch it on YouTube](https://youtu.be/G2Gln_aH8n8)*
+
 **Dämmerung** is a grim world of iron, dirt and endless twilight at the very edge of [[The Void]]. It is torn by a long war between living peoples and an army of constructs. In [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]], three agents of [[The Dread Fortress]] were sent there to chase a darkness that felt troublingly like [[The Shadow King]]. What they found was a front line, a desperate alliance, and a mind of war that threatens to spill out across the Void.
 
 ## Description

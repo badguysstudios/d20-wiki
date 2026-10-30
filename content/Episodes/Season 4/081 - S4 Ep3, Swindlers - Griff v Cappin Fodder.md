@@ -18,6 +18,8 @@ youtube: https://youtu.be/wm6N0SLfLy8
 canon_order: 81
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/wm6N0SLfLy8" title="Watch S4 Ep3, Swindlers - Griff v Cappin Fodder on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/wm6N0SLfLy8)
 
 Two silver-tongued **swindlers** met in a ruined temple under the gaze of a stone Vythorn: **[[Griff]]**, a satyr hustler who wins by letting you think you can, and **[[Cappin Fodder]]**, a halfling pirate with a bandana over his eyes and an insult for every occasion. The trash talk never let up, even as the fight served up a haunted doll, a phoenix made from a rat, and a pirate who threw himself bodily into [[The Box of Chaos]]. Then the Shadow King cheated the winner out of his prize, and nobody could stop him.

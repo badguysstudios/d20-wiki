@@ -18,6 +18,8 @@ youtube: https://youtu.be/qtv__Ond6Dw
 canon_order: 8
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/qtv__Ond6Dw" title="Watch Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/qtv__Ond6Dw)
 
 **[[Bawser]]**, a towering yellow brute with a green shell, and **[[Grakas]]**, a wheezing, blue-bearded swordsman who never wanted to be there, met in a drizzly forest arena. Bawser expected to be the scary one. Instead he got out-muscled, out-hidden and out-scared, and spent part of the fight sobbing behind a rock. It ended with a flood, a forest fire, a hug, a burial and a rebirth, which is a surprisingly tender way for a fight to the death to finish.

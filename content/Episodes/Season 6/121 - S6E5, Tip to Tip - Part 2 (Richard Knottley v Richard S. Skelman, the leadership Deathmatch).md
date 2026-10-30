@@ -18,6 +18,8 @@ youtube: https://youtu.be/3r-hPs8ycOI
 canon_order: 121
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3r-hPs8ycOI" title="Watch S6E5, Tip to Tip - Part 2 (Richard Knottley v Richard S. Skelman, the leadership Deathmatch) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/3r-hPs8ycOI)
 
 Two dicks, one team, and nobody in charge. In the second part of Tip to Tip, **[[Richard Knottley]]** and **[[Richard S. Skelman]]** returned to the graveyard of [[The Midnight Mausoleum]] to fight to the death for the leadership of Team B. Over the course of the fight Knottley lost an arm, then all of his flesh, then his body, then his mustache, and finally his grip on reality. He ascended into the cosmos still rolling natural 20s, and the skeleton who had spent thousands of years trying to ascend was left standing, very confused, as the new manager.

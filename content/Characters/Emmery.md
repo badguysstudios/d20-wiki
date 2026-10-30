@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]] · [watch it on YouTube](https://youtu.be/ApQKHMQLU_M)*
+
 **Emmery** is the owner, bartender and brewer of [[Emmery's Tavern]], a grimy little pub with a giant monster skull over the fireplace and exactly one drink on the menu: his patented **number two ale**, made from grain smoked over sheep dung. He spends every waking moment wiping the same worn spot on his bar and badgering customers to buy something or get out. He has become the [[The Dread Fortress|Dread Fortress]]'s favorite booze distributor and has hosted two of its stranger outings. Beneath the weary shopkeeper act he is a **changeling**, a fact he revealed in the middle of a Deathmatch by stepping in as a champion's tag-team partner.
 
 ## Story

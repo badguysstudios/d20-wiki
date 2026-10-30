@@ -18,6 +18,8 @@ youtube: https://youtu.be/4LNVK_cQlb8
 canon_order: 86
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4LNVK_cQlb8" title="Watch S4E8 — Blood Rain — Fatale v Claudia on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/4LNVK_cQlb8)
 
 **Blood Rain** pitted **[[Fatale]]**, a terse rogue who rides in on a wind of black rose petals, against **[[Claudia]]**, a university professor of plants who fights with gardening shovels. The fight started on a wooden ship sailing through the clouds and ended on a mountaintop after [[The Shadow King]] grew bored and slammed the ship into the ground. Both champions turned out to be there for secret reasons of their own. One wanted information on the hosts, the other wanted a soup recipe, and the recipe had a twist at the bottom.

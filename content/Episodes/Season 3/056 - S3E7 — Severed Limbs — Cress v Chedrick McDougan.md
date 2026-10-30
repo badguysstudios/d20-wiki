@@ -18,6 +18,8 @@ youtube: https://youtu.be/XakIcN-CPig
 canon_order: 56
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/XakIcN-CPig" title="Watch S3E7 — Severed Limbs — Cress v Chedrick McDougan on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/XakIcN-CPig)
 
 The barefoot fighter **Cress** came for prize money, and the trash-talking **[[Chedrick McDougan]]** came for her shoes, or failing that, her feet. Their fight in the black fog of [[The Shadowlands]] became a gruesome swap meet of body parts. A toe, a hand and a whole foot came off, and the hand and the foot both passed through [[The Box of Chaos|Gerald]]. It ended with the most decisive penguin in Deathmatch history.

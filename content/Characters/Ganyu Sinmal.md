@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]] · [watch it on YouTube](https://youtu.be/MrBx49GHbe0)*
+
 **Ganyu Sinmal** is an enormous suit of armor with no flesh showing anywhere. His mouth is bolted shut with a furnace grate, and violet fire burns behind it. He came out of the world of Yokai Blossom and turned up in [[The Void]] as part of a kill team hunting [[Kenny]]. To [[Asena]] and her companion John he was a familiar face with a complicated history. To [[Lyrus]] he was a very large problem that had to be punched until it stopped.
 
 ## Story

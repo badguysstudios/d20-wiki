@@ -11,6 +11,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]] · [watch it on YouTube](https://youtu.be/5isJ1FM-NtE)*
+
 **The bee farm** is the Grandmaster's venture into "nature philanthropic efforts": an apiary staffed by two former champions who walked out of the arena and straight into a new career. It supplies the honey for the [[The Dread Fortress|Dread Fortress]]'s honey mead. It is also where a woman who forgot she once loved a box now works, and where at least one of its keepers is nursing a grudge.
 
 ## Description

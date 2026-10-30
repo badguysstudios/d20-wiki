@@ -22,6 +22,8 @@ youtube: https://youtu.be/tqQP-YlaRk4
 canon_order: 57
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tqQP-YlaRk4" title="Watch S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/tqQP-YlaRk4)
 
 For her second gauntlet, [[Grandmaster Elusia Skypiercer|the Grandmaster]] did not simply open an arena. She built one by hand, out of felt, glue and glitter, in the basement of [[The Dread Fortress]]. Into it stepped two odd couples: the devoted, fedora-burdened **[[Floyd of the Pink]]** and his silent satyr mistress **[[Luci]]**, against **[[Hurdey]]**, a bear, and **[[Gurdi]]**, the red bird who lives in his backpack. What followed was a drinking game, a seagull war, a Kraken, a burned waifu pillow, a bitten-off nipple, and an ending so tangled that both teams could claim victory.

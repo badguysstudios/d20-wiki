@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/116 - LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)|LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)]] · [watch it on YouTube](https://youtu.be/vOATJ98xPYY)*
+
 **Navik**, the self-proclaimed Lord of the Undead, was a skinny, robed necromancer who fought [[Ragu]] live in front of a crowd in [[Episodes/Live Shows/116 - LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)|LIVE at GCX Orlando 2023 — Navik v Ragu (Prego)]]. He barely lifted a finger. He let the audience do it for him, raising [[The Acolytes|Acolytes]] as his undead minions and sending them in to claw, bite and sweep the legs out from under his opponent. He ended the night as champion and turned his beaten rival into one more member of his horde.
 
 ## Story

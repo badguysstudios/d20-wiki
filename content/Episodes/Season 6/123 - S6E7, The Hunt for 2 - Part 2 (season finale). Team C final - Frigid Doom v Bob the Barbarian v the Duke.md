@@ -20,6 +20,8 @@ youtube: https://youtu.be/2GHpuqoileM
 canon_order: 123
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2GHpuqoileM" title="Watch S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/2GHpuqoileM)
 
 The Season 6 finale sent the three members of Team C, a nuclear refrigerator, a Floridian barbarian and a rat-man magician, back to the scene of their mission at [[Emmery's Tavern]] to fight for the right to lead. **[[Frigidoom]]**, **[[Bob the Barbarian]]** and **[[The Duke]]** brought crystal meth, gators, nuclear strikes and a remarkable amount of fecal matter. In the end the fight was decided by a crowd of children with very hurtful opinions.

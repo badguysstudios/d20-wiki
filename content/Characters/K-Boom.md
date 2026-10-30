@@ -25,6 +25,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]] · [watch it on YouTube](https://youtu.be/rKTmpacPlUo)*
+
 **K-Boom** (also known, he insists, across the different realms as Kyle Boomishnow and Kaboom) is a gnome artificer who loves explosives, cigarettes, cryptocurrency and, as he added right after his opening speech, arson. He came to [[The Void]] to prove that his K-Boom Coin would be "the best cryptocurrency that the realm has ever seen" by winning a Deathmatch against [[Ignacio Marchade]]. He didn't win. Neither did anyone else. Along the way he set himself on fire, tried to pay the [[The Box of Chaos|Box of Chaos]] in crypto, turned into a giant ape out of misplaced sympathy, and gave one of the arena's most memorable death-scene sales pitches.
 
 ## Story

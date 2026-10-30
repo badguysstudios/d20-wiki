@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/104 - S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley|S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley]] · [watch it on YouTube](https://youtu.be/LAPG4OOUWfc)*
+
 **Richard Knottley**, known online as **Dick Twist** "on account of my dance moves," is a former Peloton instructor, a conspiracy podcaster and a would-be presidential candidate. He wears a tinfoil hat against Wi-Fi radiation and a mustache that refuses to stay on his face. Above all, he is certain that the government is run by chinchillas in human skin. He has been killed in the arena again and again and has never won a Deathmatch. Each time he comes back a little stranger, held together by bike parts and stubbornness. Somewhere along the way the conspiracy crank became one of the most oddly lovable champions in [[The Void]].
 
 ## Story

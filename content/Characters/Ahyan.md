@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]] · [watch it on YouTube](https://youtu.be/BDdZdET3cuQ)*
+
 **Ahyan** is a towering minotaur mage, a professor and recruiter for the Academy of Assassins, and the former mentor of [[Alma]]. Pulled into the Void to fight their own pupil for a coveted position, Ahyan spent most of the match trying to talk Alma out of it, pleading with the Acolytes for mercy and outfoxing the younger mage with old tricks. They lost in the end, but on their own terms, with a quiet "I'm proud of you" that turned a deathmatch into a graduation. Along the way they became, by [[The Box of Chaos|Gerald]]'s own account, the first champion ever to thank him.
 
 ## Story

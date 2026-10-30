@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]] · [watch it on YouTube](https://youtu.be/MasLLQBr8L4)*
+
 **Bryltyn** was a champion of the Void's Deathmatches who insisted there was no one else like him, despite the Arbiter's suspicion that the arena had seen his face before. In [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]], he faced the kilted warlock [[Highfrost]] in a snowbound town. The fight became a war of insults, unwanted kilt reveals, liberated ducklings and a deadly game of tag. He came out of it bloodied, one axe short, and victorious.
 
 ## Story

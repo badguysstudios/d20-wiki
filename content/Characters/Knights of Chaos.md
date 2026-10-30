@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 The **Knights of Chaos** were the emissaries of [[Faucius Golden Shield]] and the protectors of [[The Dread Fortress]]. On the night his throne was stolen, they bled themselves dry to carry his daughter out of the Void. Three centuries later that daughter walked back into the room where they died and found them still standing. Their story frames the whole of [[Skypiercer]], and it ends with the order reborn under a new name at its head: [[Grandmaster Elusia Skypiercer|the Grandmaster]].
 
 ## Story

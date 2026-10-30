@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/081 - S4 Ep3, Swindlers - Griff v Cappin Fodder|S4 Ep3, Swindlers - Griff v Cappin Fodder]] · [watch it on YouTube](https://youtu.be/wm6N0SLfLy8)*
+
 **Cappin Fodder** was a halfling pirate, self-proclaimed "the bestest pirate in the world," pulled into the Void to fight the satyr hustler [[Griff]] in [[Episodes/Season 4/081 - S4 Ep3, Swindlers - Griff v Cappin Fodder|S4 Ep3, Swindlers - Griff v Cappin Fodder]]. Played by QuincysTavern, he arrived with a mouthful of insults, a whip as long as he was tall and almost no sense of self-preservation. He made history as the first champion to throw his *whole self* into [[The Box of Chaos]]. He lost the fight, but he stole the show doing it.
 
 ## Story

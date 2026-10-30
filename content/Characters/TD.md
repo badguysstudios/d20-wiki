@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]] · [watch it on YouTube](https://youtu.be/03vHIx78LxM)*
+
 **TD** is a construct who treats every fight as a training exercise. Pulled into [[The Void]] by [[Thea]] for a Father's Day Deathmatch, he out-thought, out-waited and out-layered the skeleton brawler [[Jerry Bonesman]] in [[The Duck Village|Duck Village]] before ending the match with a single devastating spell. He was the Grandmaster's chosen champion almost from the moment he arrived. He left with the win, an intestine belt, a pizza he can't eat, and a hint that his training has only just begun.
 
 ## Story

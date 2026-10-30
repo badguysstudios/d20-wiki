@@ -18,6 +18,8 @@ youtube: https://youtu.be/kHbOuDPSSaA
 canon_order: 10
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/kHbOuDPSSaA" title="Watch S1 Ep1 — Ditch Em' Darrell v Eshrinn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/kHbOuDPSSaA)
 
 The first ever Deathmatch pitted **[[Ditch Em' Darrell]]**, a grizzled old axe-man with a barbecue-sauced mustache, against **[[Eshrinn]]**, a snake-woman and self-styled master of spells and poisons. They fought in a secret cavern of gold that turned out to have a dragon sleeping under it. Their clash went from runway show to friendship to doomed romance to murder, all before [[Grandmaster Elusia Skypiercer|the Grandmaster]] and her [[The Acolytes|Acolytes]]. Afterwards [[The Arbiter|the Arbiter]] quietly began a scheme of his own.

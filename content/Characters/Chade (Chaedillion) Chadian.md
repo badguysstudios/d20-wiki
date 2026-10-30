@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/052 - S3E3 — Couples Therapy — Chade v Kairen|S3E3 — Couples Therapy — Chade v Kairen]] · [watch it on YouTube](https://youtu.be/nj_7e17mMJU)*
+
 **Chade (Chaedillion) Chadian** is a very large, square-jawed, mustachioed half-orc, played by Joel. He wears full armor and swings an enormous greatsword, and over all of it he wears a pink apron. He is a stay-at-home husband raising seven children, and he came to the Void to fight his own wife, Kairen, in a Deathmatch the show called "Couples Therapy."
 
 ## Story

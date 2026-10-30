@@ -11,6 +11,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/105 - S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian|S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian]] · [watch it on YouTube](https://youtu.be/0Ep-xE9gG_o)*
+
 **The Duck Village** is exactly what it sounds like: a sweet little village with a fountain, a bell, rows of fruit and vegetable stands and a great many ducks. It is the kind of place that looks built for a lazy afternoon. And yet it keeps getting turned into a battlefield. The Deathmatches have come back to its courtyard again and again, and its vendors have grown used to it.
 
 ## Description

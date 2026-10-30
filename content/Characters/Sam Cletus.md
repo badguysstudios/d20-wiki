@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/092 - S4E12 — Racoons — Sam Cletus v Ben Zappa|S4E12 — Racoons — Sam Cletus v Ben Zappa]] · [watch it on YouTube](https://youtu.be/SmMFUGbuv1E)*
+
 **Sam Cletus** was a hard-drinking wood elf from the deep woods who came to the Void to win enough prize money to cure his ailing Meemaw. In [[Episodes/Season 4/092 - S4E12 — Racoons — Sam Cletus v Ben Zappa|S4E12 — Racoons — Sam Cletus v Ben Zappa]] he fought [[Ben Zappa]], a monk haunted by a cymbal-banging ghost monkey. Before it was over, Sam had tried to seduce aliens, weaponized a raccoon named Dolores, fused with her inside [[The Box of Chaos]], had the fusion flipped so he grew a raccoon penis, had that penis beaten flat and wished into a raccoon vagina, and emerged as **Samantha Cletus**. Few champions have changed so much in a single night, and fewer have done it while this drunk.
 
 ## Story

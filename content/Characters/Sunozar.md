@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/012 - S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter|S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter]] · [watch it on YouTube](https://youtu.be/t0AoL4fBrVE)*
+
 **Sunozar** is a seven-foot-tall half-orc blood hunter with heavy plate armor, a greatsword that growls, and a pink mohawk you must never, ever mention. The [[The Arbiter|Arbiter]] found him at a Ruby Tuesday in Omaha. [[Grandmaster Elusia Skypiercer|The Grandmaster]] named him her chosen champion, and he went on to decapitate [[The Shadow of the Arbiter]], a piece of the Arbiter himself. He describes himself simply: "I just like kill things."
 
 ## Story

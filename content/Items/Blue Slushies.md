@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]] · [watch it on YouTube](https://youtu.be/4LNVK_cQlb8)*
+
 **Blue slushies** are the drink of bloodshed. Wherever the floating grandstands appear, [[The Acolytes|the Acolytes]] are holding them, spilling them, hurling them at each other and pouring them over their own faces, usually while ripping off their shirts. They began as stadium snacks sold alongside hot dogs. By the Season of Vigilance they had become something closer to a currency of favor: a champion drenched in enough blue slushie fights like someone with a whole crowd at their back.
 
 ## Description

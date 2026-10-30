@@ -20,6 +20,8 @@ youtube: https://youtu.be/iPwIBIuN85k
 canon_order: 44
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/iPwIBIuN85k" title="Watch Coriander Society — Fate of the Faithful Part 5 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/iPwIBIuN85k)
 
 The finale of the Coriander Society crossover sends [[John Carmichael]], [[Asena]] and the werebear warrior [[Lyrus]] into a burning keep in [[The Shadowlands]] for one last showdown with their old nemesis [[Ralzamon]]. There are giant mechs, a candle-headed adjudicator, a flower slime with main-character energy, and a cookie that cures being small. Under the explosions sits a quiet, strange ending: a broken man asking to be allowed to fall, and something ancient in the dark below him, waking up.

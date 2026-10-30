@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]] · [watch it on YouTube](https://youtu.be/5isJ1FM-NtE)*
+
 **Rosa** is a two-and-a-half-foot halfling with long pink hair, a fluorescent bee costume and exactly one plan for the arena: bees. Pulled into the Void to fight [[Veronica]] in a desert market city, she danced, lassoed, stung and optimisted her way through one of the strangest Deathmatches on record. She walked out alive, with a new job and a stubborn faith that her horse was a bee.
 
 ## Story

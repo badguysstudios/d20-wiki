@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]] · [watch it on YouTube](https://youtu.be/ovggvygtAQ8)*
+
 **Kleen** is a warlock who serves the genie he calls Mr. Kleen and was pulled into the Void to fight [[Ivanna Kishu]] in [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]]. He was a self-described glass cannon who fought from as far away as the arena allowed. He won the match and the title "Master Kleen." Then he turned his victory lap into a literal shitstorm.
 
 ## Story

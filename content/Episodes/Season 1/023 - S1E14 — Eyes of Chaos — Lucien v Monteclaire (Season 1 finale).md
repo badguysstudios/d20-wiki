@@ -18,6 +18,8 @@ youtube: https://youtu.be/_d7lIknz0n4
 canon_order: 23
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/_d7lIknz0n4" title="Watch S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/_d7lIknz0n4)
 
 For the Season 1 finale, [[Grandmaster Elusia Skypiercer|the Grandmaster]] skipped the far-off realms and held the fight at home, in [[The Grand Coliseum]] of [[The Dread Fortress]] under the night sky. The silver-tongued half-orc bard **[[Lucien Brack]]** faced the ninety-three-year-old disgraced lord **[[Monteclaire Dufresne]]** in a duel full of balloon swords, sentient pebbles and one very unwelcome song. Then the western wall exploded, a Tarrasque came through it, and the Deathmatch became a war for the Fortress itself. It ended with a turkey dragon, a promise to rebuild, and [[The Arbiter]] in the jaws of a monster.

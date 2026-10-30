@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]] · [watch it on YouTube](https://youtu.be/tov4yw1rGHg)*
+
 **Tetra Kincaid** is a white-furred tabaxi monk the Arbiter found in "the parking lot outside of Disney" and pulled into the Void to fight [[Viago]] in the belly of a living ship. She charmed the Grandmaster within seconds, opened the fight by shredding a dire wolf with glowing astral arms, and rode a run of impossible luck deep into the match. Then a single kick to the back ended it, and the Arbiter fed what was left of her to his pet.
 
 ## Story

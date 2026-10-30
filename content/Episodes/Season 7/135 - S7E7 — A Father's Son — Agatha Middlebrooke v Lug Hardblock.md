@@ -18,6 +18,8 @@ youtube: https://youtu.be/CUgf0VcgMXo
 canon_order: 135
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/CUgf0VcgMXo" title="Watch S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/CUgf0VcgMXo)
 
 A toffee-dispensing grandma and a giant, spoiled barbarian with flames drawn on his space helmet were dropped onto a tiny orange asteroid in [[The Ether Drifts|the Ether Drifts]] to fight to the death. What followed was half Deathmatch and half family therapy. There were illusory dads, a killer cat, a vengeful raccoon and sixty crushed worms. Then came a twist so strange that [[Grandmaster Elusia Skypiercer|the Grandmaster]] compared it to a Greek tragedy, and she ended the night crowning **[[Agatha Middlebrooke]]** and **[[Lug Hardblock]]** together.

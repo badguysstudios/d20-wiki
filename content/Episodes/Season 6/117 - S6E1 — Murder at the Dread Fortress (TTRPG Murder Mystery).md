@@ -20,6 +20,8 @@ youtube: https://youtu.be/mDcPeEimpZI
 canon_order: 117
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/mDcPeEimpZI" title="Watch S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/mDcPeEimpZI)
 
 The Season of the Trials opened with no arena and a black-tie dinner instead. Three guests came to a grand feast at [[The Dread Fortress]]: [[Cornelius Antonio C.A. Bunga|C.A. Bunga]], a dapper slice of buttered toast; [[Richard S. Skelman]], a skeleton and dungeon designer; and [[Iris]], a recently dead bride who keeps losing body parts. Before dessert, [[Thea]], the [[The Arbiter|Arbiter]]'s assistant of about half an hour, was found face down in the gravy. The whodunit that followed involved a striking chinchilla union, a fake truth amulet and a "doctor" from medical school. It ended with a rocket launcher.

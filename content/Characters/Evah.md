@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/079 - S4E2 — Under the Bottom — Richardo v Evah|S4E2 — Under the Bottom — Richardo v Evah]] · [watch it on YouTube](https://youtu.be/nOz9MpQHR7g)*
+
 **Evah** was a large barbarian champion who let her actions do the talking. In the days when [[The Shadow King]] had seized [[The Dread Fortress]], she won her only Deathmatch by skewering [[Richardo]] on her glaive. She then sneered at "cheap tricks" and "little magic boxes," and the Shadow King killed her on the spot.
 
 ## Story

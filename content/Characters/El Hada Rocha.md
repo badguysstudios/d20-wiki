@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]] · [watch it on YouTube](https://youtu.be/9--56_zS09I)*
+
 **El Hada Rocha** is a fairy luchador from [[The Feywild]], "the champion of the peacock spirit" and servant of the Peacock God, played by DeadAussieGamer. He arrived in a skin-tight spandex suit and a feathered luchador mask, promising "all manner of feathery doom." He spent the next two hours being punched, trampled, slapped by grandmothers and electrocuted. His fight against [[Cosmonius]] in [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]] ended as a Deathmatch with no winner: both champions died on the same final exchange.
 
 ## Story

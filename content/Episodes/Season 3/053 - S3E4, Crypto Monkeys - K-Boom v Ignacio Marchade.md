@@ -18,6 +18,8 @@ youtube: https://youtu.be/rKTmpacPlUo
 canon_order: 53
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/rKTmpacPlUo" title="Watch S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/rKTmpacPlUo)
 
 A gnome artificer selling his own cryptocurrency and a red-eyed barbarian with a winged monkey were pulled into [[The Void]] to fight at a lonely, freezing lake. **[[K-Boom]]** and **[[Ignacio Marchade]]** spent the match trading insults, javelins and fireballs. Along the way they fell into something like love, and in the end K-Boom cradled his dying rival in his arms. The lake's own monster had the final word: it dragged both bodies into the deep. It was the night the Grandmaster called "the variety pack."

@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]] · [watch it on YouTube](https://youtu.be/PwtNfOqk9dw)*
+
 **Robbie Clark** is a sunny, gee-whiz kid adventurer who fights crime alongside his best friend, [[The Hunger|the Hunger]]. The Hunger is a many-mouthed eldritch horror that lives in his backpack and is wired into his spine. Together they are out "stopping evil doers… and eventually assimilating all biological life into one unified, wonderful flesh sack." The pairing of a boy who barely understands object permanence with a monster that speaks for the infinite made [[Robbie Clark and the Hunger]] a fan favorite. Their story turned out to be one of the stranger and more touching runs in the arena.
 
 ## Story

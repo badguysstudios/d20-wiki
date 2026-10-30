@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)]] · [watch it on YouTube](https://youtu.be/fCjXSOkuTTg)*
+
 **Brunhilda Doogle** is a yuan-ti ranger with coral-snake scales, a cherished longbow and a deep, personal grudge against oil that pollutes Mother Nature. In [[Episodes/Playtests/006 - Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)|Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test)]], she faced the robot gunslinger [[White Hat H03]] across a craggy cliff. The fight ran through floods, rockslides, lightning and a very short-lived snake friendship. It ended with the two champions killing each other within moments.
 
 ## Story

@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]] · [watch it on YouTube](https://youtu.be/R3tgq6Mj5mY)*
+
 **The Isolated Keep** is [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s "little secret," an arena tucked away from time and space and ringed with bleachers for her Acolytes. It hosted the pre-launch clash between [[Mudcat Mahomes]] and [[Thunk]], and it did something remarkable there: it pulled champions out of their own pasts. Its four portals promise boons and bonuses to the lucky, and something worse to everyone else.
 
 ## Description

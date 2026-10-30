@@ -18,6 +18,8 @@ youtube: https://youtu.be/AAkj67ze3aQ
 canon_order: 39
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/AAkj67ze3aQ" title="Watch S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/AAkj67ze3aQ)
 
 A party-loving rabbit on holiday met a fairy scholar who had learned to fight from a book, and the Grandmaster set them loose in a brewery she had forgotten she owned. **[[Broose Scorchtail]]** just wanted to take his opponent out for a drink. **[[Dewdrop Grizzlebee]]** wanted to prove that people of science can throw down. What followed was a fight of honey, salt water, collapsing hairlines and a staggering run of terrible luck, and it ended with both [[Champions|champions]] in over their heads in beer.

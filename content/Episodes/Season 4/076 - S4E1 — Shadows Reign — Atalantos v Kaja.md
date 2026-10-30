@@ -18,6 +18,8 @@ youtube: https://youtu.be/F3quJx-d_f4
 canon_order: 76
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/F3quJx-d_f4" title="Watch S4E1 — Shadows Reign — Atalantos v Kaja on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/F3quJx-d_f4)
 
 Season 4 opened on the worst birthday party in the history of [[The Void]]. With [[The Arbiter]] dead and [[Grandmaster Elusia Skypiercer|the Grandmaster]] in chains, [[The Shadow King]] dug up the two heroes who once helped her defeat him: **[[Atalantos]]**, the spear of [[Cor'thun]], and **[[Kaja]]**, the Grandmaster's lost love. He raised them from the dead and set them against each other in his own former home. It was a brutal, elegant duel between old friends, punctuated by goblin tea service, a door that demanded to be knocked on, and a brand-new [[The Box of Chaos|Box of Chaos]] built from a random audience member's soul.

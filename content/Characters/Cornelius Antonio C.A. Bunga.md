@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/117 - S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)|S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)]] · [watch it on YouTube](https://youtu.be/mDcPeEimpZI)*
+
 **Cornelius Antonio Bunga**, "C.A. Bunga, Cowabunga for short," is a slice of buttered sourdough toast with a syrup mustache, a leaf top hat and impeccable manners. He was one of the three champions at the great feast in [[The Dread Fortress]] that opened the Season of the Trials, and it turned into a murder mystery when [[Thea]] was found dead in the gravy. A married gentleman, a dairy businessman and a devoted keeper of his own butter, Bunga spent the evening fending off people who wanted to eat him. Along the way he turned up a key clue that pointed to the real killer.
 
 ## Story

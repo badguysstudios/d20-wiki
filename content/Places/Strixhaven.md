@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]] · [watch it on YouTube](https://youtu.be/KJJjccmQnNg)*
+
 **Strixhaven** is a great university of magic somewhere out among the worlds the [[Grandmaster Elusia Skypiercer|Grandmaster]] pulls her champions from. No Deathmatch has ever been fought on its grounds, but it keeps turning up in the champions' stories. For one pair of champions it was the place their love story went wrong. For others it is a handy measuring stick: if you are good at magic, you say how you rank against Strixhaven.
 
 ## Description

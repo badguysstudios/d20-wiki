@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]] · [watch it on YouTube](https://youtu.be/SgFsqyQFIzQ)*
+
 The **Floating Grandstands** are where [[The Acolytes]] watch the Deathmatches. They hover above whatever battlefield the arena has become that week: a generator, an asteroid, a tavern whose ceiling has turned transparent. The crowd in them is enormous, rowdy and rarely sober. Whatever happens on the field, the grandstands can be counted on to answer with noise, popcorn and violence of their own.
 
 ## Description

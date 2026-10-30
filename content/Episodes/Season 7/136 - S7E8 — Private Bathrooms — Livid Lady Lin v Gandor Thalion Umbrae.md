@@ -18,6 +18,8 @@ youtube: https://youtu.be/QVBk4kwR-qI
 canon_order: 136
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/QVBk4kwR-qI" title="Watch S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/QVBk4kwR-qI)
 
 Two old rivals, the absurdly buff battle-wizard **[[Livid Lady Lin]]** (played by Emily Graymoor) and the orb-obsessed, three-named **[[Gandor Thalion Umbrae]]** (played by Patrick Perini), were pulled into the Void to settle who would get the lease on a hundred-floor wizard's tower. The match began in the Grandmaster's private bathroom, moved to a frozen mountaintop, and featured a weaponized can of baked beans, a unionized chinchilla avalanche and a summoned mother in curlers. It ended with a lightning bolt bounced back onto the wizard who tried to counter it, and one final, very petty murder. The Grandmaster called it "the strangest wizard versus wizard duel I have ever seen."

@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **The Blastlands** are the kind of place where simply surviving the landing counts as an achievement. The party of the Pieces of a King saga learned this at the war council: they had landed in the Blastlands, lived, and were told how lucky they were. Beyond the wastes rises a large mountain range where the alliance says most of its troubles come from, and somewhere in those mountains sits [[The Warmind]].
 
 ## Description

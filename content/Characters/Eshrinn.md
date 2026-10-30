@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/010 - S1 Ep1 — Ditch Em' Darrell v Eshrinn|S1 Ep1 — Ditch Em' Darrell v Eshrinn]] · [watch it on YouTube](https://youtu.be/kHbOuDPSSaA)*
+
 **Eshrinn** is a cobra-hooded snake-woman and self-proclaimed "master of spells and poisons." She fought in the very first Deathmatch ever staged for [[Grandmaster Elusia Skypiercer|the Grandmaster]]. She tried to win by making friends with her opponent, [[Ditch Em' Darrell]], and then used that friendship against him. It nearly worked. She died in a pile of gold at the end of the fight, but [[The Arbiter|the Arbiter]] quietly sank her body through the gold into his secret lair and revived her, telling her he had "a plan for you."
 
 ## Story

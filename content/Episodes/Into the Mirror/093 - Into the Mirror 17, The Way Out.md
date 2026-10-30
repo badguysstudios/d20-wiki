@@ -22,6 +22,8 @@ youtube: https://youtu.be/ha_N5uqx6AM
 canon_order: 93
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ha_N5uqx6AM" title="Watch Into the Mirror 17, The Way Out on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ha_N5uqx6AM)
 
 The search for a way out of [[The Sands of Eternity]] took **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]**, with Vythorn, [[The Arbiter|the Arbiter]], in tow, from a lost skirmish in the dunes to a town built inside the remnants of a vast soul and on to a ringed machine in a sea of lava. It was not a Deathmatch, but it had plenty of near-deaths, a shop full of magical junk and a fire giant cut in half. It also had a betrayal. The way out worked, but only for one.

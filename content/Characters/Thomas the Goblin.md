@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/061 - S3E14 — Magic Duel — Talbot Cage v Seth Kaiser|S3E14 — Magic Duel — Talbot Cage v Seth Kaiser]] · [watch it on YouTube](https://youtu.be/fU8cs88zRJw)*
+
 **Thomas the Goblin** is one of the small, unsung workers who keep the Deathmatches running. He is the goblin who quietly binned the Arbiter's party invitation, and later the trainee healer who was trusted with a job he wasn't certified to do. He is known mostly from what others say about him, but every story about him makes the Void a little stranger and a little funnier.
 
 ## Story

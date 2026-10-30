@@ -18,6 +18,8 @@ youtube: https://youtu.be/ldt8ZSVPtDA
 canon_order: 91
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ldt8ZSVPtDA" title="Watch S4E11 — Beatdown — Sprinkles v Nigel on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ldt8ZSVPtDA)
 
 A gentle halfling waiter who wanted to win with the power of friendship faced a changeling method actor who wanted to win an Oscar. **[[Sprinkles]]** and **[[Nigel Night Louis]]** met in a dead, glowing forest. What followed involved zombie grandmothers, a face fed to [[The Box of Chaos]] and a nine-headed demon of hatred charmed by the Footloose dance. In the end the battle moved inside Nigel's own body, and nobody walked out.

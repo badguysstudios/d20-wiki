@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]] · [watch it on YouTube](https://youtu.be/oihEfPouzfs)*
+
 **Blaktoof**, son of Blakteef and self-proclaimed champion of the War of a Thousand Toofs, strode into the Void demanding fame, glory and riches. He drank anything handed to him, twirled his crossbow like a cowboy, and could not keep a secret to save his life. He was also not Blaktoof. Halfway through his Deathmatch against [[Zorhel]], a thunderous halberd blow landed, and three shrieking [[Goblins|goblins]] tumbled out as his clothes fell to the floor.
 
 ## Story

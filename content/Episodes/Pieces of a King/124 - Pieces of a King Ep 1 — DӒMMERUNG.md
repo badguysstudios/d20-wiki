@@ -20,6 +20,8 @@ youtube: https://youtu.be/G2Gln_aH8n8
 canon_order: 124
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/G2Gln_aH8n8" title="Watch Pieces of a King Ep 1 — DӒMMERUNG on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/G2Gln_aH8n8)
 
 With [[Grandmaster Elusia Skypiercer|the Grandmaster]] and [[The Arbiter|the Arbiter]] called away, three Knights of the Void were sent from [[The Dread Fortress|the Dread Fortress]] to chase a rumor of an old enemy stirring at the edge of [[The Void|the Void]]. The squad was a werebear who takes orders from lightning, a masked sand mystic, and a two-foot fennec fox whose paintbrush cuts like a sword. The first chapter of Pieces of a King opened with brotherly bickering and a mustache on the Grandmaster's portrait. It ended with a construct patrol melted, sandblasted and buried before anyone had technically entered combat.

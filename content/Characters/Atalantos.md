@@ -24,6 +24,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Atalantos** was a former pit gladiator who rose to general of [[Cor'thun]]. He was a spear-and-shield soldier who bled for his allies and longed, above everything else, for a glorious warrior's death. He fought beside Elusia and [[Kaja]] to end the reign of [[The Shadow King]], and he held the tyrant still with his own body so the killing arrow could land. He was knighted as one of the new [[Knights of Chaos]] and helped set the standard for the very first Deathmatch. Long after his death, the Shadow King dragged his bones out of a sarcophagus to fight one more time, and he got the death he had always wanted.
 
 ## Story

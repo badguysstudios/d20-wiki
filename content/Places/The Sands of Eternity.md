@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1]] · [watch it on YouTube](https://youtu.be/cbN7tMUzhGo)*
+
 **The Sands of Eternity** is a realm of the dead unlike any other. It is a desert of cold blue sand under a sky that never moves, cut off from the living for some two thousand years. Only the souls it has claimed find their way there. A small party of the lost crossed it in search of a way home, and a familiar scholar was among them: [[The Arbiter|Vythorn]], who recognized the place with something close to delight. It is a place where the dead go on, more or less. If they die again, there is nothing after it.
 
 ## Description

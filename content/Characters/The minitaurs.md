@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]] · [watch it on YouTube](https://youtu.be/-ouOCDcSlQA)*
+
 **The minitaurs** are miniature minotaurs, a few inches tall, that burst out of the ground whenever [[Grandmaster Elusia Skypiercer|the Grandmaster]] decides a Deathmatch needs more tiny horns in it. They are fierce, armed and completely outmatched. Champions have blown them off cliffs, greased them and had their toes massaged by them, and the second horde ended the night living in the stands. They are one of the Grandmaster's own chaos events, and she is a little touchy about them.
 
 ## Story

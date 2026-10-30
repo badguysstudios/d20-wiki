@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/129 - S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage|S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage]] · [watch it on YouTube](https://youtu.be/Agj0QVseSJw)*
+
 **DeeDrah** was the first champion to introduce herself in the Season of Vigilance. She was a sword-and-sickle warlock with one name ("Just like Cher"), wings of her own and a strict rule about her hair. The [[Grandmaster Elusia Skypiercer|Grandmaster]] bet on her before her opponent had even introduced himself. DeeDrah gave the Gazpacho Man, [[Andy Gammage]], a long and bloody fight, but she died on the ramparts of a moonlit castle with his soup ladle through her eye.
 
 ## Story

@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]] · [watch it on YouTube](https://youtu.be/TQgN6CRqAcU)*
+
 **Lumos the Spark** is a high elf champion who arrived in the Void with a grudge, a deep love of corgis and very little else on her mind. She was pulled into the arena to face [[Ferndell Ironwind]], her rival from another dimension, in [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]]. She fought with radiant light and fire, and she fell to a phantom of her opponent's own mother. She was back on her feet in time for Dried Blood, where it turned out her will had already been sorted.
 
 ## Story

@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/050 - S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind|S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind]] · [watch it on YouTube](https://youtu.be/TQgN6CRqAcU)*
+
 **Ferndell Ironwind** is a dwarf wizard and bounty hunter from the office dimension. His one dream is to become the highest-earning bounty hunter there. He was pulled into the Void to face [[Lumos the Spark]] in the opening fight of Season 3, and he walked away the winner. Along the way he made history with [[The Box of Chaos|Gerald]], stole Lumos's yogurts, and conjured a very unsettling version of his own mother.
 
 ## Story

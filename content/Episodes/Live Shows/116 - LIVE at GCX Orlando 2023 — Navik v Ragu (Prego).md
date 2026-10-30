@@ -18,6 +18,8 @@ youtube: https://youtu.be/vOATJ98xPYY
 canon_order: 116
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/vOATJ98xPYY" title="Watch LIVE at GCX Orlando 2023 — Navik v Ragu (Prego) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/vOATJ98xPYY)
 
 **Navik**, the self-proclaimed Lord of the Undead, faced the filthy, squatting, chicken-hungry **Ragu** in a live Deathmatch at GCX Orlando 2023. The Acolytes in the room were the battlefield. Navik raised them as undead minions, and Ragu leaned on them as "friends," a word that soured badly over the course of the night. Along the way Ragu pooped out the Box of Chaos, a child was booped to death, and Ragu evolved into Prego before a hailstorm of frozen wombat poop finished him.

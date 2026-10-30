@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/084 - S4E6 — The Hunt — Witch Hunter v Grickle|S4E6 — The Hunt — Witch Hunter v Grickle]] · [watch it on YouTube](https://youtu.be/ExL4R8zGMUc)*
+
 **Witch Hunter**, born Ricardo, was a centaur paladin who came to the arena to kill a bug and ended up falling for him. He handed out pamphlets for his god, bloomed marigolds whenever he saw someone attractive, and was allergic to the red dye in healing potions. His Deathmatch against [[Grickle]] on [[The Frozen Lake]] began as a farce and ended as one of the strangest, saddest love stories the arena has seen.
 
 ## Story

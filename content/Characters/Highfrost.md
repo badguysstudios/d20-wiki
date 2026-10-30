@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]] · [watch it on YouTube](https://youtu.be/MasLLQBr8L4)*
+
 **Highfrost** was a warlock "from the north" with a kilt, a thick northern brogue and no shame whatsoever. He was a champion in [[Episodes/Season 1/022 - S1E13 — Snow-clad — Highfrost v Bryltyn|S1E13 — Snow-clad — Highfrost v Bryltyn]], where the arena turned out to be the snowbound fishing village his family once called home. He lost the fight. He also flashed his opponent more than once, liberated a family of ducks, and produced some of the most memorable dialogue the Void had heard.
 
 ## Story

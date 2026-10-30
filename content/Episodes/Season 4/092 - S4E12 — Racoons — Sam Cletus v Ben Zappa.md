@@ -18,6 +18,8 @@ youtube: https://youtu.be/SmMFUGbuv1E
 canon_order: 92
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SmMFUGbuv1E" title="Watch S4E12 — Racoons — Sam Cletus v Ben Zappa on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/SmMFUGbuv1E)
 
 A whiskey-soaked wood elf fighting to save his Meemaw met a sleep-deprived monk haunted by a giant ghostly cymbal monkey, deep beneath [[The Dread Fortress]]. What followed included an alien abduction, a raccoon named Dolores, a case of rabies, two trips through the [[The Box of Chaos|Box of Chaos]] that rearranged one champion's anatomy twice, and a rude knockoff genie. By the end, **[[Sam Cletus]]** had become Samantha Cletus, the Jolly Chimp had a broken hand, and **[[Ben Zappa]]** was locked in a box with his monkey.

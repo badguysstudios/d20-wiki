@@ -18,6 +18,8 @@ youtube: https://youtu.be/9--56_zS09I
 canon_order: 20
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/9--56_zS09I" title="Watch S1E11 — Gift Horse — Cosmonius v El Hada Rocha on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/9--56_zS09I)
 
 Two of the most gorgeous [[Champions|champions]] ever to enter the arena met in the humming heart of [[The Dread Fortress]]: **[[Cosmonius]]**, a Fabio-haired centaur monk played by RobertHartleyGM, and **[[El Hada Rocha]]**, a winged fairy luchador played by DeadAussieGamer. The night began with an argument about hair. Along the way it took in a field of hurled grandmothers, a flaming coconut crab, a beheaded donkey piñata and a room full of live electricity. It ended in a **double knockout**, with both champions falling on the same exchange.

@@ -20,6 +20,8 @@ youtube: https://youtu.be/uLSXxlVHPHs
 canon_order: 126
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/uLSXxlVHPHs" title="Watch Pieces of a King Ep 3 — The Warhead on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/uLSXxlVHPHs)
 
 On the war-torn world of [[Dämmerung]], [[Grimnar Stormclaw|Grimnar]], [[Nehebka]] and [[Muffy]] wake up in an army barracks and end the day in a firefight over a dead angel. In between they sit through a tense war council with the leaders of an alliance fighting [[The Warmind]], a weapon built to save [[The Underdark]] that turned on everyone. They also learn that the plan to stop it hinges on a bomb someone has to carry by hand. It has a mustache portrait, a salute invented on the spot, a confession from Nehebka that rattles the room, and a copycat fireball that only earns a six out of ten.

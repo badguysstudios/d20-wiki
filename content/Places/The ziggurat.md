@@ -14,6 +14,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/071 - Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)|Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2)]] · [watch it on YouTube](https://youtu.be/T5LwxsIOyrU)*
+
 **The ziggurat** is a vast stepped pyramid topped with a gem of glass or mirror that throws a beacon of light straight into the sky. [[Elianna]] first saw it in a vision of hope, though [[Flynry]] had spent years wandering the desert without finding a single structure. When the pair finally reached it with [[Cerys]]' help, it stood at the center of a teeming city that was not what they expected.
 
 ## Description

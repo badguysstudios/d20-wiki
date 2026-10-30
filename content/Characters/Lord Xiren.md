@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]] · [watch it on YouTube](https://youtu.be/jR2qzQsXBg0)*
+
 **Lord Xiren** was a winged Aasimar sorcerer who stepped out of the Arbiter's portal believing he had been hired to entertain. Nobody had told him a Deathmatch might end with him dead, and he took the news with startling good grace. He spent the match befriending a pug, a mummy and a haunted doll, and finished it by setting off a fireball at his own feet. He is remembered most for what happened afterward: he survived the fight and lost his body in the bargain, fused forever with his opponent [[Grorx]].
 
 ## Story

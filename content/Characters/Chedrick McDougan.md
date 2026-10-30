@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|S3E7 — Severed Limbs — Cress v Chedrick McDougan]] · [watch it on YouTube](https://youtu.be/XakIcN-CPig)*
+
 **Chedrick McDougan** is a swaggering, double-blade-swinging champion who sounds like a college football coach and greets everyone as a peasant. He arrived with one goal, to take his opponent's shoes, and settled for taking her feet. His bout with [[Cress]] became one of the Void's great limb-swapping farces. He won it with a spinning penguin and then threw a water bottle at the Grandmaster's face, which is why she left him behind in [[The Shadowlands]].
 
 ## Story

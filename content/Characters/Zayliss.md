@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **Zayliss** was a monk champion with a staff and a set of glowing green spectral arms. [[The Arbiter]] found her outside the Witchlight Carnival and brought her to fight [[Strako]], the Wild Shadow. She treated a fight to the death the way some people treat a pickup game, with parkour, rude gestures and repeated assurances that she thought her opponent was "really cool." She lost to two brutal axe swings on a shattered asteroid. Her story did not quite end there, because the Arbiter quietly brought her back for purposes of his own.
 
 ## Story

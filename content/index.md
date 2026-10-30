@@ -1,15 +1,24 @@
 ---
 title: The Black Tome
+description: The Black Tome is the wiki for D20 Deathmatch, the live D&D show where player characters fight to the death. Every episode, champion, place and item, plus the full story.
 ---
 
 <img src="static/hero.png" alt="D20 Deathmatch" class="hero-logo">
 
-Welcome, Acolyte. You have opened **the Black Tome**, the record of everything that has happened in **D20 Deathmatch**, the live D&D arena show from Bad Guys Studios, hosted by Mudcat (the Arbiter) and Caustic Phoenix (Grandmaster Elusia Skypiercer).
+Welcome, Acolyte. You have opened **the Black Tome**, the record of everything that has happened in **D20 Deathmatch**, the live D&D arena show from Bad Guys Studios, hosted by Mudcat (the Arbiter) and Caustic Phoenix (Grandmaster Elusia Skypiercer). New here? Read [[What is D20 Deathmatch|What is D20 Deathmatch?]]
 
 > Far beyond the comforts of home lies a dark void outside of all space and time. If you're lucky, the Dread Fortress will call to you. Heroes, villains, monsters and beasts of all shapes and sizes are ripped from time and their plane of existence to fight for survival in her arena. You, Acolyte, are called to bear witness to D20 Deathmatch.
 
+## Watch live, 24/7
+Reruns of every D20 Deathmatch, all day, every day. Come say hi in chat.
+
+<div class="video-embed live"><iframe src="https://player.twitch.tv/?channel=d20deathmatch&parent=badguysstudios.github.io&muted=true&autoplay=true" title="D20 Deathmatch live on Twitch" allowfullscreen></iframe></div>
+
+<small>Starts muted. Click the player for sound, or open it on [Twitch](https://twitch.tv/D20Deathmatch) to chat.</small>
+
 ## Start here
-- The Story So Far: the whole main story in one read, if you're new or catching up
+- [[What is D20 Deathmatch|What is D20 Deathmatch?]]: the show in one minute
+- [[The Story So Far]]: the whole main story in one read, if you're new or catching up
 - [[The Void]]: the setting
 - [[The Dread Fortress]]: the Grandmaster's home and the heart of the Void
 - [[Grandmaster Elusia Skypiercer]] and [[The Arbiter]]: your hosts
@@ -33,6 +42,18 @@ Read the whole saga in order:
 
 ## Episodes
 Browse every episode by season in the **Episodes** folder in the sidebar. Each page tells the story of the match, then lists who appears, with the full round-by-round log tucked away underneath.
+
+## Follow D20 Deathmatch
+<ul class="socials">
+<li><a href="https://twitch.tv/D20Deathmatch">Twitch</a></li>
+<li><a href="https://www.youtube.com/@D20Deathmatch">YouTube</a></li>
+<li><a href="https://www.tiktok.com/@d20deathmatch">TikTok</a></li>
+<li><a href="https://www.instagram.com/d20deathmatch">Instagram</a></li>
+<li><a href="https://www.threads.net/@d20deathmatch">Threads</a></li>
+<li><a href="https://bsky.app/profile/d20deathmatch.com">Bluesky</a></li>
+<li><a href="https://x.com/D20Deathmatch">X (Twitter)</a></li>
+<li><a href="https://www.facebook.com/D20Deathmatch">Facebook</a></li>
+</ul>
 
 ---
 *This wiki covers what has aired. It is updated as new episodes come out.*

@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Perry** is a little bitty rabbit with ears longer than he is tall, a giant glowing wizard's hat and a shovel he treats with more dignity than most champions treat their own lives. He was pulled into the Void for the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)]], a gauntlet race that ended in a fight to the death. Perry was the first champion to crack the alchemist's riddle. He also won a desperate shoving match over [[The Box of Chaos|the Box of Chaos]], and with his very last swing he took his rival [[Beans the Terrible]] into the dark with him.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/LAPG4OOUWfc
 canon_order: 104
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/LAPG4OOUWfc" title="Watch S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/LAPG4OOUWfc)
 
 With protesters chanting outside [[The Dread Fortress|the Dread Fortress]] and [[The Arbiter|the Lord of Fate]] too busy brooding at a window to remember it was Deathmatch day, [[Thea]] took matters into her own tiny hands. She kidnapped two champions and rented a cut-price wedding venue for the fight. On top of [[The Crimson Keep|the Crimson Keep]], **[[King Bofus|King "Man Frog" Bofus]]**, a British frog king who fights by pulling frogs out from under his mask, faced **[[Richard Knottley]]**, a banned-from-Denny's Peloton instructor in a tinfoil hat. The result was a war of insults, fake mustaches and orifices, and it ended with nobody left standing.

@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]] · [watch it on YouTube](https://youtu.be/_d7lIknz0n4)*
+
 **Lucien Brack** is a towering half-orc bard with a swimmer's build, a stiff pompadour and an obsession with his own "branding." He was pulled into the Void for the Season 1 finale, where he faced [[Monteclaire Dufresne]] in a match that brought out his showmanship and, surprisingly, his kind streak. He is a self-proclaimed master of words with a sword, a shield and a couple of encouraging phrases stitched inside his clothes.
 
 ## Story

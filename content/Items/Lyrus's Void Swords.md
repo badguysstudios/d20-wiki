@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]] · [watch it on YouTube](https://youtu.be/H5cix5wMKEY)*
+
 **Lyrus's Void Swords** are the blades Lyrus carried through the Fate of the Arbiter saga. Their story is short and grim. They are tied to a set of severed hands that shriveled to nothing, and by the time the party reached the Hall of Fates, one of the swords had lost its edge.
 
 ## Description

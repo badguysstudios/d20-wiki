@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]] · [watch it on YouTube](https://youtu.be/QVBk4kwR-qI)*
+
 **Gandor Thalion Umbrae** was a pipe-smoking, orb-pondering transmutation wizard who insisted on all three of his names, every single time. He fought his long-time rival [[Livid Lady Lin]] in [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]. The prize was the lease on a hundred-floor wizard's tower with many pools for pondering. Along the way he turned into a portly cartoon dragon, burned his own mother to death, and was finally blasted into glittering pipe dust when he tried to counter Lin's lightning bolt and lost, and the bolt rebounded onto him.
 
 ## Story

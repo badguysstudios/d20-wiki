@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic — S1 Ep2 — Mageic v Amren]] · [watch it on YouTube](https://youtu.be/Xp2sSpXWTLM)*
+
 **Amren Scorsia** is a fire genasi from the elemental plane of fire who fought the self-styled magician [[Mageic]] in [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic — S1 Ep2 — Mageic v Amren]], played by Miss_Magitek. She was polite to [[Grandmaster Elusia Skypiercer|the Grandmaster]] and openly disgusted by her opponent. Over the bout she survived a cursed doll, a hailstorm of hot dogs and a cathedral explosion. Then the arena itself turned to lava and swallowed her. Her story didn't end there: [[The Arbiter|the Arbiter]] knelt over her cooling body and offered her a second life.
 
 ## Story

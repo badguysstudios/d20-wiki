@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/082 - S4E4 — Death Dealers — The Scourge v Bone Daddy|S4E4 — Death Dealers — The Scourge v Bone Daddy]] · [watch it on YouTube](https://youtu.be/_GrpNwQGDro)*
+
 **Darcy** is a skeleton with a few strands of blonde hair, one green eye and, despite having no lips, the faint sense of a small smile. She is the beloved companion of [[Bone Daddy]], who calls her "my true love." She is also his greatest weapon: her ribs open to take him inside, and she becomes a towering bone mech around him. She has fought at his side in every one of his Deathmatches and was there at his end each time. Her story is one of the show's oddest and most sincere tragedies.
 
 ## Story

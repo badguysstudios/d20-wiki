@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]] · [watch it on YouTube](https://youtu.be/tqQP-YlaRk4)*
+
 **Luci** is a satyr paladin, played by mendarii. She entered the Void as the "Great Mistress" of [[Floyd of the Pink]] in the [[Grandmaster Elusia Skypiercer|Grandmaster's]] handmade treasure-hunt arena. She barely said a word, looked down her nose at everyone, and still landed the killing blow. She sacrificed her partner's dearest possession to a riddle and smote a bird to death with a maul, and she walked away alive.
 
 ## Story

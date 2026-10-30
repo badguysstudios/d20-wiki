@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/054 - S3E5, Edge Lords - Captain Fable v Verryn Ruth|S3E5, Edge Lords - Captain Fable v Verryn Ruth]] · [watch it on YouTube](https://youtu.be/w-6dpSYeNqs)*
+
 **Captain Fable** is an eight-foot minotaur in pirate attire with a deathly necromantic aura. He is a fallen paladin who swore vengeance on every god after they ignored him while his crew was slaughtered. He was pulled into [[The Void]] for one Deathmatch against the tiefling warlock [[Verryn Ruth]], and he won it by taking off Verryn's head. He is also a storyteller with a soft spot for dogs, and he insists he is a bull, not a cow. He has feelings, and he will tell you so.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/w-6dpSYeNqs
 canon_order: 54
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/w-6dpSYeNqs" title="Watch S3E5, Edge Lords - Captain Fable v Verryn Ruth on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/w-6dpSYeNqs)
 
 Two of the moodiest champions ever pulled into [[The Void]] met in a drowned graveyard: **[[Captain Fable]]**, an eight-foot minotaur pirate sworn to kill every god, and **[[Verryn Ruth]]**, a winged tiefling who draws his power from chaos and his patrons. Between the brooding monologues came dead presidents, a heckling pack of children, a nipple ring for [[The Box of Chaos|Gerald]], a codpiece bright enough to blind a shrunken bull, and a swarm of bats. It ended with one head on the ground and one champion sailing off in a brand-new ship.

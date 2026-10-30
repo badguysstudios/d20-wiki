@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/026 - S2E2 — Prize Fight — Asena v Ralzamon|S2E2 — Prize Fight — Asena v Ralzamon]] · [watch it on YouTube](https://youtu.be/ZlPfc2CNJ94)*
+
 **Asena** is a cheerful, forgetful, punch-first adventurer from another world who became the first champion crowned in the second season of D20 Deathmatch. She beat her long-time nemesis [[Ralzamon]] in the kitchen of [[The Dread Fortress]] with spilled milk, spectral dragon wings and a pair of alien snake arms. Later she returned to [[The Void]] on purpose, chasing him across it with her partner [[John Carmichael]]. She fought alongside the resistance against [[The Arbiter]], and in the end she let her nemesis fall into the dark rather than finish him.
 
 ## Story

@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/128 - LIVE at Full Sail Hall of Fame 2024 - Lief Tover v Sheriff Tapatio S. Picante|LIVE at Full Sail Hall of Fame 2024 - Lief Tover v Sheriff Tapatio S. Picante]] · [watch it on YouTube](https://youtu.be/oXvECQhgc4w)*
+
 **Lief Tover**, the self-styled "Trash Man," crawled out of the deepest depths of his garbage dump to settle a score with Sheriff Tapatio S. Picante in a live Deathmatch. Raised by coyotes, tutored by a cockroach and armed with magic he learned in the dump, he lost exchange after exchange and somehow won anyway. His whole strategy, as he explained afterwards, was simply to outlast the lawman, because "trash lasts forever."
 
 ## Story

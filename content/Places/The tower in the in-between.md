@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/095 - S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)|S4E14, Vythorn's Return Part 1]] · [watch it on YouTube](https://youtu.be/KWrBKN495SY)*
+
 **The tower in the in-between** is the home of [[Fil]], the God of Fate. Fil described it in a single line that sounds like either a welcome or a warning: "Here is my home. It is in between all." [[The Arbiter|Vythorn]] came to it while he was alone in the in-between, in [[Episodes/Vythorn's Return/095 - S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)|S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)]]. It is cozy, quiet and strange in all the ways a god's house probably should be.
 
 ## Description

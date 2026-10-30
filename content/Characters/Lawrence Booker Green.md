@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]] · [watch it on YouTube](https://youtu.be/Yp1NY5wF6kM)*
+
 **Lawrence Booker Green** is a wizened old traveler from another universe who tumbled into [[The Void]] alongside the Coriander Society. He is an archivist who studies the multiverse and "regularly invokes powers beyond mortal comprehension," and he spent much of the crossover researching, surrounded by books and maps. He lost his shoes on the way in, his dignity at breakfast, and very nearly his temper while healing a werebear. In return he gave the party something they badly needed: answers about how the Void actually works.
 
 ## Story

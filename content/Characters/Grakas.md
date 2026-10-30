@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/008 - Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)|Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)]] · [watch it on YouTube](https://youtu.be/qtv__Ond6Dw)*
+
 **Grakas** is a half-elf swordsman and warlock with blue hair, a blue beard, an inhaler and a master's degree in computer science. Dropped into a rain-soaked forest to face the hulking [[Bawser]], he spent most of the fight trying to hide and the rest of it accidentally being far tougher than his opponent. He was cowardly but deadly. He lost, survived, and was buried, renamed and reborn with a head of flaming orange hair.
 
 ## Story

@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]] · [watch it on YouTube](https://youtu.be/ha_N5uqx6AM)*
+
 **The heart** is a vast hidden city built inside the hollow shell of an enormous soul gem. The way in is to whisper to the sand and ask it to take you there. It first appeared in [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], when [[Sky]] brought an army down beneath the sand and into the glittering cavern.
 
 ## Description

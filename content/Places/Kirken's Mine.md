@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]] · [watch it on YouTube](https://youtu.be/ovggvygtAQ8)*
+
 **Kirken's Mine** is a frozen, moonlit mine "hidden far up in the north" that [[Grandmaster Elusia Skypiercer|the Grandmaster]] counts among her possessions. It served as the arena for [[Kleen]] and [[Ivanna Kishu]]'s Deathmatch in [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]]. It did not stay an arena for long. Partway through the fight [[The Arbiter|the Arbiter]] got bored and brought the mountaintop's snow down on it.
 
 ## Description

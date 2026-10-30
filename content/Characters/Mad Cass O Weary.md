@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/038 - S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary|S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary]] · [watch it on YouTube](https://youtu.be/-hnnNmRhOFQ)*
+
 **Mad Cass O Weary** was a tiefling monk with glowing yellow eyes, a wide puckish grin and a blood alcohol content that bordered on a superpower. He was pulled into the Void as an emergency replacement and faced [[Professor Stabbz]] in a small, doomed town. Cass turned the match into a whirlwind of a headbutted barrel, eaten glassware and betrayal. He lost, but he went into a black hole laughing with his middle finger raised, and he has reportedly been haunting his opponent's dreams ever since.
 
 ## Story

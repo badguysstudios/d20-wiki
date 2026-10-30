@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]] · [watch it on YouTube](https://youtu.be/CUgf0VcgMXo)*
+
 **Agatha Middlebrooke** is a sweet, bad-kneed old grandmother and a "classic spooky warlock" who was pulled into the Void to fight [[Lug Hardblock]] in [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]]. She showered everyone with butterscotch and compliments while her cat clawed up Lug's face. She died on purpose, came back as a ghost to announce that she was Lug's grandmother, and walked out of the arena a [[Champions|champion]]. Hers is one of the strangest family reunions the Deathmatches have ever hosted.
 
 ## Story

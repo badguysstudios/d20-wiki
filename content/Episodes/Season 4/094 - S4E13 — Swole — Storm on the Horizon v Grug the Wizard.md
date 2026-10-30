@@ -18,6 +18,8 @@ youtube: https://youtu.be/IlZllXZuS78
 canon_order: 94
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IlZllXZuS78" title="Watch S4E13 — Swole — Storm on the Horizon v Grug the Wizard on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/IlZllXZuS78)
 
 A snow leopard monk with knives for feet faced a barbarian who sincerely believed he was the most powerful wizard in [[The Void]]. **[[Storm on the Horizon]]** and **[[Grug the Wizard]]** fought in a peaceful meditation valley that the Grandmaster ordered them to wreck. They argued over familiars, threw spell books like boomerangs and took metal chairs to the head from their hosts, and neither of them survived the night. The episode is remembered for Grug yelling spell names he could not cast, his "buns of holiness," and the Shadow King's cruel last word on the winner.

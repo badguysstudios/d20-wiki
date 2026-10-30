@@ -18,6 +18,8 @@ youtube: https://youtu.be/t0AoL4fBrVE
 canon_order: 12
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/t0AoL4fBrVE" title="Watch S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/t0AoL4fBrVE)
 
 **Blood Mage** is the Deathmatch where [[The Arbiter|the Arbiter]] turned up with only one of the two [[Champions|champions]] he needed, and [[Grandmaster Elusia Skypiercer|the Grandmaster]] made him pay for it. He had to rip a ghostly echo of himself out of his own chest and send it into the arena. [[The Shadow of the Arbiter]] spent his first day of existence fighting [[Sunozar]], a seven-foot-tall half-orc blood hunter with a flaming sword and a pink mohawk. Along the way he had a birthday, plotted treason, and delivered his first insult.

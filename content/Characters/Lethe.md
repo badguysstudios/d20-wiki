@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]] · [watch it on YouTube](https://youtu.be/KJJjccmQnNg)*
+
 **Lethe** is a seven-foot Goliath of the Witchlight Carnival, pulled from their sleep into the Void to fight their ex-partner [[Sorry]] in [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]]. They arrived grim, armed with a huge halberd and a fresh stock of dark magic, determined to prove they were good enough. They left holding Sorry's hand, as one of the rare [[Champions]] to be crowned victor alongside their opponent.
 
 ## Story

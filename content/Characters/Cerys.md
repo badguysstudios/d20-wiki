@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios]] · [watch it on YouTube](https://youtu.be/0lTfjV0ByVs)*
+
 **Cerys** is an Aasimar paladin who has wandered [[The Sands of Eternity]] far longer than any of her companions there. She came from a part of [[The Void]] long ago and was killed, which is how she found herself stranded in the land of the dead. She joined the Into the Mirror party in the worst way imaginable: one of her arrows went astray and killed [[Locket]]. From that grim start she became their guide to the city of [[Mortaurios]], their blood-sworn ally against [[The Arbiter]], and the woman who put a dragon in the snow.
 
 ## Story

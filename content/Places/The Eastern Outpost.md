@@ -14,6 +14,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **The Eastern Outpost** is an old temple-pyramid on the far edge of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s lands, built by some long-forgotten society and later put to work as a military post. For years it was commanded by [[Orin]], and it holds one of the most closely guarded objects in [[The Void]]: [[The Box of Chaos|Gerald]], the Box of Chaos, which is kept there between Deathmatches. It was where the Grandmaster's loyal heroes first set out to rescue [[The Arbiter|the Arbiter]] and learned he had never needed rescuing at all.
 
 ## Description

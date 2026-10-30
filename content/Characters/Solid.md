@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Solid** is a Yuan-ti champion, "well-trained in close quarters combat" and "all about espionage," who fought in the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)]]. He is a one-eyed snake man with fangs, a stealthy streak and very quick feet. He kicked [[The Box of Chaos]] over the treetops and shoved a hellspawn duck into a river. His past caught up with him in the end: Pyxis had come to the arena hunting the people who killed his family, and Solid was one of them.
 
 ## Story

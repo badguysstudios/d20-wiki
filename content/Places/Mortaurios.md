@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios]] · [watch it on YouTube](https://youtu.be/0lTfjV0ByVs)*
+
 **Mortaurios**, the City of the Dead, is reached in an unusual way. The only way in is to say its name out loud in the wasteland, and the wasteland takes you there. Behind its walls is a bustling city that seems almost ordinary: busy markets, paved streets, and people who know their place. The eerie part is who isn't there.
 
 ## Description

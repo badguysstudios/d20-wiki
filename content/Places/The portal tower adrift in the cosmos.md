@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **The portal tower adrift in the cosmos** is a lonely structure floating free among the stars, home to four very different portals and a clock that refuses to keep proper time. It was described as "the chaos of time and space," and the champions who fought there found out exactly what that meant. Stepping through one door never quite guaranteed where you would come out, or in what condition.
 
 ## Description

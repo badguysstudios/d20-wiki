@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/005 - Playtest 2 (Pre-Launch) — Atlas v Bromir|Playtest 2 (Pre-Launch) — Atlas v Bromir]] · [watch it on YouTube](https://youtu.be/9HVO0CJ1-xc)*
+
 **Bromir** was a hulking, snow-rubbing, perpetually flexing champion who brought a pro wrestler's swagger into the Void, along with a fondness for calling everyone "brother" and a pair of fists he called boulders. He fought the warforged [[Atlas]] on the frozen cliffs of Reaper's Rock in [[Episodes/Playtests/005 - Playtest 2 (Pre-Launch) — Atlas v Bromir|Playtest 2 (Pre-Launch) — Atlas v Bromir]]. He lost, but he made it one of the noblest deaths the arena had seen, and the entire crowd saluted him as he fell. Then [[The Arbiter]] quietly took him for himself.
 
 ## Story

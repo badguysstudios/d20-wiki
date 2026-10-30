@@ -18,6 +18,8 @@ youtube: https://youtu.be/ZmVWvB4IgMk
 canon_order: 70
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZmVWvB4IgMk" title="Watch S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ZmVWvB4IgMk)
 
 The Season 3 finale pitted **[[Soot Mustam]]**, a twelve-year-old Goliath with the body of a grown man and a hat worn backwards for power, against **[[Huey Leatherface]]**, a feather-shedding bird artificer who collects dog urine for science. They fought in one of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s glittering treasure rooms, under the eye of her pet dragon Lilac. It was a match of runaway hamsters, militant grandmothers and a pocket black hole. Then, after the champions were gone, the season's darkest secret climbed out of [[The Box of Chaos|the Box of Chaos]] and took the throne.

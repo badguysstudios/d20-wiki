@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]] · [watch it on YouTube](https://youtu.be/Yp1NY5wF6kM)*
+
 **Frank** is the resident chef of the Faithful, the resistance that stayed loyal to the Grandmaster. He is a large orc in furs who has turned one of the forges in their smithy hideout into a stove. Guests are warned: don't eat Frank's food. Nobody can quite avoid it, and over a handful of appearances his cooking became one of the resistance's most dependable running jokes, alongside a giant wooden spoon meant to replace his axe.
 
 ## Story

@@ -21,6 +21,8 @@ youtube: https://youtu.be/yUchVeL-bOw
 canon_order: 80
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/yUchVeL-bOw" title="Watch Into the Mirror 14 — The Scholar on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/yUchVeL-bOw)
 
 With the dragon dead and its treasure cave theirs for the taking, **[[Flynry]]**, **[[Toddleheim]]**, **[[Elianna]]** and **[[Cerys]]** went looking for the one prize that mattered: a golden orrery. They found it, and then it found Flynry's sword. The meeting threw them into an unknown corner of the desert and down into a half-buried library, where a giant winged man was pulling books off the shelves only to watch each one crumble. There was no fight this time, only a slow, creeping mystery with a final reveal that landed like a slap.

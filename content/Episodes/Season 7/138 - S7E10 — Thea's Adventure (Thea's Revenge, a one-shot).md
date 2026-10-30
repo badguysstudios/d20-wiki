@@ -19,6 +19,8 @@ youtube: https://youtu.be/6gx27V6yzwU
 canon_order: 138
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/6gx27V6yzwU" title="Watch S7E10 — Thea's Adventure (Thea's Revenge, a one-shot) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/6gx27V6yzwU)
 
 On the one day off a year the unions had won her, [[Thea]] stole a car, ran down a good part of a candy town, found her long-lost little brother inside a badly built robot, and tried to murder her boss. The episode was a one-shot, "Thea's Revenge," and it finally told her story. She was a worm of the Hollow, sent to kill [[The Arbiter]] under a blood oath. A god had helped her get the job, and she had mostly forgotten all of it. By the end, one candy kingdom had been vaporized twice, one champion had been delivered by portal in his swim trunks to be blown up, and Thea had been promoted to ambassador, with no raise and a pope hat.

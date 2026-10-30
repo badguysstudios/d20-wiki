@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Glotun** is a politician the party met during the [[Skypiercer]] prequel. He arrived bearing favors and left without the one thing he wanted. He was a fighter before he took up politics, and he hid his real errand under a friendly offer of help: he wanted the emperor's ear so he could divert the southern aqueduct toward [[Plintos]].
 
 ## Story

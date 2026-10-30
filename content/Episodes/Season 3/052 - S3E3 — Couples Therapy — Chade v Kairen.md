@@ -18,6 +18,8 @@ youtube: https://youtu.be/nj_7e17mMJU
 canon_order: 52
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/nj_7e17mMJU" title="Watch S3E3 — Couples Therapy — Chade v Kairen on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/nj_7e17mMJU)
 
 Most champions come to the Void to kill a stranger. **Chade (Chaedillion) Chadian** and his wife **Kairen** came to work on their marriage. [[Doug the Pug]] pulled the couple out of their home life and into [[The Dread Fortress|the Dread Fortress]], and from there into a lava-filled ruin. What followed was less a fight to the death than a very public counseling session, with flaming swords, a velvet rope from [[The Box of Chaos|Gerald]], and three angry stone copies of the neighbor who bakes the scones.

@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/099 - S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman|S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman]] · [watch it on YouTube](https://youtu.be/eYFb1-4IUMk)*
+
 **Killy Yesman** is a [[Double Sun Cola]] salesman with enormous undulating pecs, legs like twigs, and what he proudly calls "the world's most punchable face." He was pulled into [[The Void]] off his own billboard, ready to die for a soft drink. He won the opening Deathmatch of Season 5 when his robot opponent tore out his own brain. He came back as the soda-soaked heart of the rescue squad that became Team 3D, and he discovered, briefly, that something in life mattered more to him than cola.
 
 ## Story

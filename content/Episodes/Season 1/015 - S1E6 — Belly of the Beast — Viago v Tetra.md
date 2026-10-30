@@ -18,6 +18,8 @@ youtube: https://youtu.be/tov4yw1rGHg
 canon_order: 15
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tov4yw1rGHg" title="Watch S1E6 — Belly of the Beast — Viago v Tetra on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/tov4yw1rGHg)
 
 A hulking, shirtless barbarian who turns into a dire wolf met a small, quick tabaxi monk who hates dogs, at the bottom of the ocean, inside a ship that is also alive. **[[Viago]]** and **[[Tetra Kincaid]]** traded astral claws, a metal chair, a bouncy castle and an oddly tender suplex as the fight moved from the ballroom of [[The Siren's Nautilus]] down into its acid-soaked stomach. After all the spectacle, the match ended with one ordinary kick.

@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/087 - S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)|S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg)]] · [watch it on YouTube](https://youtu.be/MTC_6sqV8d0)*
+
 **Stanley Second Life Gibbs** was a hooded cowboy gunslinger who called himself "the fastest gun in the West" and "judge, jury, and executioner." He was pulled into [[The Void]] for a Western-saloon duel against the accident-prone [[Gideon Regalis Electus Gregorius the 537th|Greg]]. A small floating drone kept bringing him back from the dead, so he died ten times in a single Deathmatch, more than any champion had before. The tenth death was the one that stuck.
 
 ## Story

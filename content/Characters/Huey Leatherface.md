@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/070 - S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface|S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface]] · [watch it on YouTube](https://youtu.be/ZmVWvB4IgMk)*
+
 **Huey Leatherface** (properly "Leatherfeather," though he took a shine to the mistake) was an Owlin artificer who called himself "the best dang artificer in this side of [[Strixhaven]]." He fought the twelve-year-old Goliath [[Soot Mustam]] in the Season 3 finale. He collected dog urine, stored his dinner under the couch and didn't believe in rabies. He won the match, and the victory lasted about as long as it took the Grandmaster to let go of his hand.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/MasLLQBr8L4
 canon_order: 22
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MasLLQBr8L4" title="Watch S1E13 — Snow-clad — Highfrost v Bryltyn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/MasLLQBr8L4)
 
 The kilted ice warlock **[[Highfrost]]** and the self-proclaimed one-of-a-kind warrior **[[Bryltyn]]** fought in a snowbound fishing village in the north, which turned out to be Highfrost's own family's home. The fight took in poisoned ale, rooftop combat, a bagpipe solo so bad it hurt the Grandmaster, a deadly game of tag, a rescue mission for a line of ducklings and an avalanche. It ended in blood on the snow, a toast, and one last flash of kilt.

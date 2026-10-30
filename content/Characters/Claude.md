@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]] · [watch it on YouTube](https://youtu.be/ZBXy2rnsdxM)*
+
 **Claude** is the janitor of [[The Dread Fortress]]. He is a small man in a tall blue hat who says almost nothing, and he became an unlikely running gag of the Season of Vigilance. [[Thea]] is convinced he is an evil wizard and the office lunch thief, which makes him the villain of her *Thea Teaches* segments. Meanwhile [[Grandmaster Elusia Skypiercer|the Grandmaster]] quietly keeps him around as her chess partner, because he is better at the game than [[The Arbiter|the Arbiter]].
 
 ## Story

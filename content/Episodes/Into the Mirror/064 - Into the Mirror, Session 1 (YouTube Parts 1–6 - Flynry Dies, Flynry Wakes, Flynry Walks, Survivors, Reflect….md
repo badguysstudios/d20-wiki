@@ -22,6 +22,24 @@ youtube: https://youtu.be/cbN7tMUzhGo
 canon_order: 64
 ---
 
+<p class="video-label">Part 1</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/cbN7tMUzhGo" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 2</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HKDqFzhReic" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 3</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DHGmUM4pxB0" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 4</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/m2vEjb8vHf0" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 5</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/lEoslLDQJok" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 6</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/IfLfA0X1Phc" title="Watch Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect… on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch on YouTube: [Part 1](https://youtu.be/cbN7tMUzhGo) · [Part 2](https://youtu.be/HKDqFzhReic) · [Part 3](https://youtu.be/DHGmUM4pxB0) · [Part 4](https://youtu.be/m2vEjb8vHf0) · [Part 5](https://youtu.be/lEoslLDQJok) · [Part 6](https://youtu.be/IfLfA0X1Phc)
 
 **Into the Mirror** opens with a death. [[Flynry]] is struck down by a meteor at the end of the Battle for the Crown and wakes in a life too perfect to be real. Then that life falls apart into an endless desert of green sand. Back in [[The Void]], his grieving friends [[Toddleheim]] and [[Locket]], joined by the Grandmaster's personal assistant [[Elianna]], go after him, and they have to ask the one man none of them trust for help: a chained, unwashed and suspiciously cheerful [[The Arbiter|Arbiter]].

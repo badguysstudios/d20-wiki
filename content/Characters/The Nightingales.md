@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **The Nightingales** are the white-masked, veiled medics who follow [[The Physician]], the Mind Flayer who serves the Alliance in its war against [[The Warmind]]. They heal the living. Every night they also walk the battlefields and destroy the dead, brains and bodies alike, so the enemy can't harvest them. The soldiers call this "counting corpses." Even their own allies are uneasy around them, and nobody has ever seen one of them alone.
 
 ## Story

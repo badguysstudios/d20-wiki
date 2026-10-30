@@ -28,6 +28,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Grandmaster Elusia Skypiercer** rules [[The Void]] from [[The Dread Fortress]] and presides over every Deathmatch fought in her arena. She is retired from battle and misses the days of glory and bloodshed, so every Sunday she has [[The Arbiter]] curate a spectacle for her and her [[The Acolytes|Acolytes]]. She is a princess who came back from exile to dethrone a tyrant and a monarch who throws metal chairs. She is also a woman who has lived long enough to outlive people she loved, and the Deathmatches she founded celebrate death and remembrance. Played by Caustic Phoenix.
 
 ## Story

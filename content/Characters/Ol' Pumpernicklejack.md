@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]] · [watch it on YouTube](https://youtu.be/ws05JEOlejg)*
+
 **Ol' Pumpernicklejack** is a hunched, three-foot redcap with enormous iron boots, a red cap that soaks up blood, and an iron sickle bigger than he is. [[The Arbiter]] pulled him into [[The Void]] for a Season 7 Deathmatch against the treasure-hunting rat [[Sila]]. He was on the toilet when the summons came. The fight began in a graveyard, detoured through a lava flood and the Grandmaster's cheese platter, and ended in a tavern, with Jack soaked in toilet water. Jack walked out the winner, dripping, triumphant and still looking for parchment.
 
 ## Story

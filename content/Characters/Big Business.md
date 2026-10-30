@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]] · [watch it on YouTube](https://youtu.be/ZBXy2rnsdxM)*
+
 **Big Business** is a towering Warforged paladin who rose from his chair wreathed in steam and walked into the arena, convinced the swamp was his land and a shopping mall was its destiny. He bleeds money, sprays cash from his turbines and lives by a single creed: "Big is my business, and business is big." His grudge match against [[Bog Boy]] in [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]] was fought over a bog, an oil spill and a catfish named Clementine. He lost his head in the end, but not entirely his mind: a swamp witch fused his scrap into his rival, and his voice still talks inside Bog Boy's head.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/PwtNfOqk9dw
 canon_order: 101
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PwtNfOqk9dw" title="Watch S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/PwtNfOqk9dw)
 
 **Ruby Rust**, a giant constrictor snake who codes for a living, was pulled onto a freezing mountain peak to fight **Robbie Clark**, a cheerful boy from a small town, and the eldritch horror that lives in his backpack. The match was a tug-of-war between a snake trying to squeeze the life out of a monster with seven hundred arms and a monster that kept turning its own child into something worse. It ended with a deeply unsettling victory.

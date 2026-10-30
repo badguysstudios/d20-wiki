@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]] · [watch it on YouTube](https://youtu.be/4LNVK_cQlb8)*
+
 **Claudia** was a university professor who studied plants, pulled into [[The Void]] to fight [[Fatale]] in a Deathmatch staged on a flying ship. She was nervous, polite and constantly apologising, and she armed herself with gardening shovels "in case of emergency gardening." The [[The Shadow King|Shadow King]] scoffed at her as a nerd, but she won. Her prize turned out to be a trap with a single deadly ingredient.
 
 ## Story

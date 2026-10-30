@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/061 - S3E14 — Magic Duel — Talbot Cage v Seth Kaiser|S3E14 — Magic Duel — Talbot Cage v Seth Kaiser]] · [watch it on YouTube](https://youtu.be/fU8cs88zRJw)*
+
 **Talbot Cage** was a malnourished, scorch-scarred spellcaster whose magic was so unstable that it dragged him into [[The Void]] while he was only trying to warm up a cup of coffee. Played by Michael, he faced [[Seth Kaiser]] in a Halloween Magic Duel. He arrived with a squirrel on his shoulder, a spare finger on one hand and a habit of blacking out into a feral fugue known as "Rage Cage." He lost to a summoned white dragon. He went out on his own terms, though, and [[The Acolytes]] saluted him by raising their middle fingers.
 
 ## Story

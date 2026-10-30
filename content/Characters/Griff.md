@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/081 - S4 Ep3, Swindlers - Griff v Cappin Fodder|S4 Ep3, Swindlers - Griff v Cappin Fodder]] · [watch it on YouTube](https://youtu.be/wm6N0SLfLy8)*
+
 **Griff** is a satyr hustler with beaded horns and a phoenix made from a rat. He was pulled into the Void during the reign of [[The Shadow King]] to face the halfling pirate [[Cappin Fodder]]. He talks a big game, and unusually for a trash-talker, he backs it up. Griff won the fight with patience, fire and a well-timed disappearing act. He is also the first champion of that grim season to escape the Shadow King's idea of a prize.
 
 ## Story

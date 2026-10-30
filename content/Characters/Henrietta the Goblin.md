@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/092 - S4E12 — Racoons — Sam Cletus v Ben Zappa|S4E12 — Racoons — Sam Cletus v Ben Zappa]] · [watch it on YouTube](https://youtu.be/SmMFUGbuv1E)*
+
 **Henrietta the Goblin** is a small, adorable goblin with bright blonde hair who works at [[The Dread Fortress]] during the reign of [[The Shadow King]]. Her job is to bring the right thing at the right moment, whether that is a Hydro Flask for [[Grandmaster Elusia Skypiercer|the Grandmaster]] to throw or a cup of black coffee for a champion about to fight. In two Deathmatches, she turned up with exactly what the scene needed.
 
 ## Story

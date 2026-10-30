@@ -19,6 +19,8 @@ youtube: https://youtu.be/HcGhwds-ipo
 canon_order: 98
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/HcGhwds-ipo" title="Watch S4E17 (Season Finale) - Vythorn's Return Part 3 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/HcGhwds-ipo)
 
 The fourth season ended without a Deathmatch. It ended with a coup. Fil returned **Vythorn**, [[The Arbiter|the Arbiter]], to [[The Void|the Void]] carrying a new power, and he walked into the old Coliseum to settle things with [[The Shadow King|the Shadow King]]. By the end he had shredded a tyrant's body, made a deal with a god, and taken the Void for himself.

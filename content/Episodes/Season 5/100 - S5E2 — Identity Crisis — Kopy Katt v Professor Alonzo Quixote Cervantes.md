@@ -18,6 +18,8 @@ youtube: https://youtu.be/ApQKHMQLU_M
 canon_order: 100
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ApQKHMQLU_M" title="Watch S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ApQKHMQLU_M)
 
 A bag-headed identity thief met an elderly, extremely muscular professor of bloodshed in a filthy little tavern, and the fight went sideways almost immediately. **[[Copycat|Kopy Katt]]** answered fists with phone calls: she reported identity theft, sabotaged a credit score, and phoned a man's mother. **[[Professor Alonzo Quixote Cervantes]]** answered by throwing nearly everything in [[Emmery's Tavern]] into the fireplace, including, eventually, himself. It ended with a changeling bartender, a borrowed face, and the most dramatic slipper in Deathmatch history.

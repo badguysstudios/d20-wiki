@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]] · [watch it on YouTube](https://youtu.be/5isJ1FM-NtE)*
+
 **The bazaar** is a desert marketplace somewhere in the Void, owned by [[Grandmaster Elusia Skypiercer|the Grandmaster]] and pressed into service as a Deathmatch arena in [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]]. It is a maze of carts, tarps and tall buildings under too many suns, with sand in the air and camel dung on the wind. It is a fine place to shop and a treacherous place to try parkour.
 
 ## Description

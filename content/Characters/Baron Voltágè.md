@@ -26,6 +26,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]] · [watch it on YouTube](https://youtu.be/o_3-vKNmkWY)*
+
 **Baron Voltágè**, "the elitist of electricity, the supplier of shock," was a halfling artificer who fought inside a suit of crackling, transforming armor and would not let anyone mispronounce his name. He is the first champion ever to throw himself bodily into [[The Box of Chaos|the Box of Chaos]] and sacrifice his own soul. That made him valuable to [[The Arbiter|the Arbiter]], who rebuilt him as a robot to fight in the war for the Grandmaster's throne. He was a Saturday-morning-cartoon villain to the end, and his last breath was a bad horse joke.
 
 ## Story

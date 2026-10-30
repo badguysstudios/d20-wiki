@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]] · [watch it on YouTube](https://youtu.be/yj4aWKZ78I8)*
+
 **Potato** was a shy, gentle champion who never had a present, never had fish and never knew his mother. [[The Arbiter]] found him in line to sit on Santa's lap and brought him to the Void for the holiday Deathmatch [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]. There he did something no one planned: he decided his opponent, [[Dinkledink]], was his new stepdad. Halfway through the fight he was reborn as the grandiose **Starfall**, and the match turned from a duel into one of the strangest and most touching father-son stories the arena has seen.
 
 ## Story

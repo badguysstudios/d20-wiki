@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]] · [watch it on YouTube](https://youtu.be/6gx27V6yzwU)*
+
 **Theo** (in full, **Theo Thracklebolt Thermompolus Thuundar Thed**) is [[Thea]]'s little brother, a worm from the Hollow with bulbous eyes and no arms. The worms sent him across the Void to find his sister and bring her home, sealed inside a seven-foot warforged mech suit they had built themselves. Worms have no thumbs or hands, so the suit looked impressive and was no good at all. Theo couldn't turn it around, so he walked everywhere backwards, staring at whoever he had just left without ever breaking eye contact.
 
 ## Story

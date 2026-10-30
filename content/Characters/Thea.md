@@ -24,6 +24,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/099 - S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman|S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman]] · [watch it on YouTube](https://youtu.be/eYFb1-4IUMk)*
+
 **Thea** is [[The Arbiter]]'s small, pink, impish assistant at [[The Dread Fortress]]. She is roughly a foot tall and shaped like a potato, and she was once a worm from the Hollow, sent to kill the Arbiter. Now she summons champions, runs errands she forgets, wrangles the [[Chinchillas]] and gets thrown at people, all while pursuing gold stars and employee of the month. She is voiced by Caustic Phoenix. She should not be confused with Thea of [[Plintos|House Plintos]] in [[Cor'thun]], a different person from the days of [[Skypiercer]].
 
 > "A mindless worm that I plucked from the soil to do my bidding." — the Arbiter, describing his ward

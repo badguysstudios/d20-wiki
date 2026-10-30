@@ -16,6 +16,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]]*
+
 **The Oathbow**, first called **the Oathbringer**, is the bow of [[Grandmaster Elusia Skypiercer|the Grandmaster]]. It began as a family heirloom passed to an exile with a grudge against [[The Shadow King]]. It came through her war against him burnt and cracked, and centuries later she still draws it from her throne when something needs to show itself.
 
 ## Description

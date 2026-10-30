@@ -18,6 +18,8 @@ youtube: https://youtu.be/ovggvygtAQ8
 canon_order: 13
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ovggvygtAQ8" title="Watch S1E4 — Multiclass — Kleen v Ivanna Kishu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ovggvygtAQ8)
 
 **Kleen**, a long-range warlock who swore he was not Mr. Kleen, faced **Ivanna Kishu**, a kiss-blowing aasimar druid with a few tricks borrowed from other trades, in a frozen, abandoned mine far up in the north. Along the way there was Acolyte dodgeball, a round fought entirely in Pig Latin, a howl-off, an avalanche and a showdown on a bridge over a frozen waterfall. It ended with a literal shitstorm and with [[The Arbiter|the Arbiter]] quietly stealing the loser's body for reasons of his own.

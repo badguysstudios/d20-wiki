@@ -20,6 +20,8 @@ youtube: https://youtu.be/piKlapzHXRs
 canon_order: 125
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/piKlapzHXRs" title="Watch Pieces of a King Ep 2 — THE WAR COUNCIL on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/piKlapzHXRs)
 
 Fresh from the warforged slaughter in [[The Blastlands]], the Void Knights **[[Grimnar Stormclaw|Grimnar]]**, **[[Nehebka]]** and **[[Muffy]]** are escorted into the war camp of the Rust Blood Alliance on [[Dämmerung]]. Nobody dies and nobody fights. Instead, the three sit through a tense war council, take a sandy drink or two, get adopted by a squad of fish-men, and face a late-night interrogation by a mind flayer. By the end of the night they know what is eating this world: a war machine made of its makers' own minds, fed a sliver of black glass that Nehebka suspects is tied to [[The Shadow King]].

@@ -18,6 +18,8 @@ youtube: https://youtu.be/zEm9eD01piI
 canon_order: 97
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zEm9eD01piI" title="Watch S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/zEm9eD01piI)
 
 The Season 4 finale set **[[Ricky Red Dragon]]**, a "red dragon" cursed into human flesh after one rave too many, against **[[Traxton]]**, a 45-year-old emo elf who would very much prefer you call him Spider. They fought in a forest clearing [[The Shadow King]] had been quietly turning into a festival venue. Along the way there were crossing fireballs, a magic beard, a Christmas nutcracker, and a coming-of-age story that finished in the worst possible way for everyone involved.

@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/061 - S3E14 — Magic Duel — Talbot Cage v Seth Kaiser|S3E14 — Magic Duel — Talbot Cage v Seth Kaiser]] · [watch it on YouTube](https://youtu.be/fU8cs88zRJw)*
+
 **Seth Kaiser** is a self-styled duelist who crossed dimensions looking for a real test of his skills. In the Void he found a Halloween Deathmatch, a terrified wild mage and a box full of trading cards. Seth fights with a deck of cards strapped to his shield and plays them like spells. He won his only match, made a friend of [[The Box of Chaos|Gerald]], and treated the whole thing as the world's most dangerous card tournament.
 
 ## Story

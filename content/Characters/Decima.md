@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/090 - S4E10 — Rivals — Nonamatt v Decima|S4E10 — Rivals — Nonamatt v Decima]] · [watch it on YouTube](https://youtu.be/Go92zPBd9JA)*
+
 **Decima** was a tall, swaggering minotaur champion who entered the Void to fight their twin, [[Nonamatt]], in [[Episodes/Season 4/090 - S4E10 — Rivals — Nonamatt v Decima|S4E10 — Rivals — Nonamatt v Decima]]. Grief over the death of their older brother Morta drove them. They meant to stop Nonamatt from killing [[Fil|the God of Fate]] so that they could take that throne themself and undo Morta's death. Along the way they became the first champion ever to consume [[The Box of Chaos]]. Their story ended with an act of surrender that left the Grandmaster in tears.
 
 ## Story

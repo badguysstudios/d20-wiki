@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]] · [watch it on YouTube](https://youtu.be/G2Gln_aH8n8)*
+
 **Muffy** is a two-foot-five fennec fox with light fur, sharp bright-blue eyes and a deep, jolly laugh that seems far too big for her. She is a painter of near-photographic skill, a ferocious warrior whose paintbrush slices like a sword, and fiercely devoted to [[Grandmaster Elusia Skypiercer|the Grandmaster]]. She is played by JustSeum. In the first arc of *Pieces of a King* she joined [[Grimnar Stormclaw]] and [[Nehebka]] on a mission to [[Dämmerung]]. Along the way she painted mustaches on nearly everything, killed a Titan with a rainbow, and learned that the brother she had mourned might be alive.
 
 ## Story

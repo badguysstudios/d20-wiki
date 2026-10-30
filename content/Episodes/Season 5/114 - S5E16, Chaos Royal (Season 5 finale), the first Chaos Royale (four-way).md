@@ -17,6 +17,8 @@ youtube: https://youtu.be/bcq7-9Py-VU
 canon_order: 114
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/bcq7-9Py-VU" title="Watch S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/bcq7-9Py-VU)
 
 The Season 5 finale threw four returning champions into the first-ever **Chaos Royale**: Tormiir the minotaur, Bobby Clark and the eldritch backpack known as the Hunger, the identity thief Copycat, and Richard Knottley, rebuilt from Peloton parts. They fought on the doorstep of [[The Dread Fortress]] for a single red ceramic mug. Along the way it took in weaponised phone calls to a minotaur's mother, five hundred deceptive hot dogs, a chinchilla named Dylan, and an unholy alliance between a shapeshifter and a backpack full of teeth. Meanwhile the ruler of [[The Void]] brooded over his troubled reign and walked out before the show was done.

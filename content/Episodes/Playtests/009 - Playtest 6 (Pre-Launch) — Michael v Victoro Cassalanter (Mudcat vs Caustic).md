@@ -18,6 +18,8 @@ youtube: https://youtu.be/z9W0eBMIptA
 canon_order: 9
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/z9W0eBMIptA" title="Watch Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/z9W0eBMIptA)
 
 A headless iron golem who talks through mouths in his palms faced a smug half-elf in enormous butterfly pants, in a forest that lost several trees and part of a cliff to the encounter. **[[Michael]]** could neither see nor hear his opponent. He found him anyway, through trees, vibrations and the occasional tasting of the air. **[[Victoro Cassalanter]]** threw fire, turned into a dinosaur and summoned a devil from her foot soak. It was one of the gentlest, strangest bouts any [[Champions|champions]] ever fought: no one died, a devil got hugged against her will, and a lonely golem went home with a dog.

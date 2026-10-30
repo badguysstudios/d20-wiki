@@ -18,6 +18,8 @@ youtube: https://youtu.be/M-MFNntwymg
 canon_order: 133
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/M-MFNntwymg" title="Watch S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/M-MFNntwymg)
 
 **Rock and a Hard Place** pitted [[Iowa-Ska]], a feathered, fanny-packed green dragonborn deep in a midlife crisis, against [[The Pebble|the Pebble]], a four-foot glacier dwarf who never stops being a professional wrestler, not even while bleeding. They fought in [[The Chinchilla Forest|Chinchilla Forest]], where moose-sized rodents roll in pools of talcum powder and answer to their union rep. Before the night was over there had been a lollipop-pink steel chair, an illegal tag partner, a poison-filled condom and a hibachi lunch break, and the winning champion was hallucinating that his opponent was a video game.

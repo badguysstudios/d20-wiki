@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/094 - S4E13 — Swole — Storm on the Horizon v Grug the Wizard|S4E13 — Swole — Storm on the Horizon v Grug the Wizard]] · [watch it on YouTube](https://youtu.be/IlZllXZuS78)*
+
 **Storm on the Horizon** was a snow leopard monk with ten knives growing out of her four feet, a fondness for black coffee and a deep, sincere wish to be friends with the man she was trying to kill. She was pulled into [[The Void]] to face [[Grug the Wizard]] during the reign of [[The Shadow King]], and she won by fooling him again and again. Her prize was a victory lap that carried her out of the sky and into the cold, where she died thinking of the family she had spent her life searching for.
 
 ## Story

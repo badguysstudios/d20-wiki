@@ -18,6 +18,8 @@ youtube: https://youtu.be/rGz2Wjs9FHU
 canon_order: 102
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/rGz2Wjs9FHU" title="Watch S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/rGz2Wjs9FHU)
 
 A minotaur in a purple jumpsuit who was supposedly put on this earth to flatten the elderly met a little old lady with a rolling pin as big as she was, and neither of them could quite land the killing blow. **Tormiir** and **Granny Edith** spent six rounds in [[The Chinchilla Forest|the Chinchilla Forest]] trading cookies, kisses, breast-milk discourse and some of the gentlest violence the arena had ever seen. They wore each other down so thoroughly that the match ended with both of them dead, side by side, promising to share a cup of tea in the afterlife.

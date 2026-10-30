@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]] · [watch it on YouTube](https://youtu.be/REVH9dAOtgU)*
+
 **Glassy** (full name Glacia) is the eighteen-year-old daughter of [[Thornabub]]. She left the Nine Hells, dyed her hair purple and built a life of her own on the material plane, and she was promised her freedom if she could end her father in the arena. Her bout with him became one of the Void's great family dramas: sharp-tongued, bloody and absurd. She lost the fight but won over the crowd, and the Grandmaster herself called her an inspiration.
 
 ## Story

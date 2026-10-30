@@ -18,6 +18,8 @@ youtube: https://youtu.be/BDdZdET3cuQ
 canon_order: 51
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BDdZdET3cuQ" title="Watch S3E2 — The Student and the Master — Alma v Ahyan on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/BDdZdET3cuQ)
 
 A cocky young sorcerer and the weary minotaur professor who taught them everything met in a crumbling temple high in the sky. **Alma** wanted to prove they had become the master. **Ahyan** spent most of the fight begging them to go home. What followed was one of the most inventive duels the arena had seen, complete with a giant magnet, metal-chair dives, the first Counterspell ever cast in the arena, and an ending that left the crowd in total silence.

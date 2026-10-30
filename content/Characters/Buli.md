@@ -29,6 +29,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]] · [watch it on YouTube](https://youtu.be/4iH3c-r0CxM)*
+
 **Buli**, better known by his own preferred title, Buli the Brave, is a tiny owlbear barbarian who stood three feet and one inch tall and wanted everyone to know he was not cute. Pulled into the Void to face the bard [[Chancy]], he fought through the longest Deathmatch the arena had seen up to that point. Along the way he was set on fire repeatedly, turned into a butterfly, and stripped of nearly every feather. He fell in the end, but even death and a bottomless well have not quite finished him off.
 
 ## Story

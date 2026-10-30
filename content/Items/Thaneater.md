@@ -8,6 +8,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]] · [watch it on YouTube](https://youtu.be/4mc4nZfnib0)*
+
 **Thaneater** is a legendary battleaxe that arrived the way the best things in the arena do: in a pillar of flame, mid-fight, with no warning at all. It appeared in [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]] and landed squarely in the hands of [[Akumu]]. He knew exactly what to do with it.
 
 ## Description

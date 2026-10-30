@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/033 - S2E10 — Filicide — Glassy v Thornabub|S2E10 — Filicide — Glassy v Thornabub]] · [watch it on YouTube](https://youtu.be/REVH9dAOtgU)*
+
 **Thornabub** is a winged, hooved, tailed dealmaker from the Nine Hells who rules "a small demiplane of hell" and sells timeshares and soul coins on the side. He first came to [[The Void]] to drag his runaway daughter [[Glassy]] home, and he won by contract rather than by killing her. That earned him a pub crawl and a fast friendship with [[The Arbiter]]. He returned for the final round of Battle for the Crown as the Arbiter's champion, where his secret insurance policy turned a certain loss into a brutal last-man-standing finish.
 
 ## Story

@@ -11,6 +11,8 @@ youtube: https://youtu.be/yaUy8gnKnO4
 canon_order: 115
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/yaUy8gnKnO4" title="Watch S5 Ep17 — Vythorn's Return Part 4 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/yaUy8gnKnO4)
 
 There was no Deathmatch and no champion, only a choice that had been left hanging since the end of Part 3. In the surprise fourth chapter of a story everyone thought was a trilogy, **Vythorn**, [[The Arbiter|the Arbiter]], walked down into the dungeons of [[The Dread Fortress|the Dread Fortress]] as the Lord of Fate to visit the woman he had overthrown. Then he opened his eyes in the rain with a dagger at her throat and decided who he really was. It is a quiet, strange and surprisingly tender episode, and it rewrites everything that came before it.

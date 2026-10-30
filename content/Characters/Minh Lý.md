@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/058 - S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý|S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý]] · [watch it on YouTube](https://youtu.be/N_qfQ2QbCqI)*
+
 **Minh Lý**, "the Freshmaker," was a champion who winked his way into the Deathmatch with a ribbon on his sword and muscles that left the crowd and even [[The Box of Chaos|Gerald]] weak at the knees. He fought [[Alyndra Morlynn]] beside a roaring waterfall and spent most of the match cheering her on as much as cutting her down. When her prize meteor storm burned the valley to ash, his final act was to heal her and shield her from the blast. It turned a silly brawl into one of the most heartfelt endings the arena has seen.
 
 ## Story

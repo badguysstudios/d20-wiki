@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **The Shadow King**, born **Agdrel**, is the great villain of D20 Deathmatch and the uncle of [[Grandmaster Elusia Skypiercer|the Grandmaster]]. He killed his own brother to take the throne, ruled [[The Void]] for three centuries by draining the magic out of everyone around him, and spent a long stretch as the soul inside [[The Box of Chaos]]. When he clawed his way back, he ran the Deathmatches himself for a whole season. He killed winners, smoked ribs and got very, very into Bop-It. He is played by Mudcat.
 
 ## Story

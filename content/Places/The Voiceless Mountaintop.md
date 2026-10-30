@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]] · [watch it on YouTube](https://youtu.be/PwtNfOqk9dw)*
+
 **The Voiceless Mountaintop** is a cold, windy peak beneath a red sunset, chosen as the arena for [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]]. It owes its grand and slightly baffling name to [[Thea]], who picked it herself. It did not stay snowy, and by the end of the night it was a little shorter than when it started.
 
 ## Description

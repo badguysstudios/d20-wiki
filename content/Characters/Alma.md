@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]] · [watch it on YouTube](https://youtu.be/BDdZdET3cuQ)*
+
 **Alma** is a wild-eyed, hyperactive earth genasi sorcerer who came to the Void to prove they had outgrown their teacher. Pitted against their former mentor [[Ahyan]] in a duel the Arbiter summed up as "two birds, one stone," Alma spent much of the fight frozen, blinded, slammed into a giant magnet and hit with a metal chair. Through all of it they insisted it was part of the plan. Then they ended the match with one perfect shot.
 
 ## Story

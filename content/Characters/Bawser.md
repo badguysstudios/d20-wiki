@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/008 - Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)|Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic)]] · [watch it on YouTube](https://youtu.be/qtv__Ond6Dw)*
+
 **Bawser** is a hulking barbarian with a big yellow body, a green shell and a fragile sense of self built entirely on being the strongest one in the room. He is spelled "with an A. Very clearly, it's an A," and he is "legally distinct from any other intellectual property." He came to the arena expecting to crush a wheezy little opponent. He spent most of the fight being out-muscled, out-hidden and out-scared, wept openly, and then won anyway with the crowd behind him, taking his beaten rival home as a pet.
 
 ## Story

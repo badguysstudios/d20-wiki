@@ -22,6 +22,8 @@ youtube: https://youtu.be/SBwLaOYdZs0
 canon_order: 46
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SBwLaOYdZs0" title="Watch S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & … on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/SBwLaOYdZs0)
 
 The war for the crown began in the snow. **[[The Arbiter]]**, no longer content to serve, sent his general [[Ralzamon]] and the lovable brute [[Glub Glub the Glorious|Glub Glub]] against [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s picks, the dwarf wizard [[Toddleheim]] and the bee farmer [[Veronica]], in a frozen ruined fortress. This time every death was permanent. The match still found room for cows falling off towers, a werewolf fetching sticks, and a heartbreaking non-reunion between Veronica and a box that remembered loving her.

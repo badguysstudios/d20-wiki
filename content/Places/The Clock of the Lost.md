@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]] · [watch it on YouTube](https://youtu.be/BRc-Sdygomg)*
+
 **The Clock of the Lost** is a giant clockwork column, "a little place far, far out," that served as the arena for a two-on-two Deathmatch. Its gears were meant to keep spinning until someone said a magic word. They didn't stop that way. They stopped when [[The Arbiter|the Arbiter]] put a wrench in the works. For the champions sent there, the ground under their feet was never still and the gears could crush them.
 
 ## Description

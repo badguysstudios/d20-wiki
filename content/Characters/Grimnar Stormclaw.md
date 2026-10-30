@@ -17,6 +17,9 @@ aliases:
 - Grimnar
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]] · [watch it on YouTube](https://youtu.be/G2Gln_aH8n8)*
+
 **Grimnar Stormclaw** is a towering white werebear, played by Mudcat. He serves the Grandmaster as one of the Knights of the Void at [[The Dread Fortress]], and he lets the chaos storm strike his hand with lightning as a form of prayer. He is huge, earnest and deeply religious about chaos. Sent with [[Muffy]] and [[Nehebka]] to hunt down a growing darkness at the edge of [[The Void]], he finds a fragment of [[The Shadow King]] and a crisis of faith to go with it.
 
 ## Story

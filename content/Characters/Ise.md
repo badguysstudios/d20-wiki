@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/096 - S4E15, Vythorn's Return Part 2|S4E15, Vythorn's Return Part 2]] · [watch it on YouTube](https://youtu.be/WmpyoQi03rs)*
+
 **Ise** is a shapeshifting changeling who failed one of [[Fil]]'s tests long ago and was sent back to the dirt for it. The God of Fate raised him again as one of two companions to watch over [[The Arbiter|Vythorn]] on the road to the Ruins of Giant's Breath. Ise was dry, merciless, unexpectedly kind in a sideways sort of way, and alarming in a fight. He also carried the one secret that changed everything Vythorn believed about his own past.
 
 ## Story

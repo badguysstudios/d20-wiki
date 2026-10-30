@@ -24,6 +24,12 @@ youtube: https://youtu.be/0lTfjV0ByVs
 canon_order: 74
 ---
 
+<p class="video-label">Part 1</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/0lTfjV0ByVs" title="Watch Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 2</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/a3xggrLVo8g" title="Watch Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch on YouTube: [Part 1](https://youtu.be/0lTfjV0ByVs) · [Part 2](https://youtu.be/a3xggrLVo8g)
 
 This chapter of the Into the Mirror saga opens moments after the worst thing that could happen in [[The Sands of Eternity]]: [[Locket]] has crumbled to sand in [[Flynry]]'s arms, killed by an arrow through the throat. [[Toddleheim]] nearly loses himself to his werewolf form, and [[Elianna]] the librarian discovers she can slit throats. Then the party comes face to face with **[[Cerys]]**, the stranger who fired that arrow. By the end, the grieving party has passed through a whispered portal into the city of the dead, [[Mortaurios]], and stands before the thrones of its rulers.

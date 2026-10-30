@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/055 - S3E6, Homunculus - Coen v Alfucius|S3E6, Homunculus - Coen v Alfucius]] · [watch it on YouTube](https://youtu.be/zgmOmkGv_7o)*
+
 **Coen** is a tall, softly spoken tiefling who arrived in the Void, got distracted by a snail, and turned out to be the quiet menace of her Deathmatch. She came with one friend, made several more terrifying ones over the course of the fight, and talked her opponent, [[Alfucius the Everbright]], into an uneasy friendship. The match ended with no death between them, a destroyed ghost dragon, and both champions promised their wishes.
 
 ## Story

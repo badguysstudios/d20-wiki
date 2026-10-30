@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/027 - S2E3 — A Lovers' Quarrel — Lethe v Sorry|S2E3 — A Lovers' Quarrel — Lethe v Sorry]] · [watch it on YouTube](https://youtu.be/KJJjccmQnNg)*
+
 **Sorry** is a six-foot-five satyr, a Strixhaven graduate and a wild magic barbarian whose rage summons pixies that explode into glitter. She was dragged into the Void to fight her ex, [[Lethe]], in a match the Arbiter billed as "a lover's quarrel." What began as a duel to the death turned into tears, a confession and a rare Deathmatch where love won. She cannot tell a lie, and until that night she did not know that was a curse.
 
 ## Story

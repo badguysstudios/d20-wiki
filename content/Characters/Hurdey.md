@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]] · [watch it on YouTube](https://youtu.be/tqQP-YlaRk4)*
+
 **Hurdey** is a bipedal humanoid bear who came to the Void with a red bird named [[Gurdi]] riding in his backpack, peering over his shoulder. Together they ran the Grandmaster's handmade Gauntlet against [[Floyd of the Pink]] and [[Luci]]. Along the way they stole a ship, scatted a duet for the dead, and called in a favour from a poorly designed construct shark. Hurdey's story ends in one of the arena's stranger heartbreaks: the treasure demanded the heart of an ally, and his own partner was the one who burned it.
 
 ## Story

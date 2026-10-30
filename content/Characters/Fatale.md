@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]] · [watch it on YouTube](https://youtu.be/4LNVK_cQlb8)*
+
 **Fatale** was a champion of few words and many weapons. She arrived in [[The Void]] on a wind of black rose petals to fight [[Claudia]], a plant-loving university professor, aboard a ship sailing through the clouds. Secretly she had come as a spy, hoping that victory would let her pry precious information out of [[The Shadow King]] and [[Grandmaster Elusia Skypiercer|the Grandmaster]]. Her match ended with a doubled-damage curse, a tangle of vines and one very angry death. Her mission did not die with her, though: a cloaked sister swore to finish it.
 
 ## Story

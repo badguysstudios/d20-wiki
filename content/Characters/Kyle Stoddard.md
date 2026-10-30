@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]] · [watch it on YouTube](https://youtu.be/cvc2LW7ysm4)*
+
 **Kyle Stoddard** is a fedora-crowned swordsman from Isekai-dom, played by Banzai Baby, who fights for the honor of his beloved Princess Sakura-chan, "the purest of all maidens." He arrives with a trench coat full of merchandise, a ceremonial Mountain Dew toast, and a katana he sheathes again after every single swing. He fought twice, and he won both times. His victories came less from swordplay than from his overwhelming kawaii intensity, which wore his opponents down. By the end of his second fight, King Bofus was asking whether he could "elect to have a stroke and just fucking die."
 
 ## Story

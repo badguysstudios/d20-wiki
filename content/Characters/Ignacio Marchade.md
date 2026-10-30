@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]] · [watch it on YouTube](https://youtu.be/rKTmpacPlUo)*
+
 **Ignacio Marchade** was a deep-voiced, hood-wearing barbarian pulled into [[The Void]] to fight the gnome artificer [[K-Boom]] in [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]]. He arrived as a grim, brooding tough guy with a winged monkey at his side. He left as a tragic romantic, declaring his love for the man who had just set him on fire. His match ended in what was believed to be the first double death in Deathmatch history, and he went out insisting his soul would live on.
 
 ## Story

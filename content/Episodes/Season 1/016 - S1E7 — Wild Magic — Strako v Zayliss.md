@@ -18,6 +18,8 @@ youtube: https://youtu.be/79XmmuV_274
 canon_order: 16
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/79XmmuV_274" title="Watch S1E7 — Wild Magic — Strako v Zayliss on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/79XmmuV_274)
 
 **Strako, the Wild Shadow**, a seven-and-a-half-foot barbarian leaking unstable magic, faced **Zayliss**, a wall-climbing monk with glowing extra arms. They fought in a tower adrift in the cosmos and, after the floor fell out from under them, on a scatter of asteroids in open space. The match introduced [[Doug the Pug]] to the Acolytes, and Doug repeatedly beat [[The Arbiter|the Arbiter]] at dice. The two champions kept telling each other they were cool, right up until one of them was cut nearly in half.

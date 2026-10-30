@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **Grim** is the leader of the Redcaps, a squad of gas-masked, red-bereted commandos fighting for the Rust Blood Alliance in its long war against [[The Warmind]] in [[Dämmerung]]. He found [[Grimnar Stormclaw|Grimnar]], [[Nehebka]] and [[Muffy]] out in the wastes and brought them into the war camp. He rescued them, talked them up to the brass and gave them the honest version of things when the officers would not. Cheerful, blunt and good with a fireball, he became one of the party's few clear allies in a camp full of secrets.
 
 ## Story

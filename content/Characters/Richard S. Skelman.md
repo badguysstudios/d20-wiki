@@ -26,6 +26,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/117 - S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)|S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)]] · [watch it on YouTube](https://youtu.be/mDcPeEimpZI)*
+
 **Richard S. Skelman** is a skeleton of the old school: no flesh, no eyeballs, no feelings in his bones, and a family business in dungeon design passed down from his lich grandfather. He began as a murder-mystery suspect in the [[The Dread Fortress|Dread Fortress]], joined a rescue squad that was mostly made of men named Richard, and ended up winning a Deathmatch for leadership. His opponent seemed to keep winning without even trying and kept ascending into higher planes of being. Along the way Skelman became the founding leader of the [[Grandmaster Elusia Skypiercer|Grandmaster]]'s second team, the gloriously named Team D.
 
 ## Story

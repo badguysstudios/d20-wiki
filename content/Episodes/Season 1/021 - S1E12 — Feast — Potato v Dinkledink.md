@@ -18,6 +18,8 @@ youtube: https://youtu.be/yj4aWKZ78I8
 canon_order: 21
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/yj4aWKZ78I8" title="Watch S1E12 — Feast — Potato v Dinkledink on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/yj4aWKZ78I8)
 
 Shrunk to the size of crumbs and dropped onto a holiday feast table, **[[Potato]]** and **[[Dinkledink]]** came into the arena as strangers. Within an hour they were father and son. What began as a cake fight with a gun turned into a food fight and a trip into a giant's mouth. It ended as one of the strangest and most tender stories the arena has seen: a rodent who never wanted a kid, burying the one he got under a placemat with a star cookie for a headstone.

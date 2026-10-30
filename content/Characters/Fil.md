@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/095 - S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)|S4E14, Vythorn's Return Part 1]] · [watch it on YouTube](https://youtu.be/KWrBKN495SY)*
+
 **Fil**, also called **Philomena** and **the God of Fate**, is a true existential threat. She is a true god, far more powerful than [[Grandmaster Elusia Skypiercer|the Grandmaster]], [[The Arbiter|the Arbiter]] or anything in all of D&D lore, and she treats mortal lives as chips on a betting table. She steered the Arbiter's lost soul back from the dead, put an apocalyptic tome in his hands and crowned him in a vision of power. Then she left smiling, with a debt still owed.
 
 ## Story

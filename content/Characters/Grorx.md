@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]] · [watch it on YouTube](https://youtu.be/jR2qzQsXBg0)*
+
 **Grorx**, who introduced himself as "Grox the Great," was a small goblin in heavy plate armor with a shield, a longsword and a startling amount of consumer debt. He was pulled into the Void to face [[Lord Xiren]] in the ancient halls of [[Kabehe's Temple]]. He came for the money, tried to buy the Grandmaster's crown, and ran away a lot. He ended the night as half of one of the strangest creatures ever to leave the arena: both champions survived, sharing a single two-headed body.
 
 ## Story

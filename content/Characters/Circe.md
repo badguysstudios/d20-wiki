@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]] · [watch it on YouTube](https://youtu.be/MrBx49GHbe0)*
+
 **Circe**, the self-proclaimed "Master of Magitek" and "the most nefarious inventor in the city of Beacon," arrived in [[The Void]] as a hired villain and left it as a reluctant, wisecracking ally. Sent to hunt down [[Kenny]] on behalf of [[The Arbiter]], she spent her first fight shrinking [[Asena]] to the size of a cat. She spent the rest of the crossover flirting with [[John Carmichael]], robbing a bank, turning [[Lyrus]] into a bridge and plotting her escape from a boss she was truly afraid of. Few characters have switched sides with so much flair or so little shame.
 
 ## Story

@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]] · [watch it on YouTube](https://youtu.be/H5cix5wMKEY)*
+
 **The Seer** is an ancient, white-scaled, blind dragonborn blacksmith who works the forge in the Faithful's hideout, the resistance that fights [[The Arbiter|the Arbiter]] in secret. He can see what lies inside a person and hammer it into a magical item, and he has a habit of handing out unsettling prophecies, then announcing he's tired and falling asleep on whatever is nearby. He bumps into anvils, smells people instead of seeing them, and insults the craftsmanship of a newcomer's gun. As [[Lyrus]] warns everyone, he is a great deal sharper than he lets on.
 
 ## Story

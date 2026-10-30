@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/029 - S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em|S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em]] · [watch it on YouTube](https://youtu.be/ILYSryi_t98)*
+
 **The Jungle Gauntlet** is the Grandmaster's "oldest of training grounds": a jungle obstacle course with two lanes. It runs from the log and squirrel trees, over a 45-foot cliff and a lily-pad river with a waterfall, through a forest thick with pollen, past a clearing belonging to the Box of Chaos, and into a cave full of ghosts and skeletons. It hosted the Gauntlet between [[Dan Kowalski]] and [[Gordy Gotta Get Em]].
 
 ## Description

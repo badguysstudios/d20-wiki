@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]] · [watch it on YouTube](https://youtu.be/4iH3c-r0CxM)*
+
 **Chancy** is a winged fairy bard, about three feet and one and a half inches tall, who swears that everybody already knows who Chancy is. Pulled into the Void to fight [[Buli|Buli the Brave]], Chancy brought a bag full of instruments, a petticoat supposedly gifted by a queen, and an endless supply of tall tales. The fight that followed involved dodgeball, a stolen lute, a heartbroken ghost and a trip down a bottomless well. It ran twelve rounds before Chancy finally won.
 
 ## Story

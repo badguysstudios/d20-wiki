@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic — S1 Ep2 — Mageic v Amren]] · [watch it on YouTube](https://youtu.be/Xp2sSpXWTLM)*
+
 **Mageic** is a touring stage magician who has played up and down the Sword Coast and arrived in the Void believing he had a show booked in Neverwinter. He is all muscle and patter, and not much else upstairs. He spent his Deathmatch against the fire genasi [[Amren]] insisting on handshakes, befriending a cursed doll and eating food off the floor. Under the showmanship sat a genuinely dangerous spellcaster, and he walked out of the burning ruins as the night's victor.
 
 ## Story

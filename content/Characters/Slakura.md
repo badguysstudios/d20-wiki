@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]] · [watch it on YouTube](https://youtu.be/MrBx49GHbe0)*
+
 **Slakura** is a small, bouncing pink slime and blossom spirit, and a dear friend of [[Asena]]. It understands Common perfectly well and simply chooses not to speak it. It smells of flowers wherever it goes, and over the course of the Coriander Society crossover it served as a bounce pad, an air freshener, a healing projectile and a pocket for evidence. The Acolytes kept calling it back, and it kept turning up with what the narration called "main character status."
 
 ## Story

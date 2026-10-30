@@ -18,6 +18,8 @@ youtube: https://youtu.be/03vHIx78LxM
 canon_order: 134
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/03vHIx78LxM" title="Watch S7E6 — Bone Force — Jerry Bonesman v TD on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/03vHIx78LxM)
 
 On Father's Day in [[The Void]], a training construct called [[TD]] and a vengeful skeleton pugilist named [[Jerry Bonesman]] fought in the sleepy, duck-filled [[The Duck Village|Duck Village]]. TD treated the whole match as a lesson. He stacked protective layers like a metallic onion and sealed himself inside an unbreakable dome. Jerry punched it, gnawed it, wrote math on a notepad about it, and turned [[Thea]] into a T-Rex to bite it. Then he woke the giant orc skull outside [[The Dread Fortress]], the first time anyone had seen the fortress speak, and the fight ended in one of the season's oddest and most tender deaths.

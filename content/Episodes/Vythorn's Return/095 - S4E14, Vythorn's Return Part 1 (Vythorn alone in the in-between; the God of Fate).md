@@ -15,6 +15,8 @@ youtube: https://youtu.be/KWrBKN495SY
 canon_order: 95
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/KWrBKN495SY" title="Watch S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/KWrBKN495SY)
 
 There was no arena, no opponent and no crowd this week. **Vythorn**, [[The Arbiter|the Arbiter]] (played by Mudcat), tumbled out of a portal and into a place outside every map he knew: a lifeless swamp, a lake, and a lone tower standing in the in-between. The match was against himself, and his opponent was the patient, laughing, many-faced [[Fil|God of Fate]]. It cost him a pair of very nice boots and won him a quest.

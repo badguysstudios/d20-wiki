@@ -18,6 +18,8 @@ youtube: https://youtu.be/zgmOmkGv_7o
 canon_order: 55
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/zgmOmkGv_7o" title="Watch S3E6, Homunculus - Coen v Alfucius on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/zgmOmkGv_7o)
 
 A tiefling who loves rocks met a doddering old wizard who turned out to know no magic at all. The arena around them became a sea of lava, then vanilla-flavored snow. **Coen** (played by seum) and **[[Alfucius the Everbright]]** (played by CantripBreakers) spent most of the match making friends, feeding a familiar to [[The Box of Chaos|Gerald]] and plotting behind a floating dragon skull. When the Grandmaster finally demanded blood, the deathmatch became a team-up against a ghost dragon. It ended in ballet, carnivorous tulips and one very unlucky goblin.

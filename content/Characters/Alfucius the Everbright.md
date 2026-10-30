@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/055 - S3E6, Homunculus - Coen v Alfucius|S3E6, Homunculus - Coen v Alfucius]] · [watch it on YouTube](https://youtu.be/zgmOmkGv_7o)*
+
 **Alfucius the Everbright** was a wizened old man in purple robes who arrived in the Void claiming to be a great wizard who had served alongside famous orders of mages. In truth he knew no magic whatsoever. He was a broke con man with a gun, a cup of coffee and an endlessly billowy robe full of gadgets. Paired against the tiefling [[Coen]], he lied, bargained, fed his own familiar to [[The Box of Chaos|Gerald]] and still left the arena alive.
 
 ## Story

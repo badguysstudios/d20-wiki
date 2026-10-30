@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]] · [watch it on YouTube](https://youtu.be/5isJ1FM-NtE)*
+
 **Veronica** is a blue-haired, lightly dressed elven bladesinger who fights with a rapier, a sword, and a great deal of flirtation. In her first Deathmatch she seduced [[The Box of Chaos|the Box of Chaos]] and attacked [[The Arbiter|the Arbiter]] himself. She ended it with a new job on [[The bee farm|the Grandmaster's bee farm]] and a hole in her memory where Gerald used to be. She returned as "the Bee Farmer" for the opening round of the Battle for the Crown. There she struck the blow that finished one of the Arbiter's champions.
 
 ## Story

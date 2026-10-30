@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/063 - LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT|LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT]] · [watch it on YouTube](https://youtu.be/tzTI01FF3WM)*
+
 **Jenny Gray** was a high-school girl and druid, played by ErinEberhardt, who was pulled into the Void for a live Deathmatch against the robotic artificer [[Chef GPT]]. She came for a prom date and only learned once she arrived that the fight could kill her. For most of the match she was winning: she out-danced, out-insulted and out-puppied her metal opponent. Chef GPT turned it around in the final round, and her fall into the lava was played as a moment of grace and beauty.
 
 ## Story

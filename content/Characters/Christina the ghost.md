@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]] · [watch it on YouTube](https://youtu.be/4iH3c-r0CxM)*
+
 **Christina the ghost** was the spectral maiden of a ruined castle who drifted into the Deathmatch between [[Buli]] and [[Chancy]] in [[Episodes/Season 2/036 - S2E13 — The Brave — Buli v Chancy|S2E13 — The Brave — Buli v Chancy]]. She was a jilted bride with a voice that filled the whole space. She was searching for Frederick, the man who never showed up on their wedding day.
 
 ## Story

@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **The abandoned dwarven fortress** is a deserted stronghold tucked into the mountains, a day's ride away. It appears in [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]]. Whoever built it is gone, but they left plenty behind: a blade track, bones, wine, a gambling room, and a carved message about a hammer and a treasure.
 
 ## Description

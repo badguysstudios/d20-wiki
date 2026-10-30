@@ -18,6 +18,8 @@ youtube: https://youtu.be/-ouOCDcSlQA
 canon_order: 30
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-ouOCDcSlQA" title="Watch S2E7 - Hand to Hand Combat, Bargo v Carn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/-ouOCDcSlQA)
 
 **Bargo**, a cape-wearing brawler who talks about himself in the third person, faced **Carnelian**, a glitter-sweating gem dragonborn warlock, in the ruins of a long-dead mining civilization deep underground. The fight had a herd of baby minotaurs, a capybara steed, a cave-in and a graveyard full of grasping dead. It ended with a decapitation and a quiet act of needlework from [[The Arbiter|the Arbiter]] that nobody in the arena was supposed to see.

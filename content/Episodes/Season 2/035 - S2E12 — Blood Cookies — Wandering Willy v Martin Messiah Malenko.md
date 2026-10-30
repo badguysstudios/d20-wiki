@@ -18,6 +18,8 @@ youtube: https://youtu.be/nbGAN3ruN8U
 canon_order: 35
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/nbGAN3ruN8U" title="Watch S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/nbGAN3ruN8U)
 
 A laid-back druid and a gun-slinging sun cleric were pulled into a graveyard to fight to the death for cookies. **Wandering Willy** and **Martin Messiah Malenko** were billed as the unluckiest individuals in the universe. They traded fire, lightning and a near-fatal holy blast, then decided they would rather be friends. The night ended with friendship necklaces made of bones and a snack parade for the crowd. It also ended with an open crack between [[Grandmaster Elusia Skypiercer|the Grandmaster]] and [[The Arbiter|the Arbiter]], who stormed off to his own arena full of risen losers.

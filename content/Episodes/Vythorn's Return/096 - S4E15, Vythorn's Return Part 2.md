@@ -20,6 +20,8 @@ youtube: https://youtu.be/WmpyoQi03rs
 canon_order: 96
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/WmpyoQi03rs" title="Watch S4E15, Vythorn's Return Part 2 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/WmpyoQi03rs)
 
 There was no Deathmatch this week and no grandstand full of Acolytes. Instead, [[The Arbiter|Vythorn, the Arbiter]] woke in the silent forest of [[Fil]], the God of Fate, and had to walk to the tome he had been chasing: the Testaments of [[Morir's Cataclysm]]. Fil gave him two companions who had already failed her tests, the shapeshifter [[Ise]] and the tiny, extremely loud grung [[Biff]]. The road brought a lost child, a cave full of gnolls, a door that drinks blood and an hourglass that only runs one way. By the end Vythorn had his book, a new reason to hate [[The Shadow King|the Shadow King]], and a vow to see his will done across [[The Void]].

@@ -7,6 +7,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/077 - Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside|Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside]] · [watch it on YouTube](https://youtu.be/rd3ksGZbrP0)*
+
 **The Orrery of Dreams** is a legendary artifact of the land beyond the mirror, whispered about at a royal court of the dead as the thing that might finally let them leave. It is said to give whoever finds it what they want most, and some believe it is a door back to the living. That made it the prize of the search that [[Cerys]], [[Flynry]] and [[The Arbiter|Vythorn]] later took up. When they finally studied it, they found a stranger answer: it is only one part of something much bigger.
 
 ## Description

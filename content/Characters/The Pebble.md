@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/133 - S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble|S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble]] · [watch it on YouTube](https://youtu.be/M-MFNntwymg)*
+
 **The Pebble** is a small but very handsome, very muscular four-foot-tall dwarf. He wears shades and a leather jacket and treats every fight as a pro wrestling match. He swaggered into the Void to face [[Iowa-Ska]] in the Chinchilla Forest, armed with a signature microphone, an endless supply of steel chairs and a strict rule never to break character. He lost, but he gave [[The Acolytes|the Acolytes]] a one-dwarf show of promos, flashbacks, hot tags and a People's Elbow. He went down on his own terms: still selling, still talking, and still asking when he would finally get his title shot.
 
 ## Story

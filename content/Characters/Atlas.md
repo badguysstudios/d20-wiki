@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/005 - Playtest 2 (Pre-Launch) — Atlas v Bromir|Playtest 2 (Pre-Launch) — Atlas v Bromir]] · [watch it on YouTube](https://youtu.be/9HVO0CJ1-xc)*
+
 **Atlas** is a huge mechanical champion with fists that float free of his body and a voice but no mouth, a fact that torments him in nearly every match he fights. He was crowned winner of Reaper's Rock, he lost his brain to his own hand against a soda salesman, he made a refrigerator his brother, and he blew his own head off for a crystal of salt. Whether he is the cold, logical defender of the innocent or the lightning-mulleted "brother" that [[Double Sun Cola]] turns him into, he always comes back. Played by DeadAussieGamer.
 
 ## Story

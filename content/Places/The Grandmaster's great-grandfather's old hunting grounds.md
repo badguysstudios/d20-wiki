@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]] · [watch it on YouTube](https://youtu.be/bkiAqjP4Weo)*
+
 **The Grandmaster's great-grandfather's old hunting grounds** are a stretch of wilderness that once belonged to the hunts of the Grandmaster's great-grandfather. Old trees, a roaring waterfall, a broken stone bridge and a treacherous river made them a fittingly dramatic place for a fight to the death. They served as the arena in [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]], where [[Glub Glub the Glorious|Glub Glub]] faced [[Geril-Lee]].
 
 ## Description

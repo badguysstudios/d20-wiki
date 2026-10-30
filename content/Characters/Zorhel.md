@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/034 - S2E11 — Secrets — Blaktoof v Zorhel|S2E11 — Secrets — Blaktoof v Zorhel]] · [watch it on YouTube](https://youtu.be/oihEfPouzfs)*
+
 **Zorhel**, who introduced himself as "Zorhel the Gladiator… one of the most famous gladiators on my lands," is a bugbear blood mage played by Drakoniques. He came to the Void to fight in "the biggest arena that anyone could fight" and drew the fearsome warrior [[Blaktoof]] as his opponent. Halfway through the match, he cut his foe open and learned that Blaktoof was three goblins hiding in a trench coat. He handled the surprise with good manners, a pair of shadow monsters and his blood halberd, and walked out the winner.
 
 ## Story

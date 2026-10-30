@@ -18,6 +18,8 @@ youtube: https://youtu.be/4mc4nZfnib0
 canon_order: 131
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4mc4nZfnib0" title="Watch S7E3 — Chinchilla the White — Akumu v Jinx on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/4mc4nZfnib0)
 
 [[Akumu]], a half-elf paladin who believes her blood is half vodka, faced [[Jinx]], a gamer girl in a unicorn onesie who thought the whole thing was a stream, on a lonely orange asteroid in deep space. Neither had ever heard of [[The Dread Fortress]], and both treated the Deathmatch with a magnificent lack of seriousness. Along the way two chinchillas were kicked into the sun, a grandmother was poured down the Box of Chaos's throat, and one of those chinchillas came back as something very like a wizard.

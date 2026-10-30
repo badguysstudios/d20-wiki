@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/049 - Live - GCX Orlando 2022 — Lord Snacc v The Showman|Live | GCX Orlando 2022 — Lord Snacc v The Showman]] · [watch it on YouTube](https://youtu.be/DTBTe_JXO7Y)*
+
 **The Showman** ("Yes, legally") was a masked stranger plucked from the crowd of [[The Acolytes]] when [[The Arbiter]] turned up to a Deathmatch having forgotten to bring any [[Champions]]. Armed with a bowler hat, a face full of bandages and a bandolier of knives named after the cast of *Friends*, he fought [[Lord Snacc]] in an autumn forest. He turned the audience into his personal army, charmed [[The Box of Chaos|Gerald]], and faked his own death in front of the Grandmaster. He lost in the end, but nobody who watched it will forget his exit.
 
 ## Story

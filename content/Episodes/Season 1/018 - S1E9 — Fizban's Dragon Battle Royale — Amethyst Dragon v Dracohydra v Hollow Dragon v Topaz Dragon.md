@@ -22,6 +22,8 @@ youtube: https://youtu.be/N9v_lqUFFuU
 canon_order: 18
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/N9v_lqUFFuU" title="Watch S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/N9v_lqUFFuU)
 
 For Halloween, the Arbiter cracked open his favorite book and turned the arena's lemonade vendor, a living amethyst die and the shadows of both hosts into four dragons, then set them loose on each other. **Fizban's Dragon Battle Royale** dragged its [[Champions|champions]] from an open sky through three dragon lairs. Along the way it served up sandwich diplomacy, a failed union drive, a baby dragon and a mushroom that may or may not have made someone sing. At the end of it, the most frightened champion in the arena stood victorious with ten heads.

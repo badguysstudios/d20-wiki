@@ -20,6 +20,8 @@ youtube: https://youtu.be/938InFjSDOM
 canon_order: 122
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/938InFjSDOM" title="Watch S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/938InFjSDOM)
 
 When [[Thea]] and a crowd of party animals drank every last drop of booze in [[The Dread Fortress|the Dread Fortress]], she recruited three champions to restock it: **[[Frigidoom]]**, a radioactive refrigerator; **[[Bob the Barbarian]]**, a jorts-clad Florida man; and **[[The Duke]]**, a rat magician with a bottomless hat. A simple beer run to [[Emmery's Tavern]] became a drinking contest, a whodunit and a brawl with the werewolf **[[Billy]]**. It ended with the newly bonded team being told they would have to fight each other in next week's Deathmatch.

@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/124 - Pieces of a King Ep 1 — DӒMMERUNG|Pieces of a King Ep 1 — DӒMMERUNG]] · [watch it on YouTube](https://youtu.be/G2Gln_aH8n8)*
+
 **Nehebka** is a Knight of the Void stationed at [[The Dread Fortress]]: a masked, sand-wreathed guardian who was made, not born, to protect someone else's power. She was played by CriticalBard, and by QR0WNTV in the fourth chapter. In the first arc of *Pieces of a King* she was the squad's oracle, interrogator and, when needed, its sandstorm. By the arc's end she had become something stranger still: the living vessel for a fragment of [[The Shadow King]]. She bears the Fortress's markings, but she has made it clear she serves exactly one master, and it is not [[Grandmaster Elusia Skypiercer|the Grandmaster]].
 
 ## Story

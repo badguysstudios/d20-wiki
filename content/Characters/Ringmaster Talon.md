@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]]*
+
 **Ringmaster Talon** is a very tall, masked showman drenched in blood. He runs a circus for a lich and fights with a scythe and blood magic. At the Full Sail Hall of Fame live show he faced the obscenely rich [[Maximilian Maxwell III]]. He died, was revived for cash, and died again in the same match. His last enemy was a storm of canned soup.
 
 ## Story

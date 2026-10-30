@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]] · [watch it on YouTube](https://youtu.be/z9W0eBMIptA)*
+
 **Victoro Cassalanter** is a self-described "devilishly handsome half-elf who likes coin and power." He came to the Void with a pocketful of magic and a pair of enormous, flowing "butterfly" pants. He fought a headless iron golem named [[Michael]] in [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]] and spent most of the match being hunted, smacked and lovingly crushed by an opponent who could neither see nor hear him. He walked away alive. His pride took more damage than he did, and he left with one urgent errand.
 
 ## Story

@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]] · [watch it on YouTube](https://youtu.be/_d7lIknz0n4)*
+
 **The Grand Coliseum** is the arena the Grandmaster chose to close out Season 1. For this finale she took her champions to "no far off location" and picked something almost shockingly ordinary: a classic coliseum under the night sky, ringed by stone columns and roaring [[The Acolytes|Acolytes]]. It didn't stay ordinary for long. By the end of the finale one of its walls was gone.
 
 ## Description

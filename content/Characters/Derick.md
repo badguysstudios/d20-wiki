@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/062 - S3E15 — Sunday Slam — Belet v Derick|S3E15 — Sunday Slam — Belet v Derick]] · [watch it on YouTube](https://youtu.be/d7xj5i1AaqE)*
+
 **Derick** was an old hippo cleric who sailed the rifts and black holes of space on his Spelljammer ship until the Arbiter plucked him out of one and dropped him into a Deathmatch. He arrived in his brother's armor, armed with a lance and shield, with no idea where he was and no tea, which he had left on the ship. What followed against [[Belet]] was one of the arena's more lopsided and more affectionate beatings: a wagon flipped onto an old man, a gift of pipe weed to a very grateful box, and a blunderbuss that nearly turned the fight around.
 
 ## Story

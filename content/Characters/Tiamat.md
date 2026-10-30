@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]] · [watch it on YouTube](https://youtu.be/yj4aWKZ78I8)*
+
 **Tiamat**, the Dark Queen of Dragonkind, is a goddess whose power reaches into the Void from somewhere far outside it. She has never appeared in person, but she has answered prayers twice. The first time, she turned a dying champion's plea into a brief, strange and oddly tender father-son story. The second time, she lent her favor, and her terror, to a battlefield "impossible eons away" from her. She is a figure of real might, and the Grandmaster and [[The Arbiter|the Arbiter]] are said to be her equals in power.
 
 ## Story

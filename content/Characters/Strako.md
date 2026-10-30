@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **Strako**, who calls himself **the Wild Shadow**, is a seven-foot-five barbarian whose rage spills out as unpredictable magic: exploding fairies, phantom hands and bursts of blinding light. He was pulled into the Void to fight [[Zayliss]] in [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]], and he dedicated the whole bout to [[Doug the Pug]]. He won with two wild swings of his beloved axe. Along the way he shoved an entire asteroid through space and killed a worm mayor named [[Timothy]], which he regretted for about one sentence.
 
 ## Story

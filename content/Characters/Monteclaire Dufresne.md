@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]] · [watch it on YouTube](https://youtu.be/_d7lIknz0n4)*
+
 **Monteclaire Dufresne** is a 93-year-old, Southern-drawling halfling who calls himself royalty and "a paladin of retribution." He faced [[Lucien Brack]] in the Season 1 finale, [[Episodes/Season 1/023 - S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)|S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale)]]. He opened the fight with a ferocious flurry and spent much of the middle on his knees being beaten by enchanted pebbles. When an invading army tore through the arena walls, he ended the night as Lucien's ally and one of the Coliseum's defenders.
 
 ## Story

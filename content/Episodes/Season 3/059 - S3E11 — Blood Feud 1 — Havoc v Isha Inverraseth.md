@@ -18,6 +18,8 @@ youtube: https://youtu.be/40qW36Pkg3I
 canon_order: 59
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/40qW36Pkg3I" title="Watch S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/40qW36Pkg3I)
 
 A werewolf alpha and the vampire who has been hunting her met in the Grandmaster's silent, fog-choked "dark city." It should have been a simple monster mash. Instead **Havoc** and **Isha Inverraseth** turned out to be childhood best friends bound by a blood oath, torn apart on the night Havoc's pack slaughtered their village. Between burning huts, pulled teeth and a genie who hated being called a shrub, it became one of the most heartfelt grudge matches the arena had seen. It ended with no death at all, frozen at the very last second.

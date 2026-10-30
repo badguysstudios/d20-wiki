@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]] · [watch it on YouTube](https://youtu.be/QVBk4kwR-qI)*
+
 **Livid Lady Lin** is a short, gruff, enormously muscled wizard who reads spellbooks "for hurting" and fights mostly on vibes. She was pulled into the Void to settle a long-running rivalry with the pompous [[Gandor Thalion Umbrae]] over the lease on a wizard's tower. She won one of the strangest wizard duels the arena has ever hosted, using baked beans, a phone call to Gandor's mother and a lightning bolt that bounced back onto her rival. Then she lost everything to [[The Arbiter|the Arbiter]] moments later.
 
 ## Story

@@ -22,6 +22,15 @@ youtube: https://youtu.be/T5LwxsIOyrU
 canon_order: 71
 ---
 
+<p class="video-label">Part 1</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/T5LwxsIOyrU" title="Watch Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 2</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/g1ZJDOsFcWU" title="Watch Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 3</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/vlbQUDJfdP0" title="Watch Into the Mirror 7–9 - Claws of Sand, Shifting Sands, Hourglass (session 2) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch on YouTube: [Part 1](https://youtu.be/T5LwxsIOyrU) · [Part 2](https://youtu.be/g1ZJDOsFcWU) · [Part 3](https://youtu.be/vlbQUDJfdP0)
 
 In a cold desert of blue sand, **[[Locket]]**, **[[Toddleheim]]** and the Grandmaster's own personal assistant **[[Elianna]]** finally found their lost friend **[[Flynry]]**, mid-battle and barely recognizable. What began as a scrappy scorpion fight turned into a tearful reunion and a grim lesson about where they really were. It ended with a sudden, shocking death.

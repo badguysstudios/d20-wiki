@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee]] · [watch it on YouTube](https://youtu.be/AAkj67ze3aQ)*
+
 **Dewdrop Grizzlebee** is a fairy scholar who claimed to have studied [[The Arbiter|the Arbiter]] and [[Grandmaster Elusia Skypiercer|the Grandmaster]] "for ages," and who learned to fight from a book called *Melee for Dummies*. He was played by TheShortNord. He faced [[Broose Scorchtail]] in the Grandmaster's forgotten brewery in [[Episodes/Season 2/039 - S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee|S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee]]. His dice failed him again and again, his hairline retreated every time he used his powers, and he ended the night at the bottom of a lake of ale.
 
 ## Story

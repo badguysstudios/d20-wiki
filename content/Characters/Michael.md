@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]] · [watch it on YouTube](https://youtu.be/z9W0eBMIptA)*
+
 **Michael**, the Headless Iron Golem, is a hulking suit of rocky iron with no head, no eyes, no ears and a great deal of love to give. He fought [[Victoro Cassalanter]] in [[Episodes/Playtests/009 - Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)|Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic)]]. He spent most of the fight dancing, hugging anything he could catch and throwing trees he mistook for his opponent. He was never really beaten. He was only sent away for a minute, and when he came back he had a dog.
 
 ## Story

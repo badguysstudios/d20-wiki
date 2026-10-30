@@ -14,6 +14,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/074 - Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios (ITM session 3)|Into the Mirror 10 Shatter + Into the Mirror 11 Mortaurios]] · [watch it on YouTube](https://youtu.be/0lTfjV0ByVs)*
+
 **Soul gems** are what's left of a person when they don't quite finish dying. In the sands of the world beyond the mirror, they turn up wherever someone ceased to be alive: shards of a soul that weren't completely obliterated into sand. The locals cut them, polish them and spend them like coins. That is a grim enough economy before you hear the rumor that the souls might still be inside.
 
 ## Description

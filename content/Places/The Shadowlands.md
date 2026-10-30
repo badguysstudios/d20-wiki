@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]]*
+
 **The Shadowlands** are the corner of [[The Void]] that even the Void finds unsettling. Once the realm of [[The Shadow King]], they are a land of ash plains, whispering wind and bottomless chasms, where light seems to give up before it can cross the air. Nobody has ever mapped the whole of it. Heroes have marched in on a rescue mission, and the Deathmatches have staged at least one fight there, much to [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s displeasure. In her words: "I always hated this place anyway."
 
 ## Description

@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & Baron Voltágè)]] · [watch it on YouTube](https://youtu.be/sJZl2Bydmlo)*
+
 **The land of the corrupted** is a dead forest in the Void where nothing lives and nothing grows. It served as the arena for the second round of the Battle for the Crown, the Arbiter's attempt to topple the Grandmaster with an army of champions he had brought back from death. The Grandmaster calls it her garden, and she had a very specific idea of how to make it bloom again.
 
 ## Description

@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] · [watch it on YouTube](https://youtu.be/rGz2Wjs9FHU)*
+
 **The Box of Chaos's shadowy figure** is the thing that lurks inside the Box of Chaos during the Season of Fate. It is a pair of yellow eyes and a set of claws hooked over the lid, and it has strong opinions. This resident is the Arbiter's own shadow. When the Box was left empty, the shadow of the Lord of Fate became its new soul. What it has shown of itself is part predator, part fashion critic and part picky eater who insists it isn't picky.
 
 ## Story

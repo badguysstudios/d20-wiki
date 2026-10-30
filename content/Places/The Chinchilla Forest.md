@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] · [watch it on YouTube](https://youtu.be/rGz2Wjs9FHU)*
+
 **The Chinchilla Forest** is where the Void gets its chinchillas. It is a stretch of tall trees and fresh air where the little creatures run wild, roll in talcum powder and grow big and strong nibbling the bones of champions left to rot there. It has hosted three Deathmatches so far. The forest has suffered for it: by the end of its second fight, part of it was stained orange, cratered and decayed into a radioactive wasteland.
 
 ## Description

@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/032 - S2E9 — Bees — Rosa v Veronica|S2E9 — Bees — Rosa v Veronica]] · [watch it on YouTube](https://youtu.be/5isJ1FM-NtE)*
+
 **Blissful Dwarf** is one of [[The Acolytes]], the citizens of the Void who pack the grandstands every week to watch champions fight to the death. He wasn't a champion, just a voice in the crowd with strong opinions about how much chaos a Deathmatch needs. That enthusiasm made him memorable, and in the end it made him useful: when [[The Shadow King]] needed a soul to power [[The Box of Chaos]], he picked Blissful Dwarf out of the crowd by name.
 
 ## Story

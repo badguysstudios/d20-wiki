@@ -18,6 +18,8 @@ youtube: https://youtu.be/GbnH7tPab-o
 canon_order: 113
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/GbnH7tPab-o" title="Watch S5E15 — Cosmic Collision — Teddy Oso v Ragu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/GbnH7tPab-o)
 
 Two returning favourites, the zombie-slaying **[[Teddy Oso]]** and the luxuriously coiffed **[[Ragu]]**, were dropped onto an asteroid in the rings of a roaring gas giant. They fought the longest battle of the season there. The match was booked by [[Thea]] as her last chance to keep her job. It featured a hijacked 1998 Chevy Impala, a frozen [[Chinchillas|chinchilla]], a nipple that changed hands twice, and a finishing kick delivered in genuine slow motion.

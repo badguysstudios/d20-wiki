@@ -20,6 +20,8 @@ youtube: https://youtu.be/ZAhiweAX4gI
 canon_order: 45
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZAhiweAX4gI" title="Watch S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ZAhiweAX4gI)
 
 Months after escaping the Arbiter's private arena, [[Toddleheim|Toddleheim]], [[Locket]] and [[Flynry]] are living with the resistance and taking stranger jobs by the week. This time the mission is the big one: break into [[The Dread Fortress]] and warn [[Grandmaster Elusia Skypiercer|the Grandmaster]] about her treacherous right hand. The road there runs through flirtation, a knife smith who just stabs people, a trench-coat jewelry dealer, a river of magical acid and a monster made entirely of sewage. It ends with **[[The Arbiter|the Arbiter]] finally confessing everything** to the Grandmaster's face.

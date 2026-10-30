@@ -18,6 +18,8 @@ youtube: https://youtu.be/bkiAqjP4Weo
 canon_order: 28
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/bkiAqjP4Weo" title="Watch S2E4 — Antsy — Glub Glub v Geril-Lee on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/bkiAqjP4Weo)
 
 **Glub Glub**, self-proclaimed smartest hobgoblin of his tribe, faced **Geril-Lee**, a small and apparently terrified fighter, in the old hunting grounds of [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s family. What began as a solemn tribute to bloodline and legacy turned into a vulture-sound contest, a splinter emergency, a blessed walrus butthole and a sequence of escalating assaults on one hobgoblin's balls and butthole. It is also, somehow, a story about a lonely genius who finally made a friend.

@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]] · [watch it on YouTube](https://youtu.be/jR2qzQsXBg0)*
+
 **Kabehe's Temple** is an ancient desert temple carved into a mountain, its depths buried in red sand and the dust of old bones. The Grandmaster called it "my temple of the lost," and it served as the arena for [[Episodes/Season 1/017 - S1E8 — Fireballs — Grorx v Lord Xiren|S1E8 — Fireballs — Grorx v Lord Xiren]], where [[Grorx]] and [[Lord Xiren]] fought. It had hieroglyphs of dogs on its walls, a sunlit statue in its ceremonial heart, and a lock built by Grorx's own father. It didn't survive the match: the temple collapsed in the match's final chaos event.
 
 ## Description

@@ -18,6 +18,8 @@ youtube: https://youtu.be/ILYSryi_t98
 canon_order: 29
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ILYSryi_t98" title="Watch S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ILYSryi_t98)
 
 For the Grandmaster's birthday, there was no ordinary duel. **[[Dan Kowalski]]**, a party-loving satyr, and **[[Gordy Gotta Get Em]]**, a small, twitchy stabber, were sent racing side by side through **[[The Jungle Gauntlet]]**, her oldest training ground, under a simple rule: first across lives, last dies. Along the way came murderous squirrels, a dragon named Gerard, a foreskin-wrapped wand, a lovesick Babau and a carrot called Crazy Eyes Tony. It made for a strange, sweet and brutal birthday party.

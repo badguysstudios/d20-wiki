@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **Kenny** is a goblin gambler, cheat and self-described "steel trap" who served the Faithful, the resistance loyal to [[Grandmaster Elusia Skypiercer|the Grandmaster]], as an intelligence agent. He was a bad spy, a worse gambler and, by his own account, a man with no friends. Even so, his scouting got two separate parties where they needed to go, and his ugly end in the sewers beneath [[The Dread Fortress]] gave his allies a warning. Long after his death he kept turning up: in memories, in illusions, and once as a detached arm.
 
 ## Story

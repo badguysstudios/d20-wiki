@@ -18,6 +18,8 @@ youtube: https://youtu.be/ExL4R8zGMUc
 canon_order: 84
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ExL4R8zGMUc" title="Watch S4E6 — The Hunt — Witch Hunter v Grickle on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ExL4R8zGMUc)
 
 A lovestruck centaur paladin named **Witch Hunter** faced **[[Grickle]]**, a four-armed, eyelid-free thri-kreen, on a stretch of ice the Grandmaster couldn't be bothered to name creatively. What began as a parade of flirting, stray nipples and a naked man named Bruce turned into one of the more unexpectedly tender endings in the arena. The bug tried to save the centaur from drowning, and the centaur left the bug his family's glaive. Then [[The Shadow King]] stepped in and ended things the way he ends everything.

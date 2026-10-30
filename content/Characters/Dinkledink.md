@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]] · [watch it on YouTube](https://youtu.be/yj4aWKZ78I8)*
+
 **Dinkledink**, who insists on the full title **Dinkledink Rules Ass**, is a foul-mouthed, double-toothed rodent champion recruited from a mall Santa line. He fought [[Potato]] in the holiday Deathmatch [[Episodes/Season 1/021 - S1E12 — Feast — Potato v Dinkledink|S1E12 — Feast — Potato v Dinkledink]]. He arrived wanting candy canes. Over the course of a single feast he became his opponent's adoptive father, fought beside him inside a giant's mouth, and buried him under a placemat. He won, and the match became one of the strangest and most tender in the arena's history.
 
 ## Story

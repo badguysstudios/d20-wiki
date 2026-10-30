@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/003 - Skypiercer Part 3 (finale)|Skypiercer Part 3 (finale)]]*
+
 **The Dragon Knights** are the masked dragonborn followers of [[The Shadow King]], a horde that steps out of walls and shadows with blades of pure darkness in hand. They have served him since before he was a king, when he was still "just Agdrel the Shadow, a great warrior." They first appeared in the final chapter of the [[Skypiercer]] prequel, and they returned centuries later to stand at their master's side when he came back to power.
 
 ## Story

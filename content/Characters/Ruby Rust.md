@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]] · [watch it on YouTube](https://youtu.be/PwtNfOqk9dw)*
+
 **Ruby Rust** is a giant constrictor snake with a day job in software development and a side career as a champion fighter. He has no arms, no legs and no nipples, and every one of those facts became a joke at some point. Across two Deathmatches in the Season of Fate he went from an underprepared office python to a non-Euclidean horror who frightened his own hosts. His story ended in an odd kind of peace: no more deadlines, no more taxes, just hunting for mice.
 
 ## Story

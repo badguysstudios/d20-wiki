@@ -20,6 +20,8 @@ youtube: https://youtu.be/H5cix5wMKEY
 canon_order: 25
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/H5cix5wMKEY" title="Watch S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/H5cix5wMKEY)
 
 Three former teammates, [[Toddleheim]], [[Locket]] and [[Flynry]], were thrown onto [[The sands of the arena|the sands of the arena]] and ordered to kill each other. They flatly refused, which the Arbiter said no champions had ever done before. What followed was a gauntlet of vampire kobolds, Deathlocks, a night hag and a tidal wave of werewolves, a desperate rescue by a stranger with swords made of darkness, and a quiet night among new friends. It was also the episode where [[The Arbiter]] stopped pretending.

@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/132 - S7E4 — The Cheese — Sila v Ol' Pumpernicklejack|S7E4 — The Cheese — Sila v Ol' Pumpernicklejack]] · [watch it on YouTube](https://youtu.be/ws05JEOlejg)*
+
 **Sila** was a talking rat in a billowing blue scarf who entered the arena with one goal: to find "the cheese," whether it killed her or not. She fought [[Ol' Pumpernicklejack]] in the Season of Vigilance and spent most of the match digging up graves instead of attacking him. Along the way she uncovered her missing best friend, turned his coffin into a lava raft, and invited her own opponent aboard. She lost, but she got her last wish, and few champions have died so thoroughly coated in poop and in their life's purpose.
 
 ## Story

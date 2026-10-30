@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]] · [watch it on YouTube](https://youtu.be/4LNVK_cQlb8)*
+
 **Harry** is a goblin and one of the small, industrious crew who built a map of [[The Void]] in [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]]. The Void holds countless lost worlds and broken realms, so someone has to put the trees and rivers in the right places, and on that day the job fell to Harry and his colleagues Henrietta and Louise. He is a background figure, but a hardworking one.
 
 ## Story

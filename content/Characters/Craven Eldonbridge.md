@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/002 - Skypiercer Part 2|Skypiercer Part 2]]*
+
 **Craven Eldonbridge** is a leonin with gray and black fur and a staff that throws off light, and the leader of Atheranon during the events of [[Skypiercer]]. He appears during Elusia's return to [[The Void]]. He met her party with real suspicion, changed his tune the moment he learned who she was, and led the army's charge on horseback in the finale.
 
 ## Story

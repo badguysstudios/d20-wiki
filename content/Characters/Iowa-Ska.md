@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/133 - S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble|S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble]] · [watch it on YouTube](https://youtu.be/M-MFNntwymg)*
+
 **Iowa-Ska** is a green dragonborn fighter, played by CaptainRoBear, who came to the Void in his mid-forties after "30 years in middle management" and won his only Deathmatch against the wrestler [[The Pebble]]. He arrived in a tropical-feather headdress and a barbarian loincloth, with a halberd, a jug of unknown liquid, and a leopard named Odorongo that nobody else could quite see. His fight was a midlife crisis in the arena: podcast-recommended supplements, a scratched Vespa, a poison-filled condom, a stampede of giant chinchillas and a DMT vision. It ended with a halberd driven straight through the Pebble's barbed-wire tramp stamp.
 
 ## Story

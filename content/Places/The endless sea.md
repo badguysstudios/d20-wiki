@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]] · [watch it on YouTube](https://youtu.be/o_3-vKNmkWY)*
+
 **The endless sea** is exactly what it sounds like: a sea without end. Out on it, an island rode on the back of an eternal turtle. That island served as the arena when [[Grandmaster Elusia Skypiercer|the Grandmaster]] pitted [[Dadrith]] against [[Baron Voltágè]] in [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]]. The turtle had its limits, and the champions were told from the start that one of them would not be staying aboard.
 
 ## Description

@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]] · [watch it on YouTube](https://youtu.be/F3quJx-d_f4)*
+
 **The Shadow King's old home** was the arena for [[Episodes/Season 4/076 - S4E1 — Shadows Reign — Atalantos v Kaja|S4E1 — Shadows Reign — Atalantos v Kaja]], the first Deathmatch of Season 4. With [[The Shadow King]] back in power, the season opened in a place he had once called home: an obelisk strangled by thirsty vines, standing over a pool of blood with the dead floating in it. It made an unsubtle welcome mat for his reign.
 
 ## Description

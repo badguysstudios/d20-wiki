@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]] · [watch it on YouTube](https://youtu.be/tov4yw1rGHg)*
+
 **Metal Chairs** are the most beloved blunt instrument in the Void. When [[The Acolytes]] demand chaos, there is a good chance it arrives as the scrape of steel dragged across the floor and a host leaping from on high with a chair over their head. What began as a coin-flip gamble in the first season became, by the Shadow King's own description, "the classic." The chairs have since done duty as wrestling props, grandstand seating, and an intervention circle.
 
 ## Description

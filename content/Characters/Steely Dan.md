@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]] · [watch it on YouTube](https://youtu.be/BRc-Sdygomg)*
+
 **Steely Dan** was a hulking warforged paladin and a walking mixtape. He was a giant armored machine with a glaive, and he could speak only by playing cassettes of wildly misheard song lyrics loaded into his chest. He fought in the Void's first-ever 2v2 Deathmatch, where he befriended a haunted doll, sang karaoke off his own forehead and was stabbed repeatedly by his own teammate. He was then killed by a pillow and used as a weapon. His creator, [[Diamond Joe]], later came looking for him.
 
 ## Story

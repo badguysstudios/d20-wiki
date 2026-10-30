@@ -18,6 +18,8 @@ youtube: https://youtu.be/QptrBbj427Y
 canon_order: 106
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/QptrBbj427Y" title="Watch S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/QptrBbj427Y)
 
 **Granny Edith** came back to the arena hoping for a rest and got a shotgun-toting zombie hunter instead. In a moonlit graveyard on October 1st, the start of Thea's thirty days of Halloween, she fought **Teddy Oso**, a cheerful survivor of the zombie apocalypse who ran on energy drinks and bad decisions. What began as a man kicking an old lady in the butt ended with the floor turning to lava and Granny hurling a loaf of bread the size of a boulder. Along the way she fed the Box of Chaos its first-ever cookie.

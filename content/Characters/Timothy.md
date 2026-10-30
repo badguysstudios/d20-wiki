@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **Timothy** was a small, glowing, caterpillar-like alien and the mayor of the Worm's Town, a little civilization living on an asteroid. He had brought his people peace and prosperity. Then he had the bad luck to be on that asteroid when [[Strako]] and [[Zayliss]] arrived to fight to the death. His brief appearance and spectacular end made him one of the Void's most fondly remembered casualties, and the Grandmaster still says "never forget."
 
 ## Story

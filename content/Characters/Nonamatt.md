@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/090 - S4E10 — Rivals — Nonamatt v Decima|S4E10 — Rivals — Nonamatt v Decima]] · [watch it on YouTube](https://youtu.be/Go92zPBd9JA)*
+
 **Nonamatt** is a gaunt, trembling wizard who walked into the Deathmatch apologizing and walked out having killed their own twin. They came to fight [[Decima]] over an idea: that no one, not even a grieving sibling, should hold the power of [[Fil|the God of Fate]]. The match turned out to be one of the most heartbreaking the arena has seen. It ended with the [[Grandmaster Elusia Skypiercer|Grandmaster]] putting a spear to [[The Shadow King|the Shadow King]]'s throat to save Nonamatt's life.
 
 ## Story

@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/062 - S3E15 — Sunday Slam — Belet v Derick|S3E15 — Sunday Slam — Belet v Derick]] · [watch it on YouTube](https://youtu.be/d7xj5i1AaqE)*
+
 **Belet** is a noble adventurer from Waterdeep and the self-described "seventh in a long line of nobility." As she put it, her parents "don't give me shit," so she went out to earn her own treasure, mostly by killing evil dragons. Pulled into the Void to fight the hippo cleric [[Derick]], she brought a longsword, two family javelins, a pouch of hag's eyes for good dogs and an unshakeable belief in labor rights. She left as the winner, with a splinter in her shin that she still had at the end of the night.
 
 ## Story

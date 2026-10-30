@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]] · [watch it on YouTube](https://youtu.be/2wOVPYpXoGI)*
+
 **Ray S'urdead** (say it out loud: "raise your dead") was a wizard and necromancer from a longstanding family of necromancers. He was pulled into the Void to fight Squiggles, a gnome pool caretaker in floaties, in [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]. With perfect skin, perfect nails and a voice straight out of an audiobook, he had the Grandmaster blushing before a single blow landed. Then almost every spell he cast slid off his opponent, and his grand finale erased him from the arena.
 
 ## Story

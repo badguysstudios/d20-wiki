@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/082 - S4E4 — Death Dealers — The Scourge v Bone Daddy|S4E4 — Death Dealers — The Scourge v Bone Daddy]] · [watch it on YouTube](https://youtu.be/_GrpNwQGDro)*
+
 **The Scourge** is a self-proclaimed avenger of justice, a sleeveless aasimar "blessed since he was a little aasimar with the presence of the divine," who often speaks of himself in the third person. He was pulled into the Void to face the necromancer [[Bone Daddy]] in [[Episodes/Season 4/082 - S4E4 — Death Dealers — The Scourge v Bone Daddy|S4E4 — Death Dealers — The Scourge v Bone Daddy]]. He won by crushing his rival in a giant snake's coils and holding him close for one last heartfelt question. His victory prize from [[The Shadow King]] was the sort of reward that makes winning look like a mixed blessing.
 
 ## Story

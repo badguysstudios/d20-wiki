@@ -18,6 +18,8 @@ youtube: https://youtu.be/2wOVPYpXoGI
 canon_order: 137
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2wOVPYpXoGI" title="Watch S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/2wOVPYpXoGI)
 
 A gnome pool caretaker in floaties and a drawn-on mustache met a velvet-voiced necromancer who was more or less Halloween in human form, in the Void's graveyard arena. **Squiggles** and **[[Ray S'urdead]]** fought among the dead while the Grandmaster blushed at one champion and begged him to destroy the other. It ended with a robbed Box of Chaos, an artificial sun, and fifty-eight furious ghosts proving that "I'm rubber, you're glue" is a valid combat strategy.

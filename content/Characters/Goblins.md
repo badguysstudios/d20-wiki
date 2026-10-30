@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/003 - Skypiercer Part 3 (finale)|Skypiercer Part 3 (finale)]]*
+
 The **Goblins** are the beating, slightly sticky heart of [[The Dread Fortress]]. They scrub the toilets, run the sound, carry the paintings, bake the cheesecakes (badly), hold the [[Grandmaster Elusia Skypiercer|Grandmaster's]] popcorn, and haul the bodies off the arena floor when a Deathmatch is done. Few in the Void have suffered more for the show, and when they applaud, it is only "because they have to." Over the years they have been bald, unionized, mind-controlled, slaughtered and handed pet insurance, and they keep coming back to work anyway.
 
 ## Story

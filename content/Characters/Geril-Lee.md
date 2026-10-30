@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]] · [watch it on YouTube](https://youtu.be/bkiAqjP4Weo)*
+
 **Geril-Lee** is a small, nervous-seeming champion with eight tongue piercings, twin daggers and a startlingly dark streak. She was played by winterstales. She arrived in the Void insisting there had been a mistake, then won one of the strangest fights in Deathmatch history in [[Episodes/Season 2/028 - S2E4 — Antsy — Glub Glub v Geril-Lee|S2E4 — Antsy — Glub Glub v Geril-Lee]]. She beat [[Glub Glub the Glorious|Glub Glub]], the self-proclaimed smartest hobgoblin of his tribe, by refusing to fight fair in the most creative ways she could think of.
 
 ## Story

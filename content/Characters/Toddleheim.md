@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **Toddleheim** is a short, gray-bearded dwarf wizard with a hat, nice robes and more than a century of spellcasting behind him. He was framed as a traitor by [[The Arbiter|the Arbiter]] and thrown into the arena, and he came out the other side with a werewolf's bite and a role in exposing the Arbiter's scheme. He won the first round of the war for [[Grandmaster Elusia Skypiercer|the Grandmaster's]] crown and then followed his fallen friend [[Flynry]] into the afterlife. A wizard, a wolf and a terrible traveler, he has become one of the Void's more unlikely survivors.
 
 ## Story

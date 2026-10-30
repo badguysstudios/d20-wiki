@@ -18,6 +18,8 @@ youtube: https://youtu.be/7r5FXMGBUMo
 canon_order: 60
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/7r5FXMGBUMo" title="Watch S3E12 — Blood Puppets — Basil Herringbone v Befferfoot on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/7r5FXMGBUMo)
 
 **Blood Puppets** pitted **[[Basil Herringbone]]**, a self-described "rabbit boy man" in a transitional period, against **[[Befferfoot]]**, a half-orc who had come to kill, to maim, and apparently to destroy grammar. They fought in a waterfall-sealed cave that [[Grandmaster Elusia Skypiercer|the Grandmaster]] could only bring herself to call "my cave of wonders." Over the next hour and a half there was a self-amputation, an alien abduction, a giant frog, an emotional-support Corgi, and a rain of edible underwear. The Grandmaster summed it up herself: "This is the weirdest fight."

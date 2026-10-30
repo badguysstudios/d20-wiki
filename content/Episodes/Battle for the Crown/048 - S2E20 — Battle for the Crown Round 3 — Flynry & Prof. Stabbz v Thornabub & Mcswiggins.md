@@ -22,6 +22,8 @@ youtube: https://youtu.be/Hbh8mIVUDZ0
 canon_order: 48
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Hbh8mIVUDZ0" title="Watch S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Hbh8mIVUDZ0)
 
 The final round of the Battle for the Crown sent **[[Flynry]]** and **[[Professor Stabbz|Prof. Stabbz]]**, fighting for [[Grandmaster Elusia Skypiercer|the Grandmaster]], into an ancient jungle temple against [[The Arbiter|the Arbiter]]'s picks, **[[Thornabub]]** and **[[Mcswiggins]]**. Whoever won the night would wear the crown. What followed involved an exploding duck, a pillow fight, a poem fed to a box, a tongue frozen to a block of beer and a sky full of meteors. It ended with the Arbiter being led around the arena on a leash by a pug in a tuxedo-like outfit.

@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]] · [watch it on YouTube](https://youtu.be/N9v_lqUFFuU)*
+
 **The Topaz Dragon** was the [[Grandmaster Elusia Skypiercer|Grandmaster]]'s own Halloween "aspect." The [[The Arbiter|Arbiter]] drew out her shadow and reshaped it into an Ancient Topaz Dragon so it could enter a battle royale of dragons. Played by Caustic Phoenix, she was a piece of the Grandmaster thrown into the arena where, unlike the original, she could actually die. She made that count, killing the Hollow Dragon and crushing his skull before the Amethyst Dragon brought her down.
 
 ## Story

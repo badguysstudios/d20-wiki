@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/042 - Coriander Society - Fate of The Faithful Part 3 — A Crossover|Coriander Society - Fate of The Faithful Part 3 — A Crossover]] · [watch it on YouTube](https://youtu.be/PVwtTWKQKz4)*
+
 **The bloodfalls structure** is a building on a cliffside, and it is exactly as cheerful as the name suggests. It appeared in [[Episodes/Fate of the Faithful/042 - Coriander Society - Fate of The Faithful Part 3 — A Crossover|Coriander Society - Fate of The Faithful Part 3 — A Crossover]]. Somewhere inside, a plant held an ewer. There were four ways to approach the place.
 
 ## Description

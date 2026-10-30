@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1]] · [watch it on YouTube](https://youtu.be/cbN7tMUzhGo)*
+
 **Elianna** is the personal assistant of [[Grandmaster Elusia Skypiercer|the Grandmaster]]: a small, bespectacled tiefling who carries a book everywhere, takes notes on everything and has never been in a fight in her life. When the Grandmaster sent a rescue party after the fallen champion [[Flynry]], Elianna went along as chaperone, carrying a promise to her lady that she would come back safely. Somewhere in the green sands of the afterlife she became the group's healer, mapmaker, contract-writer and diplomat. Now and then she also slits a throat. She does all of this while cursing under her breath and asking everyone she meets whether they are happy.
 
 ## Story

@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]] · [watch it on YouTube](https://youtu.be/ha_N5uqx6AM)*
+
 **The Oasis** has one of the least honest names in the Void. It was whispered about as a place once connected to the land of the living, a possible way out. When the party finally stepped into it in [[Episodes/Into the Mirror/093 - Into the Mirror 17, The Way Out|Into the Mirror 17, The Way Out]], they found broiling lava and the smell of sulfur everywhere.
 
 ## Description

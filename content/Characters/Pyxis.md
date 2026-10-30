@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Pyxis** was a huge, bulky mammoth in armor who carried a war hammer and a grudge, and was unfailingly polite about both. He arrived in [[The Void]] for the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|Wounded Warrior Project Capture the Flag crossover]] looking for the three people who had killed his loved ones. He found three champions who matched his description in the same room. He spent the match wiping up a duck's poop, quietly abandoning that duck, and finally calling down the moon itself to finish his quest with his dying breath.
 
 ## Story

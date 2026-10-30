@@ -23,6 +23,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/104 - S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley|S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley]] · [watch it on YouTube](https://youtu.be/LAPG4OOUWfc)*
+
 **King Man Frog Bofus** is the self-proclaimed "King of the frog people, man people frogs": a short, ripped, suspiciously oily British monarch in a deflating frog mask, with a tape-measure tongue and an army of tiny frogs living under his headgear. He fought at least three times in the Season of Fate, when [[The Arbiter|the Arbiter]] ruled the Void as the Lord of Fate. His first bout ended with no winner. By his last he had been killed and rebuilt so many times that all he wanted was to die for good. He finally lost to [[Kyle Stoddard]] and the power of anime, which was almost certainly the worst way he could have gone.
 
 ## Story

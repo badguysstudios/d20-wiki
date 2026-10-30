@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Grog the Malodorous** was a 7'3" centaur ("part horse," as he put it, "built as a steed") who was pulled into [[The Dread Fortress]] for a charity Capture the Flag Deathmatch. He loved food, singing and above all his own smell, a "natural essence" so potent that people could feel it. He couldn't count, couldn't read and hated riddles, but he ate everything put in front of him, farted his way through a room full of sleeping chinchillas until they woke, put a giant worm off her dinner, and was one of the last two champions standing.
 
 ## Story

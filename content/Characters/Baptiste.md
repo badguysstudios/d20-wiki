@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]] · [watch it on YouTube](https://youtu.be/Yp1NY5wF6kM)*
+
 **Baptiste** is a slender elf with silvery-white hair, a swishing cloak and more daggers than any one body should be able to hold. He serves the Faithful at their hideout in a blacksmith's forge, and by his own account he is a knife smith, which in his case means "I just stab people." He flirts with nearly everyone he meets and opens most conversations by asking whether he has ever stabbed them. Through all of it he became the unlikely sweetheart of [[Locket]].
 
 ## Story

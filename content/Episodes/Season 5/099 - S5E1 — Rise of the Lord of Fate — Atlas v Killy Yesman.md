@@ -18,6 +18,8 @@ youtube: https://youtu.be/eYFb1-4IUMk
 canon_order: 99
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/eYFb1-4IUMk" title="Watch S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/eYFb1-4IUMk)
 
 Season Five opened on a very different Void. The Grandmaster had been "laid off," and a bored new ruler, the **Lord of Fate**, sat alone on the throne of [[The Dread Fortress]]. He needed an assistant, so he made [[Thea]] out of a worm. Together they held the season's first Deathmatch on the front lawn, "old school": [[Atlas]], a mouthless robot with floating fists, against [[Killy Yesman]], a salesman willing to die for [[Double Sun Cola]]. Along the way the shed got used, the lawnmower got used, a new soul was poured into [[The Box of Chaos]], and one champion lost a fight to his own head.

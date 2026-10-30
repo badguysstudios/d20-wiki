@@ -11,6 +11,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]] · [watch it on YouTube](https://youtu.be/o_3-vKNmkWY)*
+
 The **Ring of Three Wishes** is exactly what it sounds like: a ring holding three wishes, and three chances for things to go horribly wrong. It entered the arena as a prize for [[Baron Voltágè]], who paid for it with his soul. It has turned up since, once as an object of desire and once as a slightly used collectible card.
 
 ## Description

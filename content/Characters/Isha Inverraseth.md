@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/059 - S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth|S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth]] · [watch it on YouTube](https://youtu.be/40qW36Pkg3I)*
+
 **Isha Inverraseth** is a vampire archer known among the werewolf packs as the Lycan Slayer. She came to the Void with one purpose: to finally face [[Havoc]], her oldest friend, who once left her bleeding in a forest. Played by blackgirlmage, she fought in [[Episodes/Season 3/059 - S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth|S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth]], which was meant to become the show's first unplanned two-parter. It was a grudge match so raw that [[Grandmaster Elusia Skypiercer|the Grandmaster]] froze the fight rather than let it end in the wrong place.
 
 ## Story

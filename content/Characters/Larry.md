@@ -9,6 +9,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]] · [watch it on YouTube](https://youtu.be/ovggvygtAQ8)*
+
 **Larry** has never set foot in the arena, yet his name keeps turning up in it. The first Larry is a friend of [[The Arbiter]] who works at a blood bank and was once thrown out of a Christmas party. The second is the better-fighting brother of the champion [[Derick]], whose armor Derick wore into a Deathmatch. Nothing in the Void's records says whether these two Larrys are the same man. The Grandmaster did note that it's "a family name."
 
 ## Story

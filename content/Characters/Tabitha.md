@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]] · [watch it on YouTube](https://youtu.be/79XmmuV_274)*
+
 **Tabitha** is a name the Void has given to two small, easily overlooked lives. The first Tabitha was a worm who crawled out onto an asteroid at exactly the wrong moment in [[Episodes/Season 1/016 - S1E7 — Wild Magic — Strako v Zayliss|S1E7 — Wild Magic — Strako v Zayliss]]. The second was a goblin employee of [[The Dread Fortress]] in [[Episodes/Season 4/090 - S4E10 — Rivals — Nonamatt v Decima|S4E10 — Rivals — Nonamatt v Decima]], one of the staff the Grandmaster insisted were people with names. Nothing in the show connects the two beyond the name. Both are a reminder that the Deathmatches have a lot of bystanders.
 
 ## Story

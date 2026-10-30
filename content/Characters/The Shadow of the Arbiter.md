@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/012 - S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter|S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter]] · [watch it on YouTube](https://youtu.be/t0AoL4fBrVE)*
+
 **The Shadow of the Arbiter** is exactly what it sounds like: a white, ethereal echo of [[The Arbiter]], torn out of his chest by his own hand. He carries a sliver of the Arbiter's power and, by the Arbiter's own admission, "the worst parts" of him. He is creepy, whispery, petty, and quietly convinced the Void should belong to him and his maker. He has fought in two Deathmatches, lost both, and both times used the arena to plot openly against [[Grandmaster Elusia Skypiercer|the Grandmaster]], which has left the Arbiter doing a lot of uncomfortable explaining. He is played by Mudcat.
 
 ## Story

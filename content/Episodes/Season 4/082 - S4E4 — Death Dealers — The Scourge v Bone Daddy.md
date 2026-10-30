@@ -18,6 +18,8 @@ youtube: https://youtu.be/_GrpNwQGDro
 canon_order: 82
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/_GrpNwQGDro" title="Watch S4E4 — Death Dealers — The Scourge v Bone Daddy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/_GrpNwQGDro)
 
 Two sleeveless showmen with one very specific grudge met in the Void: **[[The Scourge]]**, a righteous aasimar who fought as a giant snake, and **[[Bone Daddy]]**, a necromancer who called his skeletons his children. The fight had steel chairs swung from the stands, a fistful of state quarters fed to [[The Box of Chaos]], a skeleton mech and a sudden cold snap that shrank everyone. It ended as a wrestling-style grudge match that somehow became a tearjerker, when the skeleton **[[Darcy]]** carried her father off the edge of the platform into the void.

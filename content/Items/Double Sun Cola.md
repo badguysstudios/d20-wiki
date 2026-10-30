@@ -13,6 +13,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/099 - S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman|S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman]] · [watch it on YouTube](https://youtu.be/eYFb1-4IUMk)*
+
 **Double Sun Cola** is the most refreshing of colas you can buy "on this or any Deathmatch world," at least according to Atlas. It is also an adhesive, a paint stripper and a fire hazard, and it has been banned in at least three countries. It arrived in the arena with its loudest salesman, [[Killy Yesman]]. From there it became a weapon, a fuel, a mutagen and a concession-stand staple, and somewhere along the way it turned out to have been the beating heart of [[Atlas]] all along.
 
 ## Description

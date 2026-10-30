@@ -16,6 +16,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]] · [watch it on YouTube](https://youtu.be/Yp1NY5wF6kM)*
+
 **Prexmarin**, the Hanging City, is one of the great cities of [[The Void]]. It is a stack of neighborhoods dangling from colossal chains that vanish up into a fog-filled sky, and nobody can say what they hang from. Prexmarin has sent volunteers to a rebellion, sheltered spies in a shadow war, served as a backdrop for one champion's fondest dreams, and lost a perfectly good Radio Shack. It is also, as visitors found out, sitting on top of something that really should have stayed asleep.
 
 ## Description

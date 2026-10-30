@@ -18,6 +18,8 @@ youtube: https://youtu.be/R3tgq6Mj5mY
 canon_order: 7
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/R3tgq6Mj5mY" title="Watch Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/R3tgq6Mj5mY)
 
 A catfish-man in a trench coat and a finger-collecting goliath were thrown into **[[The Isolated Keep]]**, the Grandmaster's secret arena, which is stowed away from time and space and riddled with portals. The fight did not stay one-on-one for long. Thanks to a time portal, [[Mudcat Mahomes]] ended up fighting three different versions of [[Thunk]], one of them with eight arms, while dodging a pet dinosaur and a blood elemental named Hamster. It is also the match where a champion shot the Grandmaster. It ended with the two survivors arranging to watch *Top Gun* together.

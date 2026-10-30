@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/086 - S4E8 — Blood Rain — Fatale v Claudia|S4E8 — Blood Rain — Fatale v Claudia]] · [watch it on YouTube](https://youtu.be/4LNVK_cQlb8)*
+
 **Tim** is one of the many strange residents of the Void who still made an impression. He is best known as a gelatinous cube living downstairs in the kitchen of [[The Dread Fortress]]. He is a wobbling block of acidic goo with a big appetite and, at least once, a tactical use.
 
 ## Story

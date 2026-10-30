@@ -18,6 +18,8 @@ youtube: https://youtu.be/MTC_6sqV8d0
 canon_order: 87
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MTC_6sqV8d0" title="Watch S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/MTC_6sqV8d0)
 
 **Stanley "Second Life" Gibbs**, the self-proclaimed fastest gun in the West, met **[[Gideon Regalis Electus Gregorius the 537th|Gideon Regalis Electus Gregorius the 537th]]**, a polite, terrified and endlessly apologetic duelist who just wanted an honorable fight. They fought in an abandoned saloon in a Western ghost town. Stanley died ten times and kept getting back up. Greg lost a toe and three fingers, and the real villain of the night turned out to be his own pair of pistols.

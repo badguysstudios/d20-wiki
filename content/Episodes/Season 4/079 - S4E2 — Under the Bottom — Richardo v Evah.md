@@ -18,6 +18,8 @@ youtube: https://youtu.be/nOz9MpQHR7g
 canon_order: 79
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/nOz9MpQHR7g" title="Watch S4E2 — Under the Bottom — Richardo v Evah on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/nOz9MpQHR7g)
 
 Two barbarians were pulled into an old pirate cove on the open sea: **[[Richardo|Richardo "Over the Top" Johnson]]**, an arm wrestler who thought he had come to an arm-wrestling match, and **[[Evah]]**, a woman who let her glaive do the talking. The fight had a blood fountain, a squadron of grandmothers, a table worn as a tutu and a mother crowd-surfing to her son's aid. It also showed what a Deathmatch looks like when [[The Shadow King]] is the one keeping score.

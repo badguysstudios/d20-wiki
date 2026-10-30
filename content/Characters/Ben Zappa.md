@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/092 - S4E12 — Racoons — Sam Cletus v Ben Zappa|S4E12 — Racoons — Sam Cletus v Ben Zappa]] · [watch it on YouTube](https://youtu.be/SmMFUGbuv1E)*
+
 **Ben Zappa** is a monk with a very specific problem: he is haunted by **the Jolly Chimp**, the ghost of one of those antique cymbal-banging monkey toys, except this one has "a fist the size of a car." It has ruined his sleep, his job and his dating life. He came to the Void hoping the Deathmatch would finally get rid of it. He left the arena without an eye, with rabies, and locked inside [[The Box of Chaos]], but also as the winner and, somehow, at peace with his monkey.
 
 ## Story

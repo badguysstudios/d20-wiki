@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/042 - Coriander Society - Fate of The Faithful Part 3 — A Crossover|Coriander Society - Fate of The Faithful Part 3 — A Crossover]] · [watch it on YouTube](https://youtu.be/PVwtTWKQKz4)*
+
 **Lawrence's Tuning Fork** is one of the smaller, stranger objects to pass through the Void during the Fate of the Faithful crossover, when the Coriander Society crossed paths with the Grandmaster's world. As the name says, it belonged to someone called Lawrence. Next to company like a stick of TNT and a bloodletting set, a humble tuning fork stands out for how quiet it is.
 
 ## Description

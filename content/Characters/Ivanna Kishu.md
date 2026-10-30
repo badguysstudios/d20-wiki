@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/013 - S1E4 — Multiclass — Kleen v Ivanna Kishu|S1E4 — Multiclass — Kleen v Ivanna Kishu]] · [watch it on YouTube](https://youtu.be/ovggvygtAQ8)*
+
 **Ivanna Kishu** was an aasimar druid, a self-described "protector," who was pulled into the Void to fight the warlock [[Kleen]] in a frozen, abandoned mine. Her name is a pun ("I wanna kiss you"), and she lived up to it, blowing kisses at her enemies and promising to smooch them between spells. She lost the fight, but her story didn't end in the snow. [[The Arbiter]] carried her off to his laboratory and quietly brought her back to life.
 
 ## Story

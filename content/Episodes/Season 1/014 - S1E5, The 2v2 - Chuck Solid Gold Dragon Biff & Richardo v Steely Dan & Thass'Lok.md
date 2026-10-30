@@ -22,6 +22,8 @@ youtube: https://youtu.be/BRc-Sdygomg
 canon_order: 14
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BRc-Sdygomg" title="Watch S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/BRc-Sdygomg)
 
 Four strangers were pulled into the arena's **first-ever 2v2**, fought across the grinding gears of [[The Clock of the Lost]], and then mostly ignored the teams they'd been given. A wrestling dragonborn, a bullfighting lizardfolk archer, a lizardfolk who drowns people for the Lady of the Ocean and a warforged who speaks only through cassette tapes of misheard song lyrics spent the match betraying, befriending and pillow-fighting one another. It ended with one champion swinging another champion's corpse like a club.

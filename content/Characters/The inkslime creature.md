@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/095 - S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate)|S4E14, Vythorn's Return Part 1]] · [watch it on YouTube](https://youtu.be/KWrBKN495SY)*
+
 **The inkslime creature** was the living, black-and-gold substance that filled a swamp river in the in-between. It was full of faces and eyes, it fed on magic, and it took a cruel delight in reminding [[The Arbiter|Vythorn, the Arbiter]] exactly how stuck he was. It spoke as "we," and it never quite said what "we" meant. That made it one of the eeriest things Vythorn faced on his way back.
 
 ## Story

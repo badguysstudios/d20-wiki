@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Vythorn's Return/096 - S4E15, Vythorn's Return Part 2|S4E15, Vythorn's Return Part 2]] · [watch it on YouTube](https://youtu.be/WmpyoQi03rs)*
+
 **Master Skreca** is an elderly aarakocra who wrote down the words of a spell so dangerous that writing them cost him his hands. He was Morir's scribe, but he is the real author of the Testaments of Morir's Cataclysm. When [[The Arbiter|Vythorn, the Arbiter]] came looking for that power, Skreca was the one waiting inside, and by his own account he had been waiting forever.
 
 ## Story

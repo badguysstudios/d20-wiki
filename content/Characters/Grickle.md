@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/084 - S4E6 — The Hunt — Witch Hunter v Grickle|S4E6 — The Hunt — Witch Hunter v Grickle]] · [watch it on YouTube](https://youtu.be/ExL4R8zGMUc)*
+
 **Grickle** was a four-armed thri-kreen champion pulled into [[The Void]] to fight [[Witch Hunter]], an amorous centaur paladin, during the dark days when [[The Shadow King]] ruled [[The Dread Fortress]]. He arrived as a sneaky, cowardly bug who killed his own mount by accident. He left as the survivor of the fight and the would-be rescuer of the man he was meant to kill, which made the Shadow King's final cruelty land all the harder. He was also, by his own account, only two years old.
 
 ## Story

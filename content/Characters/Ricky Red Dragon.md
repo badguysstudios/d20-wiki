@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/097 - S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)|S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider)]] · [watch it on YouTube](https://youtu.be/zEm9eD01piI)*
+
 **Ricky Red Dragon** was one of the two champions of the Season 4 finale, a man in sunglasses, flip-flops and no pants who insisted he was a mighty red dragon trapped in human flesh. He fought the angsty elf [[Traxton]], better known as Spider, in a forest clearing [[The Shadow King]] had been building as a festival venue. He played dead, juggled fake beards and slammed a Wall of Force up between his opponent's legs, right into his newly dropped testicles. He was a bluffer to the very end, because his last words were a confession: "I'm not really a dragon."
 
 ## Story

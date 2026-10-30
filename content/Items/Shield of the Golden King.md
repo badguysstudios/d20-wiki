@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/101 - S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger|S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger]] · [watch it on YouTube](https://youtu.be/PwtNfOqk9dw)*
+
 The **Shield of the Golden King** is one of the most reliable gifts from [[The Box of Chaos|the Box of Chaos]]. It is reliable in two ways: it keeps turning up, and it keeps breaking. Bright, shiny and never once carried into a real battle before it reached the arena, it has passed through the hands of six different champions. The last time it turned up, the Arbiter blowtorched it down into dice.
 
 ## Description

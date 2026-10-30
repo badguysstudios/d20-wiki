@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]] · [watch it on YouTube](https://youtu.be/tqQP-YlaRk4)*
+
 **Floyd of the Pink** is the devoted, hat-tipping servant of the satyr [[Luci]]. He partnered with her in the Grandmaster's second Gauntlet, a handcrafted treasure hunt across a tavern, a Kraken-infested sea and a graveyard island. A man of deep loyalty, deeper "m'lady"s and an alarming family tree, Floyd sacrificed his beloved anime body pillow and one nipple along the way. He was one of only two champions still breathing when the chest finally opened in [[Episodes/Season 3/057 - S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi|S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi]].
 
 ## Story

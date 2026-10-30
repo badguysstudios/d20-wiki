@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]] · [watch it on YouTube](https://youtu.be/R3tgq6Mj5mY)*
+
 **Mudcat Mahomes** is a catfish-man in a trench coat, a m'lady fedora and absolutely nothing else. He was pulled into the Void with one goal: to get back to Kansas City for "some subpar barbecue." In [[Episodes/Playtests/007 - Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk|Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk]] he became **the only champion ever to shoot [[Grandmaster Elusia Skypiercer|the Grandmaster]]**. He killed his opponent twice, banished his own past self, ate a rat on command, and walked out of the arena alive with a new friend.
 
 ## Story

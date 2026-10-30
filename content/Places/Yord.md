@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]] · [watch it on YouTube](https://youtu.be/MrBx49GHbe0)*
+
 **Yord** is the home world of the adventurers [[Asena]] and [[John Carmichael]], a place with a 1930s flavor where, in the words of the scholar [[Lawrence Booker Green]], everything "runs on pulp logic." It lies far beyond [[The Void]], and it was dragged into the Void's affairs when [[The Arbiter]] reached across dimensions and took Asena and John's nemesis, [[Ralzamon]], Master of the Unknown, for his own scheme. Getting Ralzamon dealt with and getting back home to Yord drove much of the heroes' adventure in the Fate of the Faithful crossover.
 
 ## Description

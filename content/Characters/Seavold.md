@@ -20,6 +20,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/134 - S7E6 — Bone Force — Jerry Bonesman v TD|S7E6 — Bone Force — Jerry Bonesman v TD]] · [watch it on YouTube](https://youtu.be/03vHIx78LxM)*
+
 **Seavold** is the colossal orc skull outside [[The Dread Fortress]], the rock the Grandmaster's home is built into. For as long as anyone could remember, it was simply scenery. Then a skeleton champion with very strong feelings about bones asked its name. As the [[Grandmaster Elusia Skypiercer|Grandmaster]] put it, "No one has ever asked its name before." What followed was the first time [[The Acolytes]] had ever seen the Dread Fortress speak, let alone move. It turned out to have opinions, a jaw, and a deeply limited but devastating vocabulary of insults.
 
 ## Story

@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]] · [watch it on YouTube](https://youtu.be/tov4yw1rGHg)*
+
 **Viago** is a towering, shirtless barbarian in a skull helmet who fought [[Tetra Kincaid]] in [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]]. Everyone around him mocked him for supposedly being unable to count past two, and he spent the whole fight proving that being underestimated suited him fine. He shrugged off every attempt to stun him, wore a metal chair as a necklace, healed his own opponent out of pure arrogance and still walked away the winner.
 
 ## Story

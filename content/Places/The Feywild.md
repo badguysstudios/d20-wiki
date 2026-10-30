@@ -11,6 +11,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/020 - S1E11 — Gift Horse — Cosmonius v El Hada Rocha|S1E11 — Gift Horse — Cosmonius v El Hada Rocha]] · [watch it on YouTube](https://youtu.be/9--56_zS09I)*
+
 **The Feywild** is a realm of untamed color and glitter. It has sent at least two flamboyant champions into the Deathmatches. Both [[Cosmonius]], the Galloping Grappler, and [[El Hada Rocha]], champion of the peacock spirit, call it home, and they met each other in the arena. Everything that comes out of it seems to sparkle.
 
 ## Description

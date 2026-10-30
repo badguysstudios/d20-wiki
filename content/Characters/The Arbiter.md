@@ -26,6 +26,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **The Arbiter**, also known as **Vythorn the Endless Scholar**, is [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s servant in all things and the curator of every Deathmatch. He opens the portals, gathers the champions, runs the arena and unleashes the chaos. He is a true master of chaos magic and calls himself the "master of time and space." He is also petty, broke, bitter about a pug, and fond of hitting people with a metal chair. Over the seasons he has been the Grandmaster's rescuer, her betrayer, her prisoner, her usurper and finally, in his own words, her friend. He is played by Mudcat, who also plays [[The Shadow King]].
 
 ## Story

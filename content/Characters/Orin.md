@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/024 - S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)|S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1)]] · [watch it on YouTube](https://youtu.be/swPXhJSbtB4)*
+
 **Orin** was the commander of [[The Eastern Outpost]], a big, chatty werebear who would much rather be a bear than a one-eyed goliath. For years he guarded [[The Box of Chaos]] for [[Grandmaster Elusia Skypiercer|the Grandmaster]] and was devoted to [[The Arbiter]], the man who had saved him as a boy. When that same man was revealed as a traitor, Orin trusted what he had seen in the heroes' souls and stood with them. He did not survive the choice, but his memory runs through everything that follows: his son's rebellion, the heroes' grief and Flynry's final moments.
 
 ## Story

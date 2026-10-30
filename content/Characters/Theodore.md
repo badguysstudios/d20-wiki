@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/058 - S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý|S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý]] · [watch it on YouTube](https://youtu.be/N_qfQ2QbCqI)*
+
 **Theodore** is a goblin on the household staff of [[The Dread Fortress]], and one of the gentlest souls ever to set foot in an arena built for murder. He first appeared as the Fortress's resident painter, capturing two champions in watercolour stick figures moments before they tried to kill each other. Later he turned up with a tea tray. He also has the [[Grandmaster Elusia Skypiercer|Grandmaster]]'s personal protection: he is very nice, and he is not to be hit.
 
 ## Story

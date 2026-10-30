@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/059 - S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth|S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth]] · [watch it on YouTube](https://youtu.be/40qW36Pkg3I)*
+
 **Havoc** is a six-foot-four Lycan with a 60-pound maul, a body covered in scars and the newly earned title of alpha of the Kingslayer clan. She was pulled into the [[The Void|Void]] for a grudge match against [[Isha Inverraseth]], the friend she had protected as a child and then torn apart on the worst night of both their lives. Played by byConnieChang, Havoc refused to fight for anyone's entertainment. She became the first champion ever to take a swing at [[The Box of Chaos|Gerald]], and she came within an inch of a mutual death before [[Grandmaster Elusia Skypiercer|the Grandmaster]] stopped time itself.
 
 ## Story

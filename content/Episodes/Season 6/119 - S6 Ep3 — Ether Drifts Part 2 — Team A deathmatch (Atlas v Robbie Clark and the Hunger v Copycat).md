@@ -20,6 +20,8 @@ youtube: https://youtu.be/t4GnVRV3VV0
 canon_order: 119
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/t4GnVRV3VV0" title="Watch S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/t4GnVRV3VV0)
 
 Three teammates, one asteroid, and a single leadership position. **Atlas**, **[[Robbie Clark and the Hunger]]** and **[[Copycat]]** were pulled out to [[The Ether Drifts]] to fight to the death and decide who would lead Team A. What followed included a sticker war, a half-built robot wearing [[Thea]] as a backpack, an impersonation of an eldritch mother, a tanker ship named *Mateship*, and a black hole that swallowed the whole arena, audience included. The team that survived had a name, a leader and a whispered plan to overthrow the people who made them fight.

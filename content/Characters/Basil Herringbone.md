@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/060 - S3E12 — Blood Puppets — Basil Herringbone v Befferfoot|Blood Puppets]] · [watch it on YouTube](https://youtu.be/7r5FXMGBUMo)*
+
 **Basil Herringbone** is a self-described "rabbit boy man" who fought [[Befferfoot]] in the Grandmaster's echoing "cave of wonders." He is a kung-fu bunny in the middle of puberty. He traded his own left leg to [[The Box of Chaos|Gerald]] for a glowing sword-leg, raised a pond of tadpoles as his children, and survived on spite and bunny hops. He won the match with a perfect kick at the perfect moment, then walked away with a dead man's birthday card and his dog.
 
 ## Story

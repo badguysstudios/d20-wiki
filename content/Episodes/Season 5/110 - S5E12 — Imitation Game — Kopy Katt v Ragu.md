@@ -18,6 +18,8 @@ youtube: https://youtu.be/lg0rOBom1LM
 canon_order: 110
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/lg0rOBom1LM" title="Watch S5E12 — Imitation Game — Kopy Katt v Ragu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/lg0rOBom1LM)
 
 Two returning champions, each with one win to their name, met atop [[The Crimson Keep]]. **[[Copycat|Kopy Katt]]** is a paper-bagged identity thief with 420 stolen lives to her credit. **[[Ragu]]** is a squatting, nunchuck-swinging, string-dodging force of nature who insists that "nobody copies Ragu." The fight that followed involved a fart gun made out of [[Thea]], baby photos on the mega screens, a mechanical bull and a "Free Doug" protest. It ended with the first look anyone had ever gotten at what lies under Copycat's bag, and with a can opener to the face that nobody, least of all Copycat, saw coming.

@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Cor'thun** is a city of white stone, columns and fountains under a sky that never stops setting. It lies in a realm outside [[The Void]] entirely, which makes it the only place the show has ever left the Void to visit. The young [[Grandmaster Elusia Skypiercer|Elusia]] was sent there in exile and lived there for centuries. It is where she fought beside [[Atalantos]] and [[Kaja]], and where the story of [[Skypiercer]] begins with the city under siege. Long after she left, its name kept turning up in the arena as a battle cry, a brand and a sword.
 
 ## Description

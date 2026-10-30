@@ -18,6 +18,8 @@ youtube: https://youtu.be/o_3-vKNmkWY
 canon_order: 31
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/o_3-vKNmkWY" title="Watch S2E8 — Father's Love — Dadrith v Baron Voltágè on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/o_3-vKNmkWY)
 
 A cleric who calls himself the **dad of dads** faced off against a halfling inventor whose name nobody could pronounce, on an island riding the back of an eternal turtle. **Father's Love** pitted [[Dadrith]] and his arsenal of dad jokes against the theatrical [[Baron Voltágè]]. It is remembered for the first champion ever to throw his own soul into [[The Box of Chaos|the Box of Chaos]], for a winner who wept and begged his gods to spare his opponent, and for a closing scene in which a robot fist burst out of a shark's stomach.

@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/040 - Coriander Society, Fate of the Faithful Part 1 (A Crossover)|Coriander Society, Fate of the Faithful Part 1 (A Crossover)]] · [watch it on YouTube](https://youtu.be/Yp1NY5wF6kM)*
+
 **John Carmichael** introduces himself as an "ex-wizard, coriander agent, private investigator, and reluctant follower of a very particular dragon goddess." He arrived in [[The Void]] with his partner [[Asena]], chasing their nemesis [[Ralzamon]] through a tear in reality. He carries a sentient bronze revolver, a briefcase that holds everything, and a gift for illusion and flirtation. Over five chaotic adventures he became the brains, the mouth and the frequently levitating gunman of the [[Lyrus|Lyrus]]-led resistance against [[The Arbiter]]. He also flirted a supervillain into helping him rob a bank.
 
 ## Story

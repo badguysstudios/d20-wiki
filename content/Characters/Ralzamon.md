@@ -27,6 +27,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/026 - S2E2 — Prize Fight — Asena v Ralzamon|S2E2 — Prize Fight — Asena v Ralzamon]] · [watch it on YouTube](https://youtu.be/ZlPfc2CNJ94)*
+
 **Ralzamon, Master of the Unknown,** is a long-dead psychic mastermind from the world of [[Yord]] and the sworn nemesis of [[Asena]]. He is half jungle explorer and half megalomaniac, with a body made of ectoplasm. He opened Season 2 by losing a Deathmatch in the kitchen of [[The Dread Fortress|the Dread Fortress]]. [[The Arbiter|The Arbiter]] then quietly scooped him up as his general, turned him into a psychic spy against the Grandmaster's loyalists, and finally sent him into the Battle for the Crown, where he died for good. Few champions have been killed, revived, fused, split apart, dropped down a pit and killed again quite so thoroughly.
 
 ## Story

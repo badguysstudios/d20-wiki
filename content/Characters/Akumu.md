@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]] · [watch it on YouTube](https://youtu.be/4mc4nZfnib0)*
+
 **Akumu** is a half-elf paladin and warlock, played by versachiko, who was pulled into the Void straight out of a ditch and into a fight to the death with the gamer [[Jinx]]. She is a cheerful, staggering disaster whose blood is "half vodka" and whose deity is Captain Morgan. She also punted a chinchilla into a sun, and she did it twice. She won anyway. Her parting advice to [[The Acolytes|the Acolytes]] was to drink water, not vodka.
 
 ## Story

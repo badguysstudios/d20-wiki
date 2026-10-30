@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]] · [watch it on YouTube](https://youtu.be/ldt8ZSVPtDA)*
+
 **Sprinkles** is a soft-spoken halfling gardener and self-described pacifist who walked into the arena armed with friendship bracelets and a firm belief that kindness could win a fight to the death. He faced [[Nigel Night Louis]], an award-obsessed actor, in [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]]. Sprinkles' sweetness hid a secret: something dark lived inside him, and it very much wanted blood. The result was one of the strangest and most heartfelt Deathmatches of the Shadow King's era.
 
 ## Story

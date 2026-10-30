@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]] · [watch it on YouTube](https://youtu.be/N9v_lqUFFuU)*
+
 **Vashon**, the Amethyst Dragon, was a living amethyst die who finally got the chance to stop being rolled. He was pulled into the Void for the Halloween dragon battle royale in [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]], where [[The Arbiter|the Arbiter]] turned him into an adult Amethyst Dragon. He then fought [[Narfi]]'s Dracohydra, [[Grandmaster Elusia Skypiercer|the Grandmaster]]'s Topaz aspect and [[The Shadow of the Arbiter|the Arbiter's shadow]] in its new form as the Hollow Dragon. He killed two dragons, spent a good stretch of the fight hiding in his bedroom, and went down last, still convinced he had won.
 
 ## Story

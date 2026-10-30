@@ -23,6 +23,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/105 - S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian|S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian]] · [watch it on YouTube](https://youtu.be/0Ep-xE9gG_o)*
+
 **Bob the Barbarian** is a shirtless, mulleted, always-smiling barbarian from Florida. He wears at least three pairs of jean shorts at once, wrestles gators and summons them in battle, and fights with a cheerfully unhinged arsenal that runs from nipple tornadoes to crystal-fisted punches. Behind the denim and the bath salts sits an unexpectedly big heart. In his first fight he freed a child from an eldritch horror and promised to raise him in Florida. He has never lost a Deathmatch, and he won the Team C final, which gave him the right to name the team.
 
 ## Story

@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|S3E7 — Severed Limbs — Cress v Chedrick McDougan]] · [watch it on YouTube](https://youtu.be/XakIcN-CPig)*
+
 **Cress** is a barefoot human monk who arrived in the arena convinced she was entering a world tournament with prize money, and that losing meant getting a real job. In [[Episodes/Season 3/056 - S3E7 — Severed Limbs — Cress v Chedrick McDougan|S3E7 — Severed Limbs — Cress v Chedrick McDougan]] she fought [[Chedrick McDougan]] in [[The Shadowlands]]. The two spent the match trading body parts: a toe, a hand, a foot, and then the same hand back again. She fell to a spinning penguin, still insisting this wasn't her final form.
 
 ## Story

@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/094 - S4E13 — Swole — Storm on the Horizon v Grug the Wizard|S4E13 — Swole — Storm on the Horizon v Grug the Wizard]] · [watch it on YouTube](https://youtu.be/IlZllXZuS78)*
+
 **Grug the Wizard** called himself "the most powerful wizard that one has ever seen," and he believed every word. In truth he was a former barbarian under a wizard's curse. He raged, punched, hurled books and yelled the names of spells at anything that moved, while the occasional burst of accidental wild magic convinced him it was all working. He fought [[Storm on the Horizon]] in a meditation valley before [[The Shadow King]] and [[Grandmaster Elusia Skypiercer|the Grandmaster]]. He lost, but he may be the happiest champion ever to die in the arena.
 
 ## Story

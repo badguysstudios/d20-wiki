@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/117 - S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)|S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery)]] · [watch it on YouTube](https://youtu.be/mDcPeEimpZI)*
+
 **Stuart** is the IT support of [[The Dread Fortress]]. He works from a small, humid closet full of screens down in the basement, and he keeps the Deathmatches running for [[The Acolytes]]. He is a devoted fan of [[The Arbiter]] and wants more than anything to be a mage, though he doesn't have a magic bone in his body. Whenever a voice goes silent, a picture lags or the whole show crashes, the Fortress knows exactly whose fault it is: Stuart's.
 
 ## Story

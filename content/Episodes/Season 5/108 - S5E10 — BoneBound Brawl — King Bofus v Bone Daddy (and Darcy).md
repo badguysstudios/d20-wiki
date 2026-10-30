@@ -19,6 +19,8 @@ youtube: https://youtu.be/thtygJZofX4
 canon_order: 108
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/thtygJZofX4" title="Watch S5E10 — BoneBound Brawl — King Bofus v Bone Daddy (and Darcy) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/thtygJZofX4)
 
 On a frozen mountaintop, the self-proclaimed frog royal **[[King Bofus]]** faced **[[Bone Daddy]]**, a whip-cracking champion returning from an earlier season, along with his skeletal partner **[[Darcy]]**. Over one fight, Bofus turned out to be Bone Daddy's father's ex-lover, and the ghost of a conspiracy theorist made several appearances. The battle ended with a tidal wave of bone that buried both champions beneath a brand-new mountain.

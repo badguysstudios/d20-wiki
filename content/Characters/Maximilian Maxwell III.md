@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/128 - Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III|Full Sail Hall of Fame 2025 (live show), Ringmaster Talon v Maximilian Maxwell III]]*
+
 **Maximilian Maxwell III** was a rich New Yorker with spotless white gloves, a white Louis Vuitton belt and a firm promise to his mother to keep that belt clean. He fought [[Ringmaster Talon]] at the Full Sail Hall of Fame 2025 live show and solved most of his problems the way he solved everything else: with money. He paid the crowd to roll, take hits and defend for him, paid [[Grandmaster Elusia Skypiercer|the Grandmaster]] to bring his opponent back to life, and gave away half of his own life. He still won.
 
 ## Story

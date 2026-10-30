@@ -18,6 +18,8 @@ youtube: https://youtu.be/3XZhpVsRso4
 canon_order: 112
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/3XZhpVsRso4" title="Watch S5E14 — Froggy Style — Kyle Stoddard v King MAN FROG Bofus on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/3XZhpVsRso4)
 
 Two returning champions met in [[The Duck Village]] for a fight one of them very much did not want. **[[King Bofus|King "MAN FROG" Bofus]]**, rebuilt yet again and openly pleading to die, faced **[[Kyle Stoddard]]**, a fedora-wearing devotee of Princess Sakura-chan who carries more merchandise in his coat than most shops keep in stock. What followed involved frog ammunition, a Mountain Dew ceremony, butt pokes, projectile vomit, a body pillow, a Macarena, a magical-girl transformation, and one of the most undignified deaths the arena has ever seen.

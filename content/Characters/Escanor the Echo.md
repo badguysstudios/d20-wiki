@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]] · [watch it on YouTube](https://youtu.be/SgFsqyQFIzQ)*
+
 **Escanor the Echo** is a minotaur fighter who was ripped from his own plane to fight in the Grandmaster's arena. He is also a self-described "world-class hide-and-seek player." He fought [[Silky Slim]] in the rain-soaked Forest of Death in [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]]. He won with brute strength, lightning-charged horns, unexpected gentleness toward ducklings, and the help of Cream, the echo of himself he treats as a twin brother. He left the arena crowned **Champion of the Death Forest**.
 
 ## Story

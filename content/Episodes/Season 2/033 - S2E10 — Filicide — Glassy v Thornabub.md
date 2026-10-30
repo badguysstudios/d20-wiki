@@ -18,6 +18,8 @@ youtube: https://youtu.be/REVH9dAOtgU
 canon_order: 33
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/REVH9dAOtgU" title="Watch S2E10 — Filicide — Glassy v Thornabub on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/REVH9dAOtgU)
 
 A father and daughter brought their family feud to the arena. **[[Thornabub]]**, a winged lord of a small demiplane of hell, came to haul his runaway daughter **[[Glassy]]** back to the Nine Hells. Glassy came to end him and win her freedom. What followed was a bitter, very funny family argument conducted with lightning, warhammers and a giant sky magnet, and it ended with the most infernal fine print the [[The Void|Void]] had seen in a while.

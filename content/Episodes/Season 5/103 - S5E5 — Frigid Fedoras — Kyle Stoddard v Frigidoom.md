@@ -18,6 +18,8 @@ youtube: https://youtu.be/cvc2LW7ysm4
 canon_order: 103
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/cvc2LW7ysm4" title="Watch S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/cvc2LW7ysm4)
 
 On an asteroid circling a purple planet no one had ever visited, **[[Kyle Stoddard]]**, a katana-wielding warrior in a fedora sworn to the honor of Princess Sakura, fought **[[Frigidoom]]**, a sentient atomic refrigerator full of carnivorous leftovers. It began with a ceremonial Mountain Dew toast, took in a mechanical bull, a blue pill and a great deal of moldy takeout, and ended with a refrigerator pissing and shitting itself to death. As the Lord of Fate put it afterward, one bodily fluid is as good as the next.

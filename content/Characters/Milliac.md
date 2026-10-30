@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]] · [watch it on YouTube](https://youtu.be/fTrPcxjl_OQ)*
+
 **Milliac** is a big-bellied bear of a man from "the woods, down the block" who came to the Void because a flyer promised pie and punch. In [[Episodes/Season 1/019 - S1E10 — The Bear — Diamond Joe v Milliac|S1E10 — The Bear — Diamond Joe v Milliac]] he fought the elderly inventor [[Diamond Joe]] in an abandoned black-powder camp. He spent the fight turning into polar bears, summoning more polar bears, and finally building a bear out of explosives. He lost to his own bomb, but [[The Arbiter]] quietly scooped up what was left of him and flew off.
 
 ## Story

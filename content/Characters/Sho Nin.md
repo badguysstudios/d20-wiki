@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]] · [watch it on YouTube](https://youtu.be/XjP7jZcRDhw)*
+
 **Sho Nin** was a 15-year-old champion who walked into the Void like the hero of his own anime and left it the way those stories sometimes end when nobody is filming the sequel. A swordsman and spellcaster carrying a wind power he did not understand, he faced the grung wrestler [[Toocher the Toxic]] in [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]]. He had style, swagger and a genuinely spectacular leg cut. He also had dreadful luck, rolling five natural 1s in a single night.
 
 ## Story

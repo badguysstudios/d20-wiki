@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Faucius Golden Shield**, the Golden King, ruled from [[The Dread Fortress]] until his own brother cut him down. He is the father of [[Grandmaster Elusia Skypiercer|the Grandmaster]], and his murder on the Night of the Long Shadow set off everything that followed: the reign of [[The Shadow King]], Elusia's exile, and her eventual return in [[Skypiercer]]. He never fights on screen and has no lines. Everything we know about him comes from the night he died and from the people who remember him, not always kindly.
 
 ## Story

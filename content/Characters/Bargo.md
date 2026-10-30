@@ -14,6 +14,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]] · [watch it on YouTube](https://youtu.be/-ouOCDcSlQA)*
+
 **Bargo**, introduced by the Arbiter as Bargo Blakely, is a champion who speaks about himself in the third person, freely admits his "loose grasp of grammar," and backs it all up with a startling amount of combat magic. He fought [[Carnelian]] in [[Episodes/Season 2/030 - S2E7 - Hand to Hand Combat, Bargo v Carn|S2E7 - Hand to Hand Combat, Bargo v Carn]], a match the Arbiter offered a bored, angry [[Grandmaster Elusia Skypiercer|Grandmaster]] as "a real bout of sport." It ended with Bargo holding his rival's head aloft while [[The Acolytes|the Acolytes]] chanted his name. He is the seventeenth of his line, and he would very much like you to name your children after him.
 
 ## Story

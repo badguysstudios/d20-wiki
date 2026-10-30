@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/010 - S1 Ep1 — Ditch Em' Darrell v Eshrinn|S1 Ep1 — Ditch Em' Darrell v Eshrinn]] · [watch it on YouTube](https://youtu.be/kHbOuDPSSaA)*
+
 **Ditch Em' Darrell** is a fifty-some-year-old brawler with a walrus mustache, a mouthful of chewing tobacco and a battleaxe named Ramona that he plays like an electric guitar. He was pulled into the Void for the first Deathmatch ever held, against the snake-blooded spellcaster [[Eshrinn]]. What should have been a simple fight turned into a gold-dusted, dragon-borne doomed romance. Darrell won it and was crowned **the first champion of D20 Deathmatch**.
 
 ## Story

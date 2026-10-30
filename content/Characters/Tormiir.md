@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] · [watch it on YouTube](https://youtu.be/rGz2Wjs9FHU)*
+
 **Tormiir** is a minotaur warlock who arrived in the arena promising to murder everyone, then spent most of his career defending the sanctity of cow's milk and falling in love with his opponents. He wears a purple jumpsuit and gold bangles, and purple magic leaks from every one of his many orifices. He fought twice during the Season of Fate, when the Lord of Fate ruled [[The Dread Fortress]], and died both times in spectacular fashion. He became an unlikely Acolyte favorite, complete with merchandise, and his remains later turned up in a grave in [[The Midnight Mausoleum]].
 
 ## Story

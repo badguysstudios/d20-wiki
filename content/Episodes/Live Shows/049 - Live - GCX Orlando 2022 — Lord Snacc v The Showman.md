@@ -18,6 +18,8 @@ youtube: https://youtu.be/DTBTe_JXO7Y
 canon_order: 49
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/DTBTe_JXO7Y" title="Watch Live - GCX Orlando 2022 — Lord Snacc v The Showman on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/DTBTe_JXO7Y)
 
 When the [[The Arbiter|Arbiter]] arrived at GCX Orlando without any [[Champions|champions]], the Grandmaster pulled two volunteers out of the crowd. The barbarian **[[Lord Snacc]]** faced the bowler-hatted bard **[[The Showman]]** in a quiet autumn forest that did not stay quiet for long. Before it was over, the whole room had been drafted into the fight, the Box of Chaos had shared its dreams, and the Showman had faked his own death and then died for real.

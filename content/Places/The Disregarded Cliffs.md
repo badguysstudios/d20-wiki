@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/012 - S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter|S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter]] · [watch it on YouTube](https://youtu.be/t0AoL4fBrVE)*
+
 **The Disregarded Cliffs** are a mountaintop arena in the Void, home to the crumbling ruins of an old fortress, golden crystals and a mysterious blue portal. They served as the battleground when [[Sunozar]] faced [[The Shadow of the Arbiter]] in [[Episodes/Season 1/012 - S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter|S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter]]. [[The Arbiter]] introduced the place with a promise that sounded a lot like a threat.
 
 > "You may not have traveled to the Disregarded Cliffs before, but you will call it home soon enough."

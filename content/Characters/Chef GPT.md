@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Live Shows/063 - LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT|LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT]] · [watch it on YouTube](https://youtu.be/tzTI01FF3WM)*
+
 **Chef GPT** is an artificer robot chef with a metal skeleton frame, no nose, no sense of taste and a reputation that needs work. He was pulled into the arena of [[The Dread Fortress]] for a live Deathmatch against the high-school druid [[Jenny Gray]]. He spent most of the night being humiliated by a teenager, a chinchilla and a six-pound Pomeranian, then cooked up the win at the very end. His closing line is one of the great champion victory speeches: "Dinner is served."
 
 ## Story

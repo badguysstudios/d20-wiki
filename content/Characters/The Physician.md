@@ -13,6 +13,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **The Physician** is an illithid, "one of the last of my kind," and the master of [[The Nightingales]] in war-torn [[Dämmerung]]. He helped build [[The Warmind]], the thinking war machine that holds twenty million minds and threatens to spill out across [[The Void]], and he spent the rest of the story trying to tear down his own creation. He is polite, curious to a fault and unsettling. Behind his vows lurked a question he could never quite stop asking: what would happen if he let it out?
 
 ## Story

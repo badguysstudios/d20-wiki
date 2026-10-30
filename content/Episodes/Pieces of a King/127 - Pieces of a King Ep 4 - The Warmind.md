@@ -19,6 +19,8 @@ youtube: https://youtu.be/h9Ce8Y28itA
 canon_order: 127
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/h9Ce8Y28itA" title="Watch Pieces of a King Ep 4 - The Warmind on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/h9Ce8Y28itA)
 
 The finale of the first arc of *Pieces of a King* sends **[[Grimnar Stormclaw]]**, **[[Nehebka]]** and **[[Muffy]]** deep under the war-torn world of Damerung to destroy **[[The Warmind]]**. They had a celestial warhead and a plan. Instead they found two polite knights of a rival order already there, a corpse-strewn tunnel, and a single finger bone of [[The Shadow King]]. That bone left the Dread Fortress's own agents asking a dangerous question: should anyone get it, their own Grandmaster included?

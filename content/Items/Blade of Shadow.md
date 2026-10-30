@@ -8,6 +8,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/105 - S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian|S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian]] · [watch it on YouTube](https://youtu.be/0Ep-xE9gG_o)*
+
 The **Blade of Shadow** is a weapon with a dark bargain built into it. It holds a piece of [[The Shadow King]]'s soul, and it knits its wielder's wounds with every blow they land, but holding it wears them down. It appeared twice during the Season of Fate, first in the hands of [[Bob the Barbarian]] and later as one of the Lord of Fate's own treasures, until [[Thea]] discarded it.
 
 ## Description

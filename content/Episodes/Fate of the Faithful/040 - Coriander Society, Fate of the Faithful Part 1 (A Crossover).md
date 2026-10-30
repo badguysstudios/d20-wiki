@@ -20,6 +20,8 @@ youtube: https://youtu.be/Yp1NY5wF6kM
 canon_order: 40
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Yp1NY5wF6kM" title="Watch Coriander Society, Fate of the Faithful Part 1 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Yp1NY5wF6kM)
 
 The heroes of the Coriander Society followed their nemesis through a tear in reality and landed somewhere stranger than any world John had seen: **[[The Void]]**. **[[John Carmichael]]** and **[[Asena]]** arrived in a city that hangs from chains and found a riot already underway. They joined forces with **[[Lyrus]]**, a werebear swordsman who cuts holes in space, and brawled their way through a market square. Then they learned that someone close to the Grandmaster was plotting against her. The episode is part fight and part culture shock, and it ends with the heroes' loot spent on thousands of wooden spoons.

@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/060 - S3E12 — Blood Puppets — Basil Herringbone v Befferfoot|Blood Puppets]] · [watch it on YouTube](https://youtu.be/7r5FXMGBUMo)*
+
 **Befferfoot** is a half-orc champion who strode into the Void announcing "I here to kill, I here to maim, I here to destroy," and the Arbiter immediately added that grammar was on the list too. He fought [[Basil Herringbone]] in [[Episodes/Season 3/060 - S3E12 — Blood Puppets — Basil Herringbone v Befferfoot|S3E12 — Blood Puppets — Basil Herringbone v Befferfoot]], a match the Grandmaster herself called "the weirdest fight." Along the way he was abducted by aliens, faced his deepest fear, gigged a giant frog and lost his emotional-support Corgi. Under all of that, he was a son who only wanted to buy his mama a birthday present.
 
 ## Story

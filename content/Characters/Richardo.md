@@ -18,6 +18,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]] · [watch it on YouTube](https://youtu.be/BRc-Sdygomg)*
+
 **Richardo** is a lizardfolk ranger with a bullfighter's flair, a spectral bull named Bull One, and a promise of "violence and love, and maybe some sex." He fought in the first two-versus-two Deathmatch in the arena's history, in [[Episodes/Season 1/014 - S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok|S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok]]. He flirted with switching sides, betrayed both of his opponents, healed his partner anyway, and walked out a co-champion. Along the way he landed a blow on [[Grandmaster Elusia Skypiercer|the Grandmaster]] herself.
 
 ## Story

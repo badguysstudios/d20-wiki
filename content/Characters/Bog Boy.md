@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/130 - S7E2 — Under the Oil Tree — Big Business v Bog Boy|S7E2 — Under the Oil Tree — Big Business v Bog Boy]] · [watch it on YouTube](https://youtu.be/ZBXy2rnsdxM)*
+
 **Bog Boy**, the self-styled Freak of the Creek, is a moss-dripping old snapping-turtle tortle who rose out of the reeds to defend his swamp from [[Big Business]], a Warforged developer who wanted to pave it into a shopping mall. He arrived with a tin bucket holding Clementine, the catfish he loved, and a murky promise to help turn everyone into frogs. He won one of the most backstory-soaked Deathmatches [[The Arbiter|the Arbiter]] can remember. He left the arena alive, his marriage proposal unanswered, and sharing his body with the man he had just killed.
 
 ## Story

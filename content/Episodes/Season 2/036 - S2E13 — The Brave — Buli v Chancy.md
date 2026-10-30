@@ -18,6 +18,8 @@ youtube: https://youtu.be/4iH3c-r0CxM
 canon_order: 36
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/4iH3c-r0CxM" title="Watch S2E13 — The Brave — Buli v Chancy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/4iH3c-r0CxM)
 
 Two three-foot-tall champions, both convinced they were legends, met in the ruins of a seaside castle in the Void. One was **[[Buli|Buli the Brave]]**, a tiny, furious owlbear who wanted everyone to know he was *not* adorable. The other was **[[Chancy]]**, a fairy bard who claimed to have slain 10,000 dragons. What followed was a stolen lute, a butterfly, a jilted ghost bride, pillows stuffed with rocks, and a fight so long that the Grandmaster eventually had to end it by shouting "Enough!"

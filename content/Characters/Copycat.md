@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]] · [watch it on YouTube](https://youtu.be/ApQKHMQLU_M)*
+
 **Copycat**, also spelled **Kopy Katt**, is a champion with no identity of her own, so she takes everyone else's. She wears a paper bag over a blank purple face and carries a notebook of stolen lives, hundreds of them by her second fight. She rarely bothers with fists. She goes after a rival's pride, bank account and relationship with their mother. Across four Deathmatches and one mission she won twice, died twice, fused with an eldritch horror, and ended up on a team that was already whispering about taking down its own bosses.
 
 ## Story

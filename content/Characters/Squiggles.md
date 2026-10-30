@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]] · [watch it on YouTube](https://youtu.be/2wOVPYpXoGI)*
+
 **Squiggles** is a gnome paladin who works as a caretaker at a resort pool. He was pulled into the Void mid-float, still wearing his pool floaties. He faced the elegant necromancer [[Ray S'urdead]] in a moonlit graveyard. The Grandmaster took one look at him and decided they had brought an imbecile to the fight. He shrugged off almost every spell thrown at him, healed himself far past any sensible limit, stole from [[The Box of Chaos|Gerald]], and walked away the winner. His opponent left nothing behind but half a locket.
 
 ## Story

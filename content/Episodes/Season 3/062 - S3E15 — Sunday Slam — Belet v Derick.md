@@ -18,6 +18,8 @@ youtube: https://youtu.be/d7xj5i1AaqE
 canon_order: 62
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/d7xj5i1AaqE" title="Watch S3E15 — Sunday Slam — Belet v Derick on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/d7xj5i1AaqE)
 
 **Belet**, a pro-labor noble from Waterdeep who hunts evil dragons, faced **Derick**, an aging hippo cleric who sails the black holes of space, on an ancient battlefield where somebody once made a final stand and lost. The night brought a daylight savings scare, a wagon flipped onto an old man, a Box of Chaos that got stoned and drifted off to see *Les Misérables*, and a support group for the large of nose. It ended in the mud with an AARP pamphlet and a promise of hippo cookies.

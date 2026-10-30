@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/103 - S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom|S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom]] · [watch it on YouTube](https://youtu.be/cvc2LW7ysm4)*
+
 **Frigidoom** is a sentient refrigerator monster who survived nuclear testing and came out the other side with bat wings, gelatinous tentacle arms, and a door that opens onto a pulsating, carnivorous mass of pizza, casserole and teeth. He is gross, smelly and frequently glowing with radiation, and he is also one of the sweetest champions ever pulled into the Void. A creature who had never been hugged or complimented, he spent his Deathmatches looking for friendship as often as he looked for a meal. Along the way he lost his collectible rainbow magnet mustache, pissed and shit himself to death, became a pepperoni-nippled wrestler, lived for a while in a bottle, and at last achieved his dream of being "a modern fridge, a cool fridge."
 
 ## Story

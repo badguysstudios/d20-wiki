@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Playtests/004 - Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo|Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo]] · [watch it on YouTube](https://youtu.be/SgFsqyQFIzQ)*
+
 **Silky Slim** is a bugbear barbarian with immaculately oiled fur, a glaive named Bernice and a bottle of hibiscus lube tucked into his briefs. He fought in the very first Deathmatch, lost, and charmed [[Grandmaster Elusia Skypiercer|the Grandmaster]] so thoroughly that she spared his life. When [[The Arbiter]] turned against her in the Battle for the Crown, he called Slim back as "our original champion." Slim went down swinging, dancing and squirting to the very end. His ghost is lavender-colored.
 
 ## Story

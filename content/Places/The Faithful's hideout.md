@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/044 - Coriander Society — Fate of the Faithful Part 5 (A Crossover)|Coriander Society — Fate of the Faithful Part 5 (A Crossover)]] · [watch it on YouTube](https://youtu.be/iPwIBIuN85k)*
+
 **The Faithful's hideout** is a converted blacksmith's shop, all forges and hanging sheets. It served as the base of the Faithful, the resistance that stayed loyal to [[Grandmaster Elusia Skypiercer|the Grandmaster]] while [[The Arbiter|the Arbiter]] worked against her. It is not a palace or a fortress. It is a smithy with a schematics room and exactly one good cushion. For about six months, though, it was home.
 
 ## Description

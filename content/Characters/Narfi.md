@@ -24,6 +24,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/018 - S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon|S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon]] · [watch it on YouTube](https://youtu.be/N9v_lqUFFuU)*
+
 **Narfi** runs the lemonade stand at the arena, which the Grandmaster calls "the best lemonade in the entire realm." He came to the Deathmatch over a complaint about ice and left as its champion. On Halloween the Arbiter turned him into a Dracohydra and threw him into a four-way dragon battle royale. Narfi was terrified of dragons and of death, he wanted nothing to do with committees, and he won anyway. Every time an enemy cut off one of his heads, two more grew back.
 
 ## Story

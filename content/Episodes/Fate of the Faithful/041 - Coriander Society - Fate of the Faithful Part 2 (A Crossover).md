@@ -20,6 +20,8 @@ youtube: https://youtu.be/MrBx49GHbe0
 canon_order: 41
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/MrBx49GHbe0" title="Watch Coriander Society - Fate of the Faithful Part 2 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/MrBx49GHbe0)
 
 The Coriander Society's second trip into [[The Void]] trades the arena for a shadow war. [[John Carmichael]] and [[Asena]] spend a night with [[Lyrus]] and the Faithful and eat a stew made of boots. Then they steal a glimpse of [[The Arbiter]] forging their old nemesis into something far worse, and go looking for a missing goblin spy in the rain-soaked lower districts of [[Prexmarin]]. It ends mid-fight, with Asena shrunk to the size of a cat, Lyrus locked in a duel with a growing armored monster, and unknown figures weaving toward them through the nether between dimensions.

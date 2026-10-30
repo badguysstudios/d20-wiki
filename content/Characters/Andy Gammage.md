@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/129 - S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage|S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage]] · [watch it on YouTube](https://youtu.be/Agj0QVseSJw)*
+
 **Andy Gammage**, also Andrew, also the Gazpacho Man, is the Intercontinental Cold Soups Champion and the first victor of the Season of Vigilance. He came to the arena dead, stinking and short a few toes, determined to win back his full mortality. He fought [[DeeDrah]] with a steel chair, a barbed-wire two-by-four and pockets hidden inside his own skin. He swallowed a beam of magic, which the Grandmaster thought might be a first in the arena, and he walked away with the win, a sleeveless denim jacket and [[The Arbiter|the Arbiter]]'s blessing.
 
 ## Story

@@ -18,6 +18,8 @@ youtube: https://youtu.be/Go92zPBd9JA
 canon_order: 90
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Go92zPBd9JA" title="Watch S4E10 — Rivals — Nonamatt v Decima on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Go92zPBd9JA)
 
 Two twins, one wizard and one barbarian, were pulled into [[The Void]] to settle a family argument that had already cost them a brother. **[[Nonamatt]]** and **[[Decima]]** fought in a glowing forest over the throne of the God of Fate. The night began with a taco feud in [[The Dread Fortress]] and ended in heartbreak that left the Grandmaster in tears. Along the way, Decima did something no champion had ever tried: they climbed into [[The Box of Chaos]] and consumed it.

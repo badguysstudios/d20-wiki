@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Pieces of a King/125 - Pieces of a King Ep 2 — THE WAR COUNCIL|Pieces of a King Ep 2: The War Council]] · [watch it on YouTube](https://youtu.be/piKlapzHXRs)*
+
 **The Warmind** was the weapon that ate its makers. The desperate peoples of [[The Underdark]] built it in the realm of [[Dämmerung]] to save themselves from the surface. It was an elder brain assembled, quite literally, from pieces of its makers. Then a black star fell from the sky, the council gave it to the brain, and the war's saviour became the thing marching everyone toward extinction. It sits at the heart of the hunt for the scattered pieces of [[The Shadow King]], as proof of what even one tiny fragment of him can do.
 
 ## Story

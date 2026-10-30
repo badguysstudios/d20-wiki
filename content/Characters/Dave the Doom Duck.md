@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover]]*
+
 **Dave the Doom Duck** is a duck in the way a volcano is a hill: technically, from a distance, if you squint. He came up out of "the hells below" to fight in the [[Episodes/Season 6/123 - × Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)|× Wounded Warrior Project, Capture the Flag charity crossover (title not in metadata)]] Deathmatch. He pooped wherever he pleased, turned on his own team and lit the rest on fire. He was the last champion standing, and hell was glad to be rid of him.
 
 ## Story

@@ -17,6 +17,8 @@ youtube: https://youtu.be/tzTI01FF3WM
 canon_order: 63
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/tzTI01FF3WM" title="Watch LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/tzTI01FF3WM)
 
 The Dread Fortress came to Full Sail for a live Deathmatch between **[[Chef GPT]]**, an artificer robot who "serves murder" (played by KidCalrissian), and **[[Jenny Gray]]**, a high-school druid whose real priority was getting to prom (played by ErinEberhardt). Their battleground was a field of burning lava, but the fight was taken over by a rabid chinchilla, a dance-off, a pillow fight and three magic puppies. It ended with a six-pound pink Pomeranian falling into the lava in a ball gown.

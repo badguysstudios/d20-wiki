@@ -18,6 +18,8 @@ youtube: https://youtu.be/fTrPcxjl_OQ
 canon_order: 19
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fTrPcxjl_OQ" title="Watch S1E10 — The Bear — Diamond Joe v Milliac on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/fTrPcxjl_OQ)
 
 **Diamond Joe**, an elderly dragonborn inventor in homemade power armor, came to the Void looking for his long-lost "boy." **Milliac**, a big-bellied woodsman who turns into a polar bear when he gets excited, came because a flyer promised pie and punch. They met in an abandoned camp full of half-forgotten barrels of black powder. What followed was one of the strangest and most good-natured bloodbaths the Acolytes had seen: gifted pie, weaponized flatulence, a cloned bear named Honey Boo Boo, a parade of every bear imaginable, and an ending in which Milliac blew himself up with a bear made of gunpowder.

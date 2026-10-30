@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/054 - S3E5, Edge Lords - Captain Fable v Verryn Ruth|S3E5, Edge Lords - Captain Fable v Verryn Ruth]] · [watch it on YouTube](https://youtu.be/w-6dpSYeNqs)*
+
 **Verryn Ruth** was a tiefling warlock with bat-like wings, clacking hooves and a tattoo reading "MOMS ONLY." He was pulled into [[The Void]] to face the brooding minotaur pirate [[Captain Fable]] in a bout of pure, glorious edginess. Verryn flattered the Grandmaster, solved her throne dilemma with an illusory bust of Doja Cat, and traded a nipple ring for a magical codpiece. He spent the whole fight trading dark one-liners with a man every bit as moody as he was. He lost his head, literally, but insisted to the end that this wasn't his first life. Judging by what happened afterward, he was right.
 
 ## Story

@@ -20,6 +20,8 @@ youtube: https://youtu.be/swPXhJSbtB4
 canon_order: 24
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/swPXhJSbtB4" title="Watch S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/swPXhJSbtB4)
 
 Three champions, [[Toddleheim|Toddleheim]], [[Locket]] and [[Flynry]], set out across the lava fields of [[The Void]] on a rescue mission. Their orders came from [[Grandmaster Elusia Skypiercer|the Grandmaster]] herself: bring back [[The Arbiter|the Arbiter]], who was carried off by a Tarrasque. What follows is a road trip full of bad dice, worse jokes and booby-trapped hallways. It ends with a betrayal, a death, a victory that turns out to be a lie, and a twist that drops the heroes straight onto the sands where the whole thing began.

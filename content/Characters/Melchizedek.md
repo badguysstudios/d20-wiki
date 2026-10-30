@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]] · [watch it on YouTube](https://youtu.be/ldt8ZSVPtDA)*
+
 **Melchizedek**, who called himself the Dark One, was the dark passenger living inside the halfling champion [[Sprinkles]]. Partway through [[Episodes/Season 4/091 - S4E11 — Beatdown — Sprinkles v Nigel|S4E11 — Beatdown — Sprinkles v Nigel]], he burst out of his host, declared himself a Lord of Darkness and went looking for a better body. He was a fallen angel turned into "a being of pure hatred and pain." He was also, it turned out, a surprisingly gifted yodeler. In the end he was undone by a tap-dancing child.
 
 ## Story

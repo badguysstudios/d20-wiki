@@ -18,6 +18,8 @@ youtube: https://youtu.be/fCjXSOkuTTg
 canon_order: 6
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/fCjXSOkuTTg" title="Watch Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/fCjXSOkuTTg)
 
 A snake-woman who loves Mother Nature met a cowboy robot who runs on oil, and the forest got very messy. In this pre-launch test bout, **[[Brunhilda Doogle]]** and **[[White Hat H03]]** traded arrows, bullets, insults and a great deal of oil across a cliffside. Along the way came a lost hat, a cursed nickname, a giant floating screwdriver and a new snake friend who did not survive. It ended the only way two stubborn [[Champions|champions]] could end it: with each of them killing the other.

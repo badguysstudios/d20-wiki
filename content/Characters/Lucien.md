@@ -12,6 +12,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Lucien** was a soldier of [[Cor'thun]] during the events of [[Skypiercer]], and probably the least heroic man ever to tell stories about his own heroics. He was drunk at the feast, drunk afterward and passed out in a tavern soon after, and he still somehow ended up in [[Atalantos]]'s brigade. He is a small figure in the prequel, but a memorable one. He is not to be confused with [[Lucien Brack]], the half-orc bard who fought in the Season 1 finale.
 
 ## Story

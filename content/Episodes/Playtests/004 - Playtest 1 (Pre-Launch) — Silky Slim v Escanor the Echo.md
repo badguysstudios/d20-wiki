@@ -18,6 +18,8 @@ youtube: https://youtu.be/SgFsqyQFIzQ
 canon_order: 4
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/SgFsqyQFIzQ" title="Watch Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/SgFsqyQFIzQ)
 
 Before the Deathmatches had a season to call their own, there was a minotaur, a bugbear and a forest full of mud. In this first playtest, **Escanor the Echo** and his lovingly named echo-twin faced **Silky Slim**, a bugbear barbarian with luxuriously oiled fur and a glaive called Bernice. They fought for the amusement of [[Grandmaster Elusia Skypiercer|the Grandmaster]] in the rain-soaked Forest of Death. Between the lightning, the hibiscus lube and eight very precious ducklings, the match set the tone for everything that followed.

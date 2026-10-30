@@ -7,6 +7,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]] · [watch it on YouTube](https://youtu.be/BDdZdET3cuQ)*
+
 **The Grandmaster's temple** is one of many places of worship that [[The Acolytes|the Acolytes]] have raised in honor of [[Grandmaster Elusia Skypiercer|the Grandmaster]]. This particular one had seen better days even before it hosted a Deathmatch. It served as the arena for [[Episodes/Season 3/051 - S3E2 — The Student and the Master — Alma v Ahyan|S3E2 — The Student and the Master — Alma v Ahyan]], and it came out of the fight with one more hole in its ceiling than it went in with.
 
 ## Description

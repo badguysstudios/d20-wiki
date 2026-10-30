@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]] · [watch it on YouTube](https://youtu.be/tov4yw1rGHg)*
+
 **The Siren's Nautilus** looks like a sunken, overgrown ship. It is actually a living creature, and the Grandmaster's "precious beast." She sends it out to scour the seas and claim whatever falls to its death there. In [[Episodes/Season 1/015 - S1E6 — Belly of the Beast — Viago v Tetra|S1E6 — Belly of the Beast — Viago v Tetra]], she turned its insides into an arena. The champions fought in the belly of something that breathes, moves and digests.
 
 ## Description

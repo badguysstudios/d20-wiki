@@ -21,6 +21,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 1/011 - Magic — S1 Ep2 — Mageic v Amren|Magic — S1 Ep2 — Mageic v Amren]] · [watch it on YouTube](https://youtu.be/Xp2sSpXWTLM)*
+
 **Dolly** is the arena's most persistent and least welcome guest: a small porcelain doll with glassy, unblinking eyes who floats up out of the ground, a sarcophagus, a cracked rock or a portal, holds out her hands and asks to be your friend. Accepting gets you a rune burned into your palm and a tiny, devoted ally with a jaw full of poisonous teeth. Attacking her tends to go worse. She has been shattered, crushed, burned and blown apart more than once, and she always comes back. **The Arbiter** is openly afraid of her.
 
 ## Story

@@ -22,6 +22,8 @@ youtube: https://youtu.be/sJZl2Bydmlo
 canon_order: 47
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/sJZl2Bydmlo" title="Watch S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & … on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/sJZl2Bydmlo)
 
 Round two of the Battle for the Crown sent the Grandmaster's team of [[Cosmonius]], a vain centaur monk, and [[Locket]], a vengeful tabaxi archer, against the Arbiter's pair: the lubricated bugbear [[Silky Slim]] and the robot-bodied [[Baron Voltágè]]. The fight took place in the silent, rotting [[The land of the corrupted|land of the corrupted]]. Along the way it brought a zoo of transformed champions, a mob of heckling children, an exploding puddle of lube and a Kraken. It ended with a death scene nobody saw coming, and a plea for the bloodshed to stop.

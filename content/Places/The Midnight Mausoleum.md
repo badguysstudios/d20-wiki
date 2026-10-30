@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/106 - S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso|S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso]] · [watch it on YouTube](https://youtu.be/QptrBbj427Y)*
+
 **The Midnight Mausoleum** is a vast graveyard under a huge full moon. Fog creeps across the ground, tombstones stretch toward the horizon, and skeletal hands have been known to reach up out of the soil. It is [[Thea]]'s self-declared "favorite spooky place," and it has become a recurring stage for some of the Void's more macabre business. Champions have bled there, a rescue party has crept through its crypts, and on more than one occasion the whole place has been flooded with lava.
 
 ## Description

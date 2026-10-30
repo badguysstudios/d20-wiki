@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Arbiter/025 - S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)|S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2)]] · [watch it on YouTube](https://youtu.be/H5cix5wMKEY)*
+
 **Lyrus** is the son of [[Orin]]. He is an enormous goliath werebear who fights with two black swords that cut holes in reality. After [[The Arbiter]] murdered his father, Lyrus gathered Orin's old soldiers into a hidden resistance, the Faithful, to save [[Grandmaster Elusia Skypiercer|the Grandmaster]] from her treacherous right hand. He is big, blunt, kind-hearted and convinced he is hilarious. He got Toddleheim, Locket and Flynry out of the Arbiter's clutches, fought alongside two visitors from another universe, and was last seen diving into a mirror after a vision of his dead father.
 
 ## Story

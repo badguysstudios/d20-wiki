@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 2/031 - S2E8 — Father's Love — Dadrith v Baron Voltágè|S2E8 — Father's Love — Dadrith v Baron Voltágè]] · [watch it on YouTube](https://youtu.be/o_3-vKNmkWY)*
+
 **Dadrith**, "dad of dads," is a cleric who wanders the multiverse spreading the ideals of fatherhood and collecting the finest dad jokes in existence. Pulled into the Void to fight [[Baron Voltágè]], he spent the whole Deathmatch alternating between smiting his opponent and telling him how proud he was of him. He won, wept for the man he had beaten, and left the arena with the entire crowd calling him Dad.
 
 ## Story

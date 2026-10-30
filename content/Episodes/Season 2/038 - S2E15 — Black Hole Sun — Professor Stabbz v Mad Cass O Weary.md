@@ -18,6 +18,8 @@ youtube: https://youtu.be/-hnnNmRhOFQ
 canon_order: 38
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/-hnnNmRhOFQ" title="Watch S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/-hnnNmRhOFQ)
 
 A cowardly goblin academic seeking tenure met a glass-eating, mouthwash-chugging, permanently furious tiefling monk on the rooftops of a quaint little town. **[[Professor Stabbz]]** wanted nothing more than to go home. **[[Mad Cass O Weary]]** wanted to put his foot up the professor's ass. Between a floor of lava, a fake friendship, a stolen [[The Box of Chaos|Box of Chaos]] and a black hole torn open by [[The Arbiter|the Arbiter]] himself, it became a thoroughly unhinged fight.

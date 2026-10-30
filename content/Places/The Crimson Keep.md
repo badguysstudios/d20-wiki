@@ -11,6 +11,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/104 - S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley|S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley]] · [watch it on YouTube](https://youtu.be/LAPG4OOUWfc)*
+
 **The Crimson Keep** is a crumbling crimson castle in the Void, crawling with bats and haunted by the ghosts of many of the people who have died there, most of them friendly. It is officially a wedding venue, and [[Thea]] got it for the arena at a bargain price precisely because "people keep dying here." It twice hosted Deathmatches on its windswept rooftop. The first ended with nobody left standing, and the second ended with [[Ragu]] alone under the moon.
 
 ## Description

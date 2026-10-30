@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 6/122 - S6 Ep6 — The Hunt for 2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy|S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy]] · [watch it on YouTube](https://youtu.be/938InFjSDOM)*
+
 **Billy** is an "old bloke" with a shiny bald head, questionable facial hair and a habit of showing up at [[Emmery]]'s tavern every two weeks, always in the back party room. When Team C ([[Bob the Barbarian]], [[The Duke]] and the walking refrigerator Frigidoom) came looking for number two ale, Billy stood in the way. He turned out to be a werewolf, and he gave the team a messy, poop-soaked brawl before Bob put him down.
 
 ## Story

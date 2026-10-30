@@ -16,6 +16,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Skypiercer (Prequel)/001 - Skypiercer Part 1|Skypiercer Part 1]]*
+
 **Kaja** is a warlock and necromancer from [[Cor'thun]]. Death keeps letting her come back, and she is never shy about saying so. She fought beside [[Atalantos]] and [[Grandmaster Elusia Skypiercer|Elusia]] in the war that ended [[The Shadow King]]'s reign, won Elusia's heart, and became one of the first [[Knights of Chaos]] of the new age. Centuries later Elusia's uncle, the Shadow King, raised her bones for Elusia's birthday. She went on to give the [[The Void|Void]] one of its most elegant, brutal and heartbreaking Deathmatches.
 
 ## Story

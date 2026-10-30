@@ -18,6 +18,8 @@ youtube: https://youtu.be/ZBXy2rnsdxM
 canon_order: 130
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ZBXy2rnsdxM" title="Watch S7E2 — Under the Oil Tree — Big Business v Bog Boy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/ZBXy2rnsdxM)
 
 A towering, money-spewing Warforged named **[[Big Business]]** and a gnarled old swamp turtle called **[[Bog Boy]]** brought a long-simmering feud to a snowy mountaintop graveyard. They were fighting over a swamp, a failed oil tree and a catfish named Clementine. What started as a brawl between capitalism and nature turned into a love triangle with [[Doug the Pug]], a proposal with a nut for a ring, and a furious witch mother. By the end, the winner and the loser were stuck in the same body.

@@ -18,6 +18,8 @@ youtube: https://youtu.be/XjP7jZcRDhw
 canon_order: 83
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/XjP7jZcRDhw" title="Watch S4E5 — Toxicity — Toocher the Toxic v Sho Nin on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/XjP7jZcRDhw)
 
 A trash-talking frog wrestler met a 15-year-old anime hero in an abandoned steampunk town, and the result was one of the strangest fights of the Shadow King's reign. **[[Toocher the Toxic]]** brought poison skin and pro-wrestling theatrics. **[[Sho Nin]]** brought a mysterious inner wind and a truly cursed run of luck. Along the way, both champions' butt cheeks turned into butterfly wings, the harbor turned to acid, and the crowd started wearing red scarves.

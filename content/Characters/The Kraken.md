@@ -10,6 +10,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Battle for the Crown/047 - S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & …|S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & Baron Voltágè)]] · [watch it on YouTube](https://youtu.be/sJZl2Bydmlo)*
+
 **The Kraken** is a colossal tentacled monster with row upon row of teeth, and the Void's arenas keep finding water deep enough to hide her. She first burst out of a still underground lake in the middle of the Battle for the Crown. She surfaced again in the open sea during the second Gauntlet, where she was hailed as "ruler of the ocean." Nobody has managed to properly kill her. Most champions who meet her are just trying to get past.
 
 ## Story

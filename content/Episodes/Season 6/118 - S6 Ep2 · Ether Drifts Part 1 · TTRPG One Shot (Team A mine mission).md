@@ -20,6 +20,8 @@ youtube: https://youtu.be/Xoj66_J3b-k
 canon_order: 118
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/Xoj66_J3b-k" title="Watch S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/Xoj66_J3b-k)
 
 There was no Deathmatch this week, only a "suicide mission of sorts." [[Grandmaster Elusia Skypiercer|The Grandmaster]] sent three new recruits, the robot [[Atlas]], the shapeshifter [[Copycat]] and the symbiotic duo [[Robbie Clark and the Hunger|Robbie Clark & The Hunger]], into a sealed mine at the edge of [[The Void|the Void]] to bring back a mineral vital to the war against [[The Shadow King|the Shadow King]]. Along the way they were abducted by aliens, caffeinated a worm into a monster, and lost a robot head. The mineral they fought for turned out to be salt for the Arbiter's fries.

@@ -20,6 +20,8 @@ youtube: https://youtu.be/1Hcb0TizdXo
 canon_order: 43
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/1Hcb0TizdXo" title="Watch Coriander Society — Fate of the Faithful Part 4 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/1Hcb0TizdXo)
 
 The penultimate chapter of the Fate of the Faithful crossover saw [[Lyrus]] the werebear and the travellers from [[Yord]], [[Asena]] and [[John Carmichael]], go hunting for [[Ralzamon]] in the darkest corner of [[The Void]]. There was no arena and no Deathmatch. Instead there was a heist on a floating fortress, a goliath turned into a living bridge, a tiny cat-sized brawl on the battlements, and a duel to the death that ended in a cliffhanger. As Asena put it once the dust settled: "This isn't even the fight!"

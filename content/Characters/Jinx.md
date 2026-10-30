@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 7/131 - S7E3 — Chinchilla the White — Akumu v Jinx|S7E3 — Chinchilla the White — Akumu v Jinx]] · [watch it on YouTube](https://youtu.be/4mc4nZfnib0)*
+
 **Jinx** is a human Echo Knight and e-streamer who was pulled into the Void in the middle of a ranked match. She arrived in a unicorn onesie, still talking to an invisible chat, and fought [[Akumu]] in deep space. She fought as if the whole thing were a video game, steering a shadowy copy of herself with a controller. She won over [[Grandmaster Elusia Skypiercer|the Grandmaster]] and a whole section of the crowd, came back from the dead once thanks to a chinchilla she had kept warm, and still went down in the end.
 
 ## Story

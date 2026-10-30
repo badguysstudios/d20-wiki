@@ -15,6 +15,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]] · [watch it on YouTube](https://youtu.be/XjP7jZcRDhw)*
+
 **Toocher the Toxic** is a grung, a frog person, and a professional wrestler who brought the full heel package to the Void: smack talk, mind games, poisonous skin and a flamboyant red scarf. Pulled into the arena to entertain [[The Shadow King]], he beat the teenage monk [[Sho Nin]] in [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]]. Along the way his butt cheeks turned into butterfly wings and he launched a merchandise line. He won the match. What the Shadow King did to him afterwards was another matter.
 
 ## Story

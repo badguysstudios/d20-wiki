@@ -17,6 +17,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/102 - S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith|S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith]] · [watch it on YouTube](https://youtu.be/rGz2Wjs9FHU)*
+
 **Granny Edith** is a very small, very old, very sweet baker who wandered into the Void's Deathmatches because she'd heard there was "some good old-fashioned home cooking" to be had. She fights with a rolling pin as big as she is and an apron full of kitchen utensils. Her kindness lasts right up until somebody mistreats a nice young lady, and then she gets her temper. She did not survive her first fight, but she came back to win her second, and she has become one of the best-loved [[Champions]] of the Season of Fate, when [[The Arbiter|the Arbiter]] presided over the arena as the Lord of Fate.
 
 ## Story

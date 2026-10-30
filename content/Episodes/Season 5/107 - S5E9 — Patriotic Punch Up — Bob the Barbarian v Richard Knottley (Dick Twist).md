@@ -18,6 +18,8 @@ youtube: https://youtu.be/b8_YS6KrR_Q
 canon_order: 107
 ---
 
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/b8_YS6KrR_Q" title="Watch S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 [Watch on YouTube](https://youtu.be/b8_YS6KrR_Q)
 
 Two fan favourites were brought home to [[The Dread Fortress|the Dread Fortress]] for **Patriotic Punch Up**. [[Bob the Barbarian]], a jort-clad Florida man from the Everglades, faced [[Richard Knottley]], better known as **Dick Twist**, who was freshly revived and launching a run for president. The fight took place on the fortress's own front porch. It featured a weaponised Peloton, a frog pulled out of Richard's ass, and a hostage twist that turned a gloriously stupid brawl into a blood feud.

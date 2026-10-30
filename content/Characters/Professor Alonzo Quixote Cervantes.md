@@ -19,6 +19,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]] · [watch it on YouTube](https://youtu.be/ApQKHMQLU_M)*
+
 **Professor Alonzo Quixote Cervantes, Esquire** was an elderly, astonishingly muscular scholar of bloodshed who fought [[Copycat|Kopy Katt]] in [[Episodes/Season 5/100 - S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes|S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes]]. He arrived ready for a straight brawl. What he got was a war of identity theft, credit scores and maternal betrayal inside a grubby little bar. By the end he had lost his money (briefly), his mustache (to the Box of Chaos) and his life, all in that order.
 
 ## Story

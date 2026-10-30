@@ -12,6 +12,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Fate of the Faithful/041 - Coriander Society - Fate of the Faithful Part 2 (A Crossover)|Coriander Society - Fate of the Faithful Part 2 (A Crossover)]] · [watch it on YouTube](https://youtu.be/MrBx49GHbe0)*
+
 **The Tumult** is what's left when something divine dies and gets dragged into [[The Void]]: the calcified, planet-sized corpse of an ancient titan or god, now a landscape of purple rock with its blood still flowing through it as glowing teal mist. It lies west of [[Prexmarin]], and during the Faithful's struggle against [[The Arbiter]] it became the hiding place of a magical silver ewer that both sides wanted badly. Smugglers love it, pirates love it, and almost nobody stays long. The blood has a way of changing people.
 
 ## Description

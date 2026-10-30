@@ -12,6 +12,9 @@ tags:
 - item
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/083 - S4E5 — Toxicity — Toocher the Toxic v Sho Nin|S4E5 — Toxicity — Toocher the Toxic v Sho Nin]] · [watch it on YouTube](https://youtu.be/XjP7jZcRDhw)*
+
 **The Grandmaster's Amulet** is the summoning key that the Grandmaster bled into week after week during the Shadow King's reign over the Void. Every champion who came to the arena in that dark stretch of Season 4 arrived through a portal paid for in her blood. She still held the title of Grandmaster, but in that season it was a title in name only, and the amulet was one of the clearest signs of what her captivity cost her.
 
 ## Description

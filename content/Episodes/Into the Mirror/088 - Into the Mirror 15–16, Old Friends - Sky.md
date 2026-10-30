@@ -22,6 +22,12 @@ youtube: https://youtu.be/G67yfFkeNWg
 canon_order: 88
 ---
 
+<p class="video-label">Part 1</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/G67yfFkeNWg" title="Watch Into the Mirror 15–16, Old Friends - Sky on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 2</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/g-uDyQSh3MA" title="Watch Into the Mirror 15–16, Old Friends - Sky on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch on YouTube: [Part 1](https://youtu.be/G67yfFkeNWg) · [Part 2](https://youtu.be/g-uDyQSh3MA)
 
 Lost in [[The Sands of Eternity]], the land where the dead turn to sand, [[Flynry]], [[Elianna]], [[Toddleheim]] and [[Cerys]] find themselves face to face with the last man any of them wanted to see: [[The Arbiter|the Arbiter]], the very person who killed most of them. He is now dead himself and oddly eager to make friends. What follows is a tense negotiation, a tackle undone by time magic, a blood oath signed in a notebook, and a brutal ambush by a smooth-talking tiefling bandit named [[Sky]] that leaves the party fighting for their lives when the curtain drops.

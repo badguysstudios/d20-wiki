@@ -8,6 +8,9 @@ tags:
 - place
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 3/053 - S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade|S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade]] · [watch it on YouTube](https://youtu.be/rKTmpacPlUo)*
+
 **The Frozen Lake** is a Deathmatch arena: a sheet of ice on a bleak tundra, watched from a coliseum hanging in the sky. It first hosted [[K-Boom]] and [[Ignacio Marchade]] in Season 3. It returned in Season 4, when [[Grandmaster Elusia Skypiercer|the Grandmaster]] welcomed [[Witch Hunter]] and [[Grickle]] to it. Even she admits the name is not very inspired.
 
 ## Description

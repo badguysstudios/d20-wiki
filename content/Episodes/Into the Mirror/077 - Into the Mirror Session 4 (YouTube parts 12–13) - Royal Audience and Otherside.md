@@ -21,6 +21,12 @@ youtube: https://youtu.be/rd3ksGZbrP0
 canon_order: 77
 ---
 
+<p class="video-label">Part 1</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/rd3ksGZbrP0" title="Watch Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-label">Part 2</p>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/PavC1ebN2ok" title="Watch Into the Mirror Session 4 (YouTube parts 12–13) - Royal Audience and Otherside on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 Watch on YouTube: [Part 1](https://youtu.be/rd3ksGZbrP0) · [Part 2](https://youtu.be/PavC1ebN2ok)
 
 There was no arena and no Deathmatch this time. **[[Flynry]]**, **[[Elianna]]**, **[[Toddleheim]]** and their new and not-quite-trusted companion **[[Cerys]]** were granted an audience with the rulers of the city of the dead, and they left with a quest, a mystery about the king and a pair of hand-made keepsakes. The session ended in a frozen realm on the far side of a mirror, with a dragon's blood spilling over its own gold.

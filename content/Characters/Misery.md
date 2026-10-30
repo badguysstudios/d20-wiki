@@ -11,6 +11,9 @@ tags:
 - character
 ---
 
+<!-- first-appearance -->
+*First appearance: [[Episodes/Season 4/085 - S4E7 — Wings — Misery v Daisy Bloom|S4E7 — Wings — Misery v Daisy Bloom]] · [watch it on YouTube](https://youtu.be/4BdP8x3RVWg)*
+
 **Misery** was a tall, endlessly crying fighter who came to the arena of [[The Void]] carrying a greatsword and a grudge against joy itself. Called the "embodiment of misery and pain and stuff" by his own description, he faced the relentlessly cheerful [[Daisy Bloom]] in [[Episodes/Season 4/085 - S4E7 — Wings — Misery v Daisy Bloom|S4E7 — Wings — Misery v Daisy Bloom]]. He won with a brutal finishing blow. What made him unforgettable was what came after: he had a deal with [[The Shadow King]], and he spent his victory on burying himself so someone he loved could have a life.
 
 ## Story
