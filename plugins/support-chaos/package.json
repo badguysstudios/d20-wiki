@@ -1,0 +1,31 @@
+{
+  "name": "support-chaos",
+  "version": "1.0.0",
+  "description": "Support the Chaos box (Patreon + Ko-fi) for the Black Tome",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/components/index.js" },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "support-chaos",
+    "displayName": "Support the Chaos",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "SupportChaos": {
+        "displayName": "Support the Chaos",
+        "defaultPosition": "right",
+        "defaultPriority": 1
+      }
+    }
+  }
+}

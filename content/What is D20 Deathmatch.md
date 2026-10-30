@@ -28,6 +28,9 @@ Anyone who loves D&D actual play, DnD PvP battles, or watching a perfectly good 
 - **Live, and 24/7 reruns:** [twitch.tv/D20Deathmatch](https://twitch.tv/D20Deathmatch)
 - **Every full episode:** [YouTube](https://www.youtube.com/@D20Deathmatch)
 
+## Run your own deathmatch
+Want to throw your own champions into the arena? **Champions of Chaos** is our own PvP add-on for D&D 5.5e, and it's free: [play Champions of Chaos](https://d20deathmatch.com/Play).
+
 ## Where to start
 - [[The Story So Far]]: the whole story in one read
 - [[Match Results]]: every episode, its champions and who survived
