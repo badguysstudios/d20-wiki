@@ -15,7 +15,11 @@ summary: The bugbear blood mage Zorhel fought the boastful warrior Blaktoof in a
 tags:
 - episode
 youtube: https://youtu.be/oihEfPouzfs
+video_id: oihEfPouzfs
+video_upload: '2022-03-24'
+video_duration: 7279
 canon_order: 34
+description: Blaktoof, self-proclaimed champion of the War of a Thousand Toofs, faced Zorhel, a bugbear gladiator who fights with a halberd made of his own blood.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/oihEfPouzfs" title="Watch S2E11 — Secrets — Blaktoof v Zorhel on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

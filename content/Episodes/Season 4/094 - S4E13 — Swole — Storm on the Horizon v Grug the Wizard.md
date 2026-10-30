@@ -15,7 +15,11 @@ summary: The snow leopard monk Storm on the Horizon outfought Grug, a barbarian 
 tags:
 - episode
 youtube: https://youtu.be/IlZllXZuS78
+video_id: IlZllXZuS78
+video_upload: '2023-05-10'
+video_duration: 6281
 canon_order: 94
+description: A snow leopard monk with knives for feet faced a barbarian who sincerely believed he was the most powerful wizard in The Void.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/IlZllXZuS78" title="Watch S4E13 — Swole — Storm on the Horizon v Grug the Wizard on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

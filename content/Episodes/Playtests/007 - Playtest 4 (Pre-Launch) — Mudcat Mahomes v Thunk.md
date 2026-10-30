@@ -15,7 +15,11 @@ summary: A trench-coated catfish archer fought a finger-collecting goliath, and 
 tags:
 - episode
 youtube: https://youtu.be/R3tgq6Mj5mY
+video_id: R3tgq6Mj5mY
+video_upload: '2022-05-30'
+video_duration: 8402
 canon_order: 7
+description: A catfish-man in a trench coat and a finger-collecting goliath were thrown into The Isolated Keep, the Grandmaster's secret arena, which is stowed away from…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/R3tgq6Mj5mY" title="Watch Playtest 4 (Pre-Launch) — Mudcat Mahomes v Thunk on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

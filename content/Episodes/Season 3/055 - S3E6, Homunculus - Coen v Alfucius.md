@@ -15,7 +15,11 @@ summary: A tiefling with a demonic doll and a fake wizard with a gun refused to 
 tags:
 - episode
 youtube: https://youtu.be/zgmOmkGv_7o
+video_id: zgmOmkGv_7o
+video_upload: '2022-08-31'
+video_duration: 6231
 canon_order: 55
+description: A tiefling who loves rocks met a doddering old wizard who turned out to know no magic at all.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/zgmOmkGv_7o" title="Watch S3E6, Homunculus - Coen v Alfucius on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Wrestling grung Toocher the Toxic outlasted the 15-year-old anime hero 
 tags:
 - episode
 youtube: https://youtu.be/XjP7jZcRDhw
+video_id: XjP7jZcRDhw
+video_upload: '2023-03-08'
+video_duration: 6178
 canon_order: 83
+description: A trash-talking frog wrestler met a 15-year-old anime hero in an abandoned steampunk town, and the result was one of the strangest fights of the Shadow…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/XjP7jZcRDhw" title="Watch S4E5 — Toxicity — Toocher the Toxic v Sho Nin on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

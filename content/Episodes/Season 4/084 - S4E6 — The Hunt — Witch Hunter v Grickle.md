@@ -15,7 +15,11 @@ summary: A centaur paladin who falls for his opponent and a two-year-old thri-kr
 tags:
 - episode
 youtube: https://youtu.be/ExL4R8zGMUc
+video_id: ExL4R8zGMUc
+video_upload: '2023-03-15'
+video_duration: 6243
 canon_order: 84
+description: A lovestruck centaur paladin named Witch Hunter faced Grickle, a four-armed, eyelid-free thri-kreen, on a stretch of ice the Grandmaster couldn't be bothered…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ExL4R8zGMUc" title="Watch S4E6 — The Hunt — Witch Hunter v Grickle on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

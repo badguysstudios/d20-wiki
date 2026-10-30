@@ -15,7 +15,11 @@ summary: Crypto-shilling gnome K-Boom and brooding barbarian Ignacio Marchade fo
 tags:
 - episode
 youtube: https://youtu.be/rKTmpacPlUo
+video_id: rKTmpacPlUo
+video_upload: '2022-08-17'
+video_duration: 6506
 canon_order: 53
+description: A gnome artificer selling his own cryptocurrency and a red-eyed barbarian with a winged monkey were pulled into The Void to fight at a lonely, freezing lake.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/rKTmpacPlUo" title="Watch S3E4, Crypto Monkeys - K-Boom v Ignacio Marchade on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

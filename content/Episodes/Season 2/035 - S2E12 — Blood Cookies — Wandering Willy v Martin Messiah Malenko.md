@@ -15,7 +15,11 @@ summary: Wandering Willy and Martin Messiah Malenko fought for cookies in a haun
 tags:
 - episode
 youtube: https://youtu.be/nbGAN3ruN8U
+video_id: nbGAN3ruN8U
+video_upload: '2022-03-30'
+video_duration: 7068
 canon_order: 35
+description: A laid-back druid and a gun-slinging sun cleric were pulled into a graveyard to fight to the death for cookies.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nbGAN3ruN8U" title="Watch S2E12 — Blood Cookies — Wandering Willy v Martin Messiah Malenko on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

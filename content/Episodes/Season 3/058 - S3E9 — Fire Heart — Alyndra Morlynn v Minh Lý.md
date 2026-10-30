@@ -15,7 +15,11 @@ summary: Alyndra Morlynn won a Meteor Swarm scroll from the Box of Chaos and cal
 tags:
 - episode
 youtube: https://youtu.be/N_qfQ2QbCqI
+video_id: N_qfQ2QbCqI
+video_upload: '2022-09-21'
+video_duration: 6637
 canon_order: 58
+description: Minh Lý, the bare-chested, sword-dancing "Freshmaker," faced Alyndra Morlynn, a starlit elf who came looking for glory, at the Grandmaster's favourite…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/N_qfQ2QbCqI" title="Watch S3E9 — Fire Heart — Alyndra Morlynn v Minh Lý on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

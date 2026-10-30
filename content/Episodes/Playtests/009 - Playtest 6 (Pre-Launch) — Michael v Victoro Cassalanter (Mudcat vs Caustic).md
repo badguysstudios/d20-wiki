@@ -15,7 +15,11 @@ summary: A blind, deaf, hug-hungry headless iron golem named Michael fought the 
 tags:
 - episode
 youtube: https://youtu.be/z9W0eBMIptA
+video_id: z9W0eBMIptA
+video_upload: '2022-05-30'
+video_duration: 5267
 canon_order: 9
+description: A headless iron golem who talks through mouths in his palms faced a smug half-elf in enormous butterfly pants, in a forest that lost several trees and part…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/z9W0eBMIptA" title="Watch Playtest 6 (Pre-Launch) — Michael v Victoro Cassalanter (Mudcat vs Caustic) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Viago, a raging wolf-shifting barbarian, and Tetra Kincaid, a lucky and
 tags:
 - episode
 youtube: https://youtu.be/tov4yw1rGHg
+video_id: tov4yw1rGHg
+video_upload: '2021-10-13'
+video_duration: 7694
 canon_order: 15
+description: A hulking, shirtless barbarian who turns into a dire wolf met a small, quick tabaxi monk who hates dogs, at the bottom of the ocean, inside a ship that is…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tov4yw1rGHg" title="Watch S1E6 — Belly of the Beast — Viago v Tetra on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

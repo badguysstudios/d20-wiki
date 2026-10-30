@@ -15,7 +15,11 @@ summary: A fire-loving rabbit on holiday and a balding fairy scholar who learned
 tags:
 - episode
 youtube: https://youtu.be/AAkj67ze3aQ
+video_id: AAkj67ze3aQ
+video_upload: '2022-04-27'
+video_duration: 7549
 canon_order: 39
+description: A party-loving rabbit on holiday met a fairy scholar who had learned to fight from a book, and the Grandmaster set them loose in a brewery she had forgotten…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/AAkj67ze3aQ" title="Watch S2E16, Pub Brawl - Broose Scorchtail v Dewdrop Grizzlebee on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

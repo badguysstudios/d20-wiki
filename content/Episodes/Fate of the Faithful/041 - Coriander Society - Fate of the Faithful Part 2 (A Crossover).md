@@ -17,7 +17,11 @@ summary: After a night in the Faithful's headquarters, John and Asena learn thro
 tags:
 - episode
 youtube: https://youtu.be/MrBx49GHbe0
+video_id: MrBx49GHbe0
+video_upload: '2022-08-29'
+video_duration: 11412
 canon_order: 41
+description: The Coriander Society's second trip into The Void trades the arena for a shadow war.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/MrBx49GHbe0" title="Watch Coriander Society - Fate of the Faithful Part 2 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

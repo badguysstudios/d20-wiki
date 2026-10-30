@@ -19,7 +19,11 @@ summary: In the second round of the Battle for the Crown, Locket and Cosmonius b
 tags:
 - episode
 youtube: https://youtu.be/sJZl2Bydmlo
+video_id: sJZl2Bydmlo
+video_upload: '2022-05-18'
+video_duration: 10034
 canon_order: 47
+description: Round two of the Battle for the Crown sent the Grandmaster's team of Cosmonius, a vain centaur monk, and Locket, a vengeful tabaxi archer, against the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/sJZl2Bydmlo" title="Watch S2 Ep19, Battle for the Crown Round 2 - Team Grandmaster (Cosmonius & Locket) v Team Arbiter (Silky Slim & … on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

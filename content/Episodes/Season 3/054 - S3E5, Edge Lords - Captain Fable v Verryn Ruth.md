@@ -15,7 +15,11 @@ summary: Captain Fable, a god-hating minotaur pirate, raised President Taft's sk
 tags:
 - episode
 youtube: https://youtu.be/w-6dpSYeNqs
+video_id: w-6dpSYeNqs
+video_upload: '2022-08-24'
+video_duration: 7026
 canon_order: 54
+description: 'Two of the moodiest champions ever pulled into The Void met in a drowned graveyard: Captain Fable, an eight-foot minotaur pirate sworn to kill every god, and…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/w-6dpSYeNqs" title="Watch S3E5, Edge Lords - Captain Fable v Verryn Ruth on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

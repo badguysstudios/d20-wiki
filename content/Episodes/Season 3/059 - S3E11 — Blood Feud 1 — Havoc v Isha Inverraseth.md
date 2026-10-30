@@ -15,7 +15,11 @@ summary: Childhood friends turned blood enemies, the werewolf Havoc and the vamp
 tags:
 - episode
 youtube: https://youtu.be/40qW36Pkg3I
+video_id: 40qW36Pkg3I
+video_upload: '2022-10-12'
+video_duration: 6998
 canon_order: 59
+description: A werewolf alpha and the vampire who has been hunting her met in the Grandmaster's silent, fog-choked "dark city." It should have been a simple monster mash.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/40qW36Pkg3I" title="Watch S3E11 — Blood Feud 1 — Havoc v Isha Inverraseth on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

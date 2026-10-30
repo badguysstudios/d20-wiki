@@ -16,7 +16,11 @@ summary: King Bofus and the returning Bone Daddy (with his skeletal partner Darc
 tags:
 - episode
 youtube: https://youtu.be/thtygJZofX4
+video_id: thtygJZofX4
+video_upload: '2023-10-16'
+video_duration: 6498
 canon_order: 108
+description: On a frozen mountaintop, the self-proclaimed frog royal King Bofus faced Bone Daddy, a whip-cracking champion returning from an earlier season, along with…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/thtygJZofX4" title="Watch S5E10 — BoneBound Brawl — King Bofus v Bone Daddy (and Darcy) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -17,7 +17,11 @@ summary: Three would-be champions rescue a missing Thea from the Midnight Mausol
 tags:
 - episode
 youtube: https://youtu.be/Wr32LjTmgBc
+video_id: Wr32LjTmgBc
+video_upload: '2024-03-28'
+video_duration: 6963
 canon_order: 120
+description: When Thea went missing on Deathmatch Day, the Arbiter scraped together a rescue squad of a skeleton, a conspiracy theorist and a soda salesman, and sent them…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Wr32LjTmgBc" title="Watch S6 Ep4 — Tip to Tip - Part 1 (TTRPG One Shot) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Evah, a taciturn barbarian, impaled the arm-wrestling barbarian Richard
 tags:
 - episode
 youtube: https://youtu.be/nOz9MpQHR7g
+video_id: nOz9MpQHR7g
+video_upload: '2023-02-08'
+video_duration: 6336
 canon_order: 79
+description: 'Two barbarians were pulled into an old pirate cove on the open sea: Richardo "Over the Top" Johnson, an arm wrestler who thought he had come to an…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nOz9MpQHR7g" title="Watch S4E2 — Under the Bottom — Richardo v Evah on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

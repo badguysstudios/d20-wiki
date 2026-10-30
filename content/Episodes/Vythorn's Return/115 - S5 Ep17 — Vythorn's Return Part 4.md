@@ -8,7 +8,11 @@ summary: In a vision, Vythorn visits the imprisoned Grandmaster as Lord of Fate 
 tags:
 - episode
 youtube: https://youtu.be/yaUy8gnKnO4
+video_id: yaUy8gnKnO4
+video_upload: '2024-03-01'
+video_duration: 1293
 canon_order: 115
+description: There was no Deathmatch and no champion, only a choice that had been left hanging since the end of Part 3.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/yaUy8gnKnO4" title="Watch S5 Ep17 — Vythorn's Return Part 4 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

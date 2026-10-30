@@ -15,7 +15,11 @@ summary: The wild magic sorcerer Alma fought their own mentor, the minotaur Ahya
 tags:
 - episode
 youtube: https://youtu.be/BDdZdET3cuQ
+video_id: BDdZdET3cuQ
+video_upload: '2022-08-03'
+video_duration: 6272
 canon_order: 51
+description: A cocky young sorcerer and the weary minotaur professor who taught them everything met in a crumbling temple high in the sky.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BDdZdET3cuQ" title="Watch S3E2 — The Student and the Master — Alma v Ahyan on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Wild magic barbarian Strako and chaotic monk Zayliss fought through a p
 tags:
 - episode
 youtube: https://youtu.be/79XmmuV_274
+video_id: 79XmmuV_274
+video_upload: '2021-10-20'
+video_duration: 7506
 canon_order: 16
+description: Strako, the Wild Shadow, a seven-and-a-half-foot barbarian leaking unstable magic, faced Zayliss, a wall-climbing monk with glowing extra arms.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/79XmmuV_274" title="Watch S1E7 — Wild Magic — Strako v Zayliss on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

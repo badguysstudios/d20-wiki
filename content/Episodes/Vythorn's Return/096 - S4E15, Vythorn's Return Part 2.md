@@ -17,7 +17,11 @@ summary: Fil sends Vythorn through her forest with two failed souls, Ise and Bif
 tags:
 - episode
 youtube: https://youtu.be/WmpyoQi03rs
+video_id: WmpyoQi03rs
+video_upload: '2023-05-17'
+video_duration: 10163
 canon_order: 96
+description: There was no Deathmatch this week and no grandstand full of Acolytes. Instead, Vythorn, the Arbiter woke in the silent forest of Fil, the God of Fate, and…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/WmpyoQi03rs" title="Watch S4E15, Vythorn's Return Part 2 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

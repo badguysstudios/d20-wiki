@@ -15,7 +15,11 @@ summary: Bob the Barbarian finished off presidential hopeful Richard "Dick Twist
 tags:
 - episode
 youtube: https://youtu.be/b8_YS6KrR_Q
+video_id: b8_YS6KrR_Q
+video_upload: '2023-10-09'
+video_duration: 6118
 canon_order: 107
+description: Two fan favourites were brought home to the Dread Fortress for Patriotic Punch Up.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/b8_YS6KrR_Q" title="Watch S5E9 — Patriotic Punch Up — Bob the Barbarian v Richard Knottley (Dick Twist) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

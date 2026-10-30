@@ -15,7 +15,11 @@ summary: Drunken wood elf Sam Cletus fused with a raccoon, became Deletus and th
 tags:
 - episode
 youtube: https://youtu.be/SmMFUGbuv1E
+video_id: SmMFUGbuv1E
+video_upload: '2023-05-03'
+video_duration: 7052
 canon_order: 92
+description: A whiskey-soaked wood elf fighting to save his Meemaw met a sleep-deprived monk haunted by a giant ghostly cymbal monkey, deep beneath The Dread Fortress.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/SmMFUGbuv1E" title="Watch S4E12 — Racoons — Sam Cletus v Ben Zappa on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

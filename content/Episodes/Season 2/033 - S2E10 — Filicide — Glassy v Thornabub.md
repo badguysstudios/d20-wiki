@@ -15,7 +15,11 @@ summary: A father from the Nine Hells fought his runaway daughter to drag her ho
 tags:
 - episode
 youtube: https://youtu.be/REVH9dAOtgU
+video_id: REVH9dAOtgU
+video_upload: '2022-03-16'
+video_duration: 6744
 canon_order: 33
+description: A father and daughter brought their family feud to the arena. Thornabub, a winged lord of a small demiplane of hell, came to haul his runaway daughter Glassy…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/REVH9dAOtgU" title="Watch S2E10 — Filicide — Glassy v Thornabub on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

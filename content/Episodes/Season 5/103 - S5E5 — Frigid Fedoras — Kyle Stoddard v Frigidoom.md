@@ -15,7 +15,11 @@ summary: Thea dragged a fedora-wearing devotee of Princess Sakura and a radioact
 tags:
 - episode
 youtube: https://youtu.be/cvc2LW7ysm4
+video_id: cvc2LW7ysm4
+video_upload: '2023-09-11'
+video_duration: 5645
 canon_order: 103
+description: On an asteroid circling a purple planet no one had ever visited, Kyle Stoddard, a katana-wielding warrior in a fedora sworn to the honor of Princess Sakura…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/cvc2LW7ysm4" title="Watch S5E5 — Frigid Fedoras — Kyle Stoddard v Frigidoom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

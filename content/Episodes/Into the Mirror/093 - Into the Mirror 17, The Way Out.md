@@ -19,7 +19,11 @@ summary: Beaten by Sky's outlanders, the party is taken to a city inside a colos
 tags:
 - episode
 youtube: https://youtu.be/ha_N5uqx6AM
+video_id: ha_N5uqx6AM
+video_upload: '2023-05-03'
+video_duration: 7520
 canon_order: 93
+description: The search for a way out of The Sands of Eternity took Flynry, Toddleheim, Elianna and Cerys, with Vythorn, the Arbiter, in tow, from a lost skirmish in the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ha_N5uqx6AM" title="Watch Into the Mirror 17, The Way Out on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

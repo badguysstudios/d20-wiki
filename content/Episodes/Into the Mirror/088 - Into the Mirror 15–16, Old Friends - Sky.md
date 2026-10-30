@@ -19,7 +19,11 @@ summary: Stranded in the Sands of Eternity, the party wakes the dead Arbiter, Vy
 tags:
 - episode
 youtube: https://youtu.be/G67yfFkeNWg
+video_id: G67yfFkeNWg
+video_upload: '2023-04-20'
+video_duration: 3768
 canon_order: 88
+description: Lost in The Sands of Eternity, the land where the dead turn to sand, Flynry, Elianna, Toddleheim and Cerys find themselves face to face with the last man any…
 ---
 
 <p class="video-label">Part 1</p>

@@ -17,7 +17,11 @@ summary: Chasing Ralzamon into the Void, John Carmichael and Asena team up with 
 tags:
 - episode
 youtube: https://youtu.be/Yp1NY5wF6kM
+video_id: Yp1NY5wF6kM
+video_upload: '2022-08-22'
+video_duration: 11269
 canon_order: 40
+description: 'The heroes of the Coriander Society followed their nemesis through a tear in reality and landed somewhere stranger than any world John had seen: The Void.'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Yp1NY5wF6kM" title="Watch Coriander Society, Fate of the Faithful Part 1 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

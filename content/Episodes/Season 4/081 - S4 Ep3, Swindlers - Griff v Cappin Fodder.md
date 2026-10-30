@@ -15,7 +15,11 @@ summary: A satyr hustler and a halfling pirate trade insults in a ruined temple 
 tags:
 - episode
 youtube: https://youtu.be/wm6N0SLfLy8
+video_id: wm6N0SLfLy8
+video_upload: '2023-02-22'
+video_duration: 5384
 canon_order: 81
+description: 'Two silver-tongued swindlers met in a ruined temple under the gaze of a stone Vythorn: Griff, a satyr hustler who wins by letting you think you can, and…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/wm6N0SLfLy8" title="Watch S4 Ep3, Swindlers - Griff v Cappin Fodder on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

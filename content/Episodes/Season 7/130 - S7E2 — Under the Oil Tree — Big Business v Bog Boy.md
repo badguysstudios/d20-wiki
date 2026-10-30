@@ -15,7 +15,11 @@ summary: Bog Boy, a turtle monk, knocked the head off Big Business, a capitalist
 tags:
 - episode
 youtube: https://youtu.be/ZBXy2rnsdxM
+video_id: ZBXy2rnsdxM
+video_upload: '2026-02-24'
+video_duration: 6788
 canon_order: 130
+description: A towering, money-spewing Warforged named Big Business and a gnarled old swamp turtle called Bog Boy brought a long-simmering feud to a snowy mountaintop…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZBXy2rnsdxM" title="Watch S7E2 — Under the Oil Tree — Big Business v Bog Boy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

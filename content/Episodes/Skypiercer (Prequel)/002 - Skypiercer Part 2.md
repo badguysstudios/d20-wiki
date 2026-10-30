@@ -16,6 +16,7 @@ summary: Before leaving Cor'thun, Elusia, Kaja and Atalantos discover that the m
 tags:
 - episode
 canon_order: 2
+description: The second chapter of the Skypiercer prequel splits neatly in two. First comes a murder mystery in the gilded halls of Cor'thun, where Elusia, Kaja and…
 ---
 
 The second chapter of the [[Skypiercer]] prequel splits neatly in two. First comes a murder mystery in the gilded halls of [[Cor'thun]], where [[Grandmaster Elusia Skypiercer|Elusia]], [[Kaja]] and [[Atalantos]] find a corpse that has been running a business for six years. Then comes the long-awaited crossing into [[The Void]], a homeland Elusia has not seen in three centuries. It is now overrun by shadow, haunted by things that eat light, and quietly waiting for its lost princess to come home.

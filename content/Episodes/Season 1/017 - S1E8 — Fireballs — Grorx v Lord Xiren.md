@@ -15,7 +15,11 @@ summary: Grorx and Lord Xiren fought through the halls of a crumbling desert tem
 tags:
 - episode
 youtube: https://youtu.be/jR2qzQsXBg0
+video_id: jR2qzQsXBg0
+video_upload: '2021-10-27'
+video_duration: 8378
 canon_order: 17
+description: A greedy little goblin who wanted to buy the crown met a winged Aasimar who hadn't realised a Deathmatch involved dying.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/jR2qzQsXBg0" title="Watch S1E8 — Fireballs — Grorx v Lord Xiren on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

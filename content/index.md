@@ -1,5 +1,6 @@
 ---
 title: The Black Tome
+seoTitle: "The Black Tome: D20 Deathmatch Wiki | D&D Actual Play"
 description: "The Black Tome: everything that has happened in D20 Deathmatch, the cult classic D&D actual play series where champions fight to the death in the Grandmaster's arena."
 ---
 

@@ -15,7 +15,11 @@ summary: Identity thief Kopy Katt tried to steal, shame and out-copy the squatti
 tags:
 - episode
 youtube: https://youtu.be/lg0rOBom1LM
+video_id: lg0rOBom1LM
+video_upload: '2023-11-06'
+video_duration: 6681
 canon_order: 110
+description: Two returning champions, each with one win to their name, met atop The Crimson Keep.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/lg0rOBom1LM" title="Watch S5E12 — Imitation Game — Kopy Katt v Ragu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -17,7 +17,11 @@ summary: A strike squad of Toddleheim, Locket and Flynry is sent to rescue the k
 tags:
 - episode
 youtube: https://youtu.be/swPXhJSbtB4
+video_id: swPXhJSbtB4
+video_upload: '2022-01-05'
+video_duration: 14741
 canon_order: 24
+description: Three champions, Toddleheim, Locket and Flynry, set out across the lava fields of The Void on a rescue mission.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/swPXhJSbtB4" title="Watch S2 Ep1, Fate of the Arbiter (Fate of the Arbiter Part 1) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

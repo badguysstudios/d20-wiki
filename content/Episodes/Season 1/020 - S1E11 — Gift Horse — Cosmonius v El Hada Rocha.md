@@ -15,7 +15,11 @@ summary: The centaur monk Cosmonius and the peacock luchador El Hada Rocha fough
 tags:
 - episode
 youtube: https://youtu.be/9--56_zS09I
+video_id: 9--56_zS09I
+video_upload: '2021-11-17'
+video_duration: 8060
 canon_order: 20
+description: 'Two of the most gorgeous champions ever to enter the arena met in the humming heart of The Dread Fortress: Cosmonius, a Fabio-haired centaur monk played by…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9--56_zS09I" title="Watch S1E11 — Gift Horse — Cosmonius v El Hada Rocha on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

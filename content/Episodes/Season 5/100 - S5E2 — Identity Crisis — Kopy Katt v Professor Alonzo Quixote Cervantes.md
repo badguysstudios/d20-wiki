@@ -15,7 +15,11 @@ summary: Kopy Katt, a masked copier with 68 stolen identities, wrecked Professor
 tags:
 - episode
 youtube: https://youtu.be/ApQKHMQLU_M
+video_id: ApQKHMQLU_M
+video_upload: '2023-08-21'
+video_duration: 7037
 canon_order: 100
+description: A bag-headed identity thief met an elderly, extremely muscular professor of bloodshed in a filthy little tavern, and the fight went sideways almost…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ApQKHMQLU_M" title="Watch S5E2 — Identity Crisis — Kopy Katt v Professor Alonzo Quixote Cervantes on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -21,7 +21,11 @@ summary: After Locket dies in the Sands of Eternity, the grieving party kills fo
 tags:
 - episode
 youtube: https://youtu.be/0lTfjV0ByVs
+video_id: 0lTfjV0ByVs
+video_upload: '2023-01-18'
+video_duration: 3821
 canon_order: 74
+description: 'This chapter of the Into the Mirror saga opens moments after the worst thing that could happen in The Sands of Eternity: Locket has crumbled to sand in…'
 ---
 
 <p class="video-label">Part 1</p>

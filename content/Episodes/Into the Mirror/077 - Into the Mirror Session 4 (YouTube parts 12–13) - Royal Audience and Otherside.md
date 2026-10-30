@@ -18,7 +18,11 @@ summary: Queen Cantressa of the city of the dead sends the party through a palac
 tags:
 - episode
 youtube: https://youtu.be/rd3ksGZbrP0
+video_id: rd3ksGZbrP0
+video_upload: '2023-02-01'
+video_duration: 2970
 canon_order: 77
+description: There was no arena and no Deathmatch this time. Flynry, Elianna, Toddleheim and their new and not-quite-trusted companion Cerys were granted an audience with…
 ---
 
 <p class="video-label">Part 1</p>

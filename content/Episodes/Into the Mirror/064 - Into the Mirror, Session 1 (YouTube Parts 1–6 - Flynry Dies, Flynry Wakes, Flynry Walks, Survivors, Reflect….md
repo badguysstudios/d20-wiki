@@ -19,7 +19,11 @@ summary: Flynry dies under a meteor in the Battle for the Crown, wakes in a drea
 tags:
 - episode
 youtube: https://youtu.be/cbN7tMUzhGo
+video_id: cbN7tMUzhGo
+video_upload: '2022-11-21'
+video_duration: 284
 canon_order: 64
+description: Into the Mirror opens with a death. Flynry is struck down by a meteor at the end of the Battle for the Crown and wakes in a life too perfect to be real.
 ---
 
 <p class="video-label">Part 1</p>

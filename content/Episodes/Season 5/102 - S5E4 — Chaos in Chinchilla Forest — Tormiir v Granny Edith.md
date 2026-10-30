@@ -15,7 +15,11 @@ summary: A milk-chugging minotaur warlock and a tiny baking grandmother fought t
 tags:
 - episode
 youtube: https://youtu.be/rGz2Wjs9FHU
+video_id: rGz2Wjs9FHU
+video_upload: '2023-09-04'
+video_duration: 5224
 canon_order: 102
+description: A minotaur in a purple jumpsuit who was supposedly put on this earth to flatten the elderly met a little old lady with a rolling pin as big as she was, and…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/rGz2Wjs9FHU" title="Watch S5E4 — Chaos in Chinchilla Forest — Tormiir v Granny Edith on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

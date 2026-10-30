@@ -22,6 +22,7 @@ summary: Six champions raced in two teams through a gauntlet in the Dread Fortre
 tags:
 - episode
 canon_order: 123
+description: The Arbiter and the Grandmaster brought the arena to Wounded Warrior Project for a charity game of Capture the Flag.
 ---
 
 [[The Arbiter]] and [[Grandmaster Elusia Skypiercer|the Grandmaster]] brought the arena to Wounded Warrior Project for a charity game of **Capture the Flag**. Six [[Champions|champions]] split into two teams and raced through a gauntlet inside [[The Dread Fortress]], while the [[The Acolytes|Acolytes]] paid to help or hurt them. Then the teams were thrown together in a fight to the death. The gauntlet involved a pixie, a centaur who smelled so bad you could feel it, a vengeful mammoth, a rabbit with a shovel, and a duck from hell who pooped wherever he pleased, and it ended with the duck alone and rolling happily in the grass.

@@ -15,7 +15,11 @@ summary: Kleen, a genie-pact warlock, outsniped the shapeshifting, blood-licking
 tags:
 - episode
 youtube: https://youtu.be/ovggvygtAQ8
+video_id: ovggvygtAQ8
+video_upload: '2021-10-05'
+video_duration: 7226
 canon_order: 13
+description: Kleen, a long-range warlock who swore he was not Mr. Kleen, faced Ivanna Kishu, a kiss-blowing aasimar druid with a few tricks borrowed from other trades, in…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ovggvygtAQ8" title="Watch S1E4 — Multiclass — Kleen v Ivanna Kishu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

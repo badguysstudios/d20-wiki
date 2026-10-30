@@ -15,7 +15,11 @@ summary: Twins Nonamatt and Decima fought over whether anyone should claim the G
 tags:
 - episode
 youtube: https://youtu.be/Go92zPBd9JA
+video_id: Go92zPBd9JA
+video_upload: '2023-04-12'
+video_duration: 7208
 canon_order: 90
+description: Two twins, one wizard and one barbarian, were pulled into The Void to settle a family argument that had already cost them a brother.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Go92zPBd9JA" title="Watch S4E10 — Rivals — Nonamatt v Decima on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

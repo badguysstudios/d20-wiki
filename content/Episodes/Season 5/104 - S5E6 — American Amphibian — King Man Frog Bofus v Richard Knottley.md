@@ -15,7 +15,11 @@ summary: 'While protesters marched on the Lord of Fate, Thea kidnapped a British
 tags:
 - episode
 youtube: https://youtu.be/LAPG4OOUWfc
+video_id: LAPG4OOUWfc
+video_upload: '2023-09-18'
+video_duration: 5977
 canon_order: 104
+description: With protesters chanting outside the Dread Fortress and the Lord of Fate too busy brooding at a window to remember it was Deathmatch day, Thea took matters…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/LAPG4OOUWfc" title="Watch S5E6 — American Amphibian — King Man Frog Bofus v Richard Knottley on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

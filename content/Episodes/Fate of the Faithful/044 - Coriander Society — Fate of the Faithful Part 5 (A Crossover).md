@@ -17,7 +17,11 @@ summary: John Carmichael, Asena and Lyrus shatter the Yord echo of Ralzamon at t
 tags:
 - episode
 youtube: https://youtu.be/iPwIBIuN85k
+video_id: iPwIBIuN85k
+video_upload: '2022-10-08'
+video_duration: 9899
 canon_order: 44
+description: The finale of the Coriander Society crossover sends John Carmichael, Asena and the werebear warrior Lyrus into a burning keep in The Shadowlands for one last…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/iPwIBIuN85k" title="Watch Coriander Society — Fate of the Faithful Part 5 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

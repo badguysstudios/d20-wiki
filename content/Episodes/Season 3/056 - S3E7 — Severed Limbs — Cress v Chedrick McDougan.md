@@ -15,7 +15,11 @@ summary: Cress and Chedrick McDougan traded a toe, a hand and a foot in the fog 
 tags:
 - episode
 youtube: https://youtu.be/XakIcN-CPig
+video_id: XakIcN-CPig
+video_upload: '2022-09-07'
+video_duration: 7851
 canon_order: 56
+description: The barefoot fighter Cress came for prize money, and the trash-talking Chedrick McDougan came for her shoes, or failing that, her feet.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/XakIcN-CPig" title="Watch S3E7 — Severed Limbs — Cress v Chedrick McDougan on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

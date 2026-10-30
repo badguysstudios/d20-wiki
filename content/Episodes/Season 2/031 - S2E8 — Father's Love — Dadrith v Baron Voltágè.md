@@ -15,7 +15,11 @@ summary: Dadrith, dad of dads, fought the halfling artificer Baron Voltágè on 
 tags:
 - episode
 youtube: https://youtu.be/o_3-vKNmkWY
+video_id: o_3-vKNmkWY
+video_upload: '2022-02-23'
+video_duration: 6808
 canon_order: 31
+description: A cleric who calls himself the dad of dads faced off against a halfling inventor whose name nobody could pronounce, on an island riding the back of an…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/o_3-vKNmkWY" title="Watch S2E8 — Father's Love — Dadrith v Baron Voltágè on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

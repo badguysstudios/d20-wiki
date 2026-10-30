@@ -15,7 +15,11 @@ summary: Navik, Lord of the Undead, raised the live crowd as his minions and tur
 tags:
 - episode
 youtube: https://youtu.be/vOATJ98xPYY
+video_id: vOATJ98xPYY
+video_upload: '2023-08-07'
+video_duration: 6540
 canon_order: 116
+description: Navik, the self-proclaimed Lord of the Undead, faced the filthy, squatting, chicken-hungry Ragu in a live Deathmatch at GCX Orlando 2023.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/vOATJ98xPYY" title="Watch LIVE at GCX Orlando 2023 — Navik v Ragu (Prego) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

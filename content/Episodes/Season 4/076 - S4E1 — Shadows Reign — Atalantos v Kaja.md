@@ -15,7 +15,11 @@ summary: The Shadow King raises Elusia's old friends Atalantos and Kaja from the
 tags:
 - episode
 youtube: https://youtu.be/F3quJx-d_f4
+video_id: F3quJx-d_f4
+video_upload: '2023-02-01'
+video_duration: 5724
 canon_order: 76
+description: Season 4 opened on the worst birthday party in the history of The Void. With The Arbiter dead and the Grandmaster in chains, The Shadow King dug up the two…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/F3quJx-d_f4" title="Watch S4E1 — Shadows Reign — Atalantos v Kaja on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

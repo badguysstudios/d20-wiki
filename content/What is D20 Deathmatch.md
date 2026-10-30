@@ -1,5 +1,6 @@
 ---
 title: What is D20 Deathmatch?
+seoTitle: "What is D20 Deathmatch? | D&D Actual Play PvP Series"
 description: "D20 Deathmatch is a cult classic D&D actual play series where champions fight to the death in the Grandmaster's arena. The best DnD PvP battles, live on Twitch."
 aliases:
   - About D20 Deathmatch

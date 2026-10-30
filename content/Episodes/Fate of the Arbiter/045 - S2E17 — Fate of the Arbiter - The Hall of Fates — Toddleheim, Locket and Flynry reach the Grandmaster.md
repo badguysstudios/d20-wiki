@@ -17,7 +17,11 @@ summary: Toddleheim, Locket and Flynry crawl through the acid sewers under the D
 tags:
 - episode
 youtube: https://youtu.be/ZAhiweAX4gI
+video_id: ZAhiweAX4gI
+video_upload: '2022-05-04'
+video_duration: 13275
 canon_order: 45
+description: Months after escaping the Arbiter's private arena, Toddleheim, Locket and Flynry are living with the resistance and taking stranger jobs by the week.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZAhiweAX4gI" title="Watch S2E17 — Fate of the Arbiter - The Hall of Fates — Toddleheim, Locket and Flynry reach the Grandmaster on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

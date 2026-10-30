@@ -14,7 +14,11 @@ summary: Two rival bounty hunters from an office dimension fought to the death o
 tags:
 - episode
 youtube: https://youtu.be/TQgN6CRqAcU
+video_id: TQgN6CRqAcU
+video_upload: '2022-07-27'
+video_duration: 6460
 canon_order: 50
+description: Season 3 opened with a murder over yogurt. Lumos the Spark, a corgi-obsessed high elf, was pulled into The Void to settle a score with Ferndell Ironwind, the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/TQgN6CRqAcU" title="Watch S3E1 — Kill em with Kindness — Lumos the Spark v Ferndell Ironwind on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

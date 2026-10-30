@@ -15,7 +15,11 @@ summary: A punching skeleton spent most of the fight locked outside a training c
 tags:
 - episode
 youtube: https://youtu.be/03vHIx78LxM
+video_id: 03vHIx78LxM
+video_upload: '2026-06-22'
+video_duration: 8079
 canon_order: 134
+description: On Father's Day in The Void, a training construct called TD and a vengeful skeleton pugilist named Jerry Bonesman fought in the sleepy, duck-filled Duck…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/03vHIx78LxM" title="Watch S7E6 — Bone Force — Jerry Bonesman v TD on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

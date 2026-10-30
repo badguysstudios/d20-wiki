@@ -15,7 +15,11 @@ summary: A yuan-ti ranger and a warforged gunslinger fought across a rainy fores
 tags:
 - episode
 youtube: https://youtu.be/fCjXSOkuTTg
+video_id: fCjXSOkuTTg
+video_upload: '2022-05-30'
+video_duration: 12972
 canon_order: 6
+description: A snake-woman who loves Mother Nature met a cowboy robot who runs on oil, and the forest got very messy.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fCjXSOkuTTg" title="Watch Playtest 3 (Pre-Launch) — Brunhilda Doogle v White Hat H03 (Mudcat and Caustic duke it out in a 1v1 test) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

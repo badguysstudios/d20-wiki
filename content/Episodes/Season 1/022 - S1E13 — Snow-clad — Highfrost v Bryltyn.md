@@ -15,7 +15,11 @@ summary: A kilted ice warlock fought a raging barbarian in the snowbound ruins o
 tags:
 - episode
 youtube: https://youtu.be/MasLLQBr8L4
+video_id: MasLLQBr8L4
+video_upload: '2021-12-08'
+video_duration: 6718
 canon_order: 22
+description: The kilted ice warlock Highfrost and the self-proclaimed one-of-a-kind warrior Bryltyn fought in a snowbound fishing village in the north, which turned out…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/MasLLQBr8L4" title="Watch S1E13 — Snow-clad — Highfrost v Bryltyn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

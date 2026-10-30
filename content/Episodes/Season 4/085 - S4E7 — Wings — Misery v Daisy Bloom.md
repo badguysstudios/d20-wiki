@@ -15,7 +15,11 @@ summary: Daisy Bloom, Beacon of Village Town, tried to befriend the weeping figh
 tags:
 - episode
 youtube: https://youtu.be/4BdP8x3RVWg
+video_id: 4BdP8x3RVWg
+video_upload: '2023-03-22'
+video_duration: 6128
 canon_order: 85
+description: A relentlessly cheerful paladin who believed in the power of friendship met a fighter who never stopped crying, in a dusty dig site where something that…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4BdP8x3RVWg" title="Watch S4E7 — Wings — Misery v Daisy Bloom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

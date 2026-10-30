@@ -15,7 +15,11 @@ summary: King Bofus, rebuilt and begging for death, fights the anime-devoted Kyl
 tags:
 - episode
 youtube: https://youtu.be/3XZhpVsRso4
+video_id: 3XZhpVsRso4
+video_upload: '2023-11-20'
+video_duration: 7376
 canon_order: 112
+description: Two returning champions met in The Duck Village for a fight one of them very much did not want.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3XZhpVsRso4" title="Watch S5E14 — Froggy Style — Kyle Stoddard v King MAN FROG Bofus on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

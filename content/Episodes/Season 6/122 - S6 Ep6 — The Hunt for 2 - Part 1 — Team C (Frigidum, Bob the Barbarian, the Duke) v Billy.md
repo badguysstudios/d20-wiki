@@ -17,7 +17,11 @@ summary: After Thea's kitchen party drinks the Dread Fortress dry, she sends Tea
 tags:
 - episode
 youtube: https://youtu.be/938InFjSDOM
+video_id: 938InFjSDOM
+video_upload: '2024-04-11'
+video_duration: 7444
 canon_order: 122
+description: 'When Thea and a crowd of party animals drank every last drop of booze in the Dread Fortress, she recruited three champions to restock it: Frigidoom, a…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/938InFjSDOM" title="Watch S6 Ep6 — The Hunt for #2 - Part 1 — Team C (Frigidum, Bob the Barbarian, the Duke) v Billy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

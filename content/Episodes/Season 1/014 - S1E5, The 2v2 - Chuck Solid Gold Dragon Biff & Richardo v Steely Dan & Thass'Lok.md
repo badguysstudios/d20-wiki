@@ -19,7 +19,11 @@ summary: In the first 2v2 Deathmatch, Chuck and Richardo beat Steely Dan and Tha
 tags:
 - episode
 youtube: https://youtu.be/BRc-Sdygomg
+video_id: BRc-Sdygomg
+video_upload: '2021-10-11'
+video_duration: 8689
 canon_order: 14
+description: Four strangers were pulled into the arena's first-ever 2v2, fought across the grinding gears of The Clock of the Lost, and then mostly ignored the teams…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/BRc-Sdygomg" title="Watch S1E5, The 2v2 - Chuck Solid Gold Dragon Biff & Richardo v Steely Dan & Thass'Lok on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

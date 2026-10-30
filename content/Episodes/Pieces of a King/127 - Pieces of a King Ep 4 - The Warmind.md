@@ -16,7 +16,11 @@ summary: Grimnar, Nehebka and Muffy fight through the end of the war on Damerung
 tags:
 - episode
 youtube: https://youtu.be/h9Ce8Y28itA
+video_id: h9Ce8Y28itA
+video_upload: '2024-07-24'
+video_duration: 11002
 canon_order: 127
+description: The finale of the first arc of Pieces of a King sends Grimnar Stormclaw, Nehebka and Muffy deep under the war-torn world of Damerung to destroy The Warmind.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/h9Ce8Y28itA" title="Watch Pieces of a King Ep 4 - The Warmind on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

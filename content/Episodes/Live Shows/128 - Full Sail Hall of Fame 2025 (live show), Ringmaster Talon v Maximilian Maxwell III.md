@@ -15,6 +15,7 @@ summary: Blood-soaked circus master Ringmaster Talon fought the filthy-rich Maxi
 tags:
 - episode
 canon_order: 128
+description: On a live stage packed with The Acolytes, the blood-drenched Ringmaster Talon faced Maximilian Maxwell III, a New York moneybags who had never been in a…
 ---
 
 On a live stage packed with [[The Acolytes]], the blood-drenched **[[Ringmaster Talon]]** faced **[[Maximilian Maxwell III]]**, a New York moneybags who had never been in a deathmatch and paid his way into this one. Max hired volunteers to do his kicking, hit and blocking, and he even paid [[Grandmaster Elusia Skypiercer|the Grandmaster]] to bring his opponent back from the dead. It was a night of murder unicorns, homemade currency and a very dignified death by SpaghettiOs.

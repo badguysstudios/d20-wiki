@@ -15,7 +15,11 @@ summary: A logical automaton and an irradiated refrigerator fought by trying to 
 tags:
 - episode
 youtube: https://youtu.be/8GhfKgjTDYY
+video_id: 8GhfKgjTDYY
+video_upload: '2023-10-23'
+video_duration: 6592
 canon_order: 109
+description: Two machines met in The Chinchilla Forest with every intention of killing each other, and almost immediately started hugging instead.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/8GhfKgjTDYY" title="Watch S5E11 — Appliance Adversaries — Atlas v Frigidoom on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

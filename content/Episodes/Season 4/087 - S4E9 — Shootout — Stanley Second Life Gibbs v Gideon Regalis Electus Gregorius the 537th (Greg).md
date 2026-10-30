@@ -15,7 +15,11 @@ summary: A cowboy who couldn't stay dead faced a hapless noble duelist whose pis
 tags:
 - episode
 youtube: https://youtu.be/MTC_6sqV8d0
+video_id: MTC_6sqV8d0
+video_upload: '2023-04-06'
+video_duration: 5532
 canon_order: 87
+description: Stanley "Second Life" Gibbs, the self-proclaimed fastest gun in the West, met Gideon Regalis Electus Gregorius the 537th, a polite, terrified and endlessly…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/MTC_6sqV8d0" title="Watch S4E9 — Shootout — Stanley Second Life Gibbs v Gideon Regalis Electus Gregorius the 537th (Greg) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

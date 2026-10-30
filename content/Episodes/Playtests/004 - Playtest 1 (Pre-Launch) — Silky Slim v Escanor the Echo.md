@@ -15,7 +15,11 @@ summary: Minotaur Escanor the Echo and his echo-twin Cream outlasted the oiled b
 tags:
 - episode
 youtube: https://youtu.be/SgFsqyQFIzQ
+video_id: SgFsqyQFIzQ
+video_upload: '2022-05-30'
+video_duration: 8155
 canon_order: 4
+description: Before the Deathmatches had a season to call their own, there was a minotaur, a bugbear and a forest full of mud.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/SgFsqyQFIzQ" title="Watch Playtest 1 (Pre-Launch) — Silky Slim v Escanor the Echo on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

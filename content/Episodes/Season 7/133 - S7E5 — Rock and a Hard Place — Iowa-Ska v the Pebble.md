@@ -15,7 +15,11 @@ summary: A middle-aged green dragonborn with a Vespa loan fought a four-foot wre
 tags:
 - episode
 youtube: https://youtu.be/M-MFNntwymg
+video_id: M-MFNntwymg
+video_upload: '2026-06-01'
+video_duration: 6821
 canon_order: 133
+description: Rock and a Hard Place pitted Iowa-Ska, a feathered, fanny-packed green dragonborn deep in a midlife crisis, against the Pebble, a four-foot glacier dwarf who…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/M-MFNntwymg" title="Watch S7E5 — Rock and a Hard Place — Iowa-Ska v the Pebble on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

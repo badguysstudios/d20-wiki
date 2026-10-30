@@ -15,7 +15,11 @@ summary: A huge shelled brute and an asthmatic, debt-ridden swordsman fought thr
 tags:
 - episode
 youtube: https://youtu.be/qtv__Ond6Dw
+video_id: qtv__Ond6Dw
+video_upload: '2022-05-30'
+video_duration: 5974
 canon_order: 8
+description: Bawser, a towering yellow brute with a green shell, and Grakas, a wheezing, blue-bearded swordsman who never wanted to be there, met in a drizzly forest…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/qtv__Ond6Dw" title="Watch Playtest 5 (Pre-Launch) — Bawser v Grakas (Mudcat v Caustic) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

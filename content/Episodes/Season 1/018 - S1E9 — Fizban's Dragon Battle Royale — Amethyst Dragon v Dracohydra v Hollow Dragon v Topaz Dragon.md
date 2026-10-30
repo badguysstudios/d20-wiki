@@ -19,7 +19,11 @@ summary: On Halloween, the arena's lemonade vendor, a living die and the shadows
 tags:
 - episode
 youtube: https://youtu.be/N9v_lqUFFuU
+video_id: N9v_lqUFFuU
+video_upload: '2021-11-03'
+video_duration: 11206
 canon_order: 18
+description: For Halloween, the Arbiter cracked open his favorite book and turned the arena's lemonade vendor, a living amethyst die and the shadows of both hosts into…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/N9v_lqUFFuU" title="Watch S1E9 — Fizban's Dragon Battle Royale — Amethyst Dragon v Dracohydra v Hollow Dragon v Topaz Dragon on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

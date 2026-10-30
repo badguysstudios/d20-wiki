@@ -17,7 +17,11 @@ summary: At a feast opening the Season of the Trials, the Arbiter's brand-new as
 tags:
 - episode
 youtube: https://youtu.be/mDcPeEimpZI
+video_id: mDcPeEimpZI
+video_upload: '2024-03-05'
+video_duration: 6706
 canon_order: 117
+description: 'The Season of the Trials opened with no arena and a black-tie dinner instead. Three guests came to a grand feast at The Dread Fortress: C.A.'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/mDcPeEimpZI" title="Watch S6E1 — Murder at the Dread Fortress (TTRPG Murder Mystery) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

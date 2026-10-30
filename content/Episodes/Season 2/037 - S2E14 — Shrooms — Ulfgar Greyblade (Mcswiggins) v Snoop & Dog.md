@@ -15,7 +15,11 @@ summary: A mushroom-addled pint-sized rider and a very drunk dwarf fought in a l
 tags:
 - episode
 youtube: https://youtu.be/6JgeeDFqEkk
+video_id: 6JgeeDFqEkk
+video_upload: '2022-04-13'
+video_duration: 6471
 canon_order: 37
+description: Two short, far-from-sober champions squared off in a lost plane where forgotten things gather and the Acolytes' farts sink to the floor.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6JgeeDFqEkk" title="Watch S2E14 — Shrooms — Ulfgar Greyblade (Mcswiggins) v Snoop & Dog on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

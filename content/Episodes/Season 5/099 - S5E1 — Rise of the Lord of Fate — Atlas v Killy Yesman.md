@@ -15,7 +15,11 @@ summary: With the Grandmaster gone, the Lord of Fate creates Thea from an arena 
 tags:
 - episode
 youtube: https://youtu.be/eYFb1-4IUMk
+video_id: eYFb1-4IUMk
+video_upload: '2023-08-16'
+video_duration: 5952
 canon_order: 99
+description: Season Five opened on a very different Void. The Grandmaster had been "laid off," and a bored new ruler, the Lord of Fate, sat alone on the throne of The…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/eYFb1-4IUMk" title="Watch S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

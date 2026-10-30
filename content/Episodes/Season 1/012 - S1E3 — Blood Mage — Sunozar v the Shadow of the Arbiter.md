@@ -15,7 +15,11 @@ summary: When the Arbiter showed up one champion short, the Grandmaster made him
 tags:
 - episode
 youtube: https://youtu.be/t0AoL4fBrVE
+video_id: t0AoL4fBrVE
+video_upload: '2021-09-28'
+video_duration: 7158
 canon_order: 12
+description: Blood Mage is the Deathmatch where the Arbiter turned up with only one of the two champions he needed, and the Grandmaster made him pay for it.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/t0AoL4fBrVE" title="Watch S1E3 — Blood Mage — Sunozar v the Shadow of the Arbiter on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

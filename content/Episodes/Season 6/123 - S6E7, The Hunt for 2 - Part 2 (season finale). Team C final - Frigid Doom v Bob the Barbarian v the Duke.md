@@ -17,7 +17,11 @@ summary: Team C fought in Emmery's Tavern to decide who would lead them, and Fri
 tags:
 - episode
 youtube: https://youtu.be/2GHpuqoileM
+video_id: 2GHpuqoileM
+video_upload: '2024-04-22'
+video_duration: 7949
 canon_order: 123
+description: The Season 6 finale sent the three members of Team C, a nuclear refrigerator, a Floridian barbarian and a rat-man magician, back to the scene of their…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/2GHpuqoileM" title="Watch S6E7, The Hunt for #2 - Part 2 (season finale). Team C final - Frigid Doom v Bob the Barbarian v the Duke on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

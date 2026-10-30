@@ -15,7 +15,11 @@ summary: The Scourge, an aasimar in snake form with two conjured Quetzalcoatlus,
 tags:
 - episode
 youtube: https://youtu.be/_GrpNwQGDro
+video_id: _GrpNwQGDro
+video_upload: '2023-03-01'
+video_duration: 5026
 canon_order: 82
+description: 'Two sleeveless showmen with one very specific grudge met in the Void: The Scourge, a righteous aasimar who fought as a giant snake, and Bone Daddy, a…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/_GrpNwQGDro" title="Watch S4E4 — Death Dealers — The Scourge v Bone Daddy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: The warforged Atlas and the wrestler Bromir fought through a blizzard, 
 tags:
 - episode
 youtube: https://youtu.be/9HVO0CJ1-xc
+video_id: 9HVO0CJ1-xc
+video_upload: '2022-05-30'
+video_duration: 9283
 canon_order: 5
+description: On the frozen slopes of Reaper's Rock, a towering warforged named Atlas squared off against Bromir, a snow-rubbing, pony-throwing wrestler with boulders for…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/9HVO0CJ1-xc" title="Watch Playtest 2 (Pre-Launch) — Atlas v Bromir on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

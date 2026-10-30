@@ -18,7 +18,11 @@ summary: After slaying a dragon, the party claims a strange white soul gem and a
 tags:
 - episode
 youtube: https://youtu.be/yUchVeL-bOw
+video_id: yUchVeL-bOw
+video_upload: '2023-02-15'
+video_duration: 1679
 canon_order: 80
+description: 'With the dragon dead and its treasure cave theirs for the taking, Flynry, Toddleheim, Elianna and Cerys went looking for the one prize that mattered: a…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/yUchVeL-bOw" title="Watch Into the Mirror 14 — The Scholar on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

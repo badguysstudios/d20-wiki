@@ -15,7 +15,11 @@ summary: Returning favorite Granny Edith faced zombie-apocalypse survivor Teddy 
 tags:
 - episode
 youtube: https://youtu.be/QptrBbj427Y
+video_id: QptrBbj427Y
+video_upload: '2023-10-02'
+video_duration: 4820
 canon_order: 106
+description: Granny Edith came back to the arena hoping for a rest and got a shotgun-toting zombie hunter instead.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/QptrBbj427Y" title="Watch S5E8 — Graveyard Grudge — Granny Edith v Teddy Oso on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

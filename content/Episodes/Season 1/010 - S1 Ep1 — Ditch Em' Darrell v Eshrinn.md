@@ -15,7 +15,11 @@ summary: In the very first Deathmatch, the old axe-swinging Ditch Em' Darrell is
 tags:
 - episode
 youtube: https://youtu.be/kHbOuDPSSaA
+video_id: kHbOuDPSSaA
+video_upload: '2021-09-15'
+video_duration: 8519
 canon_order: 10
+description: The first ever Deathmatch pitted Ditch Em' Darrell, a grizzled old axe-man with a barbecue-sauced mustache, against Eshrinn, a snake-woman and self-styled…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/kHbOuDPSSaA" title="Watch S1 Ep1 — Ditch Em' Darrell v Eshrinn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

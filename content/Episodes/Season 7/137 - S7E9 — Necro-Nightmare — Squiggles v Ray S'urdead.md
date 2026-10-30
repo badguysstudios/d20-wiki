@@ -15,7 +15,11 @@ summary: Gnome pool caretaker Squiggles faced the Halloween-themed necromancer R
 tags:
 - episode
 youtube: https://youtu.be/2wOVPYpXoGI
+video_id: 2wOVPYpXoGI
+video_upload: '2026-10-12'
+video_duration: 7617
 canon_order: 137
+description: A gnome pool caretaker in floaties and a drawn-on mustache met a velvet-voiced necromancer who was more or less Halloween in human form, in the Void's…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/2wOVPYpXoGI" title="Watch S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

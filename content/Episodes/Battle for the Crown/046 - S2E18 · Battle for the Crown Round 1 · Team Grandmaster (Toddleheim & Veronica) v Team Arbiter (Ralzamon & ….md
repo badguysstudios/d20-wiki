@@ -19,7 +19,11 @@ summary: In the first round of the Arbiter's war for the throne, Toddleheim and 
 tags:
 - episode
 youtube: https://youtu.be/SBwLaOYdZs0
+video_id: SBwLaOYdZs0
+video_upload: '2022-05-11'
+video_duration: 10415
 canon_order: 46
+description: The war for the crown began in the snow. The Arbiter, no longer content to serve, sent his general Ralzamon and the lovable brute Glub Glub against the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/SBwLaOYdZs0" title="Watch S2E18 · Battle for the Crown Round 1 · Team Grandmaster (Toddleheim & Veronica) v Team Arbiter (Ralzamon & … on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

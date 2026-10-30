@@ -17,6 +17,7 @@ summary: In the city of Cor'thun, 300 years after fleeing the Void, Elusia, Kaja
 tags:
 - episode
 canon_order: 1
+description: Long before the arena, a young warrior named Elusia defended a city that was not her own.
 ---
 
 Long before the arena, a young warrior named **Elusia** defended a city that was not her own. The first chapter of [[Skypiercer]] drops [[Grandmaster Elusia Skypiercer|the future Grandmaster]], the necromancer [[Kaja]] and the shield-bearer [[Atalantos]] into a siege of [[Cor'thun]], where they face a silent, regenerating giant called the Cursed Juggernaut. It is the origin story the Void never knew it needed: a royal escape paid for in blood, a monster brought down by a lightning arrow in the butt and a short sword shoved up after it, a feast with almond wine, and a scholar from her father's court arriving with terrible news.

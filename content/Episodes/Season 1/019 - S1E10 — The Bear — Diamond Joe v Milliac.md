@@ -15,7 +15,11 @@ summary: Diamond Joe, an elderly dragonborn inventor searching for his creation 
 tags:
 - episode
 youtube: https://youtu.be/fTrPcxjl_OQ
+video_id: fTrPcxjl_OQ
+video_upload: '2021-11-10'
+video_duration: 8168
 canon_order: 19
+description: Diamond Joe, an elderly dragonborn inventor in homemade power armor, came to the Void looking for his long-lost "boy." Milliac, a big-bellied woodsman who…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fTrPcxjl_OQ" title="Watch S1E10 — The Bear — Diamond Joe v Milliac on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

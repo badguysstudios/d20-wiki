@@ -15,7 +15,11 @@ summary: Bob the Barbarian, a relentlessly cheerful Florida man, fought the chil
 tags:
 - episode
 youtube: https://youtu.be/0Ep-xE9gG_o
+video_id: 0Ep-xE9gG_o
+video_upload: '2023-09-25'
+video_duration: 5327
 canon_order: 105
+description: A little boy with a tentacle monster in his backpack fought a shirtless, mullet-haired barbarian from Florida in a cozy village full of ducks.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/0Ep-xE9gG_o" title="Watch S5E7 — Ducks of Death — Robbie Clark & the Hunger v Bob the Barbarian on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

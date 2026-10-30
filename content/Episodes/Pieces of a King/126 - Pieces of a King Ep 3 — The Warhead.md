@@ -17,7 +17,11 @@ summary: The 35th meet the alliance's war council and are shown the corpse of a 
 tags:
 - episode
 youtube: https://youtu.be/uLSXxlVHPHs
+video_id: uLSXxlVHPHs
+video_upload: '2024-06-26'
+video_duration: 9609
 canon_order: 126
+description: On the war-torn world of Dämmerung, Grimnar, Nehebka and Muffy wake up in an army barracks and end the day in a firefight over a dead angel.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/uLSXxlVHPHs" title="Watch Pieces of a King Ep 3 — The Warhead on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

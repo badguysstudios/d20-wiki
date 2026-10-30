@@ -17,7 +17,11 @@ summary: Guided by a painful divination, Lyrus, Asena, John Carmichael and Circe
 tags:
 - episode
 youtube: https://youtu.be/1Hcb0TizdXo
+video_id: 1Hcb0TizdXo
+video_upload: '2022-09-16'
+video_duration: 10448
 canon_order: 43
+description: The penultimate chapter of the Fate of the Faithful crossover saw Lyrus the werebear and the travellers from Yord, Asena and John Carmichael, go hunting for…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/1Hcb0TizdXo" title="Watch Coriander Society — Fate of the Faithful Part 4 (A Crossover) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

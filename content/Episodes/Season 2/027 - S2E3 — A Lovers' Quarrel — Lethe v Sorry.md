@@ -15,7 +15,11 @@ summary: Exes Lethe and Sorry were pulled into the Grandmaster's snowy retreat t
 tags:
 - episode
 youtube: https://youtu.be/KJJjccmQnNg
+video_id: KJJjccmQnNg
+video_upload: '2022-01-23'
+video_duration: 6670
 canon_order: 27
+description: Two towering exes, a goliath from the Witchlight Carnival and a satyr graduate of Strixhaven, were dropped into a snow globe of a town and told to settle…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/KJJjccmQnNg" title="Watch S2E3 — A Lovers' Quarrel — Lethe v Sorry on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

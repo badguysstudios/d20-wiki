@@ -15,7 +15,11 @@ summary: Two champions recruited from a mall Santa line fought on a giant feast 
 tags:
 - episode
 youtube: https://youtu.be/yj4aWKZ78I8
+video_id: yj4aWKZ78I8
+video_upload: '2021-11-26'
+video_duration: 7589
 canon_order: 21
+description: Shrunk to the size of crumbs and dropped onto a holiday feast table, Potato and Dinkledink came into the arena as strangers.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/yj4aWKZ78I8" title="Watch S1E12 — Feast — Potato v Dinkledink on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

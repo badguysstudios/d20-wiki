@@ -15,7 +15,11 @@ summary: A twelve-year-old Goliath animal trainer stumbles into his own Cube of 
 tags:
 - episode
 youtube: https://youtu.be/ZmVWvB4IgMk
+video_id: ZmVWvB4IgMk
+video_upload: '2022-12-14'
+video_duration: 8941
 canon_order: 70
+description: The Season 3 finale pitted Soot Mustam, a twelve-year-old Goliath with the body of a grown man and a hat worn backwards for power, against Huey Leatherface…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZmVWvB4IgMk" title="Watch S3E17, Season 3 Finale - Soot Mustam v Huey Leatherface on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

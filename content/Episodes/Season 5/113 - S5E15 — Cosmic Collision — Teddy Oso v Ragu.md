@@ -15,7 +15,11 @@ summary: With her job on the line, Thea brought back zombie hunter Teddy Oso and
 tags:
 - episode
 youtube: https://youtu.be/GbnH7tPab-o
+video_id: GbnH7tPab-o
+video_upload: '2023-12-04'
+video_duration: 5936
 canon_order: 113
+description: Two returning favourites, the zombie-slaying Teddy Oso and the luxuriously coiffed Ragu, were dropped onto an asteroid in the rings of a roaring gas giant.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/GbnH7tPab-o" title="Watch S5E15 — Cosmic Collision — Teddy Oso v Ragu on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

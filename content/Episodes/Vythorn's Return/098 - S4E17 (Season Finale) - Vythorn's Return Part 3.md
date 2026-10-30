@@ -16,7 +16,11 @@ summary: Returned to the Void by Fil, Vythorn uses the power of Morir's Cataclys
 tags:
 - episode
 youtube: https://youtu.be/HcGhwds-ipo
+video_id: HcGhwds-ipo
+video_upload: '2023-05-24'
+video_duration: 1494
 canon_order: 98
+description: The fourth season ended without a Deathmatch. It ended with a coup. Fil returned Vythorn, the Arbiter, to the Void carrying a new power, and he walked into…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/HcGhwds-ipo" title="Watch S4E17 (Season Finale) - Vythorn's Return Part 3 on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

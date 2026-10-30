@@ -17,6 +17,7 @@ tags:
 - episode
 youtube: https://youtu.be/6gx27V6yzwU
 canon_order: 138
+description: On the one day off a year the unions had won her, Thea stole a car, ran down a good part of a candy town, found her long-lost little brother inside a badly…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/6gx27V6yzwU" title="Watch S7E10 — Thea's Adventure (Thea's Revenge, a one-shot) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

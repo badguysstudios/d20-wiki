@@ -15,7 +15,11 @@ summary: A sweet old grandma and a spoiled rich barbarian real-estate developer 
 tags:
 - episode
 youtube: https://youtu.be/CUgf0VcgMXo
+video_id: CUgf0VcgMXo
+video_upload: '2026-07-20'
+video_duration: 5450
 canon_order: 135
+description: A toffee-dispensing grandma and a giant, spoiled barbarian with flames drawn on his space helmet were dropped onto a tiny orange asteroid in the Ether Drifts…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/CUgf0VcgMXo" title="Watch S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

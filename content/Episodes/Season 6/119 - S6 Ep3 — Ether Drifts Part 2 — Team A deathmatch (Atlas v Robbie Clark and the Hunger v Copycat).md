@@ -17,7 +17,11 @@ summary: Team A's three champions fought each other on a low-gravity asteroid fo
 tags:
 - episode
 youtube: https://youtu.be/t4GnVRV3VV0
+video_id: t4GnVRV3VV0
+video_upload: '2024-03-21'
+video_duration: 7640
 canon_order: 119
+description: Three teammates, one asteroid, and a single leadership position. Atlas, Robbie Clark and the Hunger and Copycat were pulled out to The Ether Drifts to fight…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/t4GnVRV3VV0" title="Watch S6 Ep3 — Ether Drifts Part 2 — Team A deathmatch (Atlas v Robbie Clark and the Hunger v Copycat) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

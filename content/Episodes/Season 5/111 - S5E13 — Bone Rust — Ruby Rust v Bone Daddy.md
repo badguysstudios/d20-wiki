@@ -15,7 +15,11 @@ summary: Two badly revived champions brawled in a grimy tavern, and Ruby Rust sw
 tags:
 - episode
 youtube: https://youtu.be/CzWtGF5PHAQ
+video_id: CzWtGF5PHAQ
+video_upload: '2023-11-13'
+video_duration: 6657
 canon_order: 111
+description: Two champions came back from the dead for a rematch with fate in Bone Rust. One was Ruby Rust, a snake-turned-programmer who had been devoured by the Hunger…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/CzWtGF5PHAQ" title="Watch S5E13 — Bone Rust — Ruby Rust v Bone Daddy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Doug summoned a bickering married couple for a Deathmatch billed as the
 tags:
 - episode
 youtube: https://youtu.be/nj_7e17mMJU
+video_id: nj_7e17mMJU
+video_upload: '2022-08-10'
+video_duration: 6789
 canon_order: 52
+description: Most champions come to the Void to kill a stranger. Chade (Chaedillion) Chadian and his wife Kairen came to work on their marriage.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/nj_7e17mMJU" title="Watch S3E3 — Couples Therapy — Chade v Kairen on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

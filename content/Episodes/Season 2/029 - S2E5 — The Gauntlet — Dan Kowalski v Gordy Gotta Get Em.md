@@ -15,7 +15,11 @@ summary: For the Grandmaster's birthday, two bowling buddies raced through her o
 tags:
 - episode
 youtube: https://youtu.be/ILYSryi_t98
+video_id: ILYSryi_t98
+video_upload: '2022-02-02'
+video_duration: 8558
 canon_order: 29
+description: For the Grandmaster's birthday, there was no ordinary duel. Dan Kowalski, a party-loving satyr, and Gordy Gotta Get Em, a small, twitchy stabber, were sent…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ILYSryi_t98" title="Watch S2E5 — The Gauntlet — Dan Kowalski v Gordy Gotta Get Em on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

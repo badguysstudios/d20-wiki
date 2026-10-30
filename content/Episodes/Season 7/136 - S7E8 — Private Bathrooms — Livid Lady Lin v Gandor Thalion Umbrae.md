@@ -15,7 +15,11 @@ summary: Rival wizards Livid Lady Lin and Gandor Thalion Umbrae duel for the lea
 tags:
 - episode
 youtube: https://youtu.be/QVBk4kwR-qI
+video_id: QVBk4kwR-qI
+video_upload: '2026-10-12'
+video_duration: 5086
 canon_order: 136
+description: Two old rivals, the absurdly buff battle-wizard Livid Lady Lin (played by Emily Graymoor) and the orb-obsessed, three-named Gandor Thalion Umbrae (played by…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/QVBk4kwR-qI" title="Watch S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

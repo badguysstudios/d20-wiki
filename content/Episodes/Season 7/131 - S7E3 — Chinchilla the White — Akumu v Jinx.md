@@ -15,7 +15,11 @@ summary: A vodka-soaked paladin, Akumu, fought Jinx, an e-streaming Echo Knight 
 tags:
 - episode
 youtube: https://youtu.be/4mc4nZfnib0
+video_id: 4mc4nZfnib0
+video_upload: '2026-03-16'
+video_duration: 6393
 canon_order: 131
+description: Akumu, a half-elf paladin who believes her blood is half vodka, faced Jinx, a gamer girl in a unicorn onesie who thought the whole thing was a stream, on a…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4mc4nZfnib0" title="Watch S7E3 — Chinchilla the White — Akumu v Jinx on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Rosa, a halfling in a bee costume, and Veronica, a half-elf bladesinger
 tags:
 - episode
 youtube: https://youtu.be/5isJ1FM-NtE
+video_id: 5isJ1FM-NtE
+video_upload: '2022-03-02'
+video_duration: 8514
 canon_order: 32
+description: A sunny, one-eyed halfling in a bee costume met a cool, blue-haired half-elf with tricks up her wrist wraps in a desert bazaar the Grandmaster had just…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/5isJ1FM-NtE" title="Watch S2E9 — Bees — Rosa v Veronica on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

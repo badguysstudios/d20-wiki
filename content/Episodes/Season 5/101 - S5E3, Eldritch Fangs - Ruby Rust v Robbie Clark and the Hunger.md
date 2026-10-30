@@ -15,7 +15,11 @@ summary: A coding constrictor snake with no arms fought a small-town boy and the
 tags:
 - episode
 youtube: https://youtu.be/PwtNfOqk9dw
+video_id: PwtNfOqk9dw
+video_upload: '2023-08-28'
+video_duration: 5786
 canon_order: 101
+description: Ruby Rust, a giant constrictor snake who codes for a living, was pulled onto a freezing mountain peak to fight Robbie Clark, a cheerful boy from a small…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/PwtNfOqk9dw" title="Watch S5E3, Eldritch Fangs - Ruby Rust v Robbie Clark and the Hunger on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

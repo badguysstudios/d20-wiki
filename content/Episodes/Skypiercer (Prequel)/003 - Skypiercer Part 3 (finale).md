@@ -17,6 +17,7 @@ summary: Elusia, Kaja and Atalantos storm the Dread Fortress, and Elusia kills h
 tags:
 - episode
 canon_order: 3
+description: The finale of Skypiercer brings exiled princess Elusia home at last. Alongside her friends Kaja and Atalantos, she storms The Dread Fortress to face her…
 ---
 
 The finale of [[Skypiercer]] brings exiled princess Elusia home at last. Alongside her friends [[Kaja]] and [[Atalantos]], she storms [[The Dread Fortress]] to face her uncle Agdrel, [[The Shadow King|the Shadow King]], in the throne room that once belonged to her father. It is the episode where nearly everything the Deathmatches are built on is born: the Grandmaster, the Arbiter, the Acolytes, the arena, and a certain box with a very suspicious name.

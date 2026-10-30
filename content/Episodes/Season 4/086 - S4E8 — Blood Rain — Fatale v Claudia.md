@@ -15,7 +15,11 @@ summary: Fatale, a whip-cracking infiltrator, and Claudia, a panicky plant profe
 tags:
 - episode
 youtube: https://youtu.be/4LNVK_cQlb8
+video_id: 4LNVK_cQlb8
+video_upload: '2023-03-31'
+video_duration: 5483
 canon_order: 86
+description: Blood Rain pitted Fatale, a terse rogue who rides in on a wind of black rose petals, against Claudia, a university professor of plants who fights with…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4LNVK_cQlb8" title="Watch S4E8 — Blood Rain — Fatale v Claudia on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -15,7 +15,11 @@ summary: Tiny owlbear Buli the Brave and fairy bard Chancy fought through twelve
 tags:
 - episode
 youtube: https://youtu.be/4iH3c-r0CxM
+video_id: 4iH3c-r0CxM
+video_upload: '2022-04-06'
+video_duration: 9413
 canon_order: 36
+description: Two three-foot-tall champions, both convinced they were legends, met in the ruins of a seaside castle in the Void.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/4iH3c-r0CxM" title="Watch S2E13 — The Brave — Buli v Chancy on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

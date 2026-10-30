@@ -15,7 +15,11 @@ summary: An army and a Tarrasque attacked the Dread Fortress and cut short the d
 tags:
 - episode
 youtube: https://youtu.be/_d7lIknz0n4
+video_id: _d7lIknz0n4
+video_upload: '2021-12-16'
+video_duration: 8449
 canon_order: 23
+description: For the Season 1 finale, the Grandmaster skipped the far-off realms and held the fight at home, in The Grand Coliseum of The Dread Fortress under the night…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/_d7lIknz0n4" title="Watch S1E14 — Eyes of Chaos — Lucien v Monteclaire (Season 1 finale) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

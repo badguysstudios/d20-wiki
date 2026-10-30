@@ -15,7 +15,11 @@ summary: Lief Tover, a trash-dump champion, fought Sheriff Tapatio S. Picante an
 tags:
 - episode
 youtube: https://youtu.be/oXvECQhgc4w
+video_id: oXvECQhgc4w
+video_upload: '2024-08-30'
+video_duration: 5437
 canon_order: 128
+description: A sweltering live crowd watched Lief Tover, a champion from the deepest depths of a garbage dump, face Sheriff Tapatio S.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/oXvECQhgc4w" title="Watch LIVE at Full Sail Hall of Fame 2024 - Lief Tover v Sheriff Tapatio S. Picante on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

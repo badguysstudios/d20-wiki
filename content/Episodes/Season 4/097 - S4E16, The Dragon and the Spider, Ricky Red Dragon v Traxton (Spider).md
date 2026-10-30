@@ -15,7 +15,11 @@ summary: In the Season 4 finale, the late-blooming elf Spider gets puberty from 
 tags:
 - episode
 youtube: https://youtu.be/zEm9eD01piI
+video_id: zEm9eD01piI
+video_upload: '2023-05-24'
+video_duration: 6609
 canon_order: 97
+description: The Season 4 finale set Ricky Red Dragon, a "red dragon" cursed into human flesh after one rave too many, against Traxton, a 45-year-old emo elf who would…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/zEm9eD01piI" title="Watch S4E16, The Dragon and the Spider, Ricky Red Dragon v Traxton (Spider) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

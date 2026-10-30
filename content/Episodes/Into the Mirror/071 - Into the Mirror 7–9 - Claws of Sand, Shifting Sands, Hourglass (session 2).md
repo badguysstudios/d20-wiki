@@ -19,7 +19,11 @@ summary: Locket, Toddleheim and Elianna destroy a swarm of sand scorpions alongs
 tags:
 - episode
 youtube: https://youtu.be/T5LwxsIOyrU
+video_id: T5LwxsIOyrU
+video_upload: '2022-12-21'
+video_duration: 1046
 canon_order: 71
+description: In a cold desert of blue sand, Locket, Toddleheim and the Grandmaster's own personal assistant Elianna finally found their lost friend Flynry, mid-battle and…
 ---
 
 <p class="video-label">Part 1</p>

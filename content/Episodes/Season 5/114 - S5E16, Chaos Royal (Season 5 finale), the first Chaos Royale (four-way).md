@@ -14,7 +14,11 @@ summary: Thea stages a four-way Chaos Royale over a red mug to cheer up the broo
 tags:
 - episode
 youtube: https://youtu.be/bcq7-9Py-VU
+video_id: bcq7-9Py-VU
+video_upload: '2023-12-11'
+video_duration: 9719
 canon_order: 114
+description: 'The Season 5 finale threw four returning champions into the first-ever Chaos Royale: Tormiir the minotaur, Bobby Clark and the eldritch backpack known as the…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/bcq7-9Py-VU" title="Watch S5E16, Chaos Royal (Season 5 finale), the first Chaos Royale (four-way) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

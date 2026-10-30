@@ -15,7 +15,11 @@ summary: DeeDrah, a one-named winged warlock, fought Andy Gammage, the undead In
 tags:
 - episode
 youtube: https://youtu.be/Agj0QVseSJw
+video_id: Agj0QVseSJw
+video_upload: '2026-01-20'
+video_duration: 7390
 canon_order: 129
+description: Season 7 opened on a blood-soaked castle rampart under a giant full moon, where DeeDrah, a woman with one name and two blades, fought Andy Gammage, the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Agj0QVseSJw" title="Watch S7E1 — A Soup Served Cold — DeeDrah v Gazpacho Man Andy Gammage on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

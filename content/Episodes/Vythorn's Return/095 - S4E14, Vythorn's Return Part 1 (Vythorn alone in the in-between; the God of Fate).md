@@ -12,7 +12,11 @@ summary: Plucked out of his journey between planes, Vythorn loses his boots to a
 tags:
 - episode
 youtube: https://youtu.be/KWrBKN495SY
+video_id: KWrBKN495SY
+video_upload: '2023-05-10'
+video_duration: 6042
 canon_order: 95
+description: There was no arena, no opponent and no crowd this week. Vythorn, the Arbiter (played by Mudcat), tumbled out of a portal and into a place outside every map…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/KWrBKN495SY" title="Watch S4E14, Vythorn's Return Part 1 (Vythorn alone in the in-between; the God of Fate) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

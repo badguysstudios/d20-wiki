@@ -17,7 +17,11 @@ summary: Lyrus destroyed the Ralzamon-possessed Ganyu Sinmal, John talked Circe 
 tags:
 - episode
 youtube: https://youtu.be/PVwtTWKQKz4
+video_id: PVwtTWKQKz4
+video_upload: '2022-09-05'
+video_duration: 9944
 canon_order: 42
+description: The third chapter of the Coriander Society crossover dropped Lyrus, Asena and John Carmichael into a three-way mess in the Hanging City of Prexmarin.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/PVwtTWKQKz4" title="Watch Coriander Society - Fate of The Faithful Part 3 — A Crossover on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

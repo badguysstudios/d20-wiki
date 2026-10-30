@@ -15,7 +15,11 @@ summary: Team B's Richard Knottley and Richard S. Skelman fought to decide who w
 tags:
 - episode
 youtube: https://youtu.be/3r-hPs8ycOI
+video_id: 3r-hPs8ycOI
+video_upload: '2024-04-05'
+video_duration: 7105
 canon_order: 121
+description: Two dicks, one team, and nobody in charge. In the second part of Tip to Tip, Richard Knottley and Richard S.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/3r-hPs8ycOI" title="Watch S6E5, Tip to Tip - Part 2 (Richard Knottley v Richard S. Skelman, the leadership Deathmatch) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

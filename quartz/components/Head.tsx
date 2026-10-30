@@ -13,8 +13,11 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const fm = (fileData.frontmatter ?? {}) as Record<string, any>
+    // seoTitle (frontmatter) replaces the whole <title> for search results; otherwise title + suffix
+    const title = fm.seoTitle
+      ? String(fm.seoTitle)
+      : (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -33,6 +36,66 @@ export default (() => {
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    // Structured data (schema.org JSON-LD) so Google understands the show, the site and each episode video
+    const siteRoot = url.toString().replace(/\/$/, "") + "/"
+    const series = {
+      "@type": "TVSeries",
+      "@id": siteRoot + "#series",
+      name: "D20 Deathmatch",
+      description:
+        "D20 Deathmatch is a cult classic Dungeons & Dragons actual play series where champions fight to the death in the Grandmaster's arena. D&D PvP battles, live on Twitch.",
+      genre: ["Actual play", "Dungeons & Dragons", "Tabletop role-playing game", "Comedy"],
+      url: siteRoot + "what-is-d20-deathmatch",
+      productionCompany: { "@type": "Organization", name: "Bad Guys Studios", url: "https://ko-fi.com/badguysstudios" },
+      sameAs: [
+        "https://twitch.tv/D20Deathmatch",
+        "https://www.youtube.com/@D20Deathmatch",
+        "https://d20deathmatch.com",
+        "https://www.patreon.com/c/D20Deathmatch",
+        "https://www.tiktok.com/@d20deathmatch",
+        "https://www.instagram.com/d20deathmatch",
+        "https://bsky.app/profile/d20deathmatch.com",
+        "https://x.com/D20Deathmatch",
+        "https://www.facebook.com/D20Deathmatch",
+      ],
+    }
+    const graph: Record<string, any>[] = []
+    if (fileData.slug === "index") {
+      graph.push(
+        {
+          "@type": "WebSite",
+          "@id": siteRoot + "#website",
+          name: "The Black Tome: D20 Deathmatch Wiki",
+          url: siteRoot,
+          description,
+          about: { "@id": siteRoot + "#series" },
+        },
+        series,
+      )
+    } else if (String(fileData.slug ?? "").toLowerCase() === "what-is-d20-deathmatch") {
+      graph.push(series)
+    }
+    if (fm.video_id && fm.video_upload) {
+      const secs = Number(fm.video_duration ?? 0)
+      const dur = secs
+        ? `PT${Math.floor(secs / 3600)}H${Math.floor((secs % 3600) / 60)}M${secs % 60}S`
+        : undefined
+      graph.push({
+        "@type": "VideoObject",
+        name: `${fileData.frontmatter?.title ?? ""} | D20 Deathmatch D&D Actual Play`,
+        description,
+        thumbnailUrl: `https://i.ytimg.com/vi/${fm.video_id}/hqdefault.jpg`,
+        uploadDate: fm.video_upload,
+        ...(dur ? { duration: dur } : {}),
+        embedUrl: `https://www.youtube.com/embed/${fm.video_id}`,
+        contentUrl: `https://www.youtube.com/watch?v=${fm.video_id}`,
+        partOfSeries: { "@type": "TVSeries", name: "D20 Deathmatch", "@id": siteRoot + "#series" },
+      })
+    }
+    const jsonLd = graph.length
+      ? JSON.stringify({ "@context": "https://schema.org", "@graph": graph }).replace(/</g, "\\u003c")
+      : null
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
@@ -91,6 +154,8 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        {cfg.baseUrl && fileData.slug !== "404" && <link rel="canonical" href={fileData.slug === "index" ? siteRoot : socialUrl} />}
+        {jsonLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd }} />}
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}

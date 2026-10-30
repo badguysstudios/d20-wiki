@@ -14,7 +14,11 @@ summary: Robot chef Chef GPT and high-school druid Jenny Gray fought across a la
 tags:
 - episode
 youtube: https://youtu.be/tzTI01FF3WM
+video_id: tzTI01FF3WM
+video_upload: '2023-05-29'
+video_duration: 4155
 canon_order: 63
+description: The Dread Fortress came to Full Sail for a live Deathmatch between Chef GPT, an artificer robot who "serves murder" (played by KidCalrissian), and Jenny…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tzTI01FF3WM" title="Watch LIVE at Full Sail Hall of Fame 2023 — Jenny Gray v Chef GPT on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

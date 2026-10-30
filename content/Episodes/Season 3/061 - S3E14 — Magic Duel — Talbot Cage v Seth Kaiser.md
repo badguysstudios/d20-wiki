@@ -15,7 +15,11 @@ summary: On Halloween, a wild-magic caster pulled from his coffee faced a card-p
 tags:
 - episode
 youtube: https://youtu.be/fU8cs88zRJw
+video_id: fU8cs88zRJw
+video_upload: '2022-11-03'
+video_duration: 6858
 canon_order: 61
+description: On Halloween night, two very different spellcasters were dragged into a haunted maze to fight for the amusement of The Acolytes.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/fU8cs88zRJw" title="Watch S3E14 — Magic Duel — Talbot Cage v Seth Kaiser on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

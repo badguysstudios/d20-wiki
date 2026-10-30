@@ -15,7 +15,11 @@ summary: Pacifist halfling Sprinkles unleashed his dark passenger Melchizedek ag
 tags:
 - episode
 youtube: https://youtu.be/ldt8ZSVPtDA
+video_id: ldt8ZSVPtDA
+video_upload: '2023-04-26'
+video_duration: 7216
 canon_order: 91
+description: A gentle halfling waiter who wanted to win with the power of friendship faced a changeling method actor who wanted to win an Oscar.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ldt8ZSVPtDA" title="Watch S4E11 — Beatdown — Sprinkles v Nigel on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

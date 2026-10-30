@@ -15,7 +15,11 @@ summary: Bargo, a proud graduate of fighting school, beat the glittering gem dra
 tags:
 - episode
 youtube: https://youtu.be/-ouOCDcSlQA
+video_id: -ouOCDcSlQA
+video_upload: '2022-02-16'
+video_duration: 5814
 canon_order: 30
+description: Bargo, a cape-wearing brawler who talks about himself in the third person, faced Carnelian, a glitter-sweating gem dragonborn warlock, in the ruins of a…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/-ouOCDcSlQA" title="Watch S2E7 - Hand to Hand Combat, Bargo v Carn on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

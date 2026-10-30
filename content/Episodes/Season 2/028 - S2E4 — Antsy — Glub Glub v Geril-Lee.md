@@ -15,7 +15,11 @@ summary: Geril-Lee, a timid little fighter with a nasty streak, beat the hobgobl
 tags:
 - episode
 youtube: https://youtu.be/bkiAqjP4Weo
+video_id: bkiAqjP4Weo
+video_upload: '2022-01-26'
+video_duration: 7366
 canon_order: 28
+description: Glub Glub, self-proclaimed smartest hobgoblin of his tribe, faced Geril-Lee, a small and apparently terrified fighter, in the old hunting grounds of the…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/bkiAqjP4Weo" title="Watch S2E4 — Antsy — Glub Glub v Geril-Lee on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

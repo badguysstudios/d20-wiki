@@ -15,7 +15,11 @@ summary: Basil Herringbone, a rabbit-man monk, traded his own leg to the Box of 
 tags:
 - episode
 youtube: https://youtu.be/7r5FXMGBUMo
+video_id: 7r5FXMGBUMo
+video_upload: '2022-10-26'
+video_duration: 6308
 canon_order: 60
+description: Blood Puppets pitted Basil Herringbone, a self-described "rabbit boy man" in a transitional period, against Befferfoot, a half-orc who had come to kill, to…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/7r5FXMGBUMo" title="Watch S3E12 — Blood Puppets — Basil Herringbone v Befferfoot on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

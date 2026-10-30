@@ -17,7 +17,11 @@ summary: With the Grandmaster and the Arbiter away, Knight Commander Stolas send
 tags:
 - episode
 youtube: https://youtu.be/G2Gln_aH8n8
+video_id: G2Gln_aH8n8
+video_upload: '2024-06-12'
+video_duration: 9802
 canon_order: 124
+description: With the Grandmaster and the Arbiter called away, three Knights of the Void were sent from the Dread Fortress to chase a rumor of an old enemy stirring at…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/G2Gln_aH8n8" title="Watch Pieces of a King Ep 1 — DӒMMERUNG on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

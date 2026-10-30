@@ -15,7 +15,11 @@ summary: Stage magician Mageic outlasted the fire genasi Amren Scorsia in the Gr
 tags:
 - episode
 youtube: https://youtu.be/Xp2sSpXWTLM
+video_id: Xp2sSpXWTLM
+video_upload: '2021-09-21'
+video_duration: 7783
 canon_order: 11
+description: 'Red versus blue: a muscle-bound stage magician who thought he''d been booked for a show in Neverwinter, against a proud fire genasi who hated being called his…'
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Xp2sSpXWTLM" title="Watch Magic — S1 Ep2 — Mageic v Amren on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

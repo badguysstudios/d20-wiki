@@ -19,7 +19,11 @@ summary: 'Two teams raced through a hand-crafted gauntlet of tavern games, knife
 tags:
 - episode
 youtube: https://youtu.be/tqQP-YlaRk4
+video_id: tqQP-YlaRk4
+video_upload: '2022-09-14'
+video_duration: 9618
 canon_order: 57
+description: For her second gauntlet, the Grandmaster did not simply open an arena. She built one by hand, out of felt, glue and glitter, in the basement of The Dread…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/tqQP-YlaRk4" title="Watch S3E8, The Gauntlet 2 - Floyd of the Pink & Luci v Hurdey & Gurdi on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

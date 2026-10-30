@@ -17,7 +17,11 @@ summary: The Grandmaster sends Atlas, Copycat and Robbie Clark & The Hunger as T
 tags:
 - episode
 youtube: https://youtu.be/Xoj66_J3b-k
+video_id: Xoj66_J3b-k
+video_upload: '2024-03-13'
+video_duration: 7245
 canon_order: 118
+description: There was no Deathmatch this week, only a "suicide mission of sorts." The Grandmaster sent three new recruits, the robot Atlas, the shapeshifter Copycat and…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Xoj66_J3b-k" title="Watch S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

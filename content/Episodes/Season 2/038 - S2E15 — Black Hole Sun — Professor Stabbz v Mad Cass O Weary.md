@@ -15,7 +15,11 @@ summary: A timid goblin professor of stabbing faces a furiously drunk tiefling m
 tags:
 - episode
 youtube: https://youtu.be/-hnnNmRhOFQ
+video_id: -hnnNmRhOFQ
+video_upload: '2022-04-20'
+video_duration: 6643
 canon_order: 38
+description: A cowardly goblin academic seeking tenure met a glass-eating, mouthwash-chugging, permanently furious tiefling monk on the rooftops of a quaint little town.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/-hnnNmRhOFQ" title="Watch S2E15 — Black Hole Sun — Professor Stabbz v Mad Cass O Weary on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

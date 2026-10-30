@@ -15,7 +15,11 @@ summary: With no champions packed for the trip, the Grandmaster drafted two Acol
 tags:
 - episode
 youtube: https://youtu.be/DTBTe_JXO7Y
+video_id: DTBTe_JXO7Y
+video_upload: '2022-06-13'
+video_duration: 5185
 canon_order: 49
+description: When the Arbiter arrived at GCX Orlando without any champions, the Grandmaster pulled two volunteers out of the crowd.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/DTBTe_JXO7Y" title="Watch Live - GCX Orlando 2022 — Lord Snacc v The Showman on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

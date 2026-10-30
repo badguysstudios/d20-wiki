@@ -15,7 +15,11 @@ summary: Old enemies Asena and Ralzamon brawled through the Dread Fortress kitch
 tags:
 - episode
 youtube: https://youtu.be/ZlPfc2CNJ94
+video_id: ZlPfc2CNJ94
+video_upload: '2022-01-12'
+video_duration: 5630
 canon_order: 26
+description: Season 2 of the Deathmatches opened with a grudge match. Asena, a dragon-blooded brawler from the dimension of Northport, faced Ralzamon, a long-dead psychic…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/ZlPfc2CNJ94" title="Watch S2E2 — Prize Fight — Asena v Ralzamon on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

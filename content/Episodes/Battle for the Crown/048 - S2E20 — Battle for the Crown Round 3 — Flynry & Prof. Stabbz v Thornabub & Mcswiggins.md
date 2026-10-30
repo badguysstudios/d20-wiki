@@ -19,7 +19,11 @@ summary: Thornabub cheated death with a secret ward, bullied the Box of Chaos in
 tags:
 - episode
 youtube: https://youtu.be/Hbh8mIVUDZ0
+video_id: Hbh8mIVUDZ0
+video_upload: '2022-05-25'
+video_duration: 9144
 canon_order: 48
+description: The final round of the Battle for the Crown sent Flynry and Prof. Stabbz, fighting for the Grandmaster, into an ancient jungle temple against the Arbiter's…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/Hbh8mIVUDZ0" title="Watch S2E20 — Battle for the Crown Round 3 — Flynry & Prof. Stabbz v Thornabub & Mcswiggins on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -17,7 +17,11 @@ summary: Branded traitors and ordered to fight to the death, Toddleheim, Locket 
 tags:
 - episode
 youtube: https://youtu.be/H5cix5wMKEY
+video_id: H5cix5wMKEY
+video_upload: '2022-02-09'
+video_duration: 13510
 canon_order: 25
+description: Three former teammates, Toddleheim, Locket and Flynry, were thrown onto the sands of the arena and ordered to kill each other.
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/H5cix5wMKEY" title="Watch S2E6 — FoTA - Sands of the Arena (Fate of the Arbiter, Part 2) on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

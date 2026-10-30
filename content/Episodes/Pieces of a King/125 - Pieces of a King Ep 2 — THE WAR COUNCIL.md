@@ -17,7 +17,11 @@ summary: No fight this time. Grimnar, Nehebka and Muffy reach the Rust Blood All
 tags:
 - episode
 youtube: https://youtu.be/piKlapzHXRs
+video_id: piKlapzHXRs
+video_upload: '2024-06-19'
+video_duration: 11513
 canon_order: 125
+description: Fresh from the warforged slaughter in The Blastlands, the Void Knights Grimnar, Nehebka and Muffy are escorted into the war camp of the Rust Blood Alliance…
 ---
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/piKlapzHXRs" title="Watch Pieces of a King Ep 2 — THE WAR COUNCIL on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
