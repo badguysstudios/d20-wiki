@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- first-appearance -->
-*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]*
+*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]] · [watch it on YouTube](https://youtu.be/ev_lmXkTZZo)*
 
 **Jameson** ("like the liquor") is a squirrel from [[Bezil]]'s neighborhood. He wears a cowboy hat and a big cowboy mustache as bushy as his tail, chews a silver toothpick, rolls his own cigarettes and carries two revolvers. He has an ex-wife. He hates Bezil for what Bezil did to his begonias.
 

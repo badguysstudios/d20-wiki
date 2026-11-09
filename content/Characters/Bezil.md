@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- first-appearance -->
-*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]*
+*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]] · [watch it on YouTube](https://youtu.be/ev_lmXkTZZo)*
 
 **Bezil** is a tressym: a winged cat no bigger than a house cat, about a foot tall sitting up, with copper fur, iridescent golden eyes, ear tufts tinged the green of oxidized copper, and huge leathery bat wings. He is descended from a copper dragon. Asked how many greats back, the answer was "at least 12." He insists he is tall for a tressym and is not an animal. He is a sorcerer, aloof and proud, and very good at getting scritches.
 

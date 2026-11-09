@@ -15,9 +15,14 @@ arena: The Ether Drifts, the worms' home, under a giant purple planet
 summary: In the first Deathmatch held at the Ether Drifts under the worms' new agreement, a half-orc barbarian who wanted to open a bakery fought a one-foot-tall winged cat who wanted a kraken. He meowed his way out of her best hits and killed her with a flaming hairball. Thea duct-taped her back together, a cowboy squirrel joined her side, and she hugged him to death.
 tags:
 - episode
+youtube: https://youtu.be/ev_lmXkTZZo
 canon_order: 139
 description: The worms had been promised a show. Under the deal that ended Thea's revenge, the first Deathmatch of the new era had to be held at the Ether Drifts, in…
 ---
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/ev_lmXkTZZo" title="Watch S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil on YouTube" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+[Watch on YouTube](https://youtu.be/ev_lmXkTZZo)
 
 The worms had been promised a show. Under the deal that ended Thea's revenge, the first Deathmatch of the new era had to be held at the [[The Ether Drifts|Ether Drifts]], in front of the worm delegation, and [[Thea]] had found both champions herself. One was **[[Zhora Bloodfang]]**, a six-and-a-half-foot half-orc barbarian who wanted to retire and run her dad's bakery. The other was **[[Bezil]]**, a tressym the size of a house cat who had come for a kraken. The Arbiter called him a house pet, and the Grandmaster took responsibility for him anyway. Over eight rounds Bezil set Zhora's mohawk on fire, clawed her butt, killed her with a flaming hairball and slashed a scar down her face. She came back held together with rainbow duct tape, gained a cowboy squirrel as an ally, and squeezed him until he stopped moving.
 

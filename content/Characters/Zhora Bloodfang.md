@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- first-appearance -->
-*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]*
+*First appearance: [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]] · [watch it on YouTube](https://youtu.be/ev_lmXkTZZo)*
 
 **Zhora Bloodfang** is a half-orc barbarian, about six and a half feet tall, with thick locks pulled up into a ponytail, a mohawk, tusks and heavy tattoos. She comes from an island, eats a lot of fish, and can talk to animals. She is estranged from her family. Her father is human, and she says nobody expected him to land a lady like her mom. She came to the arena ready to party and found herself facing the most adorable opponent in the show's history. She lost to him once, came back, and won anyway.
 
