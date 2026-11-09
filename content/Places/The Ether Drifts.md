@@ -48,13 +48,17 @@ The worms fared worse than usual. Agatha was spiked into the crater that holds t
 ### The Hollow's revenge
 The worms got their turn in [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]]. Their home, the Hollow, is governed by a council that meets in a dark chamber under a single harsh light, with Old Todd among its members. It turned out the council had long ago sent a worm to kill the Arbiter: [[Thea]]. When she seemed to have switched sides, they built mech suits, and Thea's brother [[Theo]] volunteered to go and find her. Worms have no bones, and everyone in the Hollow is fascinated by the breaking of them. They also eat the dead. The revenge ended in a deal. The Arbiter admitted the Fortress had destroyed their cities and "that big door," and had ground their sacred crystal into salt and eaten it. He handed over [[Strako]], gave the worms front-row seats at every Deathmatch, agreed to pay royalties back to the Ether Drifts, and made Thea his ambassador to the worms. Old Todd thanked Thea for her service, but once she and Theo had left, he called them "handed traitors" and opened [[Timothy|Mayor Timothy]]'s plan to step 20: "Call Fil."
 
+### The first Deathmatch of the new era
+The deal made the Drifts a Deathmatch venue again. Under it, the first Deathmatch of the new era had to be held there, and [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11]] was it: [[Zhora Bloodfang]] against [[Bezil]], with the worm council and the delegation of worms, Old Todd among them, as sponsors and front-row guests. The Grandmaster raised the Acolytes over shifting sands, the giant purple planet and a setting sun. Thea, whose home it is, wanted the champions to see the Drifts before the Dread Fortress so they wouldn't think it less cool. The arena brought a chaotic event of its own, the dehydration bug, which drained the moisture out of everyone fighting. The worm delegation writhed with excitement when Bezil clawed Zhora's butt. Zhora won, after being killed once and duct-taped back together.
+
 ## Notable Figures
 
 - [[Timothy|Mayor Timothy]]: the worm mayor of Wormtown, killed by Strako.
 - [[Strako]]: the champion who killed Wormtown's mayor, handed over to the worms' revenge in S7E10.
 - [[Thea]]: a worm of the Hollow, now the Dread Fortress's ambassador to the worms.
 - [[Theo]]: Thea's brother, sent by the council to bring her home.
-- Old Todd: a member of the Hollow's council.
+- Old Todd: a member of the Hollow's council, who watched S7E11 from the front row.
+- [[Zhora Bloodfang]] and [[Bezil]]: fought the first Deathmatch of the new era here; Zhora won.
 - [[The Arbiter]]: sent Team A to the Drifts on the mining mission and opened the portal for their Deathmatch.
 - [[Atlas]], [[Robbie Clark and the Hunger]] and [[Copycat]]: fought the Ether Drifts Part 2 Deathmatch here.
 - [[Jinx]]: fought [[Akumu]] on the orange asteroid; the worms dragged Jinx's body underground.
@@ -63,3 +67,4 @@ The worms got their turn in [[Episodes/Season 7/138 - S7E10 — Thea's Adventure
 ## Appearances
 - [[Episodes/Season 6/118 - S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission)|S6 Ep2 · Ether Drifts Part 1 · TTRPG One Shot (Team A mine mission)]]
 - [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]]
+- [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]

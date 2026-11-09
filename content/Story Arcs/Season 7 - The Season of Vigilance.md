@@ -1,7 +1,7 @@
 ---
 title: Season 7 - The Season of Vigilance
 type: arc
-episode_count: 9
+episode_count: 11
 champions_of_note:
 - Andy Gammage
 - Bog Boy
@@ -13,18 +13,21 @@ champions_of_note:
 - Lug Hardblock
 - Livid Lady Lin
 - Squiggles
-summary: Season 7, the Season of Vigilance, brought the Deathmatches back to the Void with nine standalone fights, from a gazpacho-slinging wrestler to a gnome pool caretaker who reflected an army of ghosts back onto a necromancer. Behind the bloodshed, Thea struggled through her new job of finding champions, the chinchillas unionized harder than ever, and the Dread Fortress itself spoke for the first time.
+- Theo
+- Zhora Bloodfang
+- Bezil
+summary: 'Season 7, the Season of Vigilance, brought the Deathmatches back to the Void with standalone fights, from a gazpacho-slinging wrestler to a gnome pool caretaker who reflected an army of ghosts back onto a necromancer. Behind the bloodshed, Thea struggled through her new job of finding champions, the chinchillas unionized harder than ever, and the Dread Fortress itself spoke for the first time. Then Thea''s own story broke open: she was a worm of the Hollow sent to kill the Arbiter, and her revenge ended in a deal that sent the Deathmatches to the worms'' home.'
 tags:
 - arc
 ---
 
-**Season 7**, officially **the Season of Vigilance**, was the Grandmaster's answer to a Void where, in her words, "things are changing" and "danger is edging along." Its nine Deathmatches were standalone fights, each stranger than the last: soup champions, catfish wives, cheese-hunting rats, wrestlers who refused to break character and a wizard's tower worth killing for. Running through all of it was a new arrangement at the Dread Fortress. The Arbiter declared himself "upper management" and handed the job of finding champions to Thea, his little pink imp, with predictably chaotic results. Along the way the season produced a resurrected chinchilla god, a co-championship between a grandmother and the grandson who killed her, and the first time the Dread Fortress's own skull ever spoke.
+**Season 7**, officially **the Season of Vigilance**, was the Grandmaster's answer to a Void where, in her words, "things are changing" and "danger is edging along." Its Deathmatches were standalone fights, each stranger than the last: soup champions, catfish wives, cheese-hunting rats, wrestlers who refused to break character and a wizard's tower worth killing for. Running through all of it was a new arrangement at the Dread Fortress. The Arbiter declared himself "upper management" and handed the job of finding champions to Thea, his little pink imp, with predictably chaotic results. Along the way the season produced a resurrected chinchilla god, a co-championship between a grandmother and the grandson who killed her, and the first time the Dread Fortress's own skull ever spoke.
 
 ## Background
 
 By the start of the season, [[The Arbiter]] had taken on [[Thea]], the worm he had plucked from the soil and turned into an imp, as his assistant. In the first episode he announced that he had "delegated" the task of gathering champions to her, despite the fact that she cannot read or write. He also reminded [[Grandmaster Elusia Skypiercer|the Grandmaster]] that he had "kind of saved your life": in the days of [[The Shadow King]], the Arbiter died stepping in front of the Shadow King's attack on [[Doug the Pug|Doug]], then came back. The Grandmaster was not impressed. "There's no Grandmaster and Arbiter," she told him. "There's the Grandmaster and then the Arbiter."
 
-The season's name and the Grandmaster's warning about coming danger quietly point toward [[Fil]], the God of Fate, whose threat the Arbiter had already described to her. Within these nine episodes, though, the danger stayed in the background, and the blood stayed front and center.
+The season's name and the Grandmaster's warning about coming danger quietly point toward [[Fil]], the God of Fate, whose threat the Arbiter had already described to her. Through the first nine episodes, though, the danger stayed in the background, and the blood stayed front and center.
 
 ## The Story
 
@@ -82,6 +85,14 @@ The season closed with [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Sq
 
 Ray's final gambit called 58 vengeful spirits from the graves. Squiggles' ring sent all 58 back at the necromancer, and when the cloud cleared only half of Ray's jack-o'-lantern locket remained. The Grandmaster buried it a few inches down and crowned Squiggles as a grand champion "who shows that even the most unexpected winners can pull through. If he can do it, so can you."
 
+### S7E10 — Thea's Revenge
+
+[[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]] was a one-shot. On her one day off a year, Thea went to the candy land of [[Sugar Hills]], ran over a badly built robot walking backwards and found her little brother [[Theo]] inside it. She revealed she was a worm of the Hollow, sent to kill the Arbiter under a blood oath, and that [[Fil]] had helped her get picked. The siblings' attempt ended with Sugar Hills vaporized, time rewound, [[Strako]] handed over to the worms, and a deal: front-row seats and royalties for the worms, and Thea named ambassador to the worms in a pope hat. Back home, Old Todd called the siblings traitors and opened Mayor Timothy's plan to step 20: "Call Fil."
+
+### S7E11 — The Cat's Meow
+
+Under the deal, the first Deathmatch of the new era was held at [[The Ether Drifts]] before the worm delegation, in [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]. Thea found both champions: [[Zhora Bloodfang]], a half-orc barbarian who wanted to run her dad's bakery, and [[Bezil]], a foot-tall winged cat with copper-dragon blood who wanted a kraken. Bezil turned two of her hits aside with a meow, clawed her butt and killed her with a flaming hairball. Thea duct-taped her back together, the Grandmaster offered Bezil four krakens to do it again, and a cowboy squirrel named [[Jameson]] joined Zhora's side. Scarred and down to one hit point, Zhora hugged Bezil to death and won twelve bakeries.
+
 ### Running Threads
 
 **Thea's promotion.** The season's biggest throughline was Thea's job as champion-finder. The Grandmaster called her "a potato of a brain," and Thea pointed out that "if you just let people think you're stupid, you don't have to be in charge of anything." Over nine episodes she ate a champion's contract and pooped it back out, made an unauthorized commercial, served as a wrestler's human shield and spent an episode stuck as a T-Rex. She also vacuumed up two dead wizards to piece them back together as "my greatest puzzle." Along the way the Acolytes learned that her blood is teal and changes with her diet.
@@ -114,3 +125,5 @@ The Season of Vigilance ended with a gnome in drying pool floaties carried into 
 - [[Episodes/Season 7/135 - S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock|S7E7 — A Father's Son — Agatha Middlebrooke v Lug Hardblock]]
 - [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]
 - [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
+- [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]]
+- [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]

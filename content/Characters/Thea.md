@@ -68,6 +68,9 @@ She and Theo tried to kill him at a candy castle. She throws her guns instead of
 
 In the Dried Blood epilogue Thea reported to the worms' council in her hot-blue pope hat, carrying Theo's ghost in a crystal orb. She promised the worms the arena's dead bodies to eat, and gave out her email for letters: TheaIsGreat.
 
+### Ambassador to the Worms
+Under the deal, the first Deathmatch of the new era had to be held at [[The Ether Drifts]], her home, in front of the worm delegation, and Thea found both champions herself: the half-orc barbarian [[Zhora Bloodfang]] and [[Bezil]], a foot-tall winged cat. In [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11]] she prepared her home for guests and assembled a gift basket of gummy worms and bloody fingers from the last champions. There were only about five fingers left, because somebody had been eating them, and when asked if it was her, she would neither confirm nor deny. She insisted on going straight to the Drifts, so the champions wouldn't see the Dread Fortress first and think her home less cool. When the Arbiter called Bezil a house pet, she pointed out that house pets can't talk. When both champions opened with natural 1s, she warned them, "Don't fucking embarrass me and roll another nat one or I'll come out there and kill you myself." When the Arbiter threatened her pope hat, she reminded him she earned it "with my own efforts and a little bit of a sewing machine." After Bezil killed Zhora with a flaming hairball, Thea rolled in on rolls of duct tape and put her back together, checking which butt cheek went where and whether she wanted her head facing forwards. She then left to get toast. She later brought out a platter of tiny hats for Zhora to dress Bezil in, and had two giant tanks of krakens ready for the winner she expected, which she had to roll away.
+
 ## Personality and Abilities
 Thea is pink, about a foot high and potato-shaped, with no neck and unimpressive wings that shed glitter. She has long pointy ears, a ridged spine, an arrow-tipped tail and tiny bony fingers. She is missing a thumb, and she claims at least five eyeballs. She also has hair, which she sheds when stressed. Her blood has been glitter-blue, green with fear (it changes with her mood) and, most recently, teal, changing with whatever she has been eating. Her jaw can open wide enough to swallow something her own size, and her diet runs to hot dogs, Gushers, doughnuts, goldfish crackers, glow sticks and the occasional ankle. She is lactose intolerant, and has been told: "Don't feed the Thea."
 
@@ -96,6 +99,7 @@ Her main talent is portals: pink, glittery and summoned by claps, pixie dust or 
 - "Triple pay for everyone!" ([[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9]])
 - "No one said your room couldn't be a bathroom." ([[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10]])
 - "You thought you were a puppet master. But no, we are the worms inside your body puppeting you." ([[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10]])
+- "Don't fucking embarrass me and roll another nat one or I'll come out there and kill you myself." ([[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11]])
 
 ## Appearances
 - [[Episodes/Season 5/099 - S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman|S5E1 — Rise of the Lord of Fate — Atlas v Killy Yesman]]
@@ -132,3 +136,4 @@ Her main talent is portals: pink, glittery and summoned by claps, pixie dust or 
 - [[Episodes/Season 7/136 - S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae|S7E8 — Private Bathrooms — Livid Lady Lin v Gandor Thalion Umbrae]]
 - [[Episodes/Season 7/137 - S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead|S7E9 — Necro-Nightmare — Squiggles v Ray S'urdead]]
 - [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]]
+- [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]

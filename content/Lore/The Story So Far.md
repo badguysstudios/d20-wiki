@@ -92,6 +92,9 @@ The siblings' attempt on his life ended with Theo's self-destruct vaporizing the
 
 > **Step 20: Call Fil.**
 
+### The Cat's Meow
+The deal put the Deathmatches back on the worms' doorstep. The first fight of the new era, [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow]], was held at the Ether Drifts with the worm delegation, Old Todd included, in the front row. Thea's two finds were a half-orc barbarian, [[Zhora Bloodfang]], and a foot-tall winged cat, [[Bezil]]. Bezil killed Zhora with a flaming hairball, Thea duct-taped her back together, and Zhora hugged him to death.
+
 ## Threads Still Open
 - **Fil is coming to collect.** The god who gave Vythorn the Cataclysm has promised to return. She also has a handshake owed by Thea, and the worms of the Hollow are about to call her themselves.
 - **The pieces of the Shadow King.** Agdrel's soul escaped in Vythorn's Return and broke apart across the Void. Payne's order holds at least five pieces. One finger bone is hidden inside Nehebka, who is on her way to Umbracor with Grimnar and Muffy.
