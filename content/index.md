@@ -56,6 +56,8 @@ Join the chaos. D20 Deathmatch is on every platform:
 <li><a href="https://bsky.app/profile/d20deathmatch.com">Bluesky</a></li>
 <li><a href="https://x.com/D20Deathmatch">X (Twitter)</a></li>
 <li><a href="https://www.facebook.com/D20Deathmatch">Facebook</a></li>
+<li><a href="https://discord.gg/badguys">Discord</a></li>
+<li><a href="https://www.patreon.com/c/D20Deathmatch">Patreon</a></li>
 </ul>
 
 ---

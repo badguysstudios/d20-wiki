@@ -56,6 +56,8 @@ export default (() => {
         "https://www.tiktok.com/@d20deathmatch",
         "https://www.instagram.com/d20deathmatch",
         "https://bsky.app/profile/d20deathmatch.com",
+        "https://discord.gg/badguys",
+        "https://www.patreon.com/c/D20Deathmatch",
         "https://x.com/D20Deathmatch",
         "https://www.facebook.com/D20Deathmatch",
       ],
