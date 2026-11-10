@@ -1,6 +1,6 @@
 # D20 Deathmatch Wiki
 
-Fan wiki for **D20 Deathmatch** (Bad Guys Studios). Live site: https://badguysstudios.github.io/d20-wiki
+Fan wiki for **D20 Deathmatch** (Bad Guys Studios). Live site: https://blacktome.d20deathmatch.com/
 
 ## Editing
 - Every page is a Markdown file in `content/`. Link pages with `[[Page Name]]`.

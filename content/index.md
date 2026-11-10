@@ -13,7 +13,7 @@ Welcome, Acolyte. You have opened **the Black Tome**, the record of everything t
 ## Watch live, 24/7
 Reruns of every D20 Deathmatch, all day, every day. Come say hi in chat.
 
-<div class="video-embed live"><iframe src="https://player.twitch.tv/?channel=d20deathmatch&parent=badguysstudios.github.io&muted=true&autoplay=true" title="D20 Deathmatch live on Twitch" allowfullscreen></iframe></div>
+<div class="video-embed live"><iframe src="https://player.twitch.tv/?channel=d20deathmatch&parent=blacktome.d20deathmatch.com&parent=badguysstudios.github.io&muted=true&autoplay=true" title="D20 Deathmatch live on Twitch" allowfullscreen></iframe></div>
 
 <small>Starts muted. Click the player for sound, or open it on [Twitch](https://twitch.tv/D20Deathmatch) to chat.</small>
 
