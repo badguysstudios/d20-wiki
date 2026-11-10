@@ -42,6 +42,8 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Add Search Console verification files
+        run: cp content/google*.html public/ || true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
