@@ -155,7 +155,7 @@ Bezil's final words for the Acolytes: "meow." Zhora's: stay hydrated, love on yo
 - **[[Characters/Jameson|Jameson]]** (new NPC, voiced by Mudcat): a squirrel from Bezil's neighborhood; silver toothpick, cowboy hat, two revolvers, big cowboy mustache, rolls his own cigarettes; speaks the common tongue; has an ex-wife; hates Bezil over his begonias. Allied with Zhora mid-fight and shot down Bezil's draconic spirit.
 - **The old copper dragon** (unnamed): Bezil's ancestor, seen in the parted clouds.
 - **[[Characters/Thea|Thea]]**: found both champions; hosts at her home; gift basket; pope hat she sewed; duct-taped Zhora; tiny hats; kraken tanks.
-- **[[Characters/The Arbiter|The Arbiter, the Grandmaster]]**, **Doug** (a dog; the Arbiter is not a dog person), **Stuart** (round cards), **Old Todd** and the worm delegation (front row), **Claude** (Thea Teaches), **Commodore Scrib** and **Gator** (slushies).
+- **[[Characters/The Arbiter|The Arbiter, the Grandmaster]]**, **[[Doug the Pug]]** (the Arbiter is not a dog person), **Stuart** (round cards), **Old Todd** and the worm delegation (front row), **Claude** (Thea Teaches), **Commodore Scrib** and **Gator** (slushies).
 - **[[Baptiste]]**, in the crowd: "That's right, stab her."
 
 ### Places
