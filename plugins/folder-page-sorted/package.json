@@ -1,0 +1,28 @@
+{
+  "name": "folder-page-sorted",
+  "version": "1.0.0",
+  "description": "Folder pages for the Black Tome, with episodes listed in show order (canon_order)",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": { "import": "./dist/index.js" },
+    "./components": { "import": "./dist/components.js" },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "folder-page-sorted",
+    "displayName": "Folder Page (show order)",
+    "category": ["pageType", "component"],
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": { "showFolderCount": true, "showSubfolders": true },
+    "optionSchema": {
+      "showFolderCount": { "type": "boolean" },
+      "showSubfolders": { "type": "boolean" }
+    }
+  }
+}

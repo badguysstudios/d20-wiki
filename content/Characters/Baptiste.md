@@ -55,6 +55,10 @@ When Locket was teased that "a man named Baptiste" was in the area, she insisted
 ### Sugar Hills
 In [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure]], Baptiste was selling knives in [[Sugar Hills]]: very tall, very slender, very good-looking, in fine leathers, his belt covered in knives, with a stall of candy canes sucked down into shivs. He read [[Thea]]'s list for her and announced the next item was forty sharpened candy canes, exactly the number he had. Since she couldn't open the trunk of her stolen car, he broke into it with a knife and loaded them himself. "If you need any more knives, you tell your friends that Baptiste sent you." Thea promised she would never remember his name and drove off without paying. When he shouted after her, she closed her ear flaps.
 
+### The Cat's Meow
+
+In [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow]], he was in the arena crowd. When [[Bezil]] clawed into [[Zhora Bloodfang]]'s butt cheek, Baptiste stood up and yelled, "That's right, stab her."
+
 ## Personality and Abilities
 
 Baptiste is a slender elf with silvery-white hair, usually wrapped in a blue cloak that he swishes with far more drama than any situation calls for. Dozens of daggers hang from his belt and hide under his coat, and he never seems to run out of them. He throws them over his shoulder without looking, flips them idly in both hands, and practices every evening until he tires out around nine or half past. He treats stabbing as an art of feeling more than technique, and every conversation about knives soon turns into something else. His signature opener is asking people whether he has ever stabbed them, which may be a real question or a strange pickup line.
@@ -88,3 +92,4 @@ He flirts freely and with everyone, winking at friends and strangers alike. He t
 - [[Episodes/Fate of the Faithful/044 - Coriander Society — Fate of the Faithful Part 5 (A Crossover)|Coriander Society — Fate of the Faithful Part 5 (A Crossover)]]
 - [[Episodes/Into the Mirror/064 - Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…|Into the Mirror, Session 1 (YouTube Parts 1–6 - Flynry Dies, Flynry Wakes, Flynry Walks, Survivors, Reflect…]]
 - [[Episodes/Season 7/138 - S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)|S7E10 — Thea's Adventure (Thea's Revenge, a one-shot)]]
+- [[Episodes/Season 7/139 - S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil|S7E11 — The Cat's Meow — Zhora Bloodfang v Bezil]]
