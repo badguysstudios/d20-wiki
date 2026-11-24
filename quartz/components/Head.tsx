@@ -18,10 +18,24 @@ export default (() => {
     const title = fm.seoTitle
       ? String(fm.seoTitle)
       : (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    // Lore pages (characters, places, items, arcs) have a hand-written `summary`: use it for the
+    // search snippet instead of the auto text, which starts with "First appearance: ...".
+    // Clipped to ~155 chars at a word boundary so Google shows it whole.
+    const clip = (s: string, max = 155) => {
+      const t = s.replace(/\s+/g, " ").trim()
+      if (t.length <= max) return t
+      const cut = t.slice(0, max)
+      return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:\s—-]+$/, "") + "…"
+    }
+    const summary = fm.summary ? clip(String(fm.summary)) : undefined
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
-      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+      summary ??
+      (fileData.description?.trim()
+        ? unescapeHTML(fileData.description.trim())
+        : // folder and tag pages have no text of their own
+          `${fileData.frontmatter?.title ?? "The Black Tome"}: from the Black Tome, the wiki for D20 Deathmatch, the live D&D actual play arena show by Bad Guys Studios.`)
 
     const { css, js, additionalHead } = externalResources
 
